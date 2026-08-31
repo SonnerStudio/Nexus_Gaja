@@ -14,27 +14,27 @@ In a globalized world, language is often the biggest barrier. The main goal of N
 
 It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
 
-## Possibilities and Features
-- **Multimedia Communication**: The system processes not just text, but also image, audio, and video. This allows for fully immersive conversations (e.g., video calls or voice messages) in real-time across language barriers.
-- **Context Sensitivity**: Recognition of irony, idioms, jargon, and regional dialects that are often misunderstood by conventional translators.
-- **Cross-Platform Network**: Serves as a foundation for private chats, forum threads (posts with comments), and global community interactions.
+## Posibilități și caracteristici
+- **Comunicare multimedia**: sistemul procesează nu doar text, ci și imagini, audio și video. Acest lucru permite conversații complet captivante (de exemplu, apeluri video sau mesaje vocale) în timp real, peste barierele lingvistice.
+- **Sensibilitatea contextului**: recunoașterea ironiei, a idiomurilor, a jargonului și a dialectelor regionale care sunt adesea înțelese greșit de traducătorii convenționali.
+- **Rețea multiplatformă**: servește drept bază pentru chat-urile private, firele de discuții pe forum (postări cu comentarii) și interacțiunile comunității globale.
 
 ---
 
-## Technical Architecture (Core Concept)
+## Arhitectură tehnică (Concept de bază)
 
 The technical core of Nexus Gaja is a custom-built communication model that is strictly divided into three layers:
 
-1. **Original**: The communication object (message) created by the sender always remains immutable.
-2. **Semantic Interpretation**: The system analyzes not just the words, but the actual meaning.
-3. **Target Language Representation**: The AI merely creates a temporary or cached representation of the original for the respective recipient based on their preferred language. Translations never overwrite the original message.
+1. **Original**: Obiectul de comunicare (mesajul) creat de expeditor rămâne întotdeauna imuabil.
+2. **Interpretare semantică**: Sistemul analizează nu doar cuvintele, ci și sensul real.
+3. **Reprezentare în limba țintă**: AI creează doar o reprezentare temporară sau în cache a originalului pentru destinatarul respectiv, pe baza limbii preferate. Traducerile nu suprascriu niciodată mesajul original.
 
-### Context Dependency
-Translations in Nexus Gaja never view messages in isolation. The engine considers the entire hierarchy:
-`Message` → `Previous Messages` → `Thread Context` → `Community Context` → `Language / Region` → `User Preferences`
+### Dependența de context
+Traducerile din Nexus Gaja nu vizualizează niciodată mesajele izolat. Motorul ia în considerare întreaga ierarhie:
+`Mesaj` → `Mesaje anterioare` → `Contextul firului` → `Contextul comunității` → `Limbă/Regiune` → `Preferințe utilizator`
 
-### Efficiency through On-Demand Translation
-Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.
+### Eficiență prin traducere la cerere
+Traducerea are loc eficient din punct de vedere al resurselor doar **la cerere** (la cerere). Când un utilizator solicită conținut, acesta este tradus în limba lor prestabilită. Odată ce o traducere pentru o anumită limbă este generată, aceasta este stocată permanent (caching) pentru a accelera drastic solicitările viitoare.
 
 ## Project Status
 The project is currently in the active architecture and planning phase.

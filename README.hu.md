@@ -9,10 +9,10 @@
 
 **Nexus Gaja** is an intelligent, context-sensitive communication network designed to revolutionize global communication.
 
-## Purpose and Vision
-In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
+## Cél és jövőkép
+A globalizált világban gyakran a nyelv jelenti a legnagyobb akadályt. A Nexus Gaja fő célja, hogy zökkenőmentes, akadálymentes és kontextus szerint pontos kommunikációt tegyen lehetővé az emberek között – függetlenül attól, hogy egy közös nyelvet beszélnek-e.
 
-It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
+Nem csak a szavak merev fordításáról van szó, hanem a **jelentés átadásáról**. A Nexus Gaja mélyebb szinten köti össze az embereket azáltal, hogy megérti a kulturális, regionális és kontextuális árnyalatokat, és ezáltal valódi, hiteles beszélgetéseket tesz lehetővé.
 
 ## Possibilities and Features
 - **Multimedia Communication**: The system processes not just text, but also image, audio, and video. This allows for fully immersive conversations (e.g., video calls or voice messages) in real-time across language barriers.
@@ -21,17 +21,17 @@ It's not just about rigidly translating words, but about **transferring meaning*
 
 ---
 
-## Technical Architecture (Core Concept)
+## Műszaki architektúra (alapkoncepció)
 
-The technical core of Nexus Gaja is a custom-built communication model that is strictly divided into three layers:
+A Nexus Gaja műszaki magja egy egyedi tervezésű kommunikációs modell, amely szigorúan három rétegre oszlik:
 
-1. **Original**: The communication object (message) created by the sender always remains immutable.
-2. **Semantic Interpretation**: The system analyzes not just the words, but the actual meaning.
-3. **Target Language Representation**: The AI merely creates a temporary or cached representation of the original for the respective recipient based on their preferred language. Translations never overwrite the original message.
+1. **Eredeti**: A feladó által létrehozott kommunikációs objektum (üzenet) mindig változtathatatlan marad.
+2. **Szemantikai értelmezés**: A rendszer nem csak a szavakat elemzi, hanem a tényleges jelentést is.
+3. **Célnyelvi megjelenítés**: Az AI csupán ideiglenes vagy gyorsítótárazott reprezentációt hoz létre az eredetiről az adott címzett számára a preferált nyelv alapján. A fordítások soha nem írják felül az eredeti üzenetet.
 
-### Context Dependency
-Translations in Nexus Gaja never view messages in isolation. The engine considers the entire hierarchy:
-`Message` → `Previous Messages` → `Thread Context` → `Community Context` → `Language / Region` → `User Preferences`
+### Kontextusfüggőség
+A Nexus Gaja fordításai soha nem tekintik az üzeneteket elszigetelten. A motor figyelembe veszi a teljes hierarchiát:
+"Üzenet" → "Korábbi üzenetek" → "Szálkörnyezet" → "Közösségi kontextus" → "Nyelv/régió" → "Felhasználói beállítások"
 
 ### Efficiency through On-Demand Translation
 Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.

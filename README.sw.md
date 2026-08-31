@@ -7,27 +7,27 @@
 
 </details>
 
-**Nexus Gaja** is an intelligent, context-sensitive communication network designed to revolutionize global communication.
+**Nexus Gaja** ni mtandao wa mawasiliano wenye akili, unaozingatia muktadha ulioundwa kuleta mageuzi katika mawasiliano ya kimataifa.
 
 ## Purpose and Vision
 In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
 
-It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
+Siyo tu kuhusu kutafsiri maneno kwa ukali, lakini kuhusu **kuhamisha maana**. Nexus Gaja huunganisha watu kwa undani zaidi kwa kuelewa nuances za kitamaduni, kimaeneo, na kimuktadha, hivyo basi kuwezesha mazungumzo ya kweli na ya kweli.
 
-## Possibilities and Features
-- **Multimedia Communication**: The system processes not just text, but also image, audio, and video. This allows for fully immersive conversations (e.g., video calls or voice messages) in real-time across language barriers.
-- **Context Sensitivity**: Recognition of irony, idioms, jargon, and regional dialects that are often misunderstood by conventional translators.
-- **Cross-Platform Network**: Serves as a foundation for private chats, forum threads (posts with comments), and global community interactions.
+## Uwezekano na Vipengele
+- **Mawasiliano ya Multimedia**: Mfumo huchakata sio maandishi tu, bali pia picha, sauti na video. Hii inaruhusu mazungumzo ya kina kabisa (k.m., simu za video au ujumbe wa sauti) katika muda halisi katika vizuizi vya lugha.
+- **Usikivu wa Muktadha**: Utambuzi wa kejeli, nahau, jargon, na lahaja za kieneo ambazo mara nyingi hazieleweki vibaya na watafsiri wa kawaida.
+- **Mtandao wa Mfumo Mtambuka**: Hutumika kama msingi wa mazungumzo ya faragha, mazungumzo ya mijadala (machapisho yenye maoni), na mwingiliano wa jumuiya duniani kote.
 
 ---
 
 ## Technical Architecture (Core Concept)
 
-The technical core of Nexus Gaja is a custom-built communication model that is strictly divided into three layers:
+Msingi wa kiufundi wa Nexus Gaja ni modeli ya mawasiliano iliyoundwa maalum ambayo imegawanywa kikamilifu katika tabaka tatu:
 
-1. **Original**: The communication object (message) created by the sender always remains immutable.
-2. **Semantic Interpretation**: The system analyzes not just the words, but the actual meaning.
-3. **Target Language Representation**: The AI merely creates a temporary or cached representation of the original for the respective recipient based on their preferred language. Translations never overwrite the original message.
+1. **Asili**: Kitu cha mawasiliano (ujumbe) kilichoundwa na mtumaji daima hubaki kuwa kisichobadilika.
+2. **Tafsiri ya Semantiki**: Mfumo hauchanganui maneno tu, bali maana halisi.
+3. **Uwakilishi wa Lugha Lengwa**: AI huunda tu uwakilishi wa muda au uliohifadhiwa wa asili kwa mpokeaji husika kulingana na lugha anayopendelea. Tafsiri haziwahi kubatilisha ujumbe asili.
 
 ### Context Dependency
 Translations in Nexus Gaja never view messages in isolation. The engine considers the entire hierarchy:
@@ -36,6 +36,6 @@ Translations in Nexus Gaja never view messages in isolation. The engine consider
 ### Efficiency through On-Demand Translation
 Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.
 
-## Project Status
-The project is currently in the active architecture and planning phase.
-Ongoing architectural decisions are documented in the `/docs` folder.
+##Hali ya Mradi
+Mradi kwa sasa uko katika hatua ya usanifu na upangaji hai.
+Maamuzi yanayoendelea ya usanifu yameandikwa kwenye folda ya `/hati`.

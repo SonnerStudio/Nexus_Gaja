@@ -7,17 +7,17 @@
 
 </details>
 
-**Nexus Gaja** is an intelligent, context-sensitive communication network designed to revolutionize global communication.
+**Nexus Gaja** je inteligentna komunikacijska mreža osjetljiva na kontekst dizajnirana za revoluciju globalne komunikacije.
 
-## Purpose and Vision
-In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
+## Svrha i vizija
+U globaliziranom svijetu jezik je često najveća prepreka. Glavni cilj Nexus Gaja je omogućiti besprijekornu, besprijekornu i kontekstualno točnu komunikaciju među ljudima—bez obzira na to govore li zajedničkim jezikom.
 
 It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
 
-## Possibilities and Features
-- **Multimedia Communication**: The system processes not just text, but also image, audio, and video. This allows for fully immersive conversations (e.g., video calls or voice messages) in real-time across language barriers.
-- **Context Sensitivity**: Recognition of irony, idioms, jargon, and regional dialects that are often misunderstood by conventional translators.
-- **Cross-Platform Network**: Serves as a foundation for private chats, forum threads (posts with comments), and global community interactions.
+## Mogućnosti i značajke
+- **Multimedijska komunikacija**: Sustav ne obrađuje samo tekst, već i sliku, zvuk i video. To omogućuje potpuno imerzivne razgovore (npr. videopozive ili glasovne poruke) u stvarnom vremenu bez obzira na jezične barijere.
+- **Osjetljivost na kontekst**: prepoznavanje ironije, idioma, žargona i regionalnih dijalekata koje konvencionalni prevoditelji često pogrešno razumiju.
+- **Mreža na više platformi**: služi kao temelj za privatne razgovore, teme foruma (postovi s komentarima) i interakcije globalne zajednice.
 
 ---
 

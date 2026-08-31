@@ -9,10 +9,10 @@
 
 **Nexus Gaja** is an intelligent, context-sensitive communication network designed to revolutionize global communication.
 
-## Purpose and Vision
-In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
+## Цел и визия
+В един глобализиран свят езикът често е най-голямата бариера. Основната цел на Nexus Gaja е да позволи безпроблемна, безпрепятствена и контекстуално точна комуникация между хората - независимо дали говорят общ език.
 
-It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
+Не става въпрос само за твърд превод на думи, а за **пренасяне на значение**. Nexus Gaja свързва хората на по-дълбоко ниво чрез разбиране на културни, регионални и контекстуални нюанси, като по този начин позволява истински, автентични разговори.
 
 ## Possibilities and Features
 - **Multimedia Communication**: The system processes not just text, but also image, audio, and video. This allows for fully immersive conversations (e.g., video calls or voice messages) in real-time across language barriers.
@@ -21,7 +21,7 @@ It's not just about rigidly translating words, but about **transferring meaning*
 
 ---
 
-## Technical Architecture (Core Concept)
+## Техническа архитектура (основна концепция)
 
 The technical core of Nexus Gaja is a custom-built communication model that is strictly divided into three layers:
 

@@ -7,21 +7,21 @@
 
 </details>
 
-**Nexus Gaja** is an intelligent, context-sensitive communication network designed to revolutionize global communication.
+**Некус Гаја** је интелигентна комуникациона мрежа осетљива на контекст дизајнирана да револуционише глобалну комуникацију.
 
 ## Purpose and Vision
 In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
 
 It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
 
-## Possibilities and Features
-- **Multimedia Communication**: The system processes not just text, but also image, audio, and video. This allows for fully immersive conversations (e.g., video calls or voice messages) in real-time across language barriers.
-- **Context Sensitivity**: Recognition of irony, idioms, jargon, and regional dialects that are often misunderstood by conventional translators.
-- **Cross-Platform Network**: Serves as a foundation for private chats, forum threads (posts with comments), and global community interactions.
+## Могућности и карактеристике
+- **Мултимедијална комуникација**: Систем не обрађује само текст, већ и слике, аудио и видео. Ово омогућава потпуно импресивне разговоре (нпр. видео позиве или гласовне поруке) у реалном времену, без обзира на језичке баријере.
+- **Осетљивост на контекст**: Препознавање ироније, идиома, жаргона и регионалних дијалеката које конвенционални преводиоци често погрешно разумеју.
+- **Мрежа на више платформи**: Служи као основа за приватне разговоре, теме на форуму (објаве са коментарима) и интеракције у глобалној заједници.
 
 ---
 
-## Technical Architecture (Core Concept)
+## Техничка архитектура (основни концепт)
 
 The technical core of Nexus Gaja is a custom-built communication model that is strictly divided into three layers:
 

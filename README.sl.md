@@ -25,9 +25,9 @@ It's not just about rigidly translating words, but about **transferring meaning*
 
 The technical core of Nexus Gaja is a custom-built communication model that is strictly divided into three layers:
 
-1. **Original**: The communication object (message) created by the sender always remains immutable.
-2. **Semantic Interpretation**: The system analyzes not just the words, but the actual meaning.
-3. **Target Language Representation**: The AI merely creates a temporary or cached representation of the original for the respective recipient based on their preferred language. Translations never overwrite the original message.
+1. **Original**: Komunikacijski objekt (sporočilo), ki ga ustvari pošiljatelj, vedno ostane nespremenljiv.
+2. **Semantična razlaga**: sistem ne analizira le besed, ampak dejanski pomen.
+3. **Predstavitev ciljnega jezika**: AI samo ustvari začasno ali predpomnjeno predstavitev izvirnika za posameznega prejemnika na podlagi njihovega želenega jezika. Prevodi nikoli ne prepišejo izvirnega sporočila.
 
 ### Context Dependency
 Translations in Nexus Gaja never view messages in isolation. The engine considers the entire hierarchy:
@@ -36,6 +36,6 @@ Translations in Nexus Gaja never view messages in isolation. The engine consider
 ### Efficiency through On-Demand Translation
 Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.
 
-## Project Status
-The project is currently in the active architecture and planning phase.
-Ongoing architectural decisions are documented in the `/docs` folder.
+## Status projekta
+Projekt je trenutno v fazi aktivne arhitekture in načrtovanja.
+Tekoče arhitekturne odločitve so dokumentirane v mapi `/docs`.

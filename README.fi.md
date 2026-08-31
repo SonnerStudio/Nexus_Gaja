@@ -7,12 +7,12 @@
 
 </details>
 
-**Nexus Gaja** is an intelligent, context-sensitive communication network designed to revolutionize global communication.
+**Nexus Gaja** on älykäs, kontekstiherkkä viestintäverkko, joka on suunniteltu mullistamaan globaali viestintä.
 
-## Purpose and Vision
-In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
+## Tarkoitus ja visio
+Globalisoituneessa maailmassa kieli on usein suurin este. Nexus Gajan päätavoite on mahdollistaa saumaton, esteetön ja kontekstitarkka kommunikointi ihmisten välillä riippumatta siitä, puhuvatko he yhteistä kieltä.
 
-It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
+Kyse ei ole vain sanojen tiukasta kääntämisestä, vaan **merkityksen siirtämisestä**. Nexus Gaja yhdistää ihmiset syvemmällä tasolla ymmärtämällä kulttuurisia, alueellisia ja kontekstuaalisia vivahteita, mikä mahdollistaa aidon, autenttisen keskustelun.
 
 ## Possibilities and Features
 - **Multimedia Communication**: The system processes not just text, but also image, audio, and video. This allows for fully immersive conversations (e.g., video calls or voice messages) in real-time across language barriers.
@@ -21,21 +21,21 @@ It's not just about rigidly translating words, but about **transferring meaning*
 
 ---
 
-## Technical Architecture (Core Concept)
+## Tekninen arkkitehtuuri (ydinkonsepti)
 
 The technical core of Nexus Gaja is a custom-built communication model that is strictly divided into three layers:
 
-1. **Original**: The communication object (message) created by the sender always remains immutable.
-2. **Semantic Interpretation**: The system analyzes not just the words, but the actual meaning.
-3. **Target Language Representation**: The AI merely creates a temporary or cached representation of the original for the respective recipient based on their preferred language. Translations never overwrite the original message.
+1. **Alkuperäinen**: Lähettäjän luoma viestintäobjekti (viesti) pysyy aina muuttumattomana.
+2. **Semanttinen tulkinta**: Järjestelmä analysoi sanojen lisäksi niiden todellisen merkityksen.
+3. **Kohdekielen esitys**: Tekoäly luo vain väliaikaisen tai välimuistissa olevan esityksen alkuperäisestä vastaavalle vastaanottajalle tämän ensisijaisen kielen perusteella. Käännökset eivät koskaan korvaa alkuperäistä viestiä.
 
-### Context Dependency
-Translations in Nexus Gaja never view messages in isolation. The engine considers the entire hierarchy:
+### Kontekstiriippuvuus
+Translations in Nexus Gaja never view messages in isolation. Moottori ottaa huomioon koko hierarkian:
 `Message` → `Previous Messages` → `Thread Context` → `Community Context` → `Language / Region` → `User Preferences`
 
-### Efficiency through On-Demand Translation
-Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.
+### Tehokkuus on-demand-käännöksen avulla
+Käännös tapahtuu resurssitehokkaasti vain **pyynnöstä** (On-Demand). Kun käyttäjä pyytää sisältöä, se käännetään hänen ennalta määritetylle kielelle. Kun käännös tietylle kielelle on luotu, se tallennetaan pysyvästi (välimuistiin), jotta tulevia pyyntöjä voidaan nopeuttaa huomattavasti.
 
-## Project Status
-The project is currently in the active architecture and planning phase.
-Ongoing architectural decisions are documented in the `/docs` folder.
+## Projektin tila
+Projekti on tällä hetkellä aktiivisessa arkkitehtuuri- ja suunnitteluvaiheessa.
+Käynnissä olevat arkkitehtoniset päätökset dokumentoidaan "/docs"-kansioon.

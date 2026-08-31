@@ -9,29 +9,29 @@
 
 **Nexus Gaja** is an intelligent, context-sensitive communication network designed to revolutionize global communication.
 
-## Purpose and Vision
-In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
+## Mērķis un vīzija
+Globalizētajā pasaulē valoda bieži vien ir lielākā barjera. Nexus Gaja galvenais mērķis ir nodrošināt netraucētu, bezšķēršļu un kontekstuāli precīzu saziņu starp cilvēkiem neatkarīgi no tā, vai viņi runā kopīgā valodā.
 
-It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
+Runa nav tikai par stingru vārdu tulkošanu, bet par **nozīmes pārnešanu**. Nexus Gaja saista cilvēkus dziļākā līmenī, izprotot kultūras, reģionālās un kontekstuālās nianses, tādējādi nodrošinot patiesas, autentiskas sarunas.
 
-## Possibilities and Features
-- **Multimedia Communication**: The system processes not just text, but also image, audio, and video. This allows for fully immersive conversations (e.g., video calls or voice messages) in real-time across language barriers.
-- **Context Sensitivity**: Recognition of irony, idioms, jargon, and regional dialects that are often misunderstood by conventional translators.
-- **Cross-Platform Network**: Serves as a foundation for private chats, forum threads (posts with comments), and global community interactions.
+## Iespējas un funkcijas
+- **Multivides sakari**: sistēma apstrādā ne tikai tekstu, bet arī attēlu, audio un video. Tas ļauj reāllaikā veidot visaptverošas sarunas (piemēram, videozvanus vai balss ziņas) pāri valodas barjerām.
+- **Kontekstu jutīgums**: ironijas, idiomu, žargona un reģionālo dialektu atpazīšana, ko parastie tulki bieži pārprot.
+- **Starpplatformu tīkls**: kalpo kā pamats privātām tērzēšanas sarunām, foruma pavedieniem (ziņas ar komentāriem) un globālās kopienas mijiedarbībām.
 
 ---
 
 ## Technical Architecture (Core Concept)
 
-The technical core of Nexus Gaja is a custom-built communication model that is strictly divided into three layers:
+Nexus Gaja tehniskais kodols ir īpaši izveidots sakaru modelis, kas ir stingri sadalīts trīs slāņos:
 
 1. **Original**: The communication object (message) created by the sender always remains immutable.
 2. **Semantic Interpretation**: The system analyzes not just the words, but the actual meaning.
 3. **Target Language Representation**: The AI merely creates a temporary or cached representation of the original for the respective recipient based on their preferred language. Translations never overwrite the original message.
 
-### Context Dependency
-Translations in Nexus Gaja never view messages in isolation. The engine considers the entire hierarchy:
-`Message` → `Previous Messages` → `Thread Context` → `Community Context` → `Language / Region` → `User Preferences`
+### Konteksta atkarība
+Tulkojumos Nexus Gaja ziņojumi nekad netiek skatīti atsevišķi. Dzinējs ņem vērā visu hierarhiju:
+"Ziņojums" → "Iepriekšējie ziņojumi" → "Pavediena konteksts" → "Kopienas konteksts" → "Valoda/reģions" → "Lietotāja preferences"
 
 ### Efficiency through On-Demand Translation
 Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.

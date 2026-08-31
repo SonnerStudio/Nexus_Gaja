@@ -9,8 +9,8 @@
 
 **Nexus Gaja** is an intelligent, context-sensitive communication network designed to revolutionize global communication.
 
-## Purpose and Vision
-In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
+## Eesmärk ja visioon
+Globaliseeruvas maailmas on keel sageli suurim takistus. Nexus Gaja põhieesmärk on võimaldada inimeste vahel sujuvat, takistusteta ja kontekstuaalselt täpset suhtlust olenemata sellest, kas nad räägivad ühist keelt.
 
 It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
 
@@ -29,13 +29,13 @@ The technical core of Nexus Gaja is a custom-built communication model that is s
 2. **Semantic Interpretation**: The system analyzes not just the words, but the actual meaning.
 3. **Target Language Representation**: The AI merely creates a temporary or cached representation of the original for the respective recipient based on their preferred language. Translations never overwrite the original message.
 
-### Context Dependency
-Translations in Nexus Gaja never view messages in isolation. The engine considers the entire hierarchy:
+### Kontekstisõltuvus
+Translations in Nexus Gaja never view messages in isolation. Mootor võtab arvesse kogu hierarhiat:
 `Message` → `Previous Messages` → `Thread Context` → `Community Context` → `Language / Region` → `User Preferences`
 
-### Efficiency through On-Demand Translation
-Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.
+### Tõhusus tellitava tõlke abil
+Tõlkimine toimub ressursitõhusalt ainult **pärimisel** (nõudmisel). Kui kasutaja taotleb sisu, tõlgitakse see tema eelseadistatud keelde. Kui konkreetse keele tõlge on loodud, salvestatakse see jäädavalt (vahemällu), et tulevasi taotlusi drastiliselt kiirendada.
 
-## Project Status
-The project is currently in the active architecture and planning phase.
-Ongoing architectural decisions are documented in the `/docs` folder.
+## Projekti olek
+Projekt on hetkel aktiivses arhitektuuri- ja planeerimisfaasis.
+Käimasolevad arhitektuuriotsused dokumenteeritakse kaustas "/docs".

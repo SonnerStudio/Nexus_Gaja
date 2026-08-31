@@ -9,8 +9,8 @@
 
 **Nexus Gaja** is an intelligent, context-sensitive communication network designed to revolutionize global communication.
 
-## Purpose and Vision
-In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
+## Formål og visjon
+I en globalisert verden er språket ofte den største barrieren. Hovedmålet til Nexus Gaja er å muliggjøre sømløs, barrierefri og kontekstuelt nøyaktig kommunikasjon mellom mennesker – uavhengig av om de snakker et felles språk.
 
 It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
 
@@ -21,7 +21,7 @@ It's not just about rigidly translating words, but about **transferring meaning*
 
 ---
 
-## Technical Architecture (Core Concept)
+## Teknisk arkitektur (kjernekonsept)
 
 The technical core of Nexus Gaja is a custom-built communication model that is strictly divided into three layers:
 
@@ -29,9 +29,9 @@ The technical core of Nexus Gaja is a custom-built communication model that is s
 2. **Semantic Interpretation**: The system analyzes not just the words, but the actual meaning.
 3. **Target Language Representation**: The AI merely creates a temporary or cached representation of the original for the respective recipient based on their preferred language. Translations never overwrite the original message.
 
-### Context Dependency
-Translations in Nexus Gaja never view messages in isolation. The engine considers the entire hierarchy:
-`Message` → `Previous Messages` → `Thread Context` → `Community Context` → `Language / Region` → `User Preferences`
+### Kontekstavhengighet
+Oversettelser i Nexus Gaja ser aldri meldinger isolert. Motoren vurderer hele hierarkiet:
+`Melding` → `Tidligere meldinger` → `Trådkontekst` → `Fellesskapskontekst` → `Språk / region` → `Brukerinnstillinger`
 
 ### Efficiency through On-Demand Translation
 Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.

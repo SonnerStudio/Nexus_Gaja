@@ -21,7 +21,7 @@ It's not just about rigidly translating words, but about **transferring meaning*
 
 ---
 
-## Technical Architecture (Core Concept)
+## Techninė architektūra (pagrindinė koncepcija)
 
 The technical core of Nexus Gaja is a custom-built communication model that is strictly divided into three layers:
 
