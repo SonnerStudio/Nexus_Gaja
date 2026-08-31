@@ -35,8 +35,250 @@ Nexus Gaja'nın teknik kalbi, kesin olarak üç katmana ayrılmış özel olarak
 Nexus Gaja'daki çeviriler mesajları asla izole olarak ele almaz. Motor tüm hiyerarşiyi dikkate alır:
 `Message` → `Previous Messages` → `Thread Context` → `Community Context` → `Language / Region` → `User Preferences`
 
-### İsteğe Bağlı Çeviri Yoluyla Verimlilik
-Çeviri, kaynak tasarrufu sağlamak amacıyla yalnızca **istek üzerine** (On-Demand) gerçekleşir. Bir kullanıcı içerik talep ettiğinde, önceden ayarlanmış diline çevrilir. Belirli bir dil için yapılan çeviriler, gelecekteki sorguları büyük ölçüde hızlandırmak için kalıcı olarak saklanır (Önbelleğe Alma / Caching).
+### İsteğe Bağlı Çeviri ile Verimlilik
+Çeviri kaynak tasarrufu sağlayarak yalnızca **istek üzerine** (İsteğe Bağlı) gerçekleşir. Bir kullanıcı içerik talep ettiğinde, bu içerik önceden ayarladığı dile çevrilir. Belirli bir dil için bir çeviri oluşturulduktan sonra, gelecekteki istekleri önemli ölçüde hızlandırmak için kalıcı olarak saklanır (önbelleğe alma).
+
+## Yapay Zeka Destekli Moderasyon (WP 1.8.4)
+
+Yapay Zeka Destekli Moderasyon ile, mevcut AB düzenlemelerini (Art. 50 kapsamındaki AB Yapay Zeka Yasası'nın şeffaflık gereklilikleri; anlaşılır gerekçeler ve itiraz seçenekleri ile Dijital Hizmetler Yasası - DSA) dikkate alarak ürün fikrinden teknik mimariye önemli bir adım atıyoruz.
+
+### 1. Temel Prensip
+Mimari için en önemli cümle şudur: **Moderasyon yapay zekası özerk bir karar mekanizması değil, bir inceleme sistemidir.**
+İnsanlara moderasyonda yardımcı olmak için tasarlanmıştır, Nexus Gaja'da hangi görüşlerin var olabileceğine kendi başına karar vermek için değil.
+Üç seviyeyi birbirinden ayırıyoruz:
+- **Tespit:** "Burada bir kural ihlali olabilir."
+- **Değerlendirme:** "Bir kural ihlali olasılığı örneğin %94'tür."
+- **Karar:** "Gerçekte hangi önlem alınacak?"
+Üçüncü seviye, ciddi durumlarda bir insan tarafından kontrol edilmelidir.
+
+### 2. Alt Sistem Olarak Moderasyon Yapay Zekası
+Tek bir yapay zeka yerine sağlam bir alt sistem kurulur:
+```text
+                 NEXUS GAJA AI MODERATION
+                          │
+       ┌──────────────────┼──────────────────┐
+       │                  │                  │
+  Language AI        Safety AI          Fraud AI
+       │                  │                  │
+       ├──────────────┬───┴──────────────┬───┤
+       │              │                  │
+ Translation      Behaviour          Identity
+ Analysis         Analysis            Signals
+       │              │                  │
+       └──────────────┼──────────────────┘
+                      ▼
+               Risk Assessment
+                      │
+                      ▼
+               Human Review
+```
+
+### 3. En Önemli Yapay Zeka Modülleri
+Nexus Gaja dokuz uzmanlaşmış analiz alanı kullanır:
+- **M1 – Language Understanding**: Dil, lehçe, argo, ironi göstergeleri, çeviri sorunlarını algılar.
+- **M2 – Toxicity / Abuse Detection**: Hakaret, kişisel saldırı, tacizi algılar.
+- **M3 – Threat Detection**: Olası tehditleri, şantajı, şiddet söylemlerini algılar.
+- **M4 – Hate / Dehumanization Detection**: Belirli aidiyetlere dayalı hedefli saldırıları algılar.
+- **M5 – Spam / Manipulation Detection**: Spam, bot davranışı, koordineli manipülasyonu algılar.
+- **M6 – Fraud Detection**: Şüpheli dolandırıcılık girişimlerini, kimlik avını, sosyal mühendisliği algılar.
+- **M7 – Identity Integrity**: Hesap ele geçirme, birden fazla hesap, yasaklardan kaçınma ile ilgili sinyalleri kontrol eder.
+- **M8 – Media Safety**: Görselleri, sesi, videoyu, belgeleri analiz eder.
+- **M9 – Context Engine**: En önemli modüldür. Bireysel bulguları birleştirir.
+
+### 4. Context Engine Neden Çok Önemlidir
+Yalnızca bir anahtar kelime araması yetersiz kalacaktır. "Gülmekten onu öldürebilirim" semantik olarak şiddet içerir ancak mecazi bir ifadedir. "Yarın akşam 8'de onu evinin önünde vuracağım" tamamen farklı bir durumdur. Yapay zeka, ifadenin belirli bağlamında ne anlama geldiğini anlamalıdır.
+
+### 5. Çok Dilli Moderasyon
+Moderasyon basitçe kelimeleri karşılaştıramaz. Semantik düzeyi analiz etmelidir (örneğin, Almanca deyimler vs. Japonca deyimler vs. bölgesel ifadeler).
+
+### 6. Orijinal Dil + Çeviri
+Orijinal ve çeviri ayrı ayrı analiz edilir. Ancak o zaman "Combined Moderation Assessment" gerçekleşir. Bu, Nexus Gaja'nın çevirinin kendisinin olayları tırmandırıp tırmandırmadığını veya değiştirip değiştirmediğini belirlemesine olanak tanır.
+
+### 7. Güven Puanı (Confidence Score)
+Her yapay zeka değerlendirmesi bir güven puanı alır (ör. Tehdit olasılığı: 0.96). Ancak: **Güven Puanı ≠ Gerçek.** %96'lık bir puan, modelin sınıflandırmasından çok emin olduğu anlamına gelir, kullanıcının mutlaka suçlu olduğu anlamına gelmez.
+
+### 8. Belirsizlik Kendisi Bir Sinyale Dönüşür
+Yapay zeka emin değilse (ör. Tehdit: 0.62, Hiciv: 0.54), katı kuralları basitçe uygulayamaz. Bunun yerine, belirsizlik doğrudan mimariye yerleştirilmiştir: **Human Review Required** (İnsan İncelemesi Gerekli).
+
+### 9. Dört Karar Bölgesi
+- 🟢 **GREEN**: Büyük olasılıkla kurallara uygun. → işlem yok.
+- 🟡 **YELLOW**: Olası ihlal. → izle / gerekirse bir uyarı ver.
+- 🟠 **ORANGE**: Muhtemel ihlal. → moderasyon incelemesi.
+- 🔴 **RED**: Ciddi olası ihlal. → acil koruyucu önlem + insan incelemesi.
+
+### 10. "Yapay Zeka Cezası" Yok
+**Yapay zeka nihai yaptırımlar uygulamaz.** Ciddi güvenlik endişeleri için anında teknik önlemleri tetikleyebilir (örneğin, bir mesajı geçici olarak bekletmek), ancak nihai karar doğrulanabilir kalır.
+
+### 11. Koruyucu Önlemler Otomatik Olarak Gerçekleşebilir
+Somut bir tehdit durumunda (Threat detected → High confidence → Temporary restriction → Human review → Decision), yapay zekayı bir yargıca dönüştürmeden tehdit edilen kullanıcıyı koruruz.
+
+### 12. Yapay Zeka Kararlarını Gerekçelendirebilmelidir
+DSA açık ve spesifik nedenler gerektirir. Yapay zeka yapılandırılmış gerekçeler sunar: Kural (NG-CONDUCT-004), Algılanan (Olası somut tehdit), Güven (0.94), İlgili bağlam (Önceki 4 mesaj), Önerilen eylem (İnsan incelemesi).
+
+### 13. Yapay Zeka İçeriği Gizlice Değiştirmemelidir
+**Moderasyon yapay zekası, orijinal içeriği asla fark edilmeden değiştirmemelidir.** Otomatik düzeltme, çeviri veya özetleme sırasında orijinal içerik her zaman korunur.
+
+### 14. Yapay Zeka Tarafından Oluşturulan İçerik
+Şunlar arasında ayrım yapıyoruz: İnsan yapımı, Yapay zeka destekli, Yapay zeka tarafından oluşturulmuş ve Yapay zeka tarafından manipüle edilmiş. Bu, içerik meta verilerinin bir parçası olacaktır.
+
+### 15. Yapay Zeka İçeriğinin Etiketlenmesi ve Yapay Zeka Kaynak Katmanı
+AB Yapay Zeka Yasası'nın (Ağustos 2026'dan itibaren geçerli) şeffaflık kurallarına göre, yapay zeka tarafından oluşturulan içerik tanımlanabilir olmalıdır. Meta verileri (Yapay Zeka Kökeni, Model, Zaman Damgası, İnsan İncelemesi) depolayan bir AI Provenance Layer (Yapay Zeka Kaynak Katmanı) sağlıyoruz.
+
+### 16. Deepfake Tespiti
+Mimari sentetik görüntüleri, klonlanmış sesleri ve deepfake'leri tespit etmeyi amaçlamaktadır. Ancak, tespit otomatik olarak bir kanıt değildir.
+
+### 17. Otomatik "Hakikat Makinesi" Yok (Moderasyon ≠ Doğruluk Kontrolü)
+Bir sistem şunu kontrol eder: "İçerik kuralları ihlal ediyor mu?" (Content Moderation), diğeri şunu sağlar: "Hangi bilgiler ve kaynaklar mevcut?" (Information Assistance). Görüşler sadece "yanlış" oldukları için silinmez.
+
+### 18. Kültürel Yanlış Yorumlamaya Karşı Koruma
+Yapay zeka, bir ülkenin iletişim normlarının küresel bir standart olarak varsayılmasını önlemek için **Cultural Context Models**'a (Kültürel Bağlam Modelleri) ihtiyaç duyar.
+
+### 19. İroni, Hiciv ve Mizah
+Yapay zeka bağlamı, emojileri, konuşma geçmişini ve bilinen ironi yapılarını kullanır, ancak anlamlar belirsiz olduğunda belirsizliğe izin vermelidir.
+
+### 20. Tek Bir Yapay Zeka Puanına Dayalı Ceza Yok
+Hiçbir ciddi moderasyon müdahalesi yalnızca tek bir otomatik sınıflandırma sonucuna dayanamaz (Metin + Bağlam + Davranış + Dil + Medya + Kural Motoru = Risk Değerlendirmesi).
+
+### 21. Kullanıcı Davranış Sinyalleri ve Sosyal Kredi Sistemi Yok
+Bu, genel bir sosyal derecelendirme sistemi ile değil, teknik kötüye kullanım sinyalleri (örneğin, toplu spam gönderimi) ile ilgilidir. Nexus Gaja bir Sosyal Kredi Sistemi sürdürmez - moderasyon bir kişinin değerinin değerlendirilmesine değil, güvenliğe hizmet eder.
+
+### 22. Moderasyon Yapay Zekası Denetlenebilir Olmalıdır
+İzlenebilirliği sağlamak için tüm ilgili otomatik kararlar (Event-ID, Rule-ID, Confidence, Human-Review, vb.) günlüğe kaydedilir.
+
+### 23. Yanlış Pozitifler, Yanlış Negatifler ve Kalite Metrikleri
+Hata türleri izlenir. Bir gösterge panosu Kesinliği, Geri Çağırmayı ve özellikle **İtiraz Geri Çevirme Oranını** (başarılı itirazların sayısı) ölçer.
+
+### 24. Dil Eşitliği ve Çeviri Yanlılığı
+Moderasyon kalitesi desteklenen tüm dillerde karşılaştırılabilir olmalıdır (Çok Dilli Moderasyon Kriteri). Orijinal metin ile çeviri arasındaki moderasyon sonuçları farklıysa (Çeviri Çatışması), bu durum özel olarak incelenmelidir.
+
+### 25. Mimari Önerisi ve Kural Motoru (Policy Engine)
+Kurallar yapay zeka modellerine kodlanmamıştır. Yapay zeka bulguları sağlar; Policy Engine mevcut kurallara göre karar verir. Bu, **kural değişiklikleri olmadan model değişikliklerine** olanak tanır.
+
+### 26. İnsan Nihai Otorite Olmaya Devam Eder
+- **NG-AI-MOD-001**: Yapay zeka tespit ve sınıflandırmada yardımcı olur, ancak ciddi kararlarda insan incelemesinin yerini almaz.
+- **NG-AI-MOD-002**: Otomatik moderasyon kararları izlenebilir, kaydedilebilir ve doğrulanabilir olmalıdır.
+
+**Özet**: Dört aşamalı bir sistem kuruyoruz: Yapay Zeka Tespiti, Bağlam ve Risk Analizi, Kural Motoru (Policy Engine) ve İnsan Yönetişimi. Bu, tehlikeli bir "Yargıç olarak Yapay Zeka" mimarisi oluşturmadan güçlü bir otomasyon sağlar.
+
+## Finansman Prensipleri ve Gelir Modeli (WP 1.10.1)
+
+Nexus Gaja için son derece önemli bir ekonomik prensip geçerlidir: **Platform içinde klasik reklamcılık yoktur.**
+Bu, Nexus Gaja'yı günümüzün birçok sosyal ağından temel olarak ayırır. Ancak bu, Nexus Gaja'nın ticari bir karaktere sahip olamayacağı anlamına gelmez. Aksine, sosyal amacının kalıcı olabilmesi için platformun ekonomik olarak sürdürülebilir olması gerekir. Ekonomik faaliyet bir amaca ulaşmak için bir araçtır, platformun birincil amacı değildir.
+
+### 1. Prensip NG-FIN-001
+Nexus Gaja, operasyonlarını kullanıcıların dikkatini veya kişisel verilerini paraya dönüştürerek değil, kullanıcı çıkarlarından ayrı, şeffaf gelir kaynakları aracılığıyla finanse eder.
+
+### 2. Klasik Reklam Yok
+Özellikle şunlar yasaktır:
+- Banner reklamlar
+- Açılır pencere (Pop-up) reklamları
+- Otomatik oynatılan video reklamlar
+- Standart akışta (feed) sponsorlu gönderiler
+- Kişiselleştirilmiş reklam profilleri
+- Kullanıcı profillerinin veya kişisel verilerin satışı
+- Özel konuşmalardan elde edilen reklamlar.
+
+Nexus Gaja bir **reklam alanı yerine bir iletişim alanı** olmaya devam etmektedir.
+
+### 3. Reklamsız Finansman (6 Sütun)
+Finansman altı sütun üzerine inşa edilmiştir:
+```text
+                 NEXUS GAJA
+                     │
+       ┌─────────────┼─────────────┐
+       ▼             ▼             ▼
+   PREMIUM       ORGANİZASYON     BAĞIŞLAR
+       │             │             │
+       ├─────────────┼─────────────┤
+       ▼             ▼             ▼
+  FON/HİBE        ORTAKLIKLAR   HİZMETLER
+```
+
+#### Sütun 1 – Ücretsiz Temel Üyelik
+**Nexus Gaja Free**, herkes için temel uluslararası anlayışı (profil, uluslararası iletişim, gönderiler, topluluklar, sohbetler, temel çeviri) ücretsiz olarak sağlar.
+
+#### Sütun 2 – Premium Teklifler
+Gönüllü ücretli teklifler (**Nexus Gaja Plus**), daha büyük depolama sınırları, daha yüksek medya kalitesi, genişletilmiş yapay zeka kotaları ve organizasyonel özellikler sunar.
+**Önemli (Dark Freemium yerine Freemium):** Temel iletişim asla yapay olarak kullanılamaz hale getirilmemelidir.
+
+#### Sütun 3 – Organizasyonlar
+Okullar, üniversiteler, STK'lar, işletmeler ve belediyeler için özel hesaplar (**Nexus Gaja Organization**). Okullar, uluslararası anlayışın çoğaltıcıları olarak kurumsal tarifeler aracılığıyla desteklenebilir.
+
+#### Sütun 4 – Bağışlar
+**Nexus Gaja Fon Havuzu**, genel ve özel amaçlı (örneğin "uluslararası gençlik iletişimi için") bağışları kabul eder. Bir **Fon Tahsis Defteri (Fund Allocation Ledger)**, fonların şeffaf bir şekilde tahsis edilmesini sağlar.
+**Amaç Fonu ve Tombala:** Bağışların bir kısmı ücretsiz/indirimli kullanım için bir havuzu besler. Bir tombala mekanizması bu fonları şeffaf ve denetlenebilir bir şekilde tahsis edebilir.
+
+#### Sütun 5 – Kurumsal Fonlar
+Vakıflar, kültürel fon programları veya devlet programları.
+**NG-FIN-002:** Finansal destek, editoryal veya teknik kontrol satın almaz (Bağımsızlık).
+
+#### Sütun 6 – Ticari Hizmetler
+Standart kullanıcı akışını (feed) zorlamadan, **Hizmet olarak Çeviri** (API), kurumsal iletişim veya uluslararası konferans salonları gibi B2B hizmetler.
+
+### 4. Veri Ticarileştirmesi ve Gözetim Ekonomisi Yok
+**NG-FIN-003:** Kişisel kullanıcı verileri bir meta değildir. Listelerin, profillerin veya geçmişlerin satışı yoktur. Nexus Gaja, psikolojik gözetimden (Gözetim Ekonomisi - Surveillance Economy) kar elde etmez.
+
+### 5. Finansal Şeffaflık ve Fon Defteri
+**Nexus Gaja Finansal Şeffaflığı:** Toplu finansal yapıların yayınlanması. Özel amaçlı bağışlar teknik muhasebe alır (Fon ID → Amaç → Bakiye → Tahsis). Sosyal amaçlı fonlardan kurumsal pazarlamaya çapraz sübvansiyon yapılamaz.
+
+### 6. Dayanışma Temelli Finansman Modeli
+Fiyatlandırma maliyet odaklılığa, adalete ve dayanışmaya dayanır.
+**Dayanışma Premium:** Premium kullanıcıların başka bir kullanıcının erişiminin bir kısmını finanse etmesi için gönüllü bir seçenek. Zorunlu dayanışma veya premium bir sınıf toplumu (ücretsiz kullanıcılar için daha az saygı/moderasyon) kesinlikle yasaktır.
+
+### 7. Etkileşim Ekonomisi Yerine Ekonomik KPI'lar
+Kullanıcıları "mümkün olduğunca uzun süre çevrimiçi" tutmaya bağımlılık yoktur (ragebait yok, sonsuz akış yok).
+Bunun yerine aşağıdaki gibi metrikler kullanırız:
+- **Küresel İletişim Endeksi (GCI):** Farklı dilsel/kültürel bölgelerden gelen insanlar arasındaki başarılı iletişim ilişkileri.
+- **Platform Sürdürülebilirlik Oranı (PSR):** Tekrarlayan gelir / tekrarlayan işletme maliyetleri (Hedef ≥ 1).
+
+### 8. Açıkça İstemediğimiz Şeyler (Negatif Liste)
+Nexus Gaja şunlar aracılığıyla **finanse edilmez**:
+❌ Kişisel verilerin satışı
+❌ Kişiselleştirilmiş klasik reklamcılık
+❌ Reklam amacıyla kullanıcı davranışının izlenmesi
+❌ Özel iletişim verilerinin satışı
+❌ Gizli yapay zeka veri kullanımı
+❌ Manipülatif Premium ödeme duvarları
+❌ Ticarileştirme için yapay erişim kısıtlaması
+❌ Ücretli siyasi etki
+❌ Ayrıcalıklı moderasyon kararlarının satın alınması.
+
+### 9. Ön Finansal Mimari
+```text
+                         NEXUS GAJA
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+             ▼                ▼                ▼
+          USERS          ORGANIZATIONS      ENTERPRISE
+             │                │                │
+             └────────────────┼────────────────┘
+                              │
+                       PLATFORM SERVICES
+                              │
+          ┌───────────────────┼───────────────────┐
+          ▼                   ▼                   ▼
+       PREMIUM             DONATIONS            API
+                              │
+                    ┌─────────┴─────────┐
+                    ▼                   ▼
+               GENERAL FUND       RESTRICTED FUNDS
+                                        │
+                                        ▼
+                                  SOCIAL PURPOSE
+```
+
+### Finansman Prensiplerinin Özeti (NG-FIN)
+- **NG-FIN-001:** Klasik reklamcılık yoluyla finansman yoktur.
+- **NG-FIN-002:** Finansal destek yoluyla editoryal/teknik kontrol yoktur.
+- **NG-FIN-003:** Kişisel veriler bir meta değildir.
+- **NG-FIN-004:** Temel iletişim, ödeme yapılmadan erişilebilir kalır.
+- **NG-FIN-005:** Premium teklifler ücretsiz kullanıcıları aşağılamamalıdır.
+- **NG-FIN-006:** Özel amaçlı fonlar amaçlarına göre yönetilir.
+- **NG-FIN-007:** Bağışların ve hibelerin şeffaf yönetimi.
+- **NG-FIN-008:** Ticari B2B hizmetleri bağımsızlık ilkesinden ödün vermez.
+- **NG-FIN-009:** Maksimum para kazanma yerine sürdürülebilirliğe odaklanma.
+- **NG-FIN-010:** Yapı, sosyal amacı kalıcı olarak güvence altına alır.
 
 ## Proje Durumu
 Proje aktif mimari ve planlama aşamasındadır.

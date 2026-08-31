@@ -98,6 +98,13 @@ def split_and_translate(text, target_lang):
     return '\n\n'.join(translated_chunks)
 
 base_dir = 'c:/Dev/Repos/SonnerStudio/Nexus_Gaja'
+readme_path = os.path.join(base_dir, 'README.md')
+
+with open(readme_path, 'r', encoding='utf-8') as f:
+    english_content = f.read()
+
+# Replace the actual lang bar with {LANG_BAR} so it can be injected correctly
+english_content = re.sub(r'<details>.*?<\/details>', '{LANG_BAR}', english_content, count=1, flags=re.DOTALL)
 
 print("Starting translations...")
 for code, name in langs.items():
@@ -110,8 +117,8 @@ for code, name in langs.items():
         if os.path.exists(filepath):
             with open(filepath, 'r', encoding='utf-8') as f:
                 content = f.read()
-            # Replace the old language bar line (which starts with 🌐)
-            content = re.sub(r'🌐.*?\n\n', lang_bar + '\n\n', content, count=1, flags=re.DOTALL)
+            # Replace the old language bar line (which starts with 🌍 or 🌐)
+            content = re.sub(r'<details>.*?<\/details>', lang_bar, content, count=1, flags=re.DOTALL)
             with open(filepath, 'w', encoding='utf-8') as f:
                 f.write(content)
         continue
