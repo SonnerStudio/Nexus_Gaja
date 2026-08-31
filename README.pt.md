@@ -1,5 +1,7 @@
 # Nexus Gaja
 
+![Nexus Gaja Logo](assets/logo.jpg)
+
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
 
