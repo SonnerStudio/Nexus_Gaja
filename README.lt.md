@@ -327,36 +327,28 @@ Sistema suskirstyta į aiškias logines sritis (ribotus kontekstus): tapatybė, 
 
 ## Projekto būsena
 Šiuo metu projektas yra aktyvaus architektūros ir planavimo etape.
-Vykdomi architektūriniai sprendimai dokumentuojami aplanke „/docs“.
----
+Vykdomi architektūriniai sprendimai dokumentuojami aplanke „/docs“.---
 
-## License & Intellectual Property
+## Licencija ir intelektinė nuosavybė
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — All rights reserved.**
+> **© 2024–2026 Jan Sonner / SonnerStudio — Visos teisės saugomos.**
 
-**Nexus Gaja** is the exclusive intellectual property of **Jan Sonner**, operating under **SonnerStudio**.
+**Nexus Gaja** yra išskirtinė **Jan Sonner**, veikiančio **SonnerStudio** vardu, intelektinė nuosavybė.
 
-Jan Sonner is the sole creator, architect, and owner of Nexus Gaja — including all concepts, architecture, domain models, brand identity, and associated documentation.
+Jan Sonner yra vienintelis Nexus Gaja kūrėjas, architektas ir savininkas — įskaitant visas sąvokas, architektūrą, domeno modelius, prekės ženklo tapatybę ir susijusius dokumentus.
 
-**No rights, licenses, or ownership interests are held by any third party**, regardless of their size, market position, or influence in the technology industry.
+**Jokios teisės, licencijos ar nuosavybės interesai nėra suteikiami trečiosioms šalims**, neatsižvelgiant į jų dydį, rinkos poziciją ar įtaką technologijų pramonėje.
 
-### What is NOT permitted without explicit written consent:
-- ❌ Copying, reproducing, or distributing this software or its documentation
-- ❌ Modifying, adapting, or creating derivative works
-- ❌ Commercial use of any part of Nexus Gaja
-- ❌ Using the contents of this repository as **training data for AI/LLM systems**
-- ❌ Sublicensing or transferring any rights to third parties
+### Kas NELEIDŽIAMA be aiškaus raštiško sutikimo:
+- ❌ Šios programinės įrangos ar jos dokumentacijos kopijavimas, dauginimas ar platinimas
+- ❌ Modifikavimas, adaptavimas ar išvestinių kūrinių kūrimas
+- ❌ Bet kurios Nexus Gaja dalies komercinis naudojimas
+- ❌ Šios saugyklos turinio naudojimas kaip AI ar LLM sistemų mokymo duomenys
+- ❌ Teisių sublicencijavimas ar perdavimas trečiosioms šalims
 
-### Protected Intellectual Property
-The following original concepts are protected as trade secrets and proprietary creations of Jan Sonner:
-- The layered communication model *(Original / Semantic Interpretation / Translated Output)*
-- The identity separation principle *(Person ≠ Account ≠ Identity Verification)*
-- The Message-Translation decoupling model *(Message ≠ Translation)*
-- The AI moderation governance framework
+### Kontaktai
+Licencijos klausimais: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-### Contact
-For licensing inquiries: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+*„Nexus Gaja" ir Nexus Gaja logotipas yra Jan Sonner prekių ženklai. Neteisėtas vardo ar prekės ženklo naudojimas yra draudžiamas.*
 
-*"Nexus Gaja" and the Nexus Gaja logo are trademarks of Jan Sonner. Unauthorized use of the name or brand is prohibited.*
-
-➡️ See full license terms in [LICENSE](LICENSE)
+➡️ Visas licencijos sąlygas žr. [LICENSE](LICENSE) faile

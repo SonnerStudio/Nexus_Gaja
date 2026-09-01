@@ -328,35 +328,38 @@ Nexus Gaja একটি কঠোরভাবে ডোমেন-চালিত
 ## প্রকল্পের অবস্থা
 প্রকল্পটি বর্তমানে সক্রিয় আর্কিটেকচার এবং পরিকল্পনা পর্যায়ে রয়েছে।
 চলমান স্থাপত্য সংক্রান্ত সিদ্ধান্তগুলি `/ডক্স` ফোল্ডারে নথিভুক্ত করা হয়৷
+
 ---
 
-## License & Intellectual Property
+---
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — All rights reserved.**
+## লাইসেন্স এবং বুদ্ধিবৃত্তিক সম্পত্তি
 
-**Nexus Gaja** is the exclusive intellectual property of **Jan Sonner**, operating under **SonnerStudio**.
+> **© 2024–2026 Jan Sonner / SonnerStudio — সর্বস্বত্ব সংরক্ষিত।**
 
-Jan Sonner is the sole creator, architect, and owner of Nexus Gaja — including all concepts, architecture, domain models, brand identity, and associated documentation.
+**নেক্সাস গাজা** হল **জান সোনার** এর একচেটিয়া বৌদ্ধিক সম্পত্তি, যা **সোনার স্টুডিও** এর অধীনে কাজ করে।
 
-**No rights, licenses, or ownership interests are held by any third party**, regardless of their size, market position, or influence in the technology industry.
+Jan Sonner হলেন Nexus Gaja-এর একমাত্র স্রষ্টা, স্থপতি এবং মালিক — সমস্ত ধারণা, আর্কিটেকচার, ডোমেন মডেল, ব্র্যান্ড পরিচয় এবং সংশ্লিষ্ট ডকুমেন্টেশন সহ৷
 
-### What is NOT permitted without explicit written consent:
-- ❌ Copying, reproducing, or distributing this software or its documentation
-- ❌ Modifying, adapting, or creating derivative works
-- ❌ Commercial use of any part of Nexus Gaja
-- ❌ Using the contents of this repository as **training data for AI/LLM systems**
-- ❌ Sublicensing or transferring any rights to third parties
+**কোনও অধিকার, লাইসেন্স, বা মালিকানার স্বার্থ কোনো তৃতীয় পক্ষের কাছে নেই**, তাদের আকার, বাজারের অবস্থান, বা প্রযুক্তি শিল্পে প্রভাব নির্বিশেষে।
 
-### Protected Intellectual Property
-The following original concepts are protected as trade secrets and proprietary creations of Jan Sonner:
-- The layered communication model *(Original / Semantic Interpretation / Translated Output)*
-- The identity separation principle *(Person ≠ Account ≠ Identity Verification)*
-- The Message-Translation decoupling model *(Message ≠ Translation)*
-- The AI moderation governance framework
+### স্পষ্ট লিখিত সম্মতি ছাড়া কি অনুমোদিত নয়:
+- এই সফ্টওয়্যার বা এর ডকুমেন্টেশন অনুলিপি করা, পুনরুত্পাদন করা বা বিতরণ করা
+- ডেরিভেটিভ কাজগুলিকে পরিবর্তন করা, অভিযোজিত করা বা তৈরি করা
+- নেক্সাস গাজার যেকোনো অংশের বাণিজ্যিক ব্যবহার
+- এআই বা এলএলএম সিস্টেমের প্রশিক্ষণ ডেটা হিসাবে এই সংগ্রহস্থলের বিষয়বস্তু ব্যবহার করা
+- সাবলাইসেন্স বা তৃতীয় পক্ষের কোনো অধিকার স্থানান্তর
 
-### Contact
-For licensing inquiries: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+### সংরক্ষিত বৌদ্ধিক সম্পত্তি
+নিম্নলিখিত মূল ধারণাগুলি বাণিজ্য গোপনীয়তা এবং জান সোনারের মালিকানাধীন সৃষ্টি হিসাবে সুরক্ষিত:
+- স্তরযুক্ত যোগাযোগ মডেল (মূল, শব্দার্থিক ব্যাখ্যা, অনুবাদিত আউটপুট)
+- পরিচয় বিচ্ছেদ নীতি (ব্যক্তি অ্যাকাউন্ট নয় পরিচয় যাচাইকরণ নয়)
+- বার্তা-অনুবাদ ডিকপলিং মডেল (বার্তাটি অনুবাদ নয়)
+- এআই মডারেশন গভর্নেন্স ফ্রেমওয়ার্ক
 
-*"Nexus Gaja" and the Nexus Gaja logo are trademarks of Jan Sonner. Unauthorized use of the name or brand is prohibited.*
+### যোগাযোগ করুন
+লাইসেন্স সংক্রান্ত অনুসন্ধানের জন্য: https://github.com/SonnerStudio
 
-➡️ See full license terms in [LICENSE](LICENSE)
+Nexus Gaja এবং Nexus Gaja লোগো হল Jan Sonner এর ট্রেডমার্ক। নাম বা ব্র্যান্ডের অননুমোদিত ব্যবহার নিষিদ্ধ।
+
+LICENSE ফাইলে লাইসেন্সের সম্পূর্ণ শর্তাবলী দেখুন।

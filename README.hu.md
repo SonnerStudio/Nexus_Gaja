@@ -327,36 +327,28 @@ A rendszer világos logikai tartományokra (Bounded Contexts) van felosztva: ide
 
 ## Projekt állapota
 A projekt jelenleg az aktív építészeti és tervezési fázisban van.
-A folyamatban lévő építészeti döntések a „/docs” mappában vannak dokumentálva.
----
+A folyamatban lévő építészeti döntések a „/docs” mappában vannak dokumentálva.---
 
-## License & Intellectual Property
+## Licenc és szellemi tulajdon
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — All rights reserved.**
+> **© 2024–2026 Jan Sonner / SonnerStudio — Minden jog fenntartva.**
 
-**Nexus Gaja** is the exclusive intellectual property of **Jan Sonner**, operating under **SonnerStudio**.
+**A Nexus Gaja** a **SonnerStudio** keretében működő **Jan Sonner** kizárólagos szellemi tulajdona.
 
-Jan Sonner is the sole creator, architect, and owner of Nexus Gaja — including all concepts, architecture, domain models, brand identity, and associated documentation.
+Jan Sonner a Nexus Gaja egyedüli alkotója, tervezője és tulajdonosa — beleértve az összes koncepciót, architektúrát, domain modellt, márkaazonosságot és a kapcsolódó dokumentációt.
 
-**No rights, licenses, or ownership interests are held by any third party**, regardless of their size, market position, or influence in the technology industry.
+**Semmilyen jog, licenc vagy tulajdoni érdek nem illeti meg harmadik feleket**, tekintet nélkül méretükre, piaci pozíciójukra vagy technológiai iparban betöltött befolyásukra.
 
-### What is NOT permitted without explicit written consent:
-- ❌ Copying, reproducing, or distributing this software or its documentation
-- ❌ Modifying, adapting, or creating derivative works
-- ❌ Commercial use of any part of Nexus Gaja
-- ❌ Using the contents of this repository as **training data for AI/LLM systems**
-- ❌ Sublicensing or transferring any rights to third parties
+### Mi NEM megengedett kifejezett írásbeli hozzájárulás nélkül:
+- ❌ A szoftver vagy dokumentációjának másolása, sokszorosítása vagy terjesztése
+- ❌ Módosítás, adaptálás vagy származékos művek létrehozása
+- ❌ A Nexus Gaja bármely részének kereskedelmi felhasználása
+- ❌ A repozitórium tartalmának AI vagy LLM rendszerek betanítási adatként való felhasználása
+- ❌ Jogok allicencelése vagy átruházása harmadik felekre
 
-### Protected Intellectual Property
-The following original concepts are protected as trade secrets and proprietary creations of Jan Sonner:
-- The layered communication model *(Original / Semantic Interpretation / Translated Output)*
-- The identity separation principle *(Person ≠ Account ≠ Identity Verification)*
-- The Message-Translation decoupling model *(Message ≠ Translation)*
-- The AI moderation governance framework
+### Kapcsolat
+Licenc-kérdések esetén: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-### Contact
-For licensing inquiries: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+*A „Nexus Gaja" és a Nexus Gaja logó Jan Sonner védjegyei. A név vagy márka jogosulatlan használata tilos.*
 
-*"Nexus Gaja" and the Nexus Gaja logo are trademarks of Jan Sonner. Unauthorized use of the name or brand is prohibited.*
-
-➡️ See full license terms in [LICENSE](LICENSE)
+➡️ A teljes licencfeltételeket a [LICENSE](LICENSE) fájlban találja

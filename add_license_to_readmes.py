@@ -1,8 +1,18 @@
+"""
+Replaces the English license section in all README files (except DE, ES, TR, ZH, EN)
+with a properly translated version in the respective language.
+"""
+
 import os
 import glob
+import time
+from deep_translator import GoogleTranslator
 
-LICENSE_EN = """
----
+# Languages with already-correct native translations - skip these
+SKIP_LANGS = {"en", "de", "es", "tr", "zh"}
+
+# The English license template to translate
+LICENSE_EN_TEMPLATE = """---
 
 ## License & Intellectual Property
 
@@ -15,170 +25,124 @@ Jan Sonner is the sole creator, architect, and owner of Nexus Gaja — including
 **No rights, licenses, or ownership interests are held by any third party**, regardless of their size, market position, or influence in the technology industry.
 
 ### What is NOT permitted without explicit written consent:
-- ❌ Copying, reproducing, or distributing this software or its documentation
-- ❌ Modifying, adapting, or creating derivative works
-- ❌ Commercial use of any part of Nexus Gaja
-- ❌ Using the contents of this repository as **training data for AI/LLM systems**
-- ❌ Sublicensing or transferring any rights to third parties
+- Copying, reproducing, or distributing this software or its documentation
+- Modifying, adapting, or creating derivative works
+- Commercial use of any part of Nexus Gaja
+- Using the contents of this repository as training data for AI or LLM systems
+- Sublicensing or transferring any rights to third parties
 
 ### Protected Intellectual Property
 The following original concepts are protected as trade secrets and proprietary creations of Jan Sonner:
-- The layered communication model *(Original / Semantic Interpretation / Translated Output)*
-- The identity separation principle *(Person ≠ Account ≠ Identity Verification)*
-- The Message-Translation decoupling model *(Message ≠ Translation)*
+- The layered communication model (Original, Semantic Interpretation, Translated Output)
+- The identity separation principle (Person is not Account is not Identity Verification)
+- The Message-Translation decoupling model (Message is not Translation)
 - The AI moderation governance framework
 
 ### Contact
-For licensing inquiries: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+For licensing inquiries: https://github.com/SonnerStudio
 
-*"Nexus Gaja" and the Nexus Gaja logo are trademarks of Jan Sonner. Unauthorized use of the name or brand is prohibited.*
+Nexus Gaja and the Nexus Gaja logo are trademarks of Jan Sonner. Unauthorized use of the name or brand is prohibited.
 
-➡️ See full license terms in [LICENSE](LICENSE)
-"""
+See full license terms in the LICENSE file."""
 
-LICENSE_TRANSLATIONS = {
-    "de": """
----
+# The marker that identifies the start of the English license section
+LICENSE_MARKER = "\n---\n\n## License"
 
-## Lizenz & Geistiges Eigentum
+def translate_text(text, target_lang):
+    """Translate text using Google Translate via deep-translator."""
+    try:
+        translator = GoogleTranslator(source='en', target=target_lang)
+        # Split into chunks of max 4000 chars to avoid API limits
+        chunks = []
+        lines = text.split('\n')
+        current_chunk = []
+        current_len = 0
+        
+        for line in lines:
+            if current_len + len(line) > 3500:
+                chunks.append('\n'.join(current_chunk))
+                current_chunk = [line]
+                current_len = len(line)
+            else:
+                current_chunk.append(line)
+                current_len += len(line) + 1
+        
+        if current_chunk:
+            chunks.append('\n'.join(current_chunk))
+        
+        translated_chunks = []
+        for chunk in chunks:
+            if chunk.strip():
+                t = translator.translate(chunk)
+                translated_chunks.append(t)
+                time.sleep(0.5)  # Rate limiting
+            else:
+                translated_chunks.append(chunk)
+        
+        return '\n'.join(translated_chunks)
+    except Exception as e:
+        print(f"    [ERROR] Translation failed: {e}")
+        return None
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — Alle Rechte vorbehalten.**
+def remove_english_license(content):
+    """Remove the English license section from README content."""
+    idx = content.find(LICENSE_MARKER)
+    if idx == -1:
+        # Try alternate marker
+        idx = content.find("\n---\n\n## License & Intellectual Property")
+    if idx == -1:
+        return content, False
+    return content[:idx], True
 
-**Nexus Gaja** ist das ausschließliche geistige Eigentum von **Jan Sonner**, tätig unter **SonnerStudio**.
-
-Jan Sonner ist der alleinige Schöpfer, Architekt und Inhaber von Nexus Gaja — einschließlich aller Konzepte, Architekturen, Domänenmodelle, Markenidentität und zugehörigen Dokumentationen.
-
-**Keinerlei Rechte, Lizenzen oder Eigentumsinteressen werden Dritten gewährt**, unabhängig von deren Größe, Marktstellung oder Einfluss in der Technologiebranche.
-
-### Was NICHT ohne ausdrückliche schriftliche Zustimmung gestattet ist:
-- ❌ Kopieren, Vervielfältigen oder Verbreiten dieser Software oder ihrer Dokumentation
-- ❌ Modifizieren, Anpassen oder Erstellen abgeleiteter Werke
-- ❌ Kommerzielle Nutzung jeglicher Teile von Nexus Gaja
-- ❌ Verwendung des Repository-Inhalts als **Trainingsdaten für KI/LLM-Systeme**
-- ❌ Unterlizenzierung oder Übertragung von Rechten an Dritte
-
-### Geschütztes geistiges Eigentum
-Folgende Originalkonzepte sind als Geschäftsgeheimnisse und proprietäre Schöpfungen von Jan Sonner geschützt:
-- Das mehrschichtige Kommunikationsmodell *(Original / Semantische Interpretation / Übersetzte Ausgabe)*
-- Das Identitätstrennungsprinzip *(Person ≠ Benutzerkonto ≠ Identitätsverifikation)*
-- Das Nachricht-Übersetzungs-Entkopplungsmodell *(Nachricht ≠ Übersetzung)*
-- Das KI-Moderations-Governance-Framework
-
-### Kontakt
-Für Lizenzanfragen: [github.com/SonnerStudio](https://github.com/SonnerStudio)
-
-*„Nexus Gaja" und das Nexus-Gaja-Logo sind Marken von Jan Sonner. Die unbefugte Verwendung des Namens oder der Marke ist untersagt.*
-
-➡️ Vollständige Lizenzbedingungen in [LICENSE](LICENSE)
-""",
-    "es": """
----
-
-## Licencia y Propiedad Intelectual
-
-> **© 2024–2026 Jan Sonner / SonnerStudio — Todos los derechos reservados.**
-
-**Nexus Gaja** es propiedad intelectual exclusiva de **Jan Sonner**, que opera bajo **SonnerStudio**.
-
-Jan Sonner es el único creador, arquitecto y propietario de Nexus Gaja, incluyendo todos los conceptos, arquitecturas, modelos de dominio, identidad de marca y documentación asociada.
-
-**Ningún derecho, licencia o interés de propiedad es otorgado a terceros**, independientemente de su tamaño, posición en el mercado o influencia en la industria tecnológica.
-
-### Lo que NO está permitido sin consentimiento escrito explícito:
-- ❌ Copiar, reproducir o distribuir este software o su documentación
-- ❌ Modificar, adaptar o crear obras derivadas
-- ❌ Uso comercial de cualquier parte de Nexus Gaja
-- ❌ Usar el contenido de este repositorio como **datos de entrenamiento para sistemas de IA/LLM**
-- ❌ Sublicenciar o transferir derechos a terceros
-
-### Contacto
-Para consultas de licencias: [github.com/SonnerStudio](https://github.com/SonnerStudio)
-
-➡️ Ver términos completos de licencia en [LICENSE](LICENSE)
-""",
-    "tr": """
----
-
-## Lisans ve Fikri Mülkiyet
-
-> **© 2024–2026 Jan Sonner / SonnerStudio — Tüm hakları saklıdır.**
-
-**Nexus Gaja**, **SonnerStudio** bünyesinde faaliyet gösteren **Jan Sonner**'ın münhasır fikri mülkiyetidir.
-
-Jan Sonner, tüm kavramlar, mimariler, alan modelleri, marka kimliği ve ilgili belgeler dahil olmak üzere Nexus Gaja'nın tek yaratıcısı, mimarı ve sahibidir.
-
-**Teknoloji sektöründeki büyüklükleri, piyasa konumları veya etkileri ne olursa olsun, hiçbir üçüncü tarafa herhangi bir hak, lisans veya mülkiyet çıkarı tanınmamaktadır.**
-
-### Açık yazılı izin olmaksızın YAPILAMAYACAKLAR:
-- ❌ Bu yazılımın veya belgelerinin kopyalanması, çoğaltılması veya dağıtılması
-- ❌ Değiştirme, uyarlama veya türev eserler oluşturma
-- ❌ Nexus Gaja'nın herhangi bir bölümünün ticari kullanımı
-- ❌ Bu deponun içeriğinin **yapay zeka/LLM sistemleri için eğitim verisi** olarak kullanılması
-- ❌ Hakların üçüncü taraflara alt lisanslama veya devredilmesi
-
-### İletişim
-Lisans sorguları için: [github.com/SonnerStudio](https://github.com/SonnerStudio)
-
-➡️ Tam lisans koşulları için [LICENSE](LICENSE) dosyasına bakın
-""",
-    "zh": """
----
-
-## 许可证与知识产权
-
-> **© 2024–2026 Jan Sonner / SonnerStudio — 保留所有权利。**
-
-**Nexus Gaja** 是 **Jan Sonner**（以 **SonnerStudio** 名义运营）的专有知识产权。
-
-Jan Sonner 是 Nexus Gaja 的唯一创造者、架构师和所有者，包括所有概念、架构、领域模型、品牌标识及相关文档。
-
-**无论任何第三方在技术行业的规模、市场地位或影响力如何，均不授予任何权利、许可或所有权权益。**
-
-### 未经明确书面同意，不得进行以下操作：
-- ❌ 复制、再现或分发本软件或其文档
-- ❌ 修改、改编或创建衍生作品
-- ❌ 将 Nexus Gaja 的任何部分用于商业目的
-- ❌ 将本存储库内容用作**人工智能/大语言模型系统的训练数据**
-- ❌ 向第三方转授许可或转让权利
-
-### 联系方式
-许可查询：[github.com/SonnerStudio](https://github.com/SonnerStudio)
-
-➡️ 完整许可条款请参见 [LICENSE](LICENSE)
-"""
-}
-
-def append_license(filepath, lang_code):
+def process_readme(filepath, lang_code):
+    """Translate and replace the license section for a given README."""
     with open(filepath, "r", encoding="utf-8") as f:
         content = f.read()
+    
+    # Remove existing English license section
+    new_content, found = remove_english_license(content)
+    if not found:
+        print(f"  [WARN] No license section found in {os.path.basename(filepath)}")
+        new_content = content
 
-    # Skip if already has license section
-    if "## License" in content or "## Lizenz" in content or "## Licencia" in content or "## Lisans" in content or "许可证" in content:
-        print(f"  [SKIP] {filepath} already has license section")
-        return
-
-    if lang_code in LICENSE_TRANSLATIONS:
-        license_text = LICENSE_TRANSLATIONS[lang_code]
-    else:
-        license_text = LICENSE_EN
-
-    with open(filepath, "a", encoding="utf-8") as f:
-        f.write(license_text)
-
-    print(f"  [OK] Added license to {os.path.basename(filepath)}")
+    print(f"  [TRANSLATING] {os.path.basename(filepath)} ({lang_code})...")
+    translated = translate_text(LICENSE_EN_TEMPLATE, lang_code)
+    
+    if translated is None:
+        print(f"  [SKIP] Could not translate for {lang_code}, keeping English")
+        return False
+    
+    # Append translated license
+    with open(filepath, "w", encoding="utf-8") as f:
+        f.write(new_content)
+        f.write("\n\n---\n\n")
+        f.write(translated)
+        f.write("\n")
+    
+    print(f"  [OK] {os.path.basename(filepath)} updated with {lang_code} license")
+    return True
 
 # Process all README files
 files = sorted(glob.glob("README*.md"))
-print(f"Processing {len(files)} README files...")
+to_process = []
 
 for filepath in files:
     name = os.path.basename(filepath)
-    # Extract language code
     if name == "README.md":
         lang = "en"
     else:
         lang = name.replace("README.", "").replace(".md", "")
     
-    append_license(filepath, lang)
+    if lang not in SKIP_LANGS:
+        to_process.append((filepath, lang))
 
-print(f"\nDone! Processed {len(files)} files.")
+print(f"Processing {len(to_process)} README files (skipping EN, DE, ES, TR, ZH)...\n")
+
+success = 0
+for filepath, lang in to_process:
+    ok = process_readme(filepath, lang)
+    if ok:
+        success += 1
+    time.sleep(1)  # Rate limiting between files
+
+print(f"\nDone! Successfully translated {success}/{len(to_process)} files.")

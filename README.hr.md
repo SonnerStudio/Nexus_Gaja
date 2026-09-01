@@ -327,36 +327,28 @@ Sustav je podijeljen u jasne logičke domene (ograničene kontekste): identitet,
 
 ## Status projekta
 Projekt je trenutno u fazi aktivne arhitekture i planiranja.
-Tekuće arhitektonske odluke dokumentirane su u mapi `/docs`.
----
+Tekuće arhitektonske odluke dokumentirane su u mapi `/docs`.---
 
-## License & Intellectual Property
+## Licenca i intelektualno vlasništvo
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — All rights reserved.**
+> **© 2024–2026 Jan Sonner / SonnerStudio — Sva prava pridržana.**
 
-**Nexus Gaja** is the exclusive intellectual property of **Jan Sonner**, operating under **SonnerStudio**.
+**Nexus Gaja** je isključivo intelektualno vlasništvo **Jana Sonnera**, koji djeluje pod **SonnerStudio**.
 
-Jan Sonner is the sole creator, architect, and owner of Nexus Gaja — including all concepts, architecture, domain models, brand identity, and associated documentation.
+Jan Sonner je jedini kreator, arhitekt i vlasnik Nexus Gaje — uključujući sve koncepte, arhitekturu, domenalne modele, identitet marke i povezanu dokumentaciju.
 
-**No rights, licenses, or ownership interests are held by any third party**, regardless of their size, market position, or influence in the technology industry.
+**Nikakva prava, licence ili vlasnički interesi nisu dodijeljeni trećim stranama**, bez obzira na njihovu veličinu, tržišnu poziciju ili utjecaj u tehnološkoj industriji.
 
-### What is NOT permitted without explicit written consent:
-- ❌ Copying, reproducing, or distributing this software or its documentation
-- ❌ Modifying, adapting, or creating derivative works
-- ❌ Commercial use of any part of Nexus Gaja
-- ❌ Using the contents of this repository as **training data for AI/LLM systems**
-- ❌ Sublicensing or transferring any rights to third parties
+### Što NIJE dopušteno bez izričitog pisanog pristanka:
+- ❌ Kopiranje, reproduciranje ili distribucija ovog softvera ili njegove dokumentacije
+- ❌ Modificiranje, prilagodba ili stvaranje izvedenih djela
+- ❌ Komercijalna upotreba bilo kojeg dijela Nexus Gaje
+- ❌ Korištenje sadržaja ovog repozitorija kao podataka za obuku AI ili LLM sustava
+- ❌ Podlicenciranje ili prijenos prava trećim stranama
 
-### Protected Intellectual Property
-The following original concepts are protected as trade secrets and proprietary creations of Jan Sonner:
-- The layered communication model *(Original / Semantic Interpretation / Translated Output)*
-- The identity separation principle *(Person ≠ Account ≠ Identity Verification)*
-- The Message-Translation decoupling model *(Message ≠ Translation)*
-- The AI moderation governance framework
+### Kontakt
+Za upite o licenciranju: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-### Contact
-For licensing inquiries: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+*„Nexus Gaja" i logotip Nexus Gaja zaštitni su znakovi Jana Sonnera. Neovlaštena upotreba imena ili marke je zabranjena.*
 
-*"Nexus Gaja" and the Nexus Gaja logo are trademarks of Jan Sonner. Unauthorized use of the name or brand is prohibited.*
-
-➡️ See full license terms in [LICENSE](LICENSE)
+➡️ Pogledajte pune uvjete licence u [LICENSE](LICENSE)

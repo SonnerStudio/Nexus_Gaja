@@ -328,35 +328,38 @@ Systém je rozdělen do jasných logických oblastí (Ohraničené kontexty): Id
 ## Stav projektu
 Projekt je v současné době ve fázi aktivní architektury a plánování.
 Probíhající architektonická rozhodnutí jsou dokumentována ve složce `/docs`.
+
 ---
 
-## License & Intellectual Property
+---
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — All rights reserved.**
+## Licence a duševní vlastnictví
 
-**Nexus Gaja** is the exclusive intellectual property of **Jan Sonner**, operating under **SonnerStudio**.
+> **© 2024–2026 Jan Sonner / SonnerStudio — Všechna práva vyhrazena.**
 
-Jan Sonner is the sole creator, architect, and owner of Nexus Gaja — including all concepts, architecture, domain models, brand identity, and associated documentation.
+**Nexus Gaja** je výhradním duševním vlastnictvím **Jana Sonnera** působícího pod **SonnerStudio**.
 
-**No rights, licenses, or ownership interests are held by any third party**, regardless of their size, market position, or influence in the technology industry.
+Jan Sonner je jediným tvůrcem, architektem a vlastníkem Nexus Gaja – včetně všech konceptů, architektury, modelů domén, identity značky a související dokumentace.
 
-### What is NOT permitted without explicit written consent:
-- ❌ Copying, reproducing, or distributing this software or its documentation
-- ❌ Modifying, adapting, or creating derivative works
-- ❌ Commercial use of any part of Nexus Gaja
-- ❌ Using the contents of this repository as **training data for AI/LLM systems**
-- ❌ Sublicensing or transferring any rights to third parties
+**Žádná třetí strana nemá v držení žádná práva, licence ani vlastnické podíly**, bez ohledu na jejich velikost, postavení na trhu nebo vliv v technologickém průmyslu.
 
-### Protected Intellectual Property
-The following original concepts are protected as trade secrets and proprietary creations of Jan Sonner:
-- The layered communication model *(Original / Semantic Interpretation / Translated Output)*
-- The identity separation principle *(Person ≠ Account ≠ Identity Verification)*
-- The Message-Translation decoupling model *(Message ≠ Translation)*
-- The AI moderation governance framework
+### Co NENÍ povoleno bez výslovného písemného souhlasu:
+- Kopírování, rozmnožování nebo distribuce tohoto softwaru nebo jeho dokumentace
+- Modifikace, adaptace nebo vytváření odvozených děl
+- Komerční využití jakékoli části Nexus Gaja
+- Použití obsahu tohoto úložiště jako tréninkových dat pro systémy AI nebo LLM
+- Poskytování sublicence nebo převod jakýchkoli práv na třetí strany
 
-### Contact
-For licensing inquiries: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+### Chráněné duševní vlastnictví
+Následující originální koncepty jsou chráněny jako obchodní tajemství a vlastní výtvory Jana Sonnera:
+- Vrstvený komunikační model (originál, sémantická interpretace, přeložený výstup)
+- Princip oddělení identity (osoba není účet není ověření identity)
+- Model oddělení překladu zpráv (zpráva není překlad)
+- Rámec řízení moderování umělé inteligence
 
-*"Nexus Gaja" and the Nexus Gaja logo are trademarks of Jan Sonner. Unauthorized use of the name or brand is prohibited.*
+### Kontakt
+Pro dotazy ohledně licencí: https://github.com/SonnerStudio
 
-➡️ See full license terms in [LICENSE](LICENSE)
+Nexus Gaja a logo Nexus Gaja jsou ochranné známky společnosti Jan Sonner. Neoprávněné použití názvu nebo značky je zakázáno.
+
+Úplné licenční podmínky naleznete v souboru LICENSE.

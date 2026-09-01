@@ -328,35 +328,38 @@ To ensure system stability, security, and scalability, Nexus Gaja follows a stri
 ## परियोजना की स्थिति
 परियोजना वर्तमान में सक्रिय वास्तुकला और योजना चरण में है।
 चल रहे वास्तुशिल्प निर्णयों को `/docs` फ़ोल्डर में प्रलेखित किया जाता है।
+
 ---
 
-## License & Intellectual Property
+---
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — All rights reserved.**
+## लाइसेंस एवं बौद्धिक संपदा
 
-**Nexus Gaja** is the exclusive intellectual property of **Jan Sonner**, operating under **SonnerStudio**.
+> **© 2024–2026 जनवरी सोनर / सोनरस्टूडियो - सर्वाधिकार सुरक्षित।**
 
-Jan Sonner is the sole creator, architect, and owner of Nexus Gaja — including all concepts, architecture, domain models, brand identity, and associated documentation.
+**नेक्सस गाजा** **जन सोनर** की विशिष्ट बौद्धिक संपदा है, जो **सोनरस्टूडियो** के अंतर्गत संचालित होती है।
 
-**No rights, licenses, or ownership interests are held by any third party**, regardless of their size, market position, or influence in the technology industry.
+जान सोननर नेक्सस गाजा के एकमात्र निर्माता, वास्तुकार और मालिक हैं - जिसमें सभी अवधारणाएं, वास्तुकला, डोमेन मॉडल, ब्रांड पहचान और संबंधित दस्तावेज़ शामिल हैं।
 
-### What is NOT permitted without explicit written consent:
-- ❌ Copying, reproducing, or distributing this software or its documentation
-- ❌ Modifying, adapting, or creating derivative works
-- ❌ Commercial use of any part of Nexus Gaja
-- ❌ Using the contents of this repository as **training data for AI/LLM systems**
-- ❌ Sublicensing or transferring any rights to third parties
+**कोई भी अधिकार, लाइसेंस या स्वामित्व हित किसी तीसरे पक्ष के पास नहीं है**, चाहे उनका आकार, बाजार स्थिति, या प्रौद्योगिकी उद्योग में प्रभाव कुछ भी हो।
 
-### Protected Intellectual Property
-The following original concepts are protected as trade secrets and proprietary creations of Jan Sonner:
-- The layered communication model *(Original / Semantic Interpretation / Translated Output)*
-- The identity separation principle *(Person ≠ Account ≠ Identity Verification)*
-- The Message-Translation decoupling model *(Message ≠ Translation)*
-- The AI moderation governance framework
+### स्पष्ट लिखित सहमति के बिना क्या अनुमति नहीं है:
+- इस सॉफ़्टवेयर या इसके दस्तावेज़ की प्रतिलिपि बनाना, पुन: प्रस्तुत करना या वितरित करना
+- व्युत्पन्न कार्यों को संशोधित करना, अनुकूलित करना या बनाना
+- नेक्सस गाजा के किसी भी हिस्से का व्यावसायिक उपयोग
+- एआई या एलएलएम सिस्टम के लिए प्रशिक्षण डेटा के रूप में इस भंडार की सामग्री का उपयोग करना
+- उपलाइसेंस देना या किसी अधिकार को तीसरे पक्ष को हस्तांतरित करना
 
-### Contact
-For licensing inquiries: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+### संरक्षित बौद्धिक संपदा
+निम्नलिखित मूल अवधारणाएँ जन सोनर के व्यापार रहस्यों और मालिकाना कृतियों के रूप में संरक्षित हैं:
+- स्तरित संचार मॉडल (मूल, शब्दार्थ व्याख्या, अनुवादित आउटपुट)
+- पहचान पृथक्करण सिद्धांत (व्यक्ति खाता नहीं है पहचान सत्यापन नहीं है)
+- संदेश-अनुवाद डिकॉउलिंग मॉडल (संदेश अनुवाद नहीं है)
+- एआई मॉडरेशन गवर्नेंस फ्रेमवर्क
 
-*"Nexus Gaja" and the Nexus Gaja logo are trademarks of Jan Sonner. Unauthorized use of the name or brand is prohibited.*
+### संपर्क करें
+लाइसेंस संबंधी पूछताछ के लिए: https://github.com/SonnerStudio
 
-➡️ See full license terms in [LICENSE](LICENSE)
+नेक्सस गाजा और नेक्सस गाजा लोगो जान सोनर के ट्रेडमार्क हैं। नाम या ब्रांड का अनधिकृत उपयोग निषिद्ध है।
+
+LICENSE फ़ाइल में पूर्ण लाइसेंस शर्तें देखें।

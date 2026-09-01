@@ -328,35 +328,38 @@ Mfumo umegawanywa katika vikoa vya kimantiki vilivyo wazi (Miktadha Iliyounganis
 ##Hali ya Mradi
 Mradi kwa sasa uko katika hatua ya usanifu na upangaji hai.
 Maamuzi yanayoendelea ya usanifu yameandikwa kwenye folda ya `/hati`.
+
 ---
 
-## License & Intellectual Property
+---
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — All rights reserved.**
+## Leseni na Miliki Bunifu
 
-**Nexus Gaja** is the exclusive intellectual property of **Jan Sonner**, operating under **SonnerStudio**.
+> **© 2024–2026 Jan Sonner / SonnerStudio — Haki zote zimehifadhiwa.**
 
-Jan Sonner is the sole creator, architect, and owner of Nexus Gaja — including all concepts, architecture, domain models, brand identity, and associated documentation.
+**Nexus Gaja** ni mali ya kiakili ya kipekee ya **Jan Sonner**, inayofanya kazi chini ya **SonnerStudio**.
 
-**No rights, licenses, or ownership interests are held by any third party**, regardless of their size, market position, or influence in the technology industry.
+Jan Sonner ndiye mtayarishi, mbunifu na mmiliki pekee wa Nexus Gaja - ikijumuisha dhana zote, usanifu, miundo ya kikoa, utambulisho wa chapa, na nyaraka zinazohusiana.
 
-### What is NOT permitted without explicit written consent:
-- ❌ Copying, reproducing, or distributing this software or its documentation
-- ❌ Modifying, adapting, or creating derivative works
-- ❌ Commercial use of any part of Nexus Gaja
-- ❌ Using the contents of this repository as **training data for AI/LLM systems**
-- ❌ Sublicensing or transferring any rights to third parties
+**Hakuna haki, leseni, au maslahi ya umiliki yanayoshikiliwa na wahusika wengine **, bila kujali ukubwa wao, nafasi ya soko, au ushawishi katika sekta ya teknolojia.
 
-### Protected Intellectual Property
-The following original concepts are protected as trade secrets and proprietary creations of Jan Sonner:
-- The layered communication model *(Original / Semantic Interpretation / Translated Output)*
-- The identity separation principle *(Person ≠ Account ≠ Identity Verification)*
-- The Message-Translation decoupling model *(Message ≠ Translation)*
-- The AI moderation governance framework
+### Ni nini hakiruhusiwi bila kibali cha maandishi wazi:
+- Kunakili, kuzalisha, au kusambaza programu hii au nyaraka zake
+- Kurekebisha, kurekebisha, au kuunda kazi zinazotoka
+- Matumizi ya kibiashara ya sehemu yoyote ya Nexus Gaja
+- Kutumia yaliyomo kwenye hazina hii kama data ya mafunzo ya mifumo ya AI au LLM
+- Kutoa leseni au kuhamisha haki zozote kwa wahusika wengine
 
-### Contact
-For licensing inquiries: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+### Mali Miliki Iliyolindwa
+Dhana asilia zifuatazo zinalindwa kama siri za biashara na ubunifu wa wamiliki wa Jan Sonner:
+- Muundo wa mawasiliano wa tabaka (Halisi, Ufafanuzi wa kisemantiki, Toleo Lililotafsiriwa)
+- Kanuni ya kutenganisha utambulisho (Mtu sio Akaunti sio Uthibitishaji wa Utambulisho)
+- Muundo wa kutenganisha Ujumbe-Tafsiri (Ujumbe sio Tafsiri)
+- Mfumo wa usimamizi wa usimamizi wa AI
 
-*"Nexus Gaja" and the Nexus Gaja logo are trademarks of Jan Sonner. Unauthorized use of the name or brand is prohibited.*
+### Mawasiliano
+Kwa maswali ya leseni: https://github.com/SonnerStudio
 
-➡️ See full license terms in [LICENSE](LICENSE)
+Nexus Gaja na nembo ya Nexus Gaja ni alama za biashara za Jan Sonner. Matumizi yasiyoidhinishwa ya jina au chapa ni marufuku.
+
+Angalia masharti kamili ya leseni katika faili ya LICENSE.

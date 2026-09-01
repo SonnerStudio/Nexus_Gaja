@@ -327,36 +327,28 @@ Nexus Gaja は、明確なドメイン境界を持つモジュール式モノリ
 
 ## プロジェクトのステータス
 このプロジェクトは現在、アクティブなアーキテクチャと計画段階にあります。
-現在進行中のアーキテクチャ上の決定は、「/docs」フォルダーに文書化されています。
----
+現在進行中のアーキテクチャ上の決定は、「/docs」フォルダーに文書化されています。---
 
-## License & Intellectual Property
+## ライセンスと知的財産権
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — All rights reserved.**
+> **© 2024–2026 Jan Sonner / SonnerStudio — 全ての権利を保有。**
 
-**Nexus Gaja** is the exclusive intellectual property of **Jan Sonner**, operating under **SonnerStudio**.
+**Nexus Gaja** は、**SonnerStudio** として活動する **Jan Sonner** の独占的な知的財産です。
 
-Jan Sonner is the sole creator, architect, and owner of Nexus Gaja — including all concepts, architecture, domain models, brand identity, and associated documentation.
+Jan Sonner は、すべての概念、アーキテクチャ、ドメインモデル、ブランドアイデンティティ、および関連ドキュメントを含む Nexus Gaja の唯一の創造者、設計者、および所有者です。
 
-**No rights, licenses, or ownership interests are held by any third party**, regardless of their size, market position, or influence in the technology industry.
+**いかなる第三者にも権利、ライセンス、または所有権は付与されません**（テクノロジー業界での規模、市場での地位、または影響力にかかわらず）。
 
-### What is NOT permitted without explicit written consent:
-- ❌ Copying, reproducing, or distributing this software or its documentation
-- ❌ Modifying, adapting, or creating derivative works
-- ❌ Commercial use of any part of Nexus Gaja
-- ❌ Using the contents of this repository as **training data for AI/LLM systems**
-- ❌ Sublicensing or transferring any rights to third parties
+### 明示的な書面による同意なしに許可されていないこと:
+- ❌ このソフトウェアまたはそのドキュメントのコピー、複製、または配布
+- ❌ 修正、改変、または派生物の作成
+- ❌ Nexus Gaja のいかなる部分の商業的使用
+- ❌ このリポジトリのコンテンツを AI または LLM システムのトレーニングデータとして使用
+- ❌ 第三者へのサブライセンスまたは権利の譲渡
 
-### Protected Intellectual Property
-The following original concepts are protected as trade secrets and proprietary creations of Jan Sonner:
-- The layered communication model *(Original / Semantic Interpretation / Translated Output)*
-- The identity separation principle *(Person ≠ Account ≠ Identity Verification)*
-- The Message-Translation decoupling model *(Message ≠ Translation)*
-- The AI moderation governance framework
+### 連絡先
+ライセンスに関するお問い合わせ: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-### Contact
-For licensing inquiries: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+*「Nexus Gaja」および Nexus Gaja ロゴは Jan Sonner の商標です。名前またはブランドの無断使用は禁止されています。*
 
-*"Nexus Gaja" and the Nexus Gaja logo are trademarks of Jan Sonner. Unauthorized use of the name or brand is prohibited.*
-
-➡️ See full license terms in [LICENSE](LICENSE)
+➡️ 完全なライセンス条項は [LICENSE](LICENSE) ファイルをご覧ください

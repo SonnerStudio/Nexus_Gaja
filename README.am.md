@@ -327,36 +327,35 @@ Nexus Gaja እንደ ሞዱል ሞኖሊት ከግልጽ የጎራ ድንበሮ�
 
 ## የፕሮጀክት ሁኔታ
 ፕሮጀክቱ በአሁኑ ጊዜ በሥነ ሕንፃ እና በዕቅድ ደረጃ ላይ ነው።
-በመካሄድ ላይ ያሉ የስነ-ህንፃ ውሳኔዎች በ`/ሰነዶች` አቃፊ ውስጥ ተመዝግበው ይገኛሉ።
----
+በመካሄድ ላይ ያሉ የስነ-ህንፃ ውሳኔዎች በ`/ሰነዶች` አቃፊ ውስጥ ተመዝግበው ይገኛሉ።---
 
-## License & Intellectual Property
+## ፍቃድ እና የአዕምሮ ንብረት
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — All rights reserved.**
+> **© 2024–2026 ጃን ሶነር / SonnerStudio — ሁሉም መብቶች የተጠበቁ ናቸው።**
 
-**Nexus Gaja** is the exclusive intellectual property of **Jan Sonner**, operating under **SonnerStudio**.
+**Nexus Gaja** የ**ጃን ሶነር** ብቸኛ የአዕምሮ ንብረት ነው፣ በ**SonnerStudio** ስር ይሠራል።
 
-Jan Sonner is the sole creator, architect, and owner of Nexus Gaja — including all concepts, architecture, domain models, brand identity, and associated documentation.
+ጃን ሶነር ሁሉንም ፅንሰ-ሀሳቦች፣ አርክቴክቸር፣ ዶሜይን ሞዴሎች፣ የምርት ማንነት እና ተዛማጅ ሰነዶችን ጨምሮ የ Nexus Gaja ብቸኛ ፈጣሪ፣ አርክቴክት እና ባለቤት ነው።
 
-**No rights, licenses, or ownership interests are held by any third party**, regardless of their size, market position, or influence in the technology industry.
+**ምንም ዓይነት መብቶች፣ ፍቃዶች ወይም የባለቤትነት ጥቅሞች ለሶስተኛ ወገኖች አይሰጡም**፣ የቴክኖሎጂ ኢንዱስትሪ ውስጥ ያላቸው መጠን፣ የገበያ ቦታ ወይም ተጽዕኖ ምንም ይሁን።
 
-### What is NOT permitted without explicit written consent:
-- ❌ Copying, reproducing, or distributing this software or its documentation
-- ❌ Modifying, adapting, or creating derivative works
-- ❌ Commercial use of any part of Nexus Gaja
-- ❌ Using the contents of this repository as **training data for AI/LLM systems**
-- ❌ Sublicensing or transferring any rights to third parties
+### ያለ ግልጽ የጽሑፍ ፈቃድ የማይፈቀዱ ነገሮች:
+- ❌ ይህንን ሶፍትዌር ወይም ሰነዶቹን መቅዳት፣ ማባዛት ወይም ማሰራጨት
+- ❌ ማሻሻያ፣ ማላበሻ ወይም ተዋጽኦ ሥራዎች መፍጠር
+- ❌ ከ Nexus Gaja ማንኛውም ክፍል የሚገኝ ንግዳዊ አጠቃቀም
+- ❌ የዚህ ማከማቻ ይዘቶችን ለ AI ወይም LLM ስርዓቶች የሥልጠና ውሂብ አድርጎ መጠቀም
+- ❌ ለሶስተኛ ወገኖች ፍቃዶችን ንዑስ-ፍቃድ ወይም ማስተላለፍ
 
-### Protected Intellectual Property
-The following original concepts are protected as trade secrets and proprietary creations of Jan Sonner:
-- The layered communication model *(Original / Semantic Interpretation / Translated Output)*
-- The identity separation principle *(Person ≠ Account ≠ Identity Verification)*
-- The Message-Translation decoupling model *(Message ≠ Translation)*
-- The AI moderation governance framework
+### ያቀፈ የአዕምሮ ንብረት
+የሚከተሉት ዋና ፅንሰ-ሀሳቦች በጃን ሶነር ባለቤትነት ምስጢሮች እና ብቸኛ ፈጠራዎች ተጠብቀዋል:
+- ስፋት ያለው የግንኙነት ሞዴል *(ዋና / የትርጉም ትርጓሜ / የተተረጎመ ውጤት)*
+- የማንነት ልዩነት መርህ *(ሰው ≠ መለያ ≠ የማንነት ማረጋገጫ)*
+- የመልዕክት-ትርጉም መነጠፊያ ሞዴል *(መልዕክት ≠ ትርጉም)*
+- AI ሞዴሬሽን አስተዳደር ማዕቀፍ
 
-### Contact
-For licensing inquiries: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+### ያግኙን
+ለፍቃድ ጥያቄዎች: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-*"Nexus Gaja" and the Nexus Gaja logo are trademarks of Jan Sonner. Unauthorized use of the name or brand is prohibited.*
+*"Nexus Gaja" እና የ Nexus Gaja አርማ የጃን ሶነር ምልክቶች ናቸው። ስሙን ወይም ምርቱን ሳይፈቀድ መጠቀም የተከለከለ ነው።*
 
-➡️ See full license terms in [LICENSE](LICENSE)
+➡️ ሙሉ የፍቃድ ውሎችን በ [LICENSE](LICENSE) ፋይል ውስጥ ይመልከቱ

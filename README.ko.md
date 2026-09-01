@@ -327,36 +327,28 @@ Nexus Gaja는 도메인 경계가 명확한 모듈식 단일체로 설계된 엄
 
 ## 프로젝트 현황
 이 프로젝트는 현재 활발한 아키텍처 및 계획 단계에 있습니다.
-진행 중인 아키텍처 결정은 `/docs` 폴더에 문서화되어 있습니다.
----
+진행 중인 아키텍처 결정은 `/docs` 폴더에 문서화되어 있습니다.---
 
-## License & Intellectual Property
+## 라이선스 및 지적 재산권
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — All rights reserved.**
+> **© 2024–2026 Jan Sonner / SonnerStudio — 모든 권리 보유.**
 
-**Nexus Gaja** is the exclusive intellectual property of **Jan Sonner**, operating under **SonnerStudio**.
+**Nexus Gaja**는 **SonnerStudio** 산하에서 운영하는 **Jan Sonner**의 독점적 지적 재산입니다.
 
-Jan Sonner is the sole creator, architect, and owner of Nexus Gaja — including all concepts, architecture, domain models, brand identity, and associated documentation.
+Jan Sonner는 모든 개념, 아키텍처, 도메인 모델, 브랜드 아이덴티티 및 관련 문서를 포함한 Nexus Gaja의 유일한 창작자, 설계자 및 소유자입니다.
 
-**No rights, licenses, or ownership interests are held by any third party**, regardless of their size, market position, or influence in the technology industry.
+**기술 업계에서의 규모, 시장 지위 또는 영향력에 관계없이 어떠한 제3자에게도 권리, 라이선스 또는 소유권이 부여되지 않습니다.**
 
-### What is NOT permitted without explicit written consent:
-- ❌ Copying, reproducing, or distributing this software or its documentation
-- ❌ Modifying, adapting, or creating derivative works
-- ❌ Commercial use of any part of Nexus Gaja
-- ❌ Using the contents of this repository as **training data for AI/LLM systems**
-- ❌ Sublicensing or transferring any rights to third parties
+### 명시적인 서면 동의 없이 허용되지 않는 사항:
+- ❌ 이 소프트웨어 또는 문서의 복사, 재현 또는 배포
+- ❌ 수정, 개조 또는 파생 작업 생성
+- ❌ Nexus Gaja의 어떤 부분이든 상업적 사용
+- ❌ 이 저장소의 내용을 AI 또는 LLM 시스템의 학습 데이터로 사용
+- ❌ 제3자에게 권리 재라이선스 또는 양도
 
-### Protected Intellectual Property
-The following original concepts are protected as trade secrets and proprietary creations of Jan Sonner:
-- The layered communication model *(Original / Semantic Interpretation / Translated Output)*
-- The identity separation principle *(Person ≠ Account ≠ Identity Verification)*
-- The Message-Translation decoupling model *(Message ≠ Translation)*
-- The AI moderation governance framework
+### 연락처
+라이선스 문의: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-### Contact
-For licensing inquiries: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+*"Nexus Gaja" 및 Nexus Gaja 로고는 Jan Sonner의 상표입니다. 이름이나 브랜드의 무단 사용은 금지되어 있습니다.*
 
-*"Nexus Gaja" and the Nexus Gaja logo are trademarks of Jan Sonner. Unauthorized use of the name or brand is prohibited.*
-
-➡️ See full license terms in [LICENSE](LICENSE)
+➡️ 전체 라이선스 조건은 [LICENSE](LICENSE) 파일을 참조하세요
