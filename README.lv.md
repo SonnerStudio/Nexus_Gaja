@@ -335,9 +335,9 @@ Pašreizējie arhitektūras lēmumi tiek dokumentēti mapē /docs.
 
 ## Licence un intelektuālais īpašums
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — visas tiesības aizsargātas.**
+> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — visas tiesības aizsargātas.**
 
-**Nexus Gaja** ir ekskluzīvais **Jan Sonner** intelektuālais īpašums, kas darbojas **SonnerStudio** ietvaros.
+**Nexus Gaja** ir ekskluzīvais **Jan Friske** intelektuālais īpašums, kas darbojas **SonnerStudio** ietvaros.
 
 Jans Sonners ir vienīgais Nexus Gaja radītājs, arhitekts un īpašnieks, tostarp visas koncepcijas, arhitektūra, domēna modeļi, zīmola identitāte un saistītā dokumentācija.
 

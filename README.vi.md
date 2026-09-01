@@ -335,11 +335,11 @@ Các quyết định về kiến ​​trúc đang diễn ra được ghi lại 
 
 ## Giấy phép & Sở hữu trí tuệ
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — Bảo lưu mọi quyền.**
+> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — Bảo lưu mọi quyền.**
 
-**Nexus Gaja** là tài sản trí tuệ độc quyền của **Jan Sonner**, hoạt động dưới **SonnerStudio**.
+**Nexus Gaja** là tài sản trí tuệ độc quyền của **Jan Friske**, hoạt động dưới **SonnerStudio**.
 
-Jan Sonner là người sáng tạo, kiến ​​trúc sư và chủ sở hữu duy nhất của Nexus Gaja — bao gồm tất cả các khái niệm, kiến ​​trúc, mô hình miền, nhận diện thương hiệu và tài liệu liên quan.
+Jan Friske là người sáng tạo, kiến ​​trúc sư và chủ sở hữu duy nhất của Nexus Gaja — bao gồm tất cả các khái niệm, kiến ​​trúc, mô hình miền, nhận diện thương hiệu và tài liệu liên quan.
 
 **Không có quyền, giấy phép hoặc lợi ích sở hữu nào thuộc về bất kỳ bên thứ ba nào**, bất kể quy mô, vị trí thị trường hoặc tầm ảnh hưởng của họ trong ngành công nghệ.
 
@@ -351,7 +351,7 @@ Jan Sonner là người sáng tạo, kiến ​​trúc sư và chủ sở hữu
 - Cấp phép lại hoặc chuyển giao bất kỳ quyền nào cho bên thứ ba
 
 ### Sở hữu trí tuệ được bảo vệ
-Các khái niệm ban đầu sau đây được bảo vệ dưới dạng bí mật thương mại và sáng tạo độc quyền của Jan Sonner:
+Các khái niệm ban đầu sau đây được bảo vệ dưới dạng bí mật thương mại và sáng tạo độc quyền của Jan Friske:
 - Mô hình truyền thông phân lớp (Bản gốc, Phiên dịch ngữ nghĩa, Đầu ra được dịch)
 - Nguyên tắc tách biệt danh tính (Người không phải là Tài khoản không phải là Xác minh danh tính)
 - Mô hình tách tin nhắn-dịch (Tin nhắn không phải là dịch thuật)
@@ -360,6 +360,6 @@ Các khái niệm ban đầu sau đây được bảo vệ dưới dạng bí m�
 ### Liên hệ
 Để được giải đáp thắc mắc về giấy phép: https://github.com/SonnerStudio
 
-Nexus Gaja và logo Nexus Gaja là thương hiệu của Jan Sonner. Việc sử dụng trái phép tên hoặc nhãn hiệu đều bị cấm.
+Nexus Gaja và logo Nexus Gaja là thương hiệu của Jan Friske. Việc sử dụng trái phép tên hoặc nhãn hiệu đều bị cấm.
 
 Xem các điều khoản cấp phép đầy đủ trong tệp LICENSE.

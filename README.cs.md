@@ -335,11 +335,11 @@ Probíhající architektonická rozhodnutí jsou dokumentována ve složce `/doc
 
 ## Licence a duševní vlastnictví
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — Všechna práva vyhrazena.**
+> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — Všechna práva vyhrazena.**
 
 **Nexus Gaja** je výhradním duševním vlastnictvím **Jana Sonnera** působícího pod **SonnerStudio**.
 
-Jan Sonner je jediným tvůrcem, architektem a vlastníkem Nexus Gaja – včetně všech konceptů, architektury, modelů domén, identity značky a související dokumentace.
+Jan Friske je jediným tvůrcem, architektem a vlastníkem Nexus Gaja – včetně všech konceptů, architektury, modelů domén, identity značky a související dokumentace.
 
 **Žádná třetí strana nemá v držení žádná práva, licence ani vlastnické podíly**, bez ohledu na jejich velikost, postavení na trhu nebo vliv v technologickém průmyslu.
 
@@ -360,6 +360,6 @@ Následující originální koncepty jsou chráněny jako obchodní tajemství a
 ### Kontakt
 Pro dotazy ohledně licencí: https://github.com/SonnerStudio
 
-Nexus Gaja a logo Nexus Gaja jsou ochranné známky společnosti Jan Sonner. Neoprávněné použití názvu nebo značky je zakázáno.
+Nexus Gaja a logo Nexus Gaja jsou ochranné známky společnosti Jan Friske. Neoprávněné použití názvu nebo značky je zakázáno.
 
 Úplné licenční podmínky naleznete v souboru LICENSE.

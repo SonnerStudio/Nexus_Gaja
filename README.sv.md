@@ -335,11 +335,11 @@ Pågående arkitekturbeslut dokumenteras i mappen `/docs`.
 
 ## Licens och immateriella rättigheter
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — Alla rättigheter reserverade.**
+> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — Alla rättigheter reserverade.**
 
-**Nexus Gaja** är den exklusiva immateriella egendomen som tillhör **Jan Sonner**, som verkar under **SonnerStudio**.
+**Nexus Gaja** är den exklusiva immateriella egendomen som tillhör **Jan Friske**, som verkar under **SonnerStudio**.
 
-Jan Sonner är den enda skaparen, arkitekten och ägaren av Nexus Gaja – inklusive alla koncept, arkitektur, domänmodeller, varumärkesidentitet och tillhörande dokumentation.
+Jan Friske är den enda skaparen, arkitekten och ägaren av Nexus Gaja – inklusive alla koncept, arkitektur, domänmodeller, varumärkesidentitet och tillhörande dokumentation.
 
 **Inga rättigheter, licenser eller ägarintressen innehas av någon tredje part**, oavsett deras storlek, marknadsposition eller inflytande inom teknikindustrin.
 
@@ -351,7 +351,7 @@ Jan Sonner är den enda skaparen, arkitekten och ägaren av Nexus Gaja – inklu
 - Underlicensiering eller överföring av rättigheter till tredje part
 
 ### Skyddad immateriell egendom
-Följande originalkoncept är skyddade som affärshemligheter och patentskyddade skapelser av Jan Sonner:
+Följande originalkoncept är skyddade som affärshemligheter och patentskyddade skapelser av Jan Friske:
 - Den skiktade kommunikationsmodellen (original, semantisk tolkning, översatt utdata)
 - Identitetsseparationsprincipen (Person är inte konto är inte identitetsverifiering)
 - Avkopplingsmodellen för meddelande-översättning (Meddelande är inte översättning)
@@ -360,6 +360,6 @@ Följande originalkoncept är skyddade som affärshemligheter och patentskyddade
 ### Kontakt
 För licensförfrågningar: https://github.com/SonnerStudio
 
-Nexus Gaja och Nexus Gaja-logotypen är varumärken som tillhör Jan Sonner. Otillåten användning av namnet eller varumärket är förbjudet.
+Nexus Gaja och Nexus Gaja-logotypen är varumärken som tillhör Jan Friske. Otillåten användning av namnet eller varumärket är förbjudet.
 
 Se fullständiga licensvillkor i LICENS-filen.

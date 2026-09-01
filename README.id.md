@@ -331,11 +331,11 @@ Ongoing architectural decisions are documented in the `/docs` folder.---
 
 ## Lisensi & Kekayaan Intelektual
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — Semua hak dilindungi.**
+> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — Semua hak dilindungi.**
 
-**Nexus Gaja** adalah kekayaan intelektual eksklusif milik **Jan Sonner**, yang beroperasi di bawah **SonnerStudio**.
+**Nexus Gaja** adalah kekayaan intelektual eksklusif milik **Jan Friske**, yang beroperasi di bawah **SonnerStudio**.
 
-Jan Sonner adalah satu-satunya pencipta, arsitek, dan pemilik Nexus Gaja — termasuk semua konsep, arsitektur, model domain, identitas merek, dan dokumentasi terkait.
+Jan Friske adalah satu-satunya pencipta, arsitek, dan pemilik Nexus Gaja — termasuk semua konsep, arsitektur, model domain, identitas merek, dan dokumentasi terkait.
 
 **Tidak ada hak, lisensi, atau kepentingan kepemilikan yang diberikan kepada pihak ketiga**, terlepas dari ukuran, posisi pasar, atau pengaruh mereka di industri teknologi.
 
@@ -349,6 +349,6 @@ Jan Sonner adalah satu-satunya pencipta, arsitek, dan pemilik Nexus Gaja — ter
 ### Kontak
 Untuk pertanyaan lisensi: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-*"Nexus Gaja" dan logo Nexus Gaja adalah merek dagang Jan Sonner. Penggunaan nama atau merek yang tidak sah dilarang.*
+*"Nexus Gaja" dan logo Nexus Gaja adalah merek dagang Jan Friske. Penggunaan nama atau merek yang tidak sah dilarang.*
 
 ➡️ Lihat ketentuan lisensi lengkap di [LICENSE](LICENSE)

@@ -333,11 +333,11 @@ Ongoing architectural decisions are documented in the `/docs` folder.
 
 ## License & Intellectual Property
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — All rights reserved.**
+> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — All rights reserved.**
 
-**Nexus Gaja** is the exclusive intellectual property of **Jan Sonner**, operating under **SonnerStudio**.
+**Nexus Gaja** is the exclusive intellectual property of **Jan Friske**, operating under **SonnerStudio**.
 
-Jan Sonner is the sole creator, architect, and owner of Nexus Gaja — including all concepts, architecture, domain models, brand identity, and associated documentation.
+Jan Friske is the sole creator, architect, and owner of Nexus Gaja — including all concepts, architecture, domain models, brand identity, and associated documentation.
 
 **No rights, licenses, or ownership interests are held by any third party**, regardless of their size, market position, or influence in the technology industry.
 
@@ -349,7 +349,7 @@ Jan Sonner is the sole creator, architect, and owner of Nexus Gaja — including
 - ❌ Sublicensing or transferring any rights to third parties
 
 ### Protected Intellectual Property
-The following original concepts are protected as trade secrets and proprietary creations of Jan Sonner:
+The following original concepts are protected as trade secrets and proprietary creations of Jan Friske:
 - The layered communication model *(Original / Semantic Interpretation / Translated Output)*
 - The identity separation principle *(Person ≠ Account ≠ Identity Verification)*
 - The Message-Translation decoupling model *(Message ≠ Translation)*
@@ -358,6 +358,6 @@ The following original concepts are protected as trade secrets and proprietary c
 ### Contact
 For licensing inquiries: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-*"Nexus Gaja" and the Nexus Gaja logo are trademarks of Jan Sonner. Unauthorized use of the name or brand is prohibited.*
+*"Nexus Gaja" and the Nexus Gaja logo are trademarks of Jan Friske. Unauthorized use of the name or brand is prohibited.*
 
 ➡️ See full license terms in [LICENSE](LICENSE)

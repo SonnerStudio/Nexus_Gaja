@@ -335,11 +335,11 @@ Käynnissä olevat arkkitehtoniset päätökset dokumentoidaan "/docs"-kansioon.
 
 ## Lisenssi ja immateriaalioikeudet
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — Kaikki oikeudet pidätetään.**
+> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — Kaikki oikeudet pidätetään.**
 
-**Nexus Gaja** on **SonnerStudion** alaisuudessa toimivan **Jan Sonnerin** yksinoikeudellinen immateriaalioikeus.
+**Nexus Gaja** on **SonnerStudion** alaisuudessa toimivan **Jan Friskein** yksinoikeudellinen immateriaalioikeus.
 
-Jan Sonner on Nexus Gajan ainoa luoja, arkkitehti ja omistaja – mukaan lukien kaikki konseptit, arkkitehtuuri, verkkotunnusmallit, brändi-identiteetti ja siihen liittyvä dokumentaatio.
+Jan Friske on Nexus Gajan ainoa luoja, arkkitehti ja omistaja – mukaan lukien kaikki konseptit, arkkitehtuuri, verkkotunnusmallit, brändi-identiteetti ja siihen liittyvä dokumentaatio.
 
 **Millään kolmannella osapuolella ei ole oikeuksia, lisenssejä tai omistusosuuksia** riippumatta niiden koosta, markkina-asemasta tai vaikutuksesta teknologiateollisuudessa.
 
@@ -351,7 +351,7 @@ Jan Sonner on Nexus Gajan ainoa luoja, arkkitehti ja omistaja – mukaan lukien 
 - Alilisensointi tai oikeuksien siirtäminen kolmansille osapuolille
 
 ### Suojattu henkinen omaisuus
-Seuraavat alkuperäiset konseptit on suojattu liikesalaisuuksina ja Jan Sonnerin omistusoikeudellisina luomina:
+Seuraavat alkuperäiset konseptit on suojattu liikesalaisuuksina ja Jan Friskein omistusoikeudellisina luomina:
 - Kerrosviestintämalli (alkuperäinen, semanttinen tulkinta, käännetty tulos)
 - Henkilöllisyyden erotteluperiaate (henkilö ei ole tili ei ole henkilöllisyyden vahvistus)
 - Viestin ja käännöksen irrotusmalli (viesti ei ole käännöstä)
@@ -360,6 +360,6 @@ Seuraavat alkuperäiset konseptit on suojattu liikesalaisuuksina ja Jan Sonnerin
 ### Ota yhteyttä
 Lisenssitiedustelut: https://github.com/SonnerStudio
 
-Nexus Gaja ja Nexus Gaja -logo ovat Jan Sonnerin tavaramerkkejä. Nimen tai tuotemerkin luvaton käyttö on kielletty.
+Nexus Gaja ja Nexus Gaja -logo ovat Jan Friskein tavaramerkkejä. Nimen tai tuotemerkin luvaton käyttö on kielletty.
 
 Katso täydelliset lisenssiehdot LICENSE-tiedostosta.

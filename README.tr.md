@@ -330,11 +330,11 @@ Devam eden mimari kararlar `/docs` klasöründe belgelenmektedir.
 
 ## Lisans ve Fikri Mülkiyet
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — Tüm hakları saklıdır.**
+> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — Tüm hakları saklıdır.**
 
-**Nexus Gaja**, **SonnerStudio** bünyesinde faaliyet gösteren **Jan Sonner**'ın münhasır fikri mülkiyetidir.
+**Nexus Gaja**, **SonnerStudio** bünyesinde faaliyet gösteren **Jan Friske**'ın münhasır fikri mülkiyetidir.
 
-Jan Sonner, tüm kavramlar, mimariler, alan modelleri, marka kimliği ve ilgili belgeler dahil olmak üzere Nexus Gaja'nın tek yaratıcısı, mimarı ve sahibidir.
+Jan Friske, tüm kavramlar, mimariler, alan modelleri, marka kimliği ve ilgili belgeler dahil olmak üzere Nexus Gaja'nın tek yaratıcısı, mimarı ve sahibidir.
 
 **Teknoloji sektöründeki büyüklükleri, piyasa konumları veya etkileri ne olursa olsun, hiçbir üçüncü tarafa herhangi bir hak, lisans veya mülkiyet çıkarı tanınmamaktadır.**
 

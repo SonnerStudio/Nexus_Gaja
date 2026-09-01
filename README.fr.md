@@ -335,11 +335,11 @@ Les décisions architecturales en cours sont documentées dans le dossier `/docs
 
 ## Licence et propriété intellectuelle
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — Tous droits réservés.**
+> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — Tous droits réservés.**
 
-**Nexus Gaja** est la propriété intellectuelle exclusive de **Jan Sonner**, opérant sous **SonnerStudio**.
+**Nexus Gaja** est la propriété intellectuelle exclusive de **Jan Friske**, opérant sous **SonnerStudio**.
 
-Jan Sonner est l'unique créateur, architecte et propriétaire de Nexus Gaja, y compris tous les concepts, l'architecture, les modèles de domaine, l'identité de marque et la documentation associée.
+Jan Friske est l'unique créateur, architecte et propriétaire de Nexus Gaja, y compris tous les concepts, l'architecture, les modèles de domaine, l'identité de marque et la documentation associée.
 
 **Aucun droit, licence ou participation de propriété n'est détenu par un tiers**, quelle que soit sa taille, sa position sur le marché ou son influence dans le secteur technologique.
 
@@ -351,7 +351,7 @@ Jan Sonner est l'unique créateur, architecte et propriétaire de Nexus Gaja, y 
 - Sous-licence ou transfert de droits à des tiers
 
 ### Propriété intellectuelle protégée
-Les concepts originaux suivants sont protégés en tant que secrets commerciaux et créations exclusives de Jan Sonner :
+Les concepts originaux suivants sont protégés en tant que secrets commerciaux et créations exclusives de Jan Friske :
 - Le modèle de communication en couches (Original, Interprétation Sémantique, Sortie Traduite)
 - Le principe de séparation de l'identité (La personne n'est pas le compte n'est pas la vérification de l'identité)
 - Le modèle de découplage Message-Traduction (Message is not Translation)
@@ -360,6 +360,6 @@ Les concepts originaux suivants sont protégés en tant que secrets commerciaux 
 ### Contacter
 Pour les demandes de licence : https://github.com/SonnerStudio
 
-Nexus Gaja et le logo Nexus Gaja sont des marques déposées de Jan Sonner. L'utilisation non autorisée du nom ou de la marque est interdite.
+Nexus Gaja et le logo Nexus Gaja sont des marques déposées de Jan Friske. L'utilisation non autorisée du nom ou de la marque est interdite.
 
 Voir les termes complets de la licence dans le fichier LICENSE.

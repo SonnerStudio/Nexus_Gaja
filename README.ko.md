@@ -331,11 +331,11 @@ Nexus Gaja는 도메인 경계가 명확한 모듈식 단일체로 설계된 엄
 
 ## 라이선스 및 지적 재산권
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — 모든 권리 보유.**
+> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — 모든 권리 보유.**
 
-**Nexus Gaja**는 **SonnerStudio** 산하에서 운영하는 **Jan Sonner**의 독점적 지적 재산입니다.
+**Nexus Gaja**는 **SonnerStudio** 산하에서 운영하는 **Jan Friske**의 독점적 지적 재산입니다.
 
-Jan Sonner는 모든 개념, 아키텍처, 도메인 모델, 브랜드 아이덴티티 및 관련 문서를 포함한 Nexus Gaja의 유일한 창작자, 설계자 및 소유자입니다.
+Jan Friske는 모든 개념, 아키텍처, 도메인 모델, 브랜드 아이덴티티 및 관련 문서를 포함한 Nexus Gaja의 유일한 창작자, 설계자 및 소유자입니다.
 
 **기술 업계에서의 규모, 시장 지위 또는 영향력에 관계없이 어떠한 제3자에게도 권리, 라이선스 또는 소유권이 부여되지 않습니다.**
 
@@ -349,6 +349,6 @@ Jan Sonner는 모든 개념, 아키텍처, 도메인 모델, 브랜드 아이덴
 ### 연락처
 라이선스 문의: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-*"Nexus Gaja" 및 Nexus Gaja 로고는 Jan Sonner의 상표입니다. 이름이나 브랜드의 무단 사용은 금지되어 있습니다.*
+*"Nexus Gaja" 및 Nexus Gaja 로고는 Jan Friske의 상표입니다. 이름이나 브랜드의 무단 사용은 금지되어 있습니다.*
 
 ➡️ 전체 라이선스 조건은 [LICENSE](LICENSE) 파일을 참조하세요

@@ -1,17 +1,17 @@
 NEXUS GAJA – PROPRIETARY SOFTWARE LICENSE
 ==========================================
 
-Copyright © 2024–2026 Jan Sonner / SonnerStudio
+Copyright © 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio
 All rights reserved.
 
 This software, its source code, documentation, concepts, architecture,
 brand identity, domain models, and all associated intellectual property
 (collectively referred to as "Nexus Gaja") are the exclusive property of
-Jan Sonner, operating under SonnerStudio.
+Jan Friske, operating under SonnerStudio.
 
 OWNERSHIP STATEMENT
 -------------------
-Jan Sonner is the sole creator, architect, and intellectual property owner
+Jan Friske is the sole creator, architect, and intellectual property owner
 of Nexus Gaja. No rights, licenses, or ownership interests in Nexus Gaja
 are held by, assigned to, or implied for any third party — including but
 not limited to any individual, corporation, foundation, or technology
@@ -28,15 +28,15 @@ TERMS OF USE
 ------------
 1. NO REPRODUCTION: This software and its associated materials may not be
    reproduced, copied, or distributed in any form without the express
-   written permission of Jan Sonner.
+   written permission of Jan Friske.
 
 2. NO MODIFICATION: You may not modify, adapt, translate, reverse engineer,
    decompile, or create derivative works based on Nexus Gaja without prior
-   written consent from Jan Sonner.
+   written consent from Jan Friske.
 
 3. NO COMMERCIAL USE: Commercial use of any part of Nexus Gaja, its concepts,
    architecture, or branding is strictly prohibited without a separate written
-   agreement signed by Jan Sonner.
+   agreement signed by Jan Friske.
 
 4. NO SUBLICENSING: You may not sublicense, sell, rent, lease, or transfer
    any rights to Nexus Gaja to any third party.
@@ -45,7 +45,7 @@ TERMS OF USE
    documentation, architecture descriptions, and code, must NOT be used as
    training data for any artificial intelligence, machine learning model,
    large language model (LLM), or similar system without the explicit
-   written consent of Jan Sonner.
+   written consent of Jan Friske.
 
 VIEWING RIGHTS
 --------------
@@ -60,14 +60,14 @@ All concepts, including but not limited to the layered communication model
 separation principle (Person ≠ Account ≠ Identity Verification), the
 Message-Translation decoupling model, the AI moderation governance framework,
 and all associated domain models are original intellectual creations of
-Jan Sonner and are protected as trade secrets and proprietary concepts.
+Jan Friske and are protected as trade secrets and proprietary concepts.
 
 CONTACT
 -------
 For licensing inquiries, partnership proposals, or permission requests,
 contact:
 
-  Jan Sonner / SonnerStudio
+  SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio
   https://github.com/SonnerStudio
 
 DISCLAIMER
@@ -78,5 +78,5 @@ USE OF THIS SOFTWARE IN ANY FORM BEYOND PERMITTED VIEWING IS
 STRICTLY PROHIBITED AND MAY RESULT IN LEGAL ACTION.
 
 ---
-"Nexus Gaja" and the Nexus Gaja logo are trademarks of Jan Sonner.
+"Nexus Gaja" and the Nexus Gaja logo are trademarks of Jan Friske.
 Unauthorized use of the name or brand is prohibited.

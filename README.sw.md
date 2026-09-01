@@ -335,11 +335,11 @@ Maamuzi yanayoendelea ya usanifu yameandikwa kwenye folda ya `/hati`.
 
 ## Leseni na Miliki Bunifu
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — Haki zote zimehifadhiwa.**
+> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — Haki zote zimehifadhiwa.**
 
-**Nexus Gaja** ni mali ya kiakili ya kipekee ya **Jan Sonner**, inayofanya kazi chini ya **SonnerStudio**.
+**Nexus Gaja** ni mali ya kiakili ya kipekee ya **Jan Friske**, inayofanya kazi chini ya **SonnerStudio**.
 
-Jan Sonner ndiye mtayarishi, mbunifu na mmiliki pekee wa Nexus Gaja - ikijumuisha dhana zote, usanifu, miundo ya kikoa, utambulisho wa chapa, na nyaraka zinazohusiana.
+Jan Friske ndiye mtayarishi, mbunifu na mmiliki pekee wa Nexus Gaja - ikijumuisha dhana zote, usanifu, miundo ya kikoa, utambulisho wa chapa, na nyaraka zinazohusiana.
 
 **Hakuna haki, leseni, au maslahi ya umiliki yanayoshikiliwa na wahusika wengine **, bila kujali ukubwa wao, nafasi ya soko, au ushawishi katika sekta ya teknolojia.
 
@@ -351,7 +351,7 @@ Jan Sonner ndiye mtayarishi, mbunifu na mmiliki pekee wa Nexus Gaja - ikijumuish
 - Kutoa leseni au kuhamisha haki zozote kwa wahusika wengine
 
 ### Mali Miliki Iliyolindwa
-Dhana asilia zifuatazo zinalindwa kama siri za biashara na ubunifu wa wamiliki wa Jan Sonner:
+Dhana asilia zifuatazo zinalindwa kama siri za biashara na ubunifu wa wamiliki wa Jan Friske:
 - Muundo wa mawasiliano wa tabaka (Halisi, Ufafanuzi wa kisemantiki, Toleo Lililotafsiriwa)
 - Kanuni ya kutenganisha utambulisho (Mtu sio Akaunti sio Uthibitishaji wa Utambulisho)
 - Muundo wa kutenganisha Ujumbe-Tafsiri (Ujumbe sio Tafsiri)
@@ -360,6 +360,6 @@ Dhana asilia zifuatazo zinalindwa kama siri za biashara na ubunifu wa wamiliki w
 ### Mawasiliano
 Kwa maswali ya leseni: https://github.com/SonnerStudio
 
-Nexus Gaja na nembo ya Nexus Gaja ni alama za biashara za Jan Sonner. Matumizi yasiyoidhinishwa ya jina au chapa ni marufuku.
+Nexus Gaja na nembo ya Nexus Gaja ni alama za biashara za Jan Friske. Matumizi yasiyoidhinishwa ya jina au chapa ni marufuku.
 
 Angalia masharti kamili ya leseni katika faili ya LICENSE.

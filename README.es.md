@@ -333,11 +333,11 @@ Las decisiones arquitectónicas en curso se documentan en la carpeta `/docs`.
 
 ## Licencia y Propiedad Intelectual
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — Todos los derechos reservados.**
+> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — Todos los derechos reservados.**
 
-**Nexus Gaja** es propiedad intelectual exclusiva de **Jan Sonner**, que opera bajo **SonnerStudio**.
+**Nexus Gaja** es propiedad intelectual exclusiva de **Jan Friske**, que opera bajo **SonnerStudio**.
 
-Jan Sonner es el único creador, arquitecto y propietario de Nexus Gaja, incluyendo todos los conceptos, arquitecturas, modelos de dominio, identidad de marca y documentación asociada.
+Jan Friske es el único creador, arquitecto y propietario de Nexus Gaja, incluyendo todos los conceptos, arquitecturas, modelos de dominio, identidad de marca y documentación asociada.
 
 **Ningún derecho, licencia o interés de propiedad es otorgado a terceros**, independientemente de su tamaño, posición en el mercado o influencia en la industria tecnológica.
 

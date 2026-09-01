@@ -335,11 +335,11 @@ Käimasolevad arhitektuuriotsused dokumenteeritakse kaustas "/docs".
 
 ## Litsents ja intellektuaalomand
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — kõik õigused kaitstud.**
+> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — kõik õigused kaitstud.**
 
-**Nexus Gaja** on **Jan Sonneri** eksklusiivne intellektuaalomand, mis tegutseb **SonnerStudio** all.
+**Nexus Gaja** on **Jan Friskei** eksklusiivne intellektuaalomand, mis tegutseb **SonnerStudio** all.
 
-Jan Sonner on Nexus Gaja ainulooja, arhitekt ja omanik – sealhulgas kõik kontseptsioonid, arhitektuur, domeenimudelid, brändi identiteet ja sellega seotud dokumentatsioon.
+Jan Friske on Nexus Gaja ainulooja, arhitekt ja omanik – sealhulgas kõik kontseptsioonid, arhitektuur, domeenimudelid, brändi identiteet ja sellega seotud dokumentatsioon.
 
 **Ühelgi kolmandal osapoolel** ei ole õigusi, litsentse ega omandiõigusi**, olenemata nende suurusest, turupositsioonist või mõjust tehnoloogiatööstuses.
 
@@ -351,7 +351,7 @@ Jan Sonner on Nexus Gaja ainulooja, arhitekt ja omanik – sealhulgas kõik kont
 - õiguste all-litsentsimine või üleandmine kolmandatele isikutele
 
 ### Kaitstud intellektuaalomand
-Järgmised originaalkontseptsioonid on kaitstud ärisaladuste ja Jan Sonneri omandiõigusega loominguna:
+Järgmised originaalkontseptsioonid on kaitstud ärisaladuste ja Jan Friskei omandiõigusega loominguna:
 - kihiline suhtlusmudel (originaal, semantiline tõlgendus, tõlgitud väljund)
 - Identiteedi eraldamise põhimõte (isik ei ole konto, ei ole identiteedi kinnitamine)
 - Sõnumi ja tõlke lahtisidumise mudel (sõnum ei ole tõlge)
@@ -360,6 +360,6 @@ Järgmised originaalkontseptsioonid on kaitstud ärisaladuste ja Jan Sonneri oma
 ### Võtke ühendust
 Litsentsiküsimuste jaoks: https://github.com/SonnerStudio
 
-Nexus Gaja ja Nexus Gaja logo on Jan Sonneri kaubamärgid. Nime või kaubamärgi omavoliline kasutamine on keelatud.
+Nexus Gaja ja Nexus Gaja logo on Jan Friskei kaubamärgid. Nime või kaubamärgi omavoliline kasutamine on keelatud.
 
 Vaadake kõiki litsentsitingimusi failist LICENSE.

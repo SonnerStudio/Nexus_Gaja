@@ -334,11 +334,11 @@ Nexus Gaja 采用严格的领域驱动 MVP 架构 (ADR-025)，设计为具有清
 
 ## 许可证与知识产权
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — 保留所有权利。**
+> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — 保留所有权利。**
 
-**Nexus Gaja** 是 **Jan Sonner**（以 **SonnerStudio** 名义运营）的专有知识产权。
+**Nexus Gaja** 是 **Jan Friske**（以 **SonnerStudio** 名义运营）的专有知识产权。
 
-Jan Sonner 是 Nexus Gaja 的唯一创造者、架构师和所有者，包括所有概念、架构、领域模型、品牌标识及相关文档。
+Jan Friske 是 Nexus Gaja 的唯一创造者、架构师和所有者，包括所有概念、架构、领域模型、品牌标识及相关文档。
 
 **无论任何第三方在技术行业的规模、市场地位或影响力如何，均不授予任何权利、许可或所有权权益。**
 

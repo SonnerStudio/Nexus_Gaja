@@ -331,11 +331,11 @@ A folyamatban lévő építészeti döntések a „/docs” mappában vannak dok
 
 ## Licenc és szellemi tulajdon
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — Minden jog fenntartva.**
+> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — Minden jog fenntartva.**
 
-**A Nexus Gaja** a **SonnerStudio** keretében működő **Jan Sonner** kizárólagos szellemi tulajdona.
+**A Nexus Gaja** a **SonnerStudio** keretében működő **Jan Friske** kizárólagos szellemi tulajdona.
 
-Jan Sonner a Nexus Gaja egyedüli alkotója, tervezője és tulajdonosa — beleértve az összes koncepciót, architektúrát, domain modellt, márkaazonosságot és a kapcsolódó dokumentációt.
+Jan Friske a Nexus Gaja egyedüli alkotója, tervezője és tulajdonosa — beleértve az összes koncepciót, architektúrát, domain modellt, márkaazonosságot és a kapcsolódó dokumentációt.
 
 **Semmilyen jog, licenc vagy tulajdoni érdek nem illeti meg harmadik feleket**, tekintet nélkül méretükre, piaci pozíciójukra vagy technológiai iparban betöltött befolyásukra.
 
@@ -349,6 +349,6 @@ Jan Sonner a Nexus Gaja egyedüli alkotója, tervezője és tulajdonosa — bele
 ### Kapcsolat
 Licenc-kérdések esetén: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-*A „Nexus Gaja" és a Nexus Gaja logó Jan Sonner védjegyei. A név vagy márka jogosulatlan használata tilos.*
+*A „Nexus Gaja" és a Nexus Gaja logó Jan Friske védjegyei. A név vagy márka jogosulatlan használata tilos.*
 
 ➡️ A teljes licencfeltételeket a [LICENSE](LICENSE) fájlban találja

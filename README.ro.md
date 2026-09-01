@@ -335,11 +335,11 @@ Deciziile arhitecturale în curs sunt documentate în folderul `/docs`.
 
 ## Licență și proprietate intelectuală
 
-> **© 2024–2026 Jan Sonner / SonnerStudio — Toate drepturile rezervate.**
+> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — Toate drepturile rezervate.**
 
-**Nexus Gaja** este proprietatea intelectuală exclusivă a **Jan Sonner**, care operează sub **SonnerStudio**.
+**Nexus Gaja** este proprietatea intelectuală exclusivă a **Jan Friske**, care operează sub **SonnerStudio**.
 
-Jan Sonner este singurul creator, arhitect și proprietar al Nexus Gaja, inclusiv toate conceptele, arhitectura, modelele de domenii, identitatea mărcii și documentația asociată.
+Jan Friske este singurul creator, arhitect și proprietar al Nexus Gaja, inclusiv toate conceptele, arhitectura, modelele de domenii, identitatea mărcii și documentația asociată.
 
 **Nu sunt deținute drepturi, licențe sau interese de proprietate de către niciun terț**, indiferent de dimensiunea, poziția pe piață sau influența acestora în industria tehnologiei.
 
@@ -351,7 +351,7 @@ Jan Sonner este singurul creator, arhitect și proprietar al Nexus Gaja, inclusi
 - Sublicențierea sau transferul oricăror drepturi către terți
 
 ### Proprietate intelectuală protejată
-Următoarele concepte originale sunt protejate ca secrete comerciale și creații proprietare ale lui Jan Sonner:
+Următoarele concepte originale sunt protejate ca secrete comerciale și creații proprietare ale lui Jan Friske:
 - Modelul de comunicare stratificat (original, interpretare semantică, rezultat tradus)
 - Principiul separării identității (Persoana nu este un cont nu este verificarea identității)
 - Modelul de decuplare mesaj-traducere (Mesajul nu este traducere)
@@ -360,6 +360,6 @@ Următoarele concepte originale sunt protejate ca secrete comerciale și creați
 ### Contact
 Pentru întrebări privind licențele: https://github.com/SonnerStudio
 
-Nexus Gaja și sigla Nexus Gaja sunt mărci comerciale ale lui Jan Sonner. Utilizarea neautorizată a numelui sau mărcii este interzisă.
+Nexus Gaja și sigla Nexus Gaja sunt mărci comerciale ale lui Jan Friske. Utilizarea neautorizată a numelui sau mărcii este interzisă.
 
 Vedeți termenii completi de licență în fișierul LICENȚĂ.
