@@ -1,6 +1,6 @@
 # Nexus Gaja
 
-![Logo Nexus Gaja](assets/logo.jpg)
+![Nexus Gaja Logo](assets/logo.jpg)
 
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
@@ -9,34 +9,34 @@
 
 </details>
 
-**Nexus Gaja** je inteligentní, kontextově citlivá komunikační síť navržená tak, aby způsobila revoluci v globální komunikaci.
+**Nexus Gaja** is an intelligent, context-sensitive communication network designed to revolutionize global communication.
 
-## Účel a vize
-V globalizovaném světě je jazyk často největší bariérou. Hlavním cílem Nexus Gaja je umožnit bezproblémovou, bezbariérovou a kontextově přesnou komunikaci mezi lidmi – bez ohledu na to, zda mluví společným jazykem.
+## Purpose and Vision
+In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
 
-Nejde jen o strnulé překládání slov, ale o **přenášení významu**. Nexus Gaja spojuje lidi na hlubší úrovni pochopením kulturních, regionálních a kontextových nuancí, a umožňuje tak skutečné, autentické konverzace.
+It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
 
-## Možnosti a funkce
-- **Multimediální komunikace**: Systém zpracovává nejen text, ale také obraz, zvuk a video. To umožňuje plně pohlcující konverzace (např. videohovory nebo hlasové zprávy) v reálném čase přes jazykové bariéry.
-- **Kontextová citlivost**: Rozpoznání ironie, idiomů, žargonu a regionálních dialektů, které jsou běžnými překladateli často nepochopeny.
-- **Síť napříč platformami**: Slouží jako základ pro soukromé chaty, vlákna na fóru (příspěvky s komentáři) a interakce s globální komunitou.
+## Possibilities and Features
+- **Multimedia Communication**: The system processes not just text, but also image, audio, and video. This allows for fully immersive conversations (e.g., video calls or voice messages) in real-time across language barriers.
+- **Context Sensitivity**: Recognition of irony, idioms, jargon, and regional dialects that are often misunderstood by conventional translators.
+- **Cross-Platform Network**: Serves as a foundation for private chats, forum threads (posts with comments), and global community interactions.
 
 ---
 
 ## Technická architektura (základní koncept)
 
-Technické jádro Nexus Gaja je na zakázku vytvořený komunikační model, který je striktně rozdělen do tří vrstev:
+The technical core of Nexus Gaja is a custom-built communication model that is strictly divided into three layers:
 
 1. **Originál**: Komunikační objekt (zpráva) vytvořený odesílatelem zůstává vždy neměnný.
 2. **Sémantická interpretace**: Systém analyzuje nejen slova, ale i skutečný význam.
-3. **Reprezentace cílového jazyka**: AI pouze vytváří dočasnou nebo uloženou reprezentaci originálu pro příslušného příjemce na základě preferovaného jazyka. Překlady nikdy nepřepisují původní zprávu.
+3. **Reprezentace cílového jazyka**: Umělá inteligence pouze vytváří dočasnou nebo uloženou reprezentaci originálu pro příslušného příjemce na základě preferovaného jazyka. Překlady nikdy nepřepisují původní zprávu.
 
-### Kontextová závislost
-Překlady v Nexus Gaja nikdy nezobrazují zprávy izolovaně. Motor bere v úvahu celou hierarchii:
-`Zpráva` → `Předchozí zprávy` → `Kontext vlákna` → `Kontext komunity` → `Jazyk / oblast` → `Předvolby uživatele`
+### Context Dependency
+Translations in Nexus Gaja never view messages in isolation. The engine considers the entire hierarchy:
+`Message` → `Previous Messages` → `Thread Context` → `Community Context` → `Language / Region` → `User Preferences`
 
-### Efektivita díky překladu na vyžádání
-Překlad probíhá efektivně pouze **na vyžádání** (On-Demand). Když uživatel požaduje obsah, je přeložen do jeho přednastaveného jazyka. Jakmile je vygenerován překlad pro konkrétní jazyk, je trvale uložen (cachován), aby se výrazně urychlily budoucí požadavky.
+### Efficiency through On-Demand Translation
+Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.
 
 ## AI-Assisted Moderation (WP 1.8.4)
 
@@ -85,8 +85,8 @@ Nexus Gaja utilizes nine specialized analysis areas:
 - **M8 – Media Safety**: Analyzes images, audio, video, documents.
 - **M9 – Context Engine**: The most important module. It merges the individual findings.
 
-### 4. Proč je kontextový modul zásadní
-Čisté vyhledávání klíčových slov by nestačilo. „Mohl bych ho zabít smíchem“ sémanticky obsahuje násilí, ale je to slovní spojení. "Zítra ve 20:00 ho zastřelím před jeho domem" je úplně jiná situace. Umělá inteligence musí rozumět tomu, co prohlášení znamená v jeho konkrétním kontextu.
+### 4. Why the Context Engine is Crucial
+A pure keyword search would be insufficient. "I could kill him from laughing" semantically contains violence but is a figure of speech. "Tomorrow at 8 PM I will shoot him in front of his house" is a completely different situation. The AI must understand what the statement means in its specific context.
 
 ### 5. Multilingual Moderation
 Moderation cannot simply compare words. It must analyze the semantic level (e.g., German idioms vs. Japanese idioms vs. regional expressions).
@@ -94,8 +94,8 @@ Moderation cannot simply compare words. It must analyze the semantic level (e.g.
 ### 6. Original Language + Translation
 Original and translation are analyzed separately. Only then does the "Combined Moderation Assessment" take place. This allows Nexus Gaja to determine whether the translation itself may have escalated or altered the facts.
 
-### 7. Skóre důvěry
-Každé hodnocení AI obdrží skóre spolehlivosti (např. pravděpodobnost ohrožení: 0,96). Nicméně: **Skóre důvěry ≠ Pravda.** Skóre 96 % pouze znamená, že model si je velmi jistý svou klasifikací, nikoli nutně, že je vinen uživatel.
+### 7. Confidence Score
+Every AI evaluation receives a confidence score (e.g., Threat probability: 0.96). However: **Confidence Score ≠ Truth.** A score of 96% only means the model is highly certain of its classification, not necessarily that the user is guilty.
 
 ### 8. Uncertainty Becomes a Signal Itself
 If the AI is uncertain (e.g., Threat: 0.62, Satire: 0.54), it must not simply enforce harsh rules. Instead, uncertainty is built directly into the architecture: **Human Review Required**.
@@ -118,8 +118,8 @@ DSA vyžaduje jasné a konkrétní důvody. Umělá inteligence poskytuje strukt
 ### 13. Umělá inteligence nesmí tajně měnit obsah
 **Moderační umělá inteligence nikdy nesmí bez povšimnutí změnit původní obsah.** Během automatické opravy, překladu nebo sumarizace je originál vždy zachován.
 
-### 14. Obsah generovaný umělou inteligencí
-Rozlišujeme mezi: vytvořené lidmi, asistované AI, AI generované a AI manipulované. To se stane součástí metadat obsahu.
+### 14. AI-Generated Content
+We distinguish between: Human-created, AI-assisted, AI-generated, and AI-manipulated. This will become part of the content metadata.
 
 ### 15. Označování obsahu AI a vrstva původu AI
 Podle pravidel transparentnosti zákona EU o umělé inteligenci (s účinností od srpna 2026) musí být obsah generovaný umělou inteligencí identifikovatelný. Poskytujeme vrstvu AI Provenance Layer, která ukládá metadata (AI-Origin, Model, Timestamp, Human Review).
@@ -130,35 +130,187 @@ Architektura si klade za cíl detekovat syntetické obrazy, klonované hlasy a d
 ### 17. Žádný automatický „stroj na pravdu“ (umírnění ≠ prověřování faktů)
 Jeden systém kontroluje: "Porušuje obsah pravidla?" (Content Moderation), další poskytuje: "Jaké informace a zdroje jsou k dispozici?" (Informační asistence). Názory nejsou jednoduše vymazány, protože jsou „špatné“.
 
-### 18. Protection Against Cultural Misinterpretation
-The AI requires **Cultural Context Models** to prevent the communication norms of one country from being assumed as a global standard.
+### 18. Ochrana proti kulturní dezinterpretaci
+AI vyžaduje **modely kulturního kontextu**, aby se zabránilo tomu, že komunikační normy jedné země budou považovány za globální standard.
 
 ### 19. Irony, Satire, and Humor
 The AI uses context, emojis, conversation history, and known irony structures, but must allow for uncertainty when meanings are ambiguous.
 
-### 20. No Punishment Based on a Single AI Score
-No severe moderation intervention may be based solely on a single automated classification result (Text + Context + Behaviour + Language + Media + Rule Engine = Risk Assessment).
+### 20. Žádný trest na základě jediného skóre AI
+Žádný závažný zásah moderování nesmí být založen pouze na jediném výsledku automatické klasifikace (Text + Kontext + Chování + Jazyk + Média + Modul pravidel = Hodnocení rizik).
 
-### 21. User Behaviour Signals & No Social Credit System
-This relates to technical abuse signals (e.g., mass spam posting), not a general social rating system. Nexus Gaja does not maintain a Social Credit System – moderation serves security, not the assessment of a person's worth.
+### 21. Signály chování uživatelů a žádný systém sociálního kreditu
+Týká se to signálů technického zneužití (např. hromadného rozesílání spamu), nikoli obecného systému sociálního hodnocení. Nexus Gaja neudržuje systém sociálního kreditu – umírněnost slouží bezpečnosti, nikoli hodnocení hodnoty člověka.
 
-### 22. Moderation AI Must Be Auditable
-All relevant automated decisions are logged (Event-ID, Rule-ID, Confidence, Human-Review, etc.) to ensure traceability.
+### 22. Umělá inteligence moderování musí být auditovatelná
+Všechna relevantní automatizovaná rozhodnutí jsou protokolována (ID události, ID pravidla, důvěra, kontrola člověkem atd.), aby byla zajištěna sledovatelnost.
 
 ### 23. False Positives, False Negatives & Quality Metrics
 Error types are monitored. A dashboard measures Precision, Recall, and especially the **Appeal Reversal Rate** (number of successful appeals).
 
-### 24. Jazyková rovnost a zkreslení překladu
-Kvalita moderování musí být srovnatelná ve všech podporovaných jazycích (Multilingual Moderation Benchmark). Pokud se výsledky moderování liší mezi originálem a překladem (konflikt překladu), je třeba to konkrétně zkontrolovat.
+### 24. Language Equity & Translation Bias
+Moderation quality must be comparable across all supported languages (Multilingual Moderation Benchmark). If moderation results differ between the original and the translation (Translation Conflict), this must be specifically reviewed.
 
-### 25. Návrh architektury a nástroj politiky
-Pravidla (Policy Engine) nejsou pevně zakódována do modelů AI. AI poskytuje zjištění; Policy Engine rozhoduje na základě aktuálních pravidel. To umožňuje **změny modelu bez změn pravidel**.
+### 25. Architecture Proposal & Policy Engine
+Rules (Policy Engine) are not hardcoded into the AI models. The AI provides findings; the Policy Engine decides based on current rules. This allows for **model changes without rule changes**.
 
-### 26. Člověk zůstává konečnou autoritou
-- **NG-AI-MOD-001**: AI pomáhá při detekci a klasifikaci, ale nenahrazuje kontrolu člověkem při závažných rozhodnutích.
-- **NG-AI-MOD-002**: Automatická rozhodnutí o moderování musí být sledovatelná, logovatelná a ověřitelná.
+### 26. The Human Remains the Final Authority
+- **NG-AI-MOD-001**: The AI assists in detection and classification, but does not replace human review in severe decisions.
+- **NG-AI-MOD-002**: Automated moderation decisions must be traceable, loggable, and verifiable.
 
-**Shrnutí**: Stavíme čtyřstupňový systém: detekce umělé inteligence, analýza kontextu a rizik, nástroj politiky a řízení lidí. To umožňuje silnou automatizaci bez vytváření nebezpečné architektury „AI jako soudce“.
+**Summary**: We are building a four-stage system: AI Detection, Context and Risk Analysis, Policy Engine, and Human Governance. This enables strong automation without creating a dangerous "AI as Judge" architecture.
+
+## Financing Principles and Revenue Model (WP 1.10.1)
+
+For Nexus Gaja, a highly important economic principle applies: **No traditional advertising within the platform.**
+This fundamentally distinguishes Nexus Gaja from many of today's social networks. However, this does not mean that Nexus Gaja cannot have a commercial character. On the contrary, the platform must be economically viable so that its social purpose can endure. Economic activity is a means to an end, not the primary purpose of the platform.
+
+### 1. Princip NG-FIN-001
+Nexus Gaja financuje své operace prostřednictvím transparentních toků příjmů oddělených od zájmů uživatelů, nikoli prostřednictvím zpeněžení pozornosti nebo osobních údajů svých uživatelů.
+
+### 2. Žádná tradiční reklama
+Konkrétně zakázané jsou:
+- Bannerové reklamy
+- Pop-up reklamy
+- Automatické přehrávání videoreklam
+- Sponzorované příspěvky ve standardním zdroji
+- Personalizované reklamní profily
+- Prodej uživatelských profilů nebo osobních údajů
+- Reklama odvozená ze soukromých konverzací.
+
+Nexus Gaja zůstává **komunikačním prostorem spíše než reklamním prostorem**.
+
+### 3. Financování bez reklamy (6 pilířů)
+Financování je postaveno na šesti pilířích:
+```text
+                 NEXUS GAJA
+                     │
+       ┌─────────────┼─────────────┐
+       ▼ ▼ ▼
+   PRÉMIOVÉ DARY ORGANIZACE
+       │ │ │
+       ├─────────────┼─────────────┤
+       ▼ ▼ ▼
+    UDĚLUJE SLUŽBY PARTNERSTVÍ
+```
+
+#### Pilíř 1 – Základní členství zdarma
+**Nexus Gaja Free** umožňuje základní mezinárodní porozumění pro každého (profil, mezinárodní komunikace, příspěvky, komunity, chaty, základní překlady) zdarma.
+
+#### Pilíř 2 – Prémiové nabídky
+Dobrovolné placené nabídky (**Nexus Gaja Plus**) poskytující větší limity úložiště, vyšší kvalitu médií, rozšířené kvóty AI a organizační funkce.
+**Důležité (Freemium místo Dark Freemium):** Základní komunikace nesmí být nikdy uměle degradována.
+
+#### Pilíř 3 – Organizace
+Speciální účty pro školy, univerzity, nevládní organizace, firmy a obce (**Nexus Gaja Organization**). Školy mohou být podporovány prostřednictvím institucionálních sazeb jako multiplikátorů mezinárodního porozumění.
+
+#### Pilíř 4 – Dary
+Fond **Nexus Gaja Funding Pool** přijímá obecné a účelové dary (např. „pro mezinárodní komunikaci s mládeží“). **Fond Allocation Ledger** zajišťuje transparentní alokaci finančních prostředků.
+**Účelový fond a tombola:** Část darů slouží jako zdroj pro bezplatné/zlevněné použití. Mechanismus loterie/tomboly může tyto prostředky přidělit transparentně a kontrolovatelně.
+
+#### Pilíř 5 – institucionální financování
+nadace, programy financování kultury nebo státní programy.
+**NG-FIN-002:** Finanční podpora nezahrnuje redakční ani technickou kontrolu (nezávislost).
+
+#### Pillar 6 – Commercial Services
+B2B services like **Translation-as-a-Service** (API), organizational communication, or international conference rooms, without burdening the standard user feed.
+
+### 4. No Data Monetization & Surveillance Economy
+**NG-FIN-003:** Personal user data is not a commodity. No sale of lists, profiles, or histories. Nexus Gaja does not profit from psychological surveillance (Surveillance Economy).
+
+### 5. Finanční transparentnost a účetní kniha fondů
+**Finanční transparentnost Nexus Gaja:** Zveřejnění agregovaných finančních struktur. Účelově vázané dary jsou technicky vyúčtovány (ID fondu → Účel → Zůstatek → Alokace). Žádné křížové dotování sociálních účelů do firemního marketingu.
+
+### 6. Solidarity-Based Financing Model
+Pricing is based on cost-orientation, fairness, and solidarity.
+**Solidarity Premium:** A voluntary option for Premium users to finance a portion of another user's access. Forced solidarity or a premium class society (less respect/moderation for free users) is strictly prohibited.
+
+### 7. Economic KPIs Instead of Engagement Economy
+No dependence on keeping users "online as long as possible" (no ragebait, infinite feeds).
+Instead, we use metrics like:
+- **Global Communication Index (GCI):** Successful communication relationships between people from different linguistic/cultural regions.
+- **Platform Sustainability Ratio (PSR):** Recurring revenue / recurring operating costs (Target ≥ 1).
+
+### 8. Co výslovně nechceme (negativní seznam)
+Nexus Gaja **není** financováno:
+❌ Prodej osobních údajů
+❌ Personalizovaná tradiční reklama
+❌ Sledování chování uživatelů pro reklamní účely
+❌ Prodej dat soukromé komunikace
+❌ Skryté využití dat AI
+❌ Manipulativní prémiové paywally
+❌ Omezení umělého dosahu pro zpeněžení
+❌ Placený politický vliv
+❌ Nákup privilegovaných moderačních rozhodnutí.
+
+### 9. Předběžná finanční architektura
+```text
+                         NEXUS GAJA
+                              │
+             ┌────────────────┼───────────└─ —
+             │ │ │
+             ▼ ▼ ▼
+          UŽIVATELSKÉ ORGANIZACE PODNIK
+             │ │ │
+             └────────────────┼──────────────└─—
+                              │
+                       SLUŽBY PLATFORMY
+                              │
+          ┌─────────────────── ┼───────────────────┐
+          ▼ ▼ ▼
+       API PREMIUM DONATIONS
+                              │
+                    ┌─────────┴─────────┐
+                    ▼ ▼
+               OBECNÝ FOND OMEZENÉ FONDY
+                                        │
+                                        ▼
+                                  SOCIÁLNÍ ÚČEL
+```
+
+### Summary of Financing Principles (NG-FIN)
+- **NG-FIN-001:** No financing through traditional advertising.
+- **NG-FIN-002:** No editorial/technical control through financial support.
+- **NG-FIN-003:** Personal data is not a commodity.
+- **NG-FIN-004:** Basic communication remains accessible without payment.
+- **NG-FIN-005:** Premium offerings must not degrade free users.
+- **NG-FIN-006:** Earmarked funds are managed according to their purpose.
+- **NG-FIN-007:** Transparent management of donations and grants.
+- **NG-FIN-008:** Commercial B2B services do not compromise independence.
+- **NG-FIN-009:** Focus on sustainability rather than maximum monetization.
+- **NG-FIN-010:** The structure permanently secures the social purpose.
+
+## API, Interfaces, and Communication Architecture (WP 1.11.3)
+
+To ensure system stability, security, and scalability, Nexus Gaja follows a strictly API-first and event-driven architecture. 
+
+### Základní principy
+- **Žádný přímý přístup k databázi:** Komponenty komunikují výhradně přes definovaná rozhraní (API nebo události), nikdy prostřednictvím přímých databázových dotazů jiných služeb.
+- **Brána API:** Všechny požadavky externích klientů směřují přes bránu API, která zajišťuje ověřování, směrování a omezení rychlosti.
+- **Abstrakce poskytovatelů:** Externí služby (modely umělé inteligence, poskytovatelé plateb, překladatelské nástroje) jsou integrovány prostřednictvím abstrakčních vrstev, čímž se vyhnete napevno zakódovaným závislostem a umožňují flexibilní výměnu poskytovatelů.
+
+### Communication Patterns
+- **Synchronous APIs (REST/HTTPS):** Used for immediate requests like login, profile settings, or direct translations.
+- **Asynchronous Events (Event Bus):** The central nervous system of Nexus Gaja for delayed, decoupled processing (e.g., `Message.Created` triggering Moderation, Translation, and Notification asynchronously).
+- **Realtime (WebSocket):** Dedicated channels for live chat and typing indicators.
+
+### Bezpečnost a spolehlivost
+- **Model nulové důvěry:** Interní síťový provoz není automaticky důvěryhodný; citlivá komunikace mezi službami vyžaduje ověření.
+- **Idempotency & Outbox Pattern:** Kritické operace (jako dary nebo zasílání zpráv) jsou navrženy tak, aby byly idempotentní, aby se zabránilo duplicitnímu zpracování, s využitím vzoru Outbox, aby se zajistilo, že se události nikdy neztratí ani během databázových transakcí.
+
+## Model domény MVP (WP 1.12)
+
+Nexus Gaja employs a strictly Domain-Driven MVP Architecture (ADR-025), designed as a modular monolith with clear domain boundaries. This structure prevents premature microservice complexity while retaining the flexibility to split out specific domains later.
+
+### Entity hlavní domény
+Architektura explicitně odděluje různé koncepty, aby byla zajištěna integrita dat a zabránilo se strukturálním nástrahám, jako je „Uživatelské jméno = Člověk“:
+- **Identita a účty:** `Osoba` ≠ `Uživatelský účet` ≠ `Ověření identity`. Ověřená osoba se účastní prostřednictvím účtu, ale subjekty zůstávají oddělené.
+- **Komunikace:** `Zpráva` ≠ `Překlad`. Původní zpráva zůstává neměnná; překlady jsou propojené entity.
+- **Moderování:** `Zpráva` ≠ `Rozhodnutí o moderování`. Zpráva je pouze tvrzení; moderační případ vede vyšetřování.
+- **Finance:** `Darování` ≠ `Zůstatek fondu`. Platby jsou zaúčtovány prostřednictvím neměnné knihy do fondu, což zajišťuje finanční transparentnost.
+
+### Interconnected Domains
+The system is divided into clear logical domains (Bounded Contexts): Identity, Account, Organization, Communication, Community, Language, Moderation, Notification, Finance, and Governance. These domains map the entire journey from real-world entities (Users, Schools, NGOs) to their digital interactions and related governance.
 
 ## Stav projektu
 Projekt je v současné době ve fázi aktivní architektury a plánování.

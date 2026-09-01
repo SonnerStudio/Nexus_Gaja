@@ -14,7 +14,7 @@
 ## Tarkoitus ja visio
 Globalisoituneessa maailmassa kieli on usein suurin este. Nexus Gajan päätavoite on mahdollistaa saumaton, esteetön ja kontekstitarkka kommunikointi ihmisten välillä riippumatta siitä, puhuvatko he yhteistä kieltä.
 
-Kyse ei ole vain sanojen tiukasta kääntämisestä, vaan **merkityksen siirtämisestä**. Nexus Gaja yhdistää ihmiset syvemmällä tasolla ymmärtämällä kulttuurisia, alueellisia ja kontekstuaalisia vivahteita, mikä mahdollistaa aidon, autenttisen keskustelun.
+It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
 
 ## Mahdollisuudet ja ominaisuudet
 - **Multimediaviestintä**: Järjestelmä käsittelee tekstin lisäksi myös kuvaa, ääntä ja videota. Tämä mahdollistaa täysin mukaansatempaavien keskustelujen (esim. videopuhelut tai ääniviestit) reaaliajassa yli kielimuurien.
@@ -23,9 +23,9 @@ Kyse ei ole vain sanojen tiukasta kääntämisestä, vaan **merkityksen siirtäm
 
 ---
 
-## Tekninen arkkitehtuuri (ydinkonsepti)
+## Technical Architecture (Core Concept)
 
-Nexus Gajan tekninen ydin on räätälöity viestintämalli, joka on jaettu tiukasti kolmeen kerrokseen:
+The technical core of Nexus Gaja is a custom-built communication model that is strictly divided into three layers:
 
 1. **Alkuperäinen**: Lähettäjän luoma viestintäobjekti (viesti) pysyy aina muuttumattomana.
 2. **Semanttinen tulkinta**: Järjestelmä analysoi sanojen lisäksi niiden todellisen merkityksen.
@@ -63,7 +63,7 @@ Yhden tekoälyn sijaan perustetaan vankka alijärjestelmä:
        ├──────────────┬───┴─────────────────-
        │ │ │
  Käännöskäyttäytymisidentiteetti
- Analysis         Analysis            Signals
+ Analyysi Analyysisignaalit
        │ │ │
        └──────────────┼────────────────────
                       ▼
@@ -94,11 +94,11 @@ Kohtuullisuus ei voi vain verrata sanoja. Sen on analysoitava semanttinen taso (
 ### 6. Alkuperäinen kieli + käännös
 Alkuperäinen ja käännös analysoidaan erikseen. Vasta sitten suoritetaan "Yhdistetty moderoinnin arviointi". Näin Nexus Gaja voi määrittää, onko itse käännös saattanut eskaloida tai muuttaa tosiasioita.
 
-### 7. Luottamuspisteet
-Jokainen tekoälyarviointi saa luottamuspisteen (esim. Uhan todennäköisyys: 0,96). Kuitenkin: **Luottamuspisteet ≠ Totuus.** 96 %:n pistemäärä tarkoittaa vain, että malli on erittäin varma luokittelustaan, ei välttämättä sitä, että käyttäjä on syyllinen.
+### 7. Confidence Score
+Every AI evaluation receives a confidence score (e.g., Threat probability: 0.96). However: **Confidence Score ≠ Truth.** A score of 96% only means the model is highly certain of its classification, not necessarily that the user is guilty.
 
-### 8. Epävarmuus muuttuu signaaliksi itsekseen
-Jos tekoäly on epävarma (esim. uhka: 0,62, satiiri: 0,54), se ei saa vain pakottaa voimaan ankaria sääntöjä. Sen sijaan epävarmuus on rakennettu suoraan arkkitehtuuriin: **Human Review Required**.
+### 8. Uncertainty Becomes a Signal Itself
+If the AI is uncertain (e.g., Threat: 0.62, Satire: 0.54), it must not simply enforce harsh rules. Instead, uncertainty is built directly into the architecture: **Human Review Required**.
 
 ### 9. Neljä päätösaluetta
 - 🟢 **VIHREÄ**: Hyvin todennäköisesti yhteensopiva. → ei toimintaa.
@@ -118,14 +118,14 @@ DSA vaatii selkeitä ja erityisiä syitä. Tekoäly tarjoaa jäsennellyt peruste
 ### 13. AI ei saa muuttaa sisältöä salaa
 **Moderation AI ei saa koskaan muuttaa alkuperäistä sisältöä huomaamatta.** Automaattisen korjauksen, käännöksen tai yhteenvedon aikana alkuperäinen säilytetään aina.
 
-### 14. Tekoälyn luoma sisältö
-Erotamme: ihmisen luoma, tekoälyn avustama, tekoälyn luoma ja tekoälyn manipuloima. Tästä tulee osa sisällön metadataa.
+### 14. AI-Generated Content
+We distinguish between: Human-created, AI-assisted, AI-generated, and AI-manipulated. This will become part of the content metadata.
 
-### 15. Tekoälysisällön ja tekoälyn alkuperäkerroksen merkitseminen
-EU:n tekoälylain (voimassa elokuussa 2026) läpinäkyvyyssääntöjen mukaan tekoälyn luoman sisällön on oltava tunnistettavissa. Tarjoamme tekoälyn alkuperäkerroksen, joka tallentaa metatiedot (AI-Origin, Model, Timestamp, Human Review).
+### 15. Labeling of AI Content & AI Provenance Layer
+According to the transparency rules of the EU AI Act (effective August 2026), AI-generated content must be identifiable. We provide an AI Provenance Layer that stores metadata (AI-Origin, Model, Timestamp, Human Review).
 
 ### 16. Deepfake Detection
-Arkkitehtuuri pyrkii havaitsemaan synteettiset kuvat, kloonatut äänet ja syväväärennökset. Havaitseminen ei kuitenkaan ole automaattisesti todiste.
+The architecture aims to detect synthetic images, cloned voices, and deepfakes. However, detection is not automatically proof.
 
 ### 17. Ei automaattista "Truth Machine" (Moderaatio ≠ Faktantarkistus)
 Yksi järjestelmä tarkistaa: "Rikkooko sisältö sääntöjä?" (Sisällön moderointi), toinen tarjoaa: "Mitä tietoja ja lähteitä on saatavilla?" (Tietoapu). Mielipiteitä ei vain poisteta "väärien" vuoksi.
@@ -159,6 +159,158 @@ Sääntöjä (Policy Engine) ei ole koodattu tekoälymalleihin. Tekoäly tarjoaa
 - **NG-AI-MOD-002**: Automaattisten valvontapäätösten on oltava jäljitettävissä, kirjattavissa ja todennettavissa.
 
 **Yhteenveto**: Rakennamme nelivaiheista järjestelmää: tekoälyn havaitseminen, konteksti- ja riskianalyysi, politiikkamoottori ja inhimillinen hallinto. Tämä mahdollistaa vahvan automaation luomatta vaarallista "AI tuomarina" -arkkitehtuuria.
+
+## Financing Principles and Revenue Model (WP 1.10.1)
+
+Nexus Gajaan sovelletaan erittäin tärkeää taloudellista periaatetta: **Ei perinteistä mainontaa alustassa.**
+Tämä erottaa Nexus Gajan pohjimmiltaan monista tämän päivän sosiaalisista verkostoista. Tämä ei kuitenkaan tarkoita, että Nexus Gaja ei voisi olla kaupallinen luonne. Päinvastoin alustan on oltava taloudellisesti kannattava, jotta sen sosiaalinen tarkoitus kestää. Taloudellinen toiminta on keino saavuttaa päämäärä, ei alustan ensisijainen tarkoitus.
+
+### 1. Periaate NG-FIN-001
+Nexus Gaja rahoittaa toimintansa läpinäkyvillä tulovirroilla, jotka on erotettu käyttäjien eduista, eikä käyttäjien huomion tai henkilötietojen kaupallistamisella.
+
+### 2. No Traditional Advertising
+Specifically prohibited are:
+- Banner ads
+- Pop-up ads
+- Auto-playing video ads
+- Sponsored posts in the standard feed
+- Personalized advertising profiles
+- Sale of user profiles or personal data
+- Advertising derived from private conversations.
+
+Nexus Gaja on edelleen **viestintätila mainostilan sijaan**.
+
+### 3. Financing Without Advertising (The 6 Pillars)
+Financing is built on six pillars:
+```text
+                 NEXUS GAJA
+                     │
+       ┌─────────────┼─────────────┐
+       ▼             ▼             ▼
+   PREMIUM       ORGANIZATION    DONATIONS
+       │             │             │
+       ├─────────────┼─────────────┤
+       ▼             ▼             ▼
+    GRANTS       PARTNERSHIPS    SERVICES
+```
+
+#### Pilari 1 – Ilmainen perusjäsenyys
+**Nexus Gaja Free** mahdollistaa kansainvälisen perusymmärryksen kaikille (profiili, kansainvälinen viestintä, viestit, yhteisöt, keskustelut, peruskäännös) veloituksetta.
+
+#### Pillar 2 – Premium Offerings
+Voluntary paid offerings (**Nexus Gaja Plus**) providing greater storage limits, higher media quality, expanded AI quotas, and organizational features.
+**Important (Freemium instead of Dark Freemium):** Basic communication must never be artificially degraded.
+
+#### Pillar 3 – Organizations
+Special accounts for schools, universities, NGOs, businesses, and municipalities (**Nexus Gaja Organization**). Schools can be supported via institutional rates as multipliers of international understanding.
+
+#### Pillar 4 – Donations
+The **Nexus Gaja Funding Pool** accepts general and earmarked donations (e.g., "for international youth communication"). A **Fund Allocation Ledger** ensures transparent allocation of funds.
+**Purpose Fund & Tombola:** A portion of donations feeds a pool for free/discounted usage. A lottery/tombola mechanism can allocate these funds transparently and auditably.
+
+#### Pilari 5 – Instituutiorahoitus
+Säätiöt, kulttuurin rahoitusohjelmat tai valtion ohjelmat.
+**NG-FIN-002:** Taloudellinen tuki ei osta toimituksellista tai teknistä valvontaa (riippumattomuus).
+
+#### Pilari 6 – Kaupalliset palvelut
+B2B-palvelut, kuten **Translation-as-a-Service** (API), organisaatioviestintä tai kansainväliset konferenssihuoneet, ilman tavallista käyttäjäsyötettä.
+
+### 4. No Data Monetization & Surveillance Economy
+**NG-FIN-003:** Personal user data is not a commodity. No sale of lists, profiles, or histories. Nexus Gaja does not profit from psychological surveillance (Surveillance Economy).
+
+### 5. Financial Transparency & Fund Ledger
+**Nexus Gaja Financial Transparency:** Publication of aggregated financial structures. Earmarked donations receive technical accounting (Fund ID → Purpose → Balance → Allocation). No cross-subsidization of social purposes into corporate marketing.
+
+### 6. Solidaarisuuteen perustuva rahoitusmalli
+Hinnoittelu perustuu kustannuslähtöisyyteen, oikeudenmukaisuuteen ja solidaarisuuteen.
+**Solidarity Premium:** Premium-käyttäjien vapaaehtoinen vaihtoehto rahoittaa osan toisen käyttäjän käyttöoikeuksista. Pakkosolidaarisuus tai premium-luokan yhteiskunta (vähemmän kunnioitusta/malttia ilmaisia ​​käyttäjiä kohtaan) on ehdottomasti kielletty.
+
+### 7. Taloudelliset KPI:t sitoutumistalouden sijaan
+Ei riippuvuutta käyttäjien pitämisestä "online-tilassa niin kauan kuin mahdollista" (ei raivosyöttiä, loputtomat syötteet).
+Sen sijaan käytämme mittareita, kuten:
+- **Global Communication Index (GCI):** Onnistuneet kommunikaatiosuhteet eri kieli-/kulttuurialueilta tulevien ihmisten välillä.
+- **Alustan kestävyyssuhde (PSR):** Toistuvat tulot / toistuvat käyttökustannukset (tavoite ≥ 1).
+
+### 8. Mitä emme nimenomaisesti halua (negatiivinen luettelo)
+Nexus Gajaa **ei** rahoita:
+❌ Henkilötietojen myynti
+❌ Henkilökohtaista perinteistä mainontaa
+❌ Käyttäjien käyttäytymisen seuranta mainontatarkoituksiin
+❌ Yksityisten viestintätietojen myynti
+❌ Piilotettu AI-datan käyttö
+❌ Manipulatiiviset Premium-maksumuuret
+❌ Kaupallistamisen keinotekoinen kattavuusrajoitus
+❌ Maksettu poliittinen vaikutusvalta
+❌ Etuoikeutettujen moderointipäätösten ostaminen.
+
+### 9. Alustava rahoitusarkkitehtuuri
+``` tekstiä
+                         NEXUS GAJA
+                              │
+             ┌────────────────┼───────────────
+             │ │ │
+             ▼ ▼ ▼
+          KÄYTTÄJIEN ORGANISAATIOT YRITYS
+             │ │ │
+             └────────────────┼──────────────────
+                              │
+                       ALUSTAPALVELUT
+                              │
+          ┌─────────────────── ┼───────────────────┐
+          ▼ ▼ ▼
+       PREMIUM DONATIONS -sovellusliittymä
+                              │
+                    ┌─────────┴─────────┐
+                    ▼ ▼
+               YLEISRAHASTON RAJOITETTU VARAS
+                                        │
+                                        ▼
+                                  SOSIAALINEN TARKOITUS
+```
+
+### Yhteenveto rahoitusperiaatteista (NG-FIN)
+- **NG-FIN-001:** Ei rahoitusta perinteisen mainonnan kautta.
+- **NG-FIN-002:** Ei toimituksellista/teknistä valvontaa taloudellisen tuen kautta.
+- **NG-FIN-003:** Henkilötiedot eivät ole hyödyke.
+- **NG-FIN-004:** Perusviestintä on käytettävissä ilman maksua.
+- **NG-FIN-005:** Premium-tarjoukset eivät saa heikentää ilmaisia ​​käyttäjiä.
+- **NG-FIN-006:** Korvattuja varoja hallinnoidaan niiden käyttötarkoituksen mukaisesti.
+- **NG-FIN-007:** Lahjoitusten ja apurahojen läpinäkyvä hallinta.
+- **NG-FIN-008:** Kaupalliset B2B-palvelut eivät vaaranna riippumattomuutta.
+- **NG-FIN-009:** Keskity kestävyyteen maksimaalisen kaupallistamisen sijaan.
+- **NG-FIN-010:** Rakenne turvaa pysyvästi yhteiskunnallisen tarkoituksen.
+
+## API, rajapinnat ja viestintäarkkitehtuuri (WP 1.11.3)
+
+Järjestelmän vakauden, turvallisuuden ja skaalautuvuuden varmistamiseksi Nexus Gaja noudattaa tiukasti API-ensimmäistä ja tapahtumalähtöistä arkkitehtuuria.
+
+### Perusperiaatteet
+- **Ei suoraa tietokantakäyttöä:** Komponentit kommunikoivat yksinomaan määritettyjen liitäntöjen (API tai tapahtumat) kautta, eivät koskaan muiden palveluiden suorien tietokantakyselyjen kautta.
+- **API-yhdyskäytävä:** Kaikki ulkoiset asiakaspyynnöt reititetään API-yhdyskäytävän kautta, joka käsittelee todennusta, reititystä ja nopeusrajoitusta.
+- **Provider Abstraction:** Ulkoiset palvelut (AI-mallit, maksupalveluntarjoajat, käännöskoneet) on integroitu abstraktiokerrosten kautta, mikä välttää kovakoodatut riippuvuudet ja mahdollistaa joustavan palveluntarjoajan vaihdon.
+
+### Viestintämallit
+- **Synkroniset sovellusliittymät (REST/HTTPS):** Käytetään välittömiin pyyntöihin, kuten kirjautumiseen, profiiliasetuksiin tai suoriin käännöksiin.
+- **Asynkroniset tapahtumat (tapahtumaväylä):** Nexus Gajan keskushermosto viivästettyyn ja irrotettuun käsittelyyn (esim. "Message.Created", joka laukaisee moderoinnin, kääntämisen ja ilmoituksen asynkronisesti).
+- **Reaaliaikainen (WebSocket):** Omat kanavat live-chatille ja kirjoitusilmaisimille.
+
+### Turvallisuus ja luotettavuus
+- **Zero-Trust Model:** Sisäiseen verkkoliikenteeseen ei luoteta automaattisesti; herkkä palveluiden välinen viestintä vaatii todennusta.
+- **Idempotency & Outbox Pattern:** Kriittiset toiminnot (kuten lahjoitukset tai viestit) on suunniteltu idempotenteiksi päällekkäisten käsittelyjen estämiseksi. Lähtevät-kuviota käytetään varmistamaan, että tapahtumat eivät koskaan katoa edes tietokantatapahtumien aikana.
+
+## MVP-verkkotunnusmalli (WP 1.12)
+
+Nexus Gaja employs a strictly Domain-Driven MVP Architecture (ADR-025), designed as a modular monolith with clear domain boundaries. This structure prevents premature microservice complexity while retaining the flexibility to split out specific domains later.
+
+### Core Domain Entities
+The architecture explicitly separates distinct concepts to ensure data integrity and avoid structural pitfalls like "Username = Human":
+- **Identity & Accounts:** `Person` ≠ `User Account` ≠ `Identity Verification`. A verified person participates via an account, but the entities remain separate.
+- **Communication:** `Message` ≠ `Translation`. The original message remains immutable; translations are linked entities.
+- **Moderation:** `Report` ≠ `Moderation Decision`. A report is merely a claim; a moderation case conducts the investigation.
+- **Finances:** `Donation` ≠ `Fund Balance`. Payments are booked via an immutable ledger to a fund, ensuring financial transparency.
+
+### Yhdistetyt verkkotunnukset
+Järjestelmä on jaettu selkeisiin loogisiin alueisiin (rajoitetut kontekstit): Identiteetti, tili, organisaatio, viestintä, yhteisö, kieli, valvonta, ilmoitus, talous ja hallinto. Nämä verkkotunnukset kartoittavat koko matkan reaalimaailman kokonaisuuksista (käyttäjät, koulut, kansalaisjärjestöt) heidän digitaaliseen vuorovaikutukseensa ja siihen liittyvään hallintoon.
 
 ## Projektin tila
 Projekti on tällä hetkellä aktiivisessa arkkitehtuuri- ja suunnitteluvaiheessa.

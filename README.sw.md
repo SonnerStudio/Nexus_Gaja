@@ -38,7 +38,7 @@ Tafsiri katika Nexus Gaja kamwe hazioni ujumbe kwa kutengwa. Injini inazingatia 
 ### Ufanisi kupitia Tafsiri Unapohitaji
 Tafsiri hutokea kwa ufanisi wa rasilimali tu **kwa ombi** (Inapohitajika). Mtumiaji anapoomba maudhui, hutafsiriwa katika lugha yao iliyowekwa awali. Mara tafsiri ya lugha mahususi inapotolewa, huhifadhiwa kabisa (caching) ili kuharakisha maombi ya siku zijazo.
 
-## AI-Assisted Moderation (WP 1.8.4)
+## Usaidizi wa Kudhibiti AI (WP 1.8.4)
 
 Kwa Kudhibiti Usaidizi wa AI, tunachukua hatua muhimu kutoka kwa wazo la bidhaa hadi usanifu wa kiufundi, kwa kuzingatia kanuni za sasa za Umoja wa Ulaya (mahitaji ya uwazi ya Sheria ya EU AI chini ya Sanaa. 50; Sheria ya Huduma za Dijitali yenye uhalali unaoeleweka na chaguo za kukata rufaa).
 
@@ -51,51 +51,51 @@ Tunatofautisha kati ya viwango vitatu:
 - **Uamuzi:** "Ni hatua gani hasa inachukuliwa?"
 Ngazi ya tatu lazima kudhibitiwa na binadamu katika kesi kali.
 
-### 2. AI ya Kudhibiti kama Mfumo Ndogo
-Badala ya AI moja, mfumo mdogo wa nguvu unaanzishwa:
-``` maandishi
+### 2. The Moderation AI as a Subsystem
+Instead of a single AI, a robust subsystem is established:
+```text
                  NEXUS GAJA AI MODERATION
                           │
-       ┌─────────────────┼───────────────────
-       │ │ │
-  Lugha AI Usalama AI Ulaghai AI
-       │ │ │
-       ├────────────┬───┴───────────────────
-       │ │ │
- Utambulisho wa Tabia ya Tafsiri
- Ishara za Uchambuzi
-       │ │ │
-       └─────────────┼───────────────────
+       ┌──────────────────┼──────────────────┐
+       │                  │                  │
+  Language AI        Safety AI          Fraud AI
+       │                  │                  │
+       ├──────────────┬───┴──────────────┬───┤
+       │              │                  │
+ Translation      Behaviour          Identity
+ Analysis         Analysis            Signals
+       │              │                  │
+       └──────────────┼──────────────────┘
                       ▼
-               Tathmini ya Hatari
+               Risk Assessment
                       │
                       ▼
-               Uhakiki wa Binadamu
+               Human Review
 ```
 
-### 3. Moduli Muhimu Zaidi za AI
-Nexus Gaja hutumia maeneo tisa maalum ya uchanganuzi:
-- **M1 – Uelewa wa Lugha**: Hutambua lugha, lahaja, misimu, viashirio vya kejeli, masuala ya tafsiri.
-- **M2 - Utambuzi wa sumu / Unyanyasaji**: Hugundua matusi, mashambulizi ya kibinafsi, unyanyasaji.
-- **M3 - Utambuzi wa Tishio**: Hugundua vitisho vinavyoweza kutokea, usaliti, matangazo ya vurugu.
-- **M4 – Utambuzi wa Chuki / Udhalilishaji**: Hugundua mashambulizi yanayolengwa dhidi ya watu kulingana na uhusiano mahususi.
-- **M5 - Utambuzi wa Taka / Udanganyifu**: Hugundua barua taka, tabia ya roboti, upotoshaji ulioratibiwa.
-- **M6 – Utambuzi wa Ulaghai**: Hugundua majaribio ya ulaghai yanayoshukiwa, wizi wa data binafsi, uhandisi wa kijamii.
-- **M7 – Uadilifu wa Utambulisho**: Hukagua ishara kuhusu uchukuaji wa akaunti, akaunti nyingi, kupiga marufuku ukwepaji.
-- **M8 – Usalama wa Vyombo vya Habari**: Huchanganua picha, sauti, video, hati.
-- **M9 - Injini ya Muktadha**: Moduli muhimu zaidi. Inaunganisha matokeo ya mtu binafsi.
+### 3. The Most Important AI Modules
+Nexus Gaja utilizes nine specialized analysis areas:
+- **M1 – Language Understanding**: Detects language, dialect, slang, irony indicators, translation issues.
+- **M2 – Toxicity / Abuse Detection**: Detects insults, personal attacks, harassment.
+- **M3 – Threat Detection**: Detects potential threats, blackmail, violence announcements.
+- **M4 – Hate / Dehumanization Detection**: Detects targeted attacks on people based on specific affiliations.
+- **M5 – Spam / Manipulation Detection**: Detects spam, bot behavior, coordinated manipulation.
+- **M6 – Fraud Detection**: Detects suspicious fraud attempts, phishing, social engineering.
+- **M7 – Identity Integrity**: Checks signals regarding account takeovers, multiple accounts, ban evasion.
+- **M8 – Media Safety**: Analyzes images, audio, video, documents.
+- **M9 – Context Engine**: The most important module. It merges the individual findings.
 
-### 4. Kwa nini Injini ya Muktadha ni Muhimu
-Utafutaji wa nenomsingi safi hautatosha. "Ningeweza kumuua kutokana na kucheka" kimantiki ina vurugu lakini ni tamathali ya semi. "Kesho saa 8 mchana nitampiga risasi mbele ya nyumba yake" ni hali tofauti kabisa. AI lazima ielewe nini maana ya taarifa katika muktadha wake mahususi.
+### 4. Why the Context Engine is Crucial
+A pure keyword search would be insufficient. "I could kill him from laughing" semantically contains violence but is a figure of speech. "Tomorrow at 8 PM I will shoot him in front of his house" is a completely different situation. The AI must understand what the statement means in its specific context.
 
 ### 5. Udhibiti wa Lugha nyingi
 Kiasi haiwezi tu kulinganisha maneno. Ni lazima ichanganue kiwango cha kisemantiki (k.m., nahau za Kijerumani dhidi ya nahau za Kijapani dhidi ya misemo ya kieneo).
 
-### 6. Lugha Asili + Tafsiri
-Asili na tafsiri huchanganuliwa kando. Hapo ndipo "Tathmini ya Usanifu wa Pamoja" hufanyika. Hii inaruhusu Nexus Gaja kubaini ikiwa tafsiri yenyewe inaweza kuwa imeongezeka au kubadilisha ukweli.
+### 6. Original Language + Translation
+Original and translation are analyzed separately. Only then does the "Combined Moderation Assessment" take place. This allows Nexus Gaja to determine whether the translation itself may have escalated or altered the facts.
 
-### 7. Alama ya Kujiamini
-Kila tathmini ya AI hupokea alama ya kujiamini (k.m., uwezekano wa Tishio: 0.96). Hata hivyo: **Alama ya Kujiamini ≠ Ukweli.** Alama ya 96% inamaanisha tu kwamba muundo una uhakika mkubwa wa uainishaji wake, si lazima kwamba mtumiaji ana hatia.
+### 7. Confidence Score
+Every AI evaluation receives a confidence score (e.g., Threat probability: 0.96). However: **Confidence Score ≠ Truth.** A score of 96% only means the model is highly certain of its classification, not necessarily that the user is guilty.
 
 ### 8. Kutokuwa na uhakika Kunakuwa Ishara Yenyewe
 Ikiwa AI haina uhakika (k.m., Tishio: 0.62, Satire: 0.54), lazima isitekeleze tu sheria kali. Badala yake, kutokuwa na uhakika kunajengwa moja kwa moja kwenye usanifu: **Uhakiki wa Kibinadamu Unahitajika**.
@@ -106,8 +106,8 @@ Ikiwa AI haina uhakika (k.m., Tishio: 0.62, Satire: 0.54), lazima isitekeleze tu
 - 🟠 **CHUNGWA**: Ukiukaji unaowezekana. → ukaguzi wa wastani.
 - 🔴 **RED**: Ukiukaji mkubwa unaowezekana. → kipimo cha kinga cha haraka + mapitio ya binadamu.
 
-### 10. Hapana "Adhabu ya AI"
-**AI haitoi vikwazo vya mwisho.** Inaweza kuanzisha hatua za haraka za kiufundi (k.m., kusimamisha ujumbe kwa muda) kwa matatizo makubwa ya usalama, lakini uamuzi wa mwisho bado unathibitishwa.
+### 10. No "AI Punishment"
+**The AI imposes no final sanctions.** It can trigger technical immediate measures (e.g., temporarily holding back a message) for severe security concerns, but the final decision remains verifiable.
 
 ### 11. Hatua za Kinga Inaweza Kutokea Kiotomatiki
 Katika tukio la tishio halisi (Tishio limegunduliwa → Kujiamini kwa juu → Kizuizi cha muda → Mapitio ya kibinadamu → Uamuzi), tunalinda mtumiaji aliyetishiwa bila kugeuza AI kuwa hakimu.
@@ -158,7 +158,159 @@ Sheria (Injini ya Sera) hazijawekwa ngumu katika miundo ya AI. AI hutoa matokeo;
 - **NG-AI-MOD-001**: AI husaidia katika kutambua na kuainisha, lakini haichukui nafasi ya ukaguzi wa kibinadamu katika maamuzi magumu.
 - **NG-AI-MOD-002**: Maamuzi ya udhibiti wa kiotomatiki lazima yafuatiliwe, yaweze kuandikika na yaweze kuthibitishwa.
 
-**Muhtasari**: Tunaunda mfumo wa hatua nne: Utambuzi wa AI, Uchambuzi wa Mazingira na Hatari, Injini ya Sera na Utawala wa Kibinadamu. Hii huwezesha otomatiki kali bila kuunda usanifu hatari wa "AI kama Jaji".
+**Summary**: We are building a four-stage system: AI Detection, Context and Risk Analysis, Policy Engine, and Human Governance. This enables strong automation without creating a dangerous "AI as Judge" architecture.
+
+## Kanuni za Ufadhili na Muundo wa Mapato (WP 1.10.1)
+
+Kwa Nexus Gaja, kanuni muhimu sana ya kiuchumi inatumika: **Hakuna utangazaji wa kitamaduni ndani ya jukwaa.**
+Hii kimsingi inatofautisha Nexus Gaja kutoka kwa mitandao mingi ya kijamii ya leo. Walakini, hii haimaanishi kuwa Nexus Gaja haiwezi kuwa na tabia ya kibiashara. Kinyume chake, jukwaa lazima liwe na uwezo wa kiuchumi ili kusudi lake la kijamii liweze kudumu. Shughuli za kiuchumi ni njia ya kufikia malengo, si madhumuni ya msingi ya jukwaa.
+
+### 1. Kanuni ya NG-FIN-001
+Nexus Gaja hufadhili shughuli zake kupitia njia za uwazi za mapato zinazotenganishwa na maslahi ya watumiaji, na si kupitia uchumaji wa usikivu wa watumiaji wake au data ya kibinafsi.
+
+### 2. Hakuna Utangazaji wa Jadi
+Hasa marufuku ni:
+- Matangazo ya mabango
+- Matangazo ya pop-up
+- Matangazo ya video ya kucheza kiotomatiki
+- Machapisho yanayofadhiliwa katika mipasho ya kawaida
+- Profaili za utangazaji za kibinafsi
+- Uuzaji wa wasifu wa mtumiaji au data ya kibinafsi
+- Utangazaji unaotokana na mazungumzo ya faragha.
+
+Nexus Gaja inasalia kuwa **nafasi ya mawasiliano badala ya nafasi ya matangazo**.
+
+### 3. Ufadhili Bila Matangazo (The 6 Pillars)
+Ufadhili umejengwa juu ya nguzo sita:
+``` maandishi
+                 NEXUS GAJA
+                     │
+       ┌────────────┼────────────┐
+       ▼ ▼ ▼
+   MICHANGO YA PREMIUM ORGANIZATION
+       │ │ │
+       ├──────────────────────────┤
+       ▼ ▼ ▼
+    HUDUMA ZA USHIRIKI WA RUZUKU
+```
+
+#### Nguzo ya 1 - Uanachama wa Msingi Bila Malipo
+**Nexus Gaja Isiyolipishwa** huwezesha uelewa wa kimsingi wa kimataifa kwa kila mtu (wasifu, mawasiliano ya kimataifa, machapisho, jumuiya, gumzo, tafsiri msingi) bila gharama.
+
+#### Nguzo ya 2 – Matoleo ya Kulipiwa
+Matoleo yanayolipishwa ya hiari (**Nexus Gaja Plus**) yanayotoa viwango vikubwa zaidi vya hifadhi, ubora wa juu wa maudhui, viwango vilivyopanuliwa vya AI na vipengele vya shirika.
+**Muhimu (Freemium badala ya Dark Freemium):** Mawasiliano ya kimsingi lazima yawahi kuharibiwa kwa njia bandia.
+
+#### Nguzo ya 3 – Mashirika
+Akaunti maalum za shule, vyuo vikuu, mashirika yasiyo ya kiserikali, biashara na manispaa (**Shirika la Nexus Gaja**). Shule zinaweza kusaidiwa kupitia viwango vya kitaasisi kama vizidishi vya uelewa wa kimataifa.
+
+#### Nguzo ya 4 – Michango
+**Njia ya Ufadhili ya Nexus Gaja** inakubali michango ya jumla na iliyotengwa (k.m., "kwa mawasiliano ya kimataifa ya vijana"). **Leja ya Ugawaji wa Fedha** inahakikisha ugawaji wa fedha kwa uwazi.
+**Mfuko wa Kusudi na Tombola:** Sehemu ya michango hulisha bwawa kwa matumizi bila malipo/punguzo. Utaratibu wa bahati nasibu/tombola unaweza kutenga fedha hizi kwa uwazi na ukaguzi.
+
+#### Nguzo ya 5 – Ufadhili wa Taasisi
+Misingi, programu za ufadhili wa kitamaduni, au programu za serikali.
+**NG-FIN-002:** Usaidizi wa kifedha haununui udhibiti wa uhariri au kiufundi (Uhuru).
+
+#### Nguzo ya 6 - Huduma za Biashara
+Huduma za B2B kama vile **Translation-as-a-Service** (API), mawasiliano ya shirika, au vyumba vya mikutano vya kimataifa, bila kulemea mipasho ya kawaida ya mtumiaji.
+
+### 4. Hakuna Uchumaji wa Data na Uchumi wa Ufuatiliaji
+**NG-FIN-003:** Data ya kibinafsi ya mtumiaji si bidhaa. Hakuna uuzaji wa orodha, wasifu, au historia. Nexus Gaja hainufaiki kutokana na ufuatiliaji wa kisaikolojia (Uchumi wa Ufuatiliaji).
+
+### 5. Uwazi wa Fedha & Leja ya Mfuko
+**Uwazi wa Kifedha wa Nexus Gaja:** Uchapishaji wa miundo ya kifedha iliyojumlishwa. Michango iliyotengwa hupokea uhasibu wa kiufundi (Kitambulisho cha Mfuko → Madhumuni → Salio → Mgao). Hakuna ruzuku mtambuka ya madhumuni ya kijamii katika uuzaji wa kampuni.
+
+### 6. Mshikamano-Based Financing Model
+Uwekaji bei unatokana na mwelekeo wa gharama, usawa na mshikamano.
+**Solidarity Premium:** Chaguo la hiari kwa watumiaji wa Premium kufadhili sehemu ya ufikiaji wa mtumiaji mwingine. Mshikamano wa kulazimishwa au jamii ya daraja la juu (heshima ndogo/usawaji kwa watumiaji wasiolipishwa) hairuhusiwi kabisa.
+
+### 7. KPIs za Kiuchumi Badala ya Uchumi wa Uchumi
+Hakuna utegemezi wa kuweka watumiaji "mtandaoni kwa muda mrefu iwezekanavyo" (hakuna ragebait, milisho isiyo na kikomo).
+Badala yake, tunatumia vipimo kama vile:
+- **Kielezo cha Mawasiliano Ulimwenguni (GCI):** Uhusiano wenye mafanikio wa mawasiliano kati ya watu kutoka maeneo mbalimbali ya lugha/utamaduni.
+- **Uwiano Endelevu wa Mfumo (PSR):** Mapato ya mara kwa mara / gharama za uendeshaji zinazorudiwa (Lengo ≥ 1).
+
+### 8. Kile Tusichokitaka kwa Dhahiri (Orodha Hasi)
+Nexus Gaja **haifadhiliwi na:
+❌ Uuzaji wa data ya kibinafsi
+❌ Utangazaji wa kitamaduni uliobinafsishwa
+❌ Kufuatilia tabia ya mtumiaji kwa madhumuni ya utangazaji
+❌ Uuzaji wa data ya mawasiliano ya kibinafsi
+❌ Utumiaji wa data wa AI uliofichwa
+❌ Ukuta wa malipo wa Ujanja wa Premium
+❌ Masharti ya ufikiaji Bandia wa uchumaji wa mapato
+❌ Ushawishi wa kisiasa unaolipwa
+❌ Ununuzi wa maamuzi ya upendeleo ya udhibiti.
+
+### 9. Usanifu wa Awali wa Fedha
+``` maandishi
+                         NEXUS GAJA
+                              │
+             ┌───────────────┼─────────────────────
+             │ │ │
+             ▼ ▼ ▼
+          USERS ORGANIZATIONS ENTERPRISE
+             │ │ │
+             └───────────────┼──────────────────
+                              │
+                       HUDUMA ZA JUKWAA
+                              │
+          ┌────────────────── ┼──────────────────┐
+          ▼ ▼ ▼
+       API YA PREMIUM DONATIONS
+                              │
+                    ┌─────────┴─────────┐
+                    ▼ ▼
+               FEDHA ZINAZOZUIA MFUKO MKUU
+                                        │
+                                        ▼
+                                  KUSUDI LA KIJAMII
+```
+
+### Muhtasari wa Kanuni za Ufadhili (NG-FIN)
+- **NG-FIN-001:** Hakuna ufadhili kupitia utangazaji wa kitamaduni.
+- **NG-FIN-002:** Hakuna udhibiti wa uhariri/kiufundi kupitia usaidizi wa kifedha.
+- **NG-FIN-003:** Data ya kibinafsi si bidhaa.
+- **NG-FIN-004:** Mawasiliano ya kimsingi yanaendelea kufikiwa bila malipo.
+- **NG-FIN-005:** Matoleo ya kulipiwa hayapaswi kudhalilisha watumiaji bila malipo.
+- **NG-FIN-006:** Fedha zilizotengwa zinasimamiwa kulingana na madhumuni yao.
+- **NG-FIN-007:** Usimamizi wa uwazi wa michango na ruzuku.
+- **NG-FIN-008:** Huduma za kibiashara za B2B hazihatarishi uhuru.
+- **NG-FIN-009:** Zingatia uendelevu badala ya upeo wa juu wa uchumaji wa mapato.
+- **NG-FIN-010:** Muundo hulinda kabisa madhumuni ya kijamii.
+
+## API, Violesura, na Usanifu wa Mawasiliano (WP 1.11.3)
+
+Ili kuhakikisha uthabiti wa mfumo, usalama na uimara, Nexus Gaja inafuata usanifu kamili wa API-kwanza na unaoendeshwa na tukio.
+
+### Core Principles
+- **No Direct Database Access:** Components communicate exclusively via defined interfaces (APIs or Events), never through direct database queries of other services.
+- **API Gateway:** All external client requests route through an API Gateway handling authentication, routing, and rate limiting.
+- **Provider Abstraction:** External services (AI models, payment providers, translation engines) are integrated via abstraction layers, avoiding hardcoded dependencies and enabling flexible provider swapping.
+
+### Mifumo ya Mawasiliano
+- **API za Usawazishaji (REST/HTTPS):** Hutumika kwa maombi ya mara moja kama vile kuingia, mipangilio ya wasifu, au tafsiri za moja kwa moja.
+- **Matukio Yasiyolandanishwa (Basi la Tukio):** Mfumo mkuu wa neva wa Nexus Gaja kwa uchakataji uliocheleweshwa, uliotenganishwa (k.m., `Ujumbe.Umeundwa` unaoanzisha Ukadiriaji, Tafsiri, na Arifa bila kulandanisha).
+- **Muda Halisi (WebSocket):** Vituo maalum vya viashiria vya mazungumzo ya moja kwa moja na chapa.
+
+### Usalama na Kuegemea
+- **Muundo wa Sifuri wa Kuaminiana:** Trafiki ya ndani ya mtandao haiaminiki kiotomatiki; mawasiliano nyeti ya huduma kwa huduma yanahitaji uthibitishaji.
+- **Mchoro wa Kutokuwa na uwezo na Kikasha toezi:** Shughuli muhimu (kama vile michango au kutuma ujumbe) zimeundwa ili zisiwe na uwezo ili kuzuia uchakataji unaorudiwa, kwa kutumia mchoro wa Kikasha toezi ili kuhakikisha kuwa matukio hayapotei kamwe hata wakati wa shughuli za hifadhidata.
+
+## Muundo wa Kikoa cha MVP (WP 1.12)
+
+Nexus Gaja inaajiri Usanifu wa MVP Unaoendeshwa na Kikoa (ADR-025), iliyoundwa kama moduli ya monolith iliyo na mipaka iliyo wazi ya kikoa. Muundo huu huzuia uchangamano wa huduma ndogo kabla ya wakati huku ukibakiza unyumbufu wa kugawanya vikoa mahususi baadaye.
+
+### Huluki Muhimu za Kikoa
+Usanifu hutenganisha kwa uwazi dhana tofauti ili kuhakikisha uadilifu wa data na kuepuka mitego ya kimuundo kama "Jina la mtumiaji = Binadamu":
+- **Kitambulisho na Akaunti:** `Mtu` ≠ `Akaunti ya Mtumiaji` ≠ `Uthibitishaji wa Kitambulisho`. Mtu aliyeidhinishwa anashiriki kupitia akaunti, lakini huluki hubaki tofauti.
+- **Mawasiliano:** `Ujumbe` ≠ `Tafsiri`. Ujumbe asilia haubadiliki; tafsiri ni vyombo vilivyounganishwa.
+- **Ukadiriaji:** `Ripoti` ≠ `Uamuzi wa Kudhibiti`. Ripoti ni madai tu; kesi ya wastani hufanya uchunguzi.
+- **Fedha:** `Mchango` ≠ `Salio la Mfuko`. Malipo yamewekwa kupitia leja isiyobadilika kwa hazina, kuhakikisha uwazi wa kifedha.
+
+### Vikoa Vilivyounganishwa
+Mfumo umegawanywa katika vikoa vya kimantiki vilivyo wazi (Miktadha Iliyounganishwa): Utambulisho, Akaunti, Shirika, Mawasiliano, Jumuiya, Lugha, Usaidizi, Arifa, Fedha, na Utawala. Vikoa hivi hupanga safari nzima kutoka kwa vyombo vya ulimwengu halisi (Watumiaji, Shule, Mashirika Yasiyo ya Kiserikali) hadi mwingiliano wao wa kidijitali na utawala unaohusiana.
 
 ##Hali ya Mradi
 Mradi kwa sasa uko katika hatua ya usanifu na upangaji hai.

@@ -1,6 +1,6 @@
 # Nexus Gaja
 
-![Logo Nexus Gaja](assets/logo.jpg)
+![Nexus Gaja Logo](assets/logo.jpg)
 
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
@@ -9,21 +9,21 @@
 
 </details>
 
-**Nexus Gaja** è una rete di comunicazione intelligente e sensibile al contesto progettata per rivoluzionare la comunicazione globale.
+**Nexus Gaja** is an intelligent, context-sensitive communication network designed to revolutionize global communication.
 
-## Scopo e visione
-In un mondo globalizzato, la lingua è spesso la barriera più grande. L'obiettivo principale di Nexus Gaja è consentire una comunicazione fluida, priva di barriere e contestualmente accurata tra le persone, indipendentemente dal fatto che parlino o meno una lingua comune.
+## Purpose and Vision
+In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
 
-Non si tratta solo di tradurre rigidamente le parole, ma di **trasferire significato**. Nexus Gaja connette le persone a un livello più profondo comprendendo le sfumature culturali, regionali e contestuali, consentendo così conversazioni genuine e autentiche.
+It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
 
-## Possibilità e caratteristiche
-- **Comunicazione multimediale**: il sistema elabora non solo testo, ma anche immagini, audio e video. Ciò consente conversazioni completamente coinvolgenti (ad esempio, videochiamate o messaggi vocali) in tempo reale oltre le barriere linguistiche.
-- **Sensibilità al contesto**: riconoscimento dell'ironia, degli idiomi, del gergo e dei dialetti regionali che spesso vengono fraintesi dai traduttori convenzionali.
-- **Rete multipiattaforma**: funge da base per chat private, thread di forum (post con commenti) e interazioni con la comunità globale.
+## Possibilities and Features
+- **Multimedia Communication**: The system processes not just text, but also image, audio, and video. This allows for fully immersive conversations (e.g., video calls or voice messages) in real-time across language barriers.
+- **Context Sensitivity**: Recognition of irony, idioms, jargon, and regional dialects that are often misunderstood by conventional translators.
+- **Cross-Platform Network**: Serves as a foundation for private chats, forum threads (posts with comments), and global community interactions.
 
 ---
 
-## Architettura tecnica (concetto fondamentale)
+## Technical Architecture (Core Concept)
 
 Il nucleo tecnico di Nexus Gaja è un modello di comunicazione personalizzato, rigorosamente suddiviso in tre livelli:
 
@@ -145,11 +145,11 @@ Ciò si riferisce a segnali di abuso tecnico (ad esempio, pubblicazione di spam 
 ### 22. L'intelligenza artificiale della moderazione deve essere verificabile
 Tutte le decisioni automatizzate rilevanti vengono registrate (ID evento, ID regola, fiducia, revisione umana, ecc.) per garantire la tracciabilità.
 
-### 23. Falsi positivi, falsi negativi e metriche di qualità
-I tipi di errore vengono monitorati. Una dashboard misura la precisione, il richiamo e soprattutto il **Tasso di annullamento del ricorso** (numero di ricorsi accolti).
+### 23. False Positives, False Negatives & Quality Metrics
+Error types are monitored. A dashboard measures Precision, Recall, and especially the **Appeal Reversal Rate** (number of successful appeals).
 
-### 24. Equità linguistica e pregiudizi traduttivi
-La qualità della moderazione deve essere comparabile in tutte le lingue supportate (benchmark di moderazione multilingue). Se i risultati della moderazione differiscono tra l'originale e la traduzione (Conflitto di traduzione), questo deve essere specificamente esaminato.
+### 24. Language Equity & Translation Bias
+Moderation quality must be comparable across all supported languages (Multilingual Moderation Benchmark). If moderation results differ between the original and the translation (Translation Conflict), this must be specifically reviewed.
 
 ### 25. Proposta di architettura e motore politico
 Le regole (Policy Engine) non sono codificate nei modelli AI. L'intelligenza artificiale fornisce risultati; il Policy Engine decide in base alle regole attuali. Ciò consente **modifiche al modello senza modifiche alle regole**.
@@ -158,15 +158,15 @@ Le regole (Policy Engine) non sono codificate nei modelli AI. L'intelligenza art
 - **NG-AI-MOD-001**: l'intelligenza artificiale assiste nel rilevamento e nella classificazione, ma non sostituisce la revisione umana nelle decisioni gravi.
 - **NG-AI-MOD-002**: le decisioni di moderazione automatizzata devono essere tracciabili, registrabili e verificabili.
 
-**Riepilogo**: Stiamo costruendo un sistema in quattro fasi: rilevamento dell'intelligenza artificiale, analisi del contesto e dei rischi, motore delle politiche e governance umana. Ciò consente una forte automazione senza creare una pericolosa architettura "AI as Judge".
+**Summary**: We are building a four-stage system: AI Detection, Context and Risk Analysis, Policy Engine, and Human Governance. This enables strong automation without creating a dangerous "AI as Judge" architecture.
 
-## Principi di finanziamento e modello delle entrate (WP 1.10.1)
+## Financing Principles and Revenue Model (WP 1.10.1)
 
 Per Nexus Gaja vale un principio economico molto importante: **nessuna pubblicità tradizionale all'interno della piattaforma.**
 Ciò distingue fondamentalmente Nexus Gaja da molti dei social network odierni. Ciò però non significa che Nexus Gaja non possa avere carattere commerciale. Al contrario, la piattaforma deve essere economicamente sostenibile affinché il suo scopo sociale possa durare. L’attività economica è un mezzo per raggiungere un fine, non lo scopo principale della piattaforma.
 
-### 1. Principio NG-FIN-001
-Nexus Gaja finanzia le sue operazioni attraverso flussi di entrate trasparenti separati dagli interessi degli utenti e non attraverso la monetizzazione dell'attenzione o dei dati personali dei suoi utenti.
+### 1. Principle NG-FIN-001
+Nexus Gaja finances its operations through transparent revenue streams separated from user interests, and not through the monetization of its users' attention or personal data.
 
 ### 2. Nessuna pubblicità tradizionale
 In particolare sono vietati:
@@ -178,7 +178,7 @@ In particolare sono vietati:
 - Vendita di profili utente o dati personali
 - Pubblicità derivata da conversazioni private.
 
-Nexus Gaja rimane uno **spazio di comunicazione piuttosto che uno spazio pubblicitario**.
+Nexus Gaja remains a **communication space rather than an advertising space**.
 
 ### 3. Finanziamenti senza pubblicità (i 6 pilastri)
 Il finanziamento si basa su sei pilastri:
@@ -225,11 +225,11 @@ Servizi B2B come **Translation-as-a-Service** (API), comunicazione organizzativa
 I prezzi si basano sull’orientamento ai costi, sull’equità e sulla solidarietà.
 **Solidarity Premium:** Un'opzione volontaria per gli utenti Premium di finanziare una parte dell'accesso di un altro utente. La solidarietà forzata o una società di classe premium (meno rispetto/moderazione per gli utenti gratuiti) è severamente vietata.
 
-### 7. KPI economici anziché Engagement Economy
-Nessuna dipendenza dal mantenere gli utenti "online il più a lungo possibile" (niente ragebait, feed infiniti).
-Utilizziamo invece parametri come:
-- **Indice di comunicazione globale (GCI):** Relazioni comunicative di successo tra persone provenienti da diverse regioni linguistiche/culturali.
-- **Rapporto di sostenibilità della piattaforma (PSR):** Entrate ricorrenti/costi operativi ricorrenti (Target ≥ 1).
+### 7. Economic KPIs Instead of Engagement Economy
+No dependence on keeping users "online as long as possible" (no ragebait, infinite feeds).
+Instead, we use metrics like:
+- **Global Communication Index (GCI):** Successful communication relationships between people from different linguistic/cultural regions.
+- **Platform Sustainability Ratio (PSR):** Recurring revenue / recurring operating costs (Target ≥ 1).
 
 ### 8. Ciò che esplicitamente non vogliamo (elenco negativo)
 Nexus Gaja **non** è finanziato da:
@@ -280,6 +280,38 @@ Nexus Gaja **non** è finanziato da:
 - **NG-FIN-009:** Focus sulla sostenibilità piuttosto che sulla massima monetizzazione.
 - **NG-FIN-010:** La struttura garantisce permanentemente lo scopo sociale.
 
-## Stato del progetto
-Il progetto è attualmente in fase di architettura e pianificazione attiva.
-Le decisioni architetturali in corso sono documentate nella cartella "/docs".
+## API, Interfaces, and Communication Architecture (WP 1.11.3)
+
+To ensure system stability, security, and scalability, Nexus Gaja follows a strictly API-first and event-driven architecture. 
+
+### Principi fondamentali
+- **Nessun accesso diretto al database:** I componenti comunicano esclusivamente tramite interfacce definite (API o eventi), mai tramite query dirette al database di altri servizi.
+- **API Gateway:** tutte le richieste dei client esterni vengono instradate attraverso un API Gateway che gestisce l'autenticazione, il routing e la limitazione della velocità.
+- **Astrazione del fornitore:** i servizi esterni (modelli di intelligenza artificiale, fornitori di pagamenti, motori di traduzione) sono integrati tramite livelli di astrazione, evitando dipendenze codificate e consentendo uno scambio flessibile di fornitori.
+
+### Communication Patterns
+- **Synchronous APIs (REST/HTTPS):** Used for immediate requests like login, profile settings, or direct translations.
+- **Asynchronous Events (Event Bus):** The central nervous system of Nexus Gaja for delayed, decoupled processing (e.g., `Message.Created` triggering Moderation, Translation, and Notification asynchronously).
+- **Realtime (WebSocket):** Dedicated channels for live chat and typing indicators.
+
+### Security and Reliability
+- **Zero-Trust Model:** Internal network traffic is not automatically trusted; sensitive service-to-service communication requires authentication.
+- **Idempotency & Outbox Pattern:** Critical operations (like donations or messaging) are designed to be idempotent to prevent duplicate processing, utilizing the Outbox pattern to ensure events are never lost even during database transactions.
+
+## MVP Domain Model (WP 1.12)
+
+Nexus Gaja employs a strictly Domain-Driven MVP Architecture (ADR-025), designed as a modular monolith with clear domain boundaries. This structure prevents premature microservice complexity while retaining the flexibility to split out specific domains later.
+
+### Core Domain Entities
+The architecture explicitly separates distinct concepts to ensure data integrity and avoid structural pitfalls like "Username = Human":
+- **Identity & Accounts:** `Person` ≠ `User Account` ≠ `Identity Verification`. A verified person participates via an account, but the entities remain separate.
+- **Communication:** `Message` ≠ `Translation`. The original message remains immutable; translations are linked entities.
+- **Moderation:** `Report` ≠ `Moderation Decision`. A report is merely a claim; a moderation case conducts the investigation.
+- **Finances:** `Donation` ≠ `Fund Balance`. Payments are booked via an immutable ledger to a fund, ensuring financial transparency.
+
+### Interconnected Domains
+The system is divided into clear logical domains (Bounded Contexts): Identity, Account, Organization, Communication, Community, Language, Moderation, Notification, Finance, and Governance. These domains map the entire journey from real-world entities (Users, Schools, NGOs) to their digital interactions and related governance.
+
+## Project Status
+The project is currently in the active architecture and planning phase.
+Ongoing architectural decisions are documented in the `/docs` folder.

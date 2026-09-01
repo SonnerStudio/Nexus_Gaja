@@ -23,20 +23,20 @@ Nó không chỉ là dịch từ một cách cứng nhắc mà còn là **chuy�
 
 ---
 
-## Technical Architecture (Core Concept)
+## Kiến trúc kỹ thuật (Khái niệm cốt lõi)
 
-The technical core of Nexus Gaja is a custom-built communication model that is strictly divided into three layers:
+Cốt lõi kỹ thuật của Nexus Gaja là mô hình giao tiếp được xây dựng tùy chỉnh được chia thành ba lớp:
 
-1. **Original**: The communication object (message) created by the sender always remains immutable.
-2. **Semantic Interpretation**: The system analyzes not just the words, but the actual meaning.
-3. **Target Language Representation**: The AI merely creates a temporary or cached representation of the original for the respective recipient based on their preferred language. Translations never overwrite the original message.
+1. **Bản gốc**: Đối tượng giao tiếp (tin nhắn) do người gửi tạo ra luôn không thay đổi.
+2. **Giải thích ngữ nghĩa**: Hệ thống không chỉ phân tích từ ngữ mà còn phân tích ý nghĩa thực tế.
+3. **Trình bày ngôn ngữ đích**: AI chỉ tạo bản trình bày tạm thời hoặc được lưu trong bộ nhớ đệm của bản gốc cho người nhận tương ứng dựa trên ngôn ngữ ưa thích của họ. Bản dịch không bao giờ ghi đè lên tin nhắn gốc.
 
-### Context Dependency
-Translations in Nexus Gaja never view messages in isolation. The engine considers the entire hierarchy:
-`Message` → `Previous Messages` → `Thread Context` → `Community Context` → `Language / Region` → `User Preferences`
+### Phụ thuộc vào bối cảnh
+Các bản dịch trong Nexus Gaja không bao giờ xem tin nhắn một cách riêng biệt. Công cụ xem xét toàn bộ hệ thống phân cấp:
+`Tin nhắn` → `Tin nhắn trước` → `Bối cảnh chủ đề` → `Bối cảnh cộng đồng` → `Ngôn ngữ / Khu vực` → `Tùy chọn người dùng`
 
-### Efficiency through On-Demand Translation
-Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.
+### Hiệu quả thông qua dịch thuật theo yêu cầu
+Quá trình dịch chỉ diễn ra một cách hiệu quả về tài nguyên **theo yêu cầu** (Theo yêu cầu). Khi người dùng yêu cầu nội dung, nội dung đó sẽ được dịch sang ngôn ngữ cài sẵn của họ. Sau khi tạo bản dịch cho một ngôn ngữ cụ thể, bản dịch đó sẽ được lưu trữ vĩnh viễn (bộ nhớ đệm) để tăng tốc đáng kể các yêu cầu trong tương lai.
 
 ## Kiểm duyệt được hỗ trợ bởi AI (WP 1.8.4)
 
@@ -51,42 +51,42 @@ Chúng ta phân biệt ba cấp độ:
 - **Quyết định:** "Hành động thực sự được thực hiện là gì?"
 Cấp độ thứ ba phải được kiểm soát bởi con người trong những trường hợp nghiêm trọng.
 
-### 2. The Moderation AI as a Subsystem
-Instead of a single AI, a robust subsystem is established:
-```text
-                 NEXUS GAJA AI MODERATION
+### 2. AI điều tiết như một hệ thống con
+Thay vì một AI duy nhất, một hệ thống con mạnh mẽ được thiết lập:
+```văn bản
+                 ĐIỀU CHỈNH AI của NEXUS GAJA
                           │
        ┌──────────────────┼──────────────────┐
-       │                  │                  │
-  Language AI        Safety AI          Fraud AI
-       │                  │                  │
+       │ │ │
+  Ngôn ngữ AI An toàn AI Lừa đảo AI
+       │ │ │
        ├──────────────┬───┴──────────────┬───┤
-       │              │                  │
- Translation      Behaviour          Identity
- Analysis         Analysis            Signals
-       │              │                  │
+       │ │ │
+ Bản sắc hành vi dịch thuật
+ Phân tích Phân tích Tín hiệu
+       │ │ │
        └──────────────┼──────────────────┘
                       ▼
-               Risk Assessment
+               Đánh giá rủi ro
                       │
                       ▼
-               Human Review
+               Đánh giá con người
 ```
 
-### 3. The Most Important AI Modules
-Nexus Gaja utilizes nine specialized analysis areas:
-- **M1 – Language Understanding**: Detects language, dialect, slang, irony indicators, translation issues.
-- **M2 – Toxicity / Abuse Detection**: Detects insults, personal attacks, harassment.
-- **M3 – Threat Detection**: Detects potential threats, blackmail, violence announcements.
-- **M4 – Hate / Dehumanization Detection**: Detects targeted attacks on people based on specific affiliations.
-- **M5 – Spam / Manipulation Detection**: Detects spam, bot behavior, coordinated manipulation.
-- **M6 – Fraud Detection**: Detects suspicious fraud attempts, phishing, social engineering.
-- **M7 – Identity Integrity**: Checks signals regarding account takeovers, multiple accounts, ban evasion.
-- **M8 – Media Safety**: Analyzes images, audio, video, documents.
-- **M9 – Context Engine**: The most important module. It merges the individual findings.
+### 3. Các mô-đun AI quan trọng nhất
+Nexus Gaja sử dụng chín lĩnh vực phân tích chuyên biệt:
+- **M1 – Hiểu ngôn ngữ**: Phát hiện ngôn ngữ, phương ngữ, tiếng lóng, dấu hiệu mỉa mai, vấn đề dịch thuật.
+- **M2 – Phát hiện độc tính/ Lạm dụng**: Phát hiện những lời lăng mạ, công kích cá nhân, quấy rối.
+- **M3 – Phát hiện mối đe dọa**: Phát hiện các mối đe dọa tiềm ẩn, tống tiền, thông báo bạo lực.
+- **M4 – Phát hiện sự căm ghét / mất nhân tính**: Phát hiện các cuộc tấn công có chủ đích nhằm vào mọi người dựa trên các liên kết cụ thể.
+- **M5 – Phát hiện thư rác/ thao túng**: Phát hiện thư rác, hành vi bot, phối hợp thao túng.
+- **M6 – Phát hiện gian lận**: Phát hiện các nỗ lực lừa đảo đáng ngờ, lừa đảo, kỹ thuật xã hội.
+- **M7 – Tính toàn vẹn danh tính**: Kiểm tra các tín hiệu liên quan đến việc chiếm đoạt tài khoản, nhiều tài khoản, trốn lệnh cấm.
+- **M8 – An toàn phương tiện**: Phân tích hình ảnh, âm thanh, video, tài liệu.
+- **M9 – Context Engine**: Mô-đun quan trọng nhất. Nó hợp nhất những phát hiện riêng lẻ.
 
-### 4. Why the Context Engine is Crucial
-A pure keyword search would be insufficient. "I could kill him from laughing" semantically contains violence but is a figure of speech. "Tomorrow at 8 PM I will shoot him in front of his house" is a completely different situation. The AI must understand what the statement means in its specific context.
+### 4. Tại sao Context Engine lại quan trọng
+Một tìm kiếm từ khóa thuần túy sẽ không đủ. "Tôi có thể giết anh ta vì cười" về mặt ngữ nghĩa chứa đựng bạo lực nhưng là một cách nói tu từ. “8 giờ tối mai tôi sẽ bắn hắn trước cửa nhà” lại là một tình huống hoàn toàn khác. AI phải hiểu ý nghĩa của tuyên bố đó trong bối cảnh cụ thể của nó.
 
 ### 5. Multilingual Moderation
 Moderation cannot simply compare words. It must analyze the semantic level (e.g., German idioms vs. Japanese idioms vs. regional expressions).
@@ -106,14 +106,14 @@ Nếu AI không chắc chắn (ví dụ: Đe dọa: 0,62, Châm biếm: 0,54), t
 - 🟠 **ORANGE**: Probable violation. → moderation review.
 - 🔴 **RED**: Severe possible violation. → immediate protective measure + human review.
 
-### 10. No "AI Punishment"
-**The AI imposes no final sanctions.** It can trigger technical immediate measures (e.g., temporarily holding back a message) for severe security concerns, but the final decision remains verifiable.
+### 10. Không có "Hình phạt AI"
+**AI không áp đặt biện pháp trừng phạt cuối cùng.** Nó có thể kích hoạt các biện pháp kỹ thuật tức thời (ví dụ: tạm thời giữ lại tin nhắn) đối với những lo ngại nghiêm trọng về bảo mật, nhưng quyết định cuối cùng vẫn có thể kiểm chứng được.
 
-### 11. Protective Measures Can Occur Automatically
-In the event of a concrete threat (Threat detected → High confidence → Temporary restriction → Human review → Decision), we protect the threatened user without turning the AI into a judge.
+### 11. Các biện pháp bảo vệ có thể tự động diễn ra
+Trong trường hợp có mối đe dọa cụ thể (Đã phát hiện mối đe dọa → Độ tin cậy cao → Hạn chế tạm thời → Đánh giá của con người → Quyết định), chúng tôi bảo vệ người dùng bị đe dọa mà không biến AI thành người phán xét.
 
-### 12. The AI Must Be Able to Justify Its Decisions
-The DSA requires clear and specific reasons. The AI provides structured reasoning: Rule (NG-CONDUCT-004), Detected (Potential concrete threat), Confidence (0.94), Relevant context (Previous 4 messages), Recommended action (Human review).
+### 12. AI phải có khả năng biện minh cho các quyết định của mình
+DSA yêu cầu lý do rõ ràng và cụ thể. AI cung cấp lý luận có cấu trúc: Quy tắc (NG-CONDUCT-004), Đã phát hiện (Mối đe dọa cụ thể tiềm ẩn), Độ tin cậy (0,94), Ngữ cảnh liên quan (4 thông báo trước đó), Hành động được đề xuất (Đánh giá của con người).
 
 ### 13. AI không được bí mật thay đổi nội dung
 **AI kiểm duyệt không bao giờ được thay đổi nội dung gốc mà không được chú ý.** Trong quá trình tự động sửa, dịch hoặc tóm tắt, bản gốc luôn được giữ nguyên.
@@ -125,7 +125,7 @@ Chúng tôi phân biệt giữa: Do con người tạo ra, do AI hỗ trợ, do 
 Theo các quy tắc minh bạch của Đạo luật AI của Liên minh Châu Âu (có hiệu lực từ tháng 8 năm 2026), nội dung do AI tạo ra phải có thể nhận dạng được. Chúng tôi cung cấp Lớp chứng minh AI để lưu trữ siêu dữ liệu (AI-Origin, Model, Timestamp, Human Review).
 
 ### 16. Phát hiện Deepfake
-Kiến trúc này nhằm mục đích phát hiện các hình ảnh tổng hợp, giọng nói nhân bản và các tác phẩm giả mạo. Tuy nhiên, việc phát hiện không phải là bằng chứng tự động.
+Kiến trúc này nhằm mục đích phát hiện các hình ảnh tổng hợp, giọng nói nhân bản và các tác phẩm sâu. Tuy nhiên, việc phát hiện không phải là bằng chứng tự động.
 
 ### 17. Không có "Máy xác thực" tự động (Kiểm duyệt ≠ Kiểm tra sự thật)
 Một hệ thống kiểm tra: "Nội dung có vi phạm quy tắc không?" (Kiểm duyệt nội dung), một người khác cung cấp: "Có những thông tin và nguồn nào?" (Hỗ trợ thông tin). Các ý kiến ​​không chỉ bị xóa vì "sai".
@@ -140,13 +140,13 @@ AI sử dụng ngữ cảnh, biểu tượng cảm xúc, lịch sử hội tho�
 Không có sự can thiệp kiểm duyệt nghiêm trọng nào có thể chỉ dựa trên một kết quả phân loại tự động duy nhất (Văn bản + Ngữ cảnh + Hành vi + Ngôn ngữ + Phương tiện + Công cụ quy tắc = Đánh giá rủi ro).
 
 ### 21. Tín hiệu hành vi người dùng & Không có hệ thống tín dụng xã hội
-Điều này liên quan đến các tín hiệu lạm dụng kỹ thuật (ví dụ: đăng spam hàng loạt), không phải hệ thống xếp hạng xã hội chung. Nexus Gaja không duy trì Hệ thống tín dụng xã hội – việc kiểm duyệt nhằm mục đích bảo mật chứ không phải để đánh giá giá trị của một người.
+Điều này liên quan đến các dấu hiệu lạm dụng kỹ thuật (ví dụ: đăng spam hàng loạt), không phải hệ thống xếp hạng xã hội chung. Nexus Gaja không duy trì Hệ thống tín dụng xã hội – việc kiểm duyệt nhằm mục đích bảo mật chứ không phải để đánh giá giá trị của một người.
 
 ### 22. AI kiểm duyệt phải được kiểm duyệt
 Tất cả các quyết định tự động có liên quan đều được ghi lại (ID sự kiện, ID quy tắc, Độ tin cậy, Đánh giá con người, v.v.) để đảm bảo khả năng truy nguyên.
 
-### 23. False Positives, False Negatives & Quality Metrics
-Error types are monitored. A dashboard measures Precision, Recall, and especially the **Appeal Reversal Rate** (number of successful appeals).
+### 23. Kết quả dương tính giả, âm tính giả & thước đo chất lượng
+Các loại lỗi được theo dõi. Trang tổng quan đo lường Độ chính xác, Thu hồi và đặc biệt là **Tỷ lệ đảo ngược khiếu nại** (số lượng khiếu nại thành công).
 
 ### 24. Công bằng ngôn ngữ & Xu hướng dịch thuật
 Chất lượng kiểm duyệt phải tương đương nhau trên tất cả các ngôn ngữ được hỗ trợ (Điểm chuẩn kiểm duyệt đa ngôn ngữ). Nếu kết quả kiểm duyệt khác nhau giữa bản gốc và bản dịch (Xung đột bản dịch) thì điều này phải được xem xét cụ thể.
@@ -158,7 +158,159 @@ Các quy tắc (Công cụ chính sách) không được mã hóa cứng vào c�
 - **NG-AI-MOD-001**: AI hỗ trợ phát hiện và phân loại nhưng không thay thế sự xem xét của con người trong các quyết định quan trọng.
 - **NG-AI-MOD-002**: Các quyết định kiểm duyệt tự động phải có thể theo dõi, ghi lại và kiểm chứng được.
 
-**Tóm tắt**: Chúng tôi đang xây dựng một hệ thống gồm bốn giai đoạn: Phát hiện AI, Phân tích bối cảnh và rủi ro, Công cụ chính sách và Quản trị con người. Điều này cho phép tự động hóa mạnh mẽ mà không tạo ra kiến ​​trúc "AI làm Thẩm phán" nguy hiểm.
+**Summary**: We are building a four-stage system: AI Detection, Context and Risk Analysis, Policy Engine, and Human Governance. This enables strong automation without creating a dangerous "AI as Judge" architecture.
+
+## Nguyên tắc tài chính và mô hình doanh thu (WP 1.10.1)
+
+For Nexus Gaja, a highly important economic principle applies: **No traditional advertising within the platform.**
+This fundamentally distinguishes Nexus Gaja from many of today's social networks. However, this does not mean that Nexus Gaja cannot have a commercial character. On the contrary, the platform must be economically viable so that its social purpose can endure. Economic activity is a means to an end, not the primary purpose of the platform.
+
+### 1. Nguyên lý NG-FIN-001
+Nexus Gaja tài trợ cho hoạt động của mình thông qua các luồng doanh thu minh bạch tách biệt với lợi ích của người dùng chứ không phải thông qua việc kiếm tiền từ sự chú ý hoặc dữ liệu cá nhân của người dùng.
+
+### 2. No Traditional Advertising
+Specifically prohibited are:
+- Banner ads
+- Pop-up ads
+- Auto-playing video ads
+- Sponsored posts in the standard feed
+- Personalized advertising profiles
+- Sale of user profiles or personal data
+- Advertising derived from private conversations.
+
+Nexus Gaja remains a **communication space rather than an advertising space**.
+
+### 3. Financing Without Advertising (The 6 Pillars)
+Financing is built on six pillars:
+```text
+                 NEXUS GAJA
+                     │
+       ┌─────────────┼─────────────┐
+       ▼             ▼             ▼
+   PREMIUM       ORGANIZATION    DONATIONS
+       │             │             │
+       ├─────────────┼─────────────┤
+       ▼             ▼             ▼
+    GRANTS       PARTNERSHIPS    SERVICES
+```
+
+#### Trụ cột 1 – Tư cách thành viên cơ bản miễn phí
+**Nexus Gaja Free** mang lại sự hiểu biết quốc tế cơ bản cho mọi người (hồ sơ, giao tiếp quốc tế, bài đăng, cộng đồng, cuộc trò chuyện, bản dịch cơ bản) miễn phí.
+
+#### Pillar 2 – Premium Offerings
+Voluntary paid offerings (**Nexus Gaja Plus**) providing greater storage limits, higher media quality, expanded AI quotas, and organizational features.
+**Important (Freemium instead of Dark Freemium):** Basic communication must never be artificially degraded.
+
+#### Pillar 3 – Organizations
+Special accounts for schools, universities, NGOs, businesses, and municipalities (**Nexus Gaja Organization**). Schools can be supported via institutional rates as multipliers of international understanding.
+
+#### Pillar 4 – Donations
+The **Nexus Gaja Funding Pool** accepts general and earmarked donations (e.g., "for international youth communication"). A **Fund Allocation Ledger** ensures transparent allocation of funds.
+**Purpose Fund & Tombola:** A portion of donations feeds a pool for free/discounted usage. A lottery/tombola mechanism can allocate these funds transparently and auditably.
+
+#### Pillar 5 – Institutional Funding
+Foundations, cultural funding programs, or state programs.
+**NG-FIN-002:** Financial support does not buy editorial or technical control (Independence).
+
+#### Pillar 6 – Commercial Services
+B2B services like **Translation-as-a-Service** (API), organizational communication, or international conference rooms, without burdening the standard user feed.
+
+### 4. Nền kinh tế không giám sát và kiếm tiền từ dữ liệu
+**NG-FIN-003:** Dữ liệu cá nhân của người dùng không phải là hàng hóa. Không bán danh sách, hồ sơ hoặc lịch sử. Nexus Gaja không thu lợi từ việc giám sát tâm lý (Kinh tế giám sát).
+
+### 5. Minh bạch tài chính & Sổ cái quỹ
+**Minh bạch tài chính của Nexus Gaja:** Công bố cấu trúc tài chính tổng hợp. Các khoản quyên góp dành riêng sẽ được tính toán kỹ thuật (ID quỹ → Mục đích → Số dư → Phân bổ). Không trợ cấp chéo cho các mục đích xã hội vào hoạt động tiếp thị của công ty.
+
+### 6. Mô hình tài trợ dựa trên tinh thần đoàn kết
+Việc định giá dựa trên định hướng chi phí, công bằng và đoàn kết.
+**Solidarity Premium:** Một tùy chọn tự nguyện dành cho người dùng Premium để tài trợ một phần quyền truy cập của người dùng khác. Sự đoàn kết cưỡng bức hoặc một xã hội có đẳng cấp cao (ít tôn trọng/điều độ hơn đối với người dùng miễn phí) đều bị nghiêm cấm.
+
+### 7. KPI kinh tế thay vì nền kinh tế gắn kết
+Không phụ thuộc vào việc giữ người dùng "trực tuyến càng lâu càng tốt" (không có trò đùa, nguồn cấp dữ liệu vô hạn).
+Thay vào đó, chúng tôi sử dụng các số liệu như:
+- **Chỉ số Giao tiếp Toàn cầu (GCI):** Mối quan hệ giao tiếp thành công giữa những người đến từ các vùng ngôn ngữ/văn hóa khác nhau.
+- **Tỷ lệ bền vững nền tảng (PSR):** Doanh thu định kỳ / chi phí vận hành định kỳ (Mục tiêu ≥ 1).
+
+### 8. Điều chúng ta rõ ràng không muốn (Danh sách tiêu cực)
+Nexus Gaja **không** được tài trợ bởi:
+❌ Bán dữ liệu cá nhân
+❌ Quảng cáo truyền thống được cá nhân hóa
+❌ Giám sát hành vi người dùng nhằm mục đích quảng cáo
+❌ Bán dữ liệu liên lạc riêng tư
+❌ Sử dụng dữ liệu AI ẩn
+❌ Tường phí trả phí có tính thao túng
+❌ Hạn chế phạm vi tiếp cận nhân tạo để kiếm tiền
+❌ Ảnh hưởng chính trị được trả tiền
+❌ Mua các quyết định kiểm duyệt đặc quyền.
+
+### 9. Preliminary Financial Architecture
+```text
+                         NEXUS GAJA
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+             ▼                ▼                ▼
+          USERS          ORGANIZATIONS      ENTERPRISE
+             │                │                │
+             └────────────────┼────────────────┘
+                              │
+                       PLATFORM SERVICES
+                              │
+          ┌───────────────────┼───────────────────┐
+          ▼                   ▼                   ▼
+       PREMIUM             DONATIONS            API
+                              │
+                    ┌─────────┴─────────┐
+                    ▼                   ▼
+               GENERAL FUND       RESTRICTED FUNDS
+                                        │
+                                        ▼
+                                  SOCIAL PURPOSE
+```
+
+### Tóm tắt Nguyên tắc Tài chính (NG-FIN)
+- **NG-FIN-001:** Không tài trợ thông qua quảng cáo truyền thống.
+- **NG-FIN-002:** Không kiểm soát biên tập/kỹ thuật thông qua hỗ trợ tài chính.
+- **NG-FIN-003:** Dữ liệu cá nhân không phải là hàng hóa.
+- **NG-FIN-004:** Vẫn có thể truy cập liên lạc cơ bản mà không cần thanh toán.
+- **NG-FIN-005:** Các dịch vụ cao cấp không được làm suy giảm người dùng miễn phí.
+- **NG-FIN-006:** Quỹ dành riêng được quản lý theo mục đích của chúng.
+- **NG-FIN-007:** Quản lý minh bạch các khoản quyên góp và tài trợ.
+- **NG-FIN-008:** Các dịch vụ B2B thương mại không ảnh hưởng đến tính độc lập.
+- **NG-FIN-009:** Tập trung vào tính bền vững hơn là kiếm tiền tối đa.
+- **NG-FIN-010:** Cấu trúc đảm bảo vĩnh viễn mục đích xã hội.
+
+## API, Giao diện và Kiến trúc Truyền thông (WP 1.11.3)
+
+Để đảm bảo tính ổn định, bảo mật và khả năng mở rộng của hệ thống, Nexus Gaja tuân theo kiến ​​trúc nghiêm ngặt dựa trên API và hướng sự kiện.
+
+### Nguyên tắc cốt lõi
+- **Không có quyền truy cập cơ sở dữ liệu trực tiếp:** Các thành phần giao tiếp độc quyền thông qua các giao diện được xác định (API hoặc Sự kiện), không bao giờ thông qua các truy vấn cơ sở dữ liệu trực tiếp của các dịch vụ khác.
+- **Cổng API:** Tất cả các yêu cầu của máy khách bên ngoài đều định tuyến thông qua việc xác thực, định tuyến và giới hạn tốc độ xử lý Cổng API.
+- **Tóm tắt nhà cung cấp:** Các dịch vụ bên ngoài (mô hình AI, nhà cung cấp thanh toán, công cụ dịch thuật) được tích hợp thông qua các lớp trừu tượng, tránh sự phụ thuộc được mã hóa cứng và cho phép chuyển đổi nhà cung cấp linh hoạt.
+
+### Các kiểu giao tiếp
+- **API đồng bộ (REST/HTTPS):** Được sử dụng cho các yêu cầu ngay lập tức như đăng nhập, cài đặt hồ sơ hoặc dịch trực tiếp.
+- **Sự kiện không đồng bộ (Bus sự kiện):** Hệ thống thần kinh trung ương của Nexus Gaja dành cho quá trình xử lý bị trì hoãn, tách rời (ví dụ: `Message.Created` kích hoạt Kiểm duyệt, Dịch và Thông báo không đồng bộ).
+- **Thời gian thực (WebSocket):** Các kênh dành riêng cho chỉ báo nhập và trò chuyện trực tiếp.
+
+### Bảo mật và độ tin cậy
+- **Mô hình Zero-Trust:** Lưu lượng truy cập mạng nội bộ không được tự động tin cậy; giao tiếp dịch vụ với dịch vụ nhạy cảm yêu cầu xác thực.
+- **Mẫu bình thường & hộp thư đi:** Các hoạt động quan trọng (như quyên góp hoặc nhắn tin) được thiết kế bình thường để ngăn chặn việc xử lý trùng lặp, sử dụng mẫu Hộp thư đi để đảm bảo các sự kiện không bao giờ bị mất ngay cả trong các giao dịch cơ sở dữ liệu.
+
+## Mô hình miền MVP (WP 1.12)
+
+Nexus Gaja sử dụng Kiến trúc MVP hướng miền (ADR-025) nghiêm ngặt, được thiết kế dưới dạng khối nguyên khối mô-đun với ranh giới miền rõ ràng. Cấu trúc này ngăn chặn sự phức tạp ban đầu của vi dịch vụ trong khi vẫn duy trì tính linh hoạt để phân chia các miền cụ thể sau này.
+
+### Thực thể miền cốt lõi
+Kiến trúc phân tách rõ ràng các khái niệm riêng biệt để đảm bảo tính toàn vẹn dữ liệu và tránh các cạm bẫy về cấu trúc như "Tên người dùng = Con người":
+- **Danh tính & Tài khoản:** `Người` ≠ `Tài khoản người dùng` ≠ `Xác minh danh tính`. Một người đã được xác minh tham gia thông qua một tài khoản, nhưng các thực thể vẫn tách biệt.
+- **Giao tiếp:** `Tin nhắn` ≠ `Dịch`. Thông điệp ban đầu vẫn không thay đổi; bản dịch là các thực thể được liên kết.
+- **Kiểm duyệt:** `Báo cáo` ≠ `Quyết định kiểm duyệt`. Một báo cáo chỉ đơn thuần là một yêu cầu bồi thường; một trường hợp ôn hòa tiến hành điều tra.
+- **Tài chính:** `Quyên góp` ≠ `Số dư quỹ`. Các khoản thanh toán được ghi nhận thông qua sổ cái bất biến của quỹ, đảm bảo tính minh bạch tài chính.
+
+### Interconnected Domains
+The system is divided into clear logical domains (Bounded Contexts): Identity, Account, Organization, Communication, Community, Language, Moderation, Notification, Finance, and Governance. These domains map the entire journey from real-world entities (Users, Schools, NGOs) to their digital interactions and related governance.
 
 ## Tình trạng dự án
 Dự án hiện đang trong giai đoạn kiến trúc và quy hoạch tích cực.

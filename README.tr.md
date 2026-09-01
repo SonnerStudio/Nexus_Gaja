@@ -280,6 +280,38 @@ Nexus Gaja şunlar aracılığıyla **finanse edilmez**:
 - **NG-FIN-009:** Maksimum para kazanma yerine sürdürülebilirliğe odaklanma.
 - **NG-FIN-010:** Yapı, sosyal amacı kalıcı olarak güvence altına alır.
 
+## API, Arayüz ve İletişim Mimarisi (WP 1.11.3)
+
+Sistem kararlılığını, güvenliğini ve ölçeklenebilirliğini sağlamak için Nexus Gaja, katı bir API öncelikli ve olay güdümlü (event-driven) mimari izler.
+
+### Temel Prensipler
+- **Doğrudan Veritabanı Erişimi Yok:** Bileşenler yalnızca tanımlı arayüzler (API'ler veya Olaylar) üzerinden iletişim kurar, asla diğer hizmetlerin veritabanlarına doğrudan sorgular yapmaz.
+- **API Ağ Geçidi (Gateway):** Tüm harici istemci istekleri; kimlik doğrulama, yönlendirme ve hız sınırlamasını işleyen bir API Ağ Geçidi üzerinden geçer.
+- **Sağlayıcı Soyutlaması:** Harici hizmetler (Yapay Zeka modelleri, ödeme sağlayıcıları, çeviri motorları) soyutlama katmanları aracılığıyla entegre edilir, sabit bağımlılıklar önlenir ve esnek sağlayıcı değişimine olanak tanır.
+
+### İletişim Modelleri
+- **Senkron API'ler (REST/HTTPS):** Oturum açma, profil ayarları veya doğrudan çeviriler gibi anlık istekler için kullanılır.
+- **Asenkron Olaylar (Event Bus):** Gecikmeli, ayrıştırılmış işleme için Nexus Gaja'nın merkezi sinir sistemi (örneğin, `Message.Created` olayı asenkron olarak Moderasyon, Çeviri ve Bildirimi tetikler).
+- **Gerçek Zamanlı (WebSocket):** Canlı sohbet ve yazıyor göstergeleri için ayrılmış kanallar.
+
+### Güvenlik ve Güvenilirlik
+- **Sıfır Güven (Zero-Trust) Modeli:** Dahili ağ trafiği otomatik olarak güvenilir sayılmaz; hassas hizmetten hizmete iletişim kimlik doğrulama gerektirir.
+- **Idempotency (Eşkuvvetlilik) ve Outbox Deseni:** Kritik işlemler (bağışlar veya mesajlaşma gibi), veritabanı işlemleri sırasında bile olayların asla kaybolmamasını sağlamak için Outbox desenini kullanarak yinelenen işlemeleri önleyecek şekilde idempotent (tekrarlanabilir) olarak tasarlanmıştır.
+
+## MVP Etki Alanı Modeli (Domain Model - WP 1.12)
+
+Nexus Gaja, net etki alanı (domain) sınırlarına sahip modüler bir monolit olarak tasarlanmış, kesinlikle Etki Alanı Odaklı bir MVP Mimarisi (ADR-025) kullanır. Bu yapı, erken mikro hizmet karmaşıklığını önler.
+
+### Temel Etki Alanı Varlıkları
+Mimari, veri bütünlüğünü sağlamak ve "Kullanıcı Adı = İnsan" gibi yapısal tuzaklardan kaçınmak için kavramları açıkça ayırır:
+- **Kimlik ve Hesaplar:** `Person` ≠ `User Account` ≠ `Identity Verification`. Doğrulanmış bir kişi bir hesap aracılığıyla katılır, ancak varlıklar ayrı kalır.
+- **İletişim:** `Message` ≠ `Translation`. Orijinal mesaj değiştirilemez; çeviriler bağlantılı varlıklardır.
+- **Moderasyon:** `Report` ≠ `Moderation Decision`. Rapor sadece bir iddiadır; bir moderasyon vakası araştırmayı yürütür.
+- **Finans:** `Donation` ≠ `Fund Balance`. Ödemeler, şeffaflık sağlamak için değiştirilemez bir defter (ledger) aracılığıyla fona kaydedilir.
+
+### Bağlantılı Etki Alanları
+Sistem mantıksal etki alanlarına bölünmüştür: Kimlik, Hesap, Organizasyon, İletişim, Topluluk, Dil, Moderasyon, Bildirim, Finans ve Yönetişim.
+
 ## Proje Durumu
 Proje aktif mimari ve planlama aşamasındadır.
 Devam eden mimari kararlar `/docs` klasöründe belgelenmektedir.

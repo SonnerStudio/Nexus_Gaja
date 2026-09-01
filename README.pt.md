@@ -1,6 +1,6 @@
 # Nexus Gaja
 
-![Logotipo do Nexus Gaja](assets/logo.jpg)
+![Nexus Gaja Logo](assets/logo.jpg)
 
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
@@ -14,7 +14,7 @@
 ## Objetivo e Visão
 Num mundo globalizado, a língua é muitas vezes a maior barreira. O principal objetivo do Nexus Gaja é permitir uma comunicação contínua, sem barreiras e contextualmente precisa entre as pessoas, independentemente de elas falarem um idioma comum.
 
-Não se trata apenas de traduzir palavras rigidamente, mas de **transferir significado**. Nexus Gaja conecta pessoas em um nível mais profundo, compreendendo nuances culturais, regionais e contextuais, permitindo assim conversas genuínas e autênticas.
+It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
 
 ## Possibilidades e recursos
 - **Comunicação Multimídia**: O sistema processa não apenas texto, mas também imagem, áudio e vídeo. Isso permite conversas totalmente envolventes (por exemplo, chamadas de vídeo ou mensagens de voz) em tempo real, ultrapassando barreiras linguísticas.
@@ -27,9 +27,9 @@ Não se trata apenas de traduzir palavras rigidamente, mas de **transferir signi
 
 O núcleo técnico do Nexus Gaja é um modelo de comunicação personalizado estritamente dividido em três camadas:
 
-1. **Original**: O objeto de comunicação (mensagem) criado pelo remetente permanece sempre imutável.
-2. **Interpretação Semântica**: O sistema analisa não apenas as palavras, mas o significado real.
-3. **Representação no idioma de destino**: A IA apenas cria uma representação temporária ou em cache do original para o respectivo destinatário com base no idioma de sua preferência. As traduções nunca substituem a mensagem original.
+1. **Original**: The communication object (message) created by the sender always remains immutable.
+2. **Semantic Interpretation**: The system analyzes not just the words, but the actual meaning.
+3. **Target Language Representation**: The AI merely creates a temporary or cached representation of the original for the respective recipient based on their preferred language. Translations never overwrite the original message.
 
 ### Dependência de Contexto
 As traduções no Nexus Gaja nunca visualizam as mensagens isoladamente. O mecanismo considera toda a hierarquia:
@@ -97,23 +97,23 @@ Original e tradução são analisados separadamente. Só então ocorre a “Aval
 ### 7. Pontuação de confiança
 Cada avaliação de IA recebe uma pontuação de confiança (por exemplo, Probabilidade de ameaça: 0,96). No entanto: **Pontuação de confiança ≠ Verdade.** Uma pontuação de 96% significa apenas que o modelo está altamente certo de sua classificação, não necessariamente que o usuário seja culpado.
 
-### 8. A incerteza se torna um sinal em si
-Se a IA for incerta (por exemplo, Ameaça: 0,62, Sátira: 0,54), ela não deve simplesmente impor regras severas. Em vez disso, a incerteza é incorporada diretamente na arquitetura: **É necessária revisão humana**.
+### 8. Uncertainty Becomes a Signal Itself
+If the AI is uncertain (e.g., Threat: 0.62, Satire: 0.54), it must not simply enforce harsh rules. Instead, uncertainty is built directly into the architecture: **Human Review Required**.
 
-### 9. Quatro zonas de decisão
-- 🟢 **VERDE**: Altamente compatível. → nenhuma ação.
-- 🟡 **AMARELO**: Possível violação. → monitorar/fornecer um aviso, se necessário.
-- 🟠 **LARANJA**: Provável violação. → revisão de moderação.
-- 🔴 **VERMELHO**: Possível violação grave. → medida protetiva imediata + revisão humana.
+### 9. Four Decision Zones
+- 🟢 **GREEN**: Highly likely compliant. → no action.
+- 🟡 **YELLOW**: Possible violation. → monitor / provide a warning if necessary.
+- 🟠 **ORANGE**: Probable violation. → moderation review.
+- 🔴 **RED**: Severe possible violation. → immediate protective measure + human review.
 
-### 10. Sem "punição de IA"
-**A IA não impõe sanções finais.** Ela pode desencadear medidas técnicas imediatas (por exemplo, reter temporariamente uma mensagem) para questões graves de segurança, mas a decisão final permanece verificável.
+### 10. No "AI Punishment"
+**The AI imposes no final sanctions.** It can trigger technical immediate measures (e.g., temporarily holding back a message) for severe security concerns, but the final decision remains verifiable.
 
-### 11. Medidas de proteção podem ocorrer automaticamente
-No caso de uma ameaça concreta (Ameaça detectada → Alta confiança → Restrição temporária → Revisão humana → Decisão), protegemos o usuário ameaçado sem transformar a IA em juiz.
+### 11. Protective Measures Can Occur Automatically
+In the event of a concrete threat (Threat detected → High confidence → Temporary restriction → Human review → Decision), we protect the threatened user without turning the AI into a judge.
 
-### 12. A IA deve ser capaz de justificar suas decisões
-O DSA exige razões claras e específicas. A IA fornece raciocínio estruturado: Regra (NG-CONDUCT-004), Detectado (Ameaça potencial concreta), Confiança (0,94), Contexto relevante (4 mensagens anteriores), Ação recomendada (Revisão humana).
+### 12. The AI Must Be Able to Justify Its Decisions
+The DSA requires clear and specific reasons. The AI provides structured reasoning: Rule (NG-CONDUCT-004), Detected (Potential concrete threat), Confidence (0.94), Relevant context (Previous 4 messages), Recommended action (Human review).
 
 ### 13. A IA não deve alterar secretamente o conteúdo
 **Moderação AI nunca deve alterar o conteúdo original despercebido.** Durante a correção, tradução ou resumo automático, o original é sempre preservado.
@@ -178,20 +178,20 @@ Especificamente proibidos são:
 - Venda de perfis de usuários ou dados pessoais
 - Publicidade derivada de conversas privadas.
 
-Nexus Gaja remains a **communication space rather than an advertising space**.
+Nexus Gaja continua sendo um **espaço de comunicação em vez de um espaço publicitário**.
 
-### 3. Financing Without Advertising (The 6 Pillars)
-Financing is built on six pillars:
-```text
-                 NEXUS GAJA
+### 3. Financiamento sem publicidade (os 6 pilares)
+O financiamento assenta em seis pilares:
+```texto
+                 NEXO GAJA
                      │
        ┌─────────────┼─────────────┐
-       ▼             ▼             ▼
-   PREMIUM       ORGANIZATION    DONATIONS
-       │             │             │
+       ▼ ▼ ▼
+   DOAÇÕES PARA ORGANIZAÇÕES PREMIUM
+       │ │ │
        ├─────────────┼─────────────┤
-       ▼             ▼             ▼
-    GRANTS       PARTNERSHIPS    SERVICES
+       ▼ ▼ ▼
+    SERVIÇOS DE PARCERIAS DE SUBSÍDIOS
 ```
 
 #### Pilar 1 – Assinatura Básica Gratuita
@@ -208,9 +208,9 @@ Contas especiais para escolas, universidades, ONGs, empresas e municípios (**Ne
 O **Nexus Gaja Funding Pool** aceita doações gerais e destinadas (por exemplo, "para comunicação internacional de jovens"). Um **Ledger de Alocação de Fundos** garante uma alocação transparente de fundos.
 **Fundo Propósito e Tômbola:** Uma parte das doações alimenta um pool para uso gratuito/com desconto. Um mecanismo de lotaria/tômbola pode atribuir estes fundos de forma transparente e auditável.
 
-#### Pilar 5 – Financiamento Institucional
-Fundações, programas de financiamento cultural ou programas estaduais.
-**NG-FIN-002:** O apoio financeiro não compra controle editorial ou técnico (Independência).
+#### Pillar 5 – Institutional Funding
+Foundations, cultural funding programs, or state programs.
+**NG-FIN-002:** Financial support does not buy editorial or technical control (Independence).
 
 #### Pilar 6 – Serviços Comerciais
 Serviços B2B como **Tradução como serviço** (API), comunicação organizacional ou salas de conferência internacionais, sem sobrecarregar o feed padrão do usuário.
@@ -231,17 +231,17 @@ Em vez disso, usamos métricas como:
 - **Índice de Comunicação Global (GCI):** Relações de comunicação bem-sucedidas entre pessoas de diferentes regiões linguísticas/culturais.
 - **Índice de Sustentabilidade da Plataforma (PSR):** Receita recorrente / custos operacionais recorrentes (Meta ≥ 1).
 
-### 8. O que explicitamente não queremos (lista negativa)
-Nexus Gaja **não** é financiado por:
-❌ Venda de dados pessoais
-❌ Publicidade tradicional personalizada
-❌ Monitoramento do comportamento do usuário para fins publicitários
-❌ Venda de dados de comunicação privada
-❌ Uso oculto de dados de IA
-❌ Paywalls Premium manipulativos
-❌ Restrição de alcance artificial para monetização
-❌ Influência política paga
-❌ Compra de decisões de moderação privilegiadas.
+### 8. What We Explicitly Do Not Want (Negative List)
+Nexus Gaja is **not** financed by:
+❌ Sale of personal data
+❌ Personalized traditional advertising
+❌ Monitoring user behavior for advertising purposes
+❌ Sale of private communication data
+❌ Hidden AI data usage
+❌ Manipulative Premium paywalls
+❌ Artificial reach restriction for monetization
+❌ Paid political influence
+❌ Purchase of privileged moderation decisions.
 
 ### 9. Arquitetura Financeira Preliminar
 ```texto
@@ -268,17 +268,49 @@ Nexus Gaja **não** é financiado por:
                                   FINALIDADE SOCIAL
 ```
 
-### Resumo dos Princípios de Financiamento (NG-FIN)
-- **NG-FIN-001:** Sem financiamento através de publicidade tradicional.
-- **NG-FIN-002:** Sem controle editorial/técnico através de apoio financeiro.
-- **NG-FIN-003:** Dados pessoais não são uma mercadoria.
-- **NG-FIN-004:** A comunicação básica permanece acessível sem pagamento.
-- **NG-FIN-005:** As ofertas premium não devem prejudicar os usuários gratuitos.
-- **NG-FIN-006:** Os recursos direcionados são administrados de acordo com sua finalidade.
-- **NG-FIN-007:** Gestão transparente de doações e subsídios.
-- **NG-FIN-008:** Os serviços comerciais B2B não comprometem a independência.
-- **NG-FIN-009:** Foco na sustentabilidade em vez da monetização máxima.
-- **NG-FIN-010:** A estrutura assegura permanentemente o propósito social.
+### Summary of Financing Principles (NG-FIN)
+- **NG-FIN-001:** No financing through traditional advertising.
+- **NG-FIN-002:** No editorial/technical control through financial support.
+- **NG-FIN-003:** Personal data is not a commodity.
+- **NG-FIN-004:** Basic communication remains accessible without payment.
+- **NG-FIN-005:** Premium offerings must not degrade free users.
+- **NG-FIN-006:** Earmarked funds are managed according to their purpose.
+- **NG-FIN-007:** Transparent management of donations and grants.
+- **NG-FIN-008:** Commercial B2B services do not compromise independence.
+- **NG-FIN-009:** Focus on sustainability rather than maximum monetization.
+- **NG-FIN-010:** The structure permanently secures the social purpose.
+
+## API, interfaces e arquitetura de comunicação (WP 1.11.3)
+
+To ensure system stability, security, and scalability, Nexus Gaja follows a strictly API-first and event-driven architecture. 
+
+### Princípios Fundamentais
+- **Sem acesso direto ao banco de dados:** Os componentes se comunicam exclusivamente por meio de interfaces definidas (APIs ou eventos), nunca por meio de consultas diretas ao banco de dados de outros serviços.
+- **API Gateway:** todas as solicitações de clientes externos são roteadas por meio de um API Gateway que gerencia autenticação, roteamento e limitação de taxa.
+- **Abstração de Provedor:** Serviços externos (modelos de IA, provedores de pagamento, mecanismos de tradução) são integrados por meio de camadas de abstração, evitando dependências codificadas e permitindo troca flexível de provedor.
+
+### Padrões de comunicação
+- **APIs síncronas (REST/HTTPS):** Usadas para solicitações imediatas, como login, configurações de perfil ou traduções diretas.
+- **Eventos assíncronos (barramento de eventos):** O sistema nervoso central do Nexus Gaja para processamento atrasado e desacoplado (por exemplo, `Message.Created` acionando moderação, tradução e notificação de forma assíncrona).
+- **Tempo real (WebSocket):** Canais dedicados para chat ao vivo e indicadores de digitação.
+
+### Segurança e Confiabilidade
+- **Modelo de confiança zero:** O tráfego de rede interna não é automaticamente confiável; a comunicação confidencial entre serviços requer autenticação.
+- **Padrão de Idempotência e Caixa de Saída:** Operações críticas (como doações ou mensagens) são projetadas para serem idempotentes para evitar processamento duplicado, utilizando o padrão Caixa de Saída para garantir que os eventos nunca sejam perdidos, mesmo durante transações de banco de dados.
+
+## Modelo de domínio MVP (WP 1.12)
+
+Nexus Gaja emprega uma arquitetura MVP estritamente orientada por domínio (ADR-025), projetada como um monólito modular com limites de domínio claros. Essa estrutura evita a complexidade prematura dos microsserviços, ao mesmo tempo que mantém a flexibilidade para dividir domínios específicos posteriormente.
+
+### Entidades de domínio principal
+A arquitetura separa explicitamente conceitos distintos para garantir a integridade dos dados e evitar armadilhas estruturais como "Nome de usuário = Humano":
+- **Identidade e contas:** `Pessoa` ≠ `Conta de usuário` ≠ `Verificação de identidade`. Uma pessoa verificada participa através de uma conta, mas as entidades permanecem separadas.
+- **Comunicação:** `Mensagem` ≠ `Tradução`. A mensagem original permanece imutável; traduções são entidades vinculadas.
+- **Moderação:** `Relatório` ≠ `Decisão de Moderação`. Um relatório é apenas uma afirmação; um caso de moderação conduz a investigação.
+- **Finanças:** `Doação` ≠ `Saldo do Fundo`. Os pagamentos são contabilizados através de um livro razão imutável para um fundo, garantindo a transparência financeira.
+
+### Domínios Interconectados
+O sistema é dividido em domínios lógicos claros (Contextos Delimitados): Identidade, Conta, Organização, Comunicação, Comunidade, Idioma, Moderação, Notificação, Finanças e Governança. Estes domínios mapeiam todo o percurso desde entidades do mundo real (Utilizadores, Escolas, ONG) até às suas interações digitais e governação relacionada.
 
 ## Status do projeto
 O projeto está atualmente em fase ativa de arquitetura e planejamento.

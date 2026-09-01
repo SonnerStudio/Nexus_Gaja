@@ -285,6 +285,38 @@ Nexus Gaja finanziert sich nicht durch:
 - **NG-FIN-009:** Die wirtschaftliche Entwicklung von Nexus Gaja soll auf langfristige Nachhaltigkeit und nicht auf maximale Nutzer-Monetarisierung ausgerichtet sein.
 - **NG-FIN-010:** Die wirtschaftliche Struktur soll den gesellschaftlichen Zweck – Völkerverständigung, internationale Kommunikation und Völkerfreundschaft – dauerhaft ermöglichen.
 
+## API-, Schnittstellen- und Kommunikationsarchitektur (WP 1.11.3)
+
+Um Systemstabilität, Sicherheit und Skalierbarkeit zu gewährleisten, verfolgt Nexus Gaja eine strikt API-basierte und Event-gesteuerte Architektur.
+
+### Grundprinzipien
+- **Kein direkter Datenbankzugriff:** Komponenten kommunizieren ausschließlich über definierte Schnittstellen (APIs oder Events), niemals durch direkte Datenbankabfragen anderer Services.
+- **API Gateway:** Alle externen Client-Anfragen laufen über ein API Gateway, das Authentifizierung, Routing und Rate-Limiting übernimmt.
+- **Provider-Abstraktion:** Externe Dienste (KI-Modelle, Zahlungsanbieter, Übersetzungs-Engines) werden über Abstraktionsschichten integriert. Dies verhindert fest verdrahtete Abhängigkeiten und ermöglicht einen flexiblen Provider-Wechsel.
+
+### Kommunikationsmuster
+- **Synchrone APIs (REST/HTTPS):** Werden für unmittelbare Anfragen wie Login, Profileinstellungen oder direkte Übersetzungen genutzt.
+- **Asynchrone Events (Event Bus):** Das zentrale Nervensystem von Nexus Gaja für entkoppelte Prozesse (z. B. löst `Message.Created` asynchron Moderation, Übersetzung und Benachrichtigung aus).
+- **Echtzeit (WebSocket):** Dedizierte Kanäle für Live-Chat und Schreibstatus.
+
+### Sicherheit und Zuverlässigkeit
+- **Zero-Trust-Modell:** Interner Netzwerkverkehr ist nicht automatisch vertrauenswürdig; sensible Service-to-Service-Kommunikation erfordert Authentifizierung.
+- **Idempotenz & Outbox-Pattern:** Kritische Vorgänge (wie Spenden oder Nachrichten) sind idempotent gestaltet, um Mehrfachverarbeitungen zu verhindern, und nutzen das Outbox-Pattern, damit Events auch bei Datenbanktransaktionen nicht verloren gehen.
+
+## MVP-Domänenmodell (WP 1.12)
+
+Nexus Gaja nutzt eine streng fachlich getriebene Architektur (ADR-025, Domain-Driven MVP Architecture), die zunächst als modularer Monolith mit klaren Domänengrenzen aufgebaut ist. Dies verhindert eine verfrühte Microservice-Komplexität, bewahrt sich aber die Flexibilität, einzelne Domänen später als eigene Services auszulagern.
+
+### Fachliche Kernentitäten
+Die Architektur trennt Konzepte strikt, um Datenintegrität zu sichern und Fehler wie „Benutzername = Mensch“ zu vermeiden:
+- **Identität & Konten:** `Person` ≠ `User Account` ≠ `Identity Verification`. Eine verifizierte Person nimmt über ein Konto teil, aber die Entitäten bleiben getrennt.
+- **Kommunikation:** `Message` ≠ `Translation`. Die Originalnachricht ist unveränderlich; Übersetzungen sind verknüpfte Entitäten.
+- **Moderation:** `Report` ≠ `Moderation Decision`. Eine Meldung ist nur ein Hinweis; ein Moderationsfall führt die Untersuchung durch.
+- **Finanzen:** `Donation` ≠ `Fund Balance`. Zahlungen werden unveränderlich über einen Ledger (Kassenbuch) in einen Fonds gebucht.
+
+### Verbundene Fachdomänen
+Das System ist in logische Domänen (Bounded Contexts) gegliedert: Identity, Account, Organization, Communication, Community, Language, Moderation, Notification, Finance und Governance. Sie bilden die gesamte Kette von realen Akteuren (Nutzer, Schulen, NGOs) bis hin zu deren digitalen Interaktionen ab.
+
 ## Projektstatus
 Das Projekt befindet sich in der aktiven Architektur- und Planungsphase.
 Laufende Architekturentscheidungen sind im Ordner `/docs` dokumentiert.

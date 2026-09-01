@@ -1,6 +1,6 @@
 # Nexus Gaja
 
-![Nexus Gaja logotips](assets/logo.jpg)
+![Nexus Gaja Logo](assets/logo.jpg)
 
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
@@ -9,17 +9,17 @@
 
 </details>
 
-**Nexus Gaja** ir vieds, kontekstjutīgs saziņas tīkls, kas izstrādāts, lai mainītu globālo saziņu.
+**Nexus Gaja** is an intelligent, context-sensitive communication network designed to revolutionize global communication.
 
-## Mērķis un vīzija
-Globalizētajā pasaulē valoda bieži vien ir lielākā barjera. Nexus Gaja galvenais mērķis ir nodrošināt netraucētu, bezšķēršļu un kontekstuāli precīzu saziņu starp cilvēkiem neatkarīgi no tā, vai viņi runā kopīgā valodā.
+## Purpose and Vision
+In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
 
-Runa nav tikai par stingru vārdu tulkošanu, bet par **nozīmes pārnešanu**. Nexus Gaja saista cilvēkus dziļākā līmenī, izprotot kultūras, reģionālās un kontekstuālās nianses, tādējādi nodrošinot patiesas, autentiskas sarunas.
+It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
 
-## Iespējas un funkcijas
-- **Multivides sakari**: sistēma apstrādā ne tikai tekstu, bet arī attēlu, audio un video. Tas ļauj reāllaikā veidot visaptverošas sarunas (piemēram, videozvanus vai balss ziņas) pāri valodas barjerām.
-- **Kontekstu jutīgums**: ironijas, idiomu, žargona un reģionālo dialektu atpazīšana, ko parastie tulki bieži pārprot.
-- **Starpplatformu tīkls**: kalpo kā pamats privātām tērzēšanas sarunām, foruma pavedieniem (ziņas ar komentāriem) un globālās kopienas mijiedarbībām.
+## Possibilities and Features
+- **Multimedia Communication**: The system processes not just text, but also image, audio, and video. This allows for fully immersive conversations (e.g., video calls or voice messages) in real-time across language barriers.
+- **Context Sensitivity**: Recognition of irony, idioms, jargon, and regional dialects that are often misunderstood by conventional translators.
+- **Cross-Platform Network**: Serves as a foundation for private chats, forum threads (posts with comments), and global community interactions.
 
 ---
 
@@ -27,50 +27,50 @@ Runa nav tikai par stingru vārdu tulkošanu, bet par **nozīmes pārnešanu**. 
 
 Nexus Gaja tehniskais kodols ir īpaši izveidots sakaru modelis, kas ir stingri sadalīts trīs slāņos:
 
-1. **Original**: The communication object (message) created by the sender always remains immutable.
-2. **Semantic Interpretation**: The system analyzes not just the words, but the actual meaning.
-3. **Target Language Representation**: The AI merely creates a temporary or cached representation of the original for the respective recipient based on their preferred language. Translations never overwrite the original message.
+1. **Oriģināls**: sūtītāja izveidotais komunikācijas objekts (ziņojums) vienmēr paliek nemainīgs.
+2. **Semantiskā interpretācija**: sistēma analizē ne tikai vārdus, bet arī faktisko nozīmi.
+3. **Mērķa valodas attēlojums**: AI tikai izveido oriģināla pagaidu vai kešatmiņas attēlojumu attiecīgajam adresātam, pamatojoties uz viņa vēlamo valodu. Tulkojumi nekad nepārraksta sākotnējo ziņojumu.
 
-### Context Dependency
-Translations in Nexus Gaja never view messages in isolation. The engine considers the entire hierarchy:
-`Message` → `Previous Messages` → `Thread Context` → `Community Context` → `Language / Region` → `User Preferences`
+### Konteksta atkarība
+Tulkojumos Nexus Gaja ziņojumi nekad netiek skatīti atsevišķi. Dzinējs ņem vērā visu hierarhiju:
+"Ziņojums" → "Iepriekšējie ziņojumi" → "Pavediena konteksts" → "Kopienas konteksts" → "Valoda/reģions" → "Lietotāja preferences"
 
-### Efficiency through On-Demand Translation
-Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.
+### Efektivitāte, izmantojot tulkošanu pēc pieprasījuma
+Tulkošana notiek resursu ziņā efektīvi tikai **pēc pieprasījuma** (pēc pieprasījuma). Kad lietotājs pieprasa saturu, tas tiek tulkots viņa iepriekš iestatītajā valodā. Kad tulkojums noteiktai valodai ir ģenerēts, tas tiek pastāvīgi saglabāts (kešatmiņā), lai ievērojami paātrinātu turpmākos pieprasījumus.
 
 ## AI atbalstīta regulēšana (WP 1.8.4)
 
 Izmantojot AI atbalstītu moderāciju, mēs speram nozīmīgu soli no produkta idejas līdz tehniskajai arhitektūrai, ņemot vērā pašreizējos ES noteikumus (ES AI likuma pārredzamības prasības saskaņā ar 50. pantu; Digitālo pakalpojumu likums ar saprotamiem pamatojumiem un apelācijas iespējām).
 
-### 1. Basic Principle
-The most important sentence for the architecture is: **The moderation AI is a review system, not an autonomous ruling system.**
-It is designed to assist humans in moderation, not to determine itself which opinions are allowed to exist on Nexus Gaja.
-We differentiate between three levels:
-- **Detection:** "There could be a rule violation here."
-- **Evaluation:** "The probability of a rule violation is, for example, 94%."
-- **Decision:** "What action is actually taken?"
-The third level must be controlled by a human in severe cases.
+### 1. Pamatprincips
+Vissvarīgākais teikums arhitektūrai ir: **Moderācijas AI ir pārskatīšanas sistēma, nevis autonoma regulēšanas sistēma.**
+Tas ir izstrādāts, lai palīdzētu cilvēkiem ar mēru, nevis lai pati noteiktu, kādi viedokļi ir atļauti Nexus Gaja.
+Mēs izšķiram trīs līmeņus:
+- **Atklāšana:** "Šeit varētu būt noteikumu pārkāpums."
+- **Novērtējums:** "Noteikumu pārkāpuma varbūtība ir, piemēram, 94%.
+- **Lēmums:** "Kāda darbība faktiski tiek veikta?"
+Trešais līmenis smagos gadījumos ir jākontrolē cilvēkam.
 
-### 2. Moderācijas AI kā apakšsistēma
-Viena AI vietā tiek izveidota spēcīga apakšsistēma:
-``` teksts
-                 NEXUS GAJA AI MODERĀCIJA
+### 2. The Moderation AI as a Subsystem
+Instead of a single AI, a robust subsystem is established:
+```text
+                 NEXUS GAJA AI MODERATION
                           │
-       ┌─────────────────┼───────────────────
-       │ │ │
-  Valoda AI Drošība AI Krāpšana AI
-       │ │ │
-       -
-       │ │ │
- Tulkošanas uzvedības identitāte
- Analīze Analīzes signāli
-       │ │ │
-       └──────────────┼────────────────────
+       ┌──────────────────┼──────────────────┐
+       │                  │                  │
+  Language AI        Safety AI          Fraud AI
+       │                  │                  │
+       ├──────────────┬───┴──────────────┬───┤
+       │              │                  │
+ Translation      Behaviour          Identity
+ Analysis         Analysis            Signals
+       │              │                  │
+       └──────────────┼──────────────────┘
                       ▼
-               Riska novērtējums
+               Risk Assessment
                       │
                       ▼
-               Cilvēka apskats
+               Human Review
 ```
 
 ### 3. Vissvarīgākie AI moduļi
@@ -85,8 +85,8 @@ Nexus Gaja izmanto deviņas specializētas analīzes jomas:
 - **M8 — multivides drošība**: analizē attēlus, audio, video, dokumentus.
 - **M9 — konteksta dzinējs**: vissvarīgākais modulis. Tas apvieno atsevišķus atklājumus.
 
-### 4. Kāpēc konteksta programmai ir izšķiroša nozīme
-Ar tīru atslēgvārdu meklēšanu nepietiktu. "Es varētu viņu nogalināt no smiekliem" semantiski satur vardarbību, bet ir runas figūra. "Rīt pulksten 20 es viņu nošaušu viņa mājas priekšā" ir pavisam cita situācija. AI ir jāsaprot, ko paziņojums nozīmē tā konkrētajā kontekstā.
+### 4. Why the Context Engine is Crucial
+A pure keyword search would be insufficient. "I could kill him from laughing" semantically contains violence but is a figure of speech. "Tomorrow at 8 PM I will shoot him in front of his house" is a completely different situation. The AI must understand what the statement means in its specific context.
 
 ### 5. Daudzvalodu moderēšana
 Mērenība nevar vienkārši salīdzināt vārdus. Tai ir jāanalizē semantiskais līmenis (piemēram, vācu idiomas pret japāņu idiomas pret reģionālajām izteiksmēm).
@@ -100,23 +100,23 @@ Katrs AI novērtējums saņem ticamības punktu (piemēram, draudu iespējamība
 ### 8. Nenoteiktība pati par sevi kļūst par signālu
 Ja mākslīgais intelekts ir neskaidrs (piemēram, draudi: 0,62, satīra: 0,54), tas nedrīkst vienkārši īstenot bargus noteikumus. Tā vietā nenoteiktība ir tieši iebūvēta arhitektūrā: **Nepieciešams cilvēka pārskats**.
 
-### 9. Četras lēmumu zonas
-- 🟢 **ZAĻA**: ļoti iespējams, ka atbilst. → nekādas darbības.
-- 🟡 **DZELTENS**: iespējams pārkāpums. → uzraudzīt / vajadzības gadījumā nodrošināt brīdinājumu.
-- 🟠 **ORANŽA**: iespējams pārkāpums. → moderācijas apskats.
-- 🔴 **SARKANS**: iespējams smags pārkāpums. → tūlītējs aizsardzības pasākums + cilvēka apskate.
+### 9. Four Decision Zones
+- 🟢 **GREEN**: Highly likely compliant. → no action.
+- 🟡 **YELLOW**: Possible violation. → monitor / provide a warning if necessary.
+- 🟠 **ORANGE**: Probable violation. → moderation review.
+- 🔴 **RED**: Severe possible violation. → immediate protective measure + human review.
 
 ### 10. Nav "AI soda"
 **AI nepiemēro galīgas sankcijas.** Tas var izraisīt tūlītējus tehniskus pasākumus (piemēram, īslaicīgi aizturēt ziņojumu) nopietnu drošības apsvērumu dēļ, taču galīgais lēmums joprojām ir pārbaudāms.
 
-### 11. Protective Measures Can Occur Automatically
-In the event of a concrete threat (Threat detected → High confidence → Temporary restriction → Human review → Decision), we protect the threatened user without turning the AI into a judge.
+### 11. Aizsardzības pasākumi var notikt automātiski
+Konkrētu draudu gadījumā (Draudi atklāti → Augsta uzticamība → Pagaidu ierobežojums → Cilvēka pārbaude → Lēmums), mēs aizsargājam apdraudēto lietotāju, nepārvēršot AI par tiesnesi.
 
 ### 12. AI jāspēj pamatot savus lēmumus
 DSA pieprasa skaidrus un konkrētus iemeslus. AI nodrošina strukturētu pamatojumu: Noteikums (NG-CONDUCT-004), Atklāts (iespējami konkrēti draudi), Pārliecība (0,94), Attiecīgais konteksts (Iepriekšējie 4 ziņojumi), Ieteicamā darbība (Cilvēka pārskats).
 
-### 13. AI nedrīkst slepeni mainīt saturu
-**Moderācijas AI nekad nedrīkst nepamanīti mainīt sākotnējo saturu.** Automātiskās labošanas, tulkošanas vai kopsavilkuma laikā oriģināls vienmēr tiek saglabāts.
+### 13. AI Must Not Secretly Alter Content
+**Moderation AI must never alter the original content unnoticed.** During automatic correction, translation, or summarization, the original is always preserved.
 
 ### 14. AI radīts saturs
 Mēs izšķiram: cilvēka radītu, mākslīgā intelekta palīdzību, mākslīgā intelekta radītu un ar AI manipulētu. Tas kļūs par satura metadatu daļu.
@@ -151,15 +151,167 @@ Kļūdu veidi tiek uzraudzīti. Informācijas panelis mēra precizitāti, atsauk
 ### 24. Language Equity & Translation Bias
 Regulēšanas kvalitātei ir jābūt salīdzināmai visās atbalstītajās valodās (Multilingual moderation etalons). Ja regulēšanas rezultāti atšķiras oriģinālā un tulkojumā (tulkošanas konflikts), tas ir īpaši jāpārskata.
 
-### 25. Architecture Proposal & Policy Engine
-Rules (Policy Engine) are not hardcoded into the AI models. The AI provides findings; the Policy Engine decides based on current rules. This allows for **model changes without rule changes**.
+### 25. Arhitektūras priekšlikums un politikas dzinējs
+Noteikumi (politikas programma) AI modeļos nav iekodēti. AI nodrošina konstatējumus; politikas programma pieņem lēmumu, pamatojoties uz pašreizējiem noteikumiem. Tas ļauj veikt **modeļa izmaiņas bez noteikumu izmaiņām**.
 
-### 26. The Human Remains the Final Authority
-- **NG-AI-MOD-001**: The AI assists in detection and classification, but does not replace human review in severe decisions.
-- **NG-AI-MOD-002**: Automated moderation decisions must be traceable, loggable, and verifiable.
+### 26. Cilvēks paliek galīgā autoritāte
+- **NG-AI-MOD-001**: mākslīgais intelekts palīdz noteikt un klasificēt, bet neaizstāj cilvēka veikto pārbaudi smagu lēmumu pieņemšanā.
+- **NG-AI-MOD-002**: automatizētajiem regulēšanas lēmumiem ir jābūt izsekojamiem, reģistrējamiem un pārbaudāmiem.
 
-**Summary**: We are building a four-stage system: AI Detection, Context and Risk Analysis, Policy Engine, and Human Governance. This enables strong automation without creating a dangerous "AI as Judge" architecture.
+**Kopsavilkums**: mēs veidojam četru posmu sistēmu: AI noteikšana, konteksta un riska analīze, politikas dzinējs un cilvēku pārvaldība. Tas nodrošina spēcīgu automatizāciju, neradot bīstamu "AI kā tiesneša" arhitektūru.
 
-## Project Status
-The project is currently in the active architecture and planning phase.
-Ongoing architectural decisions are documented in the `/docs` folder.
+## Finansēšanas principi un ieņēmumu modelis (WP 1.10.1)
+
+Uz Nexus Gaja attiecas ļoti svarīgs ekonomisks princips: **Platformā nav tradicionālu reklāmu.**
+Tas būtiski atšķir Nexus Gaja no daudziem mūsdienu sociālajiem tīkliem. Tomēr tas nenozīmē, ka Nexus Gaja nevar būt komerciāls raksturs. Gluži pretēji, platformai ir jābūt ekonomiski dzīvotspējīgai, lai tās sociālais mērķis varētu pastāvēt. Ekonomiskā darbība ir līdzeklis mērķa sasniegšanai, nevis platformas galvenais mērķis.
+
+### 1. Princips NG-FIN-001
+Nexus Gaja finansē savu darbību, izmantojot caurspīdīgas ieņēmumu plūsmas, kas ir nošķirtas no lietotāju interesēm, nevis monetizē lietotāju uzmanību vai personas datus.
+
+### 2. Nav tradicionālās reklāmas
+Īpaši aizliegti ir:
+- Reklāmkarogu reklāmas
+- Uznirstošās reklāmas
+- Automātiski atskaņotas videoreklāmas
+- Sponsorētās ziņas standarta plūsmā
+- Personalizēti reklāmas profili
+- Lietotāju profilu vai personas datu pārdošana
+- Reklāma, kas iegūta no privātām sarunām.
+
+Nexus Gaja remains a **communication space rather than an advertising space**.
+
+### 3. Finansējums bez reklāmas (6 pīlāri)
+Finansējums balstās uz sešiem pīlāriem:
+``` teksts
+                 NEXUS GAJA
+                     │
+       ┌─────────────┼──────────────
+       ▼ ▼ ▼
+   PREMIUM ORGANIZĀCIJAS ZIEDOUMI
+       │ │ │
+       ├─────────────┼─────────────┤
+       ▼ ▼ ▼
+    SNIEDZ PARTNERĪBAS PAKALPOJUMUS
+```
+
+#### 1. pīlārs — bezmaksas pamata dalība
+**Nexus Gaja Free** nodrošina pamata starptautisko izpratni ikvienam (profils, starptautiskā saziņa, ziņas, kopienas, tērzēšana, pamata tulkošana) bez maksas.
+
+#### 2. pīlārs — Premium piedāvājumi
+Brīvprātīgi maksas piedāvājumi (**Nexus Gaja Plus**), kas nodrošina lielākus krātuves ierobežojumus, augstāku multivides kvalitāti, paplašinātas AI kvotas un organizatoriskas funkcijas.
+**Svarīgi (Freemium, nevis Dark Freemium):** pamata saziņu nekad nedrīkst mākslīgi pasliktināt.
+
+#### 3. pīlārs – organizācijas
+Īpaši konti skolām, universitātēm, NVO, uzņēmumiem un pašvaldībām (**Nexus Gaja organizācija**). Skolas var atbalstīt, izmantojot institucionālās likmes kā starptautiskās izpratnes izplatītājus.
+
+#### 4. pīlārs – ziedojumi
+**Nexus Gaja finansējuma fonds** pieņem vispārīgus un mērķtiecīgus ziedojumus (piemēram, “starptautiskai jaunatnes komunikācijai”). **Līdzekļu piešķiršanas virsgrāmata** nodrošina pārskatāmu līdzekļu piešķiršanu.
+**Mērķa fonds un tombola:** daļa no ziedojumiem tiek nodrošināta bezmaksas/atlaides izmantošanai. Loterijas/tombola mehānisms var piešķirt šos līdzekļus pārredzami un auditējami.
+
+#### 5. pīlārs – iestāžu finansējums
+Fondi, kultūras finansēšanas programmas vai valsts programmas.
+**NG-FIN-002:** Finansiālais atbalsts nenodrošina redakcionālo vai tehnisko kontroli (neatkarība).
+
+#### 6. pīlārs — komerciālie pakalpojumi
+B2B pakalpojumi, piemēram, **Translation-as-a-Service** (API), organizācijas komunikācija vai starptautiskas konferenču telpas, neapgrūtinot standarta lietotāju plūsmu.
+
+### 4. Bez datu monetizācijas un uzraudzības ekonomikas
+**NG-FIN-003:** Personas lietotāja dati nav prece. Netiek pārdoti saraksti, profili vai vēstures. Nexus Gaja negūst peļņu no psiholoģiskās uzraudzības (novērošanas ekonomika).
+
+### 5. Finanšu pārredzamība un fondu virsgrāmata
+**Nexus Gaja finanšu pārredzamība:** apkopoto finanšu struktūru publicēšana. Mērķziedojumi saņem tehnisko uzskaiti (Fonda ID → Mērķis → Atlikums → Piešķīrums). Nekādas sociālo mērķu šķērssubsidēšanas korporatīvajā mārketingā.
+
+### 6. Uz solidaritāti balstīts finansēšanas modelis
+Cenu noteikšanas pamatā ir orientācija uz izmaksām, godīgums un solidaritāte.
+**Solidaritātes Premium:** brīvprātīga iespēja Premium lietotājiem finansēt daļu no cita lietotāja piekļuves. Piespiedu solidaritāte vai augstākās klases sabiedrība (mazāka cieņa/mērenība pret bezmaksas lietotājiem) ir stingri aizliegta.
+
+### 7. Ekonomiskie KPI, nevis iesaistīšanās ekonomikas
+Nav atkarības no lietotāju uzturēšanas "tiešsaistē pēc iespējas ilgāk" (bez ragebait, bezgalīgas plūsmas).
+Tā vietā mēs izmantojam tādus rādītājus kā:
+- **Globālās komunikācijas indekss (GCI):** Veiksmīgas saziņas attiecības starp cilvēkiem no dažādiem valodas/kultūras reģioniem.
+- **Platformas ilgtspējas koeficients (PSR):** Periodiskie ieņēmumi / periodiskās darbības izmaksas (Mērķis ≥ 1).
+
+### 8. Ko mēs nepārprotami nevēlamies (negatīvais saraksts)
+Nexus Gaja **ne** finansē:
+❌ Personas datu pārdošana
+❌ Personalizēta tradicionālā reklāma
+❌ Lietotāju uzvedības uzraudzība reklāmas nolūkos
+❌ Privāto sakaru datu pārdošana
+❌ Slēpts AI datu lietojums
+❌ Manipulatīvas Premium maksas sienas
+❌ Mākslīgais sasniedzamības ierobežojums monetizācijai
+❌ Apmaksāta politiskā ietekme
+❌ Priviliģētu moderācijas lēmumu iegāde.
+
+### 9. Sākotnējā finanšu arhitektūra
+``` teksts
+                         NEXUS GAJA
+                              │
+             ┌────────────────┼───────────────
+             │ │ │
+             ▼ ▼ ▼
+          LIETOTĀJU ORGANIZĀCIJAS UZŅĒMUMS
+             │ │ │
+             └────────────────┼──────────────────
+                              │
+                       PLATFORMAS PAKALPOJUMI
+                              │
+          ┌─────────────────── ┼───────────────────┐
+          ▼ ▼ ▼
+       PREMIUM DONATIONS API
+                              │
+                    ┌─────────┴─────────┐
+                    ▼ ▼
+               VISPĀRĒJAIS FONDS IEROBEŽOTS FONDS
+                                        │
+                                        ▼
+                                  SOCIĀLAIS MĒRĶIS
+```
+
+### Finansēšanas principu kopsavilkums (NG-FIN)
+- **NG-FIN-001:** Nav finansējuma, izmantojot tradicionālo reklamēšanu.
+- **NG-FIN-002:** Nav redakcionālas/tehniskas kontroles ar finansiālu atbalstu.
+- **NG-FIN-003:** Personas dati nav prece.
+- **NG-FIN-004:** Pamata saziņa joprojām ir pieejama bez maksas.
+- **NG-FIN-005:** Premium piedāvājumi nedrīkst pazemināt bezmaksas lietotāju statusu.
+- **NG-FIN-006:** Mērķtiecīgie līdzekļi tiek pārvaldīti atbilstoši to mērķim.
+- **NG-FIN-007:** Ziedojumu un dotāciju pārredzama pārvaldība.
+- **NG-FIN-008:** Komerciālie B2B pakalpojumi neapdraud neatkarību.
+- **NG-FIN-009:** Koncentrējieties uz ilgtspējību, nevis uz maksimālu monetizāciju.
+- **NG-FIN-010:** Struktūra pastāvīgi nodrošina sociālo mērķi.
+
+## API, saskarnes un komunikācijas arhitektūra (WP 1.11.3)
+
+Lai nodrošinātu sistēmas stabilitāti, drošību un mērogojamību, Nexus Gaja stingri ievēro API pirmās un uz notikumu balstītu arhitektūru.
+
+### Pamatprincipi
+- **Nav tiešas piekļuves datu bāzei:** komponenti sazinās tikai, izmantojot noteiktas saskarnes (API vai notikumus), nekad neizmantojot tiešus citu pakalpojumu datu bāzes vaicājumus.
+- **API vārteja:** visi ārējo klientu pieprasījumi tiek maršrutēti caur API vārteju, kas apstrādā autentifikāciju, maršrutēšanu un ātruma ierobežošanu.
+- **Pakalpojumu sniedzēja abstrakcija:** ārējie pakalpojumi (AI modeļi, maksājumu nodrošinātāji, tulkošanas programmas) ir integrēti, izmantojot abstrakcijas slāņus, izvairoties no cietā kodētām atkarībām un ļaujot elastīgi apmainīties ar pakalpojumu sniedzējiem.
+
+### Saziņas modeļi
+- ** Sinhronās API (REST/HTTPS):** izmanto tūlītējiem pieprasījumiem, piemēram, pieteikšanās, profila iestatījumiem vai tiešiem tulkojumiem.
+- **Asinhronie notikumi (notikumu kopne):** Nexus Gaja centrālā nervu sistēma aizkavētai, atsaistītai apstrādei (piemēram, “Ziņojums.Izveidots”, kas asinhroni aktivizē regulēšanu, tulkošanu un paziņojumus).
+- **Reāllaika (WebSocket):** īpaši kanāli tiešraides tērzēšanai un rakstīšanas indikatoriem.
+
+### Drošība un uzticamība
+- **Zero-Trust Model:** iekšējā tīkla trafika netiek automātiski uzticama; sensitīvai pakalpojumu savstarpējai saziņai nepieciešama autentifikācija.
+- **Idempotency & Outbox Pattern:** kritiskās darbības (piemēram, ziedojumi vai ziņojumapmaiņa) ir izstrādātas tā, lai tās būtu idempotiskas, lai novērstu dublikātu apstrādi, izmantojot izsūtnes modeli, lai nodrošinātu, ka notikumi nekad netiek zaudēti pat datu bāzes transakciju laikā.
+
+## MVP domēna modelis (WP 1.12)
+
+Nexus Gaja izmanto stingri uz domēnu balstītu MVP arhitektūru (ADR-025), kas veidota kā modulārs monolīts ar skaidrām domēna robežām. Šī struktūra novērš priekšlaicīgu mikropakalpojumu sarežģītību, vienlaikus saglabājot elastību, lai vēlāk sadalītu konkrētus domēnus.
+
+### Galvenās domēna entītijas
+Arhitektūra skaidri nodala atšķirīgus jēdzienus, lai nodrošinātu datu integritāti un izvairītos no strukturālām kļūmēm, piemēram, "Lietotājvārds = cilvēks":
+- **Identitāte un konti:** Persona ≠ Lietotāja konts ≠ Identitātes verifikācija. Verificēta persona piedalās, izmantojot kontu, taču entītijas paliek atsevišķas.
+- **Saziņa:** "Ziņojums" ≠ "Tulkojums". Sākotnējais vēstījums paliek nemainīgs; tulkojumi ir saistītas entītijas.
+- **Moderācija:** "Ziņojums" ≠ "Moderācijas lēmums". Ziņojums ir tikai prasība; moderācijas lieta veic izmeklēšanu.
+- **Finanses:** "Ziedojums" ≠ "Līdzekļu atlikums". Maksājumi tiek iegrāmatoti, izmantojot nemainīgu virsgrāmatu fondā, nodrošinot finanšu caurskatāmību.
+
+### Savstarpēji saistīti domēni
+Sistēma ir sadalīta skaidrās loģiskās jomās (ierobežotie konteksti): identitāte, konts, organizācija, saziņa, kopiena, valoda, regulēšana, paziņošana, finanses un pārvaldība. Šie domēni attēlo visu ceļu no reālās pasaules vienībām (lietotājiem, skolām, NVO) līdz to digitālajai mijiedarbībai un saistītajai pārvaldībai.
+
+## Projekta statuss
+Šobrīd projekts atrodas aktīvā arhitektūras un plānošanas fāzē.
+Pašreizējie arhitektūras lēmumi tiek dokumentēti mapē /docs.

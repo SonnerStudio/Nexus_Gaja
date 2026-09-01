@@ -1,6 +1,6 @@
 # Nexus Gaja
 
-![نقوش Nexus Gaja](assets/logo.jpg)
+![Nexus Gaja Logo](assets/logo.jpg)
 
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
@@ -9,21 +9,21 @@
 
 </details>
 
-**Nexus Gaja** یک شبکه ارتباطی هوشمند و حساس به زمینه است که برای ایجاد انقلابی در ارتباطات جهانی طراحی شده است.
+**Nexus Gaja** is an intelligent, context-sensitive communication network designed to revolutionize global communication.
 
-## هدف و چشم انداز
-در دنیای جهانی شده، زبان اغلب بزرگترین مانع است. هدف اصلی Nexus Gaja برقراری ارتباط یکپارچه، بدون مانع و با زمینه دقیق بین افراد است - صرف نظر از اینکه آنها به یک زبان مشترک صحبت می کنند یا خیر.
+## Purpose and Vision
+In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
 
 این فقط در مورد ترجمه دقیق کلمات نیست، بلکه در مورد **انتقال معنا ** است. Nexus Gaja با درک تفاوت‌های فرهنگی، منطقه‌ای و زمینه‌ای، افراد را در سطح عمیق‌تری به هم متصل می‌کند و در نتیجه امکان گفتگوهای واقعی و معتبر را فراهم می‌کند.
 
-## امکانات و ویژگی ها
-- **ارتباطات چند رسانه ای**: سیستم نه تنها متن، بلکه تصویر، صدا و ویدئو را نیز پردازش می کند. این اجازه می دهد تا مکالمات کاملاً همه جانبه (مانند تماس های ویدیویی یا پیام های صوتی) را در زمان واقعی از طریق موانع زبانی انجام دهید.
-- **حساسیت زمینه**: شناخت کنایه، اصطلاحات، اصطلاحات و گویش های منطقه ای که اغلب توسط مترجمان مرسوم به اشتباه درک می شوند.
-- **شبکه متقابل پلتفرم**: به عنوان پایه ای برای چت های خصوصی، موضوعات انجمن (پست ها با نظر) و تعاملات بین جامعه جهانی عمل می کند.
+## Possibilities and Features
+- **Multimedia Communication**: The system processes not just text, but also image, audio, and video. This allows for fully immersive conversations (e.g., video calls or voice messages) in real-time across language barriers.
+- **Context Sensitivity**: Recognition of irony, idioms, jargon, and regional dialects that are often misunderstood by conventional translators.
+- **Cross-Platform Network**: Serves as a foundation for private chats, forum threads (posts with comments), and global community interactions.
 
 ---
 
-## معماری فنی (مفهوم اصلی)
+## Technical Architecture (Core Concept)
 
 هسته فنی Nexus Gaja یک مدل ارتباطی سفارشی است که به طور دقیق به سه لایه تقسیم می شود:
 
@@ -42,35 +42,35 @@
 
 با تعدیل به کمک هوش مصنوعی، با در نظر گرفتن مقررات جاری اتحادیه اروپا (الزامات شفافیت قانون هوش مصنوعی اتحادیه اروپا بر اساس ماده 50؛ قانون خدمات دیجیتال با توجیهات قابل فهم و گزینه های تجدیدنظر) گام مهمی از ایده محصول به معماری فنی برمی داریم.
 
-### 1. Basic Principle
-The most important sentence for the architecture is: **The moderation AI is a review system, not an autonomous ruling system.**
-It is designed to assist humans in moderation, not to determine itself which opinions are allowed to exist on Nexus Gaja.
-We differentiate between three levels:
-- **Detection:** "There could be a rule violation here."
-- **Evaluation:** "The probability of a rule violation is, for example, 94%."
-- **Decision:** "What action is actually taken?"
-The third level must be controlled by a human in severe cases.
+### 1. اصل اساسی
+مهمترین جمله برای معماری این است: ** هوش مصنوعی تعدیل یک سیستم بررسی است، نه یک سیستم حاکم مستقل.**
+این برای کمک به انسان در حد اعتدال طراحی شده است، نه اینکه خودش تعیین کند که کدام عقاید مجاز به وجود در Nexus Gaja هستند.
+ما بین سه سطح تفاوت قائل می شویم:
+- **تشخیص:** "در اینجا ممکن است یک قانون نقض شود."
+- **ارزیابی:** "احتمال نقض قانون مثلاً 94 درصد است."
+- **تصمیم:** "در واقع چه اقدامی انجام شده است؟"
+سطح سوم در موارد شدید باید توسط انسان کنترل شود.
 
-### 2. The Moderation AI as a Subsystem
-Instead of a single AI, a robust subsystem is established:
-```text
+### 2. هوش مصنوعی Moderation به عنوان یک زیرسیستم
+به جای یک هوش مصنوعی واحد، یک زیر سیستم قوی ایجاد می شود:
+``متن
                  NEXUS GAJA AI MODERATION
                           │
-       ┌──────────────────┼──────────────────┐
-       │                  │                  │
-  Language AI        Safety AI          Fraud AI
-       │                  │                  │
-       ├──────────────┬───┴──────────────┬───┤
-       │              │                  │
- Translation      Behaviour          Identity
- Analysis         Analysis            Signals
-       │              │                  │
-       └──────────────┼──────────────────┘
+       ┌──────────────────┼──
+       │ │ │
+  زبان AI Safety AI Fraud AI
+       │ │ │
+       ├──────────────┬───┴───
+       │ │ │
+ هویت رفتار ترجمه
+ سیگنال های تحلیل آنالیز
+       │ │ │
+       └──────────────┼────-
                       ▼
-               Risk Assessment
+               ارزیابی ریسک
                       │
                       ▼
-               Human Review
+               بررسی انسانی
 ```
 
 ### 3. مهم ترین ماژول های هوش مصنوعی
@@ -85,17 +85,17 @@ Nexus Gaja از نه حوزه تجزیه و تحلیل تخصصی استفاده
 - **M8 - ایمنی رسانه**: تصاویر، صدا، ویدئو، اسناد را تجزیه و تحلیل می کند.
 - **M9 – Context Engine**: مهمترین ماژول. یافته های فردی را ادغام می کند.
 
-### 4. Why the Context Engine is Crucial
-A pure keyword search would be insufficient. "I could kill him from laughing" semantically contains violence but is a figure of speech. "Tomorrow at 8 PM I will shoot him in front of his house" is a completely different situation. The AI must understand what the statement means in its specific context.
+### 4. چرا Context Engine بسیار مهم است
+جستجوی کلمه کلیدی خالص کافی نخواهد بود. "من می توانستم او را از خنده بکشم" از نظر معنایی حاوی خشونت است اما یک شکل گفتاری است. «فردا ساعت 20 جلوی در خانه اش تیراندازی می کنم» وضعیتی کاملا متفاوت است. هوش مصنوعی باید بفهمد که این بیانیه در زمینه خاص خود به چه معناست.
 
-### 5. Multilingual Moderation
-Moderation cannot simply compare words. It must analyze the semantic level (e.g., German idioms vs. Japanese idioms vs. regional expressions).
+### 5. تعدیل چند زبانه
+اعتدال نمی تواند به سادگی کلمات را با هم مقایسه کند. باید سطح معنایی را تجزیه و تحلیل کند (به عنوان مثال، اصطلاحات آلمانی در مقابل اصطلاحات ژاپنی در مقابل عبارات منطقه ای).
 
-### 6. Original Language + Translation
-Original and translation are analyzed separately. Only then does the "Combined Moderation Assessment" take place. This allows Nexus Gaja to determine whether the translation itself may have escalated or altered the facts.
+### 6. زبان اصلی + ترجمه
+اصل و ترجمه به طور جداگانه تجزیه و تحلیل می شوند. تنها پس از آن "ارزیابی اعتدال ترکیبی" انجام می شود. این به Nexus Gaja اجازه می‌دهد تا تعیین کند که آیا خود ترجمه ممکن است واقعیت‌ها را افزایش داده یا تغییر داده باشد.
 
-### 7. Confidence Score
-Every AI evaluation receives a confidence score (e.g., Threat probability: 0.96). However: **Confidence Score ≠ Truth.** A score of 96% only means the model is highly certain of its classification, not necessarily that the user is guilty.
+### 7. امتیاز اعتماد به نفس
+هر ارزیابی هوش مصنوعی یک امتیاز اطمینان دریافت می کند (به عنوان مثال، احتمال تهدید: 0.96). با این حال: **امتیاز اطمینان ≠ حقیقت.** امتیاز 96٪ فقط به این معنی است که مدل از طبقه بندی خود کاملاً مطمئن است، نه لزوماً اینکه کاربر مقصر است.
 
 ### 8. Uncertainty Becomes a Signal Itself
 If the AI is uncertain (e.g., Threat: 0.62, Satire: 0.54), it must not simply enforce harsh rules. Instead, uncertainty is built directly into the architecture: **Human Review Required**.
@@ -112,11 +112,11 @@ If the AI is uncertain (e.g., Threat: 0.62, Satire: 0.54), it must not simply en
 ### 11. Protective Measures Can Occur Automatically
 In the event of a concrete threat (Threat detected → High confidence → Temporary restriction → Human review → Decision), we protect the threatened user without turning the AI into a judge.
 
-### 12. هوش مصنوعی باید بتواند تصمیمات خود را توجیه کند
-DSA به دلایل روشن و مشخصی نیاز دارد. هوش مصنوعی استدلال ساختاری را ارائه می دهد: قانون (NG-CONDUCT-004)، شناسایی شده (تهدید بتن بالقوه)، اطمینان (0.94)، زمینه مرتبط (4 پیام قبلی)، اقدام توصیه شده (بازبینی انسانی).
+### 12. The AI Must Be Able to Justify Its Decisions
+The DSA requires clear and specific reasons. The AI provides structured reasoning: Rule (NG-CONDUCT-004), Detected (Potential concrete threat), Confidence (0.94), Relevant context (Previous 4 messages), Recommended action (Human review).
 
-### 13. AI Must Not Secretly Alter Content
-**Moderation AI must never alter the original content unnoticed.** During automatic correction, translation, or summarization, the original is always preserved.
+### 13. هوش مصنوعی نباید مخفیانه محتوا را تغییر دهد
+**هوش مصنوعی اعتدال هرگز نباید محتوای اصلی را بدون توجه تغییر دهد.** در طول تصحیح، ترجمه یا خلاصه سازی خودکار، متن اصلی همیشه حفظ می شود.
 
 ### 14. محتوای تولید شده توسط هوش مصنوعی
 ما بین: ایجاد شده توسط انسان، با کمک هوش مصنوعی، تولید شده توسط هوش مصنوعی و دستکاری شده توسط هوش مصنوعی تمایز قائل می شویم. این بخشی از ابرداده محتوا خواهد شد.
@@ -133,20 +133,20 @@ DSA به دلایل روشن و مشخصی نیاز دارد. هوش مصنوع�
 ### 18. حفاظت در برابر تفسیر نادرست فرهنگی
 هوش مصنوعی به **مدل های زمینه فرهنگی** نیاز دارد تا از در نظر گرفتن هنجارهای ارتباطی یک کشور به عنوان استاندارد جهانی جلوگیری کند.
 
-### 19. کنایه، طنز و طنز
-هوش مصنوعی از زمینه، شکلک‌ها، تاریخچه مکالمه و ساختارهای کنایه‌آمیز شناخته شده استفاده می‌کند، اما زمانی که معانی مبهم هستند باید عدم قطعیت را ایجاد کند.
+### 19. Irony, Satire, and Humor
+The AI uses context, emojis, conversation history, and known irony structures, but must allow for uncertainty when meanings are ambiguous.
 
-### 20. No Punishment Based on a Single AI Score
-No severe moderation intervention may be based solely on a single automated classification result (Text + Context + Behaviour + Language + Media + Rule Engine = Risk Assessment).
+### 20. بدون مجازات بر اساس یک امتیاز هوش مصنوعی
+هیچ مداخله تعدیل شدید ممکن است تنها بر اساس یک نتیجه طبقه بندی خودکار منفرد باشد (متن + زمینه + رفتار + زبان + رسانه + موتور قانون = ارزیابی ریسک).
 
-### 21. User Behaviour Signals & No Social Credit System
-This relates to technical abuse signals (e.g., mass spam posting), not a general social rating system. Nexus Gaja does not maintain a Social Credit System – moderation serves security, not the assessment of a person's worth.
+### 21. سیگنال های رفتار کاربر و بدون سیستم اعتبار اجتماعی
+این به سیگنال های سوء استفاده فنی (به عنوان مثال، ارسال هرزنامه انبوه) مربوط می شود، نه یک سیستم رتبه بندی اجتماعی عمومی. Nexus Gaja یک سیستم اعتبار اجتماعی را حفظ نمی کند - اعتدال در خدمت امنیت است، نه ارزیابی ارزش یک فرد.
 
 ### 22. Moderation AI Must Be Auditable
 All relevant automated decisions are logged (Event-ID, Rule-ID, Confidence, Human-Review, etc.) to ensure traceability.
 
-### 23. معیارهای مثبت کاذب، منفی کاذب و معیارهای کیفیت
-انواع خطا نظارت می شود. داشبورد دقت، یادآوری، و به ویژه **نرخ بازگشت تجدیدنظر** (تعداد درخواست های تجدیدنظر موفق) را اندازه گیری می کند.
+### 23. False Positives, False Negatives & Quality Metrics
+Error types are monitored. A dashboard measures Precision, Recall, and especially the **Appeal Reversal Rate** (number of successful appeals).
 
 ### 24. برابری زبان و تعصب ترجمه
 کیفیت تعدیل باید در همه زبان های پشتیبانی شده قابل مقایسه باشد (معیار تعدیل چند زبانه). اگر نتایج تعدیل بین نسخه اصلی و ترجمه متفاوت باشد (تضاد ترجمه)، این باید به طور خاص بررسی شود.
@@ -158,7 +158,159 @@ All relevant automated decisions are logged (Event-ID, Rule-ID, Confidence, Huma
 - **NG-AI-MOD-001**: هوش مصنوعی به شناسایی و طبقه بندی کمک می کند، اما در تصمیم گیری های شدید جایگزین بررسی انسانی نمی شود.
 - **NG-AI-MOD-002**: تصمیمات تعدیل خودکار باید قابل ردیابی، ثبت و تأیید باشند.
 
-**خلاصه**: ما در حال ساختن یک سیستم چهار مرحله ای هستیم: تشخیص هوش مصنوعی، تحلیل زمینه و ریسک، موتور سیاست گذاری، و مدیریت انسانی. این امر اتوماسیون قوی را بدون ایجاد معماری خطرناک "AI as Judge" امکان پذیر می کند.
+**خلاصه**: ما در حال ساختن یک سیستم چهار مرحله ای هستیم: تشخیص هوش مصنوعی، تحلیل زمینه و ریسک، موتور سیاست گذاری، و مدیریت انسانی. این امر اتوماسیون قوی را بدون ایجاد معماری خطرناک «AI as Judge» امکان پذیر می کند.
+
+## اصول تامین مالی و مدل درآمد (WP 1.10.1)
+
+برای Nexus Gaja، یک اصل اقتصادی بسیار مهم اعمال می‌شود: **بدون تبلیغات سنتی در پلتفرم.**
+این موضوع اساساً Nexus Gaja را از بسیاری از شبکه های اجتماعی امروزی متمایز می کند. با این حال، این بدان معنا نیست که Nexus Gaja نمی تواند یک شخصیت تجاری داشته باشد. برعکس، این پلتفرم باید از نظر اقتصادی مقرون به صرفه باشد تا هدف اجتماعی آن پایدار بماند. فعالیت اقتصادی وسیله ای برای رسیدن به هدف است، نه هدف اصلی پلت فرم.
+
+### 1. اصل NG-FIN-001
+Nexus Gaja عملیات خود را از طریق جریان‌های درآمد شفاف جدا از علایق کاربران، و نه از طریق کسب درآمد از توجه کاربران یا داده‌های شخصی، تأمین مالی می‌کند.
+
+### 2. بدون تبلیغات سنتی
+به طور خاص ممنوع هستند:
+- تبلیغات بنری
+- تبلیغات پاپ آپ
+- پخش خودکار تبلیغات ویدیویی
+- پست های حمایت شده در فید استاندارد
+- پروفایل های تبلیغاتی شخصی
+- فروش پروفایل های کاربر یا اطلاعات شخصی
+- تبلیغات ناشی از گفتگوهای خصوصی.
+
+Nexus Gaja به جای یک فضای تبلیغاتی ** فضای ارتباطی باقی می ماند.
+
+### 3. Financing Without Advertising (The 6 Pillars)
+Financing is built on six pillars:
+```text
+                 NEXUS GAJA
+                     │
+       ┌─────────────┼─────────────┐
+       ▼             ▼             ▼
+   PREMIUM       ORGANIZATION    DONATIONS
+       │             │             │
+       ├─────────────┼─────────────┤
+       ▼             ▼             ▼
+    GRANTS       PARTNERSHIPS    SERVICES
+```
+
+#### ستون 1 - عضویت پایه رایگان
+**Nexus Gaja Free** درک بین‌المللی اولیه را برای همه (نمایه، ارتباطات بین‌المللی، پست‌ها، انجمن‌ها، چت‌ها، ترجمه اولیه) بدون هیچ هزینه‌ای امکان‌پذیر می‌سازد.
+
+#### Pillar 2 – Premium Offerings
+Voluntary paid offerings (**Nexus Gaja Plus**) providing greater storage limits, higher media quality, expanded AI quotas, and organizational features.
+**Important (Freemium instead of Dark Freemium):** Basic communication must never be artificially degraded.
+
+#### رکن 3 - سازمانها
+حساب‌های ویژه برای مدارس، دانشگاه‌ها، سازمان‌های غیردولتی، مشاغل و شهرداری‌ها (**سازمان Nexus Gaja**). مدارس را می توان از طریق نرخ های نهادی به عنوان ضریب درک بین المللی حمایت کرد.
+
+#### Pillar 4 – Donations
+The **Nexus Gaja Funding Pool** accepts general and earmarked donations (e.g., "for international youth communication"). A **Fund Allocation Ledger** ensures transparent allocation of funds.
+**Purpose Fund & Tombola:** A portion of donations feeds a pool for free/discounted usage. A lottery/tombola mechanism can allocate these funds transparently and auditably.
+
+#### Pillar 5 – Institutional Funding
+Foundations, cultural funding programs, or state programs.
+**NG-FIN-002:** Financial support does not buy editorial or technical control (Independence).
+
+#### Pillar 6 – Commercial Services
+B2B services like **Translation-as-a-Service** (API), organizational communication, or international conference rooms, without burdening the standard user feed.
+
+### 4. بدون کسب درآمد از داده ها و اقتصاد نظارتی
+**NG-FIN-003:** داده های شخصی کاربر یک کالا نیست. فروش لیست، نمایه یا تاریخچه وجود ندارد. Nexus Gaja از نظارت روانی (Surveillance Economy) سود نمی برد.
+
+### 5. Financial Transparency & Fund Ledger
+**Nexus Gaja Financial Transparency:** Publication of aggregated financial structures. Earmarked donations receive technical accounting (Fund ID → Purpose → Balance → Allocation). No cross-subsidization of social purposes into corporate marketing.
+
+### 6. Solidarity-Based Financing Model
+Pricing is based on cost-orientation, fairness, and solidarity.
+**Solidarity Premium:** A voluntary option for Premium users to finance a portion of another user's access. Forced solidarity or a premium class society (less respect/moderation for free users) is strictly prohibited.
+
+### 7. شاخص های کلیدی عملکرد اقتصادی به جای اقتصاد تعاملی
+بدون وابستگی به نگه داشتن کاربران "تا زمانی که ممکن است آنلاین" (بدون راگبایت، فیدهای بی نهایت).
+در عوض، ما از معیارهایی مانند:
+- **شاخص ارتباطات جهانی (GCI):** روابط ارتباطی موفق بین افراد از مناطق مختلف زبانی/فرهنگی.
+- **نسبت پایداری پلتفرم (PSR): ** درآمد مکرر / هزینه های عملیاتی مکرر (هدف ≥ 1).
+
+### 8. آنچه ما آشکارا نمی خواهیم (فهرست منفی)
+Nexus Gaja **نه** توسط:
+❌ فروش اطلاعات شخصی
+❌ تبلیغات سنتی شخصی
+❌ نظارت بر رفتار کاربران برای اهداف تبلیغاتی
+❌ فروش داده های ارتباطی خصوصی
+❌ استفاده از داده های هوش مصنوعی پنهان
+❌ دیوارهای پرداخت حق بیمه دستکاری
+❌ محدودیت دسترسی مصنوعی برای کسب درآمد
+❌ نفوذ سیاسی پولی
+❌ خرید تصمیمات اعتدال ممتاز.
+
+### 9. Preliminary Financial Architecture
+```text
+                         NEXUS GAJA
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+             ▼                ▼                ▼
+          USERS          ORGANIZATIONS      ENTERPRISE
+             │                │                │
+             └────────────────┼────────────────┘
+                              │
+                       PLATFORM SERVICES
+                              │
+          ┌───────────────────┼───────────────────┐
+          ▼                   ▼                   ▼
+       PREMIUM             DONATIONS            API
+                              │
+                    ┌─────────┴─────────┐
+                    ▼                   ▼
+               GENERAL FUND       RESTRICTED FUNDS
+                                        │
+                                        ▼
+                                  SOCIAL PURPOSE
+```
+
+### خلاصه اصول تامین مالی (NG-FIN)
+- **NG-FIN-001:** بدون تامین مالی از طریق تبلیغات سنتی.
+- **NG-FIN-002:** بدون کنترل ویرایشی/فنی از طریق حمایت مالی.
+- **NG-FIN-003:** داده های شخصی یک کالا نیست.
+- **NG-FIN-004:** ارتباطات اولیه بدون پرداخت قابل دسترسی است.
+- **NG-FIN-005:** پیشنهادهای ممتاز نباید باعث تنزل کاربران رایگان شود.
+- **NG-FIN-006:** وجوه اختصاصی بر اساس هدفشان مدیریت می شوند.
+- **NG-FIN-007:** مدیریت شفاف کمک های مالی و کمک های مالی.
+- **NG-FIN-008: ** خدمات تجاری B2B استقلال را به خطر نمی اندازد.
+- **NG-FIN-009: ** تمرکز بر پایداری به جای حداکثر درآمدزایی.
+- **NG-FIN-010:** ساختار به طور دائم هدف اجتماعی را تضمین می کند.
+
+## API، رابط‌ها و معماری ارتباطات (WP 1.11.3)
+
+برای اطمینان از ثبات، امنیت و مقیاس‌پذیری سیستم، Nexus Gaja از معماری کاملاً مبتنی بر API و رویداد محور پیروی می‌کند.
+
+### اصول اصلی
+- **دسترسی مستقیم به پایگاه داده:** مؤلفه ها منحصراً از طریق رابط های تعریف شده (API یا رویدادها) ارتباط برقرار می کنند، هرگز از طریق جستجوهای مستقیم پایگاه داده سایر سرویس ها.
+- **درگاه API:** تمام درخواست های مشتری خارجی از طریق یک API Gateway که احراز هویت، مسیریابی و محدود کردن نرخ را مدیریت می کند، می گذرد.
+- **انتزاع ارائه دهنده:** خدمات خارجی (مدل های هوش مصنوعی، ارائه دهندگان پرداخت، موتورهای ترجمه) از طریق لایه های انتزاعی ادغام می شوند، از وابستگی های کدگذاری شده اجتناب می کنند و امکان تعویض ارائه دهنده انعطاف پذیر را فراهم می کنند.
+
+### الگوهای ارتباطی
+- ** APIهای همزمان (REST/HTTPS):** برای درخواست‌های فوری مانند ورود به سیستم، تنظیمات نمایه یا ترجمه مستقیم استفاده می‌شود.
+- **رویدادهای ناهمزمان (اتوبوس رویداد):** سیستم عصبی مرکزی Nexus Gaja برای پردازش تأخیری و جداشده (مثلاً «پیام. ایجاد شده» که باعث تعدیل، ترجمه و اعلان به صورت ناهمزمان می‌شود).
+- ** بیدرنگ (WebSocket): ** کانال های اختصاصی برای چت زنده و نشانگرهای تایپ.
+
+### امنیت و قابلیت اطمینان
+- ** مدل صفر اعتماد: ** ترافیک شبکه داخلی به طور خودکار قابل اعتماد نیست. ارتباطات حساس سرویس به سرویس نیاز به احراز هویت دارد.
+- **ناتوانی و الگوی صندوق خروجی:** عملیات حیاتی (مانند کمک های مالی یا پیام رسانی) به گونه ای طراحی شده اند که از پردازش تکراری جلوگیری کنند و از الگوی صندوق خروجی استفاده می کنند تا اطمینان حاصل شود که رویدادها هرگز حتی در طول تراکنش های پایگاه داده از بین نمی روند.
+
+## مدل دامنه MVP (WP 1.12)
+
+Nexus Gaja از معماری MVP کاملاً Domain-Driven (ADR-025) استفاده می‌کند که به‌عنوان یک مونولیت مدولار با مرزهای دامنه واضح طراحی شده است. این ساختار از پیچیدگی پیش از موعد میکروسرویس جلوگیری می کند و در عین حال انعطاف پذیری را برای تقسیم دامنه های خاص بعد حفظ می کند.
+
+### موجودیت های دامنه اصلی
+معماری به صراحت مفاهیم متمایز را برای اطمینان از یکپارچگی داده ها و جلوگیری از مشکلات ساختاری مانند "نام کاربری = انسان" جدا می کند:
+- ** هویت و حساب ها: ** "شخص" ≠ "حساب کاربری" ≠ "تأیید هویت". یک شخص تأیید شده از طریق یک حساب شرکت می کند، اما نهادها جداگانه باقی می مانند.
+- **ارتباطات:** "پیام" ≠ "ترجمه". پیام اصلی تغییرناپذیر است. ترجمه ها موجودیت های مرتبط هستند.
+- ** اعتدال: ** «گزارش» ≠ «تصمیم اعتدال». گزارش صرفاً یک ادعاست. یک پرونده اعتدالی تحقیقات را انجام می دهد.
+- ** امور مالی: ** "اهدا" ≠ "موجودی صندوق". پرداخت ها از طریق یک دفتر کل غیرقابل تغییر به یک صندوق رزرو می شود و شفافیت مالی را تضمین می کند.
+
+### دامنه های به هم پیوسته
+این سیستم به حوزه‌های منطقی واضح (زمینه‌های محدود) تقسیم می‌شود: هویت، حساب، سازمان، ارتباطات، جامعه، زبان، تعدیل، اطلاع‌رسانی، امور مالی و حکومت. این دامنه‌ها کل سفر را از موجودیت‌های دنیای واقعی (کاربران، مدارس، سازمان‌های غیردولتی) تا تعاملات دیجیتالی و حاکمیت مرتبط ترسیم می‌کنند.
 
 ## وضعیت پروژه
 این پروژه در حال حاضر در مرحله معماری و برنامه ریزی فعال است.

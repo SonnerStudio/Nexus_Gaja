@@ -1,6 +1,6 @@
 # Nexus Gaja
 
-![Logo Nexus Gaja](assets/logo.jpg)
+![Nexus Gaja Logo](assets/logo.jpg)
 
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
@@ -9,10 +9,10 @@
 
 </details>
 
-**Nexus Gaja** est un réseau de communication intelligent et contextuel conçu pour révolutionner la communication mondiale.
+**Nexus Gaja** is an intelligent, context-sensitive communication network designed to revolutionize global communication.
 
-## Objectif et vision
-Dans un monde globalisé, la langue constitue souvent le plus grand obstacle. L'objectif principal de Nexus Gaja est de permettre une communication transparente, sans obstacle et contextuellement précise entre les personnes, qu'elles parlent ou non une langue commune.
+## Purpose and Vision
+In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
 
 Il ne s'agit pas seulement de traduire des mots de manière rigide, mais de **transférer du sens**. Nexus Gaja connecte les gens à un niveau plus profond en comprenant les nuances culturelles, régionales et contextuelles, permettant ainsi des conversations véritables et authentiques.
 
@@ -38,55 +38,55 @@ Les traductions dans Nexus Gaja ne visualisent jamais les messages de manière i
 ### Efficacité grâce à la traduction à la demande
 La traduction s'effectue de manière efficace en termes de ressources uniquement **sur demande** (à la demande). Lorsqu'un utilisateur demande du contenu, celui-ci est traduit dans sa langue prédéfinie. Une fois qu'une traduction pour une langue spécifique est générée, elle est stockée en permanence (mise en cache) pour accélérer considérablement les demandes futures.
 
-## Modération assistée par l'IA (WP 1.8.4)
+## AI-Assisted Moderation (WP 1.8.4)
 
 Avec la modération assistée par l'IA, nous franchissons une étape importante de l'idée du produit à l'architecture technique, en tenant compte des réglementations européennes en vigueur (exigences de transparence de la loi européenne sur l'IA en vertu de l'article 50 ; loi sur les services numériques avec justifications compréhensibles et possibilités de recours).
 
-### 1. Principe de base
-La phrase la plus importante pour l'architecture est : **L'IA de modération est un système de révision, pas un système de décision autonome.**
-Il est conçu pour aider les humains avec modération, et non pour déterminer lui-même quelles opinions sont autorisées à exister sur Nexus Gaja.
-Nous distinguons trois niveaux :
-- **Détection :** "Il pourrait y avoir une violation des règles ici."
-- **Évaluation :** "La probabilité d'une violation des règles est, par exemple, de 94 %."
-- **Décision :** "Quelle mesure est réellement prise ?"
-Le troisième niveau doit être contrôlé par un humain dans les cas graves.
+### 1. Basic Principle
+The most important sentence for the architecture is: **The moderation AI is a review system, not an autonomous ruling system.**
+It is designed to assist humans in moderation, not to determine itself which opinions are allowed to exist on Nexus Gaja.
+We differentiate between three levels:
+- **Detection:** "There could be a rule violation here."
+- **Evaluation:** "The probability of a rule violation is, for example, 94%."
+- **Decision:** "What action is actually taken?"
+The third level must be controlled by a human in severe cases.
 
-### 2. L'IA de modération en tant que sous-système
-Au lieu d’une seule IA, un sous-système robuste est établi :
-```texte
-                 MODÉRATION DE L'IA NEXUS GAJA
+### 2. The Moderation AI as a Subsystem
+Instead of a single AI, a robust subsystem is established:
+```text
+                 NEXUS GAJA AI MODERATION
                           │
        ┌──────────────────┼──────────────────┐
-       │ │ │
-  IA de langage IA de sécurité IA de fraude
-       │ │ │
+       │                  │                  │
+  Language AI        Safety AI          Fraud AI
+       │                  │                  │
        ├──────────────┬───┴──────────────┬───┤
-       │ │ │
- Identité du comportement de traduction
- Signaux d'analyse d'analyse
-       │ │ │
+       │              │                  │
+ Translation      Behaviour          Identity
+ Analysis         Analysis            Signals
+       │              │                  │
        └──────────────┼──────────────────┘
                       ▼
-               Évaluation des risques
+               Risk Assessment
                       │
                       ▼
-               Examen humain
+               Human Review
 ```
 
-### 3. Les modules d'IA les plus importants
-Nexus Gaja utilise neuf domaines d'analyse spécialisés :
-- **M1 – Compréhension du langage** : Détecte la langue, le dialecte, l'argot, les indicateurs d'ironie, les problèmes de traduction.
-- **M2 – Détection Toxicité / Abus** : Détecte les insultes, les attaques personnelles, le harcèlement.
-- **M3 – Détection des menaces** : Détecte les menaces potentielles, le chantage, les annonces de violence.
-- **M4 – Détection de haine/déhumanisation** : Détecte les attaques ciblées contre des personnes en fonction d'affiliations spécifiques.
-- **M5 – Détection de spam/manipulation** : Détecte le spam, le comportement des robots et les manipulations coordonnées.
-- **M6 – Fraud Detection** : Détecte les tentatives de fraude suspectes, le phishing, l'ingénierie sociale.
-- **M7 – Intégrité de l'identité** : Vérifie les signaux concernant les piratages de comptes, les comptes multiples, l'évasion d'interdiction.
-- **M8 – Media Safety** : Analyse les images, l'audio, la vidéo, les documents.
-- **M9 – Context Engine** : Le module le plus important. Il fusionne les résultats individuels.
+### 3. The Most Important AI Modules
+Nexus Gaja utilizes nine specialized analysis areas:
+- **M1 – Language Understanding**: Detects language, dialect, slang, irony indicators, translation issues.
+- **M2 – Toxicity / Abuse Detection**: Detects insults, personal attacks, harassment.
+- **M3 – Threat Detection**: Detects potential threats, blackmail, violence announcements.
+- **M4 – Hate / Dehumanization Detection**: Detects targeted attacks on people based on specific affiliations.
+- **M5 – Spam / Manipulation Detection**: Detects spam, bot behavior, coordinated manipulation.
+- **M6 – Fraud Detection**: Detects suspicious fraud attempts, phishing, social engineering.
+- **M7 – Identity Integrity**: Checks signals regarding account takeovers, multiple accounts, ban evasion.
+- **M8 – Media Safety**: Analyzes images, audio, video, documents.
+- **M9 – Context Engine**: The most important module. It merges the individual findings.
 
-### 4. Pourquoi le moteur contextuel est crucial
-Une simple recherche par mots-clés serait insuffisante. "Je pourrais le tuer en riant" contient sémantiquement de la violence mais est une figure de style. "Demain à 20 heures, je lui tirerai dessus devant sa maison" est une situation complètement différente. L'IA doit comprendre ce que signifie la déclaration dans son contexte spécifique.
+### 4. Why the Context Engine is Crucial
+A pure keyword search would be insufficient. "I could kill him from laughing" semantically contains violence but is a figure of speech. "Tomorrow at 8 PM I will shoot him in front of his house" is a completely different situation. The AI must understand what the statement means in its specific context.
 
 ### 5. Modération multilingue
 La modération ne peut pas simplement comparer les mots. Il doit analyser le niveau sémantique (par exemple, idiomes allemands, idiomes japonais et expressions régionales).
@@ -100,11 +100,11 @@ Chaque évaluation de l'IA reçoit un score de confiance (par exemple, probabili
 ### 8. L'incertitude devient elle-même un signal
 Si l’IA est incertaine (par exemple Menace : 0,62, Satire : 0,54), elle ne doit pas simplement appliquer des règles strictes. Au lieu de cela, l'incertitude est directement intégrée à l'architecture : **Examen humain requis**.
 
-### 9. Quatre zones de décision
-- 🟢 **VERT** : Très probablement conforme. → aucune action.
-- 🟡 **JAUNE** : Violation possible. → surveiller / avertir si nécessaire.
-- 🟠 **ORANGE** : Violation probable. → avis de modération.
-- 🔴 **ROUGE** : Violation grave possible. → mesure de protection immédiate + examen humain.
+### 9. Four Decision Zones
+- 🟢 **GREEN**: Highly likely compliant. → no action.
+- 🟡 **YELLOW**: Possible violation. → monitor / provide a warning if necessary.
+- 🟠 **ORANGE**: Probable violation. → moderation review.
+- 🔴 **RED**: Severe possible violation. → immediate protective measure + human review.
 
 ### 10. Pas de « punition IA »
 **L'IA n'impose aucune sanction finale.** Elle peut déclencher des mesures techniques immédiates (par exemple, retenir temporairement un message) en cas de graves problèmes de sécurité, mais la décision finale reste vérifiable.
@@ -118,20 +118,20 @@ Le DSA exige des raisons claires et précises. L'IA fournit un raisonnement stru
 ### 13. L'IA ne doit pas modifier secrètement le contenu
 **L'IA de modération ne doit jamais modifier le contenu original sans que cela soit remarqué.** Lors d'une correction automatique, d'une traduction ou d'un résumé, l'original est toujours préservé.
 
-### 14. Contenu généré par l'IA
-Nous faisons la distinction entre : créé par l'homme, assisté par l'IA, généré par l'IA et manipulé par l'IA. Cela fera partie des métadonnées du contenu.
+### 14. AI-Generated Content
+We distinguish between: Human-created, AI-assisted, AI-generated, and AI-manipulated. This will become part of the content metadata.
 
 ### 15. Étiquetage du contenu IA et de la couche de provenance IA
 Selon les règles de transparence de la loi européenne sur l’IA (en vigueur en août 2026), le contenu généré par l’IA doit être identifiable. Nous fournissons une couche de provenance AI qui stocke les métadonnées (AI-Origin, Model, Timestamp, Human Review).
 
-### 16. Détection des deepfakes
-L'architecture vise à détecter les images synthétiques, les voix clonées et les deepfakes. Cependant, la détection ne constitue pas automatiquement une preuve.
+### 16. Deepfake Detection
+The architecture aims to detect synthetic images, cloned voices, and deepfakes. However, detection is not automatically proof.
 
-### 17. Pas de « machine à vérité » automatique (modération ≠ vérification des faits)
-Un système vérifie : « Le contenu enfreint-il les règles ? » (Modération du contenu), un autre précise : « Quelles informations et sources sont disponibles ? (Aide à l'information). Les opinions ne sont pas simplement supprimées parce qu’elles sont « fausses ».
+### 17. No Automatic "Truth Machine" (Moderation ≠ Fact Checking)
+One system checks: "Does the content violate rules?" (Content Moderation), another provides: "What information and sources are available?" (Information Assistance). Opinions are not simply deleted for being "wrong."
 
-### 18. Protection contre les interprétations culturelles erronées
-L'IA nécessite des **Modèles de contexte culturel** pour éviter que les normes de communication d'un pays ne soient considérées comme une norme mondiale.
+### 18. Protection Against Cultural Misinterpretation
+The AI requires **Cultural Context Models** to prevent the communication norms of one country from being assumed as a global standard.
 
 ### 19. Ironie, satire et humour
 L’IA utilise le contexte, les émojis, l’historique des conversations et les structures ironiques connues, mais doit tenir compte de l’incertitude lorsque les significations sont ambiguës.
@@ -148,8 +148,8 @@ Toutes les décisions automatisées pertinentes sont enregistrées (Event-ID, Ru
 ### 23. Faux positifs, faux négatifs et mesures de qualité
 Les types d'erreurs sont surveillés. Un tableau de bord mesure la précision, le rappel et surtout le **taux d'annulation des appels** (nombre d'appels réussis).
 
-### 24. Équité linguistique et biais en matière de traduction
-La qualité de la modération doit être comparable dans toutes les langues prises en charge (Multilingual Moderation Benchmark). Si les résultats de la modération diffèrent entre l'original et la traduction (Conflit de traduction), cela doit être spécifiquement examiné.
+### 24. Language Equity & Translation Bias
+Moderation quality must be comparable across all supported languages (Multilingual Moderation Benchmark). If moderation results differ between the original and the translation (Translation Conflict), this must be specifically reviewed.
 
 ### 25. Proposition d'architecture et moteur de politique
 Les règles (Policy Engine) ne sont pas codées en dur dans les modèles d'IA. L'IA fournit des résultats ; le moteur de politique décide en fonction des règles en vigueur. Cela permet de **modifier le modèle sans modifier les règles**.
@@ -178,39 +178,39 @@ Sont spécifiquement interdits :
 - Vente de profils d'utilisateurs ou de données personnelles
 - Publicité issue de conversations privées.
 
-Nexus Gaja reste un **espace de communication plutôt qu'un espace publicitaire**.
+Nexus Gaja remains a **communication space rather than an advertising space**.
 
-### 3. Financement sans publicité (Les 6 piliers)
-Le financement repose sur six piliers :
-```texte
+### 3. Financing Without Advertising (The 6 Pillars)
+Financing is built on six pillars:
+```text
                  NEXUS GAJA
                      │
        ┌─────────────┼─────────────┐
-       ▼ ▼ ▼
-   DONS AUX ORGANISMES PREMIUM
-       │ │ │
+       ▼             ▼             ▼
+   PREMIUM       ORGANIZATION    DONATIONS
+       │             │             │
        ├─────────────┼─────────────┤
-       ▼ ▼ ▼
-    SUBVENTIONS, PARTENARIATS SERVICES
+       ▼             ▼             ▼
+    GRANTS       PARTNERSHIPS    SERVICES
 ```
 
-#### Pilier 1 – Adhésion de base gratuite
-**Nexus Gaja Free** permet à tous une compréhension internationale de base (profil, communication internationale, publications, communautés, chats, traduction de base) sans frais.
+#### Pillar 1 – Free Basic Membership
+**Nexus Gaja Free** enables basic international understanding for everyone (profile, international communication, posts, communities, chats, basic translation) at no cost.
 
-#### Pilier 2 – Offres Premium
-Offres payantes volontaires (**Nexus Gaja Plus**) offrant des limites de stockage plus élevées, une qualité multimédia supérieure, des quotas d'IA étendus et des fonctionnalités d'organisation.
-**Important (Freemium au lieu de Dark Freemium) :** La communication de base ne doit jamais être artificiellement dégradée.
+#### Pillar 2 – Premium Offerings
+Voluntary paid offerings (**Nexus Gaja Plus**) providing greater storage limits, higher media quality, expanded AI quotas, and organizational features.
+**Important (Freemium instead of Dark Freemium):** Basic communication must never be artificially degraded.
 
-#### Pilier 3 – Organisations
-Comptes spéciaux pour les écoles, universités, ONG, entreprises et municipalités (**Nexus Gaja Organization**). Les écoles peuvent être soutenues via des tarifs institutionnels en tant que multiplicateurs de compréhension internationale.
+#### Pillar 3 – Organizations
+Special accounts for schools, universities, NGOs, businesses, and municipalities (**Nexus Gaja Organization**). Schools can be supported via institutional rates as multipliers of international understanding.
 
-#### Pilier 4 – Dons
-Le **Nexus Gaja Funding Pool** accepte les dons généraux et réservés (par exemple, « pour la communication internationale auprès des jeunes »). Un **Ledger d'allocation de fonds** garantit une allocation transparente des fonds.
-**Purpose Fund & Tombola :** Une partie des dons alimente un pool pour une utilisation gratuite/à prix réduit. Un mécanisme de loterie/tombola peut allouer ces fonds de manière transparente et vérifiable.
+#### Pillar 4 – Donations
+The **Nexus Gaja Funding Pool** accepts general and earmarked donations (e.g., "for international youth communication"). A **Fund Allocation Ledger** ensures transparent allocation of funds.
+**Purpose Fund & Tombola:** A portion of donations feeds a pool for free/discounted usage. A lottery/tombola mechanism can allocate these funds transparently and auditably.
 
-#### Pilier 5 – Financement institutionnel
-Fondations, programmes de financement culturel ou programmes étatiques.
-**NG-FIN-002 :** Le soutien financier n'achète pas de contrôle éditorial ou technique (Indépendance).
+#### Pillar 5 – Institutional Funding
+Foundations, cultural funding programs, or state programs.
+**NG-FIN-002:** Financial support does not buy editorial or technical control (Independence).
 
 #### Pilier 6 – Services commerciaux
 Des services B2B tels que la **Translation-as-a-Service** (API), la communication organisationnelle ou les salles de conférence internationales, sans alourdir le flux utilisateur standard.
@@ -231,17 +231,17 @@ Au lieu de cela, nous utilisons des métriques telles que :
 - **Global Communication Index (GCI) :** Relations de communication réussies entre des personnes de différentes régions linguistiques/culturelles.
 - **Ratio de durabilité de la plateforme (PSR) :** Revenus récurrents / coûts opérationnels récurrents (Cible ≥ 1).
 
-### 8. Ce que nous ne voulons explicitement pas (liste négative)
-Nexus Gaja n'est **pas** financé par :
-❌ Vente de données personnelles
-❌ Publicité traditionnelle personnalisée
-❌ Surveillance du comportement des utilisateurs à des fins publicitaires
-❌ Vente de données de communication privées
-❌ Utilisation des données cachées de l'IA
-❌ Paywalls manipulateurs Premium
-❌ Restriction artificielle de la portée pour la monétisation
-❌ Influence politique rémunérée
-❌ Achat de décisions de modération privilégiées.
+### 8. What We Explicitly Do Not Want (Negative List)
+Nexus Gaja is **not** financed by:
+❌ Sale of personal data
+❌ Personalized traditional advertising
+❌ Monitoring user behavior for advertising purposes
+❌ Sale of private communication data
+❌ Hidden AI data usage
+❌ Manipulative Premium paywalls
+❌ Artificial reach restriction for monetization
+❌ Paid political influence
+❌ Purchase of privileged moderation decisions.
 
 ### 9. Architecture financière préliminaire
 ```texte
@@ -280,6 +280,38 @@ Nexus Gaja n'est **pas** financé par :
 - **NG-FIN-009 :** Concentrez-vous sur la durabilité plutôt que sur la monétisation maximale.
 - **NG-FIN-010 :** La structure sécurise en permanence la finalité sociale.
 
-## Statut du projet
-Le projet est actuellement en phase active d’architecture et de planification.
-Les décisions architecturales en cours sont documentées dans le dossier `/docs`.
+## API, interfaces et architecture de communication (WP 1.11.3)
+
+Pour garantir la stabilité, la sécurité et l'évolutivité du système, Nexus Gaja suit une architecture strictement axée sur les API et basée sur les événements.
+
+### Principes fondamentaux
+- **Pas d'accès direct à la base de données :** Les composants communiquent exclusivement via des interfaces définies (API ou événements), jamais via des requêtes directes de base de données d'autres services.
+- **API Gateway :** Toutes les requêtes des clients externes sont acheminées via une API Gateway gérant l'authentification, le routage et la limitation de débit.
+- **Abstraction du fournisseur :** Les services externes (modèles d'IA, fournisseurs de paiement, moteurs de traduction) sont intégrés via des couches d'abstraction, évitant les dépendances codées en dur et permettant un échange flexible de fournisseur.
+
+### Modèles de communication
+- **API synchrones (REST/HTTPS) :** Utilisées pour les demandes immédiates telles que la connexion, les paramètres de profil ou les traductions directes.
+- **Événements asynchrones (Event Bus) :** Le système nerveux central de Nexus Gaja pour un traitement retardé et découplé (par exemple, « Message.Created » déclenchant la modération, la traduction et la notification de manière asynchrone).
+- **Temps réel (WebSocket) :** Canaux dédiés pour le chat en direct et les indicateurs de saisie.
+
+### Sécurité et fiabilité
+- **Modèle Zero-Trust :** Le trafic réseau interne n'est pas automatiquement approuvé ; les communications sensibles de service à service nécessitent une authentification.
+- **Idempotence et modèle de boîte d'envoi :** Les opérations critiques (comme les dons ou la messagerie) sont conçues pour être idempotentes afin d'éviter les traitements en double, en utilisant le modèle de boîte d'envoi pour garantir que les événements ne sont jamais perdus, même pendant les transactions de base de données.
+
+## Modèle de domaine MVP (WP 1.12)
+
+Nexus Gaja utilise une architecture MVP strictement pilotée par domaine (ADR-025), conçue comme un monolithe modulaire avec des limites de domaine claires. Cette structure évite une complexité prématurée des microservices tout en conservant la flexibilité nécessaire pour diviser des domaines spécifiques ultérieurement.
+
+### Core Domain Entities
+The architecture explicitly separates distinct concepts to ensure data integrity and avoid structural pitfalls like "Username = Human":
+- **Identity & Accounts:** `Person` ≠ `User Account` ≠ `Identity Verification`. A verified person participates via an account, but the entities remain separate.
+- **Communication:** `Message` ≠ `Translation`. The original message remains immutable; translations are linked entities.
+- **Moderation:** `Report` ≠ `Moderation Decision`. A report is merely a claim; a moderation case conducts the investigation.
+- **Finances:** `Donation` ≠ `Fund Balance`. Payments are booked via an immutable ledger to a fund, ensuring financial transparency.
+
+### Domaines interconnectés
+Le système est divisé en domaines logiques clairs (Contextes délimités) : Identité, Compte, Organisation, Communication, Communauté, Langue, Modération, Notification, Finance et Gouvernance. Ces domaines cartographient l'ensemble du parcours depuis les entités du monde réel (utilisateurs, écoles, ONG) jusqu'à leurs interactions numériques et la gouvernance associée.
+
+## Project Status
+The project is currently in the active architecture and planning phase.
+Ongoing architectural decisions are documented in the `/docs` folder.

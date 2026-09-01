@@ -1,6 +1,6 @@
-#เน็กซัสกาจา
+# Nexus Gaja
 
-![โลโก้ Nexus Gaja](assets/logo.jpg)
+![Nexus Gaja Logo](assets/logo.jpg)
 
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
@@ -9,12 +9,12 @@
 
 </details>
 
-**Nexus Gaja** คือเครือข่ายการสื่อสารอัจฉริยะที่คำนึงถึงบริบท ซึ่งออกแบบมาเพื่อปฏิวัติการสื่อสารทั่วโลก
+**Nexus Gaja** is an intelligent, context-sensitive communication network designed to revolutionize global communication.
 
-## วัตถุประสงค์และวิสัยทัศน์
-ในโลกยุคโลกาภิวัตน์ ภาษามักเป็นอุปสรรคที่ใหญ่ที่สุด เป้าหมายหลักของ Nexus Gaja คือการทำให้ผู้คนสื่อสารกันได้อย่างราบรื่น ไร้อุปสรรค และมีบริบทที่ถูกต้องตามบริบท ไม่ว่าพวกเขาจะพูดภาษาเดียวกันหรือไม่ก็ตาม
+## Purpose and Vision
+In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
 
-ไม่ใช่แค่การแปลคำศัพท์อย่างเข้มงวดเท่านั้น แต่ยังเกี่ยวกับ **การถ่ายทอดความหมาย** Nexus Gaja เชื่อมโยงผู้คนในระดับที่ลึกยิ่งขึ้นโดยการทำความเข้าใจความแตกต่างทางวัฒนธรรม ภูมิภาค และบริบท ดังนั้นจึงทำให้เกิดการสนทนาที่จริงใจและจริงใจ
+It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
 
 ## ความเป็นไปได้และคุณสมบัติ
 - **การสื่อสารมัลติมีเดีย**: ระบบไม่เพียงประมวลผลข้อความเท่านั้น แต่ยังประมวลผลรูปภาพ เสียง และวิดีโอด้วย ช่วยให้สามารถสนทนาได้อย่างเต็มอิ่ม (เช่น การสนทนาทางวิดีโอหรือข้อความเสียง) แบบเรียลไทม์ข้ามอุปสรรคด้านภาษา
@@ -112,41 +112,41 @@ Nexus Gaja ใช้พื้นที่การวิเคราะห์เ
 ### 11. มาตรการป้องกันสามารถเกิดขึ้นได้โดยอัตโนมัติ
 ในกรณีที่เกิดภัยคุกคามที่เป็นรูปธรรม (ตรวจพบภัยคุกคาม → ความมั่นใจสูง → การจำกัดชั่วคราว → การตรวจสอบโดยมนุษย์ → การตัดสินใจ) เราจะปกป้องผู้ใช้ที่ถูกคุกคามโดยไม่เปลี่ยน AI เป็นผู้ตัดสิน
 
-### 12. The AI Must Be Able to Justify Its Decisions
-The DSA requires clear and specific reasons. The AI provides structured reasoning: Rule (NG-CONDUCT-004), Detected (Potential concrete threat), Confidence (0.94), Relevant context (Previous 4 messages), Recommended action (Human review).
+### 12. AI จะต้องสามารถปรับการตัดสินใจของตนได้
+DSA ต้องการเหตุผลที่ชัดเจนและเฉพาะเจาะจง AI ให้เหตุผลเชิงโครงสร้าง: กฎ (NG-CONDUCT-004), ตรวจพบ (ภัยคุกคามที่เป็นรูปธรรมที่อาจเกิดขึ้น), ความเชื่อมั่น (0.94), บริบทที่เกี่ยวข้อง (4 ข้อความก่อนหน้า), การดำเนินการที่แนะนำ (การตรวจสอบโดยมนุษย์)
 
-### 13. AI ต้องไม่แอบแก้ไขเนื้อหา
-**Moderation AI จะต้องไม่เปลี่ยนแปลงเนื้อหาต้นฉบับโดยไม่มีใครสังเกตเห็น** ในระหว่างการแก้ไขอัตโนมัติ การแปล หรือการสรุป ต้นฉบับจะถูกเก็บรักษาไว้เสมอ
+### 13. AI Must Not Secretly Alter Content
+**Moderation AI must never alter the original content unnoticed.** During automatic correction, translation, or summarization, the original is always preserved.
 
 ### 14. เนื้อหาที่สร้างโดย AI
 เราแยกแยะระหว่าง: สร้างขึ้นโดยมนุษย์, ช่วยเหลือด้วย AI, สร้างขึ้นโดย AI และจัดการโดย AI นี่จะกลายเป็นส่วนหนึ่งของข้อมูลเมตาของเนื้อหา
 
-### 15. Labeling of AI Content & AI Provenance Layer
-According to the transparency rules of the EU AI Act (effective August 2026), AI-generated content must be identifiable. We provide an AI Provenance Layer that stores metadata (AI-Origin, Model, Timestamp, Human Review).
+### 15. การติดฉลากเนื้อหา AI และเลเยอร์ AI Provenance
+ตามกฎความโปร่งใสของพระราชบัญญัติ AI ของสหภาพยุโรป (มีผลใช้บังคับในเดือนสิงหาคม 2026) เนื้อหาที่สร้างโดย AI จะต้องสามารถระบุตัวตนได้ เราจัดเตรียม AI Provenance Layer ที่จัดเก็บข้อมูลเมตา (AI-Origin, Model, Timestamp, Human Review)
 
-### 16. การตรวจจับ Deepfake
-สถาปัตยกรรมนี้มีจุดมุ่งหมายเพื่อตรวจจับภาพสังเคราะห์ เสียงโคลน และดีพเฟค อย่างไรก็ตาม การตรวจจับไม่ได้รับการพิสูจน์โดยอัตโนมัติ
+### 16. Deepfake Detection
+The architecture aims to detect synthetic images, cloned voices, and deepfakes. However, detection is not automatically proof.
 
-### 17. ไม่มี "เครื่องจักรความจริง" อัตโนมัติ (การกลั่นกรอง ≠ การตรวจสอบข้อเท็จจริง)
-ระบบหนึ่งจะตรวจสอบ: "เนื้อหาละเมิดกฎหรือไม่" (การกลั่นกรองเนื้อหา) อีกประการหนึ่งระบุว่า: "มีข้อมูลและแหล่งที่มาใดบ้าง" (การให้ความช่วยเหลือด้านข้อมูล) ความคิดเห็นไม่ได้ถูกลบเพียงเพราะว่า "ผิด"
+### 17. No Automatic "Truth Machine" (Moderation ≠ Fact Checking)
+One system checks: "Does the content violate rules?" (Content Moderation), another provides: "What information and sources are available?" (Information Assistance). Opinions are not simply deleted for being "wrong."
 
-### 18. การป้องกันการตีความที่ผิดทางวัฒนธรรม
-AI ต้องการ **แบบจำลองบริบททางวัฒนธรรม** เพื่อป้องกันไม่ให้บรรทัดฐานการสื่อสารของประเทศใดประเทศหนึ่งถูกมองว่าเป็นมาตรฐานระดับโลก
+### 18. Protection Against Cultural Misinterpretation
+The AI requires **Cultural Context Models** to prevent the communication norms of one country from being assumed as a global standard.
 
 ### 19. การประชด การเสียดสี และอารมณ์ขัน
 AI ใช้บริบท อีโมจิ ประวัติการสนทนา และโครงสร้างประชดที่ทราบ แต่ต้องทำให้เกิดความไม่แน่นอนเมื่อความหมายไม่ชัดเจน
 
-### 20. ไม่มีการลงโทษตามคะแนน AI เดียว
-ไม่มีการแทรกแซงการกลั่นกรองที่รุนแรงอาจขึ้นอยู่กับผลลัพธ์การจำแนกประเภทอัตโนมัติเพียงรายการเดียว (ข้อความ + บริบท + พฤติกรรม + ภาษา + สื่อ + เครื่องมือกฎ = การประเมินความเสี่ยง)
+### 20. No Punishment Based on a Single AI Score
+No severe moderation intervention may be based solely on a single automated classification result (Text + Context + Behaviour + Language + Media + Rule Engine = Risk Assessment).
 
-### 21. สัญญาณพฤติกรรมผู้ใช้ & ไม่มีระบบเครดิตทางสังคม
-สิ่งนี้เกี่ยวข้องกับสัญญาณการละเมิดทางเทคนิค (เช่น การโพสต์สแปมจำนวนมาก) ไม่ใช่ระบบการให้คะแนนทางสังคมทั่วไป Nexus Gaja ไม่ได้ดูแลรักษาระบบเครดิตทางสังคม – การกลั่นกรองทำหน้าที่รักษาความปลอดภัย ไม่ใช่การประเมินคุณค่าของบุคคล
+### 21. User Behaviour Signals & No Social Credit System
+This relates to technical abuse signals (e.g., mass spam posting), not a general social rating system. Nexus Gaja does not maintain a Social Credit System – moderation serves security, not the assessment of a person's worth.
 
 ### 22. AI การกลั่นกรองต้องสามารถตรวจสอบได้
 การตัดสินใจอัตโนมัติที่เกี่ยวข้องทั้งหมดจะถูกบันทึกไว้ (Event-ID, Rule-ID, Confidence, Human-Review ฯลฯ) เพื่อให้มั่นใจในการติดตาม
 
-### 23. ผลบวกลวง, ผลลบลวง และตัวชี้วัดคุณภาพ
-มีการตรวจสอบประเภทข้อผิดพลาด แดชบอร์ดจะวัดความแม่นยำ การเรียกคืน และโดยเฉพาะอย่างยิ่ง **อัตราการกลับรายการอุทธรณ์** (จำนวนการอุทธรณ์ที่สำเร็จ)
+### 23. False Positives, False Negatives & Quality Metrics
+Error types are monitored. A dashboard measures Precision, Recall, and especially the **Appeal Reversal Rate** (number of successful appeals).
 
 ### 24. ความเสมอภาคทางภาษาและอคติในการแปล
 คุณภาพการกลั่นกรองจะต้องเทียบเคียงได้ในทุกภาษาที่รองรับ (เกณฑ์มาตรฐานการกลั่นกรองหลายภาษา) หากผลการกลั่นกรองแตกต่างกันระหว่างต้นฉบับและการแปล (ความขัดแย้งในการแปล) จะต้องได้รับการตรวจสอบโดยเฉพาะ
@@ -159,6 +159,158 @@ AI ใช้บริบท อีโมจิ ประวัติการส
 - **NG-AI-MOD-002**: การตัดสินใจกลั่นกรองอัตโนมัติจะต้องตรวจสอบย้อนกลับ บันทึกได้ และตรวจสอบได้
 
 **บทสรุป**: เรากำลังสร้างระบบสี่ขั้นตอน: การตรวจจับ AI, การวิเคราะห์บริบทและความเสี่ยง, กลไกขับเคลื่อนนโยบาย และธรรมาภิบาลของมนุษย์ ช่วยให้เกิดระบบอัตโนมัติที่แข็งแกร่งโดยไม่ต้องสร้างสถาปัตยกรรม "AI as Judge" ที่เป็นอันตราย
+
+## หลักการทางการเงินและรูปแบบรายได้ (WP 1.10.1)
+
+สำหรับ Nexus Gaja จะใช้หลักการทางเศรษฐกิจที่สำคัญอย่างยิ่ง: **ไม่มีการโฆษณาแบบดั้งเดิมภายในแพลตฟอร์ม**
+สิ่งนี้ทำให้ Nexus Gaja แตกต่างจากเครือข่ายโซเชียลต่างๆ ในปัจจุบันโดยพื้นฐาน อย่างไรก็ตาม นี่ไม่ได้หมายความว่า Nexus Gaja จะไม่สามารถมีลักษณะเชิงพาณิชย์ได้ ในทางตรงกันข้าม แพลตฟอร์มดังกล่าวจะต้องสามารถดำเนินไปได้ในเชิงเศรษฐกิจเพื่อให้วัตถุประสงค์ทางสังคมสามารถดำรงอยู่ได้ กิจกรรมทางเศรษฐกิจเป็นช่องทางในการยุติ ไม่ใช่วัตถุประสงค์หลักของแพลตฟอร์ม
+
+### 1. หลักการ NG-FIN-001
+Nexus Gaja จัดหาเงินทุนให้กับการดำเนินงานผ่านแหล่งรายได้ที่โปร่งใสแยกออกจากความสนใจของผู้ใช้ และไม่ผ่านการสร้างรายได้จากความสนใจหรือข้อมูลส่วนบุคคลของผู้ใช้
+
+### 2. ไม่มีการโฆษณาแบบดั้งเดิม
+ห้ามโดยเฉพาะคือ:
+- โฆษณาแบนเนอร์
+- โฆษณาป๊อปอัป
+- โฆษณาวิดีโอที่เล่นอัตโนมัติ
+- โพสต์ที่ได้รับการสนับสนุนในฟีดมาตรฐาน
+- โปรไฟล์โฆษณาส่วนบุคคล
+- การขายโปรไฟล์ผู้ใช้หรือข้อมูลส่วนบุคคล
+- การโฆษณาที่ได้มาจากการสนทนาส่วนตัว
+
+Nexus Gaja ยังคงเป็น **พื้นที่การสื่อสารมากกว่าพื้นที่โฆษณา**
+
+### 3. การจัดหาเงินทุนโดยไม่ต้องโฆษณา (6 เสาหลัก)
+การจัดหาเงินทุนตั้งอยู่บนเสาหลัก 6 ประการ:
+```ข้อความ
+                 เน็กซัส กาจา
+                     │
+       ┌─────────────┼─────────────┐
+       ▼ ▼ ▼
+   การบริจาคองค์กรระดับพรีเมียม
+       │ │ │
+       ├─────────────┼─────────────┤
+       ▼ ▼ ▼
+    มอบบริการแก่พันธมิตร
+```
+
+#### เสา 1 – สมาชิกขั้นพื้นฐานฟรี
+**Nexus Gaja Free** ช่วยให้ทุกคนสามารถทำความเข้าใจขั้นพื้นฐานในระดับสากล (โปรไฟล์ การสื่อสารระหว่างประเทศ โพสต์ ชุมชน แชท การแปลขั้นพื้นฐาน) โดยไม่มีค่าใช้จ่าย
+
+#### เสา 2 – ข้อเสนอระดับพรีเมียม
+ข้อเสนอแบบชำระเงินโดยสมัครใจ (**Nexus Gaja Plus**) มอบขีดจำกัดพื้นที่เก็บข้อมูลที่มากขึ้น คุณภาพสื่อที่สูงขึ้น โควต้า AI ที่ขยาย และฟีเจอร์ขององค์กร
+**สำคัญ (Freemium แทนที่จะเป็น Dark Freemium):** การสื่อสารขั้นพื้นฐานจะต้องไม่ถูกลดระดับลงโดยไม่ได้ตั้งใจ
+
+#### Pillar 3 – Organizations
+Special accounts for schools, universities, NGOs, businesses, and municipalities (**Nexus Gaja Organization**). Schools can be supported via institutional rates as multipliers of international understanding.
+
+#### เสาหลัก 4 – การบริจาค
+**กลุ่มเงินทุน Nexus Gaja** ยอมรับการบริจาคทั่วไปและจัดสรรไว้ (เช่น "เพื่อการสื่อสารของเยาวชนในระดับนานาชาติ") **บัญชีแยกประเภทการจัดสรรกองทุน** ช่วยให้มั่นใจได้ถึงการจัดสรรเงินทุนอย่างโปร่งใส
+**กองทุนวัตถุประสงค์และทอมโบลา:** ส่วนหนึ่งของการบริจาคจะนำไปบริจาคเพื่อใช้ฟรี/มีส่วนลด กลไกลอตเตอรี/ทอมโบลาสามารถจัดสรรเงินเหล่านี้ได้อย่างโปร่งใสและตรวจสอบได้
+
+#### Pillar 5 – Institutional Funding
+Foundations, cultural funding programs, or state programs.
+**NG-FIN-002:** Financial support does not buy editorial or technical control (Independence).
+
+#### เสาหลัก 6 – บริการเชิงพาณิชย์
+บริการ B2B เช่น **การแปลตามบริการ** (API) การสื่อสารในองค์กร หรือห้องประชุมนานาชาติ โดยไม่กระทบต่อฟีดผู้ใช้มาตรฐาน
+
+### 4. No Data Monetization & Surveillance Economy
+**NG-FIN-003:** Personal user data is not a commodity. No sale of lists, profiles, or histories. Nexus Gaja does not profit from psychological surveillance (Surveillance Economy).
+
+### 5. ความโปร่งใสทางการเงินและบัญชีแยกประเภทกองทุน
+**ความโปร่งใสทางการเงินของ Nexus Gaja:** การเผยแพร่โครงสร้างทางการเงินแบบรวม การบริจาคที่ได้รับการจัดสรรจะได้รับการบัญชีทางเทคนิค (รหัสกองทุน → วัตถุประสงค์ → ยอดคงเหลือ → การจัดสรร) ไม่มีการอุดหนุนข้ามวัตถุประสงค์ทางสังคมไปสู่การตลาดขององค์กร
+
+### 6. รูปแบบการจัดหาเงินทุนที่ยึดหลักความสามัคคี
+การกำหนดราคาขึ้นอยู่กับการวางแนวต้นทุน ความเป็นธรรม และความสามัคคี
+**Solidarity Premium:** ตัวเลือกโดยสมัครใจสำหรับผู้ใช้ Premium เพื่อเป็นเงินทุนส่วนหนึ่งของการเข้าถึงของผู้ใช้รายอื่น การบังคับเป็นน้ำหนึ่งใจเดียวกันหรือสังคมชนชั้นพรีเมี่ยม (การให้ความเคารพ/การกลั่นกรองสำหรับผู้ใช้ฟรี) เป็นสิ่งต้องห้ามโดยเด็ดขาด
+
+### 7. KPI ทางเศรษฐกิจแทนการมีส่วนร่วมของเศรษฐกิจ
+ไม่มีการพึ่งพาการทำให้ผู้ใช้ "ออนไลน์นานที่สุด" (ไม่มี ragebait ฟีดที่ไม่มีที่สิ้นสุด)
+แต่เราใช้หน่วยวัดเช่น:
+- **ดัชนีการสื่อสารทั่วโลก (GCI):** ความสัมพันธ์ในการสื่อสารที่ประสบความสำเร็จระหว่างผู้คนจากภูมิภาคภาษา/วัฒนธรรมที่แตกต่างกัน
+- **อัตราส่วนความยั่งยืนของแพลตฟอร์ม (PSR):** รายได้ที่เกิดขึ้นประจำ / ต้นทุนการดำเนินงานที่เกิดซ้ำ (เป้าหมาย ≥ 1)
+
+### 8. สิ่งที่เราไม่ต้องการอย่างชัดเจน (รายการเชิงลบ)
+Nexus Gaja **ไม่** ได้รับทุนจาก:
+❌ การขายข้อมูลส่วนบุคคล
+❌ การโฆษณาแบบดั้งเดิมส่วนบุคคล
+❌ ติดตามพฤติกรรมผู้ใช้เพื่อการโฆษณา
+❌ การขายข้อมูลการสื่อสารส่วนตัว
+❌ การใช้ข้อมูล AI ที่ซ่อนอยู่
+❌ เพย์วอลล์พรีเมียมที่บิดเบือน
+❌ ข้อ จำกัด การเข้าถึงปลอมสำหรับการสร้างรายได้
+❌อิทธิพลทางการเมืองแบบเสียเงิน
+❌ ซื้อการตัดสินใจกลั่นกรองที่มีสิทธิพิเศษ
+
+### 9. สถาปัตยกรรมทางการเงินเบื้องต้น
+```ข้อความ
+                         เน็กซัส กาจา
+                              │
+             ┌────────────────┼────────────────┐
+             │ │ │
+             ▼ ▼ ▼
+          องค์กรผู้ใช้ในองค์กร
+             │ │ │
+             └────────────────┼────────────────┘
+                              │
+                       บริการแพลตฟอร์ม
+                              │
+          ┌───────────────────┼───────────────────┐
+          ▼ ▼ ▼
+       API การบริจาคระดับพรีเมียม
+                              │
+                    ┌─────────┴─────────┐
+                    ▼ ▼
+               กองทุนทั่วไป กองทุนจำกัด
+                                        │
+                                        ▼
+                                  วัตถุประสงค์ทางสังคม
+```
+
+### สรุปหลักการทางการเงิน (NG-FIN)
+- **NG-FIN-001:** ไม่มีการจัดหาเงินทุนผ่านการโฆษณาแบบเดิมๆ
+- **NG-FIN-002:** ไม่มีการควบคุมด้านบรรณาธิการ/ด้านเทคนิคผ่านการสนับสนุนทางการเงิน
+- **NG-FIN-003:** ข้อมูลส่วนบุคคลไม่ใช่สินค้า
+- **NG-FIN-004:** การสื่อสารขั้นพื้นฐานยังคงเข้าถึงได้โดยไม่ต้องชำระเงิน
+- **NG-FIN-005:** ข้อเสนอระดับพรีเมียมจะต้องไม่ลดระดับผู้ใช้ฟรี
+- **NG-FIN-006:** กองทุนที่ได้รับการจัดสรรจะได้รับการจัดการตามวัตถุประสงค์
+- **NG-FIN-007:** การจัดการการบริจาคและเงินช่วยเหลืออย่างโปร่งใส
+- **NG-FIN-008:** บริการ B2B เชิงพาณิชย์ไม่กระทบต่อความเป็นอิสระ
+- **NG-FIN-009:** มุ่งเน้นไปที่ความยั่งยืนมากกว่าการสร้างรายได้สูงสุด
+- **NG-FIN-010:** โครงสร้างจะยึดวัตถุประสงค์ทางสังคมอย่างถาวร
+
+## API อินเทอร์เฟซ และสถาปัตยกรรมการสื่อสาร (WP 1.11.3)
+
+เพื่อให้มั่นใจถึงความเสถียรของระบบ ความปลอดภัย และความสามารถในการปรับขนาด Nexus Gaja ปฏิบัติตามสถาปัตยกรรมที่เน้น API และขับเคลื่อนตามเหตุการณ์เป็นหลักอย่างเคร่งครัด
+
+### Core Principles
+- **No Direct Database Access:** Components communicate exclusively via defined interfaces (APIs or Events), never through direct database queries of other services.
+- **API Gateway:** All external client requests route through an API Gateway handling authentication, routing, and rate limiting.
+- **Provider Abstraction:** External services (AI models, payment providers, translation engines) are integrated via abstraction layers, avoiding hardcoded dependencies and enabling flexible provider swapping.
+
+### Communication Patterns
+- **Synchronous APIs (REST/HTTPS):** Used for immediate requests like login, profile settings, or direct translations.
+- **Asynchronous Events (Event Bus):** The central nervous system of Nexus Gaja for delayed, decoupled processing (e.g., `Message.Created` triggering Moderation, Translation, and Notification asynchronously).
+- **Realtime (WebSocket):** Dedicated channels for live chat and typing indicators.
+
+### Security and Reliability
+- **Zero-Trust Model:** Internal network traffic is not automatically trusted; sensitive service-to-service communication requires authentication.
+- **Idempotency & Outbox Pattern:** Critical operations (like donations or messaging) are designed to be idempotent to prevent duplicate processing, utilizing the Outbox pattern to ensure events are never lost even during database transactions.
+
+## MVP Domain Model (WP 1.12)
+
+Nexus Gaja employs a strictly Domain-Driven MVP Architecture (ADR-025), designed as a modular monolith with clear domain boundaries. This structure prevents premature microservice complexity while retaining the flexibility to split out specific domains later.
+
+### เอนทิตีโดเมนหลัก
+สถาปัตยกรรมแยกแนวคิดที่แตกต่างกันอย่างชัดเจนเพื่อให้มั่นใจในความสมบูรณ์ของข้อมูล และหลีกเลี่ยงข้อผิดพลาดทางโครงสร้าง เช่น "ชื่อผู้ใช้ = มนุษย์":
+- **ข้อมูลประจำตัวและบัญชี:** `บุคคล` ≠ `บัญชีผู้ใช้` ≠ `การยืนยันตัวตน` บุคคลที่ได้รับการยืนยันเข้าร่วมผ่านบัญชี แต่นิติบุคคลยังคงแยกจากกัน
+- **การสื่อสาร:** `ข้อความ` ≠ `การแปล` ข้อความต้นฉบับยังคงไม่เปลี่ยนรูป การแปลเป็นเอนทิตีที่เชื่อมโยง
+- **การกลั่นกรอง:** `รายงาน` ≠ `การตัดสินใจในการกลั่นกรอง` รายงานเป็นเพียงข้อเรียกร้อง กรณีกลั่นกรองดำเนินการสอบสวน
+- **การเงิน:** `การบริจาค` ≠ `ยอดคงเหลือในกองทุน` การชำระเงินจะถูกบันทึกผ่านบัญชีแยกประเภทที่ไม่เปลี่ยนรูปแบบไปยังกองทุน เพื่อให้มั่นใจถึงความโปร่งใสทางการเงิน
+
+### โดเมนที่เชื่อมต่อถึงกัน
+ระบบถูกแบ่งออกเป็นโดเมนตรรกะที่ชัดเจน (บริบทที่ถูกผูกไว้): อัตลักษณ์ บัญชี องค์กร การสื่อสาร ชุมชน ภาษา การกลั่นกรอง การแจ้งเตือน การเงิน และการกำกับดูแล โดเมนเหล่านี้เชื่อมโยงการเดินทางทั้งหมดจากหน่วยงานในโลกแห่งความเป็นจริง (ผู้ใช้ โรงเรียน องค์กรพัฒนาเอกชน) ไปจนถึงการโต้ตอบทางดิจิทัลและการกำกับดูแลที่เกี่ยวข้อง
 
 ## สถานะโครงการ
 ขณะนี้โครงการอยู่ในขั้นตอนการวางแผนและสถาปัตยกรรมที่ใช้งานอยู่

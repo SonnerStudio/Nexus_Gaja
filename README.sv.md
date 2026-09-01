@@ -9,17 +9,17 @@
 
 </details>
 
-**Nexus Gaja** is an intelligent, context-sensitive communication network designed to revolutionize global communication.
+**Nexus Gaja** är ett intelligent, sammanhangskänsligt kommunikationsnätverk designat för att revolutionera global kommunikation.
 
-## Purpose and Vision
-In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
+## Syfte och vision
+I en globaliserad värld är språket ofta den största barriären. Huvudmålet med Nexus Gaja är att möjliggöra sömlös, barriärfri och kontextuellt korrekt kommunikation mellan människor – oavsett om de talar ett gemensamt språk.
 
 Det handlar inte bara om att stelbent översätta ord, utan om att **överföra betydelse**. Nexus Gaja förbinder människor på en djupare nivå genom att förstå kulturella, regionala och kontextuella nyanser, vilket möjliggör genuina, autentiska konversationer.
 
-## Possibilities and Features
-- **Multimedia Communication**: The system processes not just text, but also image, audio, and video. This allows for fully immersive conversations (e.g., video calls or voice messages) in real-time across language barriers.
-- **Context Sensitivity**: Recognition of irony, idioms, jargon, and regional dialects that are often misunderstood by conventional translators.
-- **Cross-Platform Network**: Serves as a foundation for private chats, forum threads (posts with comments), and global community interactions.
+## Möjligheter och funktioner
+- **Multimediakommunikation**: Systemet bearbetar inte bara text utan även bild, ljud och video. Detta möjliggör helt uppslukande konversationer (t.ex. videosamtal eller röstmeddelanden) i realtid över språkbarriärer.
+- **Kontextkänslighet**: Erkännande av ironi, idiom, jargong och regionala dialekter som ofta missförstås av konventionella översättare.
+- **Cross-Platform Network**: Fungerar som en grund för privata chattar, forumtrådar (inlägg med kommentarer) och globala gemenskapsinteraktioner.
 
 ---
 
@@ -112,8 +112,8 @@ Om AI:n är osäker (t.ex. Hot: 0,62, Satir: 0,54), får den inte bara genomdriv
 ### 11. Skyddsåtgärder kan ske automatiskt
 I händelse av ett konkret hot (Hot upptäckt → Högt förtroende → Tillfällig begränsning → Mänsklig granskning → Beslut) skyddar vi den hotade användaren utan att förvandla AI:n till en domare.
 
-### 12. AI:n måste kunna motivera sina beslut
-DSA kräver tydliga och specifika skäl. AI:n ger strukturerade resonemang: Regel (NG-CONDUCT-004), Upptäckt (potentiellt konkret hot), Förtroende (0,94), Relevant sammanhang (Tidigare 4 meddelanden), Rekommenderad åtgärd (Humanöversyn).
+### 12. The AI Must Be Able to Justify Its Decisions
+The DSA requires clear and specific reasons. The AI provides structured reasoning: Rule (NG-CONDUCT-004), Detected (Potential concrete threat), Confidence (0.94), Relevant context (Previous 4 messages), Recommended action (Human review).
 
 ### 13. AI får inte ändra innehåll i hemlighet
 **Moderation AI får aldrig ändra det ursprungliga innehållet obemärkt.** Under automatisk korrigering, översättning eller sammanfattning bevaras originalet alltid.
@@ -159,6 +159,158 @@ Regler (Policy Engine) är inte hårdkodade i AI-modellerna. AI ger resultat; Po
 - **NG-AI-MOD-002**: Automatiserade modereringsbeslut måste vara spårbara, loggbara och verifierbara.
 
 **Sammanfattning**: Vi bygger ett system i fyra steg: AI-detektion, kontext- och riskanalys, policymotor och mänsklig styrning. Detta möjliggör stark automatisering utan att skapa en farlig "AI as Judge"-arkitektur.
+
+## Finansieringsprinciper och intäktsmodell (WP 1.10.1)
+
+För Nexus Gaja gäller en mycket viktig ekonomisk princip: **Ingen traditionell reklam inom plattformen.**
+Detta skiljer Nexus Gaja i grunden från många av dagens sociala nätverk. Det betyder dock inte att Nexus Gaja inte kan ha en kommersiell karaktär. Tvärtom måste plattformen vara ekonomiskt gångbar så att dess sociala syfte kan bestå. Ekonomisk aktivitet är ett medel för att uppnå ett mål, inte det primära syftet med plattformen.
+
+### 1. Princip NG-FIN-001
+Nexus Gaja finansierar sin verksamhet genom transparenta intäktsströmmar separerade från användarintressen, och inte genom att tjäna pengar på användarnas uppmärksamhet eller personliga data.
+
+### 2. Ingen traditionell reklam
+Specifikt förbjudna är:
+- Bannerannonser
+- Popup-annonser
+- Videoannonser som spelas upp automatiskt
+- Sponsrade inlägg i standardflödet
+- Personliga annonsprofiler
+- Försäljning av användarprofiler eller personuppgifter
+- Reklam härrör från privata samtal.
+
+Nexus Gaja förblir ett **kommunikationsutrymme snarare än ett reklamutrymme**.
+
+### 3. Finansiering utan reklam (de 6 pelarna)
+Finansieringen bygger på sex pelare:
+```text
+                 NEXUS GAJA
+                     │
+       ┌─────────────┼─────────────┐
+       ▼ ▼ ▼
+   PREMIUM ORGANISATION DONATIONER
+       │ │ │
+       ├─────────────┼─────────────┤
+       ▼ ▼ ▼
+    BIDRAR PARTNERSKAP TJÄNSTER
+```
+
+#### Pelare 1 – Gratis grundläggande medlemskap
+**Nexus Gaja Free** möjliggör grundläggande internationell förståelse för alla (profiler, internationell kommunikation, inlägg, gemenskaper, chattar, grundläggande översättning) utan kostnad.
+
+#### Pelare 2 – Premiumerbjudanden
+Frivilliga betalda erbjudanden (**Nexus Gaja Plus**) som ger större lagringsgränser, högre mediekvalitet, utökade AI-kvoter och organisatoriska funktioner.
+**Viktigt (Freemium istället för Dark Freemium):** Grundläggande kommunikation får aldrig försämras på konstgjord väg.
+
+#### Pelare 3 – Organisationer
+Särskilda konton för skolor, universitet, icke-statliga organisationer, företag och kommuner (**Nexus Gaja Organization**). Skolor kan få stöd via institutionella priser som multiplikatorer av internationell förståelse.
+
+#### Pelare 4 – Donationer
+**Nexus Gaja Funding Pool** tar emot allmänna och öronmärkta donationer (t.ex. "för internationell ungdomskommunikation"). En **Fondsallokeringsreskontra** säkerställer en transparent allokering av medel.
+**Purpose Fund & Tombola:** En del av donationerna matar en pool för gratis/rabatterad användning. En lotteri-/tombolamekanism kan fördela dessa medel på ett transparent och auditibelt sätt.
+
+#### Pelare 5 – Institutionell finansiering
+Stiftelser, kulturfinansieringsprogram eller statliga program.
+**NG-FIN-002:** Ekonomiskt stöd köper inte redaktionell eller teknisk kontroll (Oberoende).
+
+#### Pelare 6 – Kommersiella tjänster
+B2B-tjänster som **Translation-as-a-Service** (API), organisationskommunikation eller internationella konferensrum, utan att belasta standardanvändarflödet.
+
+### 4. Ingen datainkomst och övervakningsekonomi
+**NG-FIN-003:** Personlig användardata är inte en handelsvara. Ingen försäljning av listor, profiler eller historier. Nexus Gaja tjänar inte på psykologisk övervakning (Surveillance Economy).
+
+### 5. Finansiell insyn och fondbok
+**Nexus Gaja Financial Transparency:** Publicering av aggregerade finansiella strukturer. Öronmärkta donationer får teknisk redovisning (Fond-ID → Syfte → Saldo → Allokering). Ingen korssubventionering av sociala ändamål till företagsmarknadsföring.
+
+### 6. Solidaritetsbaserad finansieringsmodell
+Prissättningen baseras på kostnadsorientering, rättvisa och solidaritet.
+**Solidarity Premium:** Ett frivilligt alternativ för Premium-användare att finansiera en del av en annan användares åtkomst. Påtvingad solidaritet eller ett premiumklasssamhälle (mindre respekt/måttfullhet för fria användare) är strängt förbjudet.
+
+### 7. Ekonomiska nyckeltal istället för engagemangsekonomi
+Inget beroende av att hålla användarna "online så länge som möjligt" (ingen ragebait, oändliga flöden).
+Istället använder vi statistik som:
+- **Global Communication Index (GCI):** Framgångsrika kommunikationsrelationer mellan människor från olika språkliga/kulturella regioner.
+- **Platform Sustainability Ratio (PSR):** Återkommande intäkter / återkommande driftskostnader (Mål ≥ 1).
+
+### 8. Vad vi uttryckligen inte vill ha (negativ lista)
+Nexus Gaja finansieras **inte** av:
+❌ Försäljning av personuppgifter
+❌ Personlig traditionell reklam
+❌ Övervaka användarbeteende i reklamsyfte
+❌ Försäljning av privat kommunikationsdata
+❌ Dold AI-dataanvändning
+❌ Manipulativa Premium-betalväggar
+❌ Artificiell räckviddsbegränsning för intäktsgenerering
+❌ Betalt politiskt inflytande
+❌ Köp av privilegierade modereringsbeslut.
+
+### 9. Preliminär finansiell arkitektur
+```text
+                         NEXUS GAJA
+                              │
+             ┌────────────────┼──────────────
+             │ │ │
+             ▼ ▼ ▼
+          ANVÄNDARORGANISATIONER FÖRETAG
+             │ │ │
+             └────────────────┼──────────────
+                              │
+                       PLATTFORMTJÄNSTER
+                              │
+          ┌─────────────────── ┼───────────────────┐
+          ▼ ▼ ▼
+       PREMIUM DONATIONS API
+                              │
+                    ┌─────────┴─────────┐
+                    ▼ ▼
+               ALLMÄNNA FONDBEGRÄNSADE MEDEL
+                                        │
+                                        ▼
+                                  SOCIALT SYFTE
+```
+
+### Sammanfattning av finansieringsprinciper (NG-FIN)
+- **NG-FIN-001:** Ingen finansiering genom traditionell reklam.
+- **NG-FIN-002:** Ingen redaktionell/teknisk kontroll genom ekonomiskt stöd.
+- **NG-FIN-003:** Personuppgifter är inte en handelsvara.
+- **NG-FIN-004:** Grundläggande kommunikation förblir tillgänglig utan betalning.
+- **NG-FIN-005:** Premiumerbjudanden får inte försämra gratisanvändare.
+- **NG-FIN-006:** Öronmärkta medel förvaltas enligt deras syfte.
+- **NG-FIN-007:** Transparent hantering av donationer och bidrag.
+- **NG-FIN-008:** Kommersiella B2B-tjänster äventyrar inte oberoendet.
+- **NG-FIN-009:** Fokusera på hållbarhet snarare än maximal intäktsgenerering.
+- **NG-FIN-010:** Strukturen säkrar permanent det sociala syftet.
+
+## API, gränssnitt och kommunikationsarkitektur (WP 1.11.3)
+
+För att säkerställa systemstabilitet, säkerhet och skalbarhet följer Nexus Gaja en strikt API-först och händelsedriven arkitektur.
+
+### Kärnprinciper
+- **Ingen direkt databasåtkomst:** Komponenter kommunicerar uteslutande via definierade gränssnitt (API eller händelser), aldrig genom direkta databasfrågor från andra tjänster.
+- **API Gateway:** Alla externa klientförfrågningar dirigeras genom en API Gateway som hanterar autentisering, routing och hastighetsbegränsning.
+- **Provider Abstraction:** Externa tjänster (AI-modeller, betalningsleverantörer, översättningsmotorer) är integrerade via abstraktionslager, vilket undviker hårdkodade beroenden och möjliggör flexibelt leverantörsbyte.
+
+### Communication Patterns
+- **Synchronous APIs (REST/HTTPS):** Used for immediate requests like login, profile settings, or direct translations.
+- **Asynchronous Events (Event Bus):** The central nervous system of Nexus Gaja for delayed, decoupled processing (e.g., `Message.Created` triggering Moderation, Translation, and Notification asynchronously).
+- **Realtime (WebSocket):** Dedicated channels for live chat and typing indicators.
+
+### Säkerhet och tillförlitlighet
+- **Zero-Trust Model:** Intern nätverkstrafik är inte automatiskt betrodd; känslig tjänst-till-tjänst-kommunikation kräver autentisering.
+- **Idempotens och utkorgsmönster:** Kritiska operationer (som donationer eller meddelanden) är utformade för att vara idempotenta för att förhindra dubbelbearbetning, genom att använda utkorgsmönstret för att säkerställa att händelser aldrig går förlorade även under databastransaktioner.
+
+## MVP-domänmodell (WP 1.12)
+
+Nexus Gaja använder en strikt domändriven MVP-arkitektur (ADR-025), designad som en modulär monolit med tydliga domängränser. Denna struktur förhindrar för tidig mikrotjänstkomplexitet samtidigt som den behåller flexibiliteten att dela upp specifika domäner senare.
+
+### Core Domain Entities
+The architecture explicitly separates distinct concepts to ensure data integrity and avoid structural pitfalls like "Username = Human":
+- **Identity & Accounts:** `Person` ≠ `User Account` ≠ `Identity Verification`. A verified person participates via an account, but the entities remain separate.
+- **Communication:** `Message` ≠ `Translation`. The original message remains immutable; translations are linked entities.
+- **Moderation:** `Report` ≠ `Moderation Decision`. A report is merely a claim; a moderation case conducts the investigation.
+- **Finances:** `Donation` ≠ `Fund Balance`. Payments are booked via an immutable ledger to a fund, ensuring financial transparency.
+
+### Sammankopplade domäner
+Systemet är uppdelat i tydliga logiska domäner (Bounded Contexts): Identitet, Konto, Organisation, Kommunikation, Gemenskap, Språk, Moderering, Notifiering, Ekonomi och Styrning. Dessa domäner kartlägger hela resan från verkliga enheter (användare, skolor, icke-statliga organisationer) till deras digitala interaktioner och relaterade styrning.
 
 ## Projektstatus
 Projektet befinner sig för närvarande i den aktiva arkitektur- och planeringsfasen.
