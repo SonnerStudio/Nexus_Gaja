@@ -2,6 +2,8 @@
 
 ![নেক্সাস গাজা লোগো](assets/logo.jpg)
 
+![নেক্সাস গাজা হিরো](assets/img/nexus_hero.jpg)
+
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
 
@@ -11,19 +13,24 @@
 
 **নেক্সাস গাজা** একটি বুদ্ধিমান, প্রসঙ্গ-সংবেদনশীল যোগাযোগ নেটওয়ার্ক যা বৈশ্বিক যোগাযোগে বিপ্লব ঘটানোর জন্য ডিজাইন করা হয়েছে।
 
-## উদ্দেশ্য এবং দৃষ্টি
-বিশ্বায়িত বিশ্বে, ভাষা প্রায়শই সবচেয়ে বড় বাধা। Nexus Gaja-এর প্রধান লক্ষ্য হল মানুষের মধ্যে নির্বিঘ্ন, বাধা-মুক্ত, এবং প্রাসঙ্গিকভাবে সঠিক যোগাযোগ সক্ষম করা—তারা একটি সাধারণ ভাষায় কথা বলুক না কেন।
+## Purpose and Vision
 
-এটি শুধুমাত্র কঠোরভাবে শব্দ অনুবাদ করার বিষয়ে নয়, কিন্তু **অর্থ স্থানান্তর** সম্পর্কে। Nexus Gaja সাংস্কৃতিক, আঞ্চলিক এবং প্রাসঙ্গিক সূক্ষ্মতা বোঝার মাধ্যমে মানুষকে গভীর স্তরে সংযুক্ত করে, যার ফলে প্রকৃত, খাঁটি কথোপকথন সক্ষম হয়।
+![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
 
-## সম্ভাবনা এবং বৈশিষ্ট্য
-- **মাল্টিমিডিয়া কমিউনিকেশন**: সিস্টেমটি শুধু টেক্সট নয়, ইমেজ, অডিও এবং ভিডিও প্রসেস করে। এটি ভাষার বাধা পেরিয়ে রিয়েল-টাইমে সম্পূর্ণ নিমজ্জিত কথোপকথনের (যেমন, ভিডিও কল বা ভয়েস বার্তা) অনুমতি দেয়।
-- **প্রসঙ্গ সংবেদনশীলতা**: বিড়ম্বনা, বাগধারা, শব্দবাক্য এবং আঞ্চলিক উপভাষাগুলির স্বীকৃতি যা প্রায়শই প্রচলিত অনুবাদকদের দ্বারা ভুল বোঝা যায়।
-- **ক্রস-প্ল্যাটফর্ম নেটওয়ার্ক**: ব্যক্তিগত চ্যাট, ফোরাম থ্রেড (মন্তব্য সহ পোস্ট) এবং বিশ্ব সম্প্রদায়ের মিথস্ক্রিয়াগুলির ভিত্তি হিসাবে কাজ করে৷
+In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
+
+It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
+
+## Possibilities and Features
+- **Multimedia Communication**: The system processes not just text, but also image, audio, and video. This allows for fully immersive conversations (e.g., video calls or voice messages) in real-time across language barriers.
+- **Context Sensitivity**: Recognition of irony, idioms, jargon, and regional dialects that are often misunderstood by conventional translators.
+- **Cross-Platform Network**: Serves as a foundation for private chats, forum threads (posts with comments), and global community interactions.
 
 ---
 
 ## প্রযুক্তিগত স্থাপত্য (মূল ধারণা)
+
+![নেক্সাস গাজা অনুবাদ ধারণা](assets/img/nexus_translation.jpg)
 
 নেক্সাস গাজার প্রযুক্তিগত মূল একটি কাস্টম-নির্মিত যোগাযোগ মডেল যা কঠোরভাবে তিনটি স্তরে বিভক্ত:
 
@@ -40,16 +47,18 @@
 
 ## AI-সহায়তা সংযম (WP 1.8.4)
 
+![নেক্সাস গাজা এআই মডারেশন](assets/img/nexus_moderation.jpg)
+
 এআই-সহায়তা মডারেশনের সাথে, আমরা বর্তমান ইইউ প্রবিধান (আর্ট 50 এর অধীনে EU AI আইনের স্বচ্ছতার প্রয়োজনীয়তা; বোধগম্য ন্যায্যতা এবং আপিলের বিকল্প সহ ডিজিটাল পরিষেবা আইন) বিবেচনায় রেখে পণ্য ধারণা থেকে প্রযুক্তিগত স্থাপত্যে একটি গুরুত্বপূর্ণ পদক্ষেপ নিচ্ছি।
 
-### 1. মৌলিক নীতি
-আর্কিটেকচারের জন্য সবচেয়ে গুরুত্বপূর্ণ বাক্যটি হল: **মডারেশন এআই একটি রিভিউ সিস্টেম, একটি স্বায়ত্তশাসিত শাসন ব্যবস্থা নয়।**
-এটি মানুষকে পরিমিতভাবে সহায়তা করার জন্য ডিজাইন করা হয়েছে, নেক্সাস গাজা-তে কোন মতামত থাকতে পারে তা নির্ধারণ করার জন্য নয়।
-আমরা তিনটি স্তরের মধ্যে পার্থক্য করি:
-- **শনাক্তকরণ:** "এখানে একটি নিয়ম লঙ্ঘন হতে পারে।"
-- **মূল্যায়ন:** "একটি নিয়ম লঙ্ঘনের সম্ভাবনা, উদাহরণস্বরূপ, 94%।"
-- **সিদ্ধান্ত:** "আসলে কি ব্যবস্থা নেওয়া হয়েছে?"
-তৃতীয় স্তরটি গুরুতর ক্ষেত্রে একজন মানুষের দ্বারা নিয়ন্ত্রিত হতে হবে।
+### 1. Basic Principle
+The most important sentence for the architecture is: **The moderation AI is a review system, not an autonomous ruling system.**
+It is designed to assist humans in moderation, not to determine itself which opinions are allowed to exist on Nexus Gaja.
+We differentiate between three levels:
+- **Detection:** "There could be a rule violation here."
+- **Evaluation:** "The probability of a rule violation is, for example, 94%."
+- **Decision:** "What action is actually taken?"
+The third level must be controlled by a human in severe cases.
 
 ### 2. একটি সাবসিস্টেম হিসাবে মডারেশন এআই
 একটি একক AI এর পরিবর্তে, একটি শক্তিশালী সাবসিস্টেম প্রতিষ্ঠিত হয়েছে:
@@ -73,26 +82,26 @@
                হিউম্যান রিভিউ
 ```
 
-### 3. সবচেয়ে গুরুত্বপূর্ণ AI মডিউল
-নেক্সাস গাজা নয়টি বিশেষ বিশ্লেষণ ক্ষেত্র ব্যবহার করে:
-- **M1 – ভাষা বোঝা**: ভাষা, উপভাষা, অপবাদ, বিদ্রুপ নির্দেশক, অনুবাদ সমস্যা সনাক্ত করে।
-- **M2 - বিষাক্ততা / অপব্যবহার সনাক্তকরণ**: অপমান, ব্যক্তিগত আক্রমণ, হয়রানি সনাক্ত করে।
-- **M3 - হুমকি সনাক্তকরণ**: সম্ভাব্য হুমকি, ব্ল্যাকমেইল, সহিংস ঘোষণা সনাক্ত করে।
-- **M4 - ঘৃণা / অমানবিককরণ সনাক্তকরণ**: নির্দিষ্ট সংযুক্তির উপর ভিত্তি করে লোকেদের উপর লক্ষ্যবস্তু আক্রমণ সনাক্ত করে।
-- **M5 - স্প্যাম / ম্যানিপুলেশন সনাক্তকরণ**: স্প্যাম, বট আচরণ, সমন্বিত ম্যানিপুলেশন সনাক্ত করে।
-- **M6 – জালিয়াতি সনাক্তকরণ**: সন্দেহজনক জালিয়াতির প্রচেষ্টা, ফিশিং, সোশ্যাল ইঞ্জিনিয়ারিং সনাক্ত করে৷
-- **M7 - আইডেন্টিটি ইন্টিগ্রিটি**: অ্যাকাউন্ট টেকওভার, একাধিক অ্যাকাউন্ট, নিষেধাজ্ঞা ফাঁকি সংক্রান্ত সংকেত চেক করে।
-- **M8 – মিডিয়া নিরাপত্তা**: ছবি, অডিও, ভিডিও, নথি বিশ্লেষণ করে।
-- **M9 - প্রসঙ্গ ইঞ্জিন**: সবচেয়ে গুরুত্বপূর্ণ মডিউল। এটি পৃথক অনুসন্ধানগুলিকে একত্রিত করে।
+### 3. The Most Important AI Modules
+Nexus Gaja utilizes nine specialized analysis areas:
+- **M1 – Language Understanding**: Detects language, dialect, slang, irony indicators, translation issues.
+- **M2 – Toxicity / Abuse Detection**: Detects insults, personal attacks, harassment.
+- **M3 – Threat Detection**: Detects potential threats, blackmail, violence announcements.
+- **M4 – Hate / Dehumanization Detection**: Detects targeted attacks on people based on specific affiliations.
+- **M5 – Spam / Manipulation Detection**: Detects spam, bot behavior, coordinated manipulation.
+- **M6 – Fraud Detection**: Detects suspicious fraud attempts, phishing, social engineering.
+- **M7 – Identity Integrity**: Checks signals regarding account takeovers, multiple accounts, ban evasion.
+- **M8 – Media Safety**: Analyzes images, audio, video, documents.
+- **M9 – Context Engine**: The most important module. It merges the individual findings.
 
-### 4. কেন কনটেক্সট ইঞ্জিন গুরুত্বপূর্ণ
-একটি বিশুদ্ধ কিওয়ার্ড অনুসন্ধান অপর্যাপ্ত হবে. "আমি হাসতে হাসতে তাকে মেরে ফেলতে পারি" শব্দার্থগতভাবে সহিংসতা রয়েছে তবে এটি বক্তৃতার একটি চিত্র। "আগামীকাল রাত 8 টায় আমি তাকে তার বাড়ির সামনে গুলি করব" সম্পূর্ণ ভিন্ন পরিস্থিতি। এআইকে অবশ্যই বুঝতে হবে যে বিবৃতিটি তার নির্দিষ্ট প্রসঙ্গে কী বোঝায়।
+### 4. Why the Context Engine is Crucial
+A pure keyword search would be insufficient. "I could kill him from laughing" semantically contains violence but is a figure of speech. "Tomorrow at 8 PM I will shoot him in front of his house" is a completely different situation. The AI must understand what the statement means in its specific context.
 
 ### 5. বহুভাষিক সংযম
 সংযম কেবল শব্দের তুলনা করতে পারে না। এটি অবশ্যই শব্দার্থিক স্তরের বিশ্লেষণ করতে হবে (যেমন, জার্মান বাগধারা বনাম জাপানি বাগধারা বনাম আঞ্চলিক অভিব্যক্তি)।
 
-### 6. Original Language + Translation
-Original and translation are analyzed separately. Only then does the "Combined Moderation Assessment" take place. This allows Nexus Gaja to determine whether the translation itself may have escalated or altered the facts.
+### 6. মূল ভাষা + অনুবাদ
+মূল এবং অনুবাদ পৃথকভাবে বিশ্লেষণ করা হয়. তবেই ‘কম্বাইন্ড মডারেশন অ্যাসেসমেন্ট’ হয়। এটি নেক্সাস গাজাকে অনুবাদ নিজেই তথ্যগুলিকে বাড়িয়েছে বা পরিবর্তন করেছে কিনা তা নির্ধারণ করতে দেয়৷
 
 ### 7. কনফিডেন্স স্কোর
 প্রতিটি AI মূল্যায়ন একটি আত্মবিশ্বাস স্কোর পায় (যেমন, হুমকির সম্ভাবনা: 0.96)। যাইহোক: **আত্মবিশ্বাসের স্কোর ≠ সত্য।** শুধুমাত্র 96% স্কোর মানে মডেলটি তার শ্রেণীবিভাগের ব্যাপারে অত্যন্ত নিশ্চিত, অগত্যা ব্যবহারকারী দোষী নয়।
@@ -130,8 +139,8 @@ EU AI আইনের স্বচ্ছতা নিয়ম অনুসা�
 ### 17. কোন স্বয়ংক্রিয় "ট্রুথ মেশিন" নেই (মডারেশন ≠ ফ্যাক্ট চেকিং)
 একটি সিস্টেম পরীক্ষা করে: "কন্টেন্ট কি নিয়ম লঙ্ঘন করে?" (কন্টেন্ট মডারেশন), অন্য একটি প্রদান করে: "কি তথ্য এবং উত্স উপলব্ধ?" (তথ্য সহায়তা)। মতামত শুধুমাত্র "ভুল" হওয়ার জন্য মুছে ফেলা হয় না।
 
-### 18. সাংস্কৃতিক অপব্যাখ্যার বিরুদ্ধে সুরক্ষা
-AI-এর প্রয়োজন **সাংস্কৃতিক প্রসঙ্গ মডেল** যাতে একটি দেশের যোগাযোগের নিয়মগুলিকে বিশ্বব্যাপী মান হিসাবে ধরে নেওয়া না হয়।
+### 18. Protection Against Cultural Misinterpretation
+The AI requires **Cultural Context Models** to prevent the communication norms of one country from being assumed as a global standard.
 
 ### 19. বিদ্রুপ, ব্যঙ্গ এবং হাস্যরস
 AI প্রসঙ্গ, ইমোজি, কথোপকথনের ইতিহাস এবং পরিচিত বিদ্রুপাত্মক কাঠামো ব্যবহার করে, কিন্তু অর্থ অস্পষ্ট হলে অনিশ্চয়তার অনুমতি দিতে হবে।
@@ -161,6 +170,8 @@ AI প্রসঙ্গ, ইমোজি, কথোপকথনের ইতি
 **সারাংশ**: আমরা একটি চার-পর্যায়ের সিস্টেম তৈরি করছি: এআই সনাক্তকরণ, প্রসঙ্গ এবং ঝুঁকি বিশ্লেষণ, নীতি ইঞ্জিন এবং মানব শাসন। এটি একটি বিপজ্জনক "বিচারক হিসাবে এআই" আর্কিটেকচার তৈরি না করে শক্তিশালী অটোমেশন সক্ষম করে।
 
 ## অর্থায়ন নীতি এবং রাজস্ব মডেল (WP 1.10.1)
+
+![নেক্সাস গাজা ফাইন্যান্স মডেল](assets/img/nexus_finance.jpg)
 
 নেক্সাস গাজার জন্য, একটি অত্যন্ত গুরুত্বপূর্ণ অর্থনৈতিক নীতি প্রযোজ্য: **প্ল্যাটফর্মের মধ্যে কোনো ঐতিহ্যগত বিজ্ঞাপন নেই।**
 এটি মৌলিকভাবে নেক্সাস গাজাকে আজকের অনেক সামাজিক নেটওয়ার্ক থেকে আলাদা করে। যাইহোক, এর মানে এই নয় যে নেক্সাস গাজার একটি বাণিজ্যিক চরিত্র থাকতে পারে না। বিপরীতে, প্ল্যাটফর্মটি অর্থনৈতিকভাবে কার্যকর হতে হবে যাতে এর সামাজিক উদ্দেশ্য সহ্য করতে পারে। অর্থনৈতিক কার্যকলাপ শেষ করার একটি উপায়, প্ল্যাটফর্মের প্রাথমিক উদ্দেশ্য নয়।
@@ -194,8 +205,8 @@ Nexus Gaja একটি **বিজ্ঞাপনের স্থানের �
     অনুদান অংশীদারিত্ব সেবা
 ```
 
-#### স্তম্ভ 1 - বিনামূল্যে মৌলিক সদস্যপদ
-**নেক্সাস গাজা ফ্রি** প্রত্যেকের জন্য মৌলিক আন্তর্জাতিক বোঝার সক্ষম করে (প্রোফাইল, আন্তর্জাতিক যোগাযোগ, পোস্ট, সম্প্রদায়, চ্যাট, মৌলিক অনুবাদ) কোনো খরচ ছাড়াই।
+#### Pillar 1 – Free Basic Membership
+**Nexus Gaja Free** enables basic international understanding for everyone (profile, international communication, posts, communities, chats, basic translation) at no cost.
 
 #### পিলার 2 – প্রিমিয়াম অফার
 স্বেচ্ছায় অর্থপ্রদানের অফার (**নেক্সাস গাজা প্লাস**) আরও বেশি স্টোরেজ সীমা, উচ্চতর মিডিয়া গুণমান, প্রসারিত এআই কোটা এবং সাংগঠনিক বৈশিষ্ট্য প্রদান করে।
@@ -299,6 +310,8 @@ Nexus Gaja **এর দ্বারা অর্থায়ন করা হয
 - **আইডেমপোটেন্সি এবং আউটবক্স প্যাটার্ন:** সমালোচনামূলক ক্রিয়াকলাপগুলি (যেমন অনুদান বা বার্তাপ্রেরণ) নকল প্রক্রিয়াকরণ রোধ করার জন্য অক্ষমতার জন্য ডিজাইন করা হয়েছে, ডাটাবেস লেনদেনের সময়ও ইভেন্টগুলি কখনই হারিয়ে না যায় তা নিশ্চিত করতে আউটবক্স প্যাটার্ন ব্যবহার করে।
 
 ## MVP ডোমেন মডেল (WP 1.12)
+
+![নেক্সাস গাজা মডুলার মনোলিথ](assets/img/nexus_architecture.jpg)
 
 Nexus Gaja একটি কঠোরভাবে ডোমেন-চালিত MVP আর্কিটেকচার (ADR-025) নিযুক্ত করে, যা পরিষ্কার ডোমেনের সীমানা সহ একটি মডুলার মনোলিথ হিসাবে ডিজাইন করা হয়েছে। এই কাঠামোটি নির্দিষ্ট ডোমেনগুলিকে পরবর্তীতে বিভক্ত করার নমনীয়তা বজায় রেখে অকাল মাইক্রোসার্ভিস জটিলতা প্রতিরোধ করে।
 

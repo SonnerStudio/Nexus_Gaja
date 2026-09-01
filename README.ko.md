@@ -2,6 +2,8 @@
 
 ![Nexus Gaja 로고](assets/logo.jpg)
 
+![넥서스 가자 히어로](assets/img/nexus_hero.jpg)
+
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
 
@@ -12,6 +14,9 @@
 **Nexus Gaja**는 글로벌 커뮤니케이션에 혁명을 일으키기 위해 설계된 지능적이고 상황에 맞는 커뮤니케이션 네트워크입니다.
 
 ## 목적과 비전
+
+![넥서스 가자 비전](assets/img/nexus_vision.jpg)
+
 세계화된 세상에서 언어는 종종 가장 큰 장벽이 됩니다. Nexus Gaja의 주요 목표는 사람들이 공통 언어를 사용하는지 여부에 관계없이 원활하고 장벽이 없으며 상황에 맞게 정확한 의사소통을 가능하게 하는 것입니다.
 
 단순히 단어를 딱딱하게 번역하는 것이 아니라 **의미를 전달**하는 것입니다. Nexus Gaja는 문화적, 지역적, 상황적 차이를 이해하여 더 깊은 수준에서 사람들을 연결함으로써 진실되고 진실된 대화를 가능하게 합니다.
@@ -24,6 +29,8 @@
 ---
 
 ## 기술 아키텍처(핵심 개념)
+
+![Nexus Gaja 번역 개념](assets/img/nexus_translation.jpg)
 
 Nexus Gaja의 기술 핵심은 세 가지 계층으로 엄격하게 구분되는 맞춤형 통신 모델입니다.
 
@@ -39,6 +46,8 @@ Nexus Gaja의 번역은 메시지를 단독으로 보지 않습니다. 엔진은
 번역은 **요청 시**(온디맨드) 리소스 효율적으로 이루어집니다. 사용자가 콘텐츠를 요청하면 미리 설정된 언어로 번역됩니다. 특정 언어에 대한 번역이 생성되면 영구적으로 저장(캐싱)되어 향후 요청을 대폭 가속화합니다.
 
 ## AI 지원 중재(WP 1.8.4)
+
+![Nexus Gaja AI 조정](assets/img/nexus_moderation.jpg)
 
 AI 지원 조정을 통해 우리는 현재 EU 규정(50조에 따른 EU AI법의 투명성 요구 사항, 이해 가능한 정당성과 항소 옵션이 포함된 디지털 서비스법)을 고려하여 제품 아이디어에서 기술 아키텍처까지 중요한 단계를 밟고 있습니다.
 
@@ -73,17 +82,17 @@ AI 지원 조정을 통해 우리는 현재 EU 규정(50조에 따른 EU AI법�
                인적 검토
 ````
 
-### 3. The Most Important AI Modules
-Nexus Gaja utilizes nine specialized analysis areas:
-- **M1 – Language Understanding**: Detects language, dialect, slang, irony indicators, translation issues.
-- **M2 – Toxicity / Abuse Detection**: Detects insults, personal attacks, harassment.
-- **M3 – Threat Detection**: Detects potential threats, blackmail, violence announcements.
-- **M4 – Hate / Dehumanization Detection**: Detects targeted attacks on people based on specific affiliations.
-- **M5 – Spam / Manipulation Detection**: Detects spam, bot behavior, coordinated manipulation.
-- **M6 – Fraud Detection**: Detects suspicious fraud attempts, phishing, social engineering.
-- **M7 – Identity Integrity**: Checks signals regarding account takeovers, multiple accounts, ban evasion.
-- **M8 – Media Safety**: Analyzes images, audio, video, documents.
-- **M9 – Context Engine**: The most important module. It merges the individual findings.
+### 3. 가장 중요한 AI 모듈
+Nexus Gaja는 9가지 전문 분석 영역을 활용합니다.
+- **M1 – 언어 이해**: 언어, 방언, 속어, 아이러니 표시, 번역 문제를 감지합니다.
+- **M2 – 독성/남용 감지**: 모욕, 인신 공격, 괴롭힘을 감지합니다.
+- **M3 – 위협 감지**: 잠재적인 위협, 협박, 폭력 알림을 감지합니다.
+- **M4 – 증오/비인간화 탐지**: 특정 소속을 기반으로 사람들에 대한 표적 공격을 탐지합니다.
+- **M5 – 스팸/조작 탐지**: 스팸, 봇 동작, 조직적 조작을 탐지합니다.
+- **M6 – 사기 탐지**: 의심스러운 사기 시도, 피싱, 소셜 엔지니어링을 탐지합니다.
+- **M7 – 신원 무결성**: 계정 탈취, 다중 계정, 차단 회피와 관련된 신호를 확인합니다.
+- **M8 – 미디어 안전**: 이미지, 오디오, 비디오, 문서를 분석합니다.
+- **M9 – 컨텍스트 엔진**: 가장 중요한 모듈입니다. 개별 결과를 병합합니다.
 
 ### 4. 컨텍스트 엔진이 중요한 이유
 순수한 키워드 검색으로는 충분하지 않습니다. "웃다가 그를 죽일 수도 있다"는 의미상으로는 폭력을 포함하지만 비유적인 표현이다. "내일 오후 8시에 그 사람 집 앞에서 총을 쏠 것이다"는 전혀 다른 상황이다. AI는 해당 진술이 특정 맥락에서 무엇을 의미하는지 이해해야 합니다.
@@ -106,20 +115,20 @@ AI가 불확실한 경우(예: 위협: 0.62, 풍자: 0.54) 단순히 가혹한 �
 - 🟠 **주황색**: 위반 가능성이 있습니다. → 중재 검토.
 - 🔴 **빨간색**: 심각한 위반 가능성이 있습니다. → 즉각적인 보호 조치 + 인적 검토.
 
-### 10. No "AI Punishment"
-**The AI imposes no final sanctions.** It can trigger technical immediate measures (e.g., temporarily holding back a message) for severe security concerns, but the final decision remains verifiable.
+### 10. 'AI 처벌'은 없다
+**AI는 최종 제재를 가하지 않습니다.** 심각한 보안 문제에 대해 즉각적인 기술적 조치(예: 일시적으로 메시지 보류)를 촉발할 수 있지만 최종 결정은 여전히 검증 가능합니다.
 
-### 11. Protective Measures Can Occur Automatically
-In the event of a concrete threat (Threat detected → High confidence → Temporary restriction → Human review → Decision), we protect the threatened user without turning the AI into a judge.
+### 11. 보호 조치는 자동으로 발생할 수 있습니다.
+구체적인 위협(위협 감지 → 높은 신뢰도 → 임시 제한 → 인적 검토 → 결정)이 발생한 경우 AI를 판단자로 전환하지 않고 위협받은 사용자를 보호합니다.
 
-### 12. The AI Must Be Able to Justify Its Decisions
-The DSA requires clear and specific reasons. The AI provides structured reasoning: Rule (NG-CONDUCT-004), Detected (Potential concrete threat), Confidence (0.94), Relevant context (Previous 4 messages), Recommended action (Human review).
+### 12. AI는 자신의 결정을 정당화할 수 있어야 합니다.
+DSA에는 명확하고 구체적인 이유가 필요합니다. AI는 규칙(NG-CONDUCT-004), 감지됨(잠재적인 구체적인 위협), 신뢰도(0.94), 관련 컨텍스트(이전 4개 메시지), 권장 조치(사람의 검토) 등 구조화된 추론을 제공합니다.
 
-### 13. AI는 비밀리에 콘텐츠를 변경해서는 안 됩니다.
-**조정 AI는 원본 내용을 눈에 띄지 않게 변경해서는 안 됩니다.** 자동 수정, 번역, 요약 중에 원본은 항상 보존됩니다.
+### 13. AI Must Not Secretly Alter Content
+**Moderation AI must never alter the original content unnoticed.** During automatic correction, translation, or summarization, the original is always preserved.
 
-### 14. AI 생성 콘텐츠
-우리는 인간이 만든 것, AI의 도움을 받은 것, AI가 만든 것, AI가 조작한 것을 구별합니다. 이는 콘텐츠 메타데이터의 일부가 됩니다.
+### 14. AI-Generated Content
+We distinguish between: Human-created, AI-assisted, AI-generated, and AI-manipulated. This will become part of the content metadata.
 
 ### 15. AI 콘텐츠 및 AI 출처 레이어 라벨링
 EU AI법(2026년 8월 발효)의 투명성 규칙에 따라 AI 생성 콘텐츠는 식별 가능해야 합니다. 메타데이터(AI-Origin, Model, Timestamp, Human Review)를 저장하는 AI 출처 레이어를 제공합니다.
@@ -162,6 +171,8 @@ AI는 상황, 이모티콘, 대화 기록, 알려진 아이러니 구조를 사�
 
 ## 자금 조달 원칙 및 수익 모델(WP 1.10.1)
 
+![Nexus Gaja 금융 모델](assets/img/nexus_finance.jpg)
+
 Nexus Gaja의 경우 매우 중요한 경제 원칙이 적용됩니다. **플랫폼 내에는 전통적인 광고가 없습니다.**
 이는 Nexus Gaja를 오늘날의 많은 소셜 네트워크와 근본적으로 구별합니다. 그러나 이것이 Nexus Gaja가 상업적인 성격을 가질 수 없다는 것을 의미하지는 않습니다. 오히려 플랫폼이 사회적 목적을 지속할 수 있으려면 경제적으로 실행 가능해야 합니다. 경제 활동은 목적을 위한 수단이지 플랫폼의 주요 목적이 아닙니다.
 
@@ -197,33 +208,33 @@ Nexus Gaja는 사용자의 관심이나 개인 데이터로 수익을 창출하�
 #### 원칙 1 – 무료 기본 멤버십
 **Nexus Gaja Free**는 모든 사람이 무료로 기본적인 국제 이해(프로필, 국제 커뮤니케이션, 게시물, 커뮤니티, 채팅, 기본 번역)를 할 수 있도록 해줍니다.
 
-#### Pillar 2 – Premium Offerings
-Voluntary paid offerings (**Nexus Gaja Plus**) providing greater storage limits, higher media quality, expanded AI quotas, and organizational features.
-**Important (Freemium instead of Dark Freemium):** Basic communication must never be artificially degraded.
+#### 원칙 2 – 프리미엄 제품
+더 큰 저장 한도, 더 높은 미디어 품질, 확장된 AI 할당량 및 조직 기능을 제공하는 자발적 유료 서비스(**Nexus Gaja Plus**)입니다.
+**중요(Dark Freemium 대신 Freemium):** 기본 통신은 인위적으로 저하되어서는 안 됩니다.
 
-#### Pillar 3 – Organizations
-Special accounts for schools, universities, NGOs, businesses, and municipalities (**Nexus Gaja Organization**). Schools can be supported via institutional rates as multipliers of international understanding.
+#### 원칙 3 – 조직
+학교, 대학, NGO, 기업, 지방자치단체를 위한 특별 계좌(**Nexus Gaja Organization**). 학교는 국제 이해의 승수로서 제도적 요율을 통해 지원될 수 있습니다.
 
 #### 기둥 4 – 기부
 **Nexus Gaja 자금 풀**은 일반 기부와 지정된 기부(예: "국제 청소년 커뮤니케이션을 위한")를 허용합니다. **자금 배분 원장**은 투명한 자금 배분을 보장합니다.
 **목적 기금 및 톰볼라:** 기부금의 일부는 무료/할인 사용을 위해 풀에 공급됩니다. 복권/톰볼라 메커니즘은 이러한 자금을 투명하고 감사 가능하게 할당할 수 있습니다.
 
-#### Pillar 5 – Institutional Funding
-Foundations, cultural funding programs, or state programs.
-**NG-FIN-002:** Financial support does not buy editorial or technical control (Independence).
+#### 원칙 5 – 기관 자금 조달
+재단, 문화 자금 프로그램 또는 주정부 프로그램.
+**NG-FIN-002:** 재정 지원은 편집 또는 기술 통제(독립)를 구매하지 않습니다.
 
-#### Pillar 6 – Commercial Services
-B2B services like **Translation-as-a-Service** (API), organizational communication, or international conference rooms, without burdening the standard user feed.
+#### 원칙 6 – 상업 서비스
+표준 사용자 피드에 부담을 주지 않고 **서비스로서의 번역**(API), 조직 커뮤니케이션 또는 국제 회의실과 같은 B2B 서비스입니다.
 
-### 4. No Data Monetization & Surveillance Economy
-**NG-FIN-003:** Personal user data is not a commodity. No sale of lists, profiles, or histories. Nexus Gaja does not profit from psychological surveillance (Surveillance Economy).
+### 4. 데이터 수익화 및 감시 경제 없음
+**NG-FIN-003:** 개인 사용자 데이터는 상품이 아닙니다. 목록, 프로필 또는 기록을 판매하지 않습니다. 넥서스가자는 심리적 감시(감시경제)로 이익을 얻지 않습니다.
 
-### 5. Financial Transparency & Fund Ledger
-**Nexus Gaja Financial Transparency:** Publication of aggregated financial structures. Earmarked donations receive technical accounting (Fund ID → Purpose → Balance → Allocation). No cross-subsidization of social purposes into corporate marketing.
+### 5. 금융 투명성 및 자금 원장
+**Nexus Gaja 재무 투명성:** 집계된 재무 구조 공개. 배정된 기부금은 기술회계(펀드ID → 목적 → 잔액 → 할당)를 받습니다. 기업 마케팅에 사회적 목적을 교차 지원하지 않습니다.
 
-### 6. Solidarity-Based Financing Model
-Pricing is based on cost-orientation, fairness, and solidarity.
-**Solidarity Premium:** A voluntary option for Premium users to finance a portion of another user's access. Forced solidarity or a premium class society (less respect/moderation for free users) is strictly prohibited.
+### 6. 연대 기반 금융 모델
+가격은 비용 지향성, 공정성 및 연대성을 기반으로 결정됩니다.
+**Solidarity Premium:** 프리미엄 사용자가 다른 사용자 액세스의 일부를 조달할 수 있는 자발적인 옵션입니다. 강제적인 연대나 프리미엄급 사회(무료 사용자에 대한 존중/절제가 덜함)는 엄격히 금지됩니다.
 
 ### 7. Economic KPIs Instead of Engagement Economy
 No dependence on keeping users "online as long as possible" (no ragebait, infinite feeds).
@@ -231,54 +242,54 @@ Instead, we use metrics like:
 - **Global Communication Index (GCI):** Successful communication relationships between people from different linguistic/cultural regions.
 - **Platform Sustainability Ratio (PSR):** Recurring revenue / recurring operating costs (Target ≥ 1).
 
-### 8. What We Explicitly Do Not Want (Negative List)
-Nexus Gaja is **not** financed by:
-❌ Sale of personal data
-❌ Personalized traditional advertising
-❌ Monitoring user behavior for advertising purposes
-❌ Sale of private communication data
-❌ Hidden AI data usage
-❌ Manipulative Premium paywalls
-❌ Artificial reach restriction for monetization
-❌ Paid political influence
-❌ Purchase of privileged moderation decisions.
+### 8. 우리가 명시적으로 원하지 않는 것(네거티브 목록)
+Nexus Gaja는 다음 기관에서 자금을 지원받지 **않습니다**.
+❌ 개인정보 판매
+❌ 개인화된 전통광고
+❌ 광고 목적으로 사용자 행동 모니터링
+❌ 비공개 통신 데이터 판매
+❌ 숨겨진 AI 데이터 활용
+❌ 조작된 프리미엄 페이월
+❌ 수익 창출을 위한 인위적인 도달 제한
+❌ 유료 정치적 영향력
+❌ 특권적 조정 결정 구매.
 
-### 9. Preliminary Financial Architecture
-```text
-                         NEXUS GAJA
+### 9. 예비 금융 아키텍처
+``텍스트
+                         넥서스 가자
                               │
              ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-          USERS          ORGANIZATIONS      ENTERPRISE
-             │                │                │
+             │ │ │
+             ▼ ▼ ▼
+          사용자 조직 기업
+             │ │ │
              └────────────────┼────────────────┘
                               │
-                       PLATFORM SERVICES
+                       플랫폼 서비스
                               │
-          ┌───────────────────┼───────────────────┐
-          ▼                   ▼                   ▼
-       PREMIUM             DONATIONS            API
+          ┌───────────────────┼──────────────────┐
+          ▼ ▼ ▼
+       프리미엄 기부 API
                               │
                     ┌─────────┴─────────┐
-                    ▼                   ▼
-               GENERAL FUND       RESTRICTED FUNDS
+                    ▼ ▼
+               일반 기금 제한 기금
                                         │
                                         ▼
-                                  SOCIAL PURPOSE
-```
+                                  사회적 목적
+````
 
-### 자금 조달 원칙 요약(NG-FIN)
-- **NG-FIN-001:** 기존 광고를 통한 자금 조달은 불가능합니다.
-- **NG-FIN-002:** 재정 지원을 통한 편집/기술적 통제가 없습니다.
-- **NG-FIN-003:** 개인 데이터는 상품이 아닙니다.
-- **NG-FIN-004:** 기본 커뮤니케이션은 결제 없이 계속 이용할 수 있습니다.
-- **NG-FIN-005:** 프리미엄 서비스는 무료 사용자의 품격을 떨어뜨려서는 안 됩니다.
-- **NG-FIN-006:** 할당된 자금은 목적에 따라 관리됩니다.
-- **NG-FIN-007:** 기부금 및 지원금을 투명하게 관리합니다.
-- **NG-FIN-008:** 상용 B2B 서비스는 독립성을 훼손하지 않습니다.
-- **NG-FIN-009:** 최대 수익 창출보다는 지속 가능성에 중점을 둡니다.
-- **NG-FIN-010:** 사회적 목적을 영구적으로 확보하는 구조입니다.
+### Summary of Financing Principles (NG-FIN)
+- **NG-FIN-001:** No financing through traditional advertising.
+- **NG-FIN-002:** No editorial/technical control through financial support.
+- **NG-FIN-003:** Personal data is not a commodity.
+- **NG-FIN-004:** Basic communication remains accessible without payment.
+- **NG-FIN-005:** Premium offerings must not degrade free users.
+- **NG-FIN-006:** Earmarked funds are managed according to their purpose.
+- **NG-FIN-007:** Transparent management of donations and grants.
+- **NG-FIN-008:** Commercial B2B services do not compromise independence.
+- **NG-FIN-009:** Focus on sustainability rather than maximum monetization.
+- **NG-FIN-010:** The structure permanently secures the social purpose.
 
 ## API, 인터페이스 및 통신 아키텍처(WP 1.11.3)
 
@@ -299,6 +310,8 @@ Nexus Gaja is **not** financed by:
 - **멱등성 및 보낼 편지함 패턴:** 중요한 작업(예: 기부 또는 메시징)은 중복 처리를 방지하기 위해 멱등성이 있도록 설계되었으며, 보낼 편지함 패턴을 활용하여 데이터베이스 트랜잭션 중에도 이벤트가 손실되지 않도록 보장합니다.
 
 ## MVP 도메인 모델(WP 1.12)
+
+![Nexus Gaja 모듈식 모노리스](assets/img/nexus_architecture.jpg)
 
 Nexus Gaja는 도메인 경계가 명확한 모듈식 단일체로 설계된 엄격한 도메인 기반 MVP 아키텍처(ADR-025)를 사용합니다. 이 구조는 조기 마이크로서비스 복잡성을 방지하는 동시에 나중에 특정 도메인을 분할할 수 있는 유연성을 유지합니다.
 

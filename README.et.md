@@ -2,6 +2,8 @@
 
 ![Nexus Gaja logo](assets/logo.jpg)
 
+![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
 
@@ -12,44 +14,51 @@
 **Nexus Gaja** on intelligentne kontekstitundlik sidevõrk, mis on loodud globaalse suhtluse revolutsiooni muutmiseks.
 
 ## Eesmärk ja visioon
+
+![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
+
 Globaliseeruvas maailmas on keel sageli suurim takistus. Nexus Gaja põhieesmärk on võimaldada inimeste vahel sujuvat, takistusteta ja kontekstuaalselt täpset suhtlust olenemata sellest, kas nad räägivad ühist keelt.
 
-It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
+Asi pole ainult sõnade jäigas tõlkimises, vaid **tähenduse ülekandmises**. Nexus Gaja ühendab inimesi sügavamal tasandil, mõistes kultuurilisi, piirkondlikke ja kontekstuaalseid nüansse, võimaldades seeläbi ehedaid ja autentseid vestlusi.
 
-## Possibilities and Features
-- **Multimedia Communication**: The system processes not just text, but also image, audio, and video. This allows for fully immersive conversations (e.g., video calls or voice messages) in real-time across language barriers.
-- **Context Sensitivity**: Recognition of irony, idioms, jargon, and regional dialects that are often misunderstood by conventional translators.
-- **Cross-Platform Network**: Serves as a foundation for private chats, forum threads (posts with comments), and global community interactions.
+## Võimalused ja funktsioonid
+- **Multimeediumisuhtlus**: süsteem töötleb mitte ainult teksti, vaid ka pilti, heli ja videot. See võimaldab reaalajas täielikult kaasahaaravaid vestlusi (nt videokõnesid või häälsõnumeid) üle keelebarjääride.
+- **Kontekstitundlikkus**: iroonia, idioomide, žargooni ja piirkondlike dialektide äratundmine, millest tavalised tõlkijad sageli valesti aru saavad.
+- **Platvormideülene võrk**: toimib privaatvestluste, foorumite lõimede (kommentaaridega postituste) ja ülemaailmse kogukonna suhtluse alusena.
 
 ---
 
-## Technical Architecture (Core Concept)
+## Tehniline arhitektuur (põhikontseptsioon)
+
+![Nexus Gaja tõlkekontseptsioon](assets/img/nexus_translation.jpg)
 
 Nexus Gaja tehniline tuum on eritellimusel valmistatud sidemudel, mis on rangelt jagatud kolme kihti:
 
-1. **Original**: The communication object (message) created by the sender always remains immutable.
-2. **Semantic Interpretation**: The system analyzes not just the words, but the actual meaning.
-3. **Target Language Representation**: The AI merely creates a temporary or cached representation of the original for the respective recipient based on their preferred language. Translations never overwrite the original message.
+1. **Original**: saatja loodud suhtlusobjekt (sõnum) jääb alati muutumatuks.
+2. **Semantiline tõlgendus**: süsteem ei analüüsi mitte ainult sõnu, vaid ka tegelikku tähendust.
+3. **Sihtkeele esitus**: AI loob ainult ajutise või vahemällu salvestatud originaali esituse vastavale adressaadile tema eelistatud keele alusel. Tõlked ei kirjuta kunagi algset sõnumit üle.
 
-### Context Dependency
-Translations in Nexus Gaja never view messages in isolation. The engine considers the entire hierarchy:
-`Message` → `Previous Messages` → `Thread Context` → `Community Context` → `Language / Region` → `User Preferences`
+### Kontekstisõltuvus
+Nexus Gaja tõlked ei vaata kunagi sõnumeid eraldi. Mootor võtab arvesse kogu hierarhiat:
+"Sõnum" → "Eelmised sõnumid" → "Lõime kontekst" → "Kogukonna kontekst" → "Keel / piirkond" → "Kasutaja eelistused"
 
-### Efficiency through On-Demand Translation
-Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.
+### Tõhusus tellitava tõlke abil
+Tõlkimine toimub ressursitõhusalt ainult **pärimisel** (nõudmisel). Kui kasutaja taotleb sisu, tõlgitakse see tema eelseadistatud keelde. Kui konkreetse keele tõlge on loodud, salvestatakse see jäädavalt (vahemällu), et tulevasi taotlusi drastiliselt kiirendada.
 
-## AI-Assisted Moderation (WP 1.8.4)
+## AI-abiga modereerimine (WP 1.8.4)
+
+![Nexus Gaja AI modereerimine](assets/img/nexus_moderation.jpg)
 
 Tehisintellekti abiga modereerimisega astume olulise sammu tooteideest tehnilise arhitektuurini, võttes arvesse kehtivaid EL-i regulatsioone (ELi tehisintellekti seaduse läbipaistvusnõuded art. 50 alusel; digitaalteenuste seadus koos arusaadavate põhjenduste ja edasikaebamisvõimalustega).
 
-### 1. Basic Principle
-The most important sentence for the architecture is: **The moderation AI is a review system, not an autonomous ruling system.**
-It is designed to assist humans in moderation, not to determine itself which opinions are allowed to exist on Nexus Gaja.
-We differentiate between three levels:
-- **Detection:** "There could be a rule violation here."
-- **Evaluation:** "The probability of a rule violation is, for example, 94%."
-- **Decision:** "What action is actually taken?"
-The third level must be controlled by a human in severe cases.
+### 1. Põhiprintsiip
+Arhitektuuri jaoks on kõige olulisem lause: **Modereerimise AI on ülevaatesüsteem, mitte autonoomne valitsemissüsteem.**
+See on loodud inimeste abistamiseks mõõdukalt, mitte ise määrama, millised arvamused on Nexus Gajas lubatud.
+Me eristame kolme taset:
+- **Tuvastamine:** "Siin võib olla reeglite rikkumine."
+- **Hindamine:** "Reegli rikkumise tõenäosus on näiteks 94%.
+- **Otsus:** "Mis toimingut tegelikult tehakse?"
+Kolmandat taset peab rasketel juhtudel juhtima inimene.
 
 ### 2. Moderatsiooni AI kui alamsüsteem
 Ühe AI asemel luuakse tugev alamsüsteem:
@@ -73,17 +82,17 @@ The third level must be controlled by a human in severe cases.
                Human Review
 ```
 
-### 3. Kõige olulisemad AI moodulid
-Nexus Gaja kasutab üheksat spetsiaalset analüüsivaldkonda:
-- **M1 – keele mõistmine**: tuvastab keele, dialekti, slängi, iroonianäitajad ja tõlkeprobleemid.
-- **M2 – mürgisuse/kuritarvitamise tuvastamine**: tuvastab solvangud, isiklikud rünnakud ja ahistamise.
-- **M3 – ohu tuvastamine**: tuvastab võimalikud ähvardused, väljapressimised ja vägivallateated.
-- **M4 – vihkamise/dehumaniseerimise tuvastamine**: tuvastab sihipärased rünnakud inimeste vastu, lähtudes konkreetsetest sidemetest.
-- **M5 – rämpsposti/manipulatsiooni tuvastamine**: tuvastab rämpsposti, robotite käitumise ja koordineeritud manipuleerimise.
-- **M6 – pettuse tuvastamine**: tuvastab kahtlased pettusekatsed, andmepüügi ja sotsiaalse manipuleerimise.
-- **M7 – identiteedi terviklikkus**: kontrollib signaale konto ülevõtmise, mitme konto ja keelust kõrvalehoidmise kohta.
-- **M8 – meedia ohutus**: analüüsib pilte, heli, videot, dokumente.
-- **M9 – kontekstimootor**: kõige olulisem moodul. See ühendab üksikud leiud.
+### 3. The Most Important AI Modules
+Nexus Gaja utilizes nine specialized analysis areas:
+- **M1 – Language Understanding**: Detects language, dialect, slang, irony indicators, translation issues.
+- **M2 – Toxicity / Abuse Detection**: Detects insults, personal attacks, harassment.
+- **M3 – Threat Detection**: Detects potential threats, blackmail, violence announcements.
+- **M4 – Hate / Dehumanization Detection**: Detects targeted attacks on people based on specific affiliations.
+- **M5 – Spam / Manipulation Detection**: Detects spam, bot behavior, coordinated manipulation.
+- **M6 – Fraud Detection**: Detects suspicious fraud attempts, phishing, social engineering.
+- **M7 – Identity Integrity**: Checks signals regarding account takeovers, multiple accounts, ban evasion.
+- **M8 – Media Safety**: Analyzes images, audio, video, documents.
+- **M9 – Context Engine**: The most important module. It merges the individual findings.
 
 ### 4. Miks on kontekstimootor ülioluline?
 Puhast märksõnaotsingust ei piisa. "Ma võiksin ta naermisest tappa" sisaldab semantiliselt vägivalda, kuid on kõnekujund. "Homme kell 20 lasen ma ta maja ees maha" on hoopis teine ​​olukord. Tehisintellekt peab mõistma, mida avaldus selle konkreetses kontekstis tähendab.
@@ -124,8 +133,8 @@ Teeme vahet: inimese loodud, tehisintellekti abil loodud, tehisintellekti loodud
 ### 15. AI sisu ja AI päritolukihi märgistamine
 EL-i tehisintellekti seaduse (jõustub augustist 2026) läbipaistvusreeglite kohaselt peab tehisintellekti loodud sisu olema tuvastatav. Pakume tehisintellekti päritolukihti, mis salvestab metaandmeid (AI-Origin, Model, Timestamp, Human Review).
 
-### 16. Deepfake Detection
-The architecture aims to detect synthetic images, cloned voices, and deepfakes. However, detection is not automatically proof.
+### 16. Sügava võltsingu tuvastamine
+Arhitektuuri eesmärk on tuvastada sünteetilisi pilte, kloonitud hääli ja sügavaid võltsinguid. Kuid tuvastamine ei ole automaatselt tõend.
 
 ### 17. Automaatne "tõemasin" puudub (mõõdukus ≠ faktikontroll)
 Üks süsteem kontrollib: "Kas sisu rikub reegleid?" (Sisu modereerimine), teine ​​pakub järgmist: "Milline teave ja allikad on saadaval?" (Teabeabi). Arvamusi ei kustutata lihtsalt sellepärast, et need on "valed".
@@ -152,7 +161,7 @@ Veatüüpe jälgitakse. Armatuurlaud mõõdab täpsust, tagasikutsumist ja eriti
 Modereerimise kvaliteet peab olema kõigis toetatud keeltes võrreldav (mitmekeelne modereerimise võrdlusalus). Kui modereerimistulemused erinevad originaali ja tõlke vahel (tõlkekonflikt), tuleb see eraldi üle vaadata.
 
 ### 25. Arhitektuuriettepaneku ja poliitika mootor
-Reeglid (Policy Engine) ei ole AI mudelitesse sisse kodeeritud. Tehisintellekt pakub leide; poliitikamootor otsustab kehtivate reeglite alusel. See võimaldab **mudeleid muuta ilma reeglite muutmiseta**.
+Reeglid (Policy Engine) ei ole AI mudelitesse sisse kodeeritud. Tehisintellekt pakub tulemusi; poliitikamootor otsustab kehtivate reeglite alusel. See võimaldab **mudeleid muuta ilma reeglite muutmiseta**.
 
 ### 26. Inimene jääb lõplikuks autoriteediks
 - **NG-AI-MOD-001**: tehisintellekt aitab tuvastada ja klassifitseerida, kuid ei asenda tõsiste otsuste tegemisel inimese kontrolli.
@@ -161,6 +170,8 @@ Reeglid (Policy Engine) ei ole AI mudelitesse sisse kodeeritud. Tehisintellekt p
 **Kokkuvõte**: ehitame neljaetapilise süsteemi: tehisintellekti tuvastamine, konteksti- ja riskianalüüs, poliitikamootor ja inimjuhtimine. See võimaldab tugevat automatiseerimist ilma ohtlikku "AI kui kohtuniku" arhitektuuri looma.
 
 ## Finantseerimispõhimõtted ja tulumudel (WP 1.10.1)
+
+![Nexus Gaja finantsmudel](assets/img/nexus_finance.jpg)
 
 Nexus Gaja puhul kehtib väga oluline majanduslik põhimõte: **platvormil ei ole traditsioonilist reklaami.**
 See eristab Nexus Gajat paljudest tänapäeva sotsiaalvõrgustikest. See aga ei tähenda, et Nexus Gaja ei saaks olla kommertsliku iseloomuga. Vastupidi, platvorm peab olema majanduslikult elujõuline, et selle sotsiaalne eesmärk püsiks. Majandustegevus on vahend eesmärgi saavutamiseks, mitte platvormi esmane eesmärk.
@@ -180,33 +191,33 @@ Eriti keelatud on:
 
 Nexus Gaja jääb pigem **kommunikatsioonipinnaks kui reklaamipinnaks**.
 
-### 3. Financing Without Advertising (The 6 Pillars)
-Financing is built on six pillars:
-```text
+### 3. Rahastamine ilma reklaamideta (6 sammast)
+Rahastamine põhineb kuuel sambal:
+``` tekst
                  NEXUS GAJA
                      │
-       ┌─────────────┼─────────────┐
-       ▼             ▼             ▼
-   PREMIUM       ORGANIZATION    DONATIONS
-       │             │             │
+       ┌─────────────┼──────────────
+       ▼ ▼ ▼
+   PREMIUM ORGANISATSIOONI ANNUSTUSED
+       │ │ │
        ├─────────────┼─────────────┤
-       ▼             ▼             ▼
-    GRANTS       PARTNERSHIPS    SERVICES
+       ▼ ▼ ▼
+    ANTAB PARTNERLUSTEENUSI
 ```
 
-#### Pillar 1 – Free Basic Membership
-**Nexus Gaja Free** enables basic international understanding for everyone (profile, international communication, posts, communities, chats, basic translation) at no cost.
+#### 1. sammas – tasuta põhiliikmelisus
+**Nexus Gaja Free** võimaldab kõigile tasuta rahvusvahelist arusaamist (profiil, rahvusvaheline suhtlus, postitused, kogukonnad, vestlused, põhiline tõlge).
 
-#### Pillar 2 – Premium Offerings
-Voluntary paid offerings (**Nexus Gaja Plus**) providing greater storage limits, higher media quality, expanded AI quotas, and organizational features.
-**Important (Freemium instead of Dark Freemium):** Basic communication must never be artificially degraded.
+#### 2. sammas – esmaklassilised pakkumised
+Vabatahtlikud tasulised pakkumised (**Nexus Gaja Plus**), mis pakuvad suuremaid salvestuspiiranguid, paremat meediumikvaliteeti, laiendatud tehisintellekti kvoote ja korralduslikke funktsioone.
+**Oluline (Freemium Dark Freemiumi asemel):** Tavalist suhtlust ei tohi kunagi kunstlikult halvendada.
 
 #### Pillar 3 – Organizations
 Special accounts for schools, universities, NGOs, businesses, and municipalities (**Nexus Gaja Organization**). Schools can be supported via institutional rates as multipliers of international understanding.
 
-#### 4. sammas – annetused
-**Nexus Gaja rahastamiskogu** võtab vastu üldisi ja sihtotstarbelisi annetusi (nt „rahvusvaheliseks noortesuhtluseks”). **Fondide jaotamise pearaamat** tagab vahendite läbipaistva jaotamise.
-**Eesmärgifond ja tombola:** osa annetustest toidab basseini tasuta/soodushinnaga kasutamiseks. Loterii/tombola mehhanism võib neid vahendeid eraldada läbipaistvalt ja auditeeritavalt.
+#### Pillar 4 – Donations
+The **Nexus Gaja Funding Pool** accepts general and earmarked donations (e.g., "for international youth communication"). A **Fund Allocation Ledger** ensures transparent allocation of funds.
+**Purpose Fund & Tombola:** A portion of donations feeds a pool for free/discounted usage. A lottery/tombola mechanism can allocate these funds transparently and auditably.
 
 #### 5. sammas – institutsioonide rahastamine
 Sihtasutused, kultuuri rahastamisprogrammid või riiklikud programmid.
@@ -221,84 +232,86 @@ B2B-teenused, nagu **Tõlke teenusena** (API), organisatsiooniline suhtlus või 
 ### 5. Finantsläbipaistvus ja fondide pearaamat
 **Nexus Gaja finantsläbipaistvus:** koondatud finantsstruktuuride avaldamine. Sihtotstarbelised annetused saavad tehnilise arvestuse (fondi ID → Eesmärk → Saldo → Eraldamine). Ei mingit sotsiaalsete eesmärkide ristsubsideerimist ettevõtte turundusse.
 
-### 6. Solidarity-Based Financing Model
-Pricing is based on cost-orientation, fairness, and solidarity.
-**Solidarity Premium:** A voluntary option for Premium users to finance a portion of another user's access. Forced solidarity or a premium class society (less respect/moderation for free users) is strictly prohibited.
+### 6. Solidaarsusel põhinev rahastamismudel
+Hinnakujundus põhineb kuludele orienteeritusel, õiglusel ja solidaarsusel.
+**Solidarity Premium:** Premium-kasutajate vabatahtlik võimalus rahastada osa teise kasutaja juurdepääsust. Sunniviisiline solidaarsus või premium-klassi ühiskond (vähem austust/mõõdukust tasuta kasutajate vastu) on rangelt keelatud.
 
-### 7. Economic KPIs Instead of Engagement Economy
-No dependence on keeping users "online as long as possible" (no ragebait, infinite feeds).
-Instead, we use metrics like:
-- **Global Communication Index (GCI):** Successful communication relationships between people from different linguistic/cultural regions.
-- **Platform Sustainability Ratio (PSR):** Recurring revenue / recurring operating costs (Target ≥ 1).
+### 7. Majanduslikud KPI-d kaasamismajanduse asemel
+Ei sõltu kasutajate "nii kaua kui võimalik võrgus" hoidmisest (ilma raevukast, lõputu voog).
+Selle asemel kasutame selliseid mõõdikuid nagu:
+- **Global Communication Index (GCI):** Edukad suhtlussuhted erinevatest keele-/kultuuripiirkondadest pärit inimeste vahel.
+- **Platvormi jätkusuutlikkuse suhe (PSR):** Korduvad tulud / korduvad tegevuskulud (eesmärk ≥ 1).
 
-### 8. What We Explicitly Do Not Want (Negative List)
-Nexus Gaja is **not** financed by:
-❌ Sale of personal data
-❌ Personalized traditional advertising
-❌ Monitoring user behavior for advertising purposes
-❌ Sale of private communication data
-❌ Hidden AI data usage
-❌ Manipulative Premium paywalls
-❌ Artificial reach restriction for monetization
-❌ Paid political influence
-❌ Purchase of privileged moderation decisions.
+### 8. Mida me selgesõnaliselt ei taha (negatiivne nimekiri)
+Nexus Gajat **ei** rahasta:
+❌ Isikuandmete müük
+❌ Isikupärastatud traditsiooniline reklaam
+❌ Kasutajate käitumise jälgimine reklaami eesmärgil
+❌ Privaatsete sideandmete müük
+❌ Varjatud AI andmekasutus
+❌ Manipulatiivsed Premium tasuseinad
+❌ Monetiseerimise kunstlik ulatuse piirang
+❌ Tasuline poliitiline mõju
+❌ Privilegeeritud modereerimisotsuste ostmine.
 
-### 9. Preliminary Financial Architecture
-```text
+### 9. Esialgne finantsarhitektuur
+``` tekst
                          NEXUS GAJA
                               │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-          USERS          ORGANIZATIONS      ENTERPRISE
-             │                │                │
-             └────────────────┼────────────────┘
+             ┌────────────────┼──────────────
+             │ │ │
+             ▼ ▼ ▼
+          KASUTAJATE ORGANISATSIOONID ETTEVÕTE
+             │ │ │
+             └────────────────┼──────────────────
                               │
-                       PLATFORM SERVICES
+                       PLATVORMITEENUSED
                               │
-          ┌───────────────────┼───────────────────┐
-          ▼                   ▼                   ▼
-       PREMIUM             DONATIONS            API
+          ┌─────────────────── ┼───────────────────┐
+          ▼ ▼ ▼
+       PREMIUM DONATIONS API
                               │
                     ┌─────────┴─────────┐
-                    ▼                   ▼
-               GENERAL FUND       RESTRICTED FUNDS
+                    ▼ ▼
+               ÜLDFONDI PIIRATUD FONDID
                                         │
                                         ▼
-                                  SOCIAL PURPOSE
+                                  SOTSIAALNE EESMÄRK
 ```
 
-### Summary of Financing Principles (NG-FIN)
-- **NG-FIN-001:** No financing through traditional advertising.
-- **NG-FIN-002:** No editorial/technical control through financial support.
-- **NG-FIN-003:** Personal data is not a commodity.
-- **NG-FIN-004:** Basic communication remains accessible without payment.
-- **NG-FIN-005:** Premium offerings must not degrade free users.
-- **NG-FIN-006:** Earmarked funds are managed according to their purpose.
-- **NG-FIN-007:** Transparent management of donations and grants.
-- **NG-FIN-008:** Commercial B2B services do not compromise independence.
-- **NG-FIN-009:** Focus on sustainability rather than maximum monetization.
-- **NG-FIN-010:** The structure permanently secures the social purpose.
+### Finantseerimispõhimõtete kokkuvõte (NG-FIN)
+- **NG-FIN-001:** Traditsioonilise reklaami kaudu rahastamine puudub.
+- **NG-FIN-002:** Toimetuse/tehnilise kontrolli puudumine rahalise toetuse kaudu.
+- **NG-FIN-003:** Isikuandmed ei ole kaup.
+- **NG-FIN-004:** Põhisuhtlus jääb tasuta juurdepääsetavaks.
+- **NG-FIN-005:** Premium-pakkumised ei tohi tasuta kasutajaid halvendada.
+- **NG-FIN-006:** Sihtotstarbelisi vahendeid hallatakse vastavalt nende otstarbele.
+- **NG-FIN-007:** Annetuste ja toetuste läbipaistev haldamine.
+- **NG-FIN-008:** Ärilised B2B teenused ei ohusta sõltumatust.
+- **NG-FIN-009:** Keskenduge jätkusuutlikkusele, mitte maksimaalsele monetiseerimisele.
+- **NG-FIN-010:** Struktuur tagab püsivalt sotsiaalse eesmärgi.
 
 ## API, liidesed ja suhtlusarhitektuur (WP 1.11.3)
 
 Süsteemi stabiilsuse, turvalisuse ja skaleeritavuse tagamiseks järgib Nexus Gaja rangelt API-põhist ja sündmustepõhist arhitektuuri.
 
-### Põhiprintsiibid
-- **Otsene juurdepääs andmebaasile puudub:** komponendid suhtlevad ainult määratletud liideste (API-de või sündmuste) kaudu, mitte kunagi muude teenuste otseste andmebaasipäringute kaudu.
-- **API lüüs:** kõik välised kliendipäringud suunatakse läbi API lüüsi, mis käsitleb autentimist, marsruutimist ja kiiruse piiramist.
-- **Pakkuja abstraktsioon:** välisteenused (AI mudelid, makseteenuse pakkujad, tõlkemootorid) on integreeritud abstraktsioonikihtide kaudu, vältides kodeeritud sõltuvusi ja võimaldades pakkujate paindlikku vahetamist.
+### Core Principles
+- **No Direct Database Access:** Components communicate exclusively via defined interfaces (APIs or Events), never through direct database queries of other services.
+- **API Gateway:** All external client requests route through an API Gateway handling authentication, routing, and rate limiting.
+- **Provider Abstraction:** External services (AI models, payment providers, translation engines) are integrated via abstraction layers, avoiding hardcoded dependencies and enabling flexible provider swapping.
 
-### Suhtlusmustrid
-- **Sünkroonsed API-d (REST/HTTPS):** kasutatakse koheste päringute jaoks, nagu sisselogimine, profiiliseaded või otsetõlked.
-- **Asünkroonsed sündmused (sündmussiin):** Nexus Gaja kesknärvisüsteem viivitatud ja lahtiühendatud töötlemiseks (nt sõnum.Loodud, mis käivitab asünkroonselt modereerimise, tõlkimise ja teavituse).
-- **Reaalajas (WebSocket):** spetsiaalsed kanalid otsevestluse ja tippimise indikaatorite jaoks.
+### Communication Patterns
+- **Synchronous APIs (REST/HTTPS):** Used for immediate requests like login, profile settings, or direct translations.
+- **Asynchronous Events (Event Bus):** The central nervous system of Nexus Gaja for delayed, decoupled processing (e.g., `Message.Created` triggering Moderation, Translation, and Notification asynchronously).
+- **Realtime (WebSocket):** Dedicated channels for live chat and typing indicators.
 
-### Turvalisus ja töökindlus
-- **Null-usaldusmudel:** sisevõrgu liiklust ei usaldata automaatselt; tundlik teenustevaheline suhtlus nõuab autentimist.
-- **Idempotency & Outbox Pattern:** kriitilised toimingud (nt annetused või sõnumid) on kavandatud olema idempotentsed, et vältida topelttöötlust, kasutades Väljundkausta mustrit, et sündmused ei läheks kunagi kaduma isegi andmebaasi tehingute ajal.
+### Security and Reliability
+- **Zero-Trust Model:** Internal network traffic is not automatically trusted; sensitive service-to-service communication requires authentication.
+- **Idempotency & Outbox Pattern:** Critical operations (like donations or messaging) are designed to be idempotent to prevent duplicate processing, utilizing the Outbox pattern to ensure events are never lost even during database transactions.
 
-## MVP domeenimudel (WP 1.12)
+## MVP Domain Model (WP 1.12)
+
+![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
 
 Nexus Gaja kasutab rangelt domeenipõhist MVP-arhitektuuri (ADR-025), mis on kujundatud selgete domeenipiiridega modulaarse monoliidina. See struktuur hoiab ära mikroteenuse enneaegse keerukuse, säilitades samas paindlikkuse konkreetsete domeenide hilisemaks eraldamiseks.
 
@@ -309,8 +322,8 @@ Arhitektuur eraldab selgesõnaliselt erinevad mõisted, et tagada andmete tervik
 - **Modereerimine:** "Teavita" ≠ "Modereerimisotsus". Aruanne on lihtsalt nõue; uurimist viib läbi modereerimisjuhtum.
 - **Finantsid:** "Annetus" ≠ "Fondide saldo". Maksed broneeritakse muutumatu pearaamatu kaudu fondi, tagades finantsläbipaistvuse.
 
-### Ühendatud domeenid
-Süsteem on jagatud selgeteks loogilisteks valdkondadeks (piiratud kontekstid): identiteet, konto, organisatsioon, suhtlus, kogukond, keel, modereerimine, teavitamine, rahandus ja juhtimine. Need domeenid kaardistavad kogu teekonna pärismaailma üksustest (kasutajad, koolid, valitsusvälised organisatsioonid) nende digitaalse suhtluse ja sellega seotud valitsemiseni.
+### Interconnected Domains
+The system is divided into clear logical domains (Bounded Contexts): Identity, Account, Organization, Communication, Community, Language, Moderation, Notification, Finance, and Governance. These domains map the entire journey from real-world entities (Users, Schools, NGOs) to their digital interactions and related governance.
 
 ## Projekti olek
 Projekt on hetkel aktiivses arhitektuuri- ja planeerimisfaasis.

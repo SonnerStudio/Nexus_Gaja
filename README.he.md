@@ -2,6 +2,8 @@
 
 ![לוגו Nexus Gaja](assets/logo.jpg)
 
+![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
 
@@ -12,6 +14,9 @@
 **Nexus Gaja** היא רשת תקשורת חכמה ורגישה להקשר שנועדה לחולל מהפכה בתקשורת העולמית.
 
 ## מטרה וחזון
+
+![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
+
 בעולם גלובלי, השפה היא לעתים קרובות המחסום הגדול ביותר. המטרה העיקרית של Nexus Gaja היא לאפשר תקשורת חלקה, נטולת מחסומים ומדויקת מבחינה הקשר בין אנשים - ללא קשר לשאלה אם הם דוברים שפה משותפת.
 
 לא מדובר רק בתרגום נוקשה של מילים, אלא ב-**העברת משמעות**. Nexus Gaja מחבר אנשים ברמה עמוקה יותר על ידי הבנת ניואנסים תרבותיים, אזוריים והקשריים, ובכך מאפשר שיחות אמיתיות ואותנטיות.
@@ -24,6 +29,8 @@
 ---
 
 ## ארכיטקטורה טכנית (קונספט ליבה)
+
+![קונספט תרגום Nexus Gaja](assets/img/nexus_translation.jpg)
 
 הליבה הטכנית של Nexus Gaja היא מודל תקשורת מותאם אישית המחולק לשלוש שכבות:
 
@@ -40,37 +47,39 @@
 
 ## ניהול בסיוע בינה מלאכותית (WP 1.8.4)
 
+![ניהול בינה מלאכותית של Nexus Gaja](assets/img/nexus_moderation.jpg)
+
 עם AI-Assisted Modation, אנו עושים צעד משמעותי מרעיון המוצר לארכיטקטורה טכנית, תוך התחשבות בתקנות האיחוד האירופי הנוכחיות (דרישות השקיפות של חוק ה-EU AI לפי סעיף 50; Digital Services Act עם נימוקים מובנים ואפשרויות ערעור).
 
-### 1. Basic Principle
-The most important sentence for the architecture is: **The moderation AI is a review system, not an autonomous ruling system.**
-It is designed to assist humans in moderation, not to determine itself which opinions are allowed to exist on Nexus Gaja.
-We differentiate between three levels:
-- **Detection:** "There could be a rule violation here."
-- **Evaluation:** "The probability of a rule violation is, for example, 94%."
-- **Decision:** "What action is actually taken?"
-The third level must be controlled by a human in severe cases.
+### 1. עיקרון בסיסי
+המשפט החשוב ביותר לארכיטקטורה הוא: **בינה מלאכותית של שליטה היא מערכת סקירה, לא מערכת פסיקה אוטונומית.**
+הוא נועד לסייע לבני אדם במתינות, לא לקבוע בעצמו אילו דעות מותר להתקיים ב-Nexus Gaja.
+אנו מבדילים בין שלוש רמות:
+- **זיהוי:** "ייתכן שיש כאן הפרת כללים."
+- **הערכה:** "ההסתברות להפרת כללים היא, למשל, 94%."
+- **החלטה:** "איזו פעולה ננקטת בפועל?"
+הרמה השלישית חייבת להיות נשלטת על ידי אדם במקרים חמורים.
 
-### 2. The Moderation AI as a Subsystem
-Instead of a single AI, a robust subsystem is established:
-```text
-                 NEXUS GAJA AI MODERATION
+### 2. הבינה המלאכותית של המנחה כתת-מערכת
+במקום AI יחיד, תת-מערכת חזקה מוקמת:
+```טקסט
+                 NEXUS GAJA AI מתינות
                           │
-       ┌──────────────────┼──────────────────┐
-       │                  │                  │
-  Language AI        Safety AI          Fraud AI
-       │                  │                  │
-       ├──────────────┬───┴──────────────┬───┤
-       │              │                  │
- Translation      Behaviour          Identity
- Analysis         Analysis            Signals
-       │              │                  │
-       └──────────────┼──────────────────┘
+       ┌──────────────────┼────────────────
+       │ │ │
+  שפה AI Safety AI הונאה AI
+       │ │ │
+       ├──────────────┬───┴────────────────
+       │ │ │
+ זהות התנהגות תרגום
+ ניתוח ניתוח אותות
+       │ │ │
+       └──────────────┼────────────────
                       ▼
-               Risk Assessment
+               הערכת סיכונים
                       │
                       ▼
-               Human Review
+               ביקורת אנושית
 ```
 
 ### 3. מודולי הבינה המלאכותית החשובים ביותר
@@ -91,11 +100,11 @@ Nexus Gaja משתמש בתשעה תחומי ניתוח מיוחדים:
 ### 5. מתינות רב לשונית
 מתינות לא יכולה פשוט להשוות מילים. עליו לנתח את הרמה הסמנטית (למשל, ניבים גרמניים לעומת ניבים יפניים לעומת ביטויים אזוריים).
 
-### 6. Original Language + Translation
-Original and translation are analyzed separately. Only then does the "Combined Moderation Assessment" take place. This allows Nexus Gaja to determine whether the translation itself may have escalated or altered the facts.
+### 6. שפת מקור + תרגום
+מקור ותרגום מנותחים בנפרד. רק לאחר מכן מתקיימת "הערכת מתינות משולבת". זה מאפשר ל-Nexus Gaja לקבוע אם התרגום עצמו אולי הסלים או שינה את העובדות.
 
 ### 7. Confidence Score
-Every AI evaluation receives a confidence score (e.g., Threat probability: 0.96). However: **Confidence Score ≠ Truth.** A score of 96% only means the model is highly certain of its classification, not necessarily that the user is guilty.
+כל הערכת AI מקבלת ציון ביטחון (למשל, הסתברות לאיום: 0.96). עם זאת: **ציון ביטחון ≠ אמת.** ציון של 96% רק אומר שהמודל בטוח מאוד בסיווג שלו, לא בהכרח שהמשתמש אשם.
 
 ### 8. אי הוודאות הופכת לאות בעצמה
 אם ה-AI אינו בטוח (למשל, איום: 0.62, סאטירה: 0.54), אסור לו פשוט לאכוף כללים קשים. במקום זאת, אי הוודאות מובנית ישירות בארכיטקטורה: **נדרשת ביקורת אנושית**.
@@ -143,7 +152,7 @@ Every AI evaluation receives a confidence score (e.g., Threat probability: 0.96)
 זה מתייחס לאותות של שימוש לרעה טכנית (למשל, פרסום ספאם המוני), לא מערכת דירוג חברתית כללית. Nexus Gaja אינה מקיימת מערכת אשראי חברתית - מתינות משרתת ביטחון, לא הערכת ערכו של אדם.
 
 ### 22. בינה מלאכותית של מתינות חייבת להיות ניתנת לביקורת
-כל ההחלטות האוטומטיות הרלוונטיות נרשמות (זיהוי אירוע, מזהה כלל, ביטחון, ביקורת אנושית וכו') כדי להבטיח מעקב.
+כל ההחלטות האוטומטיות הרלוונטיות מתועדות (זיהוי אירוע, מזהה כלל, ביטחון, ביקורת אנושית וכו') כדי להבטיח מעקב.
 
 ### 23. חיובי שווא, שלילי שווא ומדדי איכות
 סוגי שגיאות מנוטרים. לוח מחוונים מודד דיוק, ריקול, ובמיוחד את **שיעור היפוך הערעור** (מספר הערעורים המוצלחים).
@@ -162,36 +171,38 @@ Every AI evaluation receives a confidence score (e.g., Threat probability: 0.96)
 
 ## עקרונות מימון ומודל הכנסות (WP 1.10.1)
 
+![מודל Nexus Gaja Finance](assets/img/nexus_finance.jpg)
+
 עבור Nexus Gaja, עיקרון כלכלי חשוב ביותר חל: **אין פרסום מסורתי בפלטפורמה.**
 זה מבדיל מהותית את Nexus Gaja מרבות מהרשתות החברתיות של ימינו. עם זאת, זה לא אומר של-Nexus Gaja לא יכול להיות אופי מסחרי. להיפך, הפלטפורמה חייבת להיות כדאית כלכלית כדי שהמטרה החברתית שלה תוכל להחזיק מעמד. פעילות כלכלית היא אמצעי למטרה, לא המטרה העיקרית של הפלטפורמה.
 
 ### 1. עקרון NG-FIN-001
 Nexus Gaja מממנת את פעילותה באמצעות זרמי הכנסה שקופים המופרדים מהאינטרסים של המשתמשים, ולא באמצעות מונטיזציה של תשומת הלב של המשתמשים או הנתונים האישיים שלה.
 
-### 2. No Traditional Advertising
-Specifically prohibited are:
-- Banner ads
-- Pop-up ads
-- Auto-playing video ads
-- Sponsored posts in the standard feed
-- Personalized advertising profiles
-- Sale of user profiles or personal data
-- Advertising derived from private conversations.
+### 2. אין פרסום מסורתי
+אסורים במיוחד הם:
+- מודעות באנר
+- מודעות קופצות
+- הפעלה אוטומטית של מודעות וידאו
+- פוסטים ממומנים בפיד הסטנדרטי
+- פרופילי פרסום מותאמים אישית
+- מכירת פרופילי משתמשים או נתונים אישיים
+- פרסום הנגזר משיחות פרטיות.
 
-Nexus Gaja remains a **communication space rather than an advertising space**.
+Nexus Gaja נשאר **מרחב תקשורת ולא שטח פרסום**.
 
-### 3. Financing Without Advertising (The 6 Pillars)
-Financing is built on six pillars:
-```text
+### 3. מימון ללא פרסום (ששת העמודים)
+המימון בנוי על שישה עמודים:
+```טקסט
                  NEXUS GAJA
                      │
        ┌─────────────┼─────────────┐
-       ▼             ▼             ▼
-   PREMIUM       ORGANIZATION    DONATIONS
-       │             │             │
+       ▼ ▼ ▼
+   תרומות פרימיום של ארגון
+       │ │ │
        ├─────────────┼─────────────┤
-       ▼             ▼             ▼
-    GRANTS       PARTNERSHIPS    SERVICES
+       ▼ ▼ ▼
+    מעניק שירותי שותפויות
 ```
 
 #### עמודה 1 - חברות בסיסית בחינם
@@ -204,13 +215,13 @@ Financing is built on six pillars:
 #### עמוד 3 – ארגונים
 חשבונות מיוחדים לבתי ספר, אוניברסיטאות, ארגונים לא ממשלתיים, עסקים ועיריות (**ארגון Nexus Gaja**). ניתן לתמוך בבתי ספר באמצעות תעריפים מוסדיים כמכפילים של הבנה בינלאומית.
 
-#### Pillar 4 – Donations
-The **Nexus Gaja Funding Pool** accepts general and earmarked donations (e.g., "for international youth communication"). A **Fund Allocation Ledger** ensures transparent allocation of funds.
-**Purpose Fund & Tombola:** A portion of donations feeds a pool for free/discounted usage. A lottery/tombola mechanism can allocate these funds transparently and auditably.
+#### עמוד 4 – תרומות
+**מאגר המימון של Nexus Gaja** מקבל תרומות כלליות ומיועדות (למשל, "לתקשורת בינלאומית לנוער"). **פנקס הקצאת כספים** מבטיח הקצאה שקופה של כספים.
+**קרן תכלית וטומבולה:** חלק מהתרומות מזין בריכה לשימוש חינם/מוזל. מנגנון הגרלה/טומבולה יכול להקצות את הכספים הללו בשקיפות ובביקורת.
 
-#### נדבך 5 – מימון מוסדי
-קרנות, תוכניות מימון תרבות או תוכניות מדינה.
-**NG-FIN-002:** תמיכה פיננסית אינה קונה בקרה עריכה או טכנית (עצמאות).
+#### Pillar 5 – Institutional Funding
+Foundations, cultural funding programs, or state programs.
+**NG-FIN-002:** Financial support does not buy editorial or technical control (Independence).
 
 #### עמוד 6 – שירותים מסחריים
 שירותי B2B כמו **תרגום כשירות** (API), תקשורת ארגונית או חדרי ישיבות בינלאומיים, מבלי להכביד על עדכון המשתמש הסטנדרטי.
@@ -225,47 +236,47 @@ The **Nexus Gaja Funding Pool** accepts general and earmarked donations (e.g., "
 התמחור מבוסס על עלות אוריינטציה, הגינות וסולידריות.
 **Solidarity Premium:** אפשרות וולונטרית למשתמשי פרימיום לממן חלק מהגישה של משתמש אחר. סולידריות כפויה או חברת מעמדות פרימיום (פחות כבוד/מתינות למשתמשים בחינם) אסורה בהחלט.
 
-### 7. מדדי KPI כלכליים במקום כלכלת מעורבות
-אין תלות בשמירה על המשתמשים "מקוונים כמה שיותר זמן" (ללא ragebait, עדכונים אינסופיים).
-במקום זאת, אנו משתמשים במדדים כמו:
-- **מדד התקשורת העולמי (GCI):** קשרי תקשורת מוצלחים בין אנשים מאזורים לשוניים/תרבותיים שונים.
-- **יחס קיימות פלטפורמה (PSR):** הכנסות חוזרות / עלויות תפעול חוזרות (יעד ≥ 1).
+### 7. Economic KPIs Instead of Engagement Economy
+No dependence on keeping users "online as long as possible" (no ragebait, infinite feeds).
+Instead, we use metrics like:
+- **Global Communication Index (GCI):** Successful communication relationships between people from different linguistic/cultural regions.
+- **Platform Sustainability Ratio (PSR):** Recurring revenue / recurring operating costs (Target ≥ 1).
 
-### 8. מה שאנחנו במפורש לא רוצים (רשימה שלילית)
-Nexus Gaja **לא** ממומן על ידי:
-❌ מכירת נתונים אישיים
-❌ פרסום מסורתי מותאם אישית
-❌ ניטור התנהגות המשתמשים למטרות פרסום
-❌ מכירת נתוני תקשורת פרטיים
-❌ שימוש בנתוני AI מוסתר
-❌ חומות תשלום פרימיום מניפולטיביות
-❌ הגבלת טווח הגעה מלאכותי למונטיזציה
-❌ השפעה פוליטית בתשלום
-❌ רכישת החלטות ניהול מועדפות.
+### 8. What We Explicitly Do Not Want (Negative List)
+Nexus Gaja is **not** financed by:
+❌ Sale of personal data
+❌ Personalized traditional advertising
+❌ Monitoring user behavior for advertising purposes
+❌ Sale of private communication data
+❌ Hidden AI data usage
+❌ Manipulative Premium paywalls
+❌ Artificial reach restriction for monetization
+❌ Paid political influence
+❌ Purchase of privileged moderation decisions.
 
-### 9. ארכיטקטורה פיננסית ראשונית
-```טקסט
+### 9. Preliminary Financial Architecture
+```text
                          NEXUS GAJA
                               │
-             ┌────────────────┼──────────────
-             │ │ │
-             ▼ ▼ ▼
-          ארגוני משתמשים מפעל
-             │ │ │
-             └────────────────┼──────────────
+             ┌────────────────┼────────────────┐
+             │                │                │
+             ▼                ▼                ▼
+          USERS          ORGANIZATIONS      ENTERPRISE
+             │                │                │
+             └────────────────┼────────────────┘
                               │
-                       שירותי פלטפורמה
+                       PLATFORM SERVICES
                               │
-          ┌─────────────────── ┼───────────────────┐
-          ▼ ▼ ▼
-       PREMIUM DONATIONS API
+          ┌───────────────────┼───────────────────┐
+          ▼                   ▼                   ▼
+       PREMIUM             DONATIONS            API
                               │
                     ┌─────────┴─────────┐
-                    ▼ ▼
-               כספים מוגבלים לקרן כללית
+                    ▼                   ▼
+               GENERAL FUND       RESTRICTED FUNDS
                                         │
                                         ▼
-                                  מטרה חברתית
+                                  SOCIAL PURPOSE
 ```
 
 ### סיכום עקרונות המימון (NG-FIN)
@@ -280,7 +291,7 @@ Nexus Gaja **לא** ממומן על ידי:
 - **NG-FIN-009:** התמקדו בקיימות ולא במונטיזציה מקסימלית.
 - **NG-FIN-010:** המבנה מבטיח לצמיתות את המטרה החברתית.
 
-## API, ממשקים וארכיטקטורת תקשורת (WP 1.11.3)
+## API, Interfaces, and Communication Architecture (WP 1.11.3)
 
 כדי להבטיח יציבות מערכת, אבטחה ומדרגיות, Nexus Gaja פועלת לפי ארכיטקטורה מונעת על ידי אירועי API ו-API.
 
@@ -299,6 +310,8 @@ Nexus Gaja **לא** ממומן על ידי:
 - **דפוס אימפוטנציה ודפוס תיבת דואר יוצא:** פעולות קריטיות (כמו תרומות או הודעות) נועדו להיות אימפוטנטיות כדי למנוע עיבוד כפול, תוך שימוש בדפוס תיבת הדואר היוצא כדי להבטיח שאירועים לעולם לא יאבדו אפילו במהלך עסקאות מסד נתונים.
 
 ## דגם דומיין MVP (WP 1.12)
+
+![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
 
 Nexus Gaja משתמש בארכיטקטורת MVP מבוססת-דומיין (ADR-025), שתוכננה כמונוליט מודולרי עם גבולות ברורים של תחום. מבנה זה מונע מורכבות מוקדמת של שירות מיקרו תוך שמירה על הגמישות לפצל תחומים ספציפיים מאוחר יותר.
 

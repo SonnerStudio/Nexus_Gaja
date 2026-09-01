@@ -1,6 +1,8 @@
-# Nexus Gaja
+# Некус Гаја
 
-![Nexus Gaja Logo](assets/logo.jpg)
+![Некус Гаја Лого](ассетс/лого.јпг)
+
+![Некус Гаја Херо](ассетс/имг/некус_херо.јпг)
 
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
@@ -9,9 +11,12 @@
 
 </details>
 
-**Nexus Gaja** is an intelligent, context-sensitive communication network designed to revolutionize global communication.
+**Некус Гаја** је интелигентна комуникациона мрежа осетљива на контекст дизајнирана да револуционише глобалну комуникацију.
 
 ## Сврха и визија
+
+![Некус Гаја Висион](ассетс/имг/некус_висион.јпг)
+
 У глобализованом свету језик је често највећа препрека. Главни циљ Некус Гаја је да омогући беспрекорну, беспрекорну и контекстуално тачну комуникацију између људи – без обзира да ли говоре заједнички језик.
 
 Не ради се само о ригидном превођењу речи, већ о **преношењу значења**. Некус Гаја повезује људе на дубљем нивоу разумевањем културних, регионалних и контекстуалних нијанси, омогућавајући тако искрене, аутентичне разговоре.
@@ -23,7 +28,9 @@
 
 ---
 
-## Техничка архитектура (основни концепт)
+## Technical Architecture (Core Concept)
+
+![Концепт превода Некус Гаја](ассетс/имг/некус_транслатион.јпг)
 
 Техничко језгро Некус Гаја је прилагођени комуникациони модел који је стриктно подељен на три слоја:
 
@@ -36,9 +43,11 @@
 `Порука` → `Претходне поруке` → `Контекст теме` → `Контекст заједнице` → `Језик / Регион` → `Корисничка подешавања`
 
 ### Ефикасност кроз превод на захтев
-Превођење се врши са ефикасношћу ресурса само **на захтев** (на захтев). Када корисник затражи садржај, он се преводи на његов унапред подешени језик. Једном када се генерише превод за одређени језик, он се трајно чува (кешује) како би се драстично убрзали будући захтеви.
+Превод се врши са ефикасношћу ресурса само **на захтев** (на захтев). Када корисник затражи садржај, он се преводи на његов унапред подешени језик. Једном када се генерише превод за одређени језик, он се трајно чува (кешује) како би се драстично убрзали будући захтеви.
 
 ## Модерација уз помоћ вештачке интелигенције (ВП 1.8.4)
+
+![Некус Гаја АИ Модератион](ассетс/имг/некус_модератион.јпг)
 
 Са модерацијом уз помоћ вештачке интелигенције, правимо значајан корак од идеје о производу до техничке архитектуре, узимајући у обзир тренутне прописе ЕУ (захтеви транспарентности ЕУ закона о вештачкој интелигенцији према члану 50; Закон о дигиталним услугама са разумљивим оправдањима и опцијама жалбе).
 
@@ -85,11 +94,11 @@
 - **М8 – Сигурност медија**: Анализира слике, аудио, видео, документе.
 - **М9 – Цонтект Енгине**: Најважнији модул. Он спаја појединачне налазе.
 
-### 4. Зашто је Цонтект Енгине пресудан
-Чиста претрага по кључним речима не би била довољна. „Могао бих да га убијем од смеха“ семантички садржи насиље, али је фигура говора. „Сутра у 20 часова пуцаћу на њега испред његове куће“ је сасвим друга ситуација. АИ мора да разуме шта изјава значи у свом специфичном контексту.
+### 4. Why the Context Engine is Crucial
+A pure keyword search would be insufficient. "I could kill him from laughing" semantically contains violence but is a figure of speech. "Tomorrow at 8 PM I will shoot him in front of his house" is a completely different situation. The AI must understand what the statement means in its specific context.
 
-### 5. Вишејезична модерација
-Умереност не може једноставно да пореди речи. Мора анализирати семантички ниво (нпр. немачки идиоми наспрам јапанских идиома наспрам регионалних израза).
+### 5. Multilingual Moderation
+Moderation cannot simply compare words. It must analyze the semantic level (e.g., German idioms vs. Japanese idioms vs. regional expressions).
 
 ### 6. Оригинални језик + превод
 Оригинал и превод се анализирају одвојено. Тек тада се врши „Комбинована процена модерације“. Ово омогућава Некус Гаја да утврди да ли је сам превод можда ескалирао или изменио чињенице.
@@ -112,17 +121,17 @@
 ### 11. Заштитне мере се могу десити аутоматски
 У случају конкретне претње (откривена претња → високо поверење → привремено ограничење → људски преглед → одлука), штитимо угроженог корисника без претварања вештачке интелигенције у судију.
 
-### 12. АИ мора бити у стању да оправда своје одлуке
-ДСА захтева јасне и конкретне разлоге. АИ пружа структурирано резоновање: правило (НГ-ЦОНДУЦТ-004), откривено (потенцијална конкретна претња), поверење (0,94), релевантан контекст (претходне 4 поруке), препоручена акција (људски преглед).
+### 12. The AI Must Be Able to Justify Its Decisions
+The DSA requires clear and specific reasons. The AI provides structured reasoning: Rule (NG-CONDUCT-004), Detected (Potential concrete threat), Confidence (0.94), Relevant context (Previous 4 messages), Recommended action (Human review).
 
-### 13. AI Must Not Secretly Alter Content
-**Moderation AI must never alter the original content unnoticed.** During automatic correction, translation, or summarization, the original is always preserved.
+### 13. АИ не сме тајно да мења садржај
+**Модерација АИ никада не сме да мења оригинални садржај непримећено.** Током аутоматске корекције, превода или резимирања, оригинал је увек сачуван.
 
 ### 14. Садржај генерисан вештачком интелигенцијом
 Разликујемо: креиране од стране људи, уз помоћ вештачке интелигенције, које генерише вештачка интелигенција и којима манипулише вештачка интелигенција. Ово ће постати део метаподатака садржаја.
 
-### 15. Labeling of AI Content & AI Provenance Layer
-According to the transparency rules of the EU AI Act (effective August 2026), AI-generated content must be identifiable. We provide an AI Provenance Layer that stores metadata (AI-Origin, Model, Timestamp, Human Review).
+### 15. Означавање АИ садржаја и слоја порекла вештачке интелигенције
+У складу са правилима о транспарентности Закона о вештачкој интелигенцији ЕУ (на снази од августа 2026.), садржај који генерише вештачка интелигенција мора да буде препознатљив. Пружамо АИ Провенанце Лаиер који чува метаподатке (АИ-Порекло, модел, временска ознака, људски преглед).
 
 ### 16. Deepfake Detection
 The architecture aims to detect synthetic images, cloned voices, and deepfakes. However, detection is not automatically proof.
@@ -130,8 +139,8 @@ The architecture aims to detect synthetic images, cloned voices, and deepfakes. 
 ### 17. Нема аутоматске "машине за истину" (Модерација = Провера чињеница)
 Један систем проверава: „Да ли садржај крши правила?“ (Модерација садржаја), други пружа: „Које информације и извори су доступни?“ (Информациона помоћ). Мишљења се не бришу једноставно зато што су „погрешна“.
 
-### 18. Protection Against Cultural Misinterpretation
-The AI requires **Cultural Context Models** to prevent the communication norms of one country from being assumed as a global standard.
+### 18. Заштита од погрешног тумачења културе
+АИ захтева **Модели културног контекста** да спречи да се комуникационе норме једне земље претпоставе као глобални стандард.
 
 ### 19. Иронија, сатира и хумор
 АИ користи контекст, емоџије, историју разговора и познате структуре ироније, али мора да дозволи несигурност када су значења двосмислена.
@@ -148,11 +157,11 @@ The AI requires **Cultural Context Models** to prevent the communication norms o
 ### 23. Лажни позитивни, лажни негативни и метрика квалитета
 Врсте грешака се прате. Контролна табла мери прецизност, опозив, а посебно **Стопу поништења жалбе** (број успешних жалби).
 
-### 24. Language Equity & Translation Bias
-Moderation quality must be comparable across all supported languages (Multilingual Moderation Benchmark). If moderation results differ between the original and the translation (Translation Conflict), this must be specifically reviewed.
+### 24. Језичка једнакост и пристрасност превођења
+Квалитет модерирања мора да буде упоредив на свим подржаним језицима (Мултилингуал Модератион Бенцхмарк). Ако се резултати модерирања разликују између оригинала и превода (конфликт превода), ово се мора посебно прегледати.
 
-### 25. Architecture Proposal & Policy Engine
-Rules (Policy Engine) are not hardcoded into the AI models. The AI provides findings; the Policy Engine decides based on current rules. This allows for **model changes without rule changes**.
+### 25. Архитектура предлога и механизама политике
+Правила (Полици Енгине) нису чврсто кодирана у АИ моделима. АИ даје налазе; Полици Енгине одлучује на основу тренутних правила. Ово омогућава **промене модела без промена правила**.
 
 ### 26. Људски остаје коначни ауторитет
 - **НГ-АИ-МОД-001**: АИ помаже у откривању и класификацији, али не замењује људски преглед у тешким одлукама.
@@ -160,13 +169,15 @@ Rules (Policy Engine) are not hardcoded into the AI models. The AI provides find
 
 **Резиме**: Градимо систем у четири фазе: детекција вештачке интелигенције, анализа контекста и ризика, механизам политике и управљање људима. Ово омогућава снажну аутоматизацију без стварања опасне архитектуре „АИ као судија“.
 
-## Financing Principles and Revenue Model (WP 1.10.1)
+## Принципи финансирања и модел прихода (ВП 1.10.1)
+
+![Некус Гаја Финанце Модел](ассетс/имг/некус_финанце.јпг)
 
 За Некус Гаја важи веома важан економски принцип: **Нема традиционалног оглашавања унутар платформе.**
 Ово суштински разликује Некус Гаја од многих данашњих друштвених мрежа. Међутим, то не значи да Некус Гаја не може имати комерцијални карактер. Напротив, платформа мора бити економски одржива да би њена друштвена сврха могла опстати. Економска активност је средство за постизање циља, а не примарна сврха платформе.
 
-### 1. Принцип НГ-ФИН-001
-Некус Гаја финансира своје пословање кроз транспарентне токове прихода одвојене од интереса корисника, а не кроз монетизацију пажње корисника или личних података.
+### 1. Principle NG-FIN-001
+Nexus Gaja finances its operations through transparent revenue streams separated from user interests, and not through the monetization of its users' attention or personal data.
 
 ### 2. Без традиционалног оглашавања
 Посебно су забрањени:
@@ -208,15 +219,15 @@ Voluntary paid offerings (**Nexus Gaja Plus**) providing greater storage limits,
 **Некус Гаја Фундинг Поол** прихвата опште и наменске донације (нпр. „за међународну комуникацију младих“). **Књига расподеле средстава** обезбеђује транспарентну алокацију средстава.
 **Сврсни фонд и Томбола:** Део донација храни фонд за бесплатно коришћење/понижено коришћење. Механизам лутрије/томболе може додијелити ова средства транспарентно и под контролом.
 
-#### Pillar 5 – Institutional Funding
-Foundations, cultural funding programs, or state programs.
-**NG-FIN-002:** Financial support does not buy editorial or technical control (Independence).
+#### Стуб 5 – Институционално финансирање
+Фондације, програми финансирања културе или државни програми.
+**НГ-ФИН-002:** Финансијска подршка не купује уређивачку или техничку контролу (Независност).
 
 #### Стуб 6 – Комерцијалне услуге
 Б2Б услуге као што су **Превођење као услуга** (АПИ), организациона комуникација или међународне конференцијске собе, без оптерећивања стандардног корисничког фида.
 
-### 4. No Data Monetization & Surveillance Economy
-**NG-FIN-003:** Personal user data is not a commodity. No sale of lists, profiles, or histories. Nexus Gaja does not profit from psychological surveillance (Surveillance Economy).
+### 4. Нема монетизације података и економског надзора
+**НГ-ФИН-003:** Лични подаци корисника нису роба. Нема продаје листа, профила или историје. Некус Гаја не профитира од психолошког надзора (Сурвеилланце Ецономи).
 
 ### 5. Финансијска транспарентност и књига фондова
 **Некус Гаја Финансијска транспарентност:** Објављивање збирних финансијских структура. Наменске донације добијају техничко рачуноводство (ИД фонда → Сврха → Стање → Алокација). Нема унакрсног субвенционисања друштвених сврха у корпоративни маркетинг.
@@ -231,17 +242,17 @@ Foundations, cultural funding programs, or state programs.
 - **Глобални комуникацијски индекс (ГЦИ):** Успешни комуникацијски односи између људи из различитих језичких/културних региона.
 - **Однос одрживости платформе (ПСР):** Понављајући приход / периодични оперативни трошкови (Циљ ≥ 1).
 
-### 8. What We Explicitly Do Not Want (Negative List)
-Nexus Gaja is **not** financed by:
-❌ Sale of personal data
-❌ Personalized traditional advertising
-❌ Monitoring user behavior for advertising purposes
-❌ Sale of private communication data
-❌ Hidden AI data usage
-❌ Manipulative Premium paywalls
-❌ Artificial reach restriction for monetization
-❌ Paid political influence
-❌ Purchase of privileged moderation decisions.
+### 8. Шта изричито не желимо (негативна листа)
+Некус Гаја **не** финансира:
+❌ Продаја личних података
+❌ Персонализовано традиционално оглашавање
+❌ Праћење понашања корисника у рекламне сврхе
+❌ Продаја приватних комуникационих података
+❌ Скривена употреба АИ података
+❌ Манипулативни Премиум паивалл
+❌ Вештачко ограничење досега за монетизацију
+❌ Плаћени политички утицај
+❌ Куповина привилегованих одлука о модерирању.
 
 ### 9. Preliminary Financial Architecture
 ```text
@@ -268,26 +279,26 @@ Nexus Gaja is **not** financed by:
                                   SOCIAL PURPOSE
 ```
 
-### Summary of Financing Principles (NG-FIN)
-- **NG-FIN-001:** No financing through traditional advertising.
-- **NG-FIN-002:** No editorial/technical control through financial support.
-- **NG-FIN-003:** Personal data is not a commodity.
-- **NG-FIN-004:** Basic communication remains accessible without payment.
-- **NG-FIN-005:** Premium offerings must not degrade free users.
-- **NG-FIN-006:** Earmarked funds are managed according to their purpose.
-- **NG-FIN-007:** Transparent management of donations and grants.
-- **NG-FIN-008:** Commercial B2B services do not compromise independence.
-- **NG-FIN-009:** Focus on sustainability rather than maximum monetization.
-- **NG-FIN-010:** The structure permanently secures the social purpose.
+### Резиме принципа финансирања (НГ-ФИН)
+- **НГ-ФИН-001:** Нема финансирања путем традиционалног оглашавања.
+- **НГ-ФИН-002:** Нема уређивачке/техничке контроле кроз финансијску подршку.
+- **НГ-ФИН-003:** Лични подаци нису роба.
+- **НГ-ФИН-004:** Основна комуникација остаје доступна без плаћања.
+- **НГ-ФИН-005:** Премиум понуде не смеју да деградирају бесплатне кориснике.
+- **НГ-ФИН-006:** Наменским средствима управља се према њиховој намени.
+- **НГ-ФИН-007:** Транспарентно управљање донацијама и грантовима.
+- **НГ-ФИН-008:** Комерцијалне Б2Б услуге не угрожавају независност.
+- **НГ-ФИН-009:** Фокусирајте се на одрживост, а не на максималну монетизацију.
+- **НГ-ФИН-010:** Структура трајно обезбеђује друштвену намену.
 
 ## API, Interfaces, and Communication Architecture (WP 1.11.3)
 
 To ensure system stability, security, and scalability, Nexus Gaja follows a strictly API-first and event-driven architecture. 
 
-### Основни принципи
-- **Нема директног приступа бази података:** Компоненте комуницирају искључиво преко дефинисаних интерфејса (АПИ-ја или догађаја), никада путем директних упита базе података других услуга.
-- **АПИ мрежни пролаз:** Сви захтеви спољног клијента руте се кроз АПИ мрежни пролаз који рукује аутентификацијом, рутирањем и ограничавањем брзине.
-- **Апстракција добављача:** Екстерни сервиси (АИ модели, добављачи плаћања, машине за превођење) су интегрисани преко слојева апстракције, избегавајући чврсто кодиране зависности и омогућавајући флексибилну замену добављача.
+### Core Principles
+- **No Direct Database Access:** Components communicate exclusively via defined interfaces (APIs or Events), never through direct database queries of other services.
+- **API Gateway:** All external client requests route through an API Gateway handling authentication, routing, and rate limiting.
+- **Provider Abstraction:** External services (AI models, payment providers, translation engines) are integrated via abstraction layers, avoiding hardcoded dependencies and enabling flexible provider swapping.
 
 ### Комуникациони обрасци
 - **Синхрони АПИ-ји (РЕСТ/ХТТПС):** Користи се за тренутне захтеве као што су пријављивање, подешавања профила или директни преводи.
@@ -300,14 +311,16 @@ To ensure system stability, security, and scalability, Nexus Gaja follows a stri
 
 ## МВП модел домена (ВП 1.12)
 
-Некус Гаја користи МВП архитектуру стриктно вођену доменом (АДР-025), дизајнирану као модуларни монолит са јасним границама домена. Ова структура спречава прерану сложеност микросервиса, задржавајући флексибилност за касније раздвајање одређених домена.
+![Некус Гаја Модулар Монолитх](ассетс/имг/некус_арцхитецтуре.јпг)
 
-### Основни ентитети домена
-Архитектура експлицитно раздваја различите концепте да би се обезбедио интегритет података и избегле структуралне замке као што је „Корисничко име = Човек“:
-- **Идентитет и налози:** `Особа` = `Кориснички налог` = `Верификација идентитета`. Верификована особа учествује преко налога, али ентитети остају одвојени.
-- **Комуникација:** `Порука` = `Превод`. Оригинална порука остаје непроменљива; преводи су повезани ентитети.
-- **Модерација:** `Извештај` = `Одлука о модерирању`. Извештај је само тврдња; случај умерености спроводи истрагу.
-- **Финансије:** `Донација` = `Стање фонда`. Уплате се књиже преко непроменљиве књиге у фонд, чиме се обезбеђује финансијска транспарентност.
+Nexus Gaja employs a strictly Domain-Driven MVP Architecture (ADR-025), designed as a modular monolith with clear domain boundaries. This structure prevents premature microservice complexity while retaining the flexibility to split out specific domains later.
+
+### Core Domain Entities
+The architecture explicitly separates distinct concepts to ensure data integrity and avoid structural pitfalls like "Username = Human":
+- **Identity & Accounts:** `Person` ≠ `User Account` ≠ `Identity Verification`. A verified person participates via an account, but the entities remain separate.
+- **Communication:** `Message` ≠ `Translation`. The original message remains immutable; translations are linked entities.
+- **Moderation:** `Report` ≠ `Moderation Decision`. A report is merely a claim; a moderation case conducts the investigation.
+- **Finances:** `Donation` ≠ `Fund Balance`. Payments are booked via an immutable ledger to a fund, ensuring financial transparency.
 
 ### Повезани домени
 Систем је подељен на јасне логичке домене (ограничени контексти): идентитет, налог, организација, комуникација, заједница, језик, модерација, обавештења, финансије и управљање. Ови домени мапирају читав пут од стварних субјеката (корисника, школа, невладиних организација) до њихових дигиталних интеракција и повезаног управљања.

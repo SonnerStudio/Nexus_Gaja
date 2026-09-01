@@ -2,6 +2,8 @@
 
 ![Nexus Gaja Logo](assets/logo.jpg)
 
+![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
 
@@ -12,6 +14,9 @@
 **Nexus Gaja** is an intelligent, context-sensitive communication network designed to revolutionize global communication.
 
 ## Purpose and Vision
+
+![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
+
 In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
 
 It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
@@ -24,6 +29,8 @@ It's not just about rigidly translating words, but about **transferring meaning*
 ---
 
 ## Technical Architecture (Core Concept)
+
+![Nexus Gaja Translation Concept](assets/img/nexus_translation.jpg)
 
 The technical core of Nexus Gaja is a custom-built communication model that is strictly divided into three layers:
 
@@ -39,6 +46,8 @@ Translations in Nexus Gaja never view messages in isolation. The engine consider
 Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.
 
 ## AI-Assisted Moderation (WP 1.8.4)
+
+![Nexus Gaja AI Moderation](assets/img/nexus_moderation.jpg)
 
 With AI-Assisted Moderation, we are taking a significant step from product idea to technical architecture, taking into account current EU regulations (transparency requirements of the EU AI Act under Art. 50; Digital Services Act with comprehensible justifications and appeal options).
 
@@ -161,6 +170,8 @@ Rules (Policy Engine) are not hardcoded into the AI models. The AI provides find
 **Summary**: We are building a four-stage system: AI Detection, Context and Risk Analysis, Policy Engine, and Human Governance. This enables strong automation without creating a dangerous "AI as Judge" architecture.
 
 ## Financing Principles and Revenue Model (WP 1.10.1)
+
+![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
 For Nexus Gaja, a highly important economic principle applies: **No traditional advertising within the platform.**
 This fundamentally distinguishes Nexus Gaja from many of today's social networks. However, this does not mean that Nexus Gaja cannot have a commercial character. On the contrary, the platform must be economically viable so that its social purpose can endure. Economic activity is a means to an end, not the primary purpose of the platform.
@@ -299,6 +310,8 @@ To ensure system stability, security, and scalability, Nexus Gaja follows a stri
 - **Idempotency & Outbox Pattern:** Critical operations (like donations or messaging) are designed to be idempotent to prevent duplicate processing, utilizing the Outbox pattern to ensure events are never lost even during database transactions.
 
 ## MVP Domain Model (WP 1.12)
+
+![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
 
 Nexus Gaja employs a strictly Domain-Driven MVP Architecture (ADR-025), designed as a modular monolith with clear domain boundaries. This structure prevents premature microservice complexity while retaining the flexibility to split out specific domains later.
 

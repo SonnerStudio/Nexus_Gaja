@@ -2,6 +2,8 @@
 
 ![Λογότυπο Nexus Gaja](assets/logo.jpg)
 
+![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
 
@@ -12,6 +14,9 @@
 Το **Nexus Gaja** είναι ένα έξυπνο δίκτυο επικοινωνίας με ευαισθησία στο πλαίσιο, σχεδιασμένο να φέρει επανάσταση στην παγκόσμια επικοινωνία.
 
 ## Σκοπός και Όραμα
+
+![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
+
 Σε έναν παγκοσμιοποιημένο κόσμο, η γλώσσα είναι συχνά το μεγαλύτερο εμπόδιο. Ο κύριος στόχος του Nexus Gaja είναι να επιτρέψει την απρόσκοπτη, χωρίς εμπόδια και την ακριβή επικοινωνία μεταξύ των ανθρώπων, ανεξάρτητα από το αν μιλούν μια κοινή γλώσσα.
 
 Δεν πρόκειται μόνο για αυστηρή μετάφραση λέξεων, αλλά για **μεταφορά νοήματος**. Το Nexus Gaja συνδέει τους ανθρώπους σε ένα βαθύτερο επίπεδο κατανοώντας πολιτιστικές, τοπικές και συμφραζόμενες αποχρώσεις, επιτρέποντας έτσι γνήσιες, αυθεντικές συνομιλίες.
@@ -25,52 +30,56 @@
 
 ## Τεχνική Αρχιτεκτονική (Core Concept)
 
+![Nexus Gaja Translation Concept](assets/img/nexus_translation.jpg)
+
 Ο τεχνικός πυρήνας του Nexus Gaja είναι ένα προσαρμοσμένο μοντέλο επικοινωνίας που χωρίζεται αυστηρά σε τρία επίπεδα:
 
-1. **Original**: The communication object (message) created by the sender always remains immutable.
-2. **Semantic Interpretation**: The system analyzes not just the words, but the actual meaning.
-3. **Target Language Representation**: The AI merely creates a temporary or cached representation of the original for the respective recipient based on their preferred language. Translations never overwrite the original message.
+1. **Πρωτότυπο**: Το αντικείμενο επικοινωνίας (μήνυμα) που δημιουργείται από τον αποστολέα παραμένει πάντα αμετάβλητο.
+2. **Σημασιολογική Ερμηνεία**: Το σύστημα αναλύει όχι μόνο τις λέξεις, αλλά το πραγματικό νόημα.
+3. **Αναπαράσταση γλώσσας προορισμού**: Η τεχνητή νοημοσύνη δημιουργεί απλώς μια προσωρινή ή προσωρινή αναπαράσταση του πρωτοτύπου για τον αντίστοιχο παραλήπτη με βάση τη γλώσσα που προτιμά. Οι μεταφράσεις δεν αντικαθιστούν ποτέ το αρχικό μήνυμα.
 
-### Context Dependency
-Translations in Nexus Gaja never view messages in isolation. The engine considers the entire hierarchy:
-`Message` → `Previous Messages` → `Thread Context` → `Community Context` → `Language / Region` → `User Preferences`
+### Εξάρτηση περιβάλλοντος
+Οι μεταφράσεις στο Nexus Gaja δεν προβάλλουν ποτέ τα μηνύματα μεμονωμένα. Ο κινητήρας εξετάζει ολόκληρη την ιεραρχία:
+«Μήνυμα» → «Προηγούμενα μηνύματα» → «Πλαίσιο νήματος» → «Πλαίσιο κοινότητας» → «Γλώσσα / Περιοχή» → «Προτιμήσεις χρήστη»
 
-### Efficiency through On-Demand Translation
-Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.
+### Αποδοτικότητα μέσω της μετάφρασης κατ' απαίτηση
+Η μετάφραση πραγματοποιείται με αποδοτικότητα πόρων μόνο **κατόπιν αιτήματος** (Κατ' απαίτηση). Όταν ένας χρήστης ζητά περιεχόμενο, αυτό μεταφράζεται στην προκαθορισμένη γλώσσα του. Μόλις δημιουργηθεί μια μετάφραση για μια συγκεκριμένη γλώσσα, αποθηκεύεται μόνιμα (αποθηκεύεται προσωρινά) για να επιταχύνει δραστικά τα μελλοντικά αιτήματα.
 
-## AI-Assisted Moderation (WP 1.8.4)
+## Εποπτεία υποβοηθούμενη από AI (WP 1.8.4)
 
-With AI-Assisted Moderation, we are taking a significant step from product idea to technical architecture, taking into account current EU regulations (transparency requirements of the EU AI Act under Art. 50; Digital Services Act with comprehensible justifications and appeal options).
+![Nexus Gaja AI Moderation](assets/img/nexus_moderation.jpg)
 
-### 1. Basic Principle
-The most important sentence for the architecture is: **The moderation AI is a review system, not an autonomous ruling system.**
-It is designed to assist humans in moderation, not to determine itself which opinions are allowed to exist on Nexus Gaja.
-We differentiate between three levels:
-- **Detection:** "There could be a rule violation here."
-- **Evaluation:** "The probability of a rule violation is, for example, 94%."
-- **Decision:** "What action is actually taken?"
-The third level must be controlled by a human in severe cases.
+Με το AI-Assisted Moderation, κάνουμε ένα σημαντικό βήμα από την ιδέα προϊόντος στην τεχνική αρχιτεκτονική, λαμβάνοντας υπόψη τους ισχύοντες κανονισμούς της ΕΕ (απαιτήσεις διαφάνειας του νόμου για την τεχνητή νοημοσύνη της ΕΕ βάσει του άρθρου 50, νόμος για τις ψηφιακές υπηρεσίες με κατανοητές αιτιολογήσεις και επιλογές προσφυγής).
 
-### 2. The Moderation AI as a Subsystem
-Instead of a single AI, a robust subsystem is established:
-```text
+### 1. Βασική Αρχή
+Η πιο σημαντική πρόταση για την αρχιτεκτονική είναι: **Το moderator AI είναι ένα σύστημα αναθεώρησης, όχι ένα αυτόνομο σύστημα εξουσίας.**
+Έχει σχεδιαστεί για να βοηθά τους ανθρώπους με μέτρο, όχι να καθορίζει ο ίδιος ποιες απόψεις επιτρέπεται να υπάρχουν για το Nexus Gaja.
+Διακρίνουμε τρία επίπεδα:
+- **Εντοπισμός:** "Θα μπορούσε να υπάρχει παραβίαση κανόνα εδώ."
+- **Αξιολόγηση:** "Η πιθανότητα παραβίασης κανόνα είναι, για παράδειγμα, 94%."
+- **Απόφαση:** "Τι ενέργεια λαμβάνεται στην πραγματικότητα;"
+Το τρίτο επίπεδο πρέπει να ελέγχεται από άνθρωπο σε σοβαρές περιπτώσεις.
+
+### 2. Το Moderation AI ως υποσύστημα
+Αντί για ένα μόνο AI, δημιουργείται ένα ισχυρό υποσύστημα:
+`` κείμενο
                  NEXUS GAJA AI MODERATION
                           │
-       ┌──────────────────┼──────────────────┐
-       │                  │                  │
-  Language AI        Safety AI          Fraud AI
-       │                  │                  │
-       ├──────────────┬───┴──────────────┬───┤
-       │              │                  │
- Translation      Behaviour          Identity
- Analysis         Analysis            Signals
-       │              │                  │
-       └──────────────┼──────────────────┘
+       ┌──────────────────┼───
+       │ │ │
+  Γλώσσα AI Safety AI Fraud AI
+       │ │ │
+       ├──────────────┬───┴───
+       │ │ │
+ Ταυτότητα Μεταφραστικής Συμπεριφοράς
+ Σήματα ανάλυσης ανάλυσης
+       │ │ │
+       └──────────────┼──────
                       ▼
-               Risk Assessment
+               Εκτίμηση Κινδύνου
                       │
                       ▼
-               Human Review
+               Ανθρώπινη Επιθεώρηση
 ```
 
 ### 3. Οι πιο σημαντικές μονάδες AI
@@ -88,8 +97,8 @@ Instead of a single AI, a robust subsystem is established:
 ### 4. Γιατί το Context Engine είναι ζωτικής σημασίας
 Μια καθαρή αναζήτηση λέξεων-κλειδιών θα ήταν ανεπαρκής. Το «Θα μπορούσα να τον σκοτώσω από το γέλιο» περιέχει σημασιολογικά βία αλλά είναι σχήμα λόγου. «Αύριο στις 8 το βράδυ θα τον πυροβολήσω μπροστά στο σπίτι του» είναι μια εντελώς διαφορετική κατάσταση. Το AI πρέπει να κατανοήσει τι σημαίνει η δήλωση στο συγκεκριμένο πλαίσιο.
 
-### 5. Multilingual Moderation
-Moderation cannot simply compare words. It must analyze the semantic level (e.g., German idioms vs. Japanese idioms vs. regional expressions).
+### 5. Πολύγλωσση μετριοπάθεια
+Το μέτρο δεν μπορεί απλώς να συγκρίνει λέξεις. Πρέπει να αναλύσει το σημασιολογικό επίπεδο (π.χ. γερμανικά ιδιώματα έναντι ιαπωνικών ιδιωμάτων έναντι τοπικών εκφράσεων).
 
 ### 6. Γλώσσα Πρωτότυπου + Μετάφραση
 Το πρωτότυπο και η μετάφραση αναλύονται χωριστά. Μόνο τότε πραγματοποιείται η «Αξιολόγηση Συνδυασμένης Εποπτείας». Αυτό επιτρέπει στο Nexus Gaja να προσδιορίσει εάν η ίδια η μετάφραση μπορεί να έχει κλιμακώσει ή να έχει αλλάξει τα γεγονότα.
@@ -158,9 +167,11 @@ Moderation cannot simply compare words. It must analyze the semantic level (e.g.
 - **NG-AI-MOD-001**: Το AI βοηθά στον εντοπισμό και την ταξινόμηση, αλλά δεν αντικαθιστά την ανθρώπινη αναθεώρηση σε σοβαρές αποφάσεις.
 - **NG-AI-MOD-002**: Οι αποφάσεις αυτοματοποιημένης εποπτείας πρέπει να είναι ανιχνεύσιμες, καταγραφές και επαληθεύσιμες.
 
-**Summary**: We are building a four-stage system: AI Detection, Context and Risk Analysis, Policy Engine, and Human Governance. This enables strong automation without creating a dangerous "AI as Judge" architecture.
+**Σύνοψη**: Χτίζουμε ένα σύστημα τεσσάρων σταδίων: Ανίχνευση τεχνητής νοημοσύνης, ανάλυση περιβάλλοντος και κινδύνου, μηχανισμός πολιτικής και ανθρώπινη διακυβέρνηση. Αυτό επιτρέπει τον ισχυρό αυτοματισμό χωρίς τη δημιουργία μιας επικίνδυνης αρχιτεκτονικής "AI as Judge".
 
-## Αρχές χρηματοδότησης και μοντέλο εσόδων (WP 1.10.1)
+## Financing Principles and Revenue Model (WP 1.10.1)
+
+![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
 Για το Nexus Gaja, ισχύει μια πολύ σημαντική οικονομική αρχή: **Καμία παραδοσιακή διαφήμιση εντός της πλατφόρμας.**
 Αυτό διακρίνει ουσιαστικά το Nexus Gaja από πολλά από τα σημερινά κοινωνικά δίκτυα. Ωστόσο, αυτό δεν σημαίνει ότι το Nexus Gaja δεν μπορεί να έχει εμπορικό χαρακτήρα. Αντίθετα, η πλατφόρμα πρέπει να είναι οικονομικά βιώσιμη για να μπορεί να αντέξει ο κοινωνικός της σκοπός. Η οικονομική δραστηριότητα είναι ένα μέσο για έναν σκοπό και όχι ο πρωταρχικός σκοπός της πλατφόρμας.
@@ -215,8 +226,8 @@ Moderation cannot simply compare words. It must analyze the semantic level (e.g.
 #### Πυλώνας 6 – Εμπορικές Υπηρεσίες
 Υπηρεσίες B2B όπως **Translation-as-a-Service** (API), οργανωτική επικοινωνία ή διεθνείς αίθουσες συνεδριάσεων, χωρίς να επιβαρύνεται η τυπική ροή χρηστών.
 
-### 4. Χωρίς οικονομία εσόδων και επιτήρησης δεδομένων
-**NG-FIN-003:** Τα προσωπικά δεδομένα χρήστη δεν είναι εμπόρευμα. Καμία πώληση λιστών, προφίλ ή ιστοριών. Η Nexus Gaja δεν επωφελείται από την ψυχολογική επιτήρηση (Surveillance Economy).
+### 4. No Data Monetization & Surveillance Economy
+**NG-FIN-003:** Personal user data is not a commodity. No sale of lists, profiles, or histories. Nexus Gaja does not profit from psychological surveillance (Surveillance Economy).
 
 ### 5. Χρηματοοικονομική Διαφάνεια & Καθολικό Ταμείου
 **Nexus Gaja Financial Transparency:** Δημοσίευση συγκεντρωτικών χρηματοοικονομικών δομών. Οι δωρεές που δεσμεύονται λαμβάνουν τεχνική λογιστική (Αναγνωριστικό Ταμείου → Σκοπός → Υπόλοιπο → Κατανομή). Καμία διασταυρούμενη επιδότηση κοινωνικών σκοπών στο εταιρικό μάρκετινγκ.
@@ -225,11 +236,11 @@ Moderation cannot simply compare words. It must analyze the semantic level (e.g.
 Η τιμολόγηση βασίζεται στον προσανατολισμό στο κόστος, τη δικαιοσύνη και την αλληλεγγύη.
 **Solidarity Premium:** Μια εθελοντική επιλογή για τους χρήστες Premium να χρηματοδοτήσουν ένα μέρος της πρόσβασης άλλου χρήστη. Η καταναγκαστική αλληλεγγύη ή μια κοινωνία υψηλής ποιότητας (λιγότερος σεβασμός/μετριοπάθεια για τους δωρεάν χρήστες) απαγορεύεται αυστηρά.
 
-### 7. Economic KPIs Instead of Engagement Economy
-No dependence on keeping users "online as long as possible" (no ragebait, infinite feeds).
-Instead, we use metrics like:
-- **Global Communication Index (GCI):** Successful communication relationships between people from different linguistic/cultural regions.
-- **Platform Sustainability Ratio (PSR):** Recurring revenue / recurring operating costs (Target ≥ 1).
+### 7. Οικονομικοί δείκτες απόδοσης τιμών αντί για οικονομία δέσμευσης
+Καμία εξάρτηση από τη διατήρηση των χρηστών "online όσο το δυνατόν περισσότερο" (χωρίς ragebait, άπειρες τροφοδοσίες).
+Αντίθετα, χρησιμοποιούμε μετρήσεις όπως:
+- **Παγκόσμια Δείκτης Επικοινωνίας (GCI):** Επιτυχείς σχέσεις επικοινωνίας μεταξύ ανθρώπων από διαφορετικές γλωσσικές/πολιτιστικές περιοχές.
+- **Δείκτης βιωσιμότητας πλατφόρμας (PSR):** Επαναλαμβανόμενα έσοδα / επαναλαμβανόμενα λειτουργικά κόστη (Στόχος ≥ 1).
 
 ### 8. Τι δεν θέλουμε ρητά (αρνητική λίστα)
 Το Nexus Gaja **δεν** χρηματοδοτείται από:
@@ -268,17 +279,17 @@ Instead, we use metrics like:
                                   ΚΟΙΝΩΝΙΚΟΣ ΣΚΟΠΟΣ
 ```
 
-### Περίληψη των Αρχών Χρηματοδότησης (NG-FIN)
-- **NG-FIN-001:** Χωρίς χρηματοδότηση μέσω παραδοσιακής διαφήμισης.
-- **NG-FIN-002:** Χωρίς συντακτικό/τεχνικό έλεγχο μέσω οικονομικής υποστήριξης.
-- **NG-FIN-003:** Τα προσωπικά δεδομένα δεν είναι εμπόρευμα.
-- **NG-FIN-004:** Η βασική επικοινωνία παραμένει προσβάσιμη χωρίς πληρωμή.
-- **NG-FIN-005:** Οι προσφορές Premium δεν πρέπει να υποβαθμίζουν τους δωρεάν χρήστες.
-- **NG-FIN-006:** Η διαχείριση των δεσμευμένων κεφαλαίων γίνεται σύμφωνα με τον σκοπό τους.
-- **NG-FIN-007:** Διαφανής διαχείριση δωρεών και επιχορηγήσεων.
-- **NG-FIN-008:** Οι εμπορικές υπηρεσίες B2B δεν θέτουν σε κίνδυνο την ανεξαρτησία.
-- **NG-FIN-009:** Εστίαση στη βιωσιμότητα και όχι στη μέγιστη δημιουργία εσόδων.
-- **NG-FIN-010:** Η δομή διασφαλίζει μόνιμα τον κοινωνικό σκοπό.
+### Summary of Financing Principles (NG-FIN)
+- **NG-FIN-001:** No financing through traditional advertising.
+- **NG-FIN-002:** No editorial/technical control through financial support.
+- **NG-FIN-003:** Personal data is not a commodity.
+- **NG-FIN-004:** Basic communication remains accessible without payment.
+- **NG-FIN-005:** Premium offerings must not degrade free users.
+- **NG-FIN-006:** Earmarked funds are managed according to their purpose.
+- **NG-FIN-007:** Transparent management of donations and grants.
+- **NG-FIN-008:** Commercial B2B services do not compromise independence.
+- **NG-FIN-009:** Focus on sustainability rather than maximum monetization.
+- **NG-FIN-010:** The structure permanently secures the social purpose.
 
 ## API, διεπαφές και αρχιτεκτονική επικοινωνίας (WP 1.11.3)
 
@@ -298,9 +309,11 @@ Instead, we use metrics like:
 - **Μοντέλο Zero-Trust:** Η εσωτερική κυκλοφορία δικτύου δεν είναι αυτόματα αξιόπιστη. Η ευαίσθητη επικοινωνία από υπηρεσία σε υπηρεσία απαιτεί έλεγχο ταυτότητας.
 - **Αδυναμία & Μοτίβο Εξερχόμενων:** Οι κρίσιμες λειτουργίες (όπως δωρεές ή μηνύματα) έχουν σχεδιαστεί ώστε να είναι ανίκανες για να αποτρέπουν την διπλότυπη επεξεργασία, χρησιμοποιώντας το μοτίβο Εξερχόμενων για να διασφαλιστεί ότι τα συμβάντα δεν θα χαθούν ποτέ ακόμη και κατά τις συναλλαγές της βάσης δεδομένων.
 
-## MVP Domain Model (WP 1.12)
+## Μοντέλο τομέα MVP (WP 1.12)
 
-Nexus Gaja employs a strictly Domain-Driven MVP Architecture (ADR-025), designed as a modular monolith with clear domain boundaries. This structure prevents premature microservice complexity while retaining the flexibility to split out specific domains later.
+![Modular Monolith Nexus Gaja](assets/img/nexus_architecture.jpg)
+
+Το Nexus Gaja χρησιμοποιεί μια αυστηρά Domain-Driven MVP Architecture (ADR-025), σχεδιασμένη ως αρθρωτός μονόλιθος με σαφή όρια τομέα. Αυτή η δομή αποτρέπει την πρόωρη πολυπλοκότητα των μικροϋπηρεσιών, ενώ διατηρεί την ευελιξία για διαχωρισμό συγκεκριμένων τομέων αργότερα.
 
 ### Οντότητες βασικού τομέα
 Η αρχιτεκτονική διαχωρίζει ρητά διαφορετικές έννοιες για να διασφαλίσει την ακεραιότητα των δεδομένων και να αποφύγει δομικές παγίδες όπως "Όνομα χρήστη = Άνθρωπος":

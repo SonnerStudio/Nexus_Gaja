@@ -2,6 +2,8 @@
 
 ![Nexus Gaja Logo](assets/logo.jpg)
 
+![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
 
@@ -11,8 +13,11 @@
 
 **Nexus Gaja**, küresel iletişimi devrim niteliğinde değiştirmek için tasarlanmış akıllı, bağlama duyarlı bir iletişim ağıdır.
 
-## Projenin Amacı ve Vizyonu
-Küreselleşen bir dünyada dil genellikle en büyük engeldir. Nexus Gaja'nın temel amacı, insanların ortak bir dil konuşup konuşmadıklarına bakılmaksızın, aralarında kesintisiz, engelsiz ve içerik olarak doğru bir iletişim sağlamaktır.
+## Projenin Amaç ve Vizyon
+
+![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
+
+Küreselleşmiş bir dünyada dil genellikle en büyük engeldir. Nexus Gaja'nın temel amacı, ortak bir dil konuşup konuşmadıklarına bakılmaksızın insanlar arasında kesintisiz, engelsiz ve bağlamsal olarak doğru iletişimi sağlamaktır.
 
 Sadece kelimelerin katı bir şekilde çevrilmesi değil, **anlamın aktarılması** söz konusudur. Nexus Gaja, kültürel, bölgesel ve bağlamsal incelikleri anlayarak insanları daha derin bir seviyede birbirine bağlar ve böylece gerçek, otantik sohbetlere olanak tanır.
 
@@ -25,7 +30,9 @@ Sadece kelimelerin katı bir şekilde çevrilmesi değil, **anlamın aktarılmas
 
 ## Teknik Mimari (Temel Konsept)
 
-Nexus Gaja'nın teknik kalbi, kesin olarak üç katmana ayrılmış özel olarak geliştirilmiş bir iletişim modelidir:
+![Nexus Gaja Translation Concept](assets/img/nexus_translation.jpg)
+
+Nexus Gaja'nın teknik çekirdeği, kesin olarak üç katmana ayrılmış özel olarak oluşturulmuş bir iletişim modelidir:
 
 1. **Orijinal**: Gönderen tarafından oluşturulan iletişim nesnesi (mesaj) her zaman değiştirilemez kalır.
 2. **Anlamsal Yorumlama**: Sistem sadece kelimeleri değil, gerçek anlamı analiz eder.
@@ -40,7 +47,9 @@ Nexus Gaja'daki çeviriler mesajları asla izole olarak ele almaz. Motor tüm hi
 
 ## Yapay Zeka Destekli Moderasyon (WP 1.8.4)
 
-Yapay Zeka Destekli Moderasyon ile, mevcut AB düzenlemelerini (Art. 50 kapsamındaki AB Yapay Zeka Yasası'nın şeffaflık gereklilikleri; anlaşılır gerekçeler ve itiraz seçenekleri ile Dijital Hizmetler Yasası - DSA) dikkate alarak ürün fikrinden teknik mimariye önemli bir adım atıyoruz.
+![Nexus Gaja AI Moderation](assets/img/nexus_moderation.jpg)
+
+Yapay Zeka Destekli Moderasyon ile ürün fikrinden teknik mimariye doğru önemli bir adım atıyoruz ve mevcut AB düzenlemelerini dikkate alıyoruz (Madde 50 kapsamındaki AB Yapay Zeka Yasası'nın şeffaflık gereklilikleri; anlaşılır gerekçeler ve itiraz seçenekleriyle Dijital Hizmetler Yasası - DSA) dikkate alarak ürün fikrinden teknik mimariye önemli bir adım atıyoruz.
 
 ### 1. Temel Prensip
 Mimari için en önemli cümle şudur: **Moderasyon yapay zekası özerk bir karar mekanizması değil, bir inceleme sistemidir.**
@@ -160,9 +169,11 @@ Kurallar yapay zeka modellerine kodlanmamıştır. Yapay zeka bulguları sağlar
 
 **Özet**: Dört aşamalı bir sistem kuruyoruz: Yapay Zeka Tespiti, Bağlam ve Risk Analizi, Kural Motoru (Policy Engine) ve İnsan Yönetişimi. Bu, tehlikeli bir "Yargıç olarak Yapay Zeka" mimarisi oluşturmadan güçlü bir otomasyon sağlar.
 
-## Finansman Prensipleri ve Gelir Modeli (WP 1.10.1)
+## Finansman İlkeleri ve Gelir Modeli (WP 1.10.1)
 
-Nexus Gaja için son derece önemli bir ekonomik prensip geçerlidir: **Platform içinde klasik reklamcılık yoktur.**
+![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
+
+Nexus Gaja için çok önemli bir ekonomik ilke geçerlidir: **Platform içinde geleneksel reklamlara yer yoktur.**
 Bu, Nexus Gaja'yı günümüzün birçok sosyal ağından temel olarak ayırır. Ancak bu, Nexus Gaja'nın ticari bir karaktere sahip olamayacağı anlamına gelmez. Aksine, sosyal amacının kalıcı olabilmesi için platformun ekonomik olarak sürdürülebilir olması gerekir. Ekonomik faaliyet bir amaca ulaşmak için bir araçtır, platformun birincil amacı değildir.
 
 ### 1. Prensip NG-FIN-001
@@ -206,7 +217,7 @@ Okullar, üniversiteler, STK'lar, işletmeler ve belediyeler için özel hesapla
 
 #### Sütun 4 – Bağışlar
 **Nexus Gaja Fon Havuzu**, genel ve özel amaçlı (örneğin "uluslararası gençlik iletişimi için") bağışları kabul eder. Bir **Fon Tahsis Defteri (Fund Allocation Ledger)**, fonların şeffaf bir şekilde tahsis edilmesini sağlar.
-**Amaç Fonu ve Tombala:** Bağışların bir kısmı ücretsiz/indirimli kullanım için bir havuzu besler. Bir tombala mekanizması bu fonları şeffaf ve denetlenebilir bir şekilde tahsis edebilir.
+**Amaç Fonu ve Tombala:** Bağışların bir kısmı ücretsiz/indirimli kullanım için bir havuzu besler. Bir tombala mekanizması bu fonları şeffaf ve denetlerebilir bir şekilde tahsis edebilir.
 
 #### Sütun 5 – Kurumsal Fonlar
 Vakıflar, kültürel fon programları veya devlet programları.
@@ -298,12 +309,11 @@ Sistem kararlılığını, güvenliğini ve ölçeklenebilirliğini sağlamak i�
 - **Sıfır Güven (Zero-Trust) Modeli:** Dahili ağ trafiği otomatik olarak güvenilir sayılmaz; hassas hizmetten hizmete iletişim kimlik doğrulama gerektirir.
 - **Idempotency (Eşkuvvetlilik) ve Outbox Deseni:** Kritik işlemler (bağışlar veya mesajlaşma gibi), veritabanı işlemleri sırasında bile olayların asla kaybolmamasını sağlamak için Outbox desenini kullanarak yinelenen işlemeleri önleyecek şekilde idempotent (tekrarlanabilir) olarak tasarlanmıştır.
 
-## MVP Etki Alanı Modeli (Domain Model - WP 1.12)
+## MVP Etki Alanı Modeli (WP 1.12)
 
-Nexus Gaja, net etki alanı (domain) sınırlarına sahip modüler bir monolit olarak tasarlanmış, kesinlikle Etki Alanı Odaklı bir MVP Mimarisi (ADR-025) kullanır. Bu yapı, erken mikro hizmet karmaşıklığını önler.
+![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
 
-### Temel Etki Alanı Varlıkları
-Mimari, veri bütünlüğünü sağlamak ve "Kullanıcı Adı = İnsan" gibi yapısal tuzaklardan kaçınmak için kavramları açıkça ayırır:
+Nexus Gaja, kesin sınırları olan modüler bir monolit olarak tasarlanmış, sıkı sıkıya Etki Alanı Odaklı MVP Mimarisi (ADR-025) kullanır. Bu yapı, mikro hizmetlerin erken karmaşıklığını önlerken, daha sonra belirli alanları ayırma esnekliğini de korur. Veri bütünlüğünü sağlamak ve "Kullanıcı Adı = İnsan" gibi yapısal tuzaklardan kaçınmak için kavramları açıkça ayırır:
 - **Kimlik ve Hesaplar:** `Person` ≠ `User Account` ≠ `Identity Verification`. Doğrulanmış bir kişi bir hesap aracılığıyla katılır, ancak varlıklar ayrı kalır.
 - **İletişim:** `Message` ≠ `Translation`. Orijinal mesaj değiştirilemez; çeviriler bağlantılı varlıklardır.
 - **Moderasyon:** `Report` ≠ `Moderation Decision`. Rapor sadece bir iddiadır; bir moderasyon vakası araştırmayı yürütür.

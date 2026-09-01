@@ -1,6 +1,8 @@
-#Nexus Gaja
+# Nexus Gaja
 
-![Logo Nexus Gaja](assets/logo.jpg)
+![Nexus Gaja Logo](assets/logo.jpg)
+
+![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
 
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
@@ -9,12 +11,15 @@
 
 </details>
 
-**Nexus Gaja** adalah jaringan komunikasi cerdas dan peka konteks yang dirancang untuk merevolusi komunikasi global.
+**Nexus Gaja** is an intelligent, context-sensitive communication network designed to revolutionize global communication.
 
-## Tujuan dan Visi
-Di dunia yang terglobalisasi, bahasa sering kali menjadi hambatan terbesar. Tujuan utama Nexus Gaja adalah untuk memungkinkan komunikasi yang lancar, bebas hambatan, dan akurat secara kontekstual antara orang-orang—terlepas dari apakah mereka berbicara dalam bahasa yang sama.
+## Purpose and Vision
 
-Ini bukan hanya tentang menerjemahkan kata-kata secara kaku, tetapi tentang **mentransfer makna**. Nexus Gaja menghubungkan orang-orang pada tingkat yang lebih dalam dengan memahami nuansa budaya, regional, dan kontekstual, sehingga memungkinkan percakapan yang tulus dan autentik.
+![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
+
+In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
+
+It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
 
 ## Possibilities and Features
 - **Multimedia Communication**: The system processes not just text, but also image, audio, and video. This allows for fully immersive conversations (e.g., video calls or voice messages) in real-time across language barriers.
@@ -23,73 +28,77 @@ Ini bukan hanya tentang menerjemahkan kata-kata secara kaku, tetapi tentang **me
 
 ---
 
-## Arsitektur Teknis (Konsep Inti)
+## Technical Architecture (Core Concept)
 
-Inti teknis Nexus Gaja adalah model komunikasi yang dibuat khusus dan dibagi menjadi tiga lapisan:
+![Nexus Gaja Translation Concept](assets/img/nexus_translation.jpg)
 
-1. **Asli**: Objek komunikasi (pesan) yang dibuat oleh pengirim selalu tidak dapat diubah.
-2. **Interpretasi Semantik**: Sistem menganalisis tidak hanya kata-kata, tetapi makna sebenarnya.
-3. **Representasi Bahasa Target**: AI hanya membuat representasi sementara atau cache dari dokumen asli untuk masing-masing penerima berdasarkan bahasa pilihan mereka. Terjemahan tidak pernah menimpa pesan aslinya.
+The technical core of Nexus Gaja is a custom-built communication model that is strictly divided into three layers:
 
-### Ketergantungan Konteks
-Terjemahan di Nexus Gaja tidak pernah melihat pesan secara terpisah. Mesin mempertimbangkan seluruh hierarki:
-`Pesan` → `Pesan Sebelumnya` → `Konteks Utas` → `Konteks Komunitas` → `Bahasa/Wilayah` → `Preferensi Pengguna`
+1. **Original**: The communication object (message) created by the sender always remains immutable.
+2. **Semantic Interpretation**: The system analyzes not just the words, but the actual meaning.
+3. **Target Language Representation**: The AI merely creates a temporary or cached representation of the original for the respective recipient based on their preferred language. Translations never overwrite the original message.
 
-### Efisiensi melalui Terjemahan Sesuai Permintaan
-Penerjemahan hanya dilakukan dengan hemat sumber daya **atas permintaan** (Sesuai Permintaan). Saat pengguna meminta konten, konten tersebut diterjemahkan ke dalam bahasa yang telah ditetapkan sebelumnya. Setelah terjemahan untuk bahasa tertentu dibuat, terjemahan tersebut disimpan secara permanen (cache) untuk mempercepat permintaan di masa mendatang secara drastis.
+### Context Dependency
+Translations in Nexus Gaja never view messages in isolation. The engine considers the entire hierarchy:
+`Message` → `Previous Messages` → `Thread Context` → `Community Context` → `Language / Region` → `User Preferences`
 
-## Moderasi Berbantuan AI (WP 1.8.4)
+### Efficiency through On-Demand Translation
+Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.
 
-Dengan Moderasi Berbantuan AI, kami mengambil langkah signifikan mulai dari ide produk hingga arsitektur teknis, dengan mempertimbangkan peraturan UE saat ini (persyaratan transparansi UU AI UE berdasarkan Pasal 50; Undang-Undang Layanan Digital dengan justifikasi yang dapat dipahami dan opsi banding).
+## AI-Assisted Moderation (WP 1.8.4)
 
-### 1. Prinsip Dasar
-Kalimat paling penting untuk arsitektur ini adalah: **Moderasi AI adalah sistem peninjauan, bukan sistem pemerintahan yang otonom.**
-Hal ini dirancang untuk membantu manusia dalam jumlah sedang, bukan untuk menentukan sendiri opini mana yang boleh ada di Nexus Gaja.
-Kami membedakan antara tiga tingkatan:
-- **Deteksi:** "Mungkin ada pelanggaran aturan di sini."
-- **Evaluasi:** "Kemungkinan pelanggaran aturan, misalnya, adalah 94%."
-- **Keputusan:** "Tindakan apa yang sebenarnya diambil?"
-Tingkat ketiga harus dikendalikan oleh manusia dalam kasus yang parah.
+![Nexus Gaja AI Moderation](assets/img/nexus_moderation.jpg)
 
-### 2. Moderasi AI sebagai Subsistem
-Alih-alih menggunakan AI tunggal, subsistem yang kuat akan dibuat:
-```teks
-                 MODERASI NEXUS GAJA AI
+With AI-Assisted Moderation, we are taking a significant step from product idea to technical architecture, taking into account current EU regulations (transparency requirements of the EU AI Act under Art. 50; Digital Services Act with comprehensible justifications and appeal options).
+
+### 1. Basic Principle
+The most important sentence for the architecture is: **The moderation AI is a review system, not an autonomous ruling system.**
+It is designed to assist humans in moderation, not to determine itself which opinions are allowed to exist on Nexus Gaja.
+We differentiate between three levels:
+- **Detection:** "There could be a rule violation here."
+- **Evaluation:** "The probability of a rule violation is, for example, 94%."
+- **Decision:** "What action is actually taken?"
+The third level must be controlled by a human in severe cases.
+
+### 2. The Moderation AI as a Subsystem
+Instead of a single AI, a robust subsystem is established:
+```text
+                 NEXUS GAJA AI MODERATION
                           │
-       ┌───────────────────┼───────────────────┐
-       │ │ │
-  Bahasa AI Keamanan AI Penipuan AI
-       │ │ │
-       ├───────────────┬───┴───────────────┬───┤
-       │ │ │
- Identitas Perilaku Penerjemahan
- Analisis Sinyal Analisis
-       │ │ │
-       └───────────────┼───────────────────┘
+       ┌──────────────────┼──────────────────┐
+       │                  │                  │
+  Language AI        Safety AI          Fraud AI
+       │                  │                  │
+       ├──────────────┬───┴──────────────┬───┤
+       │              │                  │
+ Translation      Behaviour          Identity
+ Analysis         Analysis            Signals
+       │              │                  │
+       └──────────────┼──────────────────┘
                       ▼
-               Penilaian Risiko
+               Risk Assessment
                       │
                       ▼
-               Tinjauan Manusia
+               Human Review
 ```
 
-### 3. Modul AI Paling Penting
-Nexus Gaja menggunakan sembilan area analisis khusus:
-- **M1 – Pemahaman Bahasa**: Mendeteksi bahasa, dialek, bahasa gaul, indikator ironi, masalah terjemahan.
-- **M2 – Deteksi Toksisitas / Penyalahgunaan**: Mendeteksi penghinaan, serangan pribadi, pelecehan.
-- **M3 – Deteksi Ancaman**: Mendeteksi potensi ancaman, pemerasan, pengumuman kekerasan.
-- **M4 – Deteksi Kebencian / Dehumanisasi**: Mendeteksi serangan yang ditargetkan pada orang berdasarkan afiliasi tertentu.
-- **M5 – Deteksi Spam / Manipulasi**: Mendeteksi spam, perilaku bot, manipulasi terkoordinasi.
-- **M6 – Deteksi Penipuan**: Mendeteksi upaya penipuan yang mencurigakan, phishing, rekayasa sosial.
-- **M7 – Integritas Identitas**: Memeriksa sinyal terkait pengambilalihan akun, banyak akun, penghindaran larangan.
-- **M8 – Keamanan Media**: Menganalisis gambar, audio, video, dokumen.
-- **M9 – Mesin Konteks**: Modul paling penting. Ini menggabungkan temuan individu.
+### 3. The Most Important AI Modules
+Nexus Gaja utilizes nine specialized analysis areas:
+- **M1 – Language Understanding**: Detects language, dialect, slang, irony indicators, translation issues.
+- **M2 – Toxicity / Abuse Detection**: Detects insults, personal attacks, harassment.
+- **M3 – Threat Detection**: Detects potential threats, blackmail, violence announcements.
+- **M4 – Hate / Dehumanization Detection**: Detects targeted attacks on people based on specific affiliations.
+- **M5 – Spam / Manipulation Detection**: Detects spam, bot behavior, coordinated manipulation.
+- **M6 – Fraud Detection**: Detects suspicious fraud attempts, phishing, social engineering.
+- **M7 – Identity Integrity**: Checks signals regarding account takeovers, multiple accounts, ban evasion.
+- **M8 – Media Safety**: Analyzes images, audio, video, documents.
+- **M9 – Context Engine**: The most important module. It merges the individual findings.
 
-### 4. Mengapa Mesin Konteks Penting
-Pencarian kata kunci murni tidak akan cukup. "Aku bisa membunuhnya karena tertawa" secara semantik mengandung kekerasan tetapi merupakan kiasan. "Besok jam 8 malam saya akan menembaknya di depan rumahnya" adalah situasi yang sangat berbeda. AI harus memahami arti pernyataan tersebut dalam konteks spesifiknya.
+### 4. Why the Context Engine is Crucial
+A pure keyword search would be insufficient. "I could kill him from laughing" semantically contains violence but is a figure of speech. "Tomorrow at 8 PM I will shoot him in front of his house" is a completely different situation. The AI must understand what the statement means in its specific context.
 
-### 5. Moderasi Multibahasa
-Moderasi tidak bisa sekadar membandingkan kata-kata. Itu harus menganalisis tingkat semantik (misalnya, idiom Jerman vs. idiom Jepang vs. ekspresi regional).
+### 5. Multilingual Moderation
+Moderation cannot simply compare words. It must analyze the semantic level (e.g., German idioms vs. Japanese idioms vs. regional expressions).
 
 ### 6. Original Language + Translation
 Original and translation are analyzed separately. Only then does the "Combined Moderation Assessment" take place. This allows Nexus Gaja to determine whether the translation itself may have escalated or altered the facts.
@@ -97,26 +106,26 @@ Original and translation are analyzed separately. Only then does the "Combined M
 ### 7. Confidence Score
 Every AI evaluation receives a confidence score (e.g., Threat probability: 0.96). However: **Confidence Score ≠ Truth.** A score of 96% only means the model is highly certain of its classification, not necessarily that the user is guilty.
 
-### 8. Ketidakpastian Menjadi Sinyal Itu Sendiri
-Jika AI tidak yakin (misalnya, Ancaman: 0,62, Satire: 0,54), AI tidak boleh sekadar menerapkan aturan yang keras. Sebaliknya, ketidakpastian dibangun langsung ke dalam arsitektur: **Diperlukan Tinjauan Manusia**.
+### 8. Uncertainty Becomes a Signal Itself
+If the AI is uncertain (e.g., Threat: 0.62, Satire: 0.54), it must not simply enforce harsh rules. Instead, uncertainty is built directly into the architecture: **Human Review Required**.
 
-### 9. Empat Zona Keputusan
-- 🟢 **HIJAU**: Kemungkinan besar sesuai. → tidak ada tindakan.
-- 🟡 **KUNING** : Kemungkinan pelanggaran. → pantau / berikan peringatan bila perlu.
-- 🟠 **ORANGE**: Kemungkinan pelanggaran. → tinjauan moderasi.
-- 🔴 **MERAH**: Kemungkinan pelanggaran berat. → tindakan perlindungan segera + tinjauan manusia.
+### 9. Four Decision Zones
+- 🟢 **GREEN**: Highly likely compliant. → no action.
+- 🟡 **YELLOW**: Possible violation. → monitor / provide a warning if necessary.
+- 🟠 **ORANGE**: Probable violation. → moderation review.
+- 🔴 **RED**: Severe possible violation. → immediate protective measure + human review.
 
-### 10. Tidak Ada "Hukuman AI"
-**AI tidak memberikan sanksi akhir.** AI dapat memicu tindakan teknis segera (misalnya, menahan pesan untuk sementara) karena masalah keamanan yang parah, namun keputusan akhir tetap dapat diverifikasi.
+### 10. No "AI Punishment"
+**The AI imposes no final sanctions.** It can trigger technical immediate measures (e.g., temporarily holding back a message) for severe security concerns, but the final decision remains verifiable.
 
-### 11. Tindakan Perlindungan Dapat Terjadi Secara Otomatis
-Jika terjadi ancaman nyata (Ancaman terdeteksi → Keyakinan tinggi → Pembatasan sementara → Peninjauan manusia → Keputusan), kami melindungi pengguna yang terancam tanpa menjadikan AI sebagai hakim.
+### 11. Protective Measures Can Occur Automatically
+In the event of a concrete threat (Threat detected → High confidence → Temporary restriction → Human review → Decision), we protect the threatened user without turning the AI into a judge.
 
-### 12. AI Harus Mampu Membenarkan Keputusannya
-DSA memerlukan alasan yang jelas dan spesifik. AI memberikan alasan terstruktur: Aturan (NG-CONDUCT-004), Terdeteksi (Potensi ancaman nyata), Keyakinan (0,94), Konteks yang relevan (4 pesan sebelumnya), Tindakan yang disarankan (Tinjauan manusia).
+### 12. The AI Must Be Able to Justify Its Decisions
+The DSA requires clear and specific reasons. The AI provides structured reasoning: Rule (NG-CONDUCT-004), Detected (Potential concrete threat), Confidence (0.94), Relevant context (Previous 4 messages), Recommended action (Human review).
 
-### 13. AI Tidak Boleh Mengubah Konten Secara Diam-diam
-**Moderasi AI tidak boleh mengubah konten asli tanpa diketahui.** Selama koreksi otomatis, terjemahan, atau ringkasan, konten asli selalu dipertahankan.
+### 13. AI Must Not Secretly Alter Content
+**Moderation AI must never alter the original content unnoticed.** During automatic correction, translation, or summarization, the original is always preserved.
 
 ### 14. AI-Generated Content
 We distinguish between: Human-created, AI-assisted, AI-generated, and AI-manipulated. This will become part of the content metadata.
@@ -127,160 +136,162 @@ According to the transparency rules of the EU AI Act (effective August 2026), AI
 ### 16. Deepfake Detection
 The architecture aims to detect synthetic images, cloned voices, and deepfakes. However, detection is not automatically proof.
 
-### 17. Tidak Ada "Mesin Kebenaran" Otomatis (Moderasi ≠ Pengecekan Fakta)
-Satu sistem memeriksa: "Apakah konten tersebut melanggar aturan?" (Moderasi Konten), yang lain memberikan: "Informasi dan sumber apa yang tersedia?" (Bantuan Informasi). Pendapat tidak dihapus begitu saja karena dianggap "salah".
+### 17. No Automatic "Truth Machine" (Moderation ≠ Fact Checking)
+One system checks: "Does the content violate rules?" (Content Moderation), another provides: "What information and sources are available?" (Information Assistance). Opinions are not simply deleted for being "wrong."
 
-### 18. Perlindungan Terhadap Salah Tafsir Budaya
-AI memerlukan **Model Konteks Budaya** untuk mencegah norma komunikasi suatu negara dianggap sebagai standar global.
+### 18. Protection Against Cultural Misinterpretation
+The AI requires **Cultural Context Models** to prevent the communication norms of one country from being assumed as a global standard.
 
-### 19. Ironi, Sindiran, dan Humor
-AI menggunakan konteks, emoji, riwayat percakapan, dan struktur ironi yang diketahui, namun harus memperhitungkan ketidakpastian ketika maknanya ambigu.
+### 19. Irony, Satire, and Humor
+The AI uses context, emojis, conversation history, and known irony structures, but must allow for uncertainty when meanings are ambiguous.
 
-### 20. Tidak Ada Hukuman Berdasarkan Skor AI Tunggal
-Intervensi moderasi berat tidak boleh hanya didasarkan pada satu hasil klasifikasi otomatis (Teks + Konteks + Perilaku + Bahasa + Media + Mesin Aturan = Penilaian Risiko).
+### 20. No Punishment Based on a Single AI Score
+No severe moderation intervention may be based solely on a single automated classification result (Text + Context + Behaviour + Language + Media + Rule Engine = Risk Assessment).
 
-### 21. Sinyal Perilaku Pengguna & Tidak Ada Sistem Kredit Sosial
-Hal ini berkaitan dengan sinyal penyalahgunaan teknis (misalnya, postingan spam massal), bukan sistem rating sosial secara umum. Nexus Gaja tidak menerapkan Sistem Kredit Sosial – moderasi bertujuan untuk keamanan, bukan penilaian terhadap nilai seseorang.
+### 21. User Behaviour Signals & No Social Credit System
+This relates to technical abuse signals (e.g., mass spam posting), not a general social rating system. Nexus Gaja does not maintain a Social Credit System – moderation serves security, not the assessment of a person's worth.
 
-### 22. AI Moderasi Harus Dapat Diaudit
-Semua keputusan otomatis yang relevan dicatat (ID Peristiwa, ID Aturan, Keyakinan, Tinjauan Manusia, dll.) untuk memastikan ketertelusuran.
+### 22. Moderation AI Must Be Auditable
+All relevant automated decisions are logged (Event-ID, Rule-ID, Confidence, Human-Review, etc.) to ensure traceability.
 
-### 23. Positif Palsu, Negatif Palsu & Metrik Kualitas
-Jenis kesalahan dipantau. Dasbor mengukur Presisi, Perolehan Kembali, dan khususnya **Tingkat Pembalikan Banding** (jumlah banding yang berhasil).
+### 23. False Positives, False Negatives & Quality Metrics
+Error types are monitored. A dashboard measures Precision, Recall, and especially the **Appeal Reversal Rate** (number of successful appeals).
 
-### 24. Kesetaraan Bahasa & Bias Terjemahan
-Kualitas moderasi harus sebanding di semua bahasa yang didukung (Tolok Ukur Moderasi Multibahasa). Jika hasil moderasi berbeda antara asli dan terjemahan (Konflik Terjemahan), maka hal ini harus ditinjau secara khusus.
+### 24. Language Equity & Translation Bias
+Moderation quality must be comparable across all supported languages (Multilingual Moderation Benchmark). If moderation results differ between the original and the translation (Translation Conflict), this must be specifically reviewed.
 
-### 25. Proposal Arsitektur & Mesin Kebijakan
-Aturan (Mesin Kebijakan) tidak dikodekan secara hardcode ke dalam model AI. AI memberikan temuan; Mesin Kebijakan memutuskan berdasarkan aturan saat ini. Hal ini memungkinkan **perubahan model tanpa perubahan aturan**.
+### 25. Architecture Proposal & Policy Engine
+Rules (Policy Engine) are not hardcoded into the AI models. The AI provides findings; the Policy Engine decides based on current rules. This allows for **model changes without rule changes**.
 
-### 26. Manusia Tetap Menjadi Otoritas Terakhir
-- **NG-AI-MOD-001**: AI membantu dalam deteksi dan klasifikasi, namun tidak menggantikan tinjauan manusia dalam pengambilan keputusan yang berat.
-- **NG-AI-MOD-002**: Keputusan moderasi otomatis harus dapat dilacak, dapat dicatat, dan dapat diverifikasi.
+### 26. The Human Remains the Final Authority
+- **NG-AI-MOD-001**: The AI assists in detection and classification, but does not replace human review in severe decisions.
+- **NG-AI-MOD-002**: Automated moderation decisions must be traceable, loggable, and verifiable.
 
-**Ringkasan**: Kami sedang membangun sistem empat tahap: Deteksi AI, Analisis Konteks dan Risiko, Mesin Kebijakan, dan Tata Kelola Manusia. Hal ini memungkinkan otomatisasi yang kuat tanpa menciptakan arsitektur "AI sebagai Hakim" yang berbahaya.
+**Summary**: We are building a four-stage system: AI Detection, Context and Risk Analysis, Policy Engine, and Human Governance. This enables strong automation without creating a dangerous "AI as Judge" architecture.
 
-## Prinsip Pembiayaan dan Model Pendapatan (WP 1.10.1)
+## Financing Principles and Revenue Model (WP 1.10.1)
 
-Bagi Nexus Gaja, prinsip ekonomi yang sangat penting berlaku: **Tidak ada iklan tradisional dalam platform.**
-Hal ini secara mendasar membedakan Nexus Gaja dari banyak jejaring sosial saat ini. Meski demikian, bukan berarti Nexus Gaja tidak bisa bersifat komersil. Sebaliknya, platform tersebut harus layak secara ekonomi agar tujuan sosialnya dapat bertahan. Aktivitas ekonomi adalah alat untuk mencapai tujuan, bukan tujuan utama platform ini.
+![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
-### 1. Prinsip NG-FIN-001
-Nexus Gaja membiayai operasinya melalui aliran pendapatan transparan yang dipisahkan dari kepentingan pengguna, dan bukan melalui monetisasi perhatian atau data pribadi penggunanya.
+For Nexus Gaja, a highly important economic principle applies: **No traditional advertising within the platform.**
+This fundamentally distinguishes Nexus Gaja from many of today's social networks. However, this does not mean that Nexus Gaja cannot have a commercial character. On the contrary, the platform must be economically viable so that its social purpose can endure. Economic activity is a means to an end, not the primary purpose of the platform.
 
-### 2. Tidak Ada Iklan Tradisional
-Yang secara khusus dilarang adalah:
-- Iklan spanduk
-- Iklan munculan
-- Iklan video yang diputar otomatis
-- Postingan bersponsor di feed standar
-- Profil iklan yang dipersonalisasi
-- Penjualan profil pengguna atau data pribadi
-- Iklan berasal dari percakapan pribadi.
+### 1. Principle NG-FIN-001
+Nexus Gaja finances its operations through transparent revenue streams separated from user interests, and not through the monetization of its users' attention or personal data.
 
-Nexus Gaja tetap menjadi **ruang komunikasi, bukan ruang iklan**.
+### 2. No Traditional Advertising
+Specifically prohibited are:
+- Banner ads
+- Pop-up ads
+- Auto-playing video ads
+- Sponsored posts in the standard feed
+- Personalized advertising profiles
+- Sale of user profiles or personal data
+- Advertising derived from private conversations.
 
-### 3. Pembiayaan Tanpa Iklan (6 Pilar)
-Pembiayaan dibangun berdasarkan enam pilar:
-```teks
+Nexus Gaja remains a **communication space rather than an advertising space**.
+
+### 3. Financing Without Advertising (The 6 Pillars)
+Financing is built on six pillars:
+```text
                  NEXUS GAJA
                      │
-       ┌──────────────┼──────────────┐
-       ▼ ▼ ▼
-   DONASI ORGANISASI PREMIUM
-       │ │ │
-       ├──────────────┼──────────────┤
-       ▼ ▼ ▼
-    JASA KEMITRAAN HIBAH
+       ┌─────────────┼─────────────┐
+       ▼             ▼             ▼
+   PREMIUM       ORGANIZATION    DONATIONS
+       │             │             │
+       ├─────────────┼─────────────┤
+       ▼             ▼             ▼
+    GRANTS       PARTNERSHIPS    SERVICES
 ```
 
-#### Pilar 1 – Keanggotaan Dasar Gratis
-**Nexus Gaja Free** memungkinkan pemahaman internasional dasar untuk semua orang (profil, komunikasi internasional, postingan, komunitas, obrolan, terjemahan dasar) tanpa biaya.
+#### Pillar 1 – Free Basic Membership
+**Nexus Gaja Free** enables basic international understanding for everyone (profile, international communication, posts, communities, chats, basic translation) at no cost.
 
-#### Pilar 2 – Penawaran Premium
-Penawaran berbayar sukarela (**Nexus Gaja Plus**) memberikan batas penyimpanan yang lebih besar, kualitas media yang lebih tinggi, kuota AI yang diperluas, dan fitur organisasi.
-**Penting (Freemium, bukan Dark Freemium):** Komunikasi dasar tidak boleh didegradasi secara artifisial.
+#### Pillar 2 – Premium Offerings
+Voluntary paid offerings (**Nexus Gaja Plus**) providing greater storage limits, higher media quality, expanded AI quotas, and organizational features.
+**Important (Freemium instead of Dark Freemium):** Basic communication must never be artificially degraded.
 
-#### Pilar 3 – Organisasi
-Rekening khusus untuk sekolah, universitas, LSM, bisnis, dan kota (**Nexus Gaja Organization**). Sekolah dapat didukung melalui tingkat kelembagaan sebagai pengganda pemahaman internasional.
+#### Pillar 3 – Organizations
+Special accounts for schools, universities, NGOs, businesses, and municipalities (**Nexus Gaja Organization**). Schools can be supported via institutional rates as multipliers of international understanding.
 
-#### Pilar 4 – Donasi
-**Kolam Pendanaan Nexus Gaja** menerima donasi umum dan khusus (misalnya, "untuk komunikasi pemuda internasional"). **Buku Besar Alokasi Dana** memastikan alokasi dana yang transparan.
-**Dana Tujuan & Tombola:** Sebagian donasi diberikan ke kumpulan untuk penggunaan gratis/diskon. Mekanisme lotere/tombola dapat mengalokasikan dana tersebut secara transparan dan auditable.
+#### Pillar 4 – Donations
+The **Nexus Gaja Funding Pool** accepts general and earmarked donations (e.g., "for international youth communication"). A **Fund Allocation Ledger** ensures transparent allocation of funds.
+**Purpose Fund & Tombola:** A portion of donations feeds a pool for free/discounted usage. A lottery/tombola mechanism can allocate these funds transparently and auditably.
 
-#### Pilar 5 – Pendanaan Kelembagaan
-Yayasan, program pendanaan budaya, atau program negara.
-**NG-FIN-002:** Dukungan finansial tidak membeli kendali editorial atau teknis (Kemerdekaan).
+#### Pillar 5 – Institutional Funding
+Foundations, cultural funding programs, or state programs.
+**NG-FIN-002:** Financial support does not buy editorial or technical control (Independence).
 
-#### Pilar 6 – Pelayanan Komersial
-Layanan B2B seperti **Translation-as-a-Service** (API), komunikasi organisasi, atau ruang konferensi internasional, tanpa membebani feed pengguna standar.
+#### Pillar 6 – Commercial Services
+B2B services like **Translation-as-a-Service** (API), organizational communication, or international conference rooms, without burdening the standard user feed.
 
-### 4. Tidak Ada Monetisasi Data & Pengawasan Ekonomi
-**NG-FIN-003:** Data pengguna pribadi bukan merupakan komoditas. Tidak ada penjualan daftar, profil, atau riwayat. Nexus Gaja tidak mengambil keuntungan dari pengawasan psikologis (Surveillance Economy).
+### 4. No Data Monetization & Surveillance Economy
+**NG-FIN-003:** Personal user data is not a commodity. No sale of lists, profiles, or histories. Nexus Gaja does not profit from psychological surveillance (Surveillance Economy).
 
-### 5. Transparansi Keuangan & Buku Besar Dana
-**Transparansi Keuangan Nexus Gaja:** Publikasi struktur keuangan agregat. Sumbangan yang dialokasikan menerima akuntansi teknis (ID Dana → Tujuan → Saldo → Alokasi). Tidak ada subsidi silang untuk tujuan sosial ke dalam pemasaran korporat.
+### 5. Financial Transparency & Fund Ledger
+**Nexus Gaja Financial Transparency:** Publication of aggregated financial structures. Earmarked donations receive technical accounting (Fund ID → Purpose → Balance → Allocation). No cross-subsidization of social purposes into corporate marketing.
 
-### 6. Model Pembiayaan Berbasis Solidaritas
-Penetapan harga didasarkan pada orientasi biaya, keadilan, dan solidaritas.
-**Solidaritas Premium:** Opsi sukarela bagi pengguna Premium untuk membiayai sebagian dari akses pengguna lain. Solidaritas yang dipaksakan atau masyarakat kelas premium (kurang menghormati/moderasi bagi pengguna gratis) sangat dilarang.
+### 6. Solidarity-Based Financing Model
+Pricing is based on cost-orientation, fairness, and solidarity.
+**Solidarity Premium:** A voluntary option for Premium users to finance a portion of another user's access. Forced solidarity or a premium class society (less respect/moderation for free users) is strictly prohibited.
 
-### 7. KPI Ekonomi Daripada Ekonomi Keterlibatan
-Tidak ada ketergantungan pada menjaga pengguna "online selama mungkin" (tidak ada ragebait, feed tanpa batas).
-Sebagai gantinya, kami menggunakan metrik seperti:
-- **Indeks Komunikasi Global (GCI):** Hubungan komunikasi yang sukses antara orang-orang dari wilayah bahasa/budaya yang berbeda.
-- **Rasio Keberlanjutan Platform (PSR):** Pendapatan berulang / biaya operasional berulang (Target ≥ 1).
+### 7. Economic KPIs Instead of Engagement Economy
+No dependence on keeping users "online as long as possible" (no ragebait, infinite feeds).
+Instead, we use metrics like:
+- **Global Communication Index (GCI):** Successful communication relationships between people from different linguistic/cultural regions.
+- **Platform Sustainability Ratio (PSR):** Recurring revenue / recurring operating costs (Target ≥ 1).
 
-### 8. Apa yang Secara Jelas Tidak Kita Inginkan (Daftar Negatif)
-Nexus Gaja **tidak** dibiayai oleh:
-❌ Penjualan data pribadi
-❌ Iklan tradisional yang dipersonalisasi
-❌ Memantau perilaku pengguna untuk tujuan periklanan
-❌ Penjualan data komunikasi pribadi
-❌ Penggunaan data AI tersembunyi
-❌ Paywall Premium yang manipulatif
-❌ Pembatasan jangkauan buatan untuk monetisasi
-❌ Pengaruh politik berbayar
-❌ Pembelian keputusan moderasi yang memiliki hak istimewa.
+### 8. What We Explicitly Do Not Want (Negative List)
+Nexus Gaja is **not** financed by:
+❌ Sale of personal data
+❌ Personalized traditional advertising
+❌ Monitoring user behavior for advertising purposes
+❌ Sale of private communication data
+❌ Hidden AI data usage
+❌ Manipulative Premium paywalls
+❌ Artificial reach restriction for monetization
+❌ Paid political influence
+❌ Purchase of privileged moderation decisions.
 
-### 9. Arsitektur Keuangan Awal
-```teks
+### 9. Preliminary Financial Architecture
+```text
                          NEXUS GAJA
                               │
-             ┌─────────────────┼─────────────────┐
-             │ │ │
-             ▼ ▼ ▼
-          PERUSAHAAN ORGANISASI PENGGUNA
-             │ │ │
-             └──────────────────┼─────────────────┘
+             ┌────────────────┼────────────────┐
+             │                │                │
+             ▼                ▼                ▼
+          USERS          ORGANIZATIONS      ENTERPRISE
+             │                │                │
+             └────────────────┼────────────────┘
                               │
-                       LAYANAN PLATFORM
+                       PLATFORM SERVICES
                               │
-          ┌─────────────────────┼────────────────────┐
-          ▼ ▼ ▼
-       API DONASI PREMIUM
+          ┌───────────────────┼───────────────────┐
+          ▼                   ▼                   ▼
+       PREMIUM             DONATIONS            API
                               │
                     ┌─────────┴─────────┐
-                    ▼ ▼
-               DANA UMUM DANA TERBATAS
+                    ▼                   ▼
+               GENERAL FUND       RESTRICTED FUNDS
                                         │
                                         ▼
-                                  TUJUAN SOSIAL
+                                  SOCIAL PURPOSE
 ```
 
-### Ringkasan Prinsip Pembiayaan (NG-FIN)
-- **NG-FIN-001:** Tidak ada pembiayaan melalui iklan tradisional.
-- **NG-FIN-002:** Tidak ada kontrol editorial/teknis melalui dukungan keuangan.
-- **NG-FIN-003:** Data pribadi bukan merupakan komoditas.
-- **NG-FIN-004:** Komunikasi dasar tetap dapat diakses tanpa pembayaran.
-- **NG-FIN-005:** Penawaran premium tidak boleh merendahkan pengguna gratis.
-- **NG-FIN-006:** Dana yang dialokasikan dikelola sesuai peruntukannya.
-- **NG-FIN-007:** Pengelolaan donasi dan hibah yang transparan.
-- **NG-FIN-008:** Layanan B2B komersial tidak mengurangi independensi.
-- **NG-FIN-009:** Fokus pada keberlanjutan daripada monetisasi maksimal.
-- **NG-FIN-010:** Struktur ini secara permanen menjamin tujuan sosial.
+### Summary of Financing Principles (NG-FIN)
+- **NG-FIN-001:** No financing through traditional advertising.
+- **NG-FIN-002:** No editorial/technical control through financial support.
+- **NG-FIN-003:** Personal data is not a commodity.
+- **NG-FIN-004:** Basic communication remains accessible without payment.
+- **NG-FIN-005:** Premium offerings must not degrade free users.
+- **NG-FIN-006:** Earmarked funds are managed according to their purpose.
+- **NG-FIN-007:** Transparent management of donations and grants.
+- **NG-FIN-008:** Commercial B2B services do not compromise independence.
+- **NG-FIN-009:** Focus on sustainability rather than maximum monetization.
+- **NG-FIN-010:** The structure permanently secures the social purpose.
 
-## API, Antarmuka, dan Arsitektur Komunikasi (WP 1.11.3)
+## API, Interfaces, and Communication Architecture (WP 1.11.3)
 
 To ensure system stability, security, and scalability, Nexus Gaja follows a strictly API-first and event-driven architecture. 
 
@@ -300,18 +311,20 @@ To ensure system stability, security, and scalability, Nexus Gaja follows a stri
 
 ## MVP Domain Model (WP 1.12)
 
-Nexus Gaja menggunakan Arsitektur MVP Berbasis Domain (ADR-025) yang dirancang sebagai monolit modular dengan batas domain yang jelas. Struktur ini mencegah kompleksitas layanan mikro yang prematur sekaligus mempertahankan fleksibilitas untuk memisahkan domain tertentu di kemudian hari.
+![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
 
-### Entitas Domain Inti
-Arsitekturnya secara eksplisit memisahkan konsep-konsep berbeda untuk memastikan integritas data dan menghindari kesalahan struktural seperti "Nama Pengguna = Manusia":
-- **Identitas & Akun:** `Orang` ≠ `Akun Pengguna` ≠ `Verifikasi Identitas`. Orang yang terverifikasi berpartisipasi melalui akun, namun entitasnya tetap terpisah.
-- **Komunikasi:** `Pesan` ≠ `Terjemahan`. Pesan aslinya tetap tidak berubah; terjemahan adalah entitas yang terhubung.
-- **Moderasi:** `Laporan` ≠ `Keputusan Moderasi`. Laporan hanyalah sebuah klaim; kasus moderasi melakukan penyelidikan.
-- **Keuangan:** `Sumbangan` ≠ `Saldo Dana`. Pembayaran dibukukan melalui buku besar yang tidak dapat diubah ke suatu dana, sehingga memastikan transparansi keuangan.
+Nexus Gaja employs a strictly Domain-Driven MVP Architecture (ADR-025), designed as a modular monolith with clear domain boundaries. This structure prevents premature microservice complexity while retaining the flexibility to split out specific domains later.
 
-### Domain yang Saling Berhubungan
-Sistem ini dibagi ke dalam domain logis yang jelas (Konteks Terikat): Identitas, Akun, Organisasi, Komunikasi, Komunitas, Bahasa, Moderasi, Pemberitahuan, Keuangan, dan Tata Kelola. Domain-domain ini memetakan keseluruhan perjalanan dari entitas dunia nyata (Pengguna, Sekolah, LSM) hingga interaksi digital dan tata kelola terkait.
+### Core Domain Entities
+The architecture explicitly separates distinct concepts to ensure data integrity and avoid structural pitfalls like "Username = Human":
+- **Identity & Accounts:** `Person` ≠ `User Account` ≠ `Identity Verification`. A verified person participates via an account, but the entities remain separate.
+- **Communication:** `Message` ≠ `Translation`. The original message remains immutable; translations are linked entities.
+- **Moderation:** `Report` ≠ `Moderation Decision`. A report is merely a claim; a moderation case conducts the investigation.
+- **Finances:** `Donation` ≠ `Fund Balance`. Payments are booked via an immutable ledger to a fund, ensuring financial transparency.
 
-## Status Proyek
-Proyek ini saat ini sedang dalam tahap arsitektur dan perencanaan aktif.
-Keputusan arsitektur yang sedang berlangsung didokumentasikan dalam folder `/docs`.
+### Interconnected Domains
+The system is divided into clear logical domains (Bounded Contexts): Identity, Account, Organization, Communication, Community, Language, Moderation, Notification, Finance, and Governance. These domains map the entire journey from real-world entities (Users, Schools, NGOs) to their digital interactions and related governance.
+
+## Project Status
+The project is currently in the active architecture and planning phase.
+Ongoing architectural decisions are documented in the `/docs` folder.

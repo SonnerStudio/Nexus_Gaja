@@ -2,6 +2,8 @@
 
 ![नेक्सस गाजा लोगो](संपत्ति/लोगो.jpg)
 
+![नेक्सस गाजा हीरो](assets/img/nexus_hero.jpg)
+
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
 
@@ -12,6 +14,9 @@
 **नेक्सस गाजा** एक बुद्धिमान, संदर्भ-संवेदनशील संचार नेटवर्क है जिसे वैश्विक संचार में क्रांति लाने के लिए डिज़ाइन किया गया है।
 
 ## उद्देश्य और दृष्टि
+
+![नेक्सस गाजा विज़न](assets/img/nexus_vision.jpg)
+
 वैश्वीकृत दुनिया में, भाषा अक्सर सबसे बड़ी बाधा होती है। नेक्सस गाजा का मुख्य लक्ष्य लोगों के बीच निर्बाध, बाधा मुक्त और प्रासंगिक रूप से सटीक संचार सक्षम करना है - भले ही वे एक आम भाषा बोलते हों।
 
 यह केवल शब्दों का सख्ती से अनुवाद करने के बारे में नहीं है, बल्कि **अर्थ स्थानांतरित करने** के बारे में है। नेक्सस गाजा सांस्कृतिक, क्षेत्रीय और प्रासंगिक बारीकियों को समझकर लोगों को गहरे स्तर पर जोड़ता है, जिससे वास्तविक, प्रामाणिक बातचीत संभव हो पाती है।
@@ -25,22 +30,26 @@
 
 ## तकनीकी वास्तुकला (मुख्य अवधारणा)
 
-नेक्सस गाजा का तकनीकी मूल एक कस्टम-निर्मित संचार मॉडल है जिसे सख्ती से तीन परतों में विभाजित किया गया है:
+![नेक्सस गाजा ट्रांसलेशन कॉन्सेप्ट](assets/img/nexus_translation.jpg)
 
-1. **मूल**: प्रेषक द्वारा बनाई गई संचार वस्तु (संदेश) हमेशा अपरिवर्तनीय रहती है।
-2. **शब्दार्थ व्याख्या**: प्रणाली न केवल शब्दों का, बल्कि वास्तविक अर्थ का भी विश्लेषण करती है।
-3. **लक्ष्य भाषा प्रतिनिधित्व**: एआई केवल संबंधित प्राप्तकर्ता के लिए उनकी पसंदीदा भाषा के आधार पर मूल का एक अस्थायी या कैश्ड प्रतिनिधित्व बनाता है। अनुवाद कभी भी मूल संदेश को अधिलेखित नहीं करता।
+The technical core of Nexus Gaja is a custom-built communication model that is strictly divided into three layers:
+
+1. **Original**: The communication object (message) created by the sender always remains immutable.
+2. **Semantic Interpretation**: The system analyzes not just the words, but the actual meaning.
+3. **Target Language Representation**: The AI merely creates a temporary or cached representation of the original for the respective recipient based on their preferred language. Translations never overwrite the original message.
 
 ### प्रसंग निर्भरता
 नेक्सस गाजा में अनुवाद संदेशों को कभी भी अलग करके नहीं देखता। इंजन संपूर्ण पदानुक्रम पर विचार करता है:
 `संदेश` → `पिछला संदेश` → `थ्रेड संदर्भ` → `सामुदायिक संदर्भ` → `भाषा / क्षेत्र` → `उपयोगकर्ता प्राथमिकताएं`
 
-### ऑन-डिमांड अनुवाद के माध्यम से दक्षता
-अनुवाद संसाधन-कुशलता से केवल **अनुरोध पर** (ऑन-डिमांड) होता है। जब कोई उपयोगकर्ता सामग्री का अनुरोध करता है, तो उसे उनकी पूर्व निर्धारित भाषा में अनुवादित किया जाता है। एक बार किसी विशिष्ट भाषा के लिए अनुवाद तैयार हो जाने पर, भविष्य के अनुरोधों में भारी तेजी लाने के लिए इसे स्थायी रूप से संग्रहीत (कैशिंग) किया जाता है।
+### Efficiency through On-Demand Translation
+Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.
 
 ## एआई-असिस्टेड मॉडरेशन (WP 1.8.4)
 
-With AI-Assisted Moderation, we are taking a significant step from product idea to technical architecture, taking into account current EU regulations (transparency requirements of the EU AI Act under Art. 50; Digital Services Act with comprehensible justifications and appeal options).
+![नेक्सस गाजा एआई मॉडरेशन](एसेट्स/आईएमजी/नेक्सस_मॉडरेशन.जेपीजी)
+
+एआई-असिस्टेड मॉडरेशन के साथ, हम वर्तमान ईयू नियमों (अनुच्छेद 50 के तहत ईयू एआई अधिनियम की पारदर्शिता आवश्यकताओं; समझने योग्य औचित्य और अपील विकल्पों के साथ डिजिटल सेवा अधिनियम) को ध्यान में रखते हुए, उत्पाद विचार से तकनीकी वास्तुकला तक एक महत्वपूर्ण कदम उठा रहे हैं।
 
 ### 1. मूल सिद्धांत
 आर्किटेक्चर के लिए सबसे महत्वपूर्ण वाक्य है: **मॉडरेशन एआई एक समीक्षा प्रणाली है, न कि एक स्वायत्त शासन प्रणाली।**
@@ -51,45 +60,45 @@ With AI-Assisted Moderation, we are taking a significant step from product idea 
 - **निर्णय:** "वास्तव में क्या कार्रवाई की गई है?"
 गंभीर मामलों में तीसरे स्तर को मानव द्वारा नियंत्रित किया जाना चाहिए।
 
-### 2. The Moderation AI as a Subsystem
-Instead of a single AI, a robust subsystem is established:
-```text
-                 NEXUS GAJA AI MODERATION
+### 2. एक सबसिस्टम के रूप में मॉडरेशन एआई
+एकल AI के बजाय, एक मजबूत सबसिस्टम स्थापित किया गया है:
+```पाठ
+                 नेक्सस गाजा एआई मॉडरेशन
                           │
-       ┌──────────────────┼──────────────────┐
-       │                  │                  │
-  Language AI        Safety AI          Fraud AI
-       │                  │                  │
-       ├──────────────┬───┴──────────────┬───┤
-       │              │                  │
- Translation      Behaviour          Identity
- Analysis         Analysis            Signals
-       │              │                  │
-       └──────────────┼──────────────────┘
+       ┌──────────────────┼──────────────┐
+       │ │ │
+  भाषा एआई सुरक्षा एआई धोखाधड़ी एआई
+       │ │ │
+       ├──────────────┬───┴──────────────┬──┤
+       │ │ │
+ अनुवाद व्यवहार पहचान
+ विश्लेषण विश्लेषण संकेत
+       │ │ │
+       └──────────────┼─────────────────┘
                       ▼
-               Risk Assessment
+               जोखिम मूल्यांकन
                       │
                       ▼
-               Human Review
+               मानव समीक्षा
 ```
 
-### 3. The Most Important AI Modules
-Nexus Gaja utilizes nine specialized analysis areas:
-- **M1 – Language Understanding**: Detects language, dialect, slang, irony indicators, translation issues.
-- **M2 – Toxicity / Abuse Detection**: Detects insults, personal attacks, harassment.
-- **M3 – Threat Detection**: Detects potential threats, blackmail, violence announcements.
-- **M4 – Hate / Dehumanization Detection**: Detects targeted attacks on people based on specific affiliations.
-- **M5 – Spam / Manipulation Detection**: Detects spam, bot behavior, coordinated manipulation.
-- **M6 – Fraud Detection**: Detects suspicious fraud attempts, phishing, social engineering.
-- **M7 – Identity Integrity**: Checks signals regarding account takeovers, multiple accounts, ban evasion.
-- **M8 – Media Safety**: Analyzes images, audio, video, documents.
-- **M9 – Context Engine**: The most important module. It merges the individual findings.
+### 3. सबसे महत्वपूर्ण एआई मॉड्यूल
+नेक्सस गाजा नौ विशेष विश्लेषण क्षेत्रों का उपयोग करता है:
+- **एम1 - भाषा समझ**: भाषा, बोली, कठबोली भाषा, व्यंग्य संकेतक, अनुवाद संबंधी मुद्दों का पता लगाता है।
+- **एम2 - विषाक्तता/दुरुपयोग का पता लगाना**: अपमान, व्यक्तिगत हमलों, उत्पीड़न का पता लगाता है।
+- **एम3 - खतरे का पता लगाना**: संभावित खतरों, ब्लैकमेल, हिंसा की घोषणाओं का पता लगाता है।
+- **एम4 - नफरत/अमानवीयकरण का पता लगाना**: विशिष्ट संबद्धता के आधार पर लोगों पर लक्षित हमलों का पता लगाता है।
+- **एम5 - स्पैम/हेरफेर का पता लगाना**: स्पैम, बॉट व्यवहार, समन्वित हेरफेर का पता लगाता है।
+- **एम6 - धोखाधड़ी का पता लगाना**: संदिग्ध धोखाधड़ी प्रयासों, फ़िशिंग, सोशल इंजीनियरिंग का पता लगाता है।
+- **एम7 - पहचान की अखंडता**: खाता अधिग्रहण, एकाधिक खातों, प्रतिबंध चोरी के संबंध में संकेतों की जांच करता है।
+- **एम8 - मीडिया सुरक्षा**: छवियों, ऑडियो, वीडियो, दस्तावेज़ों का विश्लेषण करता है।
+- **एम9 - संदर्भ इंजन**: सबसे महत्वपूर्ण मॉड्यूल। यह व्यक्तिगत निष्कर्षों को मिला देता है।
 
 ### 4. कॉन्टेक्स्ट इंजन महत्वपूर्ण क्यों है
 शुद्ध कीवर्ड खोज अपर्याप्त होगी. "मैं उसे हंसने से मार सकता था" में शब्दार्थ की दृष्टि से हिंसा शामिल है लेकिन यह अलंकार है। "कल रात 8 बजे मैं उसे उसके घर के सामने गोली मार दूंगा" यह बिल्कुल अलग स्थिति है। एआई को यह समझना चाहिए कि कथन का उसके विशिष्ट संदर्भ में क्या अर्थ है।
 
-### 5. Multilingual Moderation
-Moderation cannot simply compare words. It must analyze the semantic level (e.g., German idioms vs. Japanese idioms vs. regional expressions).
+### 5. बहुभाषी संयम
+मॉडरेशन केवल शब्दों की तुलना नहीं कर सकता. इसे शब्दार्थ स्तर का विश्लेषण करना चाहिए (उदाहरण के लिए, जर्मन मुहावरे बनाम जापानी मुहावरे बनाम क्षेत्रीय अभिव्यक्तियाँ)।
 
 ### 6. मूल भाषा+अनुवाद
 मूल और अनुवाद का अलग-अलग विश्लेषण किया गया है। तभी "संयुक्त मॉडरेशन मूल्यांकन" होता है। यह नेक्सस गाजा को यह निर्धारित करने की अनुमति देता है कि क्या अनुवाद ने स्वयं तथ्यों को बढ़ाया या बदल दिया है।
@@ -109,14 +118,14 @@ Moderation cannot simply compare words. It must analyze the semantic level (e.g.
 ### 10. कोई "एआई सज़ा" नहीं
 **एआई कोई अंतिम प्रतिबंध नहीं लगाता है।** यह गंभीर सुरक्षा चिंताओं के लिए तकनीकी तत्काल उपायों (उदाहरण के लिए, किसी संदेश को अस्थायी रूप से रोकना) को ट्रिगर कर सकता है, लेकिन अंतिम निर्णय सत्यापन योग्य रहता है।
 
-### 11. सुरक्षात्मक उपाय स्वचालित रूप से हो सकते हैं
-किसी ठोस खतरे की स्थिति में (खतरे का पता चला → उच्च आत्मविश्वास → अस्थायी प्रतिबंध → मानव समीक्षा → निर्णय), हम एआई को न्यायाधीश बनाए बिना खतरे वाले उपयोगकर्ता की रक्षा करते हैं।
+### 11. Protective Measures Can Occur Automatically
+In the event of a concrete threat (Threat detected → High confidence → Temporary restriction → Human review → Decision), we protect the threatened user without turning the AI into a judge.
 
-### 12. The AI Must Be Able to Justify Its Decisions
-The DSA requires clear and specific reasons. The AI provides structured reasoning: Rule (NG-CONDUCT-004), Detected (Potential concrete threat), Confidence (0.94), Relevant context (Previous 4 messages), Recommended action (Human review).
+### 12. एआई को अपने निर्णयों को सही ठहराने में सक्षम होना चाहिए
+डीएसए को स्पष्ट और विशिष्ट कारणों की आवश्यकता है। एआई संरचित तर्क प्रदान करता है: नियम (एनजी-आचरण-004), पता लगाया गया (संभावित ठोस खतरा), आत्मविश्वास (0.94), प्रासंगिक संदर्भ (पिछले 4 संदेश), अनुशंसित कार्रवाई (मानव समीक्षा)।
 
-### 13. एआई को गुप्त रूप से सामग्री में बदलाव नहीं करना चाहिए
-**मॉडरेशन एआई को कभी भी बिना ध्यान दिए मूल सामग्री में बदलाव नहीं करना चाहिए।** स्वचालित सुधार, अनुवाद या सारांश के दौरान, मूल को हमेशा संरक्षित रखा जाता है।
+### 13. AI Must Not Secretly Alter Content
+**Moderation AI must never alter the original content unnoticed.** During automatic correction, translation, or summarization, the original is always preserved.
 
 ### 14. एआई-जनित सामग्री
 हम इनमें अंतर करते हैं: मानव-निर्मित, एआई-सहायता प्राप्त, एआई-जनित, और एआई-हेरफेर। यह सामग्री मेटाडेटा का हिस्सा बन जाएगा.
@@ -127,90 +136,92 @@ EU AI अधिनियम (अगस्त 2026 से प्रभावी) 
 ### 16. डीपफेक डिटेक्शन
 आर्किटेक्चर का लक्ष्य सिंथेटिक छवियों, क्लोन की गई आवाज़ों और डीपफेक का पता लगाना है। हालाँकि, पता लगाना स्वचालित रूप से प्रमाण नहीं है।
 
-### 17. कोई स्वचालित "सत्य मशीन" नहीं (संयम ≠ तथ्य जाँच)
-एक सिस्टम जाँच करता है: "क्या सामग्री नियमों का उल्लंघन करती है?" (सामग्री मॉडरेशन), दूसरा प्रदान करता है: "कौन सी जानकारी और स्रोत उपलब्ध हैं?" (सूचना सहायता)। राय केवल "गलत" होने के कारण हटाई नहीं जातीं।
+### 17. No Automatic "Truth Machine" (Moderation ≠ Fact Checking)
+One system checks: "Does the content violate rules?" (Content Moderation), another provides: "What information and sources are available?" (Information Assistance). Opinions are not simply deleted for being "wrong."
 
-### 18. सांस्कृतिक गलत व्याख्या के विरुद्ध संरक्षण
-किसी एक देश के संचार मानदंडों को वैश्विक मानक मानने से रोकने के लिए एआई को **सांस्कृतिक संदर्भ मॉडल** की आवश्यकता होती है।
+### 18. Protection Against Cultural Misinterpretation
+The AI requires **Cultural Context Models** to prevent the communication norms of one country from being assumed as a global standard.
 
 ### 19. व्यंग्य, व्यंग्य और हास्य
 एआई संदर्भ, इमोजी, वार्तालाप इतिहास और ज्ञात विडंबनापूर्ण संरचनाओं का उपयोग करता है, लेकिन जब अर्थ अस्पष्ट हों तो उसे अनिश्चितता की अनुमति देनी चाहिए।
 
-### 20. एकल एआई स्कोर के आधार पर कोई सज़ा नहीं
-कोई भी गंभीर मॉडरेशन हस्तक्षेप केवल एकल स्वचालित वर्गीकरण परिणाम (पाठ + संदर्भ + व्यवहार + भाषा + मीडिया + नियम इंजन = जोखिम मूल्यांकन) पर आधारित नहीं हो सकता है।
+### 20. No Punishment Based on a Single AI Score
+No severe moderation intervention may be based solely on a single automated classification result (Text + Context + Behaviour + Language + Media + Rule Engine = Risk Assessment).
 
-### 21. उपयोगकर्ता व्यवहार संकेत और कोई सामाजिक क्रेडिट प्रणाली नहीं
-यह तकनीकी दुरुपयोग संकेतों (उदाहरण के लिए, बड़े पैमाने पर स्पैम पोस्टिंग) से संबंधित है, सामान्य सामाजिक रेटिंग प्रणाली से नहीं। नेक्सस गाजा सोशल क्रेडिट सिस्टम का रखरखाव नहीं करता है - मॉडरेशन सुरक्षा का काम करता है, न कि किसी व्यक्ति के मूल्य का आकलन करने का।
+### 21. User Behaviour Signals & No Social Credit System
+This relates to technical abuse signals (e.g., mass spam posting), not a general social rating system. Nexus Gaja does not maintain a Social Credit System – moderation serves security, not the assessment of a person's worth.
 
-### 22. मॉडरेशन एआई ऑडिटेबल होना चाहिए
-ट्रेसेबिलिटी सुनिश्चित करने के लिए सभी प्रासंगिक स्वचालित निर्णय लॉग किए जाते हैं (इवेंट-आईडी, नियम-आईडी, आत्मविश्वास, मानव-समीक्षा, आदि)।
+### 22. Moderation AI Must Be Auditable
+All relevant automated decisions are logged (Event-ID, Rule-ID, Confidence, Human-Review, etc.) to ensure traceability.
 
 ### 23. झूठी सकारात्मकता, झूठी नकारात्मकता और गुणवत्ता मेट्रिक्स
 त्रुटि प्रकारों की निगरानी की जाती है. एक डैशबोर्ड परिशुद्धता, रिकॉल और विशेष रूप से **अपील रिवर्सल दर** (सफल अपीलों की संख्या) को मापता है।
 
-### 24. भाषा समानता और अनुवाद पूर्वाग्रह
-मॉडरेशन गुणवत्ता सभी समर्थित भाषाओं (बहुभाषी मॉडरेशन बेंचमार्क) में तुलनीय होनी चाहिए। यदि मॉडरेशन परिणाम मूल और अनुवाद (अनुवाद संघर्ष) के बीच भिन्न हैं, तो इसकी विशेष रूप से समीक्षा की जानी चाहिए।
+### 24. Language Equity & Translation Bias
+Moderation quality must be comparable across all supported languages (Multilingual Moderation Benchmark). If moderation results differ between the original and the translation (Translation Conflict), this must be specifically reviewed.
 
-### 25. वास्तुकला प्रस्ताव और नीति इंजन
-नियम (पॉलिसी इंजन) एआई मॉडल में हार्डकोड नहीं किए गए हैं। एआई निष्कर्ष प्रदान करता है; नीति इंजन मौजूदा नियमों के आधार पर निर्णय लेता है। यह **नियम परिवर्तन के बिना मॉडल परिवर्तन** की अनुमति देता है।
+### 25. Architecture Proposal & Policy Engine
+Rules (Policy Engine) are not hardcoded into the AI models. The AI provides findings; the Policy Engine decides based on current rules. This allows for **model changes without rule changes**.
 
-### 26. The Human Remains the Final Authority
-- **NG-AI-MOD-001**: The AI assists in detection and classification, but does not replace human review in severe decisions.
-- **NG-AI-MOD-002**: Automated moderation decisions must be traceable, loggable, and verifiable.
+### 26. मानव ही अंतिम प्राधिकारी है
+- **एनजी-एआई-एमओडी-001**: एआई पता लगाने और वर्गीकरण में सहायता करता है, लेकिन गंभीर निर्णयों में मानव समीक्षा को प्रतिस्थापित नहीं करता है।
+- **एनजी-एआई-एमओडी-002**: स्वचालित मॉडरेशन निर्णय ट्रेस करने योग्य, लॉग करने योग्य और सत्यापन योग्य होने चाहिए।
 
 **सारांश**: हम चार चरणों वाली प्रणाली बना रहे हैं: एआई डिटेक्शन, संदर्भ और जोखिम विश्लेषण, नीति इंजन और मानव प्रशासन। यह एक खतरनाक "एआई एज़ जज" आर्किटेक्चर बनाए बिना मजबूत स्वचालन को सक्षम बनाता है।
 
-## वित्त पोषण सिद्धांत और राजस्व मॉडल (WP 1.10.1)
+## Financing Principles and Revenue Model (WP 1.10.1)
 
-नेक्सस गाजा के लिए, एक अत्यधिक महत्वपूर्ण आर्थिक सिद्धांत लागू होता है: **प्लेटफ़ॉर्म के भीतर कोई पारंपरिक विज्ञापन नहीं।**
-यह मूल रूप से नेक्सस गाजा को आज के कई सोशल नेटवर्क से अलग करता है। हालाँकि, इसका मतलब यह नहीं है कि नेक्सस गाजा का व्यावसायिक चरित्र नहीं हो सकता। इसके विपरीत, मंच को आर्थिक रूप से व्यवहार्य होना चाहिए ताकि इसका सामाजिक उद्देश्य कायम रह सके। आर्थिक गतिविधि अंत का एक साधन है, न कि मंच का प्राथमिक उद्देश्य।
+![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
-### 1. सिद्धांत एनजी-फिन-001
-नेक्सस गाजा अपने संचालन को उपयोगकर्ता के हितों से अलग पारदर्शी राजस्व धाराओं के माध्यम से वित्तपोषित करता है, न कि अपने उपयोगकर्ताओं के ध्यान या व्यक्तिगत डेटा के मुद्रीकरण के माध्यम से।
+For Nexus Gaja, a highly important economic principle applies: **No traditional advertising within the platform.**
+This fundamentally distinguishes Nexus Gaja from many of today's social networks. However, this does not mean that Nexus Gaja cannot have a commercial character. On the contrary, the platform must be economically viable so that its social purpose can endure. Economic activity is a means to an end, not the primary purpose of the platform.
 
-### 2. कोई पारंपरिक विज्ञापन नहीं
-विशेष रूप से निषिद्ध हैं:
-- बैनर विज्ञापन
-- पॉप-अप विज्ञापन
-- ऑटो-प्लेइंग वीडियो विज्ञापन
-- मानक फ़ीड में प्रायोजित पोस्ट
-- वैयक्तिकृत विज्ञापन प्रोफ़ाइल
-- उपयोगकर्ता प्रोफ़ाइल या व्यक्तिगत डेटा की बिक्री
-- निजी बातचीत से प्राप्त विज्ञापन।
+### 1. Principle NG-FIN-001
+Nexus Gaja finances its operations through transparent revenue streams separated from user interests, and not through the monetization of its users' attention or personal data.
 
-नेक्सस गाजा एक विज्ञापन स्थान के बजाय **संचार स्थान** बना हुआ है।
+### 2. No Traditional Advertising
+Specifically prohibited are:
+- Banner ads
+- Pop-up ads
+- Auto-playing video ads
+- Sponsored posts in the standard feed
+- Personalized advertising profiles
+- Sale of user profiles or personal data
+- Advertising derived from private conversations.
 
-### 3. Financing Without Advertising (The 6 Pillars)
-Financing is built on six pillars:
-```text
-                 NEXUS GAJA
+Nexus Gaja remains a **communication space rather than an advertising space**.
+
+### 3. विज्ञापन के बिना वित्तपोषण (6 स्तंभ)
+वित्त पोषण छह स्तंभों पर बनाया गया है:
+```पाठ
+                 नेक्सस गाजा
                      │
        ┌─────────────┼─────────────┐
-       ▼             ▼             ▼
-   PREMIUM       ORGANIZATION    DONATIONS
-       │             │             │
+       ▼ ▼ ▼
+   प्रीमियम संगठन दान
+       │ │ │
        ├─────────────┼─────────────┤
-       ▼             ▼             ▼
-    GRANTS       PARTNERSHIPS    SERVICES
+       ▼ ▼ ▼
+    अनुदान साझेदारी सेवाएँ
 ```
 
-#### स्तंभ 1 - निःशुल्क बुनियादी सदस्यता
-**नेक्सस गाजा फ्री** बिना किसी लागत के सभी के लिए बुनियादी अंतरराष्ट्रीय समझ (प्रोफ़ाइल, अंतर्राष्ट्रीय संचार, पोस्ट, समुदाय, चैट, बुनियादी अनुवाद) सक्षम बनाता है।
+#### Pillar 1 – Free Basic Membership
+**Nexus Gaja Free** enables basic international understanding for everyone (profile, international communication, posts, communities, chats, basic translation) at no cost.
 
-#### स्तंभ 2 - प्रीमियम पेशकश
-स्वैच्छिक भुगतान पेशकश (**नेक्सस गाजा प्लस**) अधिक भंडारण सीमा, उच्च मीडिया गुणवत्ता, विस्तारित एआई कोटा और संगठनात्मक सुविधाएँ प्रदान करती है।
-**महत्वपूर्ण (डार्क फ़्रीमियम के बजाय फ़्रीमियम):** बुनियादी संचार को कभी भी कृत्रिम रूप से ख़राब नहीं किया जाना चाहिए।
+#### Pillar 2 – Premium Offerings
+Voluntary paid offerings (**Nexus Gaja Plus**) providing greater storage limits, higher media quality, expanded AI quotas, and organizational features.
+**Important (Freemium instead of Dark Freemium):** Basic communication must never be artificially degraded.
 
-#### स्तंभ 3 - संगठन
-स्कूलों, विश्वविद्यालयों, गैर सरकारी संगठनों, व्यवसायों और नगर पालिकाओं के लिए विशेष खाते (**नेक्सस गाजा संगठन**)। अंतर्राष्ट्रीय समझ के गुणकों के रूप में स्कूलों को संस्थागत दरों के माध्यम से समर्थन दिया जा सकता है।
+#### Pillar 3 – Organizations
+Special accounts for schools, universities, NGOs, businesses, and municipalities (**Nexus Gaja Organization**). Schools can be supported via institutional rates as multipliers of international understanding.
 
 #### Pillar 4 – Donations
 The **Nexus Gaja Funding Pool** accepts general and earmarked donations (e.g., "for international youth communication"). A **Fund Allocation Ledger** ensures transparent allocation of funds.
 **Purpose Fund & Tombola:** A portion of donations feeds a pool for free/discounted usage. A lottery/tombola mechanism can allocate these funds transparently and auditably.
 
-#### स्तंभ 5 - संस्थागत वित्त पोषण
-फाउंडेशन, सांस्कृतिक वित्त पोषण कार्यक्रम, या राज्य कार्यक्रम।
-**एनजी-फिन-002:** वित्तीय सहायता संपादकीय या तकनीकी नियंत्रण (स्वतंत्रता) नहीं खरीदती।
+#### Pillar 5 – Institutional Funding
+Foundations, cultural funding programs, or state programs.
+**NG-FIN-002:** Financial support does not buy editorial or technical control (Independence).
 
 #### स्तंभ 6 - वाणिज्यिक सेवाएँ
 B2B सेवाएँ जैसे **अनुवाद-ए-सेवा** (एपीआई), संगठनात्मक संचार, या अंतर्राष्ट्रीय सम्मेलन कक्ष, मानक उपयोगकर्ता फ़ीड पर बोझ डाले बिना।
@@ -231,58 +242,58 @@ B2B सेवाएँ जैसे **अनुवाद-ए-सेवा** (ए
 - **वैश्विक संचार सूचकांक (जीसीआई):** विभिन्न भाषाई/सांस्कृतिक क्षेत्रों के लोगों के बीच सफल संचार संबंध।
 - **प्लेटफ़ॉर्म स्थिरता अनुपात (पीएसआर):** आवर्ती राजस्व / आवर्ती परिचालन लागत (लक्ष्य ≥ 1)।
 
-### 8. What We Explicitly Do Not Want (Negative List)
+### 8. हम स्पष्ट रूप से क्या नहीं चाहते (नकारात्मक सूची)
 नेक्सस गाजा को **नहीं** वित्तपोषित किया जाता है:
 ❌ व्यक्तिगत डेटा की बिक्री
 ❌ वैयक्तिकृत पारंपरिक विज्ञापन
-❌ Monitoring user behavior for advertising purposes
+❌ विज्ञापन उद्देश्यों के लिए उपयोगकर्ता के व्यवहार की निगरानी करना
 ❌ निजी संचार डेटा की बिक्री
 ❌ छिपा हुआ AI डेटा उपयोग
 ❌ मैनिपुलेटिव प्रीमियम पेवॉल्स
-❌ Artificial reach restriction for monetization
+मुद्रीकरण के लिए कृत्रिम पहुंच प्रतिबंध
 ❌ भुगतान किया गया राजनीतिक प्रभाव
 ❌ विशेषाधिकार प्राप्त मॉडरेशन निर्णयों की खरीद।
 
-### 9. प्रारंभिक वित्तीय वास्तुकला
-```पाठ
-                         नेक्सस गाजा
+### 9. Preliminary Financial Architecture
+```text
+                         NEXUS GAJA
                               │
-             ┌────────────────┼───────────────┐
-             │ │ │
-             ▼ ▼ ▼
-          उपयोगकर्ता संगठन उद्यम
-             │ │ │
-             └────────────────┼───────────────┘
+             ┌────────────────┼────────────────┐
+             │                │                │
+             ▼                ▼                ▼
+          USERS          ORGANIZATIONS      ENTERPRISE
+             │                │                │
+             └────────────────┼────────────────┘
                               │
-                       प्लेटफ़ॉर्म सेवाएँ
+                       PLATFORM SERVICES
                               │
-          ┌─────────────────── ┼───────────────────┐
-          ▼ ▼ ▼
-       प्रीमियम दान एपीआई
+          ┌───────────────────┼───────────────────┐
+          ▼                   ▼                   ▼
+       PREMIUM             DONATIONS            API
                               │
                     ┌─────────┴─────────┐
-                    ▼ ▼
-               सामान्य निधि प्रतिबंधित निधि
+                    ▼                   ▼
+               GENERAL FUND       RESTRICTED FUNDS
                                         │
                                         ▼
-                                  सामाजिक उद्देश्य
+                                  SOCIAL PURPOSE
 ```
 
-### वित्तपोषण सिद्धांतों का सारांश (एनजी-फिन)
-- **एनजी-फिन-001:** पारंपरिक विज्ञापन के माध्यम से कोई वित्तपोषण नहीं।
-- **एनजी-फिन-002:** वित्तीय सहायता के माध्यम से कोई संपादकीय/तकनीकी नियंत्रण नहीं।
-- **एनजी-फिन-003:** व्यक्तिगत डेटा कोई वस्तु नहीं है।
-- **एनजी-फिन-004:** बुनियादी संचार बिना भुगतान के सुलभ रहता है।
-- **NG-FIN-005:** प्रीमियम पेशकशों से मुफ़्त उपयोगकर्ताओं को नुकसान नहीं होना चाहिए।
-- **एनजी-फिन-006:** निर्धारित धनराशि का प्रबंधन उनके उद्देश्य के अनुसार किया जाता है।
-- **एनजी-फिन-007:** दान और अनुदान का पारदर्शी प्रबंधन।
-- **एनजी-फिन-008:** वाणिज्यिक बी2बी सेवाएं स्वतंत्रता से समझौता नहीं करतीं।
-- **एनजी-फिन-009:** अधिकतम मुद्रीकरण के बजाय स्थिरता पर ध्यान दें।
-- **एनजी-फिन-010:** संरचना सामाजिक उद्देश्य को स्थायी रूप से सुरक्षित करती है।
+### Summary of Financing Principles (NG-FIN)
+- **NG-FIN-001:** No financing through traditional advertising.
+- **NG-FIN-002:** No editorial/technical control through financial support.
+- **NG-FIN-003:** Personal data is not a commodity.
+- **NG-FIN-004:** Basic communication remains accessible without payment.
+- **NG-FIN-005:** Premium offerings must not degrade free users.
+- **NG-FIN-006:** Earmarked funds are managed according to their purpose.
+- **NG-FIN-007:** Transparent management of donations and grants.
+- **NG-FIN-008:** Commercial B2B services do not compromise independence.
+- **NG-FIN-009:** Focus on sustainability rather than maximum monetization.
+- **NG-FIN-010:** The structure permanently secures the social purpose.
 
-## एपीआई, इंटरफेस और संचार वास्तुकला (WP 1.11.3)
+## API, Interfaces, and Communication Architecture (WP 1.11.3)
 
-सिस्टम स्थिरता, सुरक्षा और स्केलेबिलिटी सुनिश्चित करने के लिए, नेक्सस गाजा सख्ती से एपीआई-प्रथम और इवेंट-संचालित आर्किटेक्चर का पालन करता है।
+To ensure system stability, security, and scalability, Nexus Gaja follows a strictly API-first and event-driven architecture. 
 
 ### मूल सिद्धांत
 - **कोई प्रत्यक्ष डेटाबेस एक्सेस नहीं:** घटक विशेष रूप से परिभाषित इंटरफेस (एपीआई या इवेंट) के माध्यम से संचार करते हैं, कभी भी अन्य सेवाओं के प्रत्यक्ष डेटाबेस प्रश्नों के माध्यम से नहीं।
@@ -299,6 +310,8 @@ B2B सेवाएँ जैसे **अनुवाद-ए-सेवा** (ए
 - **निष्क्रियता और आउटबॉक्स पैटर्न:** महत्वपूर्ण संचालन (जैसे दान या संदेश) को डुप्लिकेट प्रसंस्करण को रोकने के लिए निष्क्रिय बनाया गया है, आउटबॉक्स पैटर्न का उपयोग यह सुनिश्चित करने के लिए किया जाता है कि डेटाबेस लेनदेन के दौरान भी घटनाएं कभी न खोएं।
 
 ## एमवीपी डोमेन मॉडल (डब्ल्यूपी 1.12)
+
+![नेक्सस गाजा मॉड्यूलर मोनोलिथ](assets/img/nexus_architecture.jpg)
 
 नेक्सस गाजा एक सख्ती से डोमेन-संचालित एमवीपी आर्किटेक्चर (एडीआर-025) को नियोजित करता है, जिसे स्पष्ट डोमेन सीमाओं के साथ एक मॉड्यूलर मोनोलिथ के रूप में डिज़ाइन किया गया है। यह संरचना बाद में विशिष्ट डोमेन को विभाजित करने के लचीलेपन को बनाए रखते हुए समय से पहले माइक्रोसर्विस जटिलता को रोकती है।
 

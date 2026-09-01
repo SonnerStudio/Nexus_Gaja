@@ -1,6 +1,8 @@
-#ネクサスガジャ
+# Nexus Gaja
 
-![Nexus Gaja ロゴ](assets/logo.jpg)
+![Nexus Gaja Logo](assets/logo.jpg)
+
+![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
 
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
@@ -12,9 +14,12 @@
 **Nexus Gaja** は、グローバル コミュニケーションに革命を起こすために設計された、インテリジェントでコンテキストに依存した通信ネットワークです。
 
 ## 目的とビジョン
+
+![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
+
 グローバル化した世界では、言語が最大の障壁となることがよくあります。 Nexus Gaja の主な目標は、共通言語を話すかどうかに関係なく、人々の間でシームレスでバリアフリーで状況に応じて正確なコミュニケーションを可能にすることです。
 
-It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
+それは単語を厳密に翻訳するだけではなく、**意味を伝える**ことも重要です。 Nexus Gaja は、文化的、地域的、文脈上のニュアンスを理解することで人々をより深いレベルで結びつけ、それによって本物の本物の会話を可能にします。
 
 ## 可能性と機能
 - **マルチメディア通信**: システムはテキストだけでなく、画像、音声、ビデオも処理します。これにより、言語の壁を超えてリアルタイムで完全に没入型の会話 (ビデオ通話や音声メッセージなど) が可能になります。
@@ -25,11 +30,13 @@ It's not just about rigidly translating words, but about **transferring meaning*
 
 ## 技術アーキテクチャ (コアコンセプト)
 
+![Nexus Gaja 翻訳コンセプト](assets/img/nexus_translation.jpg)
+
 Nexus Gaja の技術的中核は、厳密に 3 つの層に分割されたカスタム構築の通信モデルです。
 
-1. **オリジナル**: 送信者によって作成された通信オブジェクト (メッセージ) は常に不変のままです。
-2. **意味解釈**: システムは単語だけでなく実際の意味も分析します。
-3. **ターゲット言語表現**: AI は、各受信者の優先言語に基づいて、オリジナルの一時的な表現またはキャッシュされた表現を作成するだけです。翻訳によって元のメッセージが上書きされることはありません。
+1. **Original**: The communication object (message) created by the sender always remains immutable.
+2. **Semantic Interpretation**: The system analyzes not just the words, but the actual meaning.
+3. **Target Language Representation**: The AI merely creates a temporary or cached representation of the original for the respective recipient based on their preferred language. Translations never overwrite the original message.
 
 ### コンテキストの依存関係
 Nexus Gaja の翻訳では、メッセージが単独で表示されることはありません。エンジンは階層全体を考慮します。
@@ -39,6 +46,8 @@ Nexus Gaja の翻訳では、メッセージが単独で表示されることは
 翻訳は、**リクエストに応じて** (オンデマンド) のみリソース効率よく行われます。ユーザーがコンテンツをリクエストすると、そのコンテンツは事前に設定された言語に翻訳されます。特定の言語の翻訳が生成されると、将来のリクエストを大幅に高速化するために永続的に保存 (キャッシュ) されます。
 
 ## AI 支援モデレーション (WP 1.8.4)
+
+![Nexus Gaja AI モデレーション](assets/img/nexus_moderation.jpg)
 
 AI 支援モデレーションにより、当社は現在の EU 規制 (第 50 条に基づく EU AI 法の透明性要件、わかりやすい正当化と異議申し立てのオプションを備えたデジタル サービス法) を考慮して、製品アイデアから技術アーキテクチャに至るまで重要な一歩を踏み出しています。
 
@@ -51,27 +60,27 @@ Nexus Gaja 上でどのような意見が存在できるかを自ら決定する
 - **決定:** 「実際にどのようなアクションが取られるのか?」
 3 番目のレベルは、深刻な場合には人間が制御する必要があります。
 
-### 2. サブシステムとしてのモデレーション AI
-単一の AI の代わりに、堅牢なサブシステムが確立されます。
-```テキスト
-                 NEXUS GAJA AI モデレーション
+### 2. The Moderation AI as a Subsystem
+Instead of a single AI, a robust subsystem is established:
+```text
+                 NEXUS GAJA AI MODERATION
                           │
-       ┌─────────┼─────────┐
-       │ │ │
-  言語AI 安全AI 詐欺AI
-       │ │ │
-       §─────────┬───┴─────────┬───┤
-       │ │ │
- 翻訳動作のアイデンティティ
- 解析 解析信号
-       │ │ │
-       ━─────────┼─────────┘
+       ┌──────────────────┼──────────────────┐
+       │                  │                  │
+  Language AI        Safety AI          Fraud AI
+       │                  │                  │
+       ├──────────────┬───┴──────────────┬───┤
+       │              │                  │
+ Translation      Behaviour          Identity
+ Analysis         Analysis            Signals
+       │              │                  │
+       └──────────────┼──────────────────┘
                       ▼
-               リスク評価
+               Risk Assessment
                       │
                       ▼
-               ヒューマンレビュー
-「」
+               Human Review
+```
 
 ### 3. 最も重要な AI モジュール
 Nexus Gaja は、次の 9 つの専門分析領域を利用します。
@@ -100,17 +109,17 @@ Nexus Gaja は、次の 9 つの専門分析領域を利用します。
 ### 8. Uncertainty Becomes a Signal Itself
 If the AI is uncertain (e.g., Threat: 0.62, Satire: 0.54), it must not simply enforce harsh rules. Instead, uncertainty is built directly into the architecture: **Human Review Required**.
 
-### 9. Four Decision Zones
-- 🟢 **GREEN**: Highly likely compliant. → no action.
-- 🟡 **YELLOW**: Possible violation. → monitor / provide a warning if necessary.
-- 🟠 **ORANGE**: Probable violation. → moderation review.
-- 🔴 **RED**: Severe possible violation. → immediate protective measure + human review.
+### 9. 4 つの決定ゾーン
+- 🟢 **緑**: 準拠している可能性が高くなります。 →アクションなし。
+- 🟡 **黄色**: 違反の可能性があります。 → 監視し、必要に応じて警告を発します。
+- 🟠 **オレンジ**: 違反の可能性があります。 →モデレーションレビュー。
+- 🔴 **赤色**: 重大な違反の可能性があります。 → 即時保護措置 + 人による審査。
 
-### 10. No "AI Punishment"
-**The AI imposes no final sanctions.** It can trigger technical immediate measures (e.g., temporarily holding back a message) for severe security concerns, but the final decision remains verifiable.
+### 10. 「AI 罰」はありません
+**AI は最終的な制裁を課しません。** 深刻なセキュリティ上の懸念に対して、技術的な即時措置 (メッセージを一時的に保留するなど) を引き起こす可能性がありますが、最終的な決定は検証可能です。
 
-### 11. Protective Measures Can Occur Automatically
-In the event of a concrete threat (Threat detected → High confidence → Temporary restriction → Human review → Decision), we protect the threatened user without turning the AI into a judge.
+### 11. 保護措置は自動的に行われる可能性があります
+具体的な脅威が発生した場合（脅威の検出→信頼性が高い→一時的な制限→人間によるレビュー→決定）、AIを判断者にさせることなく、脅威にさらされたユーザーを保護します。
 
 ### 12. AI はその決定を正当化できなければなりません
 DSA には明確かつ具体的な理由が必要です。 AI は構造化された推論を提供します: ルール (NG-CONDUCT-004)、検出 (潜在的な具体的な脅威)、信頼度 (0.94)、関連するコンテキスト (過去 4 つのメッセージ)、推奨アクション (人間によるレビュー)。
@@ -133,8 +142,8 @@ EU AI 法 (2026 年 8 月発効) の透明性規則によれば、AI によっ�
 ### 18. 文化的誤解からの保護
 AI には、一国のコミュニケーション規範が世界標準として想定されるのを防ぐために **文化的コンテキスト モデル** が必要です。
 
-### 19. 皮肉、風刺、ユーモア
-AI はコンテキスト、絵文字、会話履歴、既知の皮肉構造を使用しますが、意味が曖昧な場合には不確実性を考慮する必要があります。
+### 19. Irony, Satire, and Humor
+The AI uses context, emojis, conversation history, and known irony structures, but must allow for uncertainty when meanings are ambiguous.
 
 ### 20. 単一の AI スコアに基づく罰はない
 単一の自動分類結果 (テキスト + コンテキスト + 行動 + 言語 + メディア + ルール エンジン = リスク評価) のみに基づいて、厳格な調整介入を行うことはできません。
@@ -161,6 +170,8 @@ AI はコンテキスト、絵文字、会話履歴、既知の皮肉構造を�
 **概要**: 私たちは、AI 検出、コンテキストとリスク分析、ポリシー エンジン、ヒューマン ガバナンスの 4 段階のシステムを構築しています。これにより、危険な「判断者としての AI」アーキテクチャを作成することなく、強力な自動化が可能になります。
 
 ## 資金調達の原則と収益モデル (WP 1.10.1)
+
+![Nexus Gaja 財務モデル](assets/img/nexus_finance.jpg)
 
 Nexus Gaja には、**プラットフォーム内に従来の広告を掲載しない**という非常に重要な経済原則が適用されます。
 これは、Nexus Gaja を今日の多くのソーシャル ネットワークと根本的に区別するものです。ただし、これは Nexus Gaja が商業的な性格を持つことができないという意味ではありません。それどころか、プラットフォームは社会的目的を持続できるように経済的に実行可能でなければなりません。経済活動は目的を達成するための手段であり、プラットフォームの主な目的ではありません。
@@ -194,8 +205,8 @@ Nexus Gaja は、**広告スペースではなくコミュニケーション ス
     助成金パートナーシップサービス
 「」
 
-#### 第 1 の柱 – 無料の基本メンバーシップ
-**Nexus Gaja Free** を使用すると、誰でも無料で基本的な国際理解 (プロフィール、国際コミュニケーション、投稿、コミュニティ、チャット、基本的な翻訳) を実現できます。
+#### Pillar 1 – Free Basic Membership
+**Nexus Gaja Free** enables basic international understanding for everyone (profile, international communication, posts, communities, chats, basic translation) at no cost.
 
 #### 第 2 の柱 – プレミアム製品
 任意の有料サービス (**Nexus Gaja Plus**) は、より大きなストレージ制限、より高いメディア品質、拡張された AI クォータ、および組織機能を提供します。
@@ -215,8 +226,8 @@ Nexus Gaja は、**広告スペースではなくコミュニケーション ス
 #### 第 6 の柱 – 商用サービス
 **Translation-as-a-Service** (API)、組織コミュニケーション、国際会議室などの B2B サービスを、標準のユーザー フィードに負担をかけずに実現します。
 
-### 4. No Data Monetization & Surveillance Economy
-**NG-FIN-003:** Personal user data is not a commodity. No sale of lists, profiles, or histories. Nexus Gaja does not profit from psychological surveillance (Surveillance Economy).
+### 4. データ収益化と監視経済の不在
+**NG-FIN-003:** ユーザーの個人データは商品ではありません。リスト、プロフィール、履歴の販売は禁止されています。 Nexus Gaja は心理監視 (監視経済) から利益を得ているわけではありません。
 
 ### 5. 財務の透明性と資金台帳
 **Nexus Gaja の財務の透明性:** 集約された財務構造の公開。指定された寄付は技術的な会計処理を受けます (基金 ID → 目的 → 残高 → 配分)。社会的目的を企業マーケティングに相互補助することはありません。
@@ -268,26 +279,26 @@ Nexus Gaja は以下から資金提供を受けていません**。
                                   社会的目的
 「」
 
-### 資金調達原則の概要 (NG-FIN)
-- **NG-FIN-001:** 従来の広告による資金調達はありません。
-- **NG-FIN-002:** 財政的支援による編集/技術的管理はありません。
-- **NG-FIN-003:** 個人データは商品ではありません。
-- **NG-FIN-004:** 基本的な通信は、支払いなしで引き続きアクセスできます。
-- **NG-FIN-005:** プレミアム製品は無料ユーザーの価値を低下させてはなりません。
-- **NG-FIN-006:** 指定された資金は目的に従って管理されます。
-- **NG-FIN-007:** 寄付と助成金の透明性のある管理。
-- **NG-FIN-008:** 商用 B2B サービスは独立性を損なうことはありません。
-- **NG-FIN-009:** 最大限の収益化ではなく持続可能性に焦点を当てます。
-- **NG-FIN-010:** この構造は社会的目的を永続的に確保します。
+### Summary of Financing Principles (NG-FIN)
+- **NG-FIN-001:** No financing through traditional advertising.
+- **NG-FIN-002:** No editorial/technical control through financial support.
+- **NG-FIN-003:** Personal data is not a commodity.
+- **NG-FIN-004:** Basic communication remains accessible without payment.
+- **NG-FIN-005:** Premium offerings must not degrade free users.
+- **NG-FIN-006:** Earmarked funds are managed according to their purpose.
+- **NG-FIN-007:** Transparent management of donations and grants.
+- **NG-FIN-008:** Commercial B2B services do not compromise independence.
+- **NG-FIN-009:** Focus on sustainability rather than maximum monetization.
+- **NG-FIN-010:** The structure permanently secures the social purpose.
 
 ## API、インターフェイス、および通信アーキテクチャ (WP 1.11.3)
 
-システムの安定性、セキュリティ、スケーラビリティを確保するために、Nexus Gaja は厳密に API ファーストのイベント駆動型アーキテクチャに従っています。
+To ensure system stability, security, and scalability, Nexus Gaja follows a strictly API-first and event-driven architecture. 
 
-### 基本原則
-- **直接データベース アクセスなし:** コンポーネントは、他のサービスの直接データベース クエリを介さずに、定義されたインターフェイス (API またはイベント) のみを介して通信します。
-- **API ゲートウェイ:** すべての外部クライアント リクエストは、認証、ルーティング、およびレート制限を処理する API ゲートウェイを介してルーティングされます。
-- **プロバイダーの抽象化:** 外部サービス (AI モデル、決済プロバイダー、翻訳エンジン) は抽象化レイヤーを介して統合され、ハードコードされた依存関係を回避し、柔軟なプロバイダー スワッピングを可能にします。
+### Core Principles
+- **No Direct Database Access:** Components communicate exclusively via defined interfaces (APIs or Events), never through direct database queries of other services.
+- **API Gateway:** All external client requests route through an API Gateway handling authentication, routing, and rate limiting.
+- **Provider Abstraction:** External services (AI models, payment providers, translation engines) are integrated via abstraction layers, avoiding hardcoded dependencies and enabling flexible provider swapping.
 
 ### コミュニケーションパターン
 - **同期 API (REST/HTTPS):** ログイン、プロファイル設定、直接翻訳などの即時リクエストに使用されます。
@@ -298,16 +309,18 @@ Nexus Gaja は以下から資金提供を受けていません**。
 - **Zero-Trust Model:** Internal network traffic is not automatically trusted; sensitive service-to-service communication requires authentication.
 - **Idempotency & Outbox Pattern:** Critical operations (like donations or messaging) are designed to be idempotent to prevent duplicate processing, utilizing the Outbox pattern to ensure events are never lost even during database transactions.
 
-## MVP Domain Model (WP 1.12)
+## MVP ドメイン モデル (WP 1.12)
+
+![Nexus Gaja モジュラー モノリス](assets/img/nexus_architecture.jpg)
 
 Nexus Gaja は、明確なドメイン境界を持つモジュール式モノリスとして設計された、厳密にドメイン駆動型の MVP アーキテクチャ (ADR-025) を採用しています。この構造は、後で特定のドメインを分割する柔軟性を維持しながら、マイクロサービスの早期の複雑化を防ぎます。
 
-### Core Domain Entities
-The architecture explicitly separates distinct concepts to ensure data integrity and avoid structural pitfalls like "Username = Human":
-- **Identity & Accounts:** `Person` ≠ `User Account` ≠ `Identity Verification`. A verified person participates via an account, but the entities remain separate.
-- **Communication:** `Message` ≠ `Translation`. The original message remains immutable; translations are linked entities.
-- **Moderation:** `Report` ≠ `Moderation Decision`. A report is merely a claim; a moderation case conducts the investigation.
-- **Finances:** `Donation` ≠ `Fund Balance`. Payments are booked via an immutable ledger to a fund, ensuring financial transparency.
+### コアドメインエンティティ
+このアーキテクチャでは、データの整合性を確保し、「ユーザー名 = 人間」のような構造的な落とし穴を回避するために、明確に異なる概念が分離されています。
+- **アイデンティティとアカウント:** 「個人」≠「ユーザーアカウント」≠「本人確認」。認証された個人はアカウントを介して参加しますが、エンティティは分離されたままになります。
+- **コミュニケーション:** `メッセージ` ≠ `翻訳`。元のメッセージは不変のままです。翻訳はリンクされたエンティティです。
+- **モデレーション:** 「報告」≠「モデレーションの決定」。報告書は単なる主張にすぎません。モデレートケースが調査を実施します。
+- **財政:** `寄付` ≠ `基金残高`。支払いは不変の台帳を介して基金に記録され、財務の透明性が確保されます。
 
 ### 相互接続されたドメイン
 このシステムは、アイデンティティ、アカウント、組織、コミュニケーション、コミュニティ、言語、モデレーション、通知、財務、ガバナンスという明確な論理ドメイン (境界コンテキスト) に分割されています。これらのドメインは、現実世界のエンティティ (ユーザー、学校、NGO) からデジタル インタラクションおよび関連するガバナンスまでの過程全体をマッピングします。

@@ -2,6 +2,8 @@
 
 ![Nexus Gaja embléma](assets/logo.jpg)
 
+![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
 
@@ -12,7 +14,10 @@
 A **Nexus Gaja** egy intelligens, környezetérzékeny kommunikációs hálózat, amelyet a globális kommunikáció forradalmasítására terveztek.
 
 ## Purpose and Vision
-In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
+
+![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
+
+A globalizált világban gyakran a nyelv jelenti a legnagyobb akadályt. A Nexus Gaja fő célja, hogy zökkenőmentes, akadálymentes és kontextus szerint pontos kommunikációt tegyen lehetővé az emberek között – függetlenül attól, hogy egy közös nyelvet beszélnek-e.
 
 Nem csak a szavak merev fordításáról van szó, hanem a **jelentés átadásáról**. A Nexus Gaja mélyebb szinten köti össze az embereket azáltal, hogy megérti a kulturális, regionális és kontextuális árnyalatokat, és ezáltal valódi, hiteles beszélgetéseket tesz lehetővé.
 
@@ -25,11 +30,13 @@ Nem csak a szavak merev fordításáról van szó, hanem a **jelentés átadás�
 
 ## Műszaki architektúra (alapkoncepció)
 
+![Nexus Gaja fordítási koncepció](assets/img/nexus_translation.jpg)
+
 A Nexus Gaja műszaki magja egy egyedi tervezésű kommunikációs modell, amely szigorúan három rétegre oszlik:
 
-1. **Original**: The communication object (message) created by the sender always remains immutable.
-2. **Semantic Interpretation**: The system analyzes not just the words, but the actual meaning.
-3. **Target Language Representation**: The AI merely creates a temporary or cached representation of the original for the respective recipient based on their preferred language. Translations never overwrite the original message.
+1. **Eredeti**: A feladó által létrehozott kommunikációs objektum (üzenet) mindig változtathatatlan marad.
+2. **Szemantikai értelmezés**: A rendszer nem csak a szavakat elemzi, hanem a tényleges jelentést is.
+3. **Célnyelvi megjelenítés**: Az AI csupán ideiglenes vagy gyorsítótárazott reprezentációt hoz létre az eredetiről az adott címzett számára a preferált nyelv alapján. A fordítások soha nem írják felül az eredeti üzenetet.
 
 ### Kontextusfüggőség
 A Nexus Gaja fordításai soha nem tekintik az üzeneteket elszigetelten. A motor figyelembe veszi a teljes hierarchiát:
@@ -39,6 +46,8 @@ A Nexus Gaja fordításai soha nem tekintik az üzeneteket elszigetelten. A moto
 A fordítás csak **kérésre** (igény szerint) történik erőforrás-hatékonyan. Amikor egy felhasználó tartalmat kér, azt lefordítják az előre beállított nyelvére. Amint egy adott nyelvre egy fordítást generált, azt véglegesen tárolja (gyorsítótárban), hogy drasztikusan felgyorsítsa a jövőbeni kéréseket.
 
 ## AI-asszisztált moderálás (WP 1.8.4)
+
+![Nexus Gaja AI moderálás](assets/img/nexus_moderation.jpg)
 
 Az AI-asszisztált moderációval jelentős lépést teszünk a termékötlettől a műszaki architektúráig, figyelembe véve a jelenlegi EU-szabályozást (az EU AI törvény 50. cikk szerinti átláthatósági követelményei; digitális szolgáltatásokról szóló törvény érthető indoklással és fellebbezési lehetőségekkel).
 
@@ -115,8 +124,8 @@ Konkrét fenyegetés esetén (Fenyegetés észlelve → Magas bizalom → Ideigl
 ### 12. The AI Must Be Able to Justify Its Decisions
 The DSA requires clear and specific reasons. The AI provides structured reasoning: Rule (NG-CONDUCT-004), Detected (Potential concrete threat), Confidence (0.94), Relevant context (Previous 4 messages), Recommended action (Human review).
 
-### 13. AI Must Not Secretly Alter Content
-**Moderation AI must never alter the original content unnoticed.** During automatic correction, translation, or summarization, the original is always preserved.
+### 13. Az AI nem változtathatja meg titokban a tartalmat
+**A moderációs AI soha nem változtathatja meg észrevétlenül az eredeti tartalmat.** Az automatikus javítás, fordítás vagy összegzés során az eredetit mindig megőrzi.
 
 ### 14. AI által generált tartalom
 Megkülönböztetünk: ember által létrehozott, mesterséges intelligencia által támogatott, mesterséges intelligencia által generált és mesterséges intelligencia által manipulált. Ez a tartalom metaadatainak részévé válik.
@@ -127,20 +136,20 @@ Az EU AI-törvényének (2026 augusztusától hatályos) átláthatósági szab�
 ### 16. Mélyhamisítás észlelése
 Az architektúra célja szintetikus képek, klónozott hangok és mélyhamisítások észlelése. Az észlelés azonban nem automatikusan bizonyítja.
 
-### 17. No Automatic "Truth Machine" (Moderation ≠ Fact Checking)
-One system checks: "Does the content violate rules?" (Content Moderation), another provides: "What information and sources are available?" (Information Assistance). Opinions are not simply deleted for being "wrong."
+### 17. Nincs automatikus "igazsággép" (Moderálás ≠ Tényellenőrzés)
+Az egyik rendszer ellenőrzi: "A tartalom sérti a szabályokat?" (Tartalom moderálása), egy másik a következőket tartalmazza: "Milyen információk és források állnak rendelkezésre?" (Információs segítségnyújtás). A véleményeket nem egyszerűen azért töröljük, mert „tévednek”.
 
 ### 18. Védelem a kulturális félreértelmezés ellen
 A mesterséges intelligencia **kulturális kontextusmodelleket** igényel, hogy megakadályozzák, hogy egy ország kommunikációs normáit globális szabványnak tekintsék.
 
-### 19. Irony, Satire, and Humor
-The AI uses context, emojis, conversation history, and known irony structures, but must allow for uncertainty when meanings are ambiguous.
+### 19. Irónia, szatíra és humor
+Az AI kontextust, hangulatjeleket, beszélgetési előzményeket és ismert iróniastruktúrákat használ, de lehetővé kell tennie a bizonytalanságot, ha a jelentések nem egyértelműek.
 
 ### 20. Nincs büntetés egyetlen AI-pontszám alapján
 Semmilyen súlyos moderálási beavatkozás nem alapulhat kizárólag egyetlen automatizált besorolási eredményen (Szöveg + Kontextus + Viselkedés + Nyelv + Média + Szabálymotor = Kockázatértékelés).
 
-### 21. User Behaviour Signals & No Social Credit System
-This relates to technical abuse signals (e.g., mass spam posting), not a general social rating system. Nexus Gaja does not maintain a Social Credit System – moderation serves security, not the assessment of a person's worth.
+### 21. Felhasználói viselkedési jelzések és nincs szociális kreditrendszer
+Ez a technikai visszaélésekre utaló jelekre (pl. tömeges spamküldésre) vonatkozik, nem pedig egy általános közösségi minősítési rendszerre. A Nexus Gaja nem tart fenn társadalmi kreditrendszert – a mértékletesség a biztonságot szolgálja, nem pedig az ember értékének felmérését.
 
 ### 22. A moderált mesterséges intelligencia auditálhatónak kell lennie
 A nyomon követhetőség biztosítása érdekében minden releváns automatizált döntés naplózásra kerül (Eseményazonosító, Szabályazonosító, Bizalom, Human-Review stb.).
@@ -154,13 +163,15 @@ A moderálás minőségének összehasonlíthatónak kell lennie az összes tám
 ### 25. Architecture Proposal & Policy Engine
 A szabályok (Policy Engine) nincsenek bekódolva az AI modellekbe. Az MI eredményeket nyújt; a Policy Engine a jelenlegi szabályok alapján dönt. Ez lehetővé teszi a **modellváltoztatást szabálymódosítások nélkül**.
 
-### 26. Az Ember marad a végső hatóság
-- **NG-AI-MOD-001**: A mesterséges intelligencia segít az észlelésben és az osztályozásban, de nem helyettesíti a súlyos döntések emberi felülvizsgálatát.
-- **NG-AI-MOD-002**: Az automatizált moderálási döntéseknek nyomon követhetőnek, naplózhatónak és ellenőrizhetőnek kell lenniük.
+### 26. The Human Remains the Final Authority
+- **NG-AI-MOD-001**: The AI assists in detection and classification, but does not replace human review in severe decisions.
+- **NG-AI-MOD-002**: Automated moderation decisions must be traceable, loggable, and verifiable.
 
-**Összefoglaló**: Négy szakaszból álló rendszert építünk: AI-észlelés, kontextus- és kockázatelemzés, irányelvmotor és emberi kormányzás. Ez erős automatizálást tesz lehetővé veszélyes „AI mint bíró” architektúra létrehozása nélkül.
+**Summary**: We are building a four-stage system: AI Detection, Context and Risk Analysis, Policy Engine, and Human Governance. This enables strong automation without creating a dangerous "AI as Judge" architecture.
 
 ## Finanszírozási elvek és bevételi modell (WP 1.10.1)
+
+![Nexus Gaja pénzügyi modell](assets/img/nexus_finance.jpg)
 
 A Nexus Gaja esetében egy rendkívül fontos gazdasági elv érvényesül: **A platformon belül nincs hagyományos hirdetés.**
 Ez alapjaiban különbözteti meg a Nexus Gaját számos mai közösségi hálózattól. Ez azonban nem jelenti azt, hogy a Nexus Gaja ne lehetne kereskedelmi jellegű. Éppen ellenkezőleg, a platformnak gazdaságilag életképesnek kell lennie, hogy társadalmi célja fennmaradhasson. A gazdasági tevékenység a cél elérésének eszköze, nem pedig a platform elsődleges célja.
@@ -215,8 +226,8 @@ Alapítványok, kulturális finanszírozási programok vagy állami programok.
 #### 6. pillér – Kereskedelmi szolgáltatások
 B2B szolgáltatások, mint például a **Szolgáltatásként fordítás** (API), a szervezeti kommunikáció vagy a nemzetközi konferenciatermek, anélkül, hogy megterhelnék a szokásos felhasználói feedet.
 
-### 4. No Data Monetization & Surveillance Economy
-**NG-FIN-003:** Personal user data is not a commodity. No sale of lists, profiles, or histories. Nexus Gaja does not profit from psychological surveillance (Surveillance Economy).
+### 4. Nincs adatbevételezés és felügyeleti gazdaság
+**NG-FIN-003:** A személyes felhasználói adatok nem áruk. Listák, profilok vagy előzmények értékesítése tilos. A Nexus Gaja nem profitál a pszichológiai megfigyelésből (Surveillance Economy).
 
 ### 5. Pénzügyi átláthatóság és alapkönyv
 **Nexus Gaja pénzügyi átláthatósága:** Összesített pénzügyi struktúrák közzététele. A célhoz kötött adományok technikai elszámolást kapnak (Alapazonosító → Cél → Egyenleg → Kiosztás). Nincs társadalmi célok kereszttámogatása a vállalati marketingben.
@@ -300,10 +311,12 @@ A rendszer stabilitásának, biztonságának és méretezhetőségének biztosí
 
 ## MVP tartománymodell (WP 1.12)
 
-A Nexus Gaja szigorúan tartományvezérelt MVP architektúrát (ADR-025) alkalmaz, amelyet világos tartományhatárokkal rendelkező, moduláris monolitként terveztek. Ez a struktúra megakadályozza a mikroszolgáltatások idő előtti bonyolultságát, miközben megőrzi a rugalmasságot bizonyos tartományok későbbi felosztására.
+![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
+
+Nexus Gaja employs a strictly Domain-Driven MVP Architecture (ADR-025), designed as a modular monolith with clear domain boundaries. This structure prevents premature microservice complexity while retaining the flexibility to split out specific domains later.
 
 ### Alapdomain entitások
-Az architektúra kifejezetten elválasztja a különálló fogalmakat, hogy biztosítsa az adatok integritását, és elkerülje az olyan szerkezeti buktatókat, mint a „Felhasználónév = Ember”:
+Az architektúra kifejezetten elválasztja a különálló fogalmakat, hogy biztosítsa az adatok integritását és elkerülje az olyan szerkezeti buktatókat, mint a „Felhasználónév = Ember”:
 - **Identitás és fiókok:** "Személy" ≠ "Felhasználói fiók" ≠ "Identity Verification". Az ellenőrzött személy fiókon keresztül vesz részt, de az entitások külön maradnak.
 - **Kommunikáció:** "Üzenet" ≠ "Fordítás". Az eredeti üzenet változatlan marad; a fordítások kapcsolt entitások.
 - **Moderálás:** "Jelentés" ≠ "Moderálási döntés". A jelentés csupán követelés; moderációs ügy folytatja le a vizsgálatot.

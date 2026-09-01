@@ -1,6 +1,8 @@
 # Nexus Gaja
 
-![Nexus Gaja Logo](assets/logo.jpg)
+![Nexus Gaja-logo](assets/logo.jpg)
+
+![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
 
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
@@ -12,6 +14,9 @@
 **Nexus Gaja** er et intelligent, kontekstfølsomt kommunikationsnetværk designet til at revolutionere global kommunikation.
 
 ## Formål og vision
+
+![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
+
 I en globaliseret verden er sproget ofte den største barriere. Hovedmålet med Nexus Gaja er at muliggøre problemfri, barrierefri og kontekstuelt nøjagtig kommunikation mellem mennesker – uanset om de taler et fælles sprog.
 
 Det handler ikke kun om stift oversættelse af ord, men om at **overføre betydning**. Nexus Gaja forbinder mennesker på et dybere niveau ved at forstå kulturelle, regionale og kontekstuelle nuancer og muliggør derved ægte, autentiske samtaler.
@@ -23,7 +28,9 @@ Det handler ikke kun om stift oversættelse af ord, men om at **overføre betydn
 
 ---
 
-## Technical Architecture (Core Concept)
+## Teknisk arkitektur (kernekoncept)
+
+![Nexus Gaja Translation Concept](assets/img/nexus_translation.jpg)
 
 Den tekniske kerne i Nexus Gaja er en specialbygget kommunikationsmodel, der er strengt opdelt i tre lag:
 
@@ -38,7 +45,9 @@ Oversættelser i Nexus Gaja ser aldrig meddelelser isoleret. Motoren betragter h
 ### Effektivitet gennem On-Demand-oversættelse
 Oversættelse sker kun ressourceeffektivt **efter anmodning** (On-Demand). Når en bruger anmoder om indhold, oversættes det til deres forudindstillede sprog. Når en oversættelse til et specifikt sprog er genereret, gemmes den permanent (caching) for at fremskynde fremtidige anmodninger drastisk.
 
-## AI-Assisted Moderation (WP 1.8.4)
+## AI-assisteret moderering (WP 1.8.4)
+
+![Nexus Gaja AI Moderering](assets/img/nexus_moderation.jpg)
 
 Med AI-assisteret moderation tager vi et væsentligt skridt fra produktidé til teknisk arkitektur under hensyntagen til gældende EU-regler (gennemsigtighedskrav i EU AI-loven under art. 50; Digital Services Act med forståelige begrundelser og appelmuligheder).
 
@@ -80,10 +89,10 @@ Nexus Gaja anvender ni specialiserede analyseområder:
 - **M3 – Trusselsdetektion**: Registrerer potentielle trusler, afpresning, meddelelser om vold.
 - **M4 – Opdagelse af had/dehumanisering**: Registrerer målrettede angreb på mennesker baseret på specifikke tilhørsforhold.
 - **M5 – Spam / Manipulation Detection**: Detekterer spam, botadfærd, koordineret manipulation.
-- **M6 – Registrering af svindel**: Registrerer mistænkelige svindelforsøg, phishing, social engineering.
+- **M6 – Detektion af svindel**: Registrerer mistænkelige svindelforsøg, phishing, social engineering.
 - **M7 – Identitetsintegritet**: Kontrollerer signaler vedrørende kontoovertagelser, flere konti, unddragelse af forbud.
 - **M8 – Mediesikkerhed**: Analyserer billeder, lyd, video, dokumenter.
-- **M9 – Context Engine**: Det vigtigste modul. Det smelter de enkelte fund sammen.
+- **M9 – Context Engine**: Det vigtigste modul. Det forener de enkelte fund.
 
 ### 4. Hvorfor kontekstmotoren er afgørende
 En ren søgeordssøgning ville være utilstrækkelig. "Jeg kunne dræbe ham af at grine" indeholder semantisk vold, men er en talemåde. "I morgen kl. 20 skyder jeg ham foran hans hus" er en helt anden situation. AI'en skal forstå, hvad udsagnet betyder i dens specifikke kontekst.
@@ -94,8 +103,8 @@ Mådehold kan ikke bare sammenligne ord. Den skal analysere det semantiske nivea
 ### 6. Originalsprog + Oversættelse
 Original og oversættelse analyseres separat. Først derefter finder "Combined Moderation Assessment" sted. Dette giver Nexus Gaja mulighed for at afgøre, om oversættelsen i sig selv kan have eskaleret eller ændret fakta.
 
-### 7. Confidence Score
-Every AI evaluation receives a confidence score (e.g., Threat probability: 0.96). However: **Confidence Score ≠ Truth.** A score of 96% only means the model is highly certain of its classification, not necessarily that the user is guilty.
+### 7. Tillidsresultat
+Hver AI-evaluering modtager en konfidensscore (f.eks. trusselsandsynlighed: 0,96). Dog: **Confidence Score ≠ Truth.** En score på 96% betyder kun, at modellen er meget sikker på sin klassificering, ikke nødvendigvis, at brugeren er skyldig.
 
 ### 8. Usikkerhed bliver et signal i sig selv
 Hvis AI'en er usikker (f.eks. Trussel: 0,62, Satire: 0,54), må den ikke blot håndhæve skrappe regler. I stedet er usikkerhed indbygget direkte i arkitekturen: **Human Review Required**.
@@ -121,8 +130,8 @@ DSA kræver klare og specifikke begrundelser. AI'en giver struktureret ræsonnem
 ### 14. AI-genereret indhold
 Vi skelner mellem: Menneskeskabt, AI-assisteret, AI-genereret og AI-manipuleret. Dette bliver en del af indholdets metadata.
 
-### 15. Labeling of AI Content & AI Provenance Layer
-According to the transparency rules of the EU AI Act (effective August 2026), AI-generated content must be identifiable. We provide an AI Provenance Layer that stores metadata (AI-Origin, Model, Timestamp, Human Review).
+### 15. Mærkning af AI-indhold & AI-herkomstlag
+I henhold til gennemsigtighedsreglerne i EU's AI-lov (med virkning fra august 2026) skal AI-genereret indhold være identificerbart. Vi leverer et AI-herkomstlag, der gemmer metadata (AI-oprindelse, model, tidsstempel, menneskelig gennemgang).
 
 ### 16. Deepfake Detection
 Arkitekturen har til formål at detektere syntetiske billeder, klonede stemmer og deepfakes. Detektion er dog ikke automatisk bevis.
@@ -139,8 +148,8 @@ AI'en bruger kontekst, emojis, samtalehistorie og kendte ironistrukturer, men sk
 ### 20. Ingen straf baseret på en enkelt AI-score
 Ingen alvorlig moderationsintervention må udelukkende være baseret på et enkelt automatisk klassificeringsresultat (tekst + kontekst + adfærd + sprog + medier + regelmotor = risikovurdering).
 
-### 21. User Behaviour Signals & No Social Credit System
-This relates to technical abuse signals (e.g., mass spam posting), not a general social rating system. Nexus Gaja does not maintain a Social Credit System – moderation serves security, not the assessment of a person's worth.
+### 21. Brugeradfærdssignaler og intet socialt kreditsystem
+Dette vedrører tekniske misbrugssignaler (f.eks. masseudsendelse af spam), ikke et generelt socialt klassificeringssystem. Nexus Gaja opretholder ikke et socialt kreditsystem – mådehold tjener sikkerhed, ikke vurderingen af ​​en persons værd.
 
 ### 22. Moderering AI skal kunne kontrolleres
 Alle relevante automatiserede beslutninger logges (Begivenheds-ID, Regel-ID, Tillid, Menneskelig gennemgang osv.) for at sikre sporbarhed.
@@ -160,7 +169,9 @@ Regler (Policy Engine) er ikke hårdkodet i AI-modellerne. AI'en giver resultate
 
 **Sammendrag**: Vi bygger et firetrinssystem: AI-detektion, kontekst- og risikoanalyse, politikmotor og menneskelig styring. Dette muliggør stærk automatisering uden at skabe en farlig "AI as Judge"-arkitektur.
 
-## Financing Principles and Revenue Model (WP 1.10.1)
+## Finansieringsprincipper og indtægtsmodel (WP 1.10.1)
+
+![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
 For Nexus Gaja gælder et meget vigtigt økonomisk princip: **Ingen traditionel annoncering på platformen.**
 Dette adskiller Nexus Gaja fundamentalt fra mange af nutidens sociale netværk. Det betyder dog ikke, at Nexus Gaja ikke kan have en kommerciel karakter. Tværtimod skal platformen være økonomisk levedygtig, så dens sociale formål kan bestå. Økonomisk aktivitet er et middel til et mål, ikke det primære formål med platformen.
@@ -178,52 +189,52 @@ Specifikt forbudte er:
 - Salg af brugerprofiler eller persondata
 - Annoncering afledt af private samtaler.
 
-Nexus Gaja remains a **communication space rather than an advertising space**.
+Nexus Gaja forbliver et **kommunikationsområde snarere end et reklameområde**.
 
-### 3. Financing Without Advertising (The 6 Pillars)
-Financing is built on six pillars:
-```text
+### 3. Finansiering uden reklame (De 6 søjler)
+Finansiering bygger på seks søjler:
+``` tekst
                  NEXUS GAJA
                      │
        ┌─────────────┼─────────────┐
-       ▼             ▼             ▼
-   PREMIUM       ORGANIZATION    DONATIONS
-       │             │             │
+       ▼ ▼ ▼
+   PREMIUM ORGANISATION DONATIONER
+       │ │ │
        ├─────────────┼─────────────┤
-       ▼             ▼             ▼
-    GRANTS       PARTNERSHIPS    SERVICES
+       ▼ ▼ ▼
+    TILDELER PARTNERSKABER-TJENESTER
 ```
 
-#### Søjle 1 – Gratis grundlæggende medlemskab
-**Nexus Gaja Free** muliggør grundlæggende international forståelse for alle (profiler, international kommunikation, indlæg, fællesskaber, chats, grundlæggende oversættelse) uden omkostninger.
+#### Pillar 1 – Free Basic Membership
+**Nexus Gaja Free** enables basic international understanding for everyone (profile, international communication, posts, communities, chats, basic translation) at no cost.
 
-#### Pillar 2 – Premium Offerings
-Voluntary paid offerings (**Nexus Gaja Plus**) providing greater storage limits, higher media quality, expanded AI quotas, and organizational features.
-**Important (Freemium instead of Dark Freemium):** Basic communication must never be artificially degraded.
+#### Søjle 2 – Premium-tilbud
+Frivillige betalte tilbud (**Nexus Gaja Plus**) giver større lagergrænser, højere mediekvalitet, udvidede AI-kvoter og organisatoriske funktioner.
+**Vigtigt (Freemium i stedet for Dark Freemium):** Grundlæggende kommunikation må aldrig forringes kunstigt.
 
-#### Pillar 3 – Organizations
-Special accounts for schools, universities, NGOs, businesses, and municipalities (**Nexus Gaja Organization**). Schools can be supported via institutional rates as multipliers of international understanding.
+#### Søjle 3 – Organisationer
+Særlige konti for skoler, universiteter, ngo'er, virksomheder og kommuner (**Nexus Gaja Organisation**). Skoler kan støttes via institutionelle takster som multiplikatorer af international forståelse.
 
-#### Pillar 4 – Donations
-The **Nexus Gaja Funding Pool** accepts general and earmarked donations (e.g., "for international youth communication"). A **Fund Allocation Ledger** ensures transparent allocation of funds.
-**Purpose Fund & Tombola:** A portion of donations feeds a pool for free/discounted usage. A lottery/tombola mechanism can allocate these funds transparently and auditably.
+#### Søjle 4 – Donationer
+**Nexus Gaja Funding Pool** accepterer generelle og øremærkede donationer (f.eks. "til international ungdomskommunikation"). En **Fundallokeringsledger** sikrer gennemsigtig fordeling af midler.
+**Purpose Fund & Tombola:** En del af donationerne tilfører en pulje til gratis/rabat. En lotteri/tombola-mekanisme kan allokere disse midler gennemsigtigt og kontrollerbart.
 
 #### Pillar 5 – Institutional Funding
 Foundations, cultural funding programs, or state programs.
 **NG-FIN-002:** Financial support does not buy editorial or technical control (Independence).
 
-#### Pillar 6 – Commercial Services
-B2B services like **Translation-as-a-Service** (API), organizational communication, or international conference rooms, without burdening the standard user feed.
+#### Søjle 6 – Kommercielle tjenester
+B2B-tjenester som **Translation-as-a-Service** (API), organisatorisk kommunikation eller internationale konferencelokaler, uden at belaste standardbrugerfeedet.
 
-### 4. No Data Monetization & Surveillance Economy
-**NG-FIN-003:** Personal user data is not a commodity. No sale of lists, profiles, or histories. Nexus Gaja does not profit from psychological surveillance (Surveillance Economy).
+### 4. Ingen indtægtsgenerering og overvågningsøkonomi
+**NG-FIN-003:** Personlige brugerdata er ikke en handelsvare. Intet salg af lister, profiler eller historier. Nexus Gaja tjener ikke på psykologisk overvågning (Surveillance Economy).
 
-### 5. Finansiel gennemsigtighed og hovedbog
-**Nexus Gaja Financial Transparency:** Offentliggørelse af aggregerede finansielle strukturer. Øremærkede donationer modtager teknisk regnskabsføring (fondens ID → Formål → Saldo → Allokering). Ingen krydssubsidiering af sociale formål til virksomhedsmarkedsføring.
+### 5. Financial Transparency & Fund Ledger
+**Nexus Gaja Financial Transparency:** Publication of aggregated financial structures. Earmarked donations receive technical accounting (Fund ID → Purpose → Balance → Allocation). No cross-subsidization of social purposes into corporate marketing.
 
-### 6. Solidaritetsbaseret finansieringsmodel
-Prisfastsættelse er baseret på omkostningsorientering, retfærdighed og solidaritet.
-**Solidarity Premium:** En frivillig mulighed for Premium-brugere til at finansiere en del af en anden brugers adgang. Tvunget solidaritet eller et førsteklasses klassesamfund (mindre respekt/moderation for gratis brugere) er strengt forbudt.
+### 6. Solidarity-Based Financing Model
+Pricing is based on cost-orientation, fairness, and solidarity.
+**Solidarity Premium:** A voluntary option for Premium users to finance a portion of another user's access. Forced solidarity or a premium class society (less respect/moderation for free users) is strictly prohibited.
 
 ### 7. Økonomiske KPI'er i stedet for engagementsøkonomi
 Ingen afhængighed af at holde brugere "online så længe som muligt" (ingen ragebait, uendelige feeds).
@@ -294,13 +305,15 @@ For at sikre systemstabilitet, sikkerhed og skalerbarhed følger Nexus Gaja en s
 - **Asynkrone hændelser (hændelsesbus):** Centralnervesystemet i Nexus Gaja til forsinket, afkoblet behandling (f.eks. "Message.Created", der udløser moderering, oversættelse og meddelelse asynkront).
 - **Realtid (WebSocket):** Dedikerede kanaler til livechat og skriveindikatorer.
 
-### Security and Reliability
-- **Zero-Trust Model:** Internal network traffic is not automatically trusted; sensitive service-to-service communication requires authentication.
-- **Idempotency & Outbox Pattern:** Critical operations (like donations or messaging) are designed to be idempotent to prevent duplicate processing, utilizing the Outbox pattern to ensure events are never lost even during database transactions.
+### Sikkerhed og pålidelighed
+- **Nul-Trust Model:** Intern netværkstrafik er ikke automatisk tillid til; Følsom service-til-service-kommunikation kræver godkendelse.
+- **Idempotens og udbakkemønster:** Kritiske operationer (som donationer eller meddelelser) er designet til at være idempotente for at forhindre duplikatbehandling ved at bruge udbakkemønsteret til at sikre, at begivenheder aldrig går tabt, selv under databasetransaktioner.
 
-## MVP Domain Model (WP 1.12)
+## MVP-domænemodel (WP 1.12)
 
-Nexus Gaja employs a strictly Domain-Driven MVP Architecture (ADR-025), designed as a modular monolith with clear domain boundaries. This structure prevents premature microservice complexity while retaining the flexibility to split out specific domains later.
+![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
+
+Nexus Gaja anvender en strengt domænedrevet MVP-arkitektur (ADR-025), designet som en modulær monolit med klare domænegrænser. Denne struktur forhindrer for tidlig mikroservicekompleksitet, mens den bevarer fleksibiliteten til at opdele specifikke domæner senere.
 
 ### Kernedomæneenheder
 Arkitekturen adskiller eksplicit forskellige begreber for at sikre dataintegritet og undgå strukturelle faldgruber som "Brugernavn = Menneske":

@@ -2,6 +2,8 @@
 
 ![Nexus Gaja Logo](ንብረቶች/logo.jpg)
 
+![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
 
@@ -9,23 +11,28 @@
 
 </details>
 
-**Nexus Gaja** ዓለም አቀፍ ግንኙነትን ለመለወጥ የተነደፈ አስተዋይ፣ አውድ-ስሱ የመገናኛ አውታር ነው።
+**Nexus Gaja** is an intelligent, context-sensitive communication network designed to revolutionize global communication.
 
-## አላማ እና ራዕይ
-በግሎባላይዜሽን ዓለም ውስጥ ቋንቋ ብዙውን ጊዜ ትልቁ እንቅፋት ነው። የNexus Gaja ዋና ግብ በሰዎች መካከል ምንም እንከን የለሽ፣ እንቅፋት-ነጻ እና ትክክለኛ ግንኙነትን ማስቻል ነው— የጋራ ቋንቋ ይናገሩ።
+## Purpose and Vision
 
-ቃላትን በግትርነት መተርጎም ብቻ ሳይሆን ስለ ** ትርጉም ስለማስተላለፍ** ነው። ኔክሰስ ጋጃ ባህላዊ፣ ክልላዊ እና ዐውደ-ጽሑፋዊ ጉዳዮችን በመረዳት ሰዎችን በጥልቅ ያገናኛል፣ በዚህም እውነተኛ፣ ትክክለኛ ውይይቶችን ያስችላል።
+![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
 
-## እድሎች እና ባህሪዎች
-- ** መልቲሚዲያ ኮሙኒኬሽን ***፡ ስርዓቱ ጽሑፍን ብቻ ሳይሆን ምስልን፣ ኦዲዮን እና ቪዲዮን ጭምር ያካሂዳል። ይህ ሙሉ ለሙሉ መሳጭ ንግግሮች (ለምሳሌ፡ የቪዲዮ ጥሪዎች ወይም የድምጽ መልዕክቶች) በቋንቋ መሰናክሎች ውስጥ በቅጽበት ይፈቅዳል።
-- **የአውድ ትብነት**፡ ብዙውን ጊዜ በተለመደው ተርጓሚዎች የተሳሳቱ ምጸታዊ፣ ፈሊጦች፣ ጃርጎን እና ክልላዊ ቀበሌኛዎችን ማወቅ።
-- **የመስቀል-ፕላትፎርም ኔትወርክ ***፡ ለግል ውይይቶች፣ የመድረክ ክሮች (ከአስተያየቶች ጋር የተለጠፈ ልጥፎች) እና ለአለም አቀፍ የማህበረሰብ መስተጋብር እንደ መሰረት ሆኖ ያገለግላል።
+በግሎባላይዜሽን ዓለም ውስጥ ቋንቋ ብዙውን ጊዜ ትልቁ እንቅፋት ነው። የNexus Gaja ዋና ግብ በሰዎች መካከል ምንም እንከን የለሽ፣ እንቅፋት-ነጻ እና ትክክለኛ ግንኙነትን ማስቻል ነው—የጋራ ቋንቋ ይናገሩ።
+
+ቃላትን በግትርነት ስለመተርጎም ብቻ ሳይሆን ስለ ** ትርጉም ስለማስተላለፍ** ነው። ኔክሰስ ጋጃ ባህላዊ፣ ክልላዊ እና ዐውደ-ጽሑፋዊ ሁኔታዎችን በመረዳት ሰዎችን በጥልቅ ያገናኛል፣ በዚህም እውነተኛ፣ ትክክለኛ ውይይቶችን ያስችላል።
+
+## Possibilities and Features
+- **Multimedia Communication**: The system processes not just text, but also image, audio, and video. This allows for fully immersive conversations (e.g., video calls or voice messages) in real-time across language barriers.
+- **Context Sensitivity**: Recognition of irony, idioms, jargon, and regional dialects that are often misunderstood by conventional translators.
+- **Cross-Platform Network**: Serves as a foundation for private chats, forum threads (posts with comments), and global community interactions.
 
 ---
 
 ## Technical Architecture (Core Concept)
 
-The technical core of Nexus Gaja is a custom-built communication model that is strictly divided into three layers:
+![Nexus Gaja Translation Concept](assets/img/nexus_translation.jpg)
+
+የNexus Gaja ቴክኒካል ኮር ብጁ-የተሰራ የግንኙነት ሞዴል ሲሆን በጥብቅ በሶስት ንብርብሮች የተከፈለ ነው።
 
 1. **Original**: The communication object (message) created by the sender always remains immutable.
 2. **Semantic Interpretation**: The system analyzes not just the words, but the actual meaning.
@@ -35,12 +42,14 @@ The technical core of Nexus Gaja is a custom-built communication model that is s
 Translations in Nexus Gaja never view messages in isolation. The engine considers the entire hierarchy:
 `Message` → `Previous Messages` → `Thread Context` → `Community Context` → `Language / Region` → `User Preferences`
 
-### Efficiency through On-Demand Translation
-Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.
+### በፍላጎት ትርጉም በኩል ውጤታማነት
+ትርጉም የሚከናወነው በንብረት-ውጤታማነት ** ሲጠየቅ** (በፍላጎት) ብቻ ነው። አንድ ተጠቃሚ ይዘትን ሲጠይቅ ወደ ቀድሞ ቋንቋቸው ይተረጎማል። ለአንድ የተወሰነ ቋንቋ አንድ ጊዜ ትርጉም ከተፈጠረ በኋላ የወደፊት ጥያቄዎችን በከፍተኛ ሁኔታ ለማፋጠን በቋሚነት ይከማቻል (መሸጎጥ)።
 
 ## AI-Assisted Moderation (WP 1.8.4)
 
-With AI-Assisted Moderation, we are taking a significant step from product idea to technical architecture, taking into account current EU regulations (transparency requirements of the EU AI Act under Art. 50; Digital Services Act with comprehensible justifications and appeal options).
+![Nexus Gaja AI Moderation](assets/img/nexus_moderation.jpg)
+
+በ AI-Assisted Moderation አማካኝነት ወቅታዊ የአውሮፓ ህብረት ደንቦችን (የአውሮፓ ህብረት AI ህግ ግልጽነት መስፈርቶች በአንቀጽ 50 ፣ የዲጂታል አገልግሎቶች ህግ ከሚረዱ ማረጋገጫዎች እና የይግባኝ አማራጮች) ጋር ከግምት ውስጥ በማስገባት ከምርት ሀሳብ ወደ ቴክኒካል አርክቴክቸር ትልቅ እርምጃ እየወሰድን ነው።
 
 ### 1. መሰረታዊ መርህ
 ለሥነ ሕንፃው በጣም አስፈላጊው ዓረፍተ ነገር፡ ** ልከኝነት AI የግምገማ ሥርዓት እንጂ ራሱን የቻለ ገዥ ሥርዓት አይደለም።**
@@ -51,45 +60,45 @@ With AI-Assisted Moderation, we are taking a significant step from product idea 
 - ** ውሳኔ: ** "በእርግጥ ምን እርምጃ ተወሰደ?"
 ሦስተኛው ደረጃ ከባድ በሆኑ ጉዳዮች በሰው ቁጥጥር ሊደረግበት ይገባል.
 
-### 2. The Moderation AI as a Subsystem
-Instead of a single AI, a robust subsystem is established:
-```text
-                 NEXUS GAJA AI MODERATION
+### 2. ሞደሬሽን AI እንደ ንዑስ ስርዓት
+ከአንድ AI ይልቅ ፣ ጠንካራ ንዑስ ስርዓት ተመስርቷል፡-
+`` ጽሑፍ
+                 NEXUS GAJA AI ልከኝነት
                           │
-       ┌──────────────────┼──────────────────┐
-       │                  │                  │
-  Language AI        Safety AI          Fraud AI
-       │                  │                  │
-       ├──────────────┬───┴──────────────┬───┤
-       │              │                  │
- Translation      Behaviour          Identity
- Analysis         Analysis            Signals
-       │              │                  │
-       └──────────────┼──────────────────┘
+       ───────────────
+       │ │
+  ቋንቋ AI ደህንነት AI ማጭበርበር AI
+       │ │
+       ├─────────────
+       │ │
+ የትርጉም ባህሪ ማንነት
+ የትንታኔ ትንተና ምልክቶች
+       │ │
+       └──────────────
                       ▼
-               Risk Assessment
+               የአደጋ ግምገማ
                       │
                       ▼
-               Human Review
+               የሰው ግምገማ
 ```
 
-### 3. The Most Important AI Modules
-Nexus Gaja utilizes nine specialized analysis areas:
-- **M1 – Language Understanding**: Detects language, dialect, slang, irony indicators, translation issues.
-- **M2 – Toxicity / Abuse Detection**: Detects insults, personal attacks, harassment.
-- **M3 – Threat Detection**: Detects potential threats, blackmail, violence announcements.
-- **M4 – Hate / Dehumanization Detection**: Detects targeted attacks on people based on specific affiliations.
-- **M5 – Spam / Manipulation Detection**: Detects spam, bot behavior, coordinated manipulation.
-- **M6 – Fraud Detection**: Detects suspicious fraud attempts, phishing, social engineering.
-- **M7 – Identity Integrity**: Checks signals regarding account takeovers, multiple accounts, ban evasion.
-- **M8 – Media Safety**: Analyzes images, audio, video, documents.
-- **M9 – Context Engine**: The most important module. It merges the individual findings.
+### 3. በጣም አስፈላጊው AI ሞጁሎች
+ኔክሰስ ጋጃ ዘጠኝ ልዩ የትንታኔ ቦታዎችን ይጠቀማል፡-
+- **M1 - የቋንቋ ግንዛቤ**፡ ቋንቋ፣ ቀበሌኛ፣ ቃላታዊ፣ አስቂኝ አመልካቾችን፣ የትርጉም ጉዳዮችን ያውቃል።
+- ** M2 - መርዛማነት / አላግባብ መጠቀምን ማወቅ **: ስድብን ፣ ግላዊ ጥቃቶችን ፣ ትንኮሳዎችን ያውቃል።
+- **M3 - የዛቻ ማወቂያ ***: ሊሆኑ የሚችሉ ማስፈራሪያዎችን፣ ማጭበርበርን፣ የጥቃት ማስታወቂያዎችን ያገኛል።
+- **M4 - የጥላቻ/የሰውን ማዋረድ መለየት**: በተወሰኑ ግንኙነቶች ላይ በመመስረት በሰዎች ላይ ያነጣጠሩ ጥቃቶችን ያገኛል።
+- ** M5 - አይፈለጌ መልዕክት / ማጭበርበሪያ ፍለጋ **: አይፈለጌ መልእክት ፣ ቦት ባህሪ ፣ የተቀናጀ ማጭበርበርን ያገኛል።
+- **M6 - ማጭበርበርን ማወቅ ***: አጠራጣሪ የማጭበርበር ሙከራዎችን ፣ ማስገርን ፣ ማህበራዊ ምህንድስናን ያገኛል።
+- **M7 - የማንነት ታማኝነት**፡ መለያዎችን መውሰድን፣ ብዙ መለያዎችን፣ መሸሽትን በተመለከተ ምልክቶችን ይፈትሻል።
+- **M8 - የሚዲያ ደህንነት ***: ምስሎችን, ኦዲዮን, ቪዲዮን, ሰነዶችን ይመረምራል.
+- ** M9 - የአውድ ሞተር ***: በጣም አስፈላጊው ሞጁል. የግለሰብ ግኝቶችን ያዋህዳል.
 
 ### 4. ለምን የአውድ ሞተር ወሳኝ ነው።
 ንጹህ ቁልፍ ቃል ፍለጋ በቂ አይሆንም። "በሳቅ ልገድለው እችል ነበር" በትርጉም አመፅን ይዟል ግን የአነጋገር ዘይቤ ነው። "ነገ ከቀኑ 8 ሰአት ላይ በቤቱ ፊት ለፊት እተኩስበታለሁ" ፍፁም የተለየ ሁኔታ ነው። AI መግለጫው በተወሰነ አውድ ውስጥ ምን ማለት እንደሆነ መረዳት አለበት።
 
-### 5. Multilingual Moderation
-Moderation cannot simply compare words. It must analyze the semantic level (e.g., German idioms vs. Japanese idioms vs. regional expressions).
+### 5. ባለብዙ ቋንቋ ልከኝነት
+ልከኝነት በቃላትን ማወዳደር አይችልም። የትርጉም ደረጃን መተንተን አለበት (ለምሳሌ፣ የጀርመን ፈሊጦች ከጃፓን ፈሊጦች ከክልላዊ መግለጫዎች)።
 
 ### 6. ኦሪጅናል ቋንቋ + ትርጉም
 ኦሪጅናል እና ትርጉም ለየብቻ ይተነተናል። ከዚያ በኋላ ብቻ "የተጣመረ የአወያይ ግምገማ" ይከናወናል. ይህ ኔክሰስ ጋጃ ትርጉሙ ራሱ ተባብሶ ወይም እውነታውን ለውጦ እንደሆነ ለማወቅ ያስችላል።
@@ -107,7 +116,7 @@ AI እርግጠኛ ካልሆነ (ለምሳሌ፡ ዛቻ፡ 0.62፣ ሳቲር፡ 
 - 🔴 **ቀይ**: ከባድ ሊሆን የሚችል ጥሰት። → ወዲያውኑ የመከላከያ እርምጃ + የሰዎች ግምገማ.
 
 ### 10. የለም "AI ቅጣት"
-** AI ምንም የመጨረሻ ማዕቀብ አይጥልም።** ለከባድ የደህንነት ስጋቶች ቴክኒካል አፋጣኝ እርምጃዎችን (ለምሳሌ፣ ለጊዜው መልእክትን መቆጠብ) ሊያነሳሳ ይችላል፣ነገር ግን የመጨረሻው ውሳኔ የተረጋገጠ ነው።
+** AI የመጨረሻ ማዕቀብ አይጥልም።** ለከባድ የደህንነት ስጋቶች ቴክኒካል አፋጣኝ እርምጃዎችን (ለምሳሌ፣ ለጊዜው መልእክትን መቆጠብ) ሊያነሳሳ ይችላል፣ነገር ግን የመጨረሻው ውሳኔ የተረጋገጠ ነው።
 
 ### 11. የመከላከያ እርምጃዎች በራስ-ሰር ሊከሰቱ ይችላሉ
 ተጨባጭ ስጋት (ስጋት ተገኝቷል → ከፍተኛ በራስ መተማመን → ጊዜያዊ ገደብ → የሰዎች ግምገማ → ውሳኔ) ፣ AI ወደ ዳኛ ሳንለውጥ የተፈራረቀውን ተጠቃሚ እንጠብቃለን።
@@ -136,8 +145,8 @@ DSA ግልጽ እና የተወሰኑ ምክንያቶችን ይፈልጋል። AI
 ### 19. አስቂኝ፣ ሳቲር እና ቀልድ
 AI አውድ፣ ስሜት ገላጭ ምስሎች፣ የውይይት ታሪክ እና የታወቁ አስቂኝ አወቃቀሮችን ይጠቀማል፣ ነገር ግን ትርጉሞች አሻሚ ሲሆኑ እርግጠኛ አለመሆንን መፍቀድ አለበት።
 
-### 20. No Punishment Based on a Single AI Score
-No severe moderation intervention may be based solely on a single automated classification result (Text + Context + Behaviour + Language + Media + Rule Engine = Risk Assessment).
+### 20. በነጠላ AI ነጥብ ላይ የተመሰረተ ቅጣት የለም።
+ምንም አይነት ከባድ የልከኝነት ጣልቃገብነት በአንድ አውቶሜትድ የምደባ ውጤት ላይ ብቻ የተመሰረተ ሊሆን አይችልም (ጽሑፍ + አውድ + ባህሪ + ቋንቋ + ሚዲያ + ደንብ ሞተር = የአደጋ ግምገማ)።
 
 ### 21. የተጠቃሚ ባህሪ ምልክቶች እና ምንም ማህበራዊ ብድር ስርዓት የለም
 ይህ ከቴክኒካዊ አላግባብ መጠቀም ምልክቶች ጋር ይዛመዳል (ለምሳሌ፡ የጅምላ አይፈለጌ መልዕክት መለጠፍ)፣ አጠቃላይ የማህበራዊ ደረጃ አሰጣጥ ስርዓት አይደለም። ኔክሰስ ጋጃ የማህበራዊ ክሬዲት ስርዓትን አይጠብቅም - ልከኝነት ደህንነትን ያገለግላል እንጂ የአንድን ሰው ዋጋ መገምገም አይደለም።
@@ -154,19 +163,21 @@ No severe moderation intervention may be based solely on a single automated clas
 ### 25. Architecture Proposal & Policy Engine
 Rules (Policy Engine) are not hardcoded into the AI models. The AI provides findings; the Policy Engine decides based on current rules. This allows for **model changes without rule changes**.
 
-### 26. The Human Remains the Final Authority
-- **NG-AI-MOD-001**: The AI assists in detection and classification, but does not replace human review in severe decisions.
-- **NG-AI-MOD-002**: Automated moderation decisions must be traceable, loggable, and verifiable.
+### 26. የሰው ልጅ የመጨረሻው ባለስልጣን ሆኖ ይቀራል
+- ** NG-AI-MOD-001 ***: AI በማወቅ እና በመመደብ ላይ ያግዛል, ነገር ግን በከባድ ውሳኔዎች የሰውን ግምገማ አይተካም.
+- **NG-AI-MOD-002**: አውቶማቲክ የአወያይ ውሳኔዎች ሊገኙ የሚችሉ፣ ሊገቡ የሚችሉ እና የሚረጋገጡ መሆን አለባቸው።
 
-**Summary**: We are building a four-stage system: AI Detection, Context and Risk Analysis, Policy Engine, and Human Governance. This enables strong automation without creating a dangerous "AI as Judge" architecture.
+**ማጠቃለያ**፡ ባለ አራት ደረጃ ሥርዓት እየገነባን ነው፡ AI Detection፣ Context and Risk Analysis፣ Policy Engine እና Human Governance ይህ አደገኛ "AI እንደ ዳኛ" አርክቴክቸር ሳይፈጥር ጠንካራ አውቶማቲክን ያስችላል።
 
-## Financing Principles and Revenue Model (WP 1.10.1)
+## የፋይናንስ መርሆዎች እና የገቢ ሞዴል (WP 1.10.1)
 
-For Nexus Gaja, a highly important economic principle applies: **No traditional advertising within the platform.**
-This fundamentally distinguishes Nexus Gaja from many of today's social networks. However, this does not mean that Nexus Gaja cannot have a commercial character. On the contrary, the platform must be economically viable so that its social purpose can endure. Economic activity is a means to an end, not the primary purpose of the platform.
+![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
-### 1. Principle NG-FIN-001
-Nexus Gaja finances its operations through transparent revenue streams separated from user interests, and not through the monetization of its users' attention or personal data.
+ለNexus Gaja፣ በጣም አስፈላጊ የሆነ የኢኮኖሚ መርህ ተግባራዊ ይሆናል፡ **በመድረኩ ውስጥ ምንም ባህላዊ ማስታወቂያ የለም።**
+ይህ በመሰረቱ ኔክሰስ ጋጃን ከብዙዎቹ የዛሬዎቹ ማህበራዊ አውታረ መረቦች ይለያል። ሆኖም፣ ይህ ማለት Nexus Gaja የንግድ ባህሪ ሊኖረው አይችልም ማለት አይደለም። በተቃራኒው መድረኩ ማህበራዊ አላማው እንዲፀና በኢኮኖሚያዊ አዋጭ መሆን አለበት። የኤኮኖሚ እንቅስቃሴ ወደ መድረሻ መንገድ እንጂ የመድረኩ ዋና ዓላማ አይደለም።
+
+### 1. መርህ NG-FIN-001
+ኔክሰስ ጋጃ ስራውን የሚሸከመው ከተጠቃሚው ፍላጎት በተለዩ ግልጽ የገቢ ዥረቶች ነው እንጂ የተጠቃሚውን ትኩረት ወይም የግል መረጃ ገቢ በመፍጠር አይደለም።
 
 ### 2. ባህላዊ ማስታወቂያ የለም።
 በተለይ የተከለከሉ ናቸው፡-
@@ -180,18 +191,18 @@ Nexus Gaja finances its operations through transparent revenue streams separated
 
 Nexus Gaja ከማስታወቂያ ቦታ** ይልቅ **የመገናኛ ቦታ ሆኖ ይቆያል።
 
-### 3. Financing Without Advertising (The 6 Pillars)
-Financing is built on six pillars:
-```text
+### 3. ያለማስታወቂያ ፋይናንስ (6ቱ ምሰሶዎች)
+ፋይናንስ በስድስት ምሰሶዎች ላይ የተገነባ ነው.
+`` ጽሑፍ
                  NEXUS GAJA
                      │
-       ┌─────────────┼─────────────┐
-       ▼             ▼             ▼
-   PREMIUM       ORGANIZATION    DONATIONS
-       │             │             │
-       ├─────────────┼─────────────┤
-       ▼             ▼             ▼
-    GRANTS       PARTNERSHIPS    SERVICES
+       ───────────
+       ▼ ▼ ▼
+   የፕሪሚየም ድርጅት ልገሳዎች
+       │ │
+       ├─────────────
+       ▼ ▼ ▼
+    የአጋርነት አገልግሎቶችን ይሰጣል
 ```
 
 #### ምሰሶ 1 - ነፃ መሰረታዊ አባልነት
@@ -222,7 +233,7 @@ Financing is built on six pillars:
 **Nexus Gaja የፋይናንሺያል ግልጽነት:** የተዋሃዱ የፋይናንስ መዋቅሮች ህትመት. የታቀዱ ልገሳዎች ቴክኒካዊ የሂሳብ አያያዝ (የፈንድ መታወቂያ → ዓላማ → ሚዛን → ምደባ) ይቀበላሉ። ወደ ኮርፖሬት ግብይት የማህበራዊ ዓላማ ድጎማ የለም።
 
 ### 6. በአንድነት ላይ የተመሰረተ የፋይናንስ ሞዴል
-የዋጋ አወጣጥ በዋጋ-ተኮርነት፣ ፍትሃዊነት እና አብሮነት ላይ የተመሰረተ ነው።
+የዋጋ አወጣጥ በዋጋ ተኮርነት፣ ፍትሃዊነት እና አብሮነት ላይ የተመሰረተ ነው።
 **የአንድነት ፕሪሚየም፡** ለPremium ተጠቃሚዎች የሌላ ተጠቃሚን መዳረሻ የተወሰነ ክፍል የገንዘብ ድጋፍ ለማድረግ በፈቃደኝነት የሚደረግ አማራጭ። የግዳጅ አብሮነት ወይም ፕሪሚየም መደብ ማህበረሰብ (ለነፃ ተጠቃሚዎች ያነሰ አክብሮት/መቆጣጠር) በጥብቅ የተከለከለ ነው።
 
 ### 7. ከተሳትፎ ኢኮኖሚ ይልቅ ኢኮኖሚያዊ KPIs
@@ -282,28 +293,30 @@ Nexus Gaja ** የገንዘብ ድጋፍ የተደረገው በ፡
 
 ## ኤፒአይ፣ በይነገጾች እና የግንኙነት አርክቴክቸር (WP 1.11.3)
 
-To ensure system stability, security, and scalability, Nexus Gaja follows a strictly API-first and event-driven architecture. 
+የስርዓት መረጋጋትን፣ ደህንነትን እና ልኬታማነትን ለማረጋገጥ Nexus Gaja በጥብቅ ኤፒአይ-የመጀመሪያ እና በክስተት ላይ የተመሰረተ አርክቴክቸር ይከተላል።
 
 ### ዋና መርሆዎች
 - ** ምንም ቀጥተኛ የውሂብ ጎታ መዳረሻ የለም: *** አካላት የሚገናኙት በተገለጹ በይነገጾች (ኤፒአይኤስ ወይም ዝግጅቶች) ብቻ ነው እንጂ በሌሎች አገልግሎቶች ቀጥተኛ የውሂብ ጎታ መጠይቆች በፍጹም አይገናኙም።
 - **ኤፒአይ ጌትዌይ፡** ሁሉም የውጭ ደንበኛ ጥያቄዎች በኤፒአይ ጌትዌይ ማረጋገጫ፣ ማዘዋወር እና ተመን መገደብ በኩል ይሄዳሉ።
 - **የአቅራቢ ማጠቃለያ፡** ውጫዊ አገልግሎቶች (AI ሞዴሎች፣ የክፍያ አቅራቢዎች፣ የትርጉም ሞተሮች) በ abstraction layers የተዋሃዱ፣ ሃርድ ኮድ የተደረጉ ጥገኝነቶችን በማስወገድ እና ተለዋዋጭ አቅራቢዎችን መለዋወጥ ያስችላል።
 
-### Communication Patterns
-- **Synchronous APIs (REST/HTTPS):** Used for immediate requests like login, profile settings, or direct translations.
-- **Asynchronous Events (Event Bus):** The central nervous system of Nexus Gaja for delayed, decoupled processing (e.g., `Message.Created` triggering Moderation, Translation, and Notification asynchronously).
-- **Realtime (WebSocket):** Dedicated channels for live chat and typing indicators.
+### የግንኙነት ቅጦች
+- ** የተመሳሰለ ኤፒአይዎች (አርኤስት/ኤችቲቲፒኤስ)፦** እንደ መግቢያ፣ የመገለጫ ቅንጅቶች ወይም ቀጥታ ትርጉሞች ላሉ ፈጣን ጥያቄዎች ያገለግላል።
+- ** ያልተመሳሰለ ክስተቶች (የክስተት አውቶቡስ)፡** የNexus Gaja ማዕከላዊ የነርቭ ሥርዓት ለዘገየ፣ ለተፈታ ሂደት (ለምሳሌ፦ «መልእክት. ተፈጥሯል» ልከኝነትን፣ ትርጉምን እና ማሳወቂያን በተመሳሰል መልኩ የሚቀሰቅስ)።
+- ** Realtime (WebSocket):** ለቀጥታ ውይይት እና የትየባ አመልካቾች የወሰኑ ቻናሎች።
 
-### Security and Reliability
-- **Zero-Trust Model:** Internal network traffic is not automatically trusted; sensitive service-to-service communication requires authentication.
-- **Idempotency & Outbox Pattern:** Critical operations (like donations or messaging) are designed to be idempotent to prevent duplicate processing, utilizing the Outbox pattern to ensure events are never lost even during database transactions.
+### ደህንነት እና አስተማማኝነት
+- ** ዜሮ-ትረስት ሞዴል: ** የውስጥ አውታረ መረብ ትራፊክ በራስ-ሰር አይታመንም; ሚስጥራዊነት ያለው አገልግሎት-ለአገልግሎት ግንኙነት ማረጋገጥን ይጠይቃል።
+- **የደካማነት እና የወጪ ሳጥን ጥለት፡** ወሳኝ ኦፕሬሽኖች (እንደ ልገሳ ወይም መልእክት) የተባዛ ሂደትን ለመከላከል አቅም ያላቸው እንዲሆኑ የተነደፉ ናቸው፣ የውጤት ሳጥን ስርዓተ-ጥለትን በመጠቀም በመረጃ ቋት ግብይቶች ወቅት እንኳን ክስተቶች መቼም እንደማይጠፉ ለማረጋገጥ።
 
 ## MVP ዶሜይን ሞዴል (WP 1.12)
+
+![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
 
 Nexus Gaja እንደ ሞዱል ሞኖሊት ከግልጽ የጎራ ድንበሮች ጋር በጥብቅ የተነደፈ በDomain-Driven MVP Architecture (ADR-025) ይጠቀማል። ይህ መዋቅር ከጊዜ በኋላ የተወሰኑ ጎራዎችን ለመከፋፈል ተለዋዋጭነትን በማቆየት ያለጊዜው የማይክሮ አገልግሎት ውስብስብነትን ይከላከላል።
 
 ### የኮር ዶሜይን አካላት
-አርክቴክቸር የውሂብን ታማኝነት ለማረጋገጥ እና እንደ "የተጠቃሚ ስም = ሰው" ያሉ መዋቅራዊ ወጥመዶችን ለማስወገድ የተለያዩ ፅንሰ ሀሳቦችን በግልፅ ይለያል።
+አርክቴክቸር የመረጃን ታማኝነት ለማረጋገጥ እና እንደ "የተጠቃሚ ስም = ሰው" ያሉ መዋቅራዊ ወጥመዶችን ለማስወገድ የተለያዩ ፅንሰ ሀሳቦችን በግልፅ ይለያል።
 - **ማንነት እና መለያዎች፡** `ሰው` ≠ `የተጠቃሚ መለያ` ≠ `ማንነት ማረጋገጫ`። የተረጋገጠ ሰው በመለያ ይሳተፋል፣ ነገር ግን ህጋዊ አካላት የተለዩ እንደሆኑ ይቆያሉ።
 - **መገናኛ፡** `መልዕክት` ≠ `ትርጉም`። ዋናው መልእክት የማይለወጥ ሆኖ ይቆያል; ትርጉሞች የተገናኙ አካላት ናቸው።
 - ** ልከኝነት፡** `ሪፖርት` ≠ `የመጠነኛ ውሳኔ`። ዘገባ የይገባኛል ጥያቄ ብቻ ነው; በመጠኑ ጉዳይ ላይ ምርመራውን ያካሂዳል.

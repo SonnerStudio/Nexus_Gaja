@@ -1,6 +1,8 @@
-# Nexus Gaja
+﻿# Nexus Gaja
 
 ![Nexus Gaja Logo](assets/logo.jpg)
+
+![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
 
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
@@ -12,6 +14,8 @@
 **Nexus Gaja** 旨在彻底改变全球通信，是一个智能且具备上下文感知能力的通信网络。
 
 ## 目的与愿景
+
+![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
 在全球化的世界中，语言往往是最大的障碍。Nexus Gaja 的主要目标是实现人与人之间无缝、无障碍且上下文准确的通信——无论他们是否使用共同的语言。
 
 这不仅仅是生硬地翻译单词，而是**传递意义**。Nexus Gaja 通过理解文化、地域和上下文的细微差别，在更深层次上连接人们，从而实现真实、原汁原味的对话。
@@ -24,6 +28,8 @@
 ---
 
 ## 技术架构（核心概念）
+
+![Nexus Gaja Translation Concept](assets/img/nexus_translation.jpg)
 
 Nexus Gaja 的技术核心是一个定制开发的通信模型，严格分为三层：
 
@@ -39,6 +45,8 @@ Nexus Gaja 中的翻译从不孤立地看待消息。引擎考虑整个层次结
 为了节省资源，翻译仅在**请求时**（按需）发生。当用户请求内容时，内容会被翻译成其预设语言。一旦生成特定语言的翻译，它就会被永久存储（缓存），以极大地加速未来的请求。
 
 ## AI 辅助内容审核 (WP 1.8.4)
+
+![Nexus Gaja AI Moderation](assets/img/nexus_moderation.jpg)
 
 借助 AI 辅助内容审核，我们在考虑当前欧盟法规（《欧盟人工智能法案》第50条规定的透明度要求；要求提供合理理由和申诉渠道的《数字服务法》(DSA)）的前提下，迈出了从产品理念向技术架构演进的重要一步。
 
@@ -161,6 +169,8 @@ AI 会利用上下文、表情符号、对话历史记录和已知的反讽结�
 **总结**：我们正在构建一个四阶段系统：AI 检测、上下文和风险分析、策略引擎以及人工治理。这实现了强大的自动化，而不会创建危险的“AI 充当法官”的架构。
 
 ## 融资原则与收入模型 (WP 1.10.1)
+
+![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
 对 Nexus Gaja 而言，适用一条极其重要的经济原则：**平台内没有传统广告。**
 这从根本上将 Nexus Gaja 与当今许多社交网络区分开来。然而，这并不意味着 Nexus Gaja 不能具有商业性质。相反，平台必须在经济上可行，以使其社会目的能够持久存在。经济活动是实现目的的手段，而不是平台的主要目的。
@@ -301,6 +311,8 @@ Nexus Gaja **不**通过以下方式融资：
 - **幂等性和发件箱模式 (Idempotency & Outbox Pattern):** 关键操作（如捐赠或消息传递）被设计为幂等的以防止重复处理，并利用发件箱模式确保即使在数据库事务期间也不会丢失事件。
 
 ## MVP 领域模型 (WP 1.12)
+
+![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
 
 Nexus Gaja 采用严格的领域驱动 MVP 架构 (ADR-025)，设计为具有清晰领域边界的模块化单体应用。这种结构防止了过早的微服务复杂性。
 

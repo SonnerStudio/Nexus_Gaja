@@ -2,6 +2,8 @@
 
 ![Nexus Gaja Logo](assets/logo.jpg)
 
+![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
 
@@ -12,6 +14,9 @@
 **Nexus Gaja** es una red de comunicación inteligente y sensible al contexto diseñada para revolucionar la comunicación global.
 
 ## Propósito y Visión
+
+![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
+
 En un mundo globalizado, el idioma suele ser la mayor barrera. El objetivo principal de Nexus Gaja es permitir una comunicación fluida, sin barreras y contextualmente precisa entre las personas, independientemente de si hablan un idioma común.
 
 No se trata solo de traducir palabras rígidamente, sino de **transferir significado**. Nexus Gaja conecta a las personas a un nivel más profundo al comprender matices culturales, regionales y contextuales, permitiendo así conversaciones genuinas y auténticas.
@@ -24,6 +29,8 @@ No se trata solo de traducir palabras rígidamente, sino de **transferir signifi
 ---
 
 ## Arquitectura Técnica (Concepto Central)
+
+![Nexus Gaja Translation Concept](assets/img/nexus_translation.jpg)
 
 El núcleo técnico de Nexus Gaja es un modelo de comunicación desarrollado a medida que se divide estrictamente en tres capas:
 
@@ -39,6 +46,8 @@ Las traducciones en Nexus Gaja nunca ven los mensajes de forma aislada. El motor
 La traducción se produce de manera eficiente en cuanto a recursos solo **bajo demanda**. Cuando un usuario solicita contenido, se traduce a su idioma predeterminado. Una vez generada una traducción para un idioma específico, se almacena de forma permanente (caché) para acelerar drásticamente futuras solicitudes.
 
 ## Moderación Asistida por IA (WP 1.8.4)
+
+![Nexus Gaja AI Moderation](assets/img/nexus_moderation.jpg)
 
 Con la Moderación Asistida por IA, damos un paso importante desde la idea del producto hacia la arquitectura técnica, teniendo en cuenta las normativas actuales de la UE (requisitos de transparencia de la Ley de IA de la UE según el Art. 50; Ley de Servicios Digitales con justificaciones comprensibles y opciones de apelación).
 
@@ -140,7 +149,7 @@ La IA utiliza el contexto, emojis, el historial de conversaciones y estructuras 
 Ninguna intervención de moderación severa puede basarse únicamente en un solo resultado de clasificación automatizada (Texto + Contexto + Comportamiento + Idioma + Medios + Motor de Reglas = Evaluación de Riesgos).
 
 ### 21. Señales de Comportamiento del Usuario y Sin Sistema de Crédito Social
-Esto se relaciona con señales de abuso técnico (p. ej., envío masivo de spam), no con un sistema de calificación social general. Nexus Gaja no mantiene un Sistema de Crédito Social: la moderación sirve a la seguridad, no a la evaluación del valor de una persona.
+This relates to technical abuse signals (e.g., massive spamming), not a general social credit system. Nexus Gaja does not maintain a Social Credit System: moderation serves safety, not evaluating a person's value.
 
 ### 22. La IA de Moderación Debe Ser Auditable
 Todas las decisiones automatizadas relevantes se registran (Event-ID, Rule-ID, Confidence, Human-Review, etc.) para garantizar la trazabilidad.
@@ -161,6 +170,8 @@ Las reglas (Policy Engine) no están codificadas de forma rígida en los modelos
 **Resumen**: Estamos construyendo un sistema de cuatro etapas: Detección de IA, Análisis de Contexto y Riesgo, Motor de Políticas (Policy Engine) y Gobernanza Humana. Esto permite una fuerte automatización sin crear una peligrosa arquitectura de "IA como Juez".
 
 ## Principios de Financiación y Modelo de Ingresos (WP 1.10.1)
+
+![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
 Para Nexus Gaja se aplica un principio económico sumamente importante: **Sin publicidad tradicional dentro de la plataforma.**
 Esto distingue fundamentalmente a Nexus Gaja de muchas de las redes sociales actuales. Sin embargo, esto no significa que Nexus Gaja no pueda tener un carácter comercial. Por el contrario, la plataforma debe ser económicamente viable para que su propósito social pueda perdurar. La actividad económica es un medio para un fin, no el propósito principal de la plataforma.
@@ -299,6 +310,8 @@ Para garantizar la estabilidad, seguridad y escalabilidad del sistema, Nexus Gaj
 - **Idempotencia y Patrón Outbox:** Las operaciones críticas (como donaciones o mensajes) están diseñadas para ser idempotentes y evitar el procesamiento duplicado, utilizando el patrón Outbox para asegurar que los eventos nunca se pierdan incluso durante transacciones de base de datos.
 
 ## Modelo de Dominio MVP (WP 1.12)
+
+![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
 
 Nexus Gaja emplea una arquitectura estrictamente orientada al dominio (ADR-025), diseñada como un monolito modular con límites claros. Esto previene la complejidad prematura de los microservicios, manteniendo la flexibilidad para separarlos más adelante.
 

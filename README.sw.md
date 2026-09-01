@@ -1,6 +1,8 @@
 # Nexus Gaja
 
-![Nembo ya Nexus Gaja](assets/logo.jpg)
+![Nexus Gaja Logo](assets/logo.jpg)
+
+![Nexus Gaja Shujaa](assets/img/nexus_hero.jpg)
 
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
@@ -12,6 +14,9 @@
 **Nexus Gaja** ni mtandao wa mawasiliano wenye akili, unaozingatia muktadha ulioundwa kuleta mageuzi katika mawasiliano ya kimataifa.
 
 ## Kusudi na Maono
+
+![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
+
 Katika ulimwengu wa utandawazi, lugha ndio kikwazo kikubwa zaidi. Lengo kuu la Nexus Gaja ni kuwezesha mawasiliano ya watu bila vikwazo, bila vikwazo, na kimuktadha—bila kujali kama wanazungumza lugha ya kawaida.
 
 Siyo tu kuhusu kutafsiri maneno kwa ukali, lakini kuhusu **kuhamisha maana**. Nexus Gaja huunganisha watu kwa undani zaidi kwa kuelewa nuances za kitamaduni, kimaeneo, na kimuktadha, hivyo basi kuwezesha mazungumzo ya kweli na ya kweli.
@@ -24,6 +29,8 @@ Siyo tu kuhusu kutafsiri maneno kwa ukali, lakini kuhusu **kuhamisha maana**. Ne
 ---
 
 ## Usanifu wa Kiufundi (Dhana ya Msingi)
+
+![Dhana ya Tafsiri ya Nexus Gaja](assets/img/nexus_translation.jpg)
 
 Msingi wa kiufundi wa Nexus Gaja ni modeli ya mawasiliano iliyoundwa maalum ambayo imegawanywa kikamilifu katika tabaka tatu:
 
@@ -40,7 +47,9 @@ Tafsiri hutokea kwa ufanisi wa rasilimali tu **kwa ombi** (Inapohitajika). Mtumi
 
 ## Usaidizi wa Kudhibiti AI (WP 1.8.4)
 
-Kwa Kudhibiti Usaidizi wa AI, tunachukua hatua muhimu kutoka kwa wazo la bidhaa hadi usanifu wa kiufundi, kwa kuzingatia kanuni za sasa za Umoja wa Ulaya (mahitaji ya uwazi ya Sheria ya EU AI chini ya Sanaa. 50; Sheria ya Huduma za Dijitali yenye uhalali unaoeleweka na chaguo za kukata rufaa).
+![Usimamizi wa Nexus Gaja AI](assets/img/nexus_moderation.jpg)
+
+Kwa Usaidizi wa AI, tunachukua hatua muhimu kutoka kwa wazo la bidhaa hadi usanifu wa kiufundi, kwa kuzingatia kanuni za sasa za Umoja wa Ulaya (mahitaji ya uwazi ya Sheria ya EU AI chini ya Sanaa. 50; Sheria ya Huduma za Dijiti yenye uhalali unaoeleweka na chaguo za kukata rufaa).
 
 ### 1. Kanuni ya Msingi
 Sentensi muhimu zaidi kwa usanifu ni: **Ukadiriaji AI ni mfumo wa mapitio, sio mfumo wa kutawala unaojitegemea.**
@@ -51,51 +60,51 @@ Tunatofautisha kati ya viwango vitatu:
 - **Uamuzi:** "Ni hatua gani hasa inachukuliwa?"
 Ngazi ya tatu lazima kudhibitiwa na binadamu katika kesi kali.
 
-### 2. The Moderation AI as a Subsystem
-Instead of a single AI, a robust subsystem is established:
-```text
+### 2. AI ya Kudhibiti kama Mfumo Ndogo
+Badala ya AI moja, mfumo mdogo wa nguvu unaanzishwa:
+``` maandishi
                  NEXUS GAJA AI MODERATION
                           │
-       ┌──────────────────┼──────────────────┐
-       │                  │                  │
-  Language AI        Safety AI          Fraud AI
-       │                  │                  │
-       ├──────────────┬───┴──────────────┬───┤
-       │              │                  │
- Translation      Behaviour          Identity
- Analysis         Analysis            Signals
-       │              │                  │
-       └──────────────┼──────────────────┘
+       ┌─────────────────┼───────────────────
+       │ │ │
+  Lugha AI Usalama AI Ulaghai AI
+       │ │ │
+       ├────────────┬───┴───────────────────
+       │ │ │
+ Utambulisho wa Tabia ya Tafsiri
+ Ishara za Uchambuzi
+       │ │ │
+       └─────────────┼───────────────────
                       ▼
-               Risk Assessment
+               Tathmini ya Hatari
                       │
                       ▼
-               Human Review
+               Uhakiki wa Binadamu
 ```
 
-### 3. The Most Important AI Modules
-Nexus Gaja utilizes nine specialized analysis areas:
-- **M1 – Language Understanding**: Detects language, dialect, slang, irony indicators, translation issues.
-- **M2 – Toxicity / Abuse Detection**: Detects insults, personal attacks, harassment.
-- **M3 – Threat Detection**: Detects potential threats, blackmail, violence announcements.
-- **M4 – Hate / Dehumanization Detection**: Detects targeted attacks on people based on specific affiliations.
-- **M5 – Spam / Manipulation Detection**: Detects spam, bot behavior, coordinated manipulation.
-- **M6 – Fraud Detection**: Detects suspicious fraud attempts, phishing, social engineering.
-- **M7 – Identity Integrity**: Checks signals regarding account takeovers, multiple accounts, ban evasion.
-- **M8 – Media Safety**: Analyzes images, audio, video, documents.
-- **M9 – Context Engine**: The most important module. It merges the individual findings.
+### 3. Moduli Muhimu Zaidi za AI
+Nexus Gaja hutumia maeneo tisa maalum ya uchanganuzi:
+- **M1 – Uelewa wa Lugha**: Hutambua lugha, lahaja, misimu, viashirio vya kejeli, masuala ya tafsiri.
+- **M2 - Utambuzi wa sumu / Unyanyasaji**: Hugundua matusi, mashambulizi ya kibinafsi, unyanyasaji.
+- **M3 - Utambuzi wa Tishio**: Hugundua vitisho vinavyoweza kutokea, usaliti, matangazo ya vurugu.
+- **M4 – Utambuzi wa Chuki / Udhalilishaji**: Hugundua mashambulizi yanayolengwa dhidi ya watu kulingana na uhusiano mahususi.
+- **M5 - Utambuzi wa Taka / Udanganyifu**: Hugundua barua taka, tabia ya roboti, upotoshaji ulioratibiwa.
+- **M6 – Utambuzi wa Ulaghai**: Hugundua majaribio ya ulaghai yanayoshukiwa, wizi wa data binafsi, uhandisi wa kijamii.
+- **M7 – Uadilifu wa Utambulisho**: Hukagua ishara kuhusu uchukuaji wa akaunti, akaunti nyingi, kupiga marufuku ukwepaji.
+- **M8 – Usalama wa Vyombo vya Habari**: Huchanganua picha, sauti, video, hati.
+- **M9 - Injini ya Muktadha**: Moduli muhimu zaidi. Inaunganisha matokeo ya mtu binafsi.
 
-### 4. Why the Context Engine is Crucial
-A pure keyword search would be insufficient. "I could kill him from laughing" semantically contains violence but is a figure of speech. "Tomorrow at 8 PM I will shoot him in front of his house" is a completely different situation. The AI must understand what the statement means in its specific context.
+### 4. Kwa nini Injini ya Muktadha ni Muhimu
+Utafutaji wa nenomsingi safi hautatosha. "Ningeweza kumuua kutokana na kucheka" kimantiki ina vurugu lakini ni tamathali ya semi. "Kesho saa 8 mchana nitampiga risasi mbele ya nyumba yake" ni hali tofauti kabisa. AI lazima ielewe nini maana ya taarifa katika muktadha wake mahususi.
 
 ### 5. Udhibiti wa Lugha nyingi
 Kiasi haiwezi tu kulinganisha maneno. Ni lazima ichanganue kiwango cha kisemantiki (k.m., nahau za Kijerumani dhidi ya nahau za Kijapani dhidi ya misemo ya kieneo).
 
-### 6. Original Language + Translation
-Original and translation are analyzed separately. Only then does the "Combined Moderation Assessment" take place. This allows Nexus Gaja to determine whether the translation itself may have escalated or altered the facts.
+### 6. Lugha Asili + Tafsiri
+Asili na tafsiri huchanganuliwa kando. Hapo ndipo "Tathmini ya Usanifu wa Pamoja" hufanyika. Hii inaruhusu Nexus Gaja kubaini ikiwa tafsiri yenyewe inaweza kuwa imeongezeka au kubadilisha ukweli.
 
-### 7. Confidence Score
-Every AI evaluation receives a confidence score (e.g., Threat probability: 0.96). However: **Confidence Score ≠ Truth.** A score of 96% only means the model is highly certain of its classification, not necessarily that the user is guilty.
+### 7. Alama ya Kujiamini
+Kila tathmini ya AI hupokea alama ya kujiamini (k.m., uwezekano wa Tishio: 0.96). Hata hivyo: **Alama ya Kujiamini ≠ Ukweli.** Alama ya 96% inamaanisha tu kwamba muundo una uhakika mkubwa wa uainishaji wake, si lazima kwamba mtumiaji ana hatia.
 
 ### 8. Kutokuwa na uhakika Kunakuwa Ishara Yenyewe
 Ikiwa AI haina uhakika (k.m., Tishio: 0.62, Satire: 0.54), lazima isitekeleze tu sheria kali. Badala yake, kutokuwa na uhakika kunajengwa moja kwa moja kwenye usanifu: **Uhakiki wa Kibinadamu Unahitajika**.
@@ -106,8 +115,8 @@ Ikiwa AI haina uhakika (k.m., Tishio: 0.62, Satire: 0.54), lazima isitekeleze tu
 - 🟠 **CHUNGWA**: Ukiukaji unaowezekana. → ukaguzi wa wastani.
 - 🔴 **RED**: Ukiukaji mkubwa unaowezekana. → kipimo cha kinga cha haraka + mapitio ya binadamu.
 
-### 10. No "AI Punishment"
-**The AI imposes no final sanctions.** It can trigger technical immediate measures (e.g., temporarily holding back a message) for severe security concerns, but the final decision remains verifiable.
+### 10. Hapana "Adhabu ya AI"
+**AI haitoi vikwazo vya mwisho.** Inaweza kuanzisha hatua za haraka za kiufundi (k.m., kusimamisha ujumbe kwa muda) kwa matatizo makubwa ya usalama, lakini uamuzi wa mwisho bado unaweza kuthibitishwa.
 
 ### 11. Hatua za Kinga Inaweza Kutokea Kiotomatiki
 Katika tukio la tishio halisi (Tishio limegunduliwa → Kujiamini kwa juu → Kizuizi cha muda → Mapitio ya kibinadamu → Uamuzi), tunalinda mtumiaji aliyetishiwa bila kugeuza AI kuwa hakimu.
@@ -136,31 +145,33 @@ AI inahitaji **Miundo ya Muktadha wa Kitamaduni** ili kuzuia kanuni za mawasilia
 ### 19. Kejeli, Kejeli, na Ucheshi
 AI hutumia muktadha, emoji, historia ya mazungumzo, na miundo ya kejeli inayojulikana, lakini lazima iruhusu kutokuwa na uhakika wakati maana ni ngumu.
 
-### 20. Hakuna Adhabu Kulingana na Alama Moja ya AI
-Hakuna uingiliaji kati mkali wa ukadiriaji unaoweza kutegemea tu matokeo ya uainishaji ya kiotomatiki (Maandishi + Muktadha + Tabia + Lugha + Media + Injini ya Kanuni = Tathmini ya Hatari).
+### 20. No Punishment Based on a Single AI Score
+No severe moderation intervention may be based solely on a single automated classification result (Text + Context + Behaviour + Language + Media + Rule Engine = Risk Assessment).
 
-### 21. Ishara za Tabia ya Mtumiaji & Hakuna Mfumo wa Mikopo ya Kijamii
-Hii inahusiana na ishara za matumizi mabaya ya kiufundi (k.m., uchapishaji wa barua taka nyingi), si mfumo wa jumla wa ukadiriaji wa kijamii. Nexus Gaja haidumii Mfumo wa Mikopo ya Kijamii - usimamizi hulinda usalama, si tathmini ya thamani ya mtu.
+### 21. User Behaviour Signals & No Social Credit System
+This relates to technical abuse signals (e.g., mass spam posting), not a general social rating system. Nexus Gaja does not maintain a Social Credit System – moderation serves security, not the assessment of a person's worth.
 
-### 22. AI ya Kiasi Lazima Ikaguliwe
-Maamuzi yote muhimu ya kiotomatiki yamewekwa (Kitambulisho-Tukio, Kitambulisho-Kanuni, Kujiamini, Ukaguzi wa Binadamu, n.k.) ili kuhakikisha ufuatiliaji.
+### 22. Moderation AI Must Be Auditable
+All relevant automated decisions are logged (Event-ID, Rule-ID, Confidence, Human-Review, etc.) to ensure traceability.
 
-### 23. Chanya Isiyo sahihi, Hasi za Uongo & Vipimo vya Ubora
-Aina za makosa hufuatiliwa. Dashibodi hupima Usahihi, Kukumbuka, na hasa **Kiwango cha Kurejesha Rufaa** (idadi ya rufaa zilizofanikiwa).
+### 23. False Positives, False Negatives & Quality Metrics
+Error types are monitored. A dashboard measures Precision, Recall, and especially the **Appeal Reversal Rate** (number of successful appeals).
 
 ### 24. Usawa wa Lugha na Upendeleo wa Tafsiri
 Ubora wa kukadiri lazima ulinganishwe katika lugha zote zinazotumika (Kigezo cha Udhibiti wa Lugha nyingi). Ikiwa matokeo ya ukadiriaji yatatofautiana kati ya asilia na tafsiri (Mgogoro wa Tafsiri), lazima hili likaguliwe mahususi.
 
-### 25. Pendekezo la Usanifu & Injini ya Sera
-Sheria (Injini ya Sera) hazijawekwa ngumu katika miundo ya AI. AI hutoa matokeo; Injini ya Sera huamua kulingana na sheria za sasa. Hii inaruhusu **mabadiliko ya modeli bila mabadiliko ya sheria**.
+### 25. Architecture Proposal & Policy Engine
+Rules (Policy Engine) are not hardcoded into the AI models. The AI provides findings; the Policy Engine decides based on current rules. This allows for **model changes without rule changes**.
 
 ### 26. Mwanadamu Anabaki kuwa Mamlaka ya Mwisho
 - **NG-AI-MOD-001**: AI husaidia katika kutambua na kuainisha, lakini haichukui nafasi ya ukaguzi wa kibinadamu katika maamuzi magumu.
 - **NG-AI-MOD-002**: Maamuzi ya udhibiti wa kiotomatiki lazima yafuatiliwe, yaweze kuandikika na yaweze kuthibitishwa.
 
-**Summary**: We are building a four-stage system: AI Detection, Context and Risk Analysis, Policy Engine, and Human Governance. This enables strong automation without creating a dangerous "AI as Judge" architecture.
+**Muhtasari**: Tunaunda mfumo wa hatua nne: Utambuzi wa AI, Uchambuzi wa Mazingira na Hatari, Injini ya Sera na Utawala wa Kibinadamu. Hii huwezesha otomatiki kali bila kuunda usanifu hatari wa "AI kama Jaji".
 
 ## Kanuni za Ufadhili na Muundo wa Mapato (WP 1.10.1)
+
+![Next Gaja Finance Model](assets/img/nexus_finance.jpg)
 
 Kwa Nexus Gaja, kanuni muhimu sana ya kiuchumi inatumika: **Hakuna utangazaji wa kitamaduni ndani ya jukwaa.**
 Hii kimsingi inatofautisha Nexus Gaja kutoka kwa mitandao mingi ya kijamii ya leo. Walakini, hii haimaanishi kuwa Nexus Gaja haiwezi kuwa na tabia ya kibiashara. Kinyume chake, jukwaa lazima liwe na uwezo wa kiuchumi ili kusudi lake la kijamii liweze kudumu. Shughuli za kiuchumi ni njia ya kufikia malengo, si madhumuni ya msingi ya jukwaa.
@@ -199,7 +210,7 @@ Ufadhili umejengwa juu ya nguzo sita:
 
 #### Nguzo ya 2 – Matoleo ya Kulipiwa
 Matoleo yanayolipishwa ya hiari (**Nexus Gaja Plus**) yanayotoa viwango vikubwa zaidi vya hifadhi, ubora wa juu wa maudhui, viwango vilivyopanuliwa vya AI na vipengele vya shirika.
-**Muhimu (Freemium badala ya Dark Freemium):** Mawasiliano ya kimsingi lazima yawahi kuharibiwa kwa njia bandia.
+**Muhimu (Freemium badala ya Freemium Nyeusi):** Mawasiliano ya kimsingi hayapaswi kuharibiwa kamwe.
 
 #### Nguzo ya 3 – Mashirika
 Akaunti maalum za shule, vyuo vikuu, mashirika yasiyo ya kiserikali, biashara na manispaa (**Shirika la Nexus Gaja**). Shule zinaweza kusaidiwa kupitia viwango vya kitaasisi kama vizidishi vya uelewa wa kimataifa.
@@ -218,12 +229,12 @@ Huduma za B2B kama vile **Translation-as-a-Service** (API), mawasiliano ya shiri
 ### 4. Hakuna Uchumaji wa Data na Uchumi wa Ufuatiliaji
 **NG-FIN-003:** Data ya kibinafsi ya mtumiaji si bidhaa. Hakuna uuzaji wa orodha, wasifu, au historia. Nexus Gaja hainufaiki kutokana na ufuatiliaji wa kisaikolojia (Uchumi wa Ufuatiliaji).
 
-### 5. Uwazi wa Fedha & Leja ya Mfuko
-**Uwazi wa Kifedha wa Nexus Gaja:** Uchapishaji wa miundo ya kifedha iliyojumlishwa. Michango iliyotengwa hupokea uhasibu wa kiufundi (Kitambulisho cha Mfuko → Madhumuni → Salio → Mgao). Hakuna ruzuku mtambuka ya madhumuni ya kijamii katika uuzaji wa kampuni.
+### 5. Financial Transparency & Fund Ledger
+**Nexus Gaja Financial Transparency:** Publication of aggregated financial structures. Earmarked donations receive technical accounting (Fund ID → Purpose → Balance → Allocation). No cross-subsidization of social purposes into corporate marketing.
 
-### 6. Mshikamano-Based Financing Model
-Uwekaji bei unatokana na mwelekeo wa gharama, usawa na mshikamano.
-**Solidarity Premium:** Chaguo la hiari kwa watumiaji wa Premium kufadhili sehemu ya ufikiaji wa mtumiaji mwingine. Mshikamano wa kulazimishwa au jamii ya daraja la juu (heshima ndogo/usawaji kwa watumiaji wasiolipishwa) hairuhusiwi kabisa.
+### 6. Solidarity-Based Financing Model
+Pricing is based on cost-orientation, fairness, and solidarity.
+**Solidarity Premium:** A voluntary option for Premium users to finance a portion of another user's access. Forced solidarity or a premium class society (less respect/moderation for free users) is strictly prohibited.
 
 ### 7. KPIs za Kiuchumi Badala ya Uchumi wa Uchumi
 Hakuna utegemezi wa kuweka watumiaji "mtandaoni kwa muda mrefu iwezekanavyo" (hakuna ragebait, milisho isiyo na kikomo).
@@ -284,10 +295,10 @@ Nexus Gaja **haifadhiliwi na:
 
 Ili kuhakikisha uthabiti wa mfumo, usalama na uimara, Nexus Gaja inafuata usanifu kamili wa API-kwanza na unaoendeshwa na tukio.
 
-### Core Principles
-- **No Direct Database Access:** Components communicate exclusively via defined interfaces (APIs or Events), never through direct database queries of other services.
-- **API Gateway:** All external client requests route through an API Gateway handling authentication, routing, and rate limiting.
-- **Provider Abstraction:** External services (AI models, payment providers, translation engines) are integrated via abstraction layers, avoiding hardcoded dependencies and enabling flexible provider swapping.
+### Kanuni za Msingi
+- **Hakuna Ufikiaji wa Hifadhidata ya Moja kwa Moja:** Vipengele huwasiliana kwa njia ya kipekee kupitia violesura vilivyobainishwa (API au Matukio), kamwe kupitia hoja za moja kwa moja za hifadhidata za huduma zingine.
+- **Lango la API:** Maombi yote ya mteja wa nje yapitie kupitia uthibitishaji wa ushughulikiaji wa Lango la API, uelekezaji na uwekaji vikwazo.
+- **Muhtasari wa Mtoa Huduma:** Huduma za nje (Miundo ya AI, watoa huduma za malipo, injini za tafsiri) zimeunganishwa kupitia tabaka za uondoaji, kuepuka utegemezi wenye msimbo ngumu na kuwezesha ubadilishaji wa watoa huduma unaonyumbulika.
 
 ### Mifumo ya Mawasiliano
 - **API za Usawazishaji (REST/HTTPS):** Hutumika kwa maombi ya mara moja kama vile kuingia, mipangilio ya wasifu, au tafsiri za moja kwa moja.
@@ -299,6 +310,8 @@ Ili kuhakikisha uthabiti wa mfumo, usalama na uimara, Nexus Gaja inafuata usanif
 - **Mchoro wa Kutokuwa na uwezo na Kikasha toezi:** Shughuli muhimu (kama vile michango au kutuma ujumbe) zimeundwa ili zisiwe na uwezo ili kuzuia uchakataji unaorudiwa, kwa kutumia mchoro wa Kikasha toezi ili kuhakikisha kuwa matukio hayapotei kamwe hata wakati wa shughuli za hifadhidata.
 
 ## Muundo wa Kikoa cha MVP (WP 1.12)
+
+![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
 
 Nexus Gaja inaajiri Usanifu wa MVP Unaoendeshwa na Kikoa (ADR-025), iliyoundwa kama moduli ya monolith iliyo na mipaka iliyo wazi ya kikoa. Muundo huu huzuia uchangamano wa huduma ndogo kabla ya wakati huku ukibakiza unyumbufu wa kugawanya vikoa mahususi baadaye.
 

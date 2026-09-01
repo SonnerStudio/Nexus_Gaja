@@ -2,6 +2,8 @@
 
 ![شعار Nexus Gaja](assets/logo.jpg)
 
+![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
 
@@ -11,8 +13,11 @@
 
 **Nexus Gaja** هي شبكة اتصالات ذكية حساسة للسياق مصممة لإحداث ثورة في الاتصالات العالمية.
 
-## Purpose and Vision
-In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
+## الغرض والرؤية
+
+![رؤية Nexus Gaja](assets/img/nexus_vision.jpg)
+
+في عالم معولم، غالبا ما تكون اللغة هي العائق الأكبر. الهدف الرئيسي من Nexus Gaja هو تمكين التواصل السلس والخالي من العوائق والسياق الدقيق بين الأشخاص - بغض النظر عما إذا كانوا يتحدثون لغة مشتركة أم لا.
 
 لا يقتصر الأمر على ترجمة الكلمات بشكل صارم فحسب، بل يتعلق بـ **نقل المعنى**. تعمل Nexus Gaja على ربط الأشخاص على مستوى أعمق من خلال فهم الفروق الثقافية والإقليمية والسياقية الدقيقة، وبالتالي تمكين المحادثات الحقيقية والأصلية.
 
@@ -25,7 +30,9 @@ In a globalized world, language is often the biggest barrier. The main goal of N
 
 ## الهندسة التقنية (المفهوم الأساسي)
 
-The technical core of Nexus Gaja is a custom-built communication model that is strictly divided into three layers:
+![مفهوم ترجمة Nexus Gaja](assets/img/nexus_translation.jpg)
+
+إن الجوهر التقني لـ Nexus Gaja هو نموذج اتصال مصمم خصيصًا وينقسم بشكل صارم إلى ثلاث طبقات:
 
 1. **الأصل**: يظل كائن الاتصال (الرسالة) الذي أنشأه المرسل غير قابل للتغيير دائمًا.
 2. **التفسير الدلالي**: لا يقوم النظام بتحليل الكلمات فحسب، بل يحلل المعنى الفعلي.
@@ -39,6 +46,8 @@ The technical core of Nexus Gaja is a custom-built communication model that is s
 تتم الترجمة بكفاءة في استخدام الموارد فقط **عند الطلب** (عند الطلب). عندما يطلب المستخدم محتوى، تتم ترجمته إلى لغته المحددة مسبقًا. بمجرد إنشاء ترجمة للغة معينة، يتم تخزينها بشكل دائم (التخزين المؤقت) لتسريع الطلبات المستقبلية بشكل كبير.
 
 ## الإشراف بمساعدة الذكاء الاصطناعي (WP 1.8.4)
+
+![إدارة Nexus Gaja AI](assets/img/nexus_moderation.jpg)
 
 من خلال الإشراف بمساعدة الذكاء الاصطناعي، فإننا نخطو خطوة مهمة من فكرة المنتج إلى البنية التقنية، مع الأخذ في الاعتبار لوائح الاتحاد الأوروبي الحالية (متطلبات الشفافية في قانون الذكاء الاصطناعي للاتحاد الأوروبي بموجب المادة 50؛ وقانون الخدمات الرقمية مع مبررات مفهومة وخيارات الاستئناف).
 
@@ -109,23 +118,23 @@ The technical core of Nexus Gaja is a custom-built communication model that is s
 ### 10. لا "عقوبة الذكاء الاصطناعي"
 **لا يفرض الذكاء الاصطناعي أي عقوبات نهائية.** يمكن أن يؤدي إلى اتخاذ تدابير فنية فورية (على سبيل المثال، حجب الرسالة مؤقتًا) لمخاوف أمنية شديدة، لكن القرار النهائي يظل قابلاً للتحقق.
 
-### 11. Protective Measures Can Occur Automatically
-In the event of a concrete threat (Threat detected → High confidence → Temporary restriction → Human review → Decision), we protect the threatened user without turning the AI into a judge.
+### 11. يمكن أن تحدث إجراءات الحماية تلقائيًا
+في حالة وجود تهديد ملموس (تم اكتشاف تهديد → ثقة عالية → تقييد مؤقت → مراجعة بشرية → قرار)، فإننا نحمي المستخدم المهدد دون تحويل الذكاء الاصطناعي إلى قاض.
 
-### 12. يجب أن يكون الذكاء الاصطناعي قادرًا على تبرير قراراته
-يتطلب بدل الإقامة اليومي أسبابًا واضحة ومحددة. يوفر الذكاء الاصطناعي تفكيرًا منظمًا: القاعدة (NG-CONDUCT-004)، تم اكتشافه (تهديد ملموس محتمل)، الثقة (0.94)، السياق ذو الصلة (الرسائل الأربع السابقة)، الإجراء الموصى به (مراجعة بشرية).
+### 12. The AI Must Be Able to Justify Its Decisions
+The DSA requires clear and specific reasons. The AI provides structured reasoning: Rule (NG-CONDUCT-004), Detected (Potential concrete threat), Confidence (0.94), Relevant context (Previous 4 messages), Recommended action (Human review).
 
-### 13. يجب ألا يقوم الذكاء الاصطناعي بتغيير المحتوى سرًا
-**يجب ألا يقوم الذكاء الاصطناعي المعتدل أبدًا بتغيير المحتوى الأصلي دون أن يلاحظه أحد.** أثناء التصحيح التلقائي أو الترجمة أو التلخيص، يتم الاحتفاظ بالأصل دائمًا.
+### 13. AI Must Not Secretly Alter Content
+**Moderation AI must never alter the original content unnoticed.** During automatic correction, translation, or summarization, the original is always preserved.
 
-### 14. المحتوى الناتج عن الذكاء الاصطناعي
-نحن نميز بين: من صنع الإنسان، وبمساعدة الذكاء الاصطناعي، ومن صنع الذكاء الاصطناعي، ومن يتم التلاعب به. سيصبح هذا جزءًا من بيانات تعريف المحتوى.
+### 14. AI-Generated Content
+We distinguish between: Human-created, AI-assisted, AI-generated, and AI-manipulated. This will become part of the content metadata.
 
 ### 15. تصنيف محتوى الذكاء الاصطناعي وطبقة مصدر الذكاء الاصطناعي
 وفقًا لقواعد الشفافية المنصوص عليها في قانون الذكاء الاصطناعي للاتحاد الأوروبي (الذي دخل حيز التنفيذ اعتبارًا من أغسطس 2026)، يجب أن يكون المحتوى الناتج عن الذكاء الاصطناعي قابلاً للتحديد. نحن نقدم طبقة مصدر الذكاء الاصطناعي التي تخزن البيانات الوصفية (AI-Origin، Model، Timestamp، Human Review).
 
-### 16. كشف التزييف العميق
-تهدف البنية إلى اكتشاف الصور الاصطناعية والأصوات المستنسخة والتزييف العميق. ومع ذلك، فإن الاكتشاف لا يعد دليلاً تلقائيًا.
+### 16. Deepfake Detection
+The architecture aims to detect synthetic images, cloned voices, and deepfakes. However, detection is not automatically proof.
 
 ### 17. لا توجد "آلة الحقيقة" التلقائية (الإعتدال ≠ التحقق من الحقائق)
 يتحقق أحد الأنظمة من السؤال التالي: "هل ينتهك المحتوى القواعد؟" (الإشراف على المحتوى)، ويقدم آخر: "ما هي المعلومات والمصادر المتوفرة؟" (المساعدة المعلوماتية). لا يتم حذف الآراء ببساطة لكونها "خاطئة".
@@ -133,8 +142,8 @@ In the event of a concrete threat (Threat detected → High confidence → Tempo
 ### 18. الحماية من سوء التفسير الثقافي
 يتطلب الذكاء الاصطناعي **نماذج السياق الثقافي** لمنع اعتبار معايير الاتصال الخاصة ببلد ما معيارًا عالميًا.
 
-### 19. السخرية والهجاء والفكاهة
-يستخدم الذكاء الاصطناعي السياق، والرموز التعبيرية، وتاريخ المحادثة، والهياكل الساخرة المعروفة، ولكن يجب أن يسمح بعدم اليقين عندما تكون المعاني غامضة.
+### 19. Irony, Satire, and Humor
+The AI uses context, emojis, conversation history, and known irony structures, but must allow for uncertainty when meanings are ambiguous.
 
 ### 20. لا توجد عقوبة بناءً على نتيجة واحدة للذكاء الاصطناعي
 لا يجوز أن يعتمد أي تدخل معتدل فقط على نتيجة تصنيف آلية واحدة (النص + السياق + السلوك + اللغة + الوسائط + محرك القواعد = تقييم المخاطر).
@@ -142,25 +151,27 @@ In the event of a concrete threat (Threat detected → High confidence → Tempo
 ### 21. إشارات سلوك المستخدم وعدم وجود نظام ائتمان اجتماعي
 ويتعلق هذا بإشارات إساءة الاستخدام الفنية (على سبيل المثال، نشر رسائل غير مرغوب فيها على نطاق واسع)، وليس بنظام التصنيف الاجتماعي العام. لا تحتفظ Nexus Gaja بنظام ائتمان اجتماعي - فالاعتدال يخدم الأمان، وليس تقييم قيمة الشخص.
 
-### 22. Moderation AI Must Be Auditable
-All relevant automated decisions are logged (Event-ID, Rule-ID, Confidence, Human-Review, etc.) to ensure traceability.
+### 22. يجب أن يكون الذكاء الاصطناعي المعتدل قابلاً للتدقيق
+يتم تسجيل جميع القرارات الآلية ذات الصلة (معرف الحدث، ومعرف القاعدة، والثقة، والمراجعة البشرية، وما إلى ذلك) لضمان إمكانية التتبع.
 
-### 23. False Positives, False Negatives & Quality Metrics
-Error types are monitored. A dashboard measures Precision, Recall, and especially the **Appeal Reversal Rate** (number of successful appeals).
+### 23. الإيجابيات الكاذبة والسلبيات الكاذبة ومقاييس الجودة
+تتم مراقبة أنواع الأخطاء. تقيس لوحة المعلومات الدقة والتذكير، وخاصة **معدل عكس الاستئناف** (عدد الطعون الناجحة).
 
-### 24. Language Equity & Translation Bias
-Moderation quality must be comparable across all supported languages (Multilingual Moderation Benchmark). If moderation results differ between the original and the translation (Translation Conflict), this must be specifically reviewed.
+### 24. المساواة اللغوية وتحيز الترجمة
+يجب أن تكون جودة الإشراف قابلة للمقارنة عبر جميع اللغات المدعومة (معيار الإشراف متعدد اللغات). إذا اختلفت نتائج الإشراف بين النص الأصلي والترجمة (تعارض الترجمة)، فيجب مراجعة ذلك على وجه التحديد.
 
-### 25. Architecture Proposal & Policy Engine
-Rules (Policy Engine) are not hardcoded into the AI models. The AI provides findings; the Policy Engine decides based on current rules. This allows for **model changes without rule changes**.
+### 25. محرك مقترحات الهندسة المعمارية والسياسات
+لم يتم ترميز القواعد (محرك السياسات) في نماذج الذكاء الاصطناعي. يقدم الذكاء الاصطناعي النتائج؛ يقرر محرك السياسة بناءً على القواعد الحالية. وهذا يسمح بـ **تغييرات النموذج دون تغيير القاعدة**.
 
-### 26. The Human Remains the Final Authority
-- **NG-AI-MOD-001**: The AI assists in detection and classification, but does not replace human review in severe decisions.
-- **NG-AI-MOD-002**: Automated moderation decisions must be traceable, loggable, and verifiable.
+### 26. يبقى الإنسان هو السلطة النهائية
+- **NG-AI-MOD-001**: يساعد الذكاء الاصطناعي في الكشف والتصنيف، ولكنه لا يحل محل المراجعة البشرية في القرارات الحاسمة.
+- **NG-AI-MOD-002**: يجب أن تكون قرارات الإشراف التلقائية قابلة للتتبع وقابلة للتسجيل والتحقق منها.
 
-**Summary**: We are building a four-stage system: AI Detection, Context and Risk Analysis, Policy Engine, and Human Governance. This enables strong automation without creating a dangerous "AI as Judge" architecture.
+**الملخص**: نحن نبني نظامًا من أربع مراحل: اكتشاف الذكاء الاصطناعي، وتحليل السياق والمخاطر، ومحرك السياسات، والحوكمة البشرية. وهذا يتيح التشغيل الآلي القوي دون إنشاء بنية خطيرة "للذكاء الاصطناعي كقاضي".
 
 ## Financing Principles and Revenue Model (WP 1.10.1)
+
+![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
 بالنسبة إلى Nexus Gaja، ينطبق مبدأ اقتصادي بالغ الأهمية: **لا توجد إعلانات تقليدية داخل النظام الأساسي.**
 وهذا ما يميز Nexus Gaja بشكل أساسي عن العديد من الشبكات الاجتماعية الحالية. ومع ذلك، هذا لا يعني أن Nexus Gaja لا يمكن أن يكون له طابع تجاري. بل على العكس من ذلك، يجب أن تكون المنصة قابلة للحياة اقتصاديا حتى يتمكن غرضها الاجتماعي من الاستمرار. النشاط الاقتصادي هو وسيلة لتحقيق غاية، وليس الهدف الأساسي للمنصة.
@@ -178,7 +189,7 @@ Rules (Policy Engine) are not hardcoded into the AI models. The AI provides find
 - بيع ملفات تعريف المستخدمين أو البيانات الشخصية
 - الإعلانات المستمدة من المحادثات الخاصة.
 
-يظل Nexus Gaja **مساحة اتصال وليس مساحة إعلانية**.
+Nexus Gaja remains a **communication space rather than an advertising space**.
 
 ### 3. التمويل بدون إعلانات (الركائز الستة)
 يعتمد التمويل على ستة ركائز:
@@ -204,9 +215,9 @@ Rules (Policy Engine) are not hardcoded into the AI models. The AI provides find
 #### الركيزة 3 – المنظمات
 حسابات خاصة للمدارس والجامعات والمنظمات غير الحكومية والشركات والبلديات (**Nexus Gaja Organization**). ويمكن دعم المدارس من خلال المعدلات المؤسسية باعتبارها عوامل مضاعفة للتفاهم الدولي.
 
-#### الركيزة الرابعة – التبرعات
-يقبل **Nexus Gaja Funding Pool** التبرعات العامة والمخصصة (على سبيل المثال، "للتواصل الدولي للشباب"). يضمن **دفتر تخصيص الأموال** تخصيص الأموال بشكل شفاف.
-**صندوق الغرض والتومبولا:** جزء من التبرعات يغذي مجموعة للاستخدام المجاني/المخفض. يمكن لآلية اليانصيب/التومبولا تخصيص هذه الأموال بشفافية وبشكل قابل للتدقيق.
+#### Pillar 4 – Donations
+The **Nexus Gaja Funding Pool** accepts general and earmarked donations (e.g., "for international youth communication"). A **Fund Allocation Ledger** ensures transparent allocation of funds.
+**Purpose Fund & Tombola:** A portion of donations feeds a pool for free/discounted usage. A lottery/tombola mechanism can allocate these funds transparently and auditably.
 
 #### الركيزة الخامسة – التمويل المؤسسي
 المؤسسات أو برامج التمويل الثقافي أو برامج الدولة.
@@ -221,27 +232,27 @@ Rules (Policy Engine) are not hardcoded into the AI models. The AI provides find
 ### 5. الشفافية المالية ودفتر الأستاذ المالي
 ** Nexus Gaja Financial Transparency: ** نشر الهياكل المالية المجمعة. تتلقى التبرعات المخصصة المحاسبة الفنية (معرف الصندوق → الغرض → الرصيد → التخصيص). لا يوجد دعم متبادل للأغراض الاجتماعية في تسويق الشركات.
 
-### 6. نموذج التمويل القائم على التضامن
-يعتمد التسعير على التوجه نحو التكلفة والإنصاف والتضامن.
-**Solidarity Premium:** خيار تطوعي لمستخدمي Premium لتمويل جزء من وصول مستخدم آخر. يُمنع منعًا باتًا التضامن القسري أو مجتمع الطبقة المتميزة (احترام/اعتدال أقل للمستخدمين المجانيين).
+### 6. Solidarity-Based Financing Model
+Pricing is based on cost-orientation, fairness, and solidarity.
+**Solidarity Premium:** A voluntary option for Premium users to finance a portion of another user's access. Forced solidarity or a premium class society (less respect/moderation for free users) is strictly prohibited.
 
-### 7. مؤشرات الأداء الرئيسية الاقتصادية بدلاً من اقتصاد المشاركة
-لا يوجد اعتماد على إبقاء المستخدمين "متصلين بالإنترنت لأطول فترة ممكنة" (بدون ابتزاز أو خلاصات لا نهائية).
-وبدلاً من ذلك، نستخدم مقاييس مثل:
-- **مؤشر الاتصال العالمي (GCI):** علاقات التواصل الناجحة بين الأشخاص من مناطق لغوية/ثقافية مختلفة.
-- **نسبة استدامة النظام الأساسي (PSR):** الإيرادات المتكررة / تكاليف التشغيل المتكررة (الهدف ≥ 1).
+### 7. Economic KPIs Instead of Engagement Economy
+No dependence on keeping users "online as long as possible" (no ragebait, infinite feeds).
+Instead, we use metrics like:
+- **Global Communication Index (GCI):** Successful communication relationships between people from different linguistic/cultural regions.
+- **Platform Sustainability Ratio (PSR):** Recurring revenue / recurring operating costs (Target ≥ 1).
 
-### 8. ما لا نريده صراحةً (القائمة السلبية)
-لا يتم تمويل Nexus Gaja من خلال:
-❌ بيع البيانات الشخصية
-❌ إعلانات تقليدية مخصصة
-❌ مراقبة سلوك المستخدم لأغراض إعلانية
-❌ بيع بيانات التواصل الخاصة
-❌ استخدام بيانات الذكاء الاصطناعي المخفية
-❌ نظام حظر الاشتراك غير المدفوع المتميز المتلاعب
-❌ تقييد الوصول الاصطناعي لتحقيق الدخل
-❌ التأثير السياسي المدفوع
-❌ شراء قرارات الاعتدال المميزة.
+### 8. What We Explicitly Do Not Want (Negative List)
+Nexus Gaja is **not** financed by:
+❌ Sale of personal data
+❌ Personalized traditional advertising
+❌ Monitoring user behavior for advertising purposes
+❌ Sale of private communication data
+❌ Hidden AI data usage
+❌ Manipulative Premium paywalls
+❌ Artificial reach restriction for monetization
+❌ Paid political influence
+❌ Purchase of privileged moderation decisions.
 
 ### 9. الهيكل المالي الأولي
 ```نص
@@ -282,7 +293,7 @@ Rules (Policy Engine) are not hardcoded into the AI models. The AI provides find
 
 ## واجهة برمجة التطبيقات والواجهات وهندسة الاتصالات (WP 1.11.3)
 
-To ensure system stability, security, and scalability, Nexus Gaja follows a strictly API-first and event-driven architecture. 
+لضمان استقرار النظام وأمانه وقابلية التوسع، يتبع Nexus Gaja بنية واجهة برمجة التطبيقات (API) الأولى والمبنية على الأحداث بشكل صارم.
 
 ### المبادئ الأساسية
 - **لا يوجد وصول مباشر إلى قاعدة البيانات:** تتواصل المكونات حصريًا عبر واجهات محددة (واجهات برمجة التطبيقات أو الأحداث)، وليس من خلال استعلامات قاعدة البيانات المباشرة للخدمات الأخرى.
@@ -294,13 +305,15 @@ To ensure system stability, security, and scalability, Nexus Gaja follows a stri
 - **الأحداث غير المتزامنة (حافلة الأحداث):** الجهاز العصبي المركزي في Nexus Gaja للمعالجة المؤجلة والمنفصلة (على سبيل المثال، `Message.Created` يؤدي إلى الإشراف والترجمة والإشعار بشكل غير متزامن).
 - **الوقت الفعلي (WebSocket):** قنوات مخصصة للدردشة المباشرة ومؤشرات الكتابة.
 
-### Security and Reliability
-- **Zero-Trust Model:** Internal network traffic is not automatically trusted; sensitive service-to-service communication requires authentication.
-- **Idempotency & Outbox Pattern:** Critical operations (like donations or messaging) are designed to be idempotent to prevent duplicate processing, utilizing the Outbox pattern to ensure events are never lost even during database transactions.
+### الأمان والموثوقية
+- **نموذج الثقة المعدومة:** لا يتم الوثوق بحركة مرور الشبكة الداخلية تلقائيًا؛ يتطلب الاتصال الحساس من خدمة إلى خدمة المصادقة.
+- **العجز ونمط صندوق الصادر:** تم تصميم العمليات الحرجة (مثل التبرعات أو الرسائل) لتكون غير فعالة لمنع المعالجة المكررة، وذلك باستخدام نمط صندوق الصادر لضمان عدم فقدان الأحداث مطلقًا حتى أثناء معاملات قاعدة البيانات.
 
-## نموذج المجال MVP (WP 1.12)
+## MVP Domain Model (WP 1.12)
 
-يستخدم Nexus Gaja بنية MVP المعتمدة على المجال (ADR-025)، والتي تم تصميمها لتكون وحدة متراصة معيارية ذات حدود مجال واضحة. تمنع هذه البنية التعقيد المبكر للخدمات الصغيرة مع الاحتفاظ بالمرونة اللازمة لتقسيم نطاقات محددة لاحقًا.
+![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
+
+Nexus Gaja employs a strictly Domain-Driven MVP Architecture (ADR-025), designed as a modular monolith with clear domain boundaries. This structure prevents premature microservice complexity while retaining the flexibility to split out specific domains later.
 
 ### كيانات المجال الأساسية
 تفصل البنية بوضوح بين المفاهيم المميزة لضمان تكامل البيانات وتجنب المخاطر الهيكلية مثل "اسم المستخدم = الإنسان":

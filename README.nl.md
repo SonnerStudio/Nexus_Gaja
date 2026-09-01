@@ -2,6 +2,8 @@
 
 ![Nexus Gaja-logo](assets/logo.jpg)
 
+![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
 
@@ -9,9 +11,12 @@
 
 </details>
 
-**Nexus Gaja** is een intelligent, contextgevoelig communicatienetwerk dat is ontworpen om een ​​revolutie teweeg te brengen in de wereldwijde communicatie.
+**Nexus Gaja** is an intelligent, context-sensitive communication network designed to revolutionize global communication.
 
 ## Doel en visie
+
+![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
+
 In een geglobaliseerde wereld is taal vaak de grootste barrière. Het belangrijkste doel van Nexus Gaja is om naadloze, barrièrevrije en contextueel nauwkeurige communicatie tussen mensen mogelijk te maken, ongeacht of ze een gemeenschappelijke taal spreken.
 
 Het gaat niet alleen om het rigide vertalen van woorden, maar om het **overbrengen van betekenis**. Nexus Gaja verbindt mensen op een dieper niveau door culturele, regionale en contextuele nuances te begrijpen, waardoor echte, authentieke gesprekken mogelijk worden.
@@ -24,6 +29,8 @@ Het gaat niet alleen om het rigide vertalen van woorden, maar om het **overbreng
 ---
 
 ## Technische Architectuur (Kernconcept)
+
+![Nexus Gaja Vertaalconcept](assets/img/nexus_translation.jpg)
 
 De technische kern van Nexus Gaja is een op maat gemaakt communicatiemodel dat strikt in drie lagen is verdeeld:
 
@@ -38,7 +45,9 @@ Vertalingen in Nexus Gaja bekijken berichten nooit afzonderlijk. De engine houdt
 ### Efficiëntie door vertaling op aanvraag
 De vertaling gebeurt alleen op hulpbronnenefficiënte wijze **op verzoek** (on-demand). Wanneer een gebruiker inhoud opvraagt, wordt deze vertaald in de vooraf ingestelde taal. Zodra een vertaling voor een specifieke taal is gegenereerd, wordt deze permanent opgeslagen (caching) om toekomstige verzoeken drastisch te versnellen.
 
-## AI-ondersteunde moderatie (WP 1.8.4)
+## AI-Assisted Moderation (WP 1.8.4)
+
+![Nexus Gaja AI-moderatie](assets/img/nexus_moderation.jpg)
 
 Met AI-Assisted Moderation zetten we een belangrijke stap van productidee naar technische architectuur, rekening houdend met de huidige EU-regelgeving (transparantievereisten van de EU AI-wet onder artikel 50; Wet op digitale diensten met begrijpelijke rechtvaardigingen en beroepsmogelijkheden).
 
@@ -51,39 +60,39 @@ We onderscheiden drie niveaus:
 - **Beslissing:** "Welke actie wordt er feitelijk ondernomen?"
 In ernstige gevallen moet het derde niveau door een mens worden gecontroleerd.
 
-### 2. De moderatie-AI als subsysteem
-In plaats van één enkele AI wordt een robuust subsysteem opgezet:
-```tekst
-                 NEXUS GAJA AI MODERATIE
+### 2. The Moderation AI as a Subsystem
+Instead of a single AI, a robust subsystem is established:
+```text
+                 NEXUS GAJA AI MODERATION
                           │
        ┌──────────────────┼──────────────────┐
-       │ │ │
-  Taal AI Veiligheid AI Fraude AI
-       │ │ │
+       │                  │                  │
+  Language AI        Safety AI          Fraud AI
+       │                  │                  │
        ├──────────────┬───┴──────────────┬───┤
-       │ │ │
- Vertaalgedrag Identiteit
- Analyse Analysesignalen
-       │ │ │
+       │              │                  │
+ Translation      Behaviour          Identity
+ Analysis         Analysis            Signals
+       │              │                  │
        └──────────────┼──────────────────┘
                       ▼
-               Risicobeoordeling
+               Risk Assessment
                       │
                       ▼
-               Menselijke beoordeling
+               Human Review
 ```
 
-### 3. The Most Important AI Modules
-Nexus Gaja utilizes nine specialized analysis areas:
-- **M1 – Language Understanding**: Detects language, dialect, slang, irony indicators, translation issues.
-- **M2 – Toxicity / Abuse Detection**: Detects insults, personal attacks, harassment.
-- **M3 – Threat Detection**: Detects potential threats, blackmail, violence announcements.
-- **M4 – Hate / Dehumanization Detection**: Detects targeted attacks on people based on specific affiliations.
-- **M5 – Spam / Manipulation Detection**: Detects spam, bot behavior, coordinated manipulation.
-- **M6 – Fraud Detection**: Detects suspicious fraud attempts, phishing, social engineering.
-- **M7 – Identity Integrity**: Checks signals regarding account takeovers, multiple accounts, ban evasion.
-- **M8 – Media Safety**: Analyzes images, audio, video, documents.
-- **M9 – Context Engine**: The most important module. It merges the individual findings.
+### 3. De belangrijkste AI-modules
+Nexus Gaja maakt gebruik van negen gespecialiseerde analysegebieden:
+- **M1 – Taalbegrip**: Detecteert taal, dialect, slang, ironie-indicatoren, vertaalproblemen.
+- **M2 – Detectie van toxiciteit/misbruik**: Detecteert beledigingen, persoonlijke aanvallen en intimidatie.
+- **M3 – Bedreigingsdetectie**: Detecteert potentiële bedreigingen, chantage en aankondigingen van geweld.
+- **M4 – Detectie van haat/ontmenselijking**: Detecteert gerichte aanvallen op mensen op basis van specifieke voorkeuren.
+- **M5 – Spam-/manipulatiedetectie**: detecteert spam, botgedrag en gecoördineerde manipulatie.
+- **M6 – Fraudedetectie**: Detecteert verdachte fraudepogingen, phishing, social engineering.
+- **M7 – Identiteitsintegriteit**: Controleert signalen met betrekking tot accountovernames, meerdere accounts, ontduiking van verboden.
+- **M8 – Mediaveiligheid**: analyseert afbeeldingen, audio, video en documenten.
+- **M9 – Context Engine**: de belangrijkste module. Het voegt de afzonderlijke bevindingen samen.
 
 ### 4. Waarom de Context Engine cruciaal is
 Een puur zoeken op trefwoord zou onvoldoende zijn. 'Ik zou hem kunnen vermoorden door te lachen' bevat semantisch geweld, maar is stijlfiguur. "Morgen om 20.00 uur schiet ik hem voor zijn huis neer" is een heel andere situatie. De AI moet begrijpen wat de verklaring in zijn specifieke context betekent.
@@ -97,8 +106,8 @@ Origineel en vertaling worden afzonderlijk geanalyseerd. Alleen dan vindt de ‘
 ### 7. Vertrouwensscore
 Elke AI-evaluatie krijgt een betrouwbaarheidsscore (bijvoorbeeld dreigingskans: 0,96). Echter: **Vertrouwensscore ≠ Waarheid.** Een score van 96% betekent alleen dat het model zeer zeker is van zijn classificatie, niet noodzakelijkerwijs dat de gebruiker schuldig is.
 
-### 8. Onzekerheid wordt zelf een signaal
-Als de AI onzeker is (bijvoorbeeld dreiging: 0,62, satire: 0,54), mag deze niet simpelweg harde regels afdwingen. In plaats daarvan is onzekerheid rechtstreeks in de architectuur ingebouwd: **Menselijke beoordeling vereist**.
+### 8. Uncertainty Becomes a Signal Itself
+If the AI is uncertain (e.g., Threat: 0.62, Satire: 0.54), it must not simply enforce harsh rules. Instead, uncertainty is built directly into the architecture: **Human Review Required**.
 
 ### 9. Vier beslissingszones
 - 🟢 **GROEN**: Zeer waarschijnlijk conform. → geen actie.
@@ -127,26 +136,26 @@ Volgens de transparantieregels van de EU AI Act (van kracht vanaf augustus 2026)
 ### 16. Deepfake-detectie
 De architectuur is bedoeld om synthetische beelden, gekloonde stemmen en deepfakes te detecteren. Detectie is echter niet automatisch bewijs.
 
-### 17. No Automatic "Truth Machine" (Moderation ≠ Fact Checking)
-One system checks: "Does the content violate rules?" (Content Moderation), another provides: "What information and sources are available?" (Information Assistance). Opinions are not simply deleted for being "wrong."
+### 17. Geen automatische ‘waarheidsmachine’ (moderatie ≠ feitencontrole)
+Eén systeem controleert: "Schendt de inhoud de regels?" (Contentmoderatie), zegt een ander: "Welke informatie en bronnen zijn beschikbaar?" (Informatiehulp). Meningen worden niet simpelweg verwijderd omdat ze ‘fout’ zijn.
 
-### 18. Protection Against Cultural Misinterpretation
-The AI requires **Cultural Context Models** to prevent the communication norms of one country from being assumed as a global standard.
+### 18. Bescherming tegen culturele misinterpretatie
+De AI heeft **Culturele Contextmodellen** nodig om te voorkomen dat de communicatienormen van één land als mondiale standaard worden aangenomen.
 
 ### 19. Irony, Satire, and Humor
 The AI uses context, emojis, conversation history, and known irony structures, but must allow for uncertainty when meanings are ambiguous.
 
-### 20. Geen straf gebaseerd op een enkele AI-score
-Geen enkele ernstige moderatie-interventie mag uitsluitend gebaseerd zijn op een enkel geautomatiseerd classificatieresultaat (Tekst + Context + Gedrag + Taal + Media + Regelengine = Risicobeoordeling).
+### 20. No Punishment Based on a Single AI Score
+No severe moderation intervention may be based solely on a single automated classification result (Text + Context + Behaviour + Language + Media + Rule Engine = Risk Assessment).
 
 ### 21. Signalen van gebruikersgedrag en geen sociaal kredietsysteem
 Dit heeft betrekking op signalen van technisch misbruik (bijvoorbeeld het massaal posten van spam), en niet op een algemeen sociaal beoordelingssysteem. Nexus Gaja hanteert geen sociaal kredietsysteem – gematigdheid dient de veiligheid, niet de beoordeling van iemands waarde.
 
-### 22. Moderatie-AI moet controleerbaar zijn
-Alle relevante geautomatiseerde beslissingen worden geregistreerd (Event-ID, Rule-ID, Confidence, Human-Review, etc.) om de traceerbaarheid te garanderen.
+### 22. Moderation AI Must Be Auditable
+All relevant automated decisions are logged (Event-ID, Rule-ID, Confidence, Human-Review, etc.) to ensure traceability.
 
-### 23. Valse positieven, valse negatieven en kwaliteitsstatistieken
-Fouttypen worden gecontroleerd. Een dashboard meet precisie, herinnering en vooral het **Beroepsomkeringspercentage** (aantal succesvolle beroepen).
+### 23. False Positives, False Negatives & Quality Metrics
+Error types are monitored. A dashboard measures Precision, Recall, and especially the **Appeal Reversal Rate** (number of successful appeals).
 
 ### 24. Taalgelijkheid en vertaalbias
 De moderatiekwaliteit moet vergelijkbaar zijn in alle ondersteunde talen (Multilingual Moderation Benchmark). Als de moderatieresultaten verschillen tussen het origineel en de vertaling (Vertaalconflict), moet dit specifiek worden beoordeeld.
@@ -154,19 +163,21 @@ De moderatiekwaliteit moet vergelijkbaar zijn in alle ondersteunde talen (Multil
 ### 25. Architectuurvoorstel en beleidsengine
 Regels (Policy Engine) zijn niet hardgecodeerd in de AI-modellen. De AI levert bevindingen; de Policy Engine beslist op basis van de huidige regels. Hierdoor zijn **modelwijzigingen mogelijk zonder regelwijzigingen**.
 
-### 26. De mens blijft de uiteindelijke autoriteit
-- **NG-AI-MOD-001**: De AI helpt bij detectie en classificatie, maar vervangt niet de menselijke beoordeling bij ernstige beslissingen.
-- **NG-AI-MOD-002**: Geautomatiseerde moderatiebeslissingen moeten traceerbaar, logbaar en verifieerbaar zijn.
+### 26. The Human Remains the Final Authority
+- **NG-AI-MOD-001**: The AI assists in detection and classification, but does not replace human review in severe decisions.
+- **NG-AI-MOD-002**: Automated moderation decisions must be traceable, loggable, and verifiable.
 
 **Samenvatting**: We bouwen een systeem in vier fasen: AI-detectie, context- en risicoanalyse, beleidsengine en menselijk bestuur. Dit maakt sterke automatisering mogelijk zonder dat er een gevaarlijke ‘AI as Judge’-architectuur ontstaat.
 
 ## Financieringsprincipes en verdienmodel (WP 1.10.1)
 
+![Nexus Gaja Finance-model](assets/img/nexus_finance.jpg)
+
 Voor Nexus Gaja geldt een zeer belangrijk economisch principe: **Geen traditionele advertenties binnen het platform.**
 Dit onderscheidt Nexus Gaja fundamenteel van veel van de hedendaagse sociale netwerken. Dit betekent echter niet dat Nexus Gaja geen commercieel karakter kan hebben. Integendeel, het platform moet economisch levensvatbaar zijn, zodat het sociale doel ervan kan blijven bestaan. Economische activiteit is een middel om een ​​doel te bereiken, niet het primaire doel van het platform.
 
-### 1. Principe NG-FIN-001
-Nexus Gaja financiert zijn activiteiten via transparante inkomstenstromen die gescheiden zijn van de interesses van gebruikers, en niet via het genereren van inkomsten uit de aandacht van zijn gebruikers of persoonlijke gegevens.
+### 1. Principle NG-FIN-001
+Nexus Gaja finances its operations through transparent revenue streams separated from user interests, and not through the monetization of its users' attention or personal data.
 
 ### 2. Geen traditionele reclame
 Specifiek verboden zijn:
@@ -208,9 +219,9 @@ Speciale accounts voor scholen, universiteiten, NGO's, bedrijven en gemeenten (*
 De **Nexus Gaja Funding Pool** accepteert algemene en geoormerkte donaties (bijvoorbeeld "voor internationale jeugdcommunicatie"). Een **Fund Allocation Ledger** zorgt voor een transparante toewijzing van fondsen.
 **Doelfonds & Tombola:** Een deel van de donaties voedt een pool voor gratis/met korting gebruik. Een loterij-/tombolamechanisme kan deze fondsen op transparante en controleerbare wijze toewijzen.
 
-#### Pillar 5 – Institutional Funding
-Foundations, cultural funding programs, or state programs.
-**NG-FIN-002:** Financial support does not buy editorial or technical control (Independence).
+#### Pijler 5 – Institutionele financiering
+Stichtingen, culturele financieringsprogramma's of staatsprogramma's.
+**NG-FIN-002:** Met financiële steun koopt u geen redactionele of technische controle (onafhankelijkheid).
 
 #### Pijler 6 – Commerciële dienstverlening
 B2B-diensten zoals **Translation-as-a-Service** (API), organisatorische communicatie of internationale vergaderruimtes, zonder de standaard gebruikersfeed te belasten.
@@ -218,8 +229,8 @@ B2B-diensten zoals **Translation-as-a-Service** (API), organisatorische communic
 ### 4. Geen data-inkomsten- en surveillance-economie
 **NG-FIN-003:** Persoonlijke gebruikersgegevens zijn geen handelswaar. Geen verkoop van lijsten, profielen of geschiedenissen. Nexus Gaja profiteert niet van psychologisch toezicht (Surveillance Economy).
 
-### 5. Financial Transparency & Fund Ledger
-**Nexus Gaja Financial Transparency:** Publication of aggregated financial structures. Earmarked donations receive technical accounting (Fund ID → Purpose → Balance → Allocation). No cross-subsidization of social purposes into corporate marketing.
+### 5. Financiële transparantie en fondsgrootboek
+**Nexus Gaja Financiële transparantie:** Publicatie van geaggregeerde financiële structuren. Voor geoormerkte donaties wordt een technische boekhouding uitgevoerd (Fonds-ID → Doel → Saldo → Toewijzing). Geen kruissubsidiëring van sociale doeleinden in bedrijfsmarketing.
 
 ### 6. Op solidariteit gebaseerd financieringsmodel
 De prijsstelling is gebaseerd op kostenoriëntatie, eerlijkheid en solidariteit.
@@ -294,11 +305,13 @@ Om systeemstabiliteit, veiligheid en schaalbaarheid te garanderen, volgt Nexus G
 - **Asynchrone gebeurtenissen (gebeurtenisbus):** Het centrale zenuwstelsel van Nexus Gaja voor vertraagde, ontkoppelde verwerking (bijvoorbeeld 'Message.Created' die moderatie, vertaling en melding asynchroon activeert).
 - **Realtime (WebSocket):** Speciale kanalen voor livechat en type-indicatoren.
 
-### Beveiliging en betrouwbaarheid
-- **Zero-Trust-model:** Intern netwerkverkeer wordt niet automatisch vertrouwd; gevoelige service-to-service-communicatie vereist authenticatie.
-- **Idempotentie en Outbox-patroon:** Kritieke bewerkingen (zoals donaties of berichten) zijn ontworpen om idempotent te zijn om dubbele verwerking te voorkomen, waarbij gebruik wordt gemaakt van het Outbox-patroon om ervoor te zorgen dat gebeurtenissen nooit verloren gaan, zelfs niet tijdens databasetransacties.
+### Security and Reliability
+- **Zero-Trust Model:** Internal network traffic is not automatically trusted; sensitive service-to-service communication requires authentication.
+- **Idempotency & Outbox Pattern:** Critical operations (like donations or messaging) are designed to be idempotent to prevent duplicate processing, utilizing the Outbox pattern to ensure events are never lost even during database transactions.
 
 ## MVP-domeinmodel (WP 1.12)
+
+![Nexus Gaja modulaire monoliet](assets/img/nexus_architecture.jpg)
 
 Nexus Gaja maakt gebruik van een strikt domeingestuurde MVP-architectuur (ADR-025), ontworpen als een modulaire monoliet met duidelijke domeingrenzen. Deze structuur voorkomt voortijdige complexiteit van microservices, terwijl de flexibiliteit behouden blijft om specifieke domeinen later op te splitsen.
 
@@ -312,6 +325,6 @@ De architectuur scheidt expliciet verschillende concepten om de gegevensintegrit
 ### Onderling verbonden domeinen
 Het systeem is verdeeld in duidelijke logische domeinen (begrensde contexten): identiteit, account, organisatie, communicatie, gemeenschap, taal, moderatie, kennisgeving, financiën en bestuur. Deze domeinen brengen het hele traject in kaart, van entiteiten uit de echte wereld (gebruikers, scholen, NGO's) tot hun digitale interacties en het daarmee samenhangende bestuur.
 
-## Projectstatus
-Het project bevindt zich momenteel in de actieve architectuur- en planningsfase.
-Lopende architecturale beslissingen worden gedocumenteerd in de map `/docs`.
+## Project Status
+The project is currently in the active architecture and planning phase.
+Ongoing architectural decisions are documented in the `/docs` folder.

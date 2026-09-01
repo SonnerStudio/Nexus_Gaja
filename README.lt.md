@@ -2,6 +2,8 @@
 
 ![Nexus Gaja logotipas](assets/logo.jpg)
 
+![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
 
@@ -12,6 +14,9 @@
 **Nexus Gaja** yra išmanus, kontekstui jautrus komunikacijos tinklas, sukurtas pakeisti pasaulinį bendravimą.
 
 ## Tikslas ir vizija
+
+![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
+
 Globalizuotame pasaulyje kalba dažnai yra didžiausia kliūtis. Pagrindinis „Nexus Gaja“ tikslas – užtikrinti sklandų, be kliūčių ir tikslų kontekstinį žmonių bendravimą, nepaisant to, ar jie kalba bendra kalba.
 
 Tai ne tik griežtas žodžių vertimas, bet ir **prasmės perkėlimas**. „Nexus Gaja“ sujungia žmones gilesniu lygmeniu, suprasdama kultūrinius, regioninius ir kontekstinius niuansus, taip įgalindama tikrus, autentiškus pokalbius.
@@ -25,6 +30,8 @@ Tai ne tik griežtas žodžių vertimas, bet ir **prasmės perkėlimas**. „Nex
 
 ## Techninė architektūra (pagrindinė koncepcija)
 
+![Nexus Gaja vertimo koncepcija](assets/img/nexus_translation.jpg)
+
 Techninė „Nexus Gaja“ šerdis yra pagal užsakymą sukurtas ryšio modelis, griežtai suskirstytas į tris sluoksnius:
 
 1. **Original**: siuntėjo sukurtas komunikacijos objektas (pranešimas) visada išlieka nepakitęs.
@@ -35,12 +42,14 @@ Techninė „Nexus Gaja“ šerdis yra pagal užsakymą sukurtas ryšio modelis,
 „Nexus Gaja“ vertimai niekada nežiūri pranešimų atskirai. Variklis atsižvelgia į visą hierarchiją:
 "Pranešimas" → "Ankstesni pranešimai" → "Gijos kontekstas" → "Bendruomenės kontekstas" → "Kalba / regionas" → "Naudotojo nuostatos"
 
-### Efektyvumas naudojant vertimą pagal pareikalavimą
-Vertimas atliekamas efektyviai naudojant išteklius tik **pareikalavus** (pagal poreikį). Kai vartotojas prašo turinio, jis išverčiamas į iš anksto nustatytą kalbą. Sukūrus konkrečios kalbos vertimą, jis išsaugomas visam laikui (talpykloje), kad būtų drastiškai paspartintas būsimų užklausų pateikimas.
+### Efficiency through On-Demand Translation
+Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.
 
-## AI padedamas moderavimas (WP 1.8.4)
+## AI-Assisted Moderation (WP 1.8.4)
 
-Naudodami AI padedamą moderavimą žengiame reikšmingą žingsnį nuo produkto idėjos iki techninės architektūros, atsižvelgdami į galiojančius ES reglamentus (ES AI įstatymo skaidrumo reikalavimus pagal 50 str.; Skaitmeninių paslaugų įstatymas su suprantamais pagrindimais ir apeliacijos galimybėmis).
+![Nexus Gaja AI Moderation](assets/img/nexus_moderation.jpg)
+
+With AI-Assisted Moderation, we are taking a significant step from product idea to technical architecture, taking into account current EU regulations (transparency requirements of the EU AI Act under Art. 50; Digital Services Act with comprehensible justifications and appeal options).
 
 ### 1. Pagrindinis principas
 Svarbiausias sakinys architektūrai yra toks: **Moderavimo AI yra peržiūros sistema, o ne autonominė valdymo sistema.**
@@ -51,26 +60,26 @@ Mes skiriame tris lygius:
 – **Sprendimas:** „Kokių veiksmų iš tikrųjų imamasi?
 Trečiąjį lygį sunkiais atvejais turi valdyti žmogus.
 
-### 2. Moderavimo AI kaip posistemė
-Vietoj vieno AI sukuriamas tvirtas posistemis:
-``` tekstas
-                 NEXUS GAJA AI MODERACIJA
+### 2. The Moderation AI as a Subsystem
+Instead of a single AI, a robust subsystem is established:
+```text
+                 NEXUS GAJA AI MODERATION
                           │
-       ┌─────────────────┼─────────────-──
-       │ │ │
-  Kalba AI sauga AI sukčiavimas AI
-       │ │ │
-       ├-
-       │ │ │
- Vertimo elgesio tapatybė
- Analizė Analizės signalai
-       │ │ │
-       └──────────────┼───────────────────
+       ┌──────────────────┼──────────────────┐
+       │                  │                  │
+  Language AI        Safety AI          Fraud AI
+       │                  │                  │
+       ├──────────────┬───┴──────────────┬───┤
+       │              │                  │
+ Translation      Behaviour          Identity
+ Analysis         Analysis            Signals
+       │              │                  │
+       └──────────────┼──────────────────┘
                       ▼
-               Rizikos vertinimas
+               Risk Assessment
                       │
                       ▼
-               Žmogaus apžvalga
+               Human Review
 ```
 
 ### 3. Svarbiausi AI moduliai
@@ -118,8 +127,8 @@ DSA reikalauja aiškių ir konkrečių priežasčių. AI pateikia struktūrizuot
 ### 13. AI neturi slapta keisti turinio
 **Moderuojantis AI niekada negali nepastebimai keisti originalaus turinio.** Automatinio taisymo, vertimo ar apibendrinimo metu originalas visada išsaugomas.
 
-### 14. AI-Generated Content
-We distinguish between: Human-created, AI-assisted, AI-generated, and AI-manipulated. This will become part of the content metadata.
+### 14. AI sukurtas turinys
+Skiriame: žmogaus sukurtą, dirbtinio intelekto padedamą, dirbtinio intelekto sukurtą ir dirbtinio intelekto manipuliuotą. Tai taps turinio metaduomenų dalimi.
 
 ### 15. AI turinio ir AI kilmės sluoksnio ženklinimas
 Pagal ES AI įstatymo skaidrumo taisykles (galioja 2026 m. rugpjūčio mėn.), dirbtinio intelekto sukurtas turinys turi būti identifikuojamas. Mes teikiame AI kilmės sluoksnį, kuriame saugomi metaduomenys (AI-Origin, Model, Timestamp, Human Review).
@@ -133,17 +142,17 @@ One system checks: "Does the content violate rules?" (Content Moderation), anoth
 ### 18. Protection Against Cultural Misinterpretation
 The AI requires **Cultural Context Models** to prevent the communication norms of one country from being assumed as a global standard.
 
-### 19. Irony, Satire, and Humor
-The AI uses context, emojis, conversation history, and known irony structures, but must allow for uncertainty when meanings are ambiguous.
+### 19. Ironija, satyra ir humoras
+AI naudoja kontekstą, jaustukus, pokalbių istoriją ir žinomas ironijos struktūras, tačiau turi leisti neapibrėžtumą, kai reikšmės yra dviprasmiškos.
 
-### 20. No Punishment Based on a Single AI Score
-No severe moderation intervention may be based solely on a single automated classification result (Text + Context + Behaviour + Language + Media + Rule Engine = Risk Assessment).
+### 20. Jokios bausmės remiantis vienu AI balu
+Jokia rimta moderavimo intervencija negali būti grindžiama tik vienu automatizuotu klasifikavimo rezultatu (tekstas + kontekstas + elgsena + kalba + medija + taisyklių variklis = rizikos vertinimas).
 
-### 21. User Behaviour Signals & No Social Credit System
-This relates to technical abuse signals (e.g., mass spam posting), not a general social rating system. Nexus Gaja does not maintain a Social Credit System – moderation serves security, not the assessment of a person's worth.
+### 21. Vartotojo elgesio signalai ir socialinio kredito sistemos nebuvimas
+Tai susiję su techninio piktnaudžiavimo signalais (pvz., masiniu šlamšto skelbimu), o ne su bendra socialinio įvertinimo sistema. „Nexus Gaja“ nepalaiko Socialinių kreditų sistemos – saikas tarnauja saugumui, o ne žmogaus vertės įvertinimui.
 
-### 22. Moderation AI Must Be Auditable
-All relevant automated decisions are logged (Event-ID, Rule-ID, Confidence, Human-Review, etc.) to ensure traceability.
+### 22. Saikingas AI turi būti tikrinamas
+Visi atitinkami automatizuoti sprendimai registruojami (Įvykio ID, Taisyklės ID, Pasitikėjimas, Žmogaus peržiūra ir kt.), kad būtų užtikrintas atsekamumas.
 
 ### 23. Klaidingi teigiami, klaidingi neigiami teiginiai ir kokybės metrika
 Klaidų tipai yra stebimi. Prietaisų skydelyje matuojamas tikslumas, atšaukimas ir ypač **apeliacijos atšaukimo rodiklis** (sėkmingų apeliacijų skaičius).
@@ -162,8 +171,10 @@ Taisyklės (politikos variklis) nėra užkoduotos dirbtinio intelekto modeliuose
 
 ## Finansavimo principai ir pajamų modelis (WP 1.10.1)
 
-„Nexus Gaja“ taikomas labai svarbus ekonominis principas: ** platformoje nėra tradicinės reklamos.**
-Tai iš esmės išskiria „Nexus Gaja“ iš daugelio šiuolaikinių socialinių tinklų. Tačiau tai nereiškia, kad „Nexus Gaja“ negali turėti komercinio pobūdžio. Priešingai, platforma turi būti ekonomiškai gyvybinga, kad jos socialinė paskirtis išliktų. Ekonominė veikla yra priemonė tikslui pasiekti, o ne pagrindinis platformos tikslas.
+![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
+
+For Nexus Gaja, a highly important economic principle applies: **No traditional advertising within the platform.**
+This fundamentally distinguishes Nexus Gaja from many of today's social networks. However, this does not mean that Nexus Gaja cannot have a commercial character. On the contrary, the platform must be economically viable so that its social purpose can endure. Economic activity is a means to an end, not the primary purpose of the platform.
 
 ### 1. Principas NG-FIN-001
 „Nexus Gaja“ finansuoja savo veiklą per skaidrius pajamų srautus, atskirtus nuo naudotojų interesų, o ne gaudama pajamų iš naudotojų dėmesio ar asmeninių duomenų.
@@ -176,7 +187,7 @@ Ypač draudžiami:
 - Remiami įrašai standartiniame sklaidos kanale
 - Personalizuoti reklamos profiliai
 - Vartotojų profilių ar asmens duomenų pardavimas
-- Advertising derived from private conversations.
+- Reklama, gauta iš privačių pokalbių.
 
 „Nexus Gaja“ išlieka **bendravimo, o ne reklamos erdve**.
 
@@ -202,11 +213,11 @@ Savanoriški mokami pasiūlymai (**Nexus Gaja Plus**), suteikiantys didesnius sa
 **Svarbu („Freemium“ vietoj „Dark Freemium“):** Pagrindinis ryšys niekada negali būti dirbtinai pablogintas.
 
 #### 3 ramstis – organizacijos
-Special accounts for schools, universities, NGOs, businesses, and municipalities (**Nexus Gaja Organization**). Schools can be supported via institutional rates as multipliers of international understanding.
+Specialios paskyros mokykloms, universitetams, NVO, įmonėms ir savivaldybėms (**Nexus Gaja Organization**). Mokyklos gali būti remiamos per institucinius tarifus kaip tarptautinio supratimo skleidėjams.
 
 #### 4 ramstis – aukos
-The **Nexus Gaja Funding Pool** accepts general and earmarked donations (e.g., "for international youth communication"). A **Fund Allocation Ledger** ensures transparent allocation of funds.
-**Purpose Fund & Tombola:** A portion of donations feeds a pool for free/discounted usage. A lottery/tombola mechanism can allocate these funds transparently and auditably.
+**Nexus Gaja finansavimo fondas** priima bendrąsias ir tikslines aukas (pvz., „tarptautiniam jaunimo bendravimui“). **Lėšų paskirstymo knyga** užtikrina skaidrų lėšų paskirstymą.
+**Tikslinis fondas ir „Tombola“:** dalis aukų suteikia galimybę nemokamai / su nuolaida naudotis. Loterijos/tombolo mechanizmas šias lėšas gali paskirstyti skaidriai ir audituojamai.
 
 #### 5 ramstis – institucijų finansavimas
 Fondai, kultūros finansavimo programos arba valstybinės programos.
@@ -282,23 +293,25 @@ Vietoj to naudojame tokias metrikas kaip:
 
 ## API, sąsajos ir komunikacijos architektūra (WP 1.11.3)
 
-Kad būtų užtikrintas sistemos stabilumas, saugumas ir mastelio keitimas, „Nexus Gaja“ griežtai laikosi API ir įvykiais pagrįstos architektūros.
+To ensure system stability, security, and scalability, Nexus Gaja follows a strictly API-first and event-driven architecture. 
 
-### Pagrindiniai principai
-– **Jokios tiesioginės prieigos prie duomenų bazės:** Komponentai bendrauja tik per apibrėžtas sąsajas (API arba įvykius), niekada neperduodant tiesioginių kitų paslaugų duomenų bazės užklausų.
-– **API šliuzas:** visos išorinio kliento užklausos nukreipiamos per API šliuzą, apdorojantį autentifikavimą, maršruto parinkimą ir greičio ribojimą.
-– **Teikėjo abstrakcija:** išorinės paslaugos (AI modeliai, mokėjimo paslaugų teikėjai, vertimo varikliai) yra integruotos per abstrakcijos sluoksnius, išvengiant koduotų priklausomybių ir leidžiant lanksčiai keisti teikėjus.
+### Core Principles
+- **No Direct Database Access:** Components communicate exclusively via defined interfaces (APIs or Events), never through direct database queries of other services.
+- **API Gateway:** All external client requests route through an API Gateway handling authentication, routing, and rate limiting.
+- **Provider Abstraction:** External services (AI models, payment providers, translation engines) are integrated via abstraction layers, avoiding hardcoded dependencies and enabling flexible provider swapping.
 
 ### Bendravimo modeliai
 – **Sinchroninės API (REST/HTTPS):** naudojamos tiesioginėms užklausoms, pvz., prisijungimui, profilio nustatymams ar tiesioginiams vertimams, pateikti.
 – **Asinchroniniai įvykiai (įvykių magistralė):** „Nexus Gaja“ centrinė nervų sistema, skirta atidėtam, atsietam apdorojimui (pvz., „Pranešimas.Sukurtas“, suaktyvinantis moderavimą, vertimą ir pranešimus asinchroniškai).
 – **Realiuoju laiku („WebSocket“):** specialūs kanalai, skirti tiesioginiam pokalbiui ir rašymo indikatoriams.
 
-### Saugumas ir patikimumas
-– **Nulinio pasitikėjimo modelis:** vidinio tinklo srautu nepasitikima automatiškai; jautriam paslaugų tarpusavio ryšiui reikalingas autentifikavimas.
-- **Idempotency & Outbox Pattern:** ypatingos svarbos operacijos (pvz., aukojimas ar pranešimų siuntimas) yra sukurtos taip, kad būtų efektyvios, kad būtų išvengta dubliavimo, naudojant Siunčiamosios dėžutės šabloną, kad įvykiai niekada nebūtų prarasti net duomenų bazės operacijų metu.
+### Security and Reliability
+- **Zero-Trust Model:** Internal network traffic is not automatically trusted; sensitive service-to-service communication requires authentication.
+- **Idempotency & Outbox Pattern:** Critical operations (like donations or messaging) are designed to be idempotent to prevent duplicate processing, utilizing the Outbox pattern to ensure events are never lost even during database transactions.
 
 ## MVP domeno modelis (WP 1.12)
+
+![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
 
 „Nexus Gaja“ naudoja griežtai domenu pagrįstą MVP architektūrą (ADR-025), sukurtą kaip modulinis monolitas su aiškiomis domeno ribomis. Ši struktūra apsaugo nuo ankstyvo mikropaslaugų sudėtingumo ir išlaiko lankstumą vėliau atskirti konkrečius domenus.
 

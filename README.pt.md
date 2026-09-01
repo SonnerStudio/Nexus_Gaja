@@ -1,6 +1,8 @@
 # Nexus Gaja
 
-![Nexus Gaja Logo](assets/logo.jpg)
+![Logotipo do Nexus Gaja](assets/logo.jpg)
+
+![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
 
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
@@ -12,9 +14,12 @@
 **Nexus Gaja** é uma rede de comunicação inteligente e sensível ao contexto, projetada para revolucionar a comunicação global.
 
 ## Objetivo e Visão
+
+![Visão Nexus Gaja](assets/img/nexus_vision.jpg)
+
 Num mundo globalizado, a língua é muitas vezes a maior barreira. O principal objetivo do Nexus Gaja é permitir uma comunicação contínua, sem barreiras e contextualmente precisa entre as pessoas, independentemente de elas falarem um idioma comum.
 
-It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
+Não se trata apenas de traduzir palavras rigidamente, mas de **transferir significado**. Nexus Gaja conecta pessoas em um nível mais profundo, compreendendo nuances culturais, regionais e contextuais, permitindo assim conversas genuínas e autênticas.
 
 ## Possibilidades e recursos
 - **Comunicação Multimídia**: O sistema processa não apenas texto, mas também imagem, áudio e vídeo. Isso permite conversas totalmente envolventes (por exemplo, chamadas de vídeo ou mensagens de voz) em tempo real, ultrapassando barreiras linguísticas.
@@ -25,11 +30,13 @@ It's not just about rigidly translating words, but about **transferring meaning*
 
 ## Arquitetura Técnica (Conceito Central)
 
+![Conceito de tradução do Nexus Gaja](assets/img/nexus_translation.jpg)
+
 O núcleo técnico do Nexus Gaja é um modelo de comunicação personalizado estritamente dividido em três camadas:
 
-1. **Original**: The communication object (message) created by the sender always remains immutable.
-2. **Semantic Interpretation**: The system analyzes not just the words, but the actual meaning.
-3. **Target Language Representation**: The AI merely creates a temporary or cached representation of the original for the respective recipient based on their preferred language. Translations never overwrite the original message.
+1. **Original**: O objeto de comunicação (mensagem) criado pelo remetente permanece sempre imutável.
+2. **Interpretação Semântica**: O sistema analisa não apenas as palavras, mas o significado real.
+3. **Representação no idioma de destino**: A IA apenas cria uma representação temporária ou em cache do original para o respectivo destinatário com base no idioma de sua preferência. As traduções nunca substituem a mensagem original.
 
 ### Dependência de Contexto
 As traduções no Nexus Gaja nunca visualizam as mensagens isoladamente. O mecanismo considera toda a hierarquia:
@@ -39,6 +46,8 @@ As traduções no Nexus Gaja nunca visualizam as mensagens isoladamente. O mecan
 A tradução ocorre com eficiência de recursos apenas **mediante solicitação** (sob demanda). Quando um usuário solicita conteúdo, ele é traduzido para o idioma predefinido. Depois que uma tradução para um idioma específico é gerada, ela é armazenada permanentemente (cache) para acelerar drasticamente solicitações futuras.
 
 ## Moderação assistida por IA (WP 1.8.4)
+
+![Moderação de IA do Nexus Gaja](assets/img/nexus_moderation.jpg)
 
 Com a Moderação Assistida por IA, estamos a dar um passo significativo desde a ideia do produto até à arquitectura técnica, tendo em conta os regulamentos actuais da UE (requisitos de transparência da Lei da IA ​​da UE ao abrigo do Art. 50; Lei dos Serviços Digitais com justificações compreensíveis e opções de recurso).
 
@@ -73,17 +82,17 @@ Em vez de uma única IA, é estabelecido um subsistema robusto:
                Revisão Humana
 ```
 
-### 3. Os módulos de IA mais importantes
-Nexus Gaja utiliza nove áreas de análise especializadas:
-- **M1 – Compreensão do idioma**: detecta idioma, dialeto, gíria, indicadores de ironia, problemas de tradução.
-- **M2 – Detecção de toxicidade/abuso**: Detecta insultos, ataques pessoais, assédio.
-- **M3 – Detecção de ameaças**: Detecta possíveis ameaças, chantagens e anúncios de violência.
-- **M4 – Detecção de ódio/desumanização**: detecta ataques direcionados a pessoas com base em afiliações específicas.
-- **M5 – Detecção de Spam/Manipulação**: Detecta spam, comportamento de bot, manipulação coordenada.
-- **M6 – Detecção de fraude**: detecta tentativas suspeitas de fraude, phishing e engenharia social.
-- **M7 – Integridade de Identidade**: Verifica sinais sobre invasão de conta, múltiplas contas, evasão de banimento.
-- **M8 – Segurança de Mídia**: Analisa imagens, áudio, vídeo, documentos.
-- **M9 – Context Engine**: O módulo mais importante. Ele mescla as descobertas individuais.
+### 3. The Most Important AI Modules
+Nexus Gaja utilizes nine specialized analysis areas:
+- **M1 – Language Understanding**: Detects language, dialect, slang, irony indicators, translation issues.
+- **M2 – Toxicity / Abuse Detection**: Detects insults, personal attacks, harassment.
+- **M3 – Threat Detection**: Detects potential threats, blackmail, violence announcements.
+- **M4 – Hate / Dehumanization Detection**: Detects targeted attacks on people based on specific affiliations.
+- **M5 – Spam / Manipulation Detection**: Detects spam, bot behavior, coordinated manipulation.
+- **M6 – Fraud Detection**: Detects suspicious fraud attempts, phishing, social engineering.
+- **M7 – Identity Integrity**: Checks signals regarding account takeovers, multiple accounts, ban evasion.
+- **M8 – Media Safety**: Analyzes images, audio, video, documents.
+- **M9 – Context Engine**: The most important module. It merges the individual findings.
 
 ### 4. Por que o mecanismo de contexto é crucial
 Uma pesquisa pura por palavra-chave seria insuficiente. "Eu poderia matá-lo de tanto rir" contém semanticamente violência, mas é uma figura de linguagem. “Amanhã às 20h vou atirar nele na frente da casa dele” é uma situação completamente diferente. A IA deve compreender o que a afirmação significa no seu contexto específico.
@@ -97,35 +106,35 @@ Original e tradução são analisados separadamente. Só então ocorre a “Aval
 ### 7. Pontuação de confiança
 Cada avaliação de IA recebe uma pontuação de confiança (por exemplo, Probabilidade de ameaça: 0,96). No entanto: **Pontuação de confiança ≠ Verdade.** Uma pontuação de 96% significa apenas que o modelo está altamente certo de sua classificação, não necessariamente que o usuário seja culpado.
 
-### 8. Uncertainty Becomes a Signal Itself
-If the AI is uncertain (e.g., Threat: 0.62, Satire: 0.54), it must not simply enforce harsh rules. Instead, uncertainty is built directly into the architecture: **Human Review Required**.
+### 8. A incerteza se torna um sinal em si
+Se a IA for incerta (por exemplo, Ameaça: 0,62, Sátira: 0,54), ela não deve simplesmente impor regras severas. Em vez disso, a incerteza é incorporada diretamente na arquitetura: **É necessária revisão humana**.
 
-### 9. Four Decision Zones
-- 🟢 **GREEN**: Highly likely compliant. → no action.
-- 🟡 **YELLOW**: Possible violation. → monitor / provide a warning if necessary.
-- 🟠 **ORANGE**: Probable violation. → moderation review.
-- 🔴 **RED**: Severe possible violation. → immediate protective measure + human review.
+### 9. Quatro zonas de decisão
+- 🟢 **VERDE**: Altamente compatível. → nenhuma ação.
+- 🟡 **AMARELO**: Possível violação. → monitorar/fornecer um aviso, se necessário.
+- 🟠 **LARANJA**: Provável violação. → revisão de moderação.
+- 🔴 **VERMELHO**: Possível violação grave. → medida protetiva imediata + revisão humana.
 
-### 10. No "AI Punishment"
-**The AI imposes no final sanctions.** It can trigger technical immediate measures (e.g., temporarily holding back a message) for severe security concerns, but the final decision remains verifiable.
+### 10. Sem "punição de IA"
+**A IA não impõe sanções finais.** Ela pode desencadear medidas técnicas imediatas (por exemplo, reter temporariamente uma mensagem) para questões graves de segurança, mas a decisão final permanece verificável.
 
-### 11. Protective Measures Can Occur Automatically
-In the event of a concrete threat (Threat detected → High confidence → Temporary restriction → Human review → Decision), we protect the threatened user without turning the AI into a judge.
+### 11. Medidas de proteção podem ocorrer automaticamente
+No caso de uma ameaça concreta (Ameaça detectada → Alta confiança → Restrição temporária → Revisão humana → Decisão), protegemos o usuário ameaçado sem transformar a IA em juiz.
 
 ### 12. The AI Must Be Able to Justify Its Decisions
 The DSA requires clear and specific reasons. The AI provides structured reasoning: Rule (NG-CONDUCT-004), Detected (Potential concrete threat), Confidence (0.94), Relevant context (Previous 4 messages), Recommended action (Human review).
 
-### 13. A IA não deve alterar secretamente o conteúdo
-**Moderação AI nunca deve alterar o conteúdo original despercebido.** Durante a correção, tradução ou resumo automático, o original é sempre preservado.
+### 13. AI Must Not Secretly Alter Content
+**Moderation AI must never alter the original content unnoticed.** During automatic correction, translation, or summarization, the original is always preserved.
 
-### 14. Conteúdo gerado por IA
-Distinguimos entre: criados por humanos, assistidos por IA, gerados por IA e manipulados por IA. Isso se tornará parte dos metadados de conteúdo.
+### 14. AI-Generated Content
+We distinguish between: Human-created, AI-assisted, AI-generated, and AI-manipulated. This will become part of the content metadata.
 
-### 15. Rotulagem de conteúdo de IA e camada de proveniência de IA
-De acordo com as regras de transparência da Lei de IA da UE (em vigor em agosto de 2026), o conteúdo gerado por IA deve ser identificável. Fornecemos uma camada de proveniência de IA que armazena metadados (AI-Origin, Model, Timestamp, Human Review).
+### 15. Labeling of AI Content & AI Provenance Layer
+According to the transparency rules of the EU AI Act (effective August 2026), AI-generated content must be identifiable. We provide an AI Provenance Layer that stores metadata (AI-Origin, Model, Timestamp, Human Review).
 
-### 16. Detecção de Deepfake
-A arquitetura visa detectar imagens sintéticas, vozes clonadas e deepfakes. No entanto, a detecção não é uma prova automática.
+### 16. Deepfake Detection
+The architecture aims to detect synthetic images, cloned voices, and deepfakes. However, detection is not automatically proof.
 
 ### 17. Nenhuma "máquina da verdade" automática (moderação ≠ verificação de fatos)
 Um sistema verifica: “O conteúdo viola as regras?” (Moderação de Conteúdo), outro fornece: “Quais informações e fontes estão disponíveis?” (Auxílio à Informação). As opiniões não são simplesmente excluídas por estarem “erradas”.
@@ -162,23 +171,25 @@ As regras (mecanismo de política) não são codificadas nos modelos de IA. A IA
 
 ## Princípios de Financiamento e Modelo de Receita (WP 1.10.1)
 
+![Modelo Financeiro Nexus Gaja](assets/img/nexus_finance.jpg)
+
 Para o Nexus Gaja, aplica-se um princípio econômico altamente importante: **Nenhuma publicidade tradicional na plataforma.**
 Isto distingue fundamentalmente o Nexus Gaja de muitas das redes sociais atuais. No entanto, isso não significa que o Nexus Gaja não possa ter caráter comercial. Pelo contrário, a plataforma deve ser economicamente viável para que o seu propósito social possa perdurar. A atividade económica é um meio para um fim, não o objetivo principal da plataforma.
 
 ### 1. Princípio NG-FIN-001
 Nexus Gaja financia suas operações por meio de fluxos de receitas transparentes, separados dos interesses dos usuários, e não por meio da monetização da atenção ou dos dados pessoais de seus usuários.
 
-### 2. Sem publicidade tradicional
-Especificamente proibidos são:
-- Banners publicitários
-- Anúncios pop-up
-- Anúncios em vídeo de reprodução automática
-- Postagens patrocinadas no feed padrão
-- Perfis de publicidade personalizados
-- Venda de perfis de usuários ou dados pessoais
-- Publicidade derivada de conversas privadas.
+### 2. No Traditional Advertising
+Specifically prohibited are:
+- Banner ads
+- Pop-up ads
+- Auto-playing video ads
+- Sponsored posts in the standard feed
+- Personalized advertising profiles
+- Sale of user profiles or personal data
+- Advertising derived from private conversations.
 
-Nexus Gaja continua sendo um **espaço de comunicação em vez de um espaço publicitário**.
+Nexus Gaja remains a **communication space rather than an advertising space**.
 
 ### 3. Financiamento sem publicidade (os 6 pilares)
 O financiamento assenta em seis pilares:
@@ -208,9 +219,9 @@ Contas especiais para escolas, universidades, ONGs, empresas e municípios (**Ne
 O **Nexus Gaja Funding Pool** aceita doações gerais e destinadas (por exemplo, "para comunicação internacional de jovens"). Um **Ledger de Alocação de Fundos** garante uma alocação transparente de fundos.
 **Fundo Propósito e Tômbola:** Uma parte das doações alimenta um pool para uso gratuito/com desconto. Um mecanismo de lotaria/tômbola pode atribuir estes fundos de forma transparente e auditável.
 
-#### Pillar 5 – Institutional Funding
-Foundations, cultural funding programs, or state programs.
-**NG-FIN-002:** Financial support does not buy editorial or technical control (Independence).
+#### Pilar 5 – Financiamento Institucional
+Fundações, programas de financiamento cultural ou programas estaduais.
+**NG-FIN-002:** O apoio financeiro não compra controle editorial ou técnico (Independência).
 
 #### Pilar 6 – Serviços Comerciais
 Serviços B2B como **Tradução como serviço** (API), comunicação organizacional ou salas de conferência internacionais, sem sobrecarregar o feed padrão do usuário.
@@ -231,58 +242,58 @@ Em vez disso, usamos métricas como:
 - **Índice de Comunicação Global (GCI):** Relações de comunicação bem-sucedidas entre pessoas de diferentes regiões linguísticas/culturais.
 - **Índice de Sustentabilidade da Plataforma (PSR):** Receita recorrente / custos operacionais recorrentes (Meta ≥ 1).
 
-### 8. What We Explicitly Do Not Want (Negative List)
-Nexus Gaja is **not** financed by:
-❌ Sale of personal data
-❌ Personalized traditional advertising
-❌ Monitoring user behavior for advertising purposes
-❌ Sale of private communication data
-❌ Hidden AI data usage
-❌ Manipulative Premium paywalls
-❌ Artificial reach restriction for monetization
-❌ Paid political influence
-❌ Purchase of privileged moderation decisions.
+### 8. O que explicitamente não queremos (lista negativa)
+Nexus Gaja **não** é financiado por:
+❌ Venda de dados pessoais
+❌ Publicidade tradicional personalizada
+❌ Monitoramento do comportamento do usuário para fins publicitários
+❌ Venda de dados de comunicação privada
+❌ Uso oculto de dados de IA
+❌ Paywalls Premium manipulativos
+❌ Restrição de alcance artificial para monetização
+❌ Influência política paga
+❌ Compra de decisões de moderação privilegiadas.
 
-### 9. Arquitetura Financeira Preliminar
-```texto
-                         NEXO GAJA
+### 9. Preliminary Financial Architecture
+```text
+                         NEXUS GAJA
                               │
              ┌────────────────┼────────────────┐
-             │ │ │
-             ▼ ▼ ▼
-          EMPRESA DE ORGANIZAÇÕES DE USUÁRIOS
-             │ │ │
+             │                │                │
+             ▼                ▼                ▼
+          USERS          ORGANIZATIONS      ENTERPRISE
+             │                │                │
              └────────────────┼────────────────┘
                               │
-                       SERVIÇOS DE PLATAFORMA
+                       PLATFORM SERVICES
                               │
-          ┌─────────────────── ┼───────────────────┐
-          ▼ ▼ ▼
-       API DE DOAÇÕES PREMIUM
+          ┌───────────────────┼───────────────────┐
+          ▼                   ▼                   ▼
+       PREMIUM             DONATIONS            API
                               │
                     ┌─────────┴─────────┐
-                    ▼ ▼
-               FUNDOS RESTRITOS DO FUNDO GERAL
+                    ▼                   ▼
+               GENERAL FUND       RESTRICTED FUNDS
                                         │
                                         ▼
-                                  FINALIDADE SOCIAL
+                                  SOCIAL PURPOSE
 ```
 
-### Summary of Financing Principles (NG-FIN)
-- **NG-FIN-001:** No financing through traditional advertising.
-- **NG-FIN-002:** No editorial/technical control through financial support.
-- **NG-FIN-003:** Personal data is not a commodity.
-- **NG-FIN-004:** Basic communication remains accessible without payment.
-- **NG-FIN-005:** Premium offerings must not degrade free users.
-- **NG-FIN-006:** Earmarked funds are managed according to their purpose.
-- **NG-FIN-007:** Transparent management of donations and grants.
-- **NG-FIN-008:** Commercial B2B services do not compromise independence.
-- **NG-FIN-009:** Focus on sustainability rather than maximum monetization.
-- **NG-FIN-010:** The structure permanently secures the social purpose.
+### Resumo dos Princípios de Financiamento (NG-FIN)
+- **NG-FIN-001:** Sem financiamento através de publicidade tradicional.
+- **NG-FIN-002:** Sem controle editorial/técnico através de apoio financeiro.
+- **NG-FIN-003:** Dados pessoais não são uma mercadoria.
+- **NG-FIN-004:** A comunicação básica permanece acessível sem pagamento.
+- **NG-FIN-005:** As ofertas premium não devem prejudicar os usuários gratuitos.
+- **NG-FIN-006:** Os recursos direcionados são administrados de acordo com sua finalidade.
+- **NG-FIN-007:** Gestão transparente de doações e subsídios.
+- **NG-FIN-008:** Os serviços comerciais B2B não comprometem a independência.
+- **NG-FIN-009:** Foco na sustentabilidade em vez da monetização máxima.
+- **NG-FIN-010:** A estrutura assegura permanentemente o propósito social.
 
 ## API, interfaces e arquitetura de comunicação (WP 1.11.3)
 
-To ensure system stability, security, and scalability, Nexus Gaja follows a strictly API-first and event-driven architecture. 
+Para garantir a estabilidade, segurança e escalabilidade do sistema, o Nexus Gaja segue uma arquitetura estritamente baseada em API e orientada a eventos.
 
 ### Princípios Fundamentais
 - **Sem acesso direto ao banco de dados:** Os componentes se comunicam exclusivamente por meio de interfaces definidas (APIs ou eventos), nunca por meio de consultas diretas ao banco de dados de outros serviços.
@@ -294,11 +305,13 @@ To ensure system stability, security, and scalability, Nexus Gaja follows a stri
 - **Eventos assíncronos (barramento de eventos):** O sistema nervoso central do Nexus Gaja para processamento atrasado e desacoplado (por exemplo, `Message.Created` acionando moderação, tradução e notificação de forma assíncrona).
 - **Tempo real (WebSocket):** Canais dedicados para chat ao vivo e indicadores de digitação.
 
-### Segurança e Confiabilidade
-- **Modelo de confiança zero:** O tráfego de rede interna não é automaticamente confiável; a comunicação confidencial entre serviços requer autenticação.
-- **Padrão de Idempotência e Caixa de Saída:** Operações críticas (como doações ou mensagens) são projetadas para serem idempotentes para evitar processamento duplicado, utilizando o padrão Caixa de Saída para garantir que os eventos nunca sejam perdidos, mesmo durante transações de banco de dados.
+### Security and Reliability
+- **Zero-Trust Model:** Internal network traffic is not automatically trusted; sensitive service-to-service communication requires authentication.
+- **Idempotency & Outbox Pattern:** Critical operations (like donations or messaging) are designed to be idempotent to prevent duplicate processing, utilizing the Outbox pattern to ensure events are never lost even during database transactions.
 
 ## Modelo de domínio MVP (WP 1.12)
+
+![Monólito Modular Nexus Gaja](assets/img/nexus_architecture.jpg)
 
 Nexus Gaja emprega uma arquitetura MVP estritamente orientada por domínio (ADR-025), projetada como um monólito modular com limites de domínio claros. Essa estrutura evita a complexidade prematura dos microsserviços, ao mesmo tempo que mantém a flexibilidade para dividir domínios específicos posteriormente.
 

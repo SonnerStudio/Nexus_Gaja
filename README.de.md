@@ -2,6 +2,8 @@
 
 ![Nexus Gaja Logo](assets/logo.jpg)
 
+![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
 
@@ -11,8 +13,11 @@
 
 **Nexus Gaja** ist ein intelligentes, kontextsensitives Kommunikationsnetzwerk, das darauf ausgelegt ist, die weltweite Kommunikation zu revolutionieren.
 
-## Sinn und Vision des Projekts
-In einer globalisierten Welt ist Sprache oft die größte Barriere. Das Hauptziel von Nexus Gaja ist es, eine nahtlose, barrierefreie und inhaltlich korrekte Verständigung zwischen Menschen zu ermöglichen – völlig unabhängig davon, ob sie eine gemeinsame Sprache sprechen oder nicht. 
+## Zweck und Vision
+
+![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
+
+In einer globalisierten Welt ist Sprache oft die größte Barriere. Das Hauptziel von Nexus Gaja ist es, eine nahtlose, barrierefreie und kontextgenaue Kommunikation zwischen Menschen zu ermöglichen – unabhängig davon, ob sie eine gemeinsame Sprache sprechen oder nicht. 
 
 Es geht nicht nur um das sture Übersetzen von Wörtern, sondern um das **Übertragen von Bedeutung**. Nexus Gaja verbindet Menschen auf einer tieferen Ebene, indem es kulturelle, regionale und kontextuelle Feinheiten versteht und so echte, authentische Unterhaltungen ermöglicht.
 
@@ -25,7 +30,9 @@ Es geht nicht nur um das sture Übersetzen von Wörtern, sondern um das **Übert
 
 ## Technische Architektur (Kernkonzept)
 
-Das technische Herzstück von Nexus Gaja ist ein eigens entwickeltes Kommunikationsmodell, das strikt in drei Ebenen unterteilt ist:
+![Nexus Gaja Translation Concept](assets/img/nexus_translation.jpg)
+
+Der technische Kern von Nexus Gaja ist ein selbstentwickeltes Kommunikationsmodell, das strikt in drei Schichten unterteilt ist:
 
 1. **Original**: Das vom Absender erstellte Kommunikations-Objekt (Nachricht) bleibt stets unveränderlich.
 2. **Semantische Interpretation**: Das System analysiert nicht nur die Worte, sondern die tatsächliche Bedeutung.
@@ -40,7 +47,9 @@ Die Übersetzung erfolgt ressourcenschonend erst **beim Aufruf** (On-Demand). We
 
 ## KI-gestützte Moderation (WP 1.8.4)
 
-Bei der KI-gestützten Moderation machen wir einen deutlichen Schritt von der Produktidee zur späteren technischen Architektur, unter Berücksichtigung der aktuell geltenden EU-Vorgaben (Transparenzpflichten des EU-KI-Gesetzes nach Art. 50; Digital Services Act mit nachvollziehbaren Begründungen und Beschwerdemöglichkeiten).
+![Nexus Gaja AI Moderation](assets/img/nexus_moderation.jpg)
+
+Mit der KI-gestützten Moderation gehen wir einen großen Schritt von der Produktidee zur technischen Architektur und berücksichtigen dabei aktuelle EU-Verordnungen (Transparenzpflichten des EU AI Act nach Art. 50; Digital Services Act mit nachvollziehbaren Begründungen und Einspruchsmöglichkeiten).
 
 ### 1. Grundprinzip
 Der wichtigste Satz für die Architektur lautet: **Die Moderations-KI ist ein Prüfsystem und kein autonomes Herrschaftssystem.**
@@ -160,9 +169,11 @@ Die Regeln (Policy Engine) sind nicht fest in den KI-Modellen codiert. Die KI li
 
 **Zusammenfassung**: Wir bauen ein vierstufiges System: KI-Erkennung, Kontext- und Risikoanalyse, Policy Engine und Human Governance. Dies ermöglicht starke Automatisierung, ohne eine gefährliche „KI als Richter“-Architektur zu schaffen.
 
-## Finanzierungsprinzipien und Einnahmenmodell (WP 1.10.1)
+## Finanzierungsprinzipien und Erlösmodell (WP 1.10.1)
 
-Für Nexus Gaja haben wir einen ungewöhnlich wichtigen wirtschaftlichen Grundsatz: **Keine klassische Werbung innerhalb der Plattform.**
+![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
+
+Für Nexus Gaja gilt ein sehr wichtiges ökonomisches Grundprinzip: **Keine klassische Werbung innerhalb der Plattform.**
 Damit unterscheidet sich Nexus Gaja bereits konzeptionell von vielen heutigen sozialen Netzwerken. Das bedeutet aber nicht: Nexus Gaja darf keinen kommerziellen Charakter besitzen. Im Gegenteil: Die Plattform muss wirtschaftlich tragfähig sein, damit ihr gesellschaftlicher Zweck dauerhaft bestehen kann. Die wirtschaftliche Tätigkeit ist also Mittel zum Zweck, nicht der eigentliche Zweck der Plattform.
 
 ### 1. Grundsatz NG-FIN-001
@@ -305,7 +316,9 @@ Um Systemstabilität, Sicherheit und Skalierbarkeit zu gewährleisten, verfolgt 
 
 ## MVP-Domänenmodell (WP 1.12)
 
-Nexus Gaja nutzt eine streng fachlich getriebene Architektur (ADR-025, Domain-Driven MVP Architecture), die zunächst als modularer Monolith mit klaren Domänengrenzen aufgebaut ist. Dies verhindert eine verfrühte Microservice-Komplexität, bewahrt sich aber die Flexibilität, einzelne Domänen später als eigene Services auszulagern.
+![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
+
+Nexus Gaja nutzt eine strikt domänengetriebene MVP-Architektur (ADR-025), die als modularer Monolith mit klaren Domänengrenzen konzipiert ist. Diese Struktur verhindert frühzeitige Microservice-Komplexität und erhält gleichzeitig die Flexibilität, bestimmte Domänen später auszulagern.
 
 ### Fachliche Kernentitäten
 Die Architektur trennt Konzepte strikt, um Datenintegrität zu sichern und Fehler wie „Benutzername = Mensch“ zu vermeiden:

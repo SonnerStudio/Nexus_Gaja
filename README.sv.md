@@ -2,6 +2,8 @@
 
 ![Nexus Gaja Logo](assets/logo.jpg)
 
+![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
 
@@ -12,6 +14,9 @@
 **Nexus Gaja** är ett intelligent, sammanhangskänsligt kommunikationsnätverk designat för att revolutionera global kommunikation.
 
 ## Syfte och vision
+
+![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
+
 I en globaliserad värld är språket ofta den största barriären. Huvudmålet med Nexus Gaja är att möjliggöra sömlös, barriärfri och kontextuellt korrekt kommunikation mellan människor – oavsett om de talar ett gemensamt språk.
 
 Det handlar inte bara om att stelbent översätta ord, utan om att **överföra betydelse**. Nexus Gaja förbinder människor på en djupare nivå genom att förstå kulturella, regionala och kontextuella nyanser, vilket möjliggör genuina, autentiska konversationer.
@@ -25,6 +30,8 @@ Det handlar inte bara om att stelbent översätta ord, utan om att **överföra 
 
 ## Teknisk arkitektur (kärnkoncept)
 
+![Nexus Gaja Translation Concept](assets/img/nexus_translation.jpg)
+
 Den tekniska kärnan i Nexus Gaja är en specialbyggd kommunikationsmodell som är strikt uppdelad i tre lager:
 
 1. **Original**: Kommunikationsobjektet (meddelandet) skapat av avsändaren förblir alltid oföränderligt.
@@ -36,9 +43,11 @@ Den tekniska kärnan i Nexus Gaja är en specialbyggd kommunikationsmodell som �
 `Meddelande` → `Tidigare meddelanden` → `Trådkontext` → `Community Context` → `Språk/region` → `Användarinställningar`
 
 ### Effektivitet genom översättning på begäran
-Översättning sker resurseffektivt endast **på begäran** (On-Demand). När en användare begär innehåll översätts det till deras förinställda språk. När en översättning för ett specifikt språk har genererats lagras den permanent (cache) för att drastiskt påskynda framtida förfrågningar.
+Översättning sker resurseffektivt endast **på begäran** (On-Demand). När en användare begär innehåll översätts det till deras förinställda språk. När en översättning för ett specifikt språk har genererats, lagras den permanent (cache) för att drastiskt påskynda framtida förfrågningar.
 
 ## AI-assisterad moderering (WP 1.8.4)
+
+![Nexus Gaja AI Moderering](assets/img/nexus_moderation.jpg)
 
 Med AI-assisterad moderering tar vi ett betydande steg från produktidé till teknisk arkitektur, med hänsyn tagen till gällande EU-förordningar (transparenskrav i EU:s AI-lag enligt art. 50; Digital Services Act med begripliga motiveringar och överklagandemöjligheter).
 
@@ -112,8 +121,8 @@ Om AI:n är osäker (t.ex. Hot: 0,62, Satir: 0,54), får den inte bara genomdriv
 ### 11. Skyddsåtgärder kan ske automatiskt
 I händelse av ett konkret hot (Hot upptäckt → Högt förtroende → Tillfällig begränsning → Mänsklig granskning → Beslut) skyddar vi den hotade användaren utan att förvandla AI:n till en domare.
 
-### 12. The AI Must Be Able to Justify Its Decisions
-The DSA requires clear and specific reasons. The AI provides structured reasoning: Rule (NG-CONDUCT-004), Detected (Potential concrete threat), Confidence (0.94), Relevant context (Previous 4 messages), Recommended action (Human review).
+### 12. AI:n måste kunna motivera sina beslut
+DSA kräver tydliga och specifika skäl. AI:n ger strukturerade resonemang: Regel (NG-CONDUCT-004), Upptäckt (potentiellt konkret hot), Förtroende (0,94), Relevant sammanhang (Tidigare 4 meddelanden), Rekommenderad åtgärd (Humanöversyn).
 
 ### 13. AI får inte ändra innehåll i hemlighet
 **Moderation AI får aldrig ändra det ursprungliga innehållet obemärkt.** Under automatisk korrigering, översättning eller sammanfattning bevaras originalet alltid.
@@ -121,8 +130,8 @@ The DSA requires clear and specific reasons. The AI provides structured reasonin
 ### 14. AI-genererat innehåll
 Vi skiljer på: Människoskapad, AI-assisterad, AI-genererad och AI-manipulerad. Detta kommer att bli en del av innehållets metadata.
 
-### 15. Märkning av AI-innehåll & AI-härkomstskikt
-Enligt öppenhetsreglerna i EU AI Act (gäller i augusti 2026) måste AI-genererat innehåll vara identifierbart. Vi tillhandahåller ett AI-härkomstlager som lagrar metadata (AI-ursprung, modell, tidsstämpel, mänsklig granskning).
+### 15. Labeling of AI Content & AI Provenance Layer
+According to the transparency rules of the EU AI Act (effective August 2026), AI-generated content must be identifiable. We provide an AI Provenance Layer that stores metadata (AI-Origin, Model, Timestamp, Human Review).
 
 ### 16. Deepfake Detection
 Arkitekturen syftar till att upptäcka syntetiska bilder, klonade röster och deepfakes. Detektering är dock inte automatiskt bevis.
@@ -162,21 +171,23 @@ Regler (Policy Engine) är inte hårdkodade i AI-modellerna. AI ger resultat; Po
 
 ## Finansieringsprinciper och intäktsmodell (WP 1.10.1)
 
+![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
+
 För Nexus Gaja gäller en mycket viktig ekonomisk princip: **Ingen traditionell reklam inom plattformen.**
 Detta skiljer Nexus Gaja i grunden från många av dagens sociala nätverk. Det betyder dock inte att Nexus Gaja inte kan ha en kommersiell karaktär. Tvärtom måste plattformen vara ekonomiskt gångbar så att dess sociala syfte kan bestå. Ekonomisk aktivitet är ett medel för att uppnå ett mål, inte det primära syftet med plattformen.
 
 ### 1. Princip NG-FIN-001
 Nexus Gaja finansierar sin verksamhet genom transparenta intäktsströmmar separerade från användarintressen, och inte genom att tjäna pengar på användarnas uppmärksamhet eller personliga data.
 
-### 2. Ingen traditionell reklam
-Specifikt förbjudna är:
-- Bannerannonser
-- Popup-annonser
-- Videoannonser som spelas upp automatiskt
-- Sponsrade inlägg i standardflödet
-- Personliga annonsprofiler
-- Försäljning av användarprofiler eller personuppgifter
-- Reklam härrör från privata samtal.
+### 2. No Traditional Advertising
+Specifically prohibited are:
+- Banner ads
+- Pop-up ads
+- Auto-playing video ads
+- Sponsored posts in the standard feed
+- Personalized advertising profiles
+- Sale of user profiles or personal data
+- Advertising derived from private conversations.
 
 Nexus Gaja förblir ett **kommunikationsutrymme snarare än ett reklamutrymme**.
 
@@ -286,13 +297,13 @@ För att säkerställa systemstabilitet, säkerhet och skalbarhet följer Nexus 
 
 ### Kärnprinciper
 - **Ingen direkt databasåtkomst:** Komponenter kommunicerar uteslutande via definierade gränssnitt (API eller händelser), aldrig genom direkta databasfrågor från andra tjänster.
-- **API Gateway:** Alla externa klientförfrågningar dirigeras genom en API Gateway som hanterar autentisering, routing och hastighetsbegränsning.
+- **API-gateway:** Alla externa klientförfrågningar dirigeras genom en API-gateway som hanterar autentisering, routing och hastighetsbegränsning.
 - **Provider Abstraction:** Externa tjänster (AI-modeller, betalningsleverantörer, översättningsmotorer) är integrerade via abstraktionslager, vilket undviker hårdkodade beroenden och möjliggör flexibelt leverantörsbyte.
 
-### Communication Patterns
-- **Synchronous APIs (REST/HTTPS):** Used for immediate requests like login, profile settings, or direct translations.
-- **Asynchronous Events (Event Bus):** The central nervous system of Nexus Gaja for delayed, decoupled processing (e.g., `Message.Created` triggering Moderation, Translation, and Notification asynchronously).
-- **Realtime (WebSocket):** Dedicated channels for live chat and typing indicators.
+### Kommunikationsmönster
+- **Synchronous APIs (REST/HTTPS):** Används för omedelbara förfrågningar som inloggning, profilinställningar eller direkta översättningar.
+- **Asynkrona händelser (Event Bus):** Nexus Gajas centrala nervsystem för fördröjd, frikopplad bearbetning (t.ex. "Message.Created" som utlöser moderering, översättning och avisering asynkront).
+- **Realtid (WebSocket):** Dedikerade kanaler för livechatt och skrivindikatorer.
 
 ### Säkerhet och tillförlitlighet
 - **Zero-Trust Model:** Intern nätverkstrafik är inte automatiskt betrodd; känslig tjänst-till-tjänst-kommunikation kräver autentisering.
@@ -300,14 +311,16 @@ För att säkerställa systemstabilitet, säkerhet och skalbarhet följer Nexus 
 
 ## MVP-domänmodell (WP 1.12)
 
+![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
+
 Nexus Gaja använder en strikt domändriven MVP-arkitektur (ADR-025), designad som en modulär monolit med tydliga domängränser. Denna struktur förhindrar för tidig mikrotjänstkomplexitet samtidigt som den behåller flexibiliteten att dela upp specifika domäner senare.
 
-### Core Domain Entities
-The architecture explicitly separates distinct concepts to ensure data integrity and avoid structural pitfalls like "Username = Human":
-- **Identity & Accounts:** `Person` ≠ `User Account` ≠ `Identity Verification`. A verified person participates via an account, but the entities remain separate.
-- **Communication:** `Message` ≠ `Translation`. The original message remains immutable; translations are linked entities.
-- **Moderation:** `Report` ≠ `Moderation Decision`. A report is merely a claim; a moderation case conducts the investigation.
-- **Finances:** `Donation` ≠ `Fund Balance`. Payments are booked via an immutable ledger to a fund, ensuring financial transparency.
+### Kärndomänenheter
+Arkitekturen separerar uttryckligen distinkta koncept för att säkerställa dataintegritet och undvika strukturella fallgropar som "Användarnamn = Människan":
+- **Identitet och konton:** `Person` ≠ `Användarkonto` ≠ `Identitetsverifiering`. En verifierad person deltar via ett konto, men enheterna förblir separata.
+- **Kommunikation:** `Meddelande` ≠ `Översättning`. Det ursprungliga meddelandet förblir oföränderligt; översättningar är länkade enheter.
+- **Moderering:** `Rapport` ≠ `Modereringsbeslut`. En rapport är bara ett påstående; ett moderationsärende genomför utredningen.
+- **Ekonomi:** `Donation` ≠ `Fondsaldo`. Betalningar bokförs via en oföränderlig reskontra till en fond, vilket säkerställer finansiell transparens.
 
 ### Sammankopplade domäner
 Systemet är uppdelat i tydliga logiska domäner (Bounded Contexts): Identitet, Konto, Organisation, Kommunikation, Gemenskap, Språk, Moderering, Notifiering, Ekonomi och Styrning. Dessa domäner kartlägger hela resan från verkliga enheter (användare, skolor, icke-statliga organisationer) till deras digitala interaktioner och relaterade styrning.

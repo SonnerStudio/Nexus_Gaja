@@ -2,6 +2,8 @@
 
 ![Logotip Nexus Gaja](assets/logo.jpg)
 
+![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
 
@@ -11,10 +13,13 @@
 
 **Nexus Gaja** je inteligentna komunikacijska mreža osjetljiva na kontekst dizajnirana za revoluciju globalne komunikacije.
 
-## Svrha i vizija
+## Purpose and Vision
+
+![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
+
 U globaliziranom svijetu jezik je često najveća prepreka. Glavni cilj Nexus Gaja je omogućiti besprijekornu, besprijekornu i kontekstualno točnu komunikaciju među ljudima—bez obzira na to govore li zajedničkim jezikom.
 
-Ne radi se samo o krutom prevođenju riječi, već o **prijenosu značenja**. Nexus Gaja povezuje ljude na dubljoj razini razumijevanjem kulturnih, regionalnih i kontekstualnih nijansi, čime omogućuje istinske, autentične razgovore.
+It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
 
 ## Mogućnosti i značajke
 - **Multimedijska komunikacija**: Sustav ne obrađuje samo tekst, već i sliku, zvuk i video. To omogućuje potpuno imerzivne razgovore (npr. videopozive ili glasovne poruke) u stvarnom vremenu bez obzira na jezične barijere.
@@ -25,22 +30,26 @@ Ne radi se samo o krutom prevođenju riječi, već o **prijenosu značenja**. Ne
 
 ## Tehnička arhitektura (temeljni koncept)
 
-Tehnička jezgra Nexus Gaja je komunikacijski model izrađen po narudžbi koji je strogo podijeljen u tri sloja:
+![Koncept prijevoda Nexus Gaja](assets/img/nexus_translation.jpg)
+
+The technical core of Nexus Gaja is a custom-built communication model that is strictly divided into three layers:
 
 1. **Original**: Komunikacijski objekt (poruka) koji je stvorio pošiljatelj uvijek ostaje nepromjenjiv.
 2. **Semantička interpretacija**: Sustav ne analizira samo riječi, već i stvarno značenje.
 3. **Prikaz ciljanog jezika**: AI samo stvara privremeni ili predmemorirani prikaz izvornika za dotičnog primatelja na temelju njihovog željenog jezika. Prijevodi nikada ne prebrišu izvornu poruku.
 
-### Context Dependency
-Translations in Nexus Gaja never view messages in isolation. The engine considers the entire hierarchy:
-`Message` → `Previous Messages` → `Thread Context` → `Community Context` → `Language / Region` → `User Preferences`
+### Ovisnost o kontekstu
+Prijevodi u Nexus Gaji nikada ne gledaju izolirane poruke. Motor uzima u obzir cijelu hijerarhiju:
+`Poruka` → `Prethodne poruke` → `Kontekst teme` → `Kontekst zajednice` → `Jezik/regija` → `Korisničke postavke`
 
 ### Učinkovitost putem prijevoda na zahtjev
 Prijevod se vrši uz učinkovitu potrošnju resursa samo **na zahtjev** (On-Demand). Kada korisnik zatraži sadržaj, on se prevodi na njegov unaprijed postavljeni jezik. Nakon što se generira prijevod za određeni jezik, on se trajno pohranjuje (sprema u predmemoriju) kako bi se drastično ubrzali budući zahtjevi.
 
-## Moderacija potpomognuta umjetnom inteligencijom (WP 1.8.4)
+## AI-Assisted Moderation (WP 1.8.4)
 
-S moderiranjem potpomognutim umjetnom inteligencijom poduzimamo značajan korak od ideje proizvoda do tehničke arhitekture, uzimajući u obzir trenutne propise EU (zahtjeve transparentnosti EU AI Acta prema čl. 50; Zakon o digitalnim uslugama s razumljivim obrazloženjima i mogućnostima žalbe).
+![Moderiranje Nexus Gaja AI](assets/img/nexus_moderation.jpg)
+
+With AI-Assisted Moderation, we are taking a significant step from product idea to technical architecture, taking into account current EU regulations (transparency requirements of the EU AI Act under Art. 50; Digital Services Act with comprehensible justifications and appeal options).
 
 ### 1. Osnovno načelo
 Najvažnija rečenica za arhitekturu je: **Umjerena umjetna inteligencija je sustav za pregled, a ne autonomni upravljački sustav.**
@@ -51,26 +60,26 @@ Razlikujemo tri razine:
 - **Odluka:** "Koja je radnja zapravo poduzeta?"
 Treću razinu u teškim slučajevima mora kontrolirati čovjek.
 
-### 2. AI za moderiranje kao podsustav
-Umjesto jedne umjetne inteligencije, uspostavljen je robustan podsustav:
-```tekst
-                 NEXUS GAJA AI UMJERENOST
+### 2. The Moderation AI as a Subsystem
+Instead of a single AI, a robust subsystem is established:
+```text
+                 NEXUS GAJA AI MODERATION
                           │
-       ┌───────────────────┼────────────────────┐
-       │ │ │
-  Jezik AI Sigurnost AI Prijevara AI
-       │ │ │
-       ├───────────────┬───┴───────────────┬───┤
-       │ │ │
- Identitet ponašanja pri prevođenju
- Analiza Analiza signala
-       │ │ │
-       └───────────────┼────────────────────┘
+       ┌──────────────────┼──────────────────┐
+       │                  │                  │
+  Language AI        Safety AI          Fraud AI
+       │                  │                  │
+       ├──────────────┬───┴──────────────┬───┤
+       │              │                  │
+ Translation      Behaviour          Identity
+ Analysis         Analysis            Signals
+       │              │                  │
+       └──────────────┼──────────────────┘
                       ▼
-               Procjena rizika
+               Risk Assessment
                       │
                       ▼
-               Ljudski pregled
+               Human Review
 ```
 
 ### 3. Najvažniji AI moduli
@@ -85,8 +94,8 @@ Nexus Gaja koristi devet specijaliziranih područja analize:
 - **M8 – Media Safety**: Analizira slike, audio, video, dokumente.
 - **M9 – Context Engine**: Najvažniji modul. Spaja pojedinačne nalaze.
 
-### 4. Zašto je Context Engine ključan
-Čisto pretraživanje ključnih riječi ne bi bilo dovoljno. "Mogla bih ga ubiti od smijeha" semantički sadrži nasilje, ali je figura govora. “Sutra u 20 sati pucat ću na njega ispred njegove kuće” sasvim je druga situacija. AI mora razumjeti što izjava znači u svom specifičnom kontekstu.
+### 4. Why the Context Engine is Crucial
+A pure keyword search would be insufficient. "I could kill him from laughing" semantically contains violence but is a figure of speech. "Tomorrow at 8 PM I will shoot him in front of his house" is a completely different situation. The AI must understand what the statement means in its specific context.
 
 ### 5. Višejezična moderacija
 Umjerenost ne može jednostavno uspoređivati riječi. Mora analizirati semantičku razinu (npr. njemački idiomi naspram japanskih idioma naspram regionalnih izraza).
@@ -97,8 +106,8 @@ Izvornik i prijevod analiziraju se zasebno. Tek tada se provodi "Kombinirano ocj
 ### 7. Ocjena povjerenja
 Svaka procjena umjetne inteligencije dobiva ocjenu pouzdanosti (npr. vjerojatnost prijetnje: 0,96). Međutim: **Ocjena povjerenja ≠ Istina.** Rezultat od 96% samo znači da je model vrlo siguran u svoju klasifikaciju, a ne nužno da je korisnik kriv.
 
-### 8. Uncertainty Becomes a Signal Itself
-If the AI is uncertain (e.g., Threat: 0.62, Satire: 0.54), it must not simply enforce harsh rules. Instead, uncertainty is built directly into the architecture: **Human Review Required**.
+### 8. Nesigurnost sama postaje signal
+Ako je umjetna inteligencija nesigurna (npr. Prijetnja: 0,62, Satira: 0,54), ne smije jednostavno provoditi stroga pravila. Umjesto toga, neizvjesnost je ugrađena izravno u arhitekturu: **Potreban je ljudski pregled**.
 
 ### 9. Četiri zone odluke
 - 🟢 **ZELENO**: Vrlo vjerojatno usklađeno. → nema akcije.
@@ -109,11 +118,11 @@ If the AI is uncertain (e.g., Threat: 0.62, Satire: 0.54), it must not simply en
 ### 10. Nema "AI kazne"
 **AI ne nameće konačne sankcije.** Može pokrenuti hitne tehničke mjere (npr. privremeno zadržavanje poruke) zbog ozbiljnih sigurnosnih problema, ali konačna odluka ostaje provjerljiva.
 
-### 11. Zaštitne mjere mogu se dogoditi automatski
-U slučaju konkretne prijetnje (otkrivena prijetnja → Visoka pouzdanost → Privremeno ograničenje → Ljudski pregled → Odluka), štitimo ugroženog korisnika bez pretvaranja umjetne inteligencije u suca.
+### 11. Protective Measures Can Occur Automatically
+In the event of a concrete threat (Threat detected → High confidence → Temporary restriction → Human review → Decision), we protect the threatened user without turning the AI into a judge.
 
-### 12. AI mora biti u stanju opravdati svoje odluke
-DSA zahtijeva jasne i specifične razloge. AI pruža strukturirano razmišljanje: pravilo (NG-CONDUCT-004), otkriveno (potencijalna konkretna prijetnja), povjerenje (0,94), relevantan kontekst (prethodne 4 poruke), preporučena radnja (ljudski pregled).
+### 12. The AI Must Be Able to Justify Its Decisions
+The DSA requires clear and specific reasons. The AI provides structured reasoning: Rule (NG-CONDUCT-004), Detected (Potential concrete threat), Confidence (0.94), Relevant context (Previous 4 messages), Recommended action (Human review).
 
 ### 13. AI ne smije tajno mijenjati sadržaj
 **Moderacija AI nikada ne smije neprimjetno mijenjati izvorni sadržaj.** Tijekom automatskog ispravljanja, prijevoda ili sažimanja, izvornik se uvijek čuva.
@@ -136,17 +145,17 @@ AI zahtijeva **Modele kulturnog konteksta** kako bi se spriječilo da se komunik
 ### 19. Ironija, satira i humor
 AI koristi kontekst, emojije, povijest razgovora i poznate strukture ironije, ali mora dopustiti nesigurnost kada su značenja dvosmislena.
 
-### 20. No Punishment Based on a Single AI Score
-No severe moderation intervention may be based solely on a single automated classification result (Text + Context + Behaviour + Language + Media + Rule Engine = Risk Assessment).
+### 20. Nema kazne na temelju jednog AI rezultata
+Nikakva ozbiljna intervencija moderiranja ne smije se temeljiti samo na jednom rezultatu automatizirane klasifikacije (Tekst + Kontekst + Ponašanje + Jezik + Mediji + Mehanizam pravila = Procjena rizika).
 
-### 21. User Behaviour Signals & No Social Credit System
-This relates to technical abuse signals (e.g., mass spam posting), not a general social rating system. Nexus Gaja does not maintain a Social Credit System – moderation serves security, not the assessment of a person's worth.
+### 21. Signali ponašanja korisnika & Nema sustava društvenog kreditiranja
+Ovo se odnosi na signale tehničke zlouporabe (npr. masovno slanje neželjene pošte), a ne na opći sustav društvenog ocjenjivanja. Nexus Gaja ne održava sustav društvenog kreditiranja – umjerenost služi sigurnosti, a ne procjeni vrijednosti osobe.
 
 ### 22. Umjerenost AI mora biti provjerljiva
 Sve relevantne automatizirane odluke se bilježe (ID događaja, ID pravila, Povjerljivost, ljudski pregled, itd.) kako bi se osigurala sljedivost.
 
-### 23. Lažno pozitivni, lažno negativni i metrike kvalitete
-Prate se vrste grešaka. Nadzorna ploča mjeri preciznost, opoziv, a posebno **Stopu poništenja žalbe** (broj uspješnih žalbi).
+### 23. False Positives, False Negatives & Quality Metrics
+Error types are monitored. A dashboard measures Precision, Recall, and especially the **Appeal Reversal Rate** (number of successful appeals).
 
 ### 24. Jezična jednakost i pristranost prijevoda
 Kvaliteta moderiranja mora biti usporediva na svim podržanim jezicima (Multilingual Moderation Benchmark). Ako se rezultati moderiranja razlikuju između izvornika i prijevoda (sukob prijevoda), to se mora posebno pregledati.
@@ -154,19 +163,21 @@ Kvaliteta moderiranja mora biti usporediva na svim podržanim jezicima (Multilin
 ### 25. Motor za prijedloge i politiku arhitekture
 Pravila (Policy Engine) nisu tvrdo kodirana u AI modele. AI daje nalaze; Policy Engine odlučuje na temelju trenutnih pravila. To omogućuje **promjene modela bez promjena pravila**.
 
-### 26. Čovjek ostaje konačni autoritet
-- **NG-AI-MOD-001**: AI pomaže u otkrivanju i klasifikaciji, ali ne zamjenjuje ljudski pregled u teškim odlukama.
-- **NG-AI-MOD-002**: Odluke o automatskom moderiranju moraju se moći pratiti, bilježiti i provjeriti.
+### 26. The Human Remains the Final Authority
+- **NG-AI-MOD-001**: The AI assists in detection and classification, but does not replace human review in severe decisions.
+- **NG-AI-MOD-002**: Automated moderation decisions must be traceable, loggable, and verifiable.
 
 **Sažetak**: Gradimo sustav od četiri faze: otkrivanje umjetne inteligencije, analiza konteksta i rizika, mehanizam za politiku i ljudsko upravljanje. To omogućuje snažnu automatizaciju bez stvaranja opasne arhitekture "AI kao suca".
 
-## Financing Principles and Revenue Model (WP 1.10.1)
+## Načela financiranja i model prihoda (WP 1.10.1)
+
+![Nexus Gaja financijski model](assets/img/nexus_finance.jpg)
 
 Za Nexus Gaju primjenjuje se vrlo važan ekonomski princip: **Bez tradicionalnog oglašavanja unutar platforme.**
 To bitno razlikuje Nexus Gaja od mnogih današnjih društvenih mreža. No, to ne znači da Nexus Gaja ne može imati komercijalni karakter. Naprotiv, platforma mora biti ekonomski održiva kako bi njena društvena svrha mogla trajati. Ekonomska aktivnost je sredstvo za postizanje cilja, a ne primarna svrha platforme.
 
-### 1. Načelo NG-FIN-001
-Nexus Gaja svoje poslovanje financira kroz transparentne tokove prihoda odvojene od interesa korisnika, a ne kroz monetizaciju pažnje ili osobnih podataka svojih korisnika.
+### 1. Principle NG-FIN-001
+Nexus Gaja finances its operations through transparent revenue streams separated from user interests, and not through the monetization of its users' attention or personal data.
 
 ### 2. Nema tradicionalnog oglašavanja
 Posebno su zabranjeni:
@@ -178,7 +189,7 @@ Posebno su zabranjeni:
 - Prodaja korisničkih profila ili osobnih podataka
 - Oglašavanje proizašlo iz privatnih razgovora.
 
-Nexus Gaja ostaje **komunikacijski, a ne oglasni prostor**.
+Nexus Gaja remains a **communication space rather than an advertising space**.
 
 ### 3. Financiranje bez oglašavanja (6 stupova)
 Financiranje se temelji na šest stupova:
@@ -201,8 +212,8 @@ Financiranje se temelji na šest stupova:
 Dobrovoljne plaćene ponude (**Nexus Gaja Plus**) koje pružaju veća ograničenja pohrane, veću kvalitetu medija, proširene kvote umjetne inteligencije i organizacijske značajke.
 **Važno (Freemium umjesto Dark Freemium):** Osnovna komunikacija nikada se ne smije umjetno degradirati.
 
-#### Pillar 3 – Organizations
-Special accounts for schools, universities, NGOs, businesses, and municipalities (**Nexus Gaja Organization**). Schools can be supported via institutional rates as multipliers of international understanding.
+#### Stup 3 – Organizacije
+Posebni računi za škole, sveučilišta, nevladine organizacije, tvrtke i općine (**Organizacija Nexus Gaja**). Škole se mogu podržati putem institucionalnih stopa kao multiplikatora međunarodnog razumijevanja.
 
 #### Stup 4 – Donacije
 **Nexus Gaja Funding Pool** prihvaća opće i namjenske donacije (npr. "za međunarodnu komunikaciju mladih"). **Knjiga raspodjele sredstava** osigurava transparentnu raspodjelu sredstava.
@@ -231,17 +242,17 @@ Umjesto toga koristimo mjerne podatke kao što su:
 - **Globalni komunikacijski indeks (GCI):** Uspješni komunikacijski odnosi između ljudi iz različitih jezičnih/kulturnih regija.
 - **Omjer održivosti platforme (PSR):** Ponavljajući prihod / ponavljajući operativni troškovi (Cilj ≥ 1).
 
-### 8. Ono što izričito ne želimo (negativna lista)
-Nexus Gaja **ne** financira:
-❌ Prodaja osobnih podataka
-❌ Personalizirano tradicionalno oglašavanje
-❌ Praćenje ponašanja korisnika u svrhu oglašavanja
-❌ Prodaja osobnih komunikacijskih podataka
-❌ Skrivena upotreba AI podataka
-❌ Manipulativni Premium sustavi plaćanja
-❌ Umjetno ograničenje dosega za unovčavanje
-❌ Plaćeni politički utjecaj
-❌ Kupnja privilegiranih moderacijskih odluka.
+### 8. What We Explicitly Do Not Want (Negative List)
+Nexus Gaja is **not** financed by:
+❌ Sale of personal data
+❌ Personalized traditional advertising
+❌ Monitoring user behavior for advertising purposes
+❌ Sale of private communication data
+❌ Hidden AI data usage
+❌ Manipulative Premium paywalls
+❌ Artificial reach restriction for monetization
+❌ Paid political influence
+❌ Purchase of privileged moderation decisions.
 
 ### 9. Preliminarna financijska arhitektura
 ```tekst
@@ -284,21 +295,23 @@ Nexus Gaja **ne** financira:
 
 Kako bi se osigurala stabilnost, sigurnost i skalabilnost sustava, Nexus Gaja slijedi striktno API-prvu i arhitekturu vođenu događajima.
 
-### Core Principles
-- **No Direct Database Access:** Components communicate exclusively via defined interfaces (APIs or Events), never through direct database queries of other services.
-- **API Gateway:** All external client requests route through an API Gateway handling authentication, routing, and rate limiting.
-- **Provider Abstraction:** External services (AI models, payment providers, translation engines) are integrated via abstraction layers, avoiding hardcoded dependencies and enabling flexible provider swapping.
+### Temeljna načela
+- **Nema izravnog pristupa bazi podataka:** Komponente komuniciraju isključivo putem definiranih sučelja (API-ja ili događaja), nikada putem izravnih upita baze podataka drugih usluga.
+- **API Gateway:** Svi zahtjevi vanjskih klijenata usmjeravaju se kroz API Gateway koji upravlja autentifikacijom, usmjeravanjem i ograničavanjem brzine.
+- **Apstrakcija pružatelja:** Vanjske usluge (modeli umjetne inteligencije, pružatelji usluga plaćanja, strojevi za prevođenje) integrirane su putem slojeva apstrakcije, izbjegavajući čvrsto kodirane ovisnosti i omogućujući fleksibilnu zamjenu pružatelja usluga.
 
-### Communication Patterns
-- **Synchronous APIs (REST/HTTPS):** Used for immediate requests like login, profile settings, or direct translations.
-- **Asynchronous Events (Event Bus):** The central nervous system of Nexus Gaja for delayed, decoupled processing (e.g., `Message.Created` triggering Moderation, Translation, and Notification asynchronously).
-- **Realtime (WebSocket):** Dedicated channels for live chat and typing indicators.
+### Komunikacijski obrasci
+- **Sinkroni API-ji (REST/HTTPS):** Koristi se za trenutne zahtjeve kao što su prijava, postavke profila ili izravni prijevodi.
+- **Asinkroni događaji (Sabirnica događaja):** Središnji živčani sustav Nexus Gaja za odgođenu, razdvojenu obradu (npr. `Message.Created` koja asinkrono pokreće moderiranje, prijevod i obavijest).
+- **U stvarnom vremenu (WebSocket):** Namjenski kanali za chat uživo i indikatore tipkanja.
 
 ### Sigurnost i pouzdanost
 - **Zero-Trust Model:** interni mrežni promet se ne smatra automatski pouzdanim; osjetljiva komunikacija usluga-usluga zahtijeva autentifikaciju.
 - **Idempotencija & Outbox Pattern:** Kritične operacije (kao što su donacije ili slanje poruka) dizajnirane su da budu idempotentne kako bi se spriječila duplicirana obrada, koristeći Outbox uzorak kako bi se osiguralo da se događaji nikada ne izgube čak ni tijekom transakcija baze podataka.
 
 ## MVP model domene (WP 1.12)
+
+![Modularni monolit Nexus Gaja](assets/img/nexus_architecture.jpg)
 
 Nexus Gaja koristi striktno domenski upravljanu MVP arhitekturu (ADR-025), dizajniranu kao modularni monolit s jasnim granicama domene. Ova struktura sprječava preuranjenu složenost mikroservisa, a istovremeno zadržava fleksibilnost za kasnije odvajanje određenih domena.
 

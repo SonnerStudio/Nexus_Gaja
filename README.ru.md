@@ -2,6 +2,8 @@
 
 ![Логотип Nexus Gaja](assets/logo.jpg)
 
+![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
 
@@ -11,19 +13,24 @@
 
 **Nexus Gaja** — это интеллектуальная, контекстно-зависимая коммуникационная сеть, призванная совершить революцию в глобальной коммуникации.
 
-## Цель и видение
+## Purpose and Vision
+
+![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
+
 В глобализированном мире язык зачастую является самым большим барьером. Основная цель Nexus Gaja — обеспечить беспрепятственное, безбарьерное и контекстуально точное общение между людьми, независимо от того, говорят ли они на одном языке.
 
 It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
 
-## Возможности и особенности
-- **Мультимедийная связь**: система обрабатывает не только текст, но и изображения, аудио и видео. Это позволяет вести полностью захватывающие разговоры (например, видеозвонки или голосовые сообщения) в режиме реального времени, преодолевая языковые барьеры.
-- **Контекстная чувствительность**: распознавание иронии, идиом, жаргона и региональных диалектов, которые часто неправильно понимаются обычными переводчиками.
-- **Кроссплатформенная сеть**: служит основой для частных чатов, веток форума (сообщений с комментариями) и взаимодействия с глобальным сообществом.
+## Possibilities and Features
+- **Multimedia Communication**: The system processes not just text, but also image, audio, and video. This allows for fully immersive conversations (e.g., video calls or voice messages) in real-time across language barriers.
+- **Context Sensitivity**: Recognition of irony, idioms, jargon, and regional dialects that are often misunderstood by conventional translators.
+- **Cross-Platform Network**: Serves as a foundation for private chats, forum threads (posts with comments), and global community interactions.
 
 ---
 
-## Техническая архитектура (основная концепция)
+## Technical Architecture (Core Concept)
+
+![Концепция перевода Nexus Gaja](assets/img/nexus_translation.jpg)
 
 Техническое ядро ​​Nexus Gaja — это специально разработанная модель связи, строго разделенная на три уровня:
 
@@ -31,16 +38,18 @@ It's not just about rigidly translating words, but about **transferring meaning*
 2. **Семантическая интерпретация**: система анализирует не только слова, но и их фактическое значение.
 3. **Представление на целевом языке**: ИИ просто создает временное или кэшированное представление оригинала для соответствующего получателя на основе предпочитаемого им языка. Переводы никогда не перезаписывают исходное сообщение.
 
-### Context Dependency
-Translations in Nexus Gaja never view messages in isolation. The engine considers the entire hierarchy:
-`Message` → `Previous Messages` → `Thread Context` → `Community Context` → `Language / Region` → `User Preferences`
+### Зависимость от контекста
+Переводчики в Nexus Gaja никогда не рассматривают сообщения изолированно. Движок учитывает всю иерархию:
+`Сообщение` → `Предыдущие сообщения` → `Контекст темы` → `Контекст сообщества` → `Язык/регион` → `Пользовательские настройки`
 
-### Efficiency through On-Demand Translation
-Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.
+### Эффективность благодаря переводу по требованию
+Перевод осуществляется с минимальным использованием ресурсов только **по запросу** (по требованию). Когда пользователь запрашивает контент, он переводится на заданный им язык. После создания перевода для определенного языка он постоянно сохраняется (кэшируется), что значительно ускоряет будущие запросы.
 
-## AI-Assisted Moderation (WP 1.8.4)
+## Модерация с помощью искусственного интеллекта (WP 1.8.4)
 
-Благодаря модерации с помощью искусственного интеллекта мы делаем значительный шаг от идеи продукта к технической архитектуре, принимая во внимание действующие правила ЕС (требования прозрачности Закона ЕС об искусственном интеллекте согласно статье 50; Закон о цифровых услугах с понятными обоснованиями и вариантами апелляции).
+![Nexus Gaja AI Moderation](assets/img/nexus_moderation.jpg)
+
+With AI-Assisted Moderation, we are taking a significant step from product idea to technical architecture, taking into account current EU regulations (transparency requirements of the EU AI Act under Art. 50; Digital Services Act with comprehensible justifications and appeal options).
 
 ### 1. Основной принцип
 Самое важное предложение для архитектуры: **Модерирующий ИИ — это система обзора, а не автономная управляющая система.**
@@ -51,26 +60,26 @@ Translation occurs resource-efficiently only **upon request** (On-Demand). When 
 - **Решение:** «Какие действия фактически предприняты?»
 Третий уровень в тяжелых случаях должен контролироваться человеком.
 
-### 2. The Moderation AI as a Subsystem
-Instead of a single AI, a robust subsystem is established:
-```text
-                 NEXUS GAJA AI MODERATION
+### 2. ИИ модерации как подсистема
+Вместо единого ИИ создается надежная подсистема:
+```текст
+                 NEXUS GAJA AI МОДЕРАЦИЯ
                           │
-       ┌──────────────────┼──────────────────┐
-       │                  │                  │
-  Language AI        Safety AI          Fraud AI
-       │                  │                  │
-       ├──────────────┬───┴──────────────┬───┤
-       │              │                  │
- Translation      Behaviour          Identity
- Analysis         Analysis            Signals
-       │              │                  │
-       └──────────────┼──────────────────┘
+       ┌───────────────────┼───────────────────┐
+       │ │ │
+  Языковой ИИ ИИ безопасности ИИ мошенничества
+       │ │ │
+       ├───────────────┬───┴──────────────┬───┤
+       │ │ │
+ Идентичность поведения при переводе
+ Анализ сигналов анализа
+       │ │ │
+       +
                       ▼
-               Risk Assessment
+               Оценка риска
                       │
                       ▼
-               Human Review
+               Человеческий обзор
 ```
 
 ### 3. Наиболее важные модули ИИ
@@ -88,17 +97,17 @@ Nexus Gaja использует девять специализированны�
 ### 4. Почему механизм контекста имеет решающее значение
 Чистого поиска по ключевым словам будет недостаточно. «Я мог бы убить его от смеха» семантически содержит насилие, но является фигурой речи. «Завтра в 8 вечера я его застрелю перед домом» — это совсем другая ситуация. ИИ должен понимать, что означает это утверждение в конкретном контексте.
 
-### 5. Многоязычная модерация
-Модерация не может просто сравнивать слова. Он должен проанализировать семантический уровень (например, немецкие идиомы, японские идиомы и региональные выражения).
+### 5. Multilingual Moderation
+Moderation cannot simply compare words. It must analyze the semantic level (e.g., German idioms vs. Japanese idioms vs. regional expressions).
 
-### 6. Original Language + Translation
-Original and translation are analyzed separately. Only then does the "Combined Moderation Assessment" take place. This allows Nexus Gaja to determine whether the translation itself may have escalated or altered the facts.
+### 6. Язык оригинала + перевод
+Оригинал и перевод анализируются отдельно. Только после этого проводится «Комбинированная модерационная оценка». Это позволяет Nexus Gaja определить, мог ли сам перевод обострить или изменить факты.
 
-### 7. Confidence Score
-Every AI evaluation receives a confidence score (e.g., Threat probability: 0.96). However: **Confidence Score ≠ Truth.** A score of 96% only means the model is highly certain of its classification, not necessarily that the user is guilty.
+### 7. Оценка уверенности
+Каждая оценка ИИ получает оценку достоверности (например, вероятность угрозы: 0,96). Однако: **Оценка уверенности ≠ Истина.** Оценка 96 % означает лишь то, что модель полностью уверена в своей классификации, но не обязательно, что пользователь виновен.
 
-### 8. Uncertainty Becomes a Signal Itself
-If the AI is uncertain (e.g., Threat: 0.62, Satire: 0.54), it must not simply enforce harsh rules. Instead, uncertainty is built directly into the architecture: **Human Review Required**.
+### 8. Неопределенность сама становится сигналом
+Если ИИ неуверен (например, Угроза: 0,62, Сатира: 0,54), он не должен просто навязывать жесткие правила. Вместо этого неопределенность встроена непосредственно в архитектуру: **Требуется человеческий контроль**.
 
 ### 9. Четыре зоны принятия решений
 - 🟢 **ЗЕЛЕНЫЙ**: высокая вероятность соответствия. → никаких действий.
@@ -109,29 +118,29 @@ If the AI is uncertain (e.g., Threat: 0.62, Satire: 0.54), it must not simply en
 ### 10. Никаких «наказаний ИИ»
 **ИИ не налагает окончательных санкций.** Он может инициировать немедленные технические меры (например, временное закрытие сообщения) в случае серьезных проблем с безопасностью, но окончательное решение остается проверяемым.
 
-### 11. Защитные меры могут применяться автоматически
-В случае конкретной угрозы (Обнаружена угроза → Высокая степень достоверности → Временное ограничение → Человеческая проверка → Решение) мы защищаем пользователя, которому угрожают, не превращая ИИ в судью.
+### 11. Protective Measures Can Occur Automatically
+In the event of a concrete threat (Threat detected → High confidence → Temporary restriction → Human review → Decision), we protect the threatened user without turning the AI into a judge.
 
-### 12. ИИ должен уметь обосновывать свои решения
-DSA требует четких и конкретных причин. ИИ обеспечивает структурированное обоснование: Правило (NG-CONDUCT-004), Обнаружено (Потенциальная конкретная угроза), Уверенность (0,94), Соответствующий контекст (Предыдущие 4 сообщения), Рекомендуемое действие (Проверка человеком).
+### 12. The AI Must Be Able to Justify Its Decisions
+The DSA requires clear and specific reasons. The AI provides structured reasoning: Rule (NG-CONDUCT-004), Detected (Potential concrete threat), Confidence (0.94), Relevant context (Previous 4 messages), Recommended action (Human review).
 
-### 13. ИИ не должен тайно изменять контент
-**Модерирующий ИИ никогда не должен изменять исходный контент незаметно.** При автоматическом исправлении, переводе или обобщении оригинал всегда сохраняется.
+### 13. AI Must Not Secretly Alter Content
+**Moderation AI must never alter the original content unnoticed.** During automatic correction, translation, or summarization, the original is always preserved.
 
 ### 14. Контент, созданный искусственным интеллектом
 Мы различаем: созданные человеком, созданные с помощью ИИ, созданные ИИ и управляемые ИИ. Это станет частью метаданных контента.
 
-### 15. Маркировка AI-контента и уровня происхождения AI
-Согласно правилам прозрачности Закона ЕС об искусственном интеллекте (вступает в силу с августа 2026 г.), контент, созданный искусственным интеллектом, должен быть идентифицируемым. Мы предоставляем уровень происхождения ИИ, в котором хранятся метаданные (происхождение ИИ, модель, временная метка, человеческая оценка).
+### 15. Labeling of AI Content & AI Provenance Layer
+According to the transparency rules of the EU AI Act (effective August 2026), AI-generated content must be identifiable. We provide an AI Provenance Layer that stores metadata (AI-Origin, Model, Timestamp, Human Review).
 
 ### 16. Обнаружение дипфейков
-Целью архитектуры является обнаружение синтетических изображений, клонированных голосов и дипфейков. Однако обнаружение не является автоматическим доказательством.
+Целью этой архитектуры является обнаружение синтетических изображений, клонированных голосов и дипфейков. Однако обнаружение не является автоматическим доказательством.
 
-### 17. Никакой автоматической «машины истины» (модерация ≠ проверка фактов)
-Одна система проверяет: «Нарушает ли контент правила?» (модерация контента), другой сообщает: «Какая информация и источники доступны?» (Информационная помощь). Мнения не просто удаляются из-за того, что они «неправильные».
+### 17. No Automatic "Truth Machine" (Moderation ≠ Fact Checking)
+One system checks: "Does the content violate rules?" (Content Moderation), another provides: "What information and sources are available?" (Information Assistance). Opinions are not simply deleted for being "wrong."
 
-### 18. Защита от неправильного культурного толкования
-ИИ требует **моделей культурного контекста**, чтобы предотвратить принятие норм общения одной страны в качестве глобального стандарта.
+### 18. Protection Against Cultural Misinterpretation
+The AI requires **Cultural Context Models** to prevent the communication norms of one country from being assumed as a global standard.
 
 ### 19. Ирония, сатира и юмор
 ИИ использует контекст, смайлы, историю разговоров и известные структуры иронии, но должен учитывать неопределенность, когда значения двусмысленны.
@@ -148,8 +157,8 @@ DSA требует четких и конкретных причин. ИИ об�
 ### 23. Ложные срабатывания, ложные негативы и показатели качества
 Типы ошибок отслеживаются. Панель мониторинга измеряет точность, отзыв и особенно **коэффициент отмены апелляций** (количество успешных апелляций).
 
-### 24. Language Equity & Translation Bias
-Moderation quality must be comparable across all supported languages (Multilingual Moderation Benchmark). If moderation results differ between the original and the translation (Translation Conflict), this must be specifically reviewed.
+### 24. Языковое равенство и предвзятость перевода
+Качество модерации должно быть сопоставимым на всех поддерживаемых языках (тест многоязычной модерации). Если результаты модерации оригинала и перевода различаются (конфликт перевода), это необходимо специально проверить.
 
 ### 25. Архитектурное предложение и механизм политики
 Правила (Policy Engine) не запрограммированы жестко в моделях ИИ. ИИ предоставляет результаты; Policy Engine принимает решение на основе текущих правил. Это позволяет вносить **изменения модели без изменения правил**.
@@ -158,9 +167,11 @@ Moderation quality must be comparable across all supported languages (Multilingu
 - **NG-AI-MOD-001**: ИИ помогает в обнаружении и классификации, но не заменяет человеческий контроль при принятии серьезных решений.
 - **NG-AI-MOD-002**: решения автоматической модерации должны быть отслеживаемыми, регистрируемыми и проверяемыми.
 
-**Резюме**: Мы создаем четырехэтапную систему: обнаружение ИИ, анализ контекста и рисков, механизм политики и управление людьми. Это обеспечивает надежную автоматизацию без создания опасной архитектуры «ИИ как судья».
+**Summary**: We are building a four-stage system: AI Detection, Context and Risk Analysis, Policy Engine, and Human Governance. This enables strong automation without creating a dangerous "AI as Judge" architecture.
 
-## Принципы финансирования и модель доходов (WP 1.10.1)
+## Financing Principles and Revenue Model (WP 1.10.1)
+
+![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
 Для Nexus Gaja действует очень важный экономический принцип: **Никакой традиционной рекламы на платформе.**
 Это принципиально отличает Nexus Gaja от многих современных социальных сетей. Однако это не означает, что Nexus Gaja не может носить коммерческий характер. Напротив, платформа должна быть экономически жизнеспособной, чтобы ее социальная цель могла сохраниться. Экономическая деятельность — это средство для достижения цели, а не основная цель платформы.
@@ -168,34 +179,34 @@ Moderation quality must be comparable across all supported languages (Multilingu
 ### 1. Принцип NG-FIN-001
 Nexus Gaja финансирует свою деятельность за счет прозрачных потоков доходов, отделенных от интересов пользователей, а не за счет монетизации внимания своих пользователей или личных данных.
 
-### 2. Никакой традиционной рекламы
-Особо запрещены:
-- Баннерная реклама
-- Всплывающая реклама
-- Автоматическое воспроизведение видеорекламы
-- Рекламные посты в стандартной ленте
-- Персонализированные рекламные профили
-- Продажа профилей пользователей или личных данных
-- Реклама получена из частных разговоров.
+### 2. No Traditional Advertising
+Specifically prohibited are:
+- Banner ads
+- Pop-up ads
+- Auto-playing video ads
+- Sponsored posts in the standard feed
+- Personalized advertising profiles
+- Sale of user profiles or personal data
+- Advertising derived from private conversations.
 
-Nexus Gaja остается **пространством для общения, а не рекламным пространством**.
+Nexus Gaja remains a **communication space rather than an advertising space**.
 
-### 3. Финансирование без рекламы (6 столпов)
-Финансирование строится на шести столпах:
-```текст
-                 НЕКСУС ГАЯ
+### 3. Financing Without Advertising (The 6 Pillars)
+Financing is built on six pillars:
+```text
+                 NEXUS GAJA
                      │
-       ┌──────────────┼─────────────┐
-       ▼ ▼ ▼
-   ПРЕМИАЛЬНЫЕ ПОЖЕРТВОВАНИЯ ОРГАНИЗАЦИЯМ
-       │ │ │
+       ┌─────────────┼─────────────┐
+       ▼             ▼             ▼
+   PREMIUM       ORGANIZATION    DONATIONS
+       │             │             │
        ├─────────────┼─────────────┤
-       ▼ ▼ ▼
-    ГРАНТЫ ПАРТНЕРСКИЕ УСЛУГИ
+       ▼             ▼             ▼
+    GRANTS       PARTNERSHIPS    SERVICES
 ```
 
-#### Принцип 1 – Бесплатное базовое членство
-**Nexus Gaja Free** обеспечивает базовое международное понимание для всех (профиль, международное общение, публикации, сообщества, чаты, базовый перевод) бесплатно.
+#### Pillar 1 – Free Basic Membership
+**Nexus Gaja Free** enables basic international understanding for everyone (profile, international communication, posts, communities, chats, basic translation) at no cost.
 
 #### Компонент 2 – Премиум-предложения
 Добровольные платные предложения (**Nexus Gaja Plus**), обеспечивающие больший объем хранилища, более высокое качество мультимедиа, расширенные квоты искусственного интеллекта и организационные функции.
@@ -218,18 +229,18 @@ Nexus Gaja остается **пространством для общения, 
 ### 4. Отсутствие монетизации данных и экономики наблюдения
 **NG-FIN-003:** Персональные данные пользователя не являются товаром. Никакой продажи списков, профилей или историй. Nexus Gaja не получает прибыли от психологического наблюдения (экономики наблюдения).
 
-### 5. Финансовая прозрачность и бухгалтерская книга фондов
-**Финансовая прозрачность Nexus Gaja:** Публикация агрегированных финансовых структур. Целевые пожертвования проходят технический учет (Идентификатор фонда → Назначение → Баланс → Распределение). Никакого перекрестного субсидирования социальных целей в корпоративном маркетинге.
+### 5. Financial Transparency & Fund Ledger
+**Nexus Gaja Financial Transparency:** Publication of aggregated financial structures. Earmarked donations receive technical accounting (Fund ID → Purpose → Balance → Allocation). No cross-subsidization of social purposes into corporate marketing.
 
 ### 6. Модель финансирования на основе солидарности
 Ценообразование основано на ориентации на затраты, справедливости и солидарности.
 **Премиум солидарности.** Премиум-пользователи могут добровольно финансировать часть доступа другого пользователя. Принудительная солидарность или общество премиум-класса (меньше уважения/модерации к бесплатным пользователям) строго запрещены.
 
-### 7. Экономические KPI вместо экономики взаимодействия
-Никакой зависимости от удержания пользователей «в сети как можно дольше» (никакой приманки, бесконечные каналы).
-Вместо этого мы используем такие показатели, как:
-- **Глобальный коммуникационный индекс (GCI):** Успешные коммуникативные отношения между людьми из разных языковых/культурных регионов.
-- **Коэффициент устойчивости платформы (PSR):** Текущие доходы/периодические эксплуатационные расходы (цель ≥ 1).
+### 7. Economic KPIs Instead of Engagement Economy
+No dependence on keeping users "online as long as possible" (no ragebait, infinite feeds).
+Instead, we use metrics like:
+- **Global Communication Index (GCI):** Successful communication relationships between people from different linguistic/cultural regions.
+- **Platform Sustainability Ratio (PSR):** Recurring revenue / recurring operating costs (Target ≥ 1).
 
 ### 8. Чего мы явно не хотим (негативный список)
 Nexus Gaja **не** финансируется:
@@ -243,42 +254,42 @@ Nexus Gaja **не** финансируется:
 ❌ Платное политическое влияние
 ❌Покупка привилегированных решений модерации.
 
-### 9. Предварительная финансовая архитектура
-```текст
-                         НЕКСУС ГАЯ
+### 9. Preliminary Financial Architecture
+```text
+                         NEXUS GAJA
                               │
-             +
-             │ │ │
-             ▼ ▼ ▼
-          ПОЛЬЗОВАТЕЛИ ОРГАНИЗАЦИИ ПРЕДПРИЯТИЯ
-             │ │ │
-             └─────────────────┼────────────────┘
+             ┌────────────────┼────────────────┐
+             │                │                │
+             ▼                ▼                ▼
+          USERS          ORGANIZATIONS      ENTERPRISE
+             │                │                │
+             └────────────────┼────────────────┘
                               │
-                       УСЛУГИ ПЛАТФОРМЫ
+                       PLATFORM SERVICES
                               │
           ┌───────────────────┼───────────────────┐
-          ▼ ▼ ▼
-       ПРЕМИУМ ПОЖЕРТВОВАНИЯ API
+          ▼                   ▼                   ▼
+       PREMIUM             DONATIONS            API
                               │
-                    ┌─────────┴──────────┐
-                    ▼ ▼
-               ОБЩИЙ ФОНД ФОНДЫ С ОГРАНИЧЕНИЕМ
+                    ┌─────────┴─────────┐
+                    ▼                   ▼
+               GENERAL FUND       RESTRICTED FUNDS
                                         │
                                         ▼
-                                  СОЦИАЛЬНАЯ ЦЕЛЬ
+                                  SOCIAL PURPOSE
 ```
 
-### Краткое изложение принципов финансирования (NG-FIN)
-- **NG-FIN-001:** Никакого финансирования за счет традиционной рекламы.
-- **NG-FIN-002:** Никакого редакционного/технического контроля посредством финансовой поддержки.
-- **NG-FIN-003:** Персональные данные не являются товаром.
-- **NG-FIN-004:** Базовая связь остается доступной без оплаты.
-- **NG-FIN-005:** Премиум-предложения не должны унижать пользователей бесплатной версии.
-- **NG-FIN-006:** Управление целевыми средствами осуществляется в соответствии с их назначением.
-- **NG-FIN-007:** Прозрачное управление пожертвованиями и грантами.
-- **NG-FIN-008:** Коммерческие услуги B2B не ставят под угрозу независимость.
-- **NG-FIN-009:** Сосредоточьтесь на устойчивости, а не на максимальной монетизации.
-- **NG-FIN-010:** Структура постоянно обеспечивает социальную цель.
+### Summary of Financing Principles (NG-FIN)
+- **NG-FIN-001:** No financing through traditional advertising.
+- **NG-FIN-002:** No editorial/technical control through financial support.
+- **NG-FIN-003:** Personal data is not a commodity.
+- **NG-FIN-004:** Basic communication remains accessible without payment.
+- **NG-FIN-005:** Premium offerings must not degrade free users.
+- **NG-FIN-006:** Earmarked funds are managed according to their purpose.
+- **NG-FIN-007:** Transparent management of donations and grants.
+- **NG-FIN-008:** Commercial B2B services do not compromise independence.
+- **NG-FIN-009:** Focus on sustainability rather than maximum monetization.
+- **NG-FIN-010:** The structure permanently secures the social purpose.
 
 ## API, интерфейсы и коммуникационная архитектура (WP 1.11.3)
 
@@ -300,7 +311,9 @@ Nexus Gaja **не** финансируется:
 
 ## Модель домена MVP (WP 1.12)
 
-Nexus Gaja использует строго доменно-ориентированную архитектуру MVP (ADR-025), спроектированную как модульный монолит с четкими границами доменов. Эта структура предотвращает преждевременное усложнение микросервисов, сохраняя при этом гибкость для последующего разделения определенных доменов.
+![Модульный монолит Nexus Gaja](assets/img/nexus_architecture.jpg)
+
+Nexus Gaja employs a strictly Domain-Driven MVP Architecture (ADR-025), designed as a modular monolith with clear domain boundaries. This structure prevents premature microservice complexity while retaining the flexibility to split out specific domains later.
 
 ### Сущности основного домена
 В архитектуре четко разделены отдельные концепции, чтобы обеспечить целостность данных и избежать структурных ошибок, таких как «Имя пользователя = Человек»:

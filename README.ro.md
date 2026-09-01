@@ -2,6 +2,8 @@
 
 ![Nexus Gaja Logo](assets/logo.jpg)
 
+![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+
 <details>
 <summary>🌍 Available in 40 Languages (Click to expand)</summary>
 
@@ -12,6 +14,9 @@
 **Nexus Gaja** este o rețea de comunicare inteligentă, sensibilă la context, concepută pentru a revoluționa comunicarea globală.
 
 ## Scop și viziune
+
+![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
+
 Într-o lume globalizată, limba este adesea cea mai mare barieră. Scopul principal al Nexus Gaja este de a permite comunicarea fără probleme, fără bariere și precisă din punct de vedere contextual între oameni, indiferent dacă vorbesc o limbă comună.
 
 Nu este vorba doar despre traducerea rigidă a cuvintelor, ci despre **transferarea sensului**. Nexus Gaja conectează oamenii la un nivel mai profund prin înțelegerea nuanțelor culturale, regionale și contextuale, permițând astfel conversații autentice și autentice.
@@ -23,9 +28,11 @@ Nu este vorba doar despre traducerea rigidă a cuvintelor, ci despre **transfera
 
 ---
 
-## Arhitectură tehnică (Concept de bază)
+## Technical Architecture (Core Concept)
 
-Miezul tehnic al Nexus Gaja este un model de comunicare personalizat, care este strict împărțit în trei straturi:
+![Conceptul de traducere Nexus Gaja](assets/img/nexus_translation.jpg)
+
+The technical core of Nexus Gaja is a custom-built communication model that is strictly divided into three layers:
 
 1. **Original**: Obiectul de comunicare (mesajul) creat de expeditor rămâne întotdeauna imuabil.
 2. **Interpretare semantică**: Sistemul analizează nu doar cuvintele, ci și sensul real.
@@ -35,10 +42,12 @@ Miezul tehnic al Nexus Gaja este un model de comunicare personalizat, care este 
 Traducerile din Nexus Gaja nu vizualizează niciodată mesajele izolat. Motorul ia în considerare întreaga ierarhie:
 `Mesaj` → `Mesaje anterioare` → `Contextul firului` → `Contextul comunității` → `Limbă/Regiune` → `Preferințe utilizator`
 
-### Efficiency through On-Demand Translation
-Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.
+### Eficiență prin traducere la cerere
+Traducerea are loc eficient din punct de vedere al resurselor doar **la cerere** (la cerere). Când un utilizator solicită conținut, acesta este tradus în limba lor prestabilită. Odată ce o traducere pentru o anumită limbă este generată, aceasta este stocată permanent (caching) pentru a accelera drastic solicitările viitoare.
 
 ## Moderare asistată de IA (WP 1.8.4)
+
+![Nexus Gaja AI Moderation](assets/img/nexus_moderation.jpg)
 
 Cu AI-Assisted Moderation, facem un pas semnificativ de la ideea de produs la arhitectura tehnică, ținând cont de reglementările UE actuale (cerințele de transparență ale Legii UE AI în conformitate cu art. 50; Legea privind serviciile digitale cu justificări și opțiuni de recurs inteligibile).
 
@@ -115,8 +124,8 @@ Dacă IA este incertă (de exemplu, Amenințare: 0,62, Satira: 0,54), nu trebuie
 ### 12. AI trebuie să fie capabilă să-și justifice deciziile
 DSA necesită motive clare și specifice. AI oferă raționament structurat: Regulă (NG-CONDUCT-004), Detectat (Potențial amenințare concretă), Încredere (0,94), Context relevant (Mesaje anterioare 4), Acțiune recomandată (Evaluare umană).
 
-### 13. AI Must Not Secretly Alter Content
-**Moderation AI must never alter the original content unnoticed.** During automatic correction, translation, or summarization, the original is always preserved.
+### 13. AI nu trebuie să modifice în secret conținutul
+**Moderarea AI nu trebuie să modifice niciodată conținutul original neobservat.** În timpul corectării, traducerii sau rezumarii automate, originalul este întotdeauna păstrat.
 
 ### 14. Conținut generat de AI
 Facem distincție între: creat de om, asistat de inteligență artificială, generat de inteligență artificială și manipulat de inteligență artificială. Aceasta va deveni parte din metadatele de conținut.
@@ -130,8 +139,8 @@ Arhitectura își propune să detecteze imagini sintetice, voci clonate și deep
 ### 17. Fără „mașină de adevăr” automată (moderare ≠ verificarea faptelor)
 Un sistem verifică: „Conținutul încalcă regulile?” (Moderarea conținutului), un altul prevede: „Ce informații și surse sunt disponibile?” (Asistență pentru informații). Opiniile nu sunt șterse pur și simplu pentru că sunt „greșite”.
 
-### 18. Protection Against Cultural Misinterpretation
-The AI requires **Cultural Context Models** to prevent the communication norms of one country from being assumed as a global standard.
+### 18. Protecție împotriva interpretării greșite culturale
+AI necesită **Modele de context cultural** pentru a preveni ca normele de comunicare ale unei țări să fie asumate ca standard global.
 
 ### 19. Ironie, satira și umor
 AI folosește contextul, emoji-urile, istoricul conversațiilor și structurile de ironie cunoscute, dar trebuie să permită incertitudinea atunci când semnificațiile sunt ambigue.
@@ -142,8 +151,8 @@ Nicio intervenție severă de moderare nu se poate baza doar pe un singur rezult
 ### 21. Semnale de comportament al utilizatorilor și sistem fără credit social
 Aceasta se referă la semnalele tehnice de abuz (de exemplu, postarea de spam în masă), nu un sistem general de evaluare socială. Nexus Gaja nu menține un sistem de credit social – moderarea servește la securitate, nu la evaluarea valorii unei persoane.
 
-### 22. Moderation AI Must Be Auditable
-All relevant automated decisions are logged (Event-ID, Rule-ID, Confidence, Human-Review, etc.) to ensure traceability.
+### 22. Moderația AI trebuie să fie auditabilă
+Toate deciziile automate relevante sunt înregistrate (ID-ul evenimentului, ID-ul regulii, Încrederea, Revizuirea umană etc.) pentru a asigura trasabilitatea.
 
 ### 23. False pozitive, false negative și valori de calitate
 Tipurile de erori sunt monitorizate. Un tablou de bord măsoară precizia, rechemarea și, în special, **Rata de anulare a contestațiilor** (numărul de contestații reușite).
@@ -161,6 +170,8 @@ Regulile (Policy Engine) nu sunt codificate hard în modelele AI. AI furnizează
 **Rezumat**: construim un sistem în patru etape: Detectarea AI, Analiza contextului și a riscurilor, Motorul de politici și Guvernarea umană. Acest lucru permite o automatizare puternică fără a crea o arhitectură periculoasă „AI ca judecător”.
 
 ## Principii de finanțare și model de venituri (WP 1.10.1)
+
+![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
 Pentru Nexus Gaja, se aplică un principiu economic extrem de important: **Fără publicitate tradițională în cadrul platformei.**
 Acest lucru distinge fundamental Nexus Gaja de multe dintre rețelele sociale de astăzi. Cu toate acestea, acest lucru nu înseamnă că Nexus Gaja nu poate avea un caracter comercial. Dimpotrivă, platforma trebuie să fie viabilă din punct de vedere economic, astfel încât scopul ei social să poată rezista. Activitatea economică este un mijloc pentru un scop, nu scopul principal al platformei.
@@ -194,26 +205,26 @@ Finanțarea este construită pe șase piloni:
     ACORDĂ SERVICII DE PARTENERIAT
 ```
 
-#### Pillar 1 – Free Basic Membership
-**Nexus Gaja Free** enables basic international understanding for everyone (profile, international communication, posts, communities, chats, basic translation) at no cost.
+#### Pilonul 1 – Abonament de bază gratuit
+**Nexus Gaja Free** permite înțelegerea internațională de bază pentru toată lumea (profil, comunicare internațională, postări, comunități, chat-uri, traducere de bază) fără costuri.
 
 #### Pilonul 2 – Oferte premium
 Oferte plătite voluntare (**Nexus Gaja Plus**) care oferă limite mai mari de stocare, calitate media mai mare, cote extinse de AI și funcții organizaționale.
 **Important (Freemium în loc de Dark Freemium):** Comunicarea de bază nu trebuie să fie niciodată degradată artificial.
 
-#### Pillar 3 – Organizations
-Special accounts for schools, universities, NGOs, businesses, and municipalities (**Nexus Gaja Organization**). Schools can be supported via institutional rates as multipliers of international understanding.
+#### Pilonul 3 – Organizații
+Conturi speciale pentru școli, universități, ONG-uri, întreprinderi și municipalități (**Nexus Gaja Organization**). Școlile pot fi susținute prin rate instituționale ca multiplicatori ai înțelegerii internaționale.
 
-#### Pillar 4 – Donations
-The **Nexus Gaja Funding Pool** accepts general and earmarked donations (e.g., "for international youth communication"). A **Fund Allocation Ledger** ensures transparent allocation of funds.
-**Purpose Fund & Tombola:** A portion of donations feeds a pool for free/discounted usage. A lottery/tombola mechanism can allocate these funds transparently and auditably.
+#### Pilonul 4 – Donații
+**Fondul de finanțare Nexus Gaja** acceptă donații generale și alocate (de exemplu, „pentru comunicarea internațională a tinerilor”). Un **Registrul de alocare a fondurilor** asigură o alocare transparentă a fondurilor.
+**Purpose Fund & Tombola:** O parte din donații alimentează un fond pentru utilizare gratuită/reducere. Un mecanism de loterie/tombola poate aloca aceste fonduri în mod transparent și auditabil.
 
 #### Pilonul 5 – Finanțarea instituțională
 Fundații, programe de finanțare culturală sau programe de stat.
 **NG-FIN-002:** Sprijinul financiar nu cumpără control editorial sau tehnic (Independență).
 
-#### Pillar 6 – Commercial Services
-B2B services like **Translation-as-a-Service** (API), organizational communication, or international conference rooms, without burdening the standard user feed.
+#### Pilonul 6 – Servicii comerciale
+Servicii B2B, cum ar fi **Translation-as-a-Service** (API), comunicarea organizațională sau sălile de conferințe internaționale, fără a încărca fluxul standard al utilizatorilor.
 
 ### 4. Fără monetizare de date și economie de supraveghere
 **NG-FIN-003:** Datele personale ale utilizatorilor nu sunt o marfă. Nicio vânzare de liste, profiluri sau istorii. Nexus Gaja nu profită de supravegherea psihologică (Economia de Supraveghere).
@@ -235,7 +246,7 @@ Fără dependență de menținerea utilizatorilor „online cât mai mult posibi
 Nexus Gaja **nu** este finanțat de:
 ❌ Vânzarea datelor cu caracter personal
 ❌ Publicitate tradițională personalizată
-❌ Monitorizarea comportamentului utilizatorilor în scop publicitar
+❌ Monitorizarea comportamentului utilizatorilor în scopuri publicitare
 ❌ Vânzarea datelor de comunicații private
 ❌ Utilizarea ascunsă a datelor AI
 ❌ Paywall-uri Premium manipulative
@@ -284,10 +295,10 @@ Nexus Gaja **nu** este finanțat de:
 
 Pentru a asigura stabilitatea, securitatea și scalabilitatea sistemului, Nexus Gaja urmează o arhitectură strict bazată pe API și bazată pe evenimente.
 
-### Core Principles
-- **No Direct Database Access:** Components communicate exclusively via defined interfaces (APIs or Events), never through direct database queries of other services.
-- **API Gateway:** All external client requests route through an API Gateway handling authentication, routing, and rate limiting.
-- **Provider Abstraction:** External services (AI models, payment providers, translation engines) are integrated via abstraction layers, avoiding hardcoded dependencies and enabling flexible provider swapping.
+### Principii de bază
+- **Fără acces direct la baza de date:** Componentele comunică exclusiv prin interfețe definite (API-uri sau evenimente), niciodată prin interogări directe de baze de date ale altor servicii.
+- **API Gateway:** Toate solicitările clientului extern sunt direcționate printr-un API Gateway care gestionează autentificarea, rutarea și limitarea ratei.
+- **Abstracția furnizorului:** Serviciile externe (modele AI, furnizorii de plată, motoare de traducere) sunt integrate prin straturi de abstracție, evitând dependențele codificate și permițând schimbarea flexibilă a furnizorilor.
 
 ### Modele de comunicare
 - **API-uri sincrone (REST/HTTPS):** utilizate pentru solicitări imediate, cum ar fi autentificare, setări de profil sau traduceri directe.
@@ -299,6 +310,8 @@ Pentru a asigura stabilitatea, securitatea și scalabilitatea sistemului, Nexus 
 - **Idempotity & Outbox Pattern:** Operațiunile critice (cum ar fi donațiile sau mesajele) sunt concepute pentru a fi idempotente pentru a preveni duplicarea procesării, utilizând modelul Outbox pentru a se asigura că evenimentele nu se pierd niciodată, chiar și în timpul tranzacțiilor cu baza de date.
 
 ## Model de domeniu MVP (WP 1.12)
+
+![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
 
 Nexus Gaja folosește o arhitectură MVP strict bazată pe domenii (ADR-025), concepută ca un monolit modular cu limite clare de domeniu. Această structură previne complexitatea prematură a microserviciilor, păstrând în același timp flexibilitatea de a împărți mai târziu anumite domenii.
 
