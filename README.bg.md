@@ -1,5 +1,8 @@
 # Nexus Gaja
 
+> *За глобален мир и взаимно разбирателство*
+
+
 ![Лого на Nexus Gaja](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)

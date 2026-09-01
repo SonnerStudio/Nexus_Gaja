@@ -1,5 +1,8 @@
 # Nexus Gaja
 
+> *Globaalin rauhan ja keskinäisen ymmärryksen puolesta*
+
+
 ![Nexus Gaja -logo](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)

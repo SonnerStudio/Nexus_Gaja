@@ -1,5 +1,8 @@
 # Nexus Gaja
 
+> *Už pasaulinę taiką ir tarpusavio supratimą*
+
+
 ![Nexus Gaja logotipas](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)

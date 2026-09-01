@@ -1,5 +1,8 @@
 # Nexus Gaja
 
+> *Kwa amani ya ulimwengu na uelewa wa pamoja*
+
+
 ![Nexus Gaja Logo](assets/logo.jpg)
 
 ![Nexus Gaja Shujaa](assets/img/nexus_hero.jpg)

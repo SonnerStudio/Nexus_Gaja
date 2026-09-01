@@ -1,5 +1,8 @@
 # Nexus Gaja
 
+> *Por la paz global y el entendimiento mutuo*
+
+
 ![Nexus Gaja Logo](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)

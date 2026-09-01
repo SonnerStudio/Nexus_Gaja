@@ -1,5 +1,8 @@
 # Nexus Gaja
 
+> *Globālajam mieram un savstarpējai sapratnei*
+
+
 ![Nexus Gaja logotips](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)

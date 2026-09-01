@@ -1,5 +1,8 @@
 # Nexus Gaja
 
+> *A globális békéért és a kölcsönös megértésért*
+
+
 ![Nexus Gaja embléma](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
