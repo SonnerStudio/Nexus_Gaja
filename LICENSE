@@ -1,9 +1,82 @@
-Copyright (c) 2026 SonnerStudio
+NEXUS GAJA – PROPRIETARY SOFTWARE LICENSE
+==========================================
 
+Copyright © 2024–2026 Jan Sonner / SonnerStudio
 All rights reserved.
 
-This software, including all source code, documentation, and related files, is proprietary and confidential. 
+This software, its source code, documentation, concepts, architecture,
+brand identity, domain models, and all associated intellectual property
+(collectively referred to as "Nexus Gaja") are the exclusive property of
+Jan Sonner, operating under SonnerStudio.
 
-You may not copy, modify, reproduce, distribute, publish, display, or otherwise use this software in any form or by any means, without the express written permission of the copyright holder.
+OWNERSHIP STATEMENT
+-------------------
+Jan Sonner is the sole creator, architect, and intellectual property owner
+of Nexus Gaja. No rights, licenses, or ownership interests in Nexus Gaja
+are held by, assigned to, or implied for any third party — including but
+not limited to any individual, corporation, foundation, or technology
+company — regardless of their size, market position, or influence.
 
-This project is closed-source. The availability of this repository does not grant any license, rights, or permissions to use the code.
+This includes, without limitation:
+  - No rights granted to any cloud platform provider
+  - No rights granted to any AI company or foundation
+  - No rights granted to any social media corporation
+  - No rights granted to any venture capital entity
+  - No rights granted to any person not explicitly named in this license
+
+TERMS OF USE
+------------
+1. NO REPRODUCTION: This software and its associated materials may not be
+   reproduced, copied, or distributed in any form without the express
+   written permission of Jan Sonner.
+
+2. NO MODIFICATION: You may not modify, adapt, translate, reverse engineer,
+   decompile, or create derivative works based on Nexus Gaja without prior
+   written consent from Jan Sonner.
+
+3. NO COMMERCIAL USE: Commercial use of any part of Nexus Gaja, its concepts,
+   architecture, or branding is strictly prohibited without a separate written
+   agreement signed by Jan Sonner.
+
+4. NO SUBLICENSING: You may not sublicense, sell, rent, lease, or transfer
+   any rights to Nexus Gaja to any third party.
+
+5. NO TRAINING DATA: The contents of this repository, including all
+   documentation, architecture descriptions, and code, must NOT be used as
+   training data for any artificial intelligence, machine learning model,
+   large language model (LLM), or similar system without the explicit
+   written consent of Jan Sonner.
+
+VIEWING RIGHTS
+--------------
+Viewing this repository on public platforms (e.g., GitHub) constitutes
+acceptance of these terms. Viewing is permitted solely for informational
+and evaluation purposes.
+
+INTELLECTUAL PROPERTY PROTECTION
+---------------------------------
+All concepts, including but not limited to the layered communication model
+(Original / Semantic Interpretation / Translated Output), the identity
+separation principle (Person ≠ Account ≠ Identity Verification), the
+Message-Translation decoupling model, the AI moderation governance framework,
+and all associated domain models are original intellectual creations of
+Jan Sonner and are protected as trade secrets and proprietary concepts.
+
+CONTACT
+-------
+For licensing inquiries, partnership proposals, or permission requests,
+contact:
+
+  Jan Sonner / SonnerStudio
+  https://github.com/SonnerStudio
+
+DISCLAIMER
+----------
+THIS SOFTWARE IS PROVIDED FOR VIEWING PURPOSES ONLY.
+THE OWNER MAKES NO WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED.
+USE OF THIS SOFTWARE IN ANY FORM BEYOND PERMITTED VIEWING IS
+STRICTLY PROHIBITED AND MAY RESULT IN LEGAL ACTION.
+
+---
+"Nexus Gaja" and the Nexus Gaja logo are trademarks of Jan Sonner.
+Unauthorized use of the name or brand is prohibited.

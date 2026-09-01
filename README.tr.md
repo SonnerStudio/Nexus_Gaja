@@ -325,3 +325,27 @@ Sistem mantıksal etki alanlarına bölünmüştür: Kimlik, Hesap, Organizasyon
 ## Proje Durumu
 Proje aktif mimari ve planlama aşamasındadır.
 Devam eden mimari kararlar `/docs` klasöründe belgelenmektedir.
+
+---
+
+## Lisans ve Fikri Mülkiyet
+
+> **© 2024–2026 Jan Sonner / SonnerStudio — Tüm hakları saklıdır.**
+
+**Nexus Gaja**, **SonnerStudio** bünyesinde faaliyet gösteren **Jan Sonner**'ın münhasır fikri mülkiyetidir.
+
+Jan Sonner, tüm kavramlar, mimariler, alan modelleri, marka kimliği ve ilgili belgeler dahil olmak üzere Nexus Gaja'nın tek yaratıcısı, mimarı ve sahibidir.
+
+**Teknoloji sektöründeki büyüklükleri, piyasa konumları veya etkileri ne olursa olsun, hiçbir üçüncü tarafa herhangi bir hak, lisans veya mülkiyet çıkarı tanınmamaktadır.**
+
+### Açık yazılı izin olmaksızın YAPILAMAYACAKLAR:
+- ❌ Bu yazılımın veya belgelerinin kopyalanması, çoğaltılması veya dağıtılması
+- ❌ Değiştirme, uyarlama veya türev eserler oluşturma
+- ❌ Nexus Gaja'nın herhangi bir bölümünün ticari kullanımı
+- ❌ Bu deponun içeriğinin **yapay zeka/LLM sistemleri için eğitim verisi** olarak kullanılması
+- ❌ Hakların üçüncü taraflara alt lisanslama veya devredilmesi
+
+### İletişim
+Lisans sorguları için: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+
+➡️ Tam lisans koşulları için [LICENSE](LICENSE) dosyasına bakın

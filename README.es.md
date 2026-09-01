@@ -328,3 +328,27 @@ El sistema se divide en dominios lógicos (Bounded Contexts): Identidad, Cuenta,
 ## Estado del Proyecto
 El proyecto se encuentra en la fase activa de arquitectura y planificación.
 Las decisiones arquitectónicas en curso se documentan en la carpeta `/docs`.
+
+---
+
+## Licencia y Propiedad Intelectual
+
+> **© 2024–2026 Jan Sonner / SonnerStudio — Todos los derechos reservados.**
+
+**Nexus Gaja** es propiedad intelectual exclusiva de **Jan Sonner**, que opera bajo **SonnerStudio**.
+
+Jan Sonner es el único creador, arquitecto y propietario de Nexus Gaja, incluyendo todos los conceptos, arquitecturas, modelos de dominio, identidad de marca y documentación asociada.
+
+**Ningún derecho, licencia o interés de propiedad es otorgado a terceros**, independientemente de su tamaño, posición en el mercado o influencia en la industria tecnológica.
+
+### Lo que NO está permitido sin consentimiento escrito explícito:
+- ❌ Copiar, reproducir o distribuir este software o su documentación
+- ❌ Modificar, adaptar o crear obras derivadas
+- ❌ Uso comercial de cualquier parte de Nexus Gaja
+- ❌ Usar el contenido de este repositorio como **datos de entrenamiento para sistemas de IA/LLM**
+- ❌ Sublicenciar o transferir derechos a terceros
+
+### Contacto
+Para consultas de licencias: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+
+➡️ Ver términos completos de licencia en [LICENSE](LICENSE)

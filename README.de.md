@@ -333,3 +333,36 @@ Das System ist in logische Domänen (Bounded Contexts) gegliedert: Identity, Acc
 ## Projektstatus
 Das Projekt befindet sich in der aktiven Architektur- und Planungsphase.
 Laufende Architekturentscheidungen sind im Ordner `/docs` dokumentiert.
+
+---
+
+## Lizenz & Geistiges Eigentum
+
+> **© 2024–2026 Jan Sonner / SonnerStudio — Alle Rechte vorbehalten.**
+
+**Nexus Gaja** ist das ausschließliche geistige Eigentum von **Jan Sonner**, tätig unter **SonnerStudio**.
+
+Jan Sonner ist der alleinige Schöpfer, Architekt und Inhaber von Nexus Gaja — einschließlich aller Konzepte, Architekturen, Domänenmodelle, Markenidentität und zugehörigen Dokumentationen.
+
+**Keinerlei Rechte, Lizenzen oder Eigentumsinteressen werden Dritten gewährt**, unabhängig von deren Größe, Marktstellung oder Einfluss in der Technologiebranche.
+
+### Was NICHT ohne ausdrückliche schriftliche Zustimmung gestattet ist:
+- ❌ Kopieren, Vervielfältigen oder Verbreiten dieser Software oder ihrer Dokumentation
+- ❌ Modifizieren, Anpassen oder Erstellen abgeleiteter Werke
+- ❌ Kommerzielle Nutzung jeglicher Teile von Nexus Gaja
+- ❌ Verwendung des Repository-Inhalts als **Trainingsdaten für KI/LLM-Systeme**
+- ❌ Unterlizenzierung oder Übertragung von Rechten an Dritte
+
+### Geschütztes geistiges Eigentum
+Folgende Originalkonzepte sind als Geschäftsgeheimnisse und proprietäre Schöpfungen von Jan Sonner geschützt:
+- Das mehrschichtige Kommunikationsmodell *(Original / Semantische Interpretation / Übersetzte Ausgabe)*
+- Das Identitätstrennungsprinzip *(Person ≠ Benutzerkonto ≠ Identitätsverifikation)*
+- Das Nachricht-Übersetzungs-Entkopplungsmodell *(Nachricht ≠ Übersetzung)*
+- Das KI-Moderations-Governance-Framework
+
+### Kontakt
+Für Lizenzanfragen: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+
+*„Nexus Gaja" und das Nexus-Gaja-Logo sind Marken von Jan Sonner. Die unbefugte Verwendung des Namens oder der Marke ist untersagt.*
+
+➡️ Vollständige Lizenzbedingungen in [LICENSE](LICENSE)
