@@ -6,7 +6,8 @@
 ![Ù„Û†Ú¯Û†ÛŒ Ù†ÛŽÚ©Ø³ÙˆØ³ Ú¯Ø§Ø¬Ø§](assets/logo.jpg)
 
 ![Ù†ÛŽÚ©Ø³ÙˆØ³ Ú¯Ø§Ø¬Ø§ Ù‡ÛŒØ±Û†](assets/img/nexus_hero.jpg)
-<br>`n[![Nexus Gaja Demo](assets/video/Nexus_Gaja_TikTok_EN_thumb.jpg)](https://github.com/SonnerStudio/Nexus_Gaja/raw/main/assets/video/Nexus_Gaja_TikTok_EN.mp4)
+<br>
+[![Nexus Gaja Demo](assets/video/Nexus_Gaja_TikTok_EN_thumb.jpg)](https://github.com/SonnerStudio/Nexus_Gaja/raw/main/assets/video/Nexus_Gaja_TikTok_EN.mp4)
 
 <details>
 <summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>

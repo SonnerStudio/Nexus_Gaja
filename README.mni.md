@@ -1,5 +1,6 @@
 ﻿# ꯅꯦꯛꯁꯁ ꯒꯥꯖꯥ꯫
-<br>`n[![Nexus Gaja Demo](assets/video/Nexus_Gaja_TikTok_EN_thumb.jpg)](https://github.com/SonnerStudio/Nexus_Gaja/raw/main/assets/video/Nexus_Gaja_TikTok_EN.mp4)
+<br>
+[![Nexus Gaja Demo](assets/video/Nexus_Gaja_TikTok_EN_thumb.jpg)](https://github.com/SonnerStudio/Nexus_Gaja/raw/main/assets/video/Nexus_Gaja_TikTok_EN.mp4)
 
 
 
