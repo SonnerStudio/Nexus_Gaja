@@ -7,8 +7,7 @@
 
 ![Nhenha ya Nexus Gaja](nhundzu/img/nhenha_ya_nexus.jpg)
 
-<br>
-<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
+<br>`n[![Nexus Gaja Demo](assets/video/Nexus_Gaja_TikTok_EN_thumb.jpg)](https://github.com/SonnerStudio/Nexus_Gaja/raw/main/assets/video/Nexus_Gaja_TikTok_EN.mp4)
 
 <details>
 <summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
