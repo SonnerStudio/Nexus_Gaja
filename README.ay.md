@@ -8,7 +8,7 @@
 ![Nexus Gaja Hero](activos/img/nexus_hero.jpg) ukax mä jach'a uñacht'äwiwa.
 
 
-<br>
+
 [![Nexus Gaja Demo](assets/video/Nexus_Gaja_TikTok_EN_thumb.jpg)](https://github.com/SonnerStudio/Nexus_Gaja/blob/main/assets/video/Nexus_Gaja_TikTok_EN.mp4)
 
 <details>

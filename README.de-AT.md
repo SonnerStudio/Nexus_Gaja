@@ -8,7 +8,7 @@
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
 
 
-<br>
+
 [![Nexus Gaja Demo](assets/video/Nexus_Gaja_TikTok_thumb.jpg)](https://github.com/SonnerStudio/Nexus_Gaja/blob/main/assets/video/Nexus_Gaja_TikTok.mp4)
 
 <details>

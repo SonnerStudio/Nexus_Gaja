@@ -8,7 +8,7 @@
 ![Nexus Gaja Hero](a thil neih/img/nexus_hero.jpg) a ni a, a man pawh a to hle.
 
 
-<br>
+
 [![Nexus Gaja Demo](assets/video/Nexus_Gaja_TikTok_EN_thumb.jpg)](https://github.com/SonnerStudio/Nexus_Gaja/blob/main/assets/video/Nexus_Gaja_TikTok_EN.mp4)
 
 <details>

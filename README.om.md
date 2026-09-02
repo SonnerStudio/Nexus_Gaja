@@ -8,7 +8,7 @@
 ![Goota Gaajaa Nexus](qabeenya/img/goota_nexus.jpg)
 
 
-<br>
+
 [![Nexus Gaja Demo](assets/video/Nexus_Gaja_TikTok_EN_thumb.jpg)](https://github.com/SonnerStudio/Nexus_Gaja/blob/main/assets/video/Nexus_Gaja_TikTok_EN.mp4)
 
 <details>
