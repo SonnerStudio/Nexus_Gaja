@@ -1,379 +1,381 @@
-﻿# à´¨àµ†à´•àµà´¸à´¸àµ à´—à´œ
+# നെക്സസ് ഗജ
 
-> *à´…à´¨àµà´¤à´¾à´°à´¾à´·àµà´Ÿàµà´° à´¸à´®à´¾à´§à´¾à´¨à´¤àµà´¤à´¿à´¨àµà´‚ à´…à´¨àµà´¤à´¾à´°à´¾à´·àµà´Ÿàµà´° à´§à´¾à´°à´£à´¯àµà´•àµà´•àµà´‚*
+> *അന്താരാഷ്ട്ര സമാധാനത്തിനും അന്താരാഷ്ട്ര ധാരണയ്ക്കും*
 
 
-![Nexus Gaja à´²àµ‹à´—àµ‹](assets/logo.jpg)
+![Nexus Gaja ലോഗോ](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+
+
 <br>
 [![Nexus Gaja Demo](assets/video/Nexus_Gaja_TikTok_EN_thumb.jpg)](https://github.com/SonnerStudio/Nexus_Gaja/blob/main/assets/video/Nexus_Gaja_TikTok_EN.mp4)
 
 <details>
-<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
 
 </details>
 <details>
-<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
 
 </details>
 
-**Nexus Gaja** à´†à´—àµ‹à´³ à´†à´¶à´¯à´µà´¿à´¨à´¿à´®à´¯à´¤àµà´¤à´¿àµ½ à´µà´¿à´ªàµà´²à´µà´‚ à´¸àµƒà´·àµà´Ÿà´¿à´•àµà´•à´¾àµ» à´°àµ‚à´ªà´•àµ½à´ªàµà´ªà´¨ à´šàµ†à´¯àµâ€Œà´¤à´¿à´°à´¿à´•àµà´•àµà´¨àµà´¨ à´’à´°àµ à´‡àµ»àµà´±à´²à´¿à´œàµ»àµà´±àµ, à´¸à´¨àµà´¦àµ¼à´­-à´…à´µà´¬àµ‹à´§ à´†à´¶à´¯à´µà´¿à´¨à´¿à´®à´¯ à´¶àµƒà´‚à´–à´²à´¯à´¾à´£àµ.
+**Nexus Gaja** ആഗോള ആശയവിനിമയത്തിൽ വിപ്ലവം സൃഷ്ടിക്കാൻ രൂപകൽപ്പന ചെയ്‌തിരിക്കുന്ന ഒരു ഇൻ്റലിജൻ്റ്, സന്ദർഭ-അവബോധ ആശയവിനിമയ ശൃംഖലയാണ്.
 
-## à´²à´•àµà´·àµà´¯à´µàµà´‚ à´¦àµ¼à´¶à´¨à´µàµà´‚
+## ലക്ഷ്യവും ദർശനവും
 
 ![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
 
-à´†à´—àµ‹à´³à´µàµ½à´•àµà´•à´°à´¿à´•àµà´•à´ªàµà´ªàµ†à´Ÿàµà´Ÿ à´²àµ‹à´•à´¤àµà´¤àµ, à´­à´¾à´·à´¯à´¾à´£àµ à´ªà´²à´ªàµà´ªàµ‹à´´àµà´‚ à´à´±àµà´±à´µàµà´‚ à´µà´²à´¿à´¯ à´¤à´Ÿà´¸àµà´¸à´‚. Nexus Gaja-à´¯àµà´Ÿàµ† à´ªàµà´°à´§à´¾à´¨ à´²à´•àµà´·àµà´¯à´‚ à´†à´³àµà´•àµ¾à´•àµà´•à´¿à´Ÿà´¯à´¿àµ½ à´¤à´Ÿà´¸àµà´¸à´®à´¿à´²àµà´²à´¾à´¤àµà´¤à´¤àµà´‚ à´†à´•àµâ€Œà´¸à´¸àµ à´šàµ†à´¯àµà´¯à´¾à´µàµà´¨àµà´¨à´¤àµà´‚ à´¸à´¨àµà´¦àµ¼à´­-à´•àµƒà´¤àµà´¯à´µàµà´®à´¾à´¯ à´†à´¶à´¯à´µà´¿à´¨à´¿à´®à´¯à´‚ à´ªàµà´°à´¾à´ªàµâ€Œà´¤à´®à´¾à´•àµà´•àµà´• à´Žà´¨àµà´¨à´¤à´¾à´£àµ - à´…à´µàµ¼ à´’à´°àµ à´ªàµŠà´¤àµ à´­à´¾à´· à´¸à´‚à´¸à´¾à´°à´¿à´•àµà´•àµà´¨àµà´¨àµà´£àµà´Ÿàµ‹ à´‡à´²àµà´²à´¯àµ‹ à´Žà´¨àµà´¨à´¤àµ à´ªà´°à´¿à´—à´£à´¿à´•àµà´•à´¾à´¤àµ† à´¤à´¨àµà´¨àµ†. 
+ആഗോളവൽക്കരിക്കപ്പെട്ട ലോകത്ത്, ഭാഷയാണ് പലപ്പോഴും ഏറ്റവും വലിയ തടസ്സം. Nexus Gaja-യുടെ പ്രധാന ലക്ഷ്യം ആളുകൾക്കിടയിൽ തടസ്സമില്ലാത്തതും ആക്‌സസ് ചെയ്യാവുന്നതും സന്ദർഭ-കൃത്യവുമായ ആശയവിനിമയം പ്രാപ്‌തമാക്കുക എന്നതാണ് - അവർ ഒരു പൊതു ഭാഷ സംസാരിക്കുന്നുണ്ടോ ഇല്ലയോ എന്നത് പരിഗണിക്കാതെ തന്നെ. 
 
-à´‡à´¤àµ à´¶à´¾à´ àµà´¯à´¤àµà´¤àµ‹à´Ÿàµ† à´µà´¾à´•àµà´•àµà´•àµ¾ à´µà´¿à´µàµ¼à´¤àµà´¤à´¨à´‚ à´šàµ†à´¯àµà´¯àµà´¨àµà´¨à´¤à´¿à´¨àµ†à´•àµà´•àµà´±à´¿à´šàµà´šà´²àµà´², **à´…àµ¼à´¤àµà´¥à´‚ à´•àµˆà´®à´¾à´±àµà´¨àµà´¨à´¤à´¿à´¨àµ†à´•àµà´•àµà´±à´¿à´šàµà´šà´¾à´£àµ**. à´¸à´¾à´‚à´¸àµà´•à´¾à´°à´¿à´•à´µàµà´‚ à´ªàµà´°à´¾à´¦àµ‡à´¶à´¿à´•à´µàµà´‚ à´¸à´¾à´¨àµà´¦àµ¼à´­à´¿à´•à´µàµà´®à´¾à´¯ à´¸àµ‚à´•àµà´·àµà´®à´¤à´•àµ¾ à´®à´¨à´¸àµà´¸à´¿à´²à´¾à´•àµà´•à´¿, à´¯à´¥à´¾àµ¼à´¤àµà´¥à´µàµà´‚ à´†à´§à´¿à´•à´¾à´°à´¿à´•à´µàµà´®à´¾à´¯ à´¸à´‚à´­à´¾à´·à´£à´™àµà´™àµ¾ à´ªàµà´°à´¾à´ªàµà´¤à´®à´¾à´•àµà´•à´¿à´•àµà´•àµŠà´£àµà´Ÿàµ Nexus Gaja à´†à´³àµà´•à´³àµ† à´†à´´à´¤àµà´¤à´¿à´²àµà´³àµà´³ à´¤à´²à´¤àµà´¤à´¿àµ½ à´¬à´¨àµà´§à´¿à´ªàµà´ªà´¿à´•àµà´•àµà´¨àµà´¨àµ.
+ഇത് ശാഠ്യത്തോടെ വാക്കുകൾ വിവർത്തനം ചെയ്യുന്നതിനെക്കുറിച്ചല്ല, **അർത്ഥം കൈമാറുന്നതിനെക്കുറിച്ചാണ്**. സാംസ്കാരികവും പ്രാദേശികവും സാന്ദർഭികവുമായ സൂക്ഷ്മതകൾ മനസ്സിലാക്കി, യഥാർത്ഥവും ആധികാരികവുമായ സംഭാഷണങ്ങൾ പ്രാപ്തമാക്കിക്കൊണ്ട് Nexus Gaja ആളുകളെ ആഴത്തിലുള്ള തലത്തിൽ ബന്ധിപ്പിക്കുന്നു.
 
-## à´¸à´¾à´§àµà´¯à´¤à´•à´³àµà´‚ à´¸à´µà´¿à´¶àµ‡à´·à´¤à´•à´³àµà´‚
-- **à´®àµ¾à´Ÿàµà´Ÿà´¿à´®àµ€à´¡à´¿à´¯ à´•à´®àµà´®àµà´¯àµ‚à´£à´¿à´•àµà´•àµ‡à´·àµ»**: à´¸à´¿à´¸àµà´±àµà´±à´‚ à´Ÿàµ†à´•àµà´¸àµà´±àµà´±àµ à´®à´¾à´¤àµà´°à´®à´²àµà´², à´‡à´®àµ‡à´œàµà´•àµ¾, à´“à´¡à´¿à´¯àµ‹, à´µàµ€à´¡à´¿à´¯àµ‹ à´Žà´¨àµà´¨à´¿à´µà´¯àµà´‚ à´ªàµà´°àµ‹à´¸à´¸àµà´¸àµ à´šàµ†à´¯àµà´¯àµà´¨àµà´¨àµ. à´­à´¾à´·à´¾ à´…à´¤à´¿à´°àµà´•àµ¾à´•àµà´•à´ªàµà´ªàµà´±à´‚ à´¤à´¤àµà´¸à´®à´¯à´‚ à´®àµà´´àµà´µà´¨à´¾à´¯àµà´‚ à´†à´´à´¤àµà´¤à´¿à´²àµà´³àµà´³ à´¸à´‚à´­à´¾à´·à´£à´™àµà´™àµ¾ (à´‰à´¦à´¾. à´µàµ€à´¡à´¿à´¯àµ‹ à´•àµ‹à´³àµà´•àµ¾ à´…à´²àµà´²àµ†à´™àµà´•à´¿àµ½ à´µàµ‹à´¯àµâ€Œà´¸àµ à´¸à´¨àµà´¦àµ‡à´¶à´™àµà´™àµ¾) à´‡à´¤àµ à´…à´¨àµà´µà´¦à´¿à´•àµà´•àµà´¨àµà´¨àµ.
-- **à´¸à´¨àµà´¦àµ¼à´­ à´¸à´‚à´µàµ‡à´¦à´¨à´•àµà´·à´®à´¤**: à´ªà´°à´®àµà´ªà´°à´¾à´—à´¤ à´µà´¿à´µàµ¼à´¤àµà´¤à´•àµ¼ à´ªà´²à´ªàµà´ªàµ‹à´´àµà´‚ à´¤àµ†à´±àµà´±à´¿à´¦àµà´§à´°à´¿à´•àµà´•à´ªàµà´ªàµ†à´Ÿàµà´¨àµà´¨ à´†à´•àµà´·àµ‡à´ªà´¹à´¾à´¸àµà´¯à´‚, à´­à´¾à´·à´¾à´ªàµà´°à´¯àµ‹à´—à´™àµà´™àµ¾, à´ªà´¦à´ªàµà´°à´¯àµ‹à´—à´™àµà´™àµ¾, à´ªàµà´°à´¾à´¦àµ‡à´¶à´¿à´• à´­à´¾à´·à´•àµ¾ à´Žà´¨àµà´¨à´¿à´µ à´•à´£àµà´Ÿàµ†à´¤àµà´¤àµ½.
-- **à´•àµà´°àµ‹à´¸àµ-à´ªàµà´²à´¾à´±àµà´±àµà´«àµ‹à´‚ à´¨àµ†à´±àµà´±àµâ€Œà´µàµ¼à´•àµà´•àµ**: à´¸àµà´µà´•à´¾à´°àµà´¯ à´šà´¾à´±àµà´±àµà´•àµ¾, à´«àµ‹à´±à´‚ à´¤àµà´°àµ†à´¡àµà´•àµ¾ (à´…à´­à´¿à´ªàµà´°à´¾à´¯à´™àµà´™à´³àµà´³àµà´³ à´ªàµ‹à´¸àµà´±àµà´±àµà´•àµ¾), à´†à´—àµ‹à´³ à´•à´®àµà´®àµà´¯àµ‚à´£à´¿à´±àµà´±à´¿ à´‡à´Ÿà´ªàµ†à´Ÿà´²àµà´•àµ¾ à´Žà´¨àµà´¨à´¿à´µà´¯àµà´Ÿàµ† à´…à´Ÿà´¿à´¸àµà´¥à´¾à´¨à´®à´¾à´¯à´¿ à´ªàµà´°à´µàµ¼à´¤àµà´¤à´¿à´•àµà´•àµà´¨àµà´¨àµ.
+## സാധ്യതകളും സവിശേഷതകളും
+- **മൾട്ടിമീഡിയ കമ്മ്യൂണിക്കേഷൻ**: സിസ്റ്റം ടെക്സ്റ്റ് മാത്രമല്ല, ഇമേജുകൾ, ഓഡിയോ, വീഡിയോ എന്നിവയും പ്രോസസ്സ് ചെയ്യുന്നു. ഭാഷാ അതിരുകൾക്കപ്പുറം തത്സമയം മുഴുവനായും ആഴത്തിലുള്ള സംഭാഷണങ്ങൾ (ഉദാ. വീഡിയോ കോളുകൾ അല്ലെങ്കിൽ വോയ്‌സ് സന്ദേശങ്ങൾ) ഇത് അനുവദിക്കുന്നു.
+- **സന്ദർഭ സംവേദനക്ഷമത**: പരമ്പരാഗത വിവർത്തകർ പലപ്പോഴും തെറ്റിദ്ധരിക്കപ്പെടുന്ന ആക്ഷേപഹാസ്യം, ഭാഷാപ്രയോഗങ്ങൾ, പദപ്രയോഗങ്ങൾ, പ്രാദേശിക ഭാഷകൾ എന്നിവ കണ്ടെത്തൽ.
+- **ക്രോസ്-പ്ലാറ്റ്ഫോം നെറ്റ്‌വർക്ക്**: സ്വകാര്യ ചാറ്റുകൾ, ഫോറം ത്രെഡുകൾ (അഭിപ്രായങ്ങളുള്ള പോസ്റ്റുകൾ), ആഗോള കമ്മ്യൂണിറ്റി ഇടപെടലുകൾ എന്നിവയുടെ അടിസ്ഥാനമായി പ്രവർത്തിക്കുന്നു.
 
 ---
 
-## à´¸à´¾à´™àµà´•àµ‡à´¤à´¿à´• à´µà´¾à´¸àµà´¤àµà´µà´¿à´¦àµà´¯ (à´ªàµà´°à´§à´¾à´¨ à´†à´¶à´¯à´‚)
+## സാങ്കേതിക വാസ്തുവിദ്യ (പ്രധാന ആശയം)
 
 ![Nexus Gaja Translation Concept](assets/img/nexus_translation.jpg)
 
-Nexus Gaja-à´¯àµà´Ÿàµ† à´¸à´¾à´™àµà´•àµ‡à´¤à´¿à´• à´•àµ‹àµ¼ à´¸àµà´µà´¯à´‚ à´µà´¿à´•à´¸à´¿à´ªàµà´ªà´¿à´šàµà´š à´†à´¶à´¯à´µà´¿à´¨à´¿à´®à´¯ à´®à´¾à´¤àµƒà´•à´¯à´¾à´£àµ, à´…à´¤àµ à´•àµ¼à´¶à´¨à´®à´¾à´¯à´¿ à´®àµ‚à´¨àµà´¨àµ à´ªà´¾à´³à´¿à´•à´³à´¾à´¯à´¿ à´¤à´¿à´°à´¿à´šàµà´šà´¿à´°à´¿à´•àµà´•àµà´¨àµà´¨àµ:
+Nexus Gaja-യുടെ സാങ്കേതിക കോർ സ്വയം വികസിപ്പിച്ച ആശയവിനിമയ മാതൃകയാണ്, അത് കർശനമായി മൂന്ന് പാളികളായി തിരിച്ചിരിക്കുന്നു:
 
-1. **à´’à´±à´¿à´œà´¿à´¨àµ½**: à´…à´¯à´šàµà´šà´¯à´¾àµ¾ à´¸àµƒà´·àµà´Ÿà´¿à´šàµà´š à´†à´¶à´¯à´µà´¿à´¨à´¿à´®à´¯ à´’à´¬àµâ€Œà´œà´•àµà´±àµà´±àµ (à´¸à´¨àµà´¦àµ‡à´¶à´‚) à´Žà´ªàµà´ªàµ‹à´´àµà´‚ à´®à´¾à´±àµà´±à´®à´¿à´²àµà´²à´¾à´¤àµ† à´¤àµà´Ÿà´°àµà´¨àµà´¨àµ.
-2. **à´¸àµ†à´®à´¾àµ»àµà´±à´¿à´•àµ à´‡àµ»àµà´±àµ¼à´ªàµà´°àµ†à´±àµà´±àµ‡à´·àµ»**: à´¸à´¿à´¸àµà´±àµà´±à´‚ à´ªà´¦à´™àµà´™àµ¾ à´®à´¾à´¤àµà´°à´®à´²àµà´², à´¯à´¥à´¾àµ¼à´¤àµà´¥ à´…àµ¼à´¤àµà´¥à´µàµà´‚ à´µà´¿à´¶à´•à´²à´¨à´‚ à´šàµ†à´¯àµà´¯àµà´¨àµà´¨àµ.
-3. **à´²à´•àµà´·àµà´¯à´­à´¾à´·à´¾ à´ªàµà´°à´¾à´¤à´¿à´¨à´¿à´§àµà´¯à´‚**: AI, à´…à´¤à´¤àµ à´¸àµà´µàµ€à´•àµ¼à´¤àµà´¤à´¾à´µà´¿à´¨àµ à´…à´µà´°àµà´Ÿàµ† à´‡à´·àµà´Ÿà´ªàµà´ªàµ†à´Ÿàµà´Ÿ à´­à´¾à´·à´¯àµ† à´…à´Ÿà´¿à´¸àµà´¥à´¾à´¨à´®à´¾à´•àµà´•à´¿ à´’à´±à´¿à´œà´¿à´¨à´²à´¿àµ»àµà´±àµ† à´¤à´¾àµ½à´•àµà´•à´¾à´²à´¿à´• à´…à´²àµà´²àµ†à´™àµà´•à´¿àµ½ à´•à´¾à´·àµ† à´šàµ†à´¯àµà´¤ à´ªàµà´°à´¾à´¤à´¿à´¨à´¿à´§àµà´¯à´‚ à´®à´¾à´¤àµà´°à´®àµ‡ à´¸àµƒà´·àµà´Ÿà´¿à´•àµà´•àµ‚. à´µà´¿à´µàµ¼à´¤àµà´¤à´¨à´™àµà´™àµ¾ à´’à´°à´¿à´•àµà´•à´²àµà´‚ à´¯à´¥à´¾àµ¼à´¤àµà´¥ à´¸à´¨àµà´¦àµ‡à´¶à´¤àµà´¤àµ† à´¤à´¿à´°àµà´¤àµà´¤à´¿à´¯àµ†à´´àµà´¤àµà´¨àµà´¨à´¿à´²àµà´².
+1. **ഒറിജിനൽ**: അയച്ചയാൾ സൃഷ്ടിച്ച ആശയവിനിമയ ഒബ്‌ജക്റ്റ് (സന്ദേശം) എപ്പോഴും മാറ്റമില്ലാതെ തുടരുന്നു.
+2. **സെമാൻ്റിക് ഇൻ്റർപ്രെറ്റേഷൻ**: സിസ്റ്റം പദങ്ങൾ മാത്രമല്ല, യഥാർത്ഥ അർത്ഥവും വിശകലനം ചെയ്യുന്നു.
+3. **ലക്ഷ്യഭാഷാ പ്രാതിനിധ്യം**: AI, അതത് സ്വീകർത്താവിന് അവരുടെ ഇഷ്ടപ്പെട്ട ഭാഷയെ അടിസ്ഥാനമാക്കി ഒറിജിനലിൻ്റെ താൽക്കാലിക അല്ലെങ്കിൽ കാഷെ ചെയ്ത പ്രാതിനിധ്യം മാത്രമേ സൃഷ്ടിക്കൂ. വിവർത്തനങ്ങൾ ഒരിക്കലും യഥാർത്ഥ സന്ദേശത്തെ തിരുത്തിയെഴുതുന്നില്ല.
 
-### à´¸à´¨àµà´¦àµ¼à´­ à´†à´¶àµà´°à´¿à´¤à´¤àµà´µà´‚
-à´µà´¿à´µàµ¼à´¤àµà´¤à´¨à´™àµà´™àµ¾ à´’à´°à´¿à´•àµà´•à´²àµà´‚ Nexus Gaja-à´²àµ† à´µà´¾àµ¼à´¤àµà´¤à´•à´³àµ† à´’à´±àµà´±à´ªàµà´ªàµ†à´Ÿàµà´Ÿàµ à´¨àµ‹à´•àµà´•àµà´¨àµà´¨à´¿à´²àµà´². à´Žà´žàµà´šà´¿àµ» à´®àµà´´àµà´µàµ» à´¶àµà´°àµ‡à´£à´¿à´¯àµà´‚ à´•à´£à´•àµà´•à´¿à´²àµ†à´Ÿàµà´•àµà´•àµà´¨àµà´¨àµ:
-`à´¸à´¨àµà´¦àµ‡à´¶à´‚` â†’ `à´®àµà´®àµà´ªà´¤àµà´¤àµ† à´¸à´¨àµà´¦àµ‡à´¶à´™àµà´™àµ¾` â†’ `à´¤àµà´°àµ†à´¡àµ à´¸à´¨àµà´¦àµ¼à´­à´‚` â†’ `à´•à´®àµà´®àµà´¯àµ‚à´£à´¿à´±àµà´±à´¿ à´¸à´¨àµà´¦àµ¼à´­à´‚` â†’ `à´­à´¾à´· / à´®àµ‡à´–à´²` â†’ `à´‰à´ªà´¯àµ‹à´•àµà´¤àµƒ à´®àµàµ»à´—à´£à´¨à´•àµ¾`
+### സന്ദർഭ ആശ്രിതത്വം
+വിവർത്തനങ്ങൾ ഒരിക്കലും Nexus Gaja-ലെ വാർത്തകളെ ഒറ്റപ്പെട്ട് നോക്കുന്നില്ല. എഞ്ചിൻ മുഴുവൻ ശ്രേണിയും കണക്കിലെടുക്കുന്നു:
+`സന്ദേശം` → `മുമ്പത്തെ സന്ദേശങ്ങൾ` → `ത്രെഡ് സന്ദർഭം` → `കമ്മ്യൂണിറ്റി സന്ദർഭം` → `ഭാഷ / മേഖല` → `ഉപയോക്തൃ മുൻഗണനകൾ`
 
-### à´†à´µà´¶àµà´¯à´¾à´¨àµà´¸à´°à´£à´‚ à´µà´¿à´µàµ¼à´¤àµà´¤à´¨à´‚ à´µà´´à´¿ à´•à´¾à´°àµà´¯à´•àµà´·à´®à´¤
-à´µà´¿à´µàµ¼à´¤àµà´¤à´¨à´‚ ** à´µà´¿à´³à´¿à´•àµà´•àµà´®àµà´ªàµ‹àµ¾** (à´“àµº-à´¡à´¿à´®à´¾àµ»à´¡àµ) à´±à´¿à´¸àµ‹à´´àµâ€Œà´¸àµ à´¸àµ‡à´µà´¿à´‚à´—àµ à´°àµ€à´¤à´¿à´¯à´¿àµ½ à´®à´¾à´¤àµà´°à´®àµ‡ à´¨à´Ÿà´•àµà´•àµ‚. à´’à´°àµ à´‰à´ªà´¯àµ‹à´•àµà´¤à´¾à´µàµ à´‰à´³àµà´³à´Ÿà´•àµà´•à´‚ à´…à´­àµà´¯àµ¼à´¤àµà´¥à´¿à´•àµà´•àµà´®àµà´ªàµ‹àµ¾, à´…à´¤àµ à´…à´µà´°àµà´Ÿàµ† à´¡à´¿à´«àµ‹àµ¾à´Ÿàµà´Ÿàµ à´­à´¾à´·à´¯à´¿à´²àµ‡à´•àµà´•àµ à´µà´¿à´µàµ¼à´¤àµà´¤à´¨à´‚ à´šàµ†à´¯àµà´¯à´ªàµà´ªàµ†à´Ÿàµà´‚. à´ªà´¿à´¨àµà´¨àµ€à´Ÿàµà´³àµà´³ à´…à´¨àµà´µàµ‡à´·à´£à´™àµà´™àµ¾ à´¨à´¾à´Ÿà´•àµ€à´¯à´®à´¾à´¯à´¿ à´µàµ‡à´—à´¤àµà´¤à´¿à´²à´¾à´•àµà´•à´¾àµ» à´’à´°àµ à´¨à´¿àµ¼à´¦àµà´¦à´¿à´·àµâ€Œà´Ÿ à´­à´¾à´·à´¯àµâ€Œà´•àµà´•à´¾à´¯àµà´³àµà´³ à´µà´¿à´µàµ¼à´¤àµà´¤à´¨à´™àµà´™àµ¾ à´¶à´¾à´¶àµà´µà´¤à´®à´¾à´¯à´¿ (à´•à´¾à´·à´¿à´‚à´—àµ) à´¸à´‚à´­à´°à´¿à´•àµà´•àµà´¨àµà´¨àµ.
+### ആവശ്യാനുസരണം വിവർത്തനം വഴി കാര്യക്ഷമത
+വിവർത്തനം ** വിളിക്കുമ്പോൾ** (ഓൺ-ഡിമാൻഡ്) റിസോഴ്‌സ് സേവിംഗ് രീതിയിൽ മാത്രമേ നടക്കൂ. ഒരു ഉപയോക്താവ് ഉള്ളടക്കം അഭ്യർത്ഥിക്കുമ്പോൾ, അത് അവരുടെ ഡിഫോൾട്ട് ഭാഷയിലേക്ക് വിവർത്തനം ചെയ്യപ്പെടും. പിന്നീടുള്ള അന്വേഷണങ്ങൾ നാടകീയമായി വേഗത്തിലാക്കാൻ ഒരു നിർദ്ദിഷ്‌ട ഭാഷയ്‌ക്കായുള്ള വിവർത്തനങ്ങൾ ശാശ്വതമായി (കാഷിംഗ്) സംഭരിക്കുന്നു.
 
-## AI-à´ªà´µàµ¼ à´®àµ‹à´¡à´±àµ‡à´·àµ» (WP 1.8.4)
+## AI-പവർ മോഡറേഷൻ (WP 1.8.4)
 
-![Nexus Gaja AI à´®àµ‹à´¡à´±àµ‡à´·àµ»](assets/img/nexus_moderation.jpg)
+![Nexus Gaja AI മോഡറേഷൻ](assets/img/nexus_moderation.jpg)
 
-AI-à´ªà´¿à´¨àµà´¤àµà´£à´¯àµà´³àµà´³ à´®àµ‹à´¡à´±àµ‡à´·àµ» à´‰à´ªà´¯àµ‹à´—à´¿à´šàµà´šàµ, à´žà´™àµà´™àµ¾ à´‰àµ½à´ªàµà´ªà´¨àµà´¨ à´†à´¶à´¯à´¤àµà´¤à´¿àµ½ à´¨à´¿à´¨àµà´¨àµ à´¸à´¾à´™àµà´•àµ‡à´¤à´¿à´• à´µà´¾à´¸àµà´¤àµà´µà´¿à´¦àµà´¯à´¯à´¿à´²àµ‡à´•àµà´•àµ à´’à´°àµ à´µà´²à´¿à´¯ à´šàµà´µà´Ÿàµà´µàµ†à´ªàµà´ªàµ à´¨à´Ÿà´¤àµà´¤àµà´•à´¯àµà´‚ à´¨à´¿à´²à´µà´¿à´²àµ† EU à´¨à´¿à´¯à´¨àµà´¤àµà´°à´£à´™àµà´™àµ¾ à´•à´£à´•àµà´•à´¿à´²àµ†à´Ÿàµà´•àµà´•àµà´•à´¯àµà´‚ à´šàµ†à´¯àµà´¯àµà´¨àµà´¨àµ (à´†àµ¼à´Ÿàµà´Ÿàµ 50 à´…à´¨àµà´¸à´°à´¿à´šàµà´šàµ EU AI à´¨à´¿à´¯à´®à´¤àµà´¤à´¿àµ»àµà´±àµ† à´¸àµà´¤à´¾à´°àµà´¯à´¤ à´¬à´¾à´§àµà´¯à´¤à´•àµ¾; à´¡à´¿à´œà´¿à´±àµà´±àµ½ à´¸àµ‡à´µà´¨ à´¨à´¿à´¯à´®à´‚ à´®à´¨à´¸àµà´¸à´¿à´²à´¾à´•àµà´•à´¾à´µàµà´¨àµà´¨ à´¨àµà´¯à´¾à´¯àµ€à´•à´°à´£à´™àµà´™à´³àµà´‚ à´Žà´¤à´¿àµ¼à´ªàµà´ªà´¿à´¨àµà´³àµà´³ à´“à´ªàµà´·à´¨àµà´•à´³àµà´‚).
+AI-പിന്തുണയുള്ള മോഡറേഷൻ ഉപയോഗിച്ച്, ഞങ്ങൾ ഉൽപ്പന്ന ആശയത്തിൽ നിന്ന് സാങ്കേതിക വാസ്തുവിദ്യയിലേക്ക് ഒരു വലിയ ചുവടുവെപ്പ് നടത്തുകയും നിലവിലെ EU നിയന്ത്രണങ്ങൾ കണക്കിലെടുക്കുകയും ചെയ്യുന്നു (ആർട്ട് 50 അനുസരിച്ച് EU AI നിയമത്തിൻ്റെ സുതാര്യത ബാധ്യതകൾ; ഡിജിറ്റൽ സേവന നിയമം മനസ്സിലാക്കാവുന്ന ന്യായീകരണങ്ങളും എതിർപ്പിനുള്ള ഓപ്ഷനുകളും).
 
-### 1. à´…à´Ÿà´¿à´¸àµà´¥à´¾à´¨ à´¤à´¤àµà´µà´‚
-à´µà´¾à´¸àµà´¤àµà´µà´¿à´¦àµà´¯à´¯àµà´Ÿàµ† à´à´±àµà´±à´µàµà´‚ à´ªàµà´°à´§à´¾à´¨à´ªàµà´ªàµ†à´Ÿàµà´Ÿ à´µà´¾à´šà´•à´‚ à´‡à´¤à´¾à´£àµ: ** à´®àµ‹à´¡à´±àµ‡à´·àµ» AI à´’à´°àµ à´šàµ†à´•àµà´•à´¿à´‚à´—àµ à´¸à´¿à´¸àµà´±àµà´±à´®à´¾à´£àµ, à´’à´°àµ à´¸àµà´µà´¯à´‚à´­à´°à´£ à´­à´°à´£ à´¸à´‚à´µà´¿à´§à´¾à´¨à´®à´²àµà´².**
-Nexus Gaja-à´¯à´¿àµ½ à´à´¤àµŠà´•àµà´•àµ† à´…à´­à´¿à´ªàµà´°à´¾à´¯à´™àµà´™à´³à´¾à´£àµ à´¨à´¿à´²à´¨à´¿àµ½à´•àµà´•à´¾àµ» à´…à´¨àµà´µà´¦à´¿à´•àµà´•àµà´¨àµà´¨à´¤àµ†à´¨àµà´¨àµ à´¨à´¿àµ¼à´£àµà´£à´¯à´¿à´•àµà´•à´¾à´¨à´²àµà´², à´®à´¿à´¤à´®à´¾à´¯à´¿ à´†à´³àµà´•à´³àµ† à´ªà´¿à´¨àµà´¤àµà´£à´¯àµà´•àµà´•à´¾à´¨à´¾à´£àµ à´‡à´¤àµ à´‰à´¦àµà´¦àµ‡à´¶à´¿à´•àµà´•àµà´¨àµà´¨à´¤àµ.
-à´…à´™àµà´™à´¨àµ† à´žà´™àµà´™àµ¾ à´®àµ‚à´¨àµà´¨àµ à´•à´¾à´°àµà´¯à´™àµà´™àµ¾ à´¤à´®àµà´®à´¿àµ½ à´µàµ‡àµ¼à´¤à´¿à´°à´¿à´•àµà´•àµà´¨àµà´¨àµ:
-- **à´•à´£àµà´Ÿàµ†à´¤àµà´¤àµà´•:** "à´‡à´µà´¿à´Ÿàµ† à´’à´°àµ à´¨à´¿à´¯à´®à´²à´‚à´˜à´¨à´‚ à´‰à´£àµà´Ÿà´¾à´¯àµ‡à´•àµà´•à´¾à´‚."
-- ** à´¨à´¿à´°à´•àµà´•àµ:** "à´‰à´¦à´¾à´¹à´°à´£à´¤àµà´¤à´¿à´¨àµ, à´’à´°àµ à´¨à´¿à´¯à´® à´²à´‚à´˜à´¨à´¤àµà´¤à´¿àµ»àµà´±àµ† à´¸à´‚à´­à´¾à´µàµà´¯à´¤ 94% à´†à´£àµ."
-- **à´¤àµ€à´°àµà´®à´¾à´¨à´¿à´•àµà´•àµà´•:** "à´¯à´¥à´¾àµ¼à´¤àµà´¥à´¤àµà´¤à´¿àµ½ à´Žà´¨àµà´¤àµ à´¨à´Ÿà´ªà´Ÿà´¿à´¯àµ†à´Ÿàµà´•àµà´•àµà´‚?"
-à´—àµà´°àµà´¤à´°à´®à´¾à´¯ à´•àµ‡à´¸àµà´•à´³à´¿àµ½ à´®àµ‚à´¨àµà´¨à´¾à´®à´¤àµà´¤àµ† à´¤à´²à´‚ à´®à´¾à´¨àµà´·à´¿à´•à´®à´¾à´¯à´¿ à´¨à´¿à´¯à´¨àµà´¤àµà´°à´¿à´•àµà´•à´£à´‚.
+### 1. അടിസ്ഥാന തത്വം
+വാസ്തുവിദ്യയുടെ ഏറ്റവും പ്രധാനപ്പെട്ട വാചകം ഇതാണ്: ** മോഡറേഷൻ AI ഒരു ചെക്കിംഗ് സിസ്റ്റമാണ്, ഒരു സ്വയംഭരണ ഭരണ സംവിധാനമല്ല.**
+Nexus Gaja-യിൽ ഏതൊക്കെ അഭിപ്രായങ്ങളാണ് നിലനിൽക്കാൻ അനുവദിക്കുന്നതെന്ന് നിർണ്ണയിക്കാനല്ല, മിതമായി ആളുകളെ പിന്തുണയ്ക്കാനാണ് ഇത് ഉദ്ദേശിക്കുന്നത്.
+അങ്ങനെ ഞങ്ങൾ മൂന്ന് കാര്യങ്ങൾ തമ്മിൽ വേർതിരിക്കുന്നു:
+- **കണ്ടെത്തുക:** "ഇവിടെ ഒരു നിയമലംഘനം ഉണ്ടായേക്കാം."
+- ** നിരക്ക്:** "ഉദാഹരണത്തിന്, ഒരു നിയമ ലംഘനത്തിൻ്റെ സംഭാവ്യത 94% ആണ്."
+- **തീരുമാനിക്കുക:** "യഥാർത്ഥത്തിൽ എന്ത് നടപടിയെടുക്കും?"
+ഗുരുതരമായ കേസുകളിൽ മൂന്നാമത്തെ തലം മാനുഷികമായി നിയന്ത്രിക്കണം.
 
-### 2. à´®àµ‹à´¡à´±àµ‡à´·àµ» AI à´…à´¤à´¿àµ»àµà´±àµ† à´¸àµà´µà´¨àµà´¤à´‚ à´¸à´¬àµà´¸à´¿à´¸àµà´±àµà´±à´‚ à´†à´¯à´¿à´°à´¿à´•àµà´•àµà´‚
-à´’à´°àµŠà´±àµà´± AI-à´•àµà´•àµ à´ªà´•à´°à´‚, à´¶à´•àµà´¤à´®à´¾à´¯ à´’à´°àµ à´‰à´ªà´¸à´¿à´¸àµà´±àµà´±à´‚ à´¸àµà´¥à´¾à´ªà´¿à´šàµà´šà´¿à´°à´¿à´•àµà´•àµà´¨àµà´¨àµ:
-``` à´Ÿàµ†à´•àµà´¸àµà´±àµà´±àµ
-                 NEXUS GAJA AI à´®àµ‹à´¡à´±àµ‡à´·àµ»
-                          â”‚
-       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-       â”‚ â”‚ â”‚
-  à´­à´¾à´· AI à´¸àµà´°à´•àµà´· AI à´«àµà´°àµ‹à´¡àµ AI
-       â”‚ â”‚ â”‚
-       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€ â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”¤
-       â”‚ â”‚ â”‚
- à´µà´¿à´µàµ¼à´¤àµà´¤à´¨ à´¸àµà´µà´­à´¾à´µ à´à´¡àµ»àµà´±à´¿à´±àµà´±à´¿
- à´µà´¿à´¶à´•à´²à´¨à´‚ à´µà´¿à´¶à´•à´²à´¨à´‚ à´¸à´¿à´—àµà´¨à´²àµà´•àµ¾
-       â”‚ â”‚ â”‚
-       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
-                      â–¼
-               à´…à´ªà´•à´Ÿà´¸à´¾à´§àµà´¯à´¤ à´µà´¿à´²à´¯à´¿à´°àµà´¤àµà´¤àµ½
-                      â”‚
-                      â–¼
-               à´¹àµà´¯àµ‚à´®àµ» à´±à´¿à´µàµà´¯àµ‚
+### 2. മോഡറേഷൻ AI അതിൻ്റെ സ്വന്തം സബ്സിസ്റ്റം ആയിരിക്കും
+ഒരൊറ്റ AI-ക്ക് പകരം, ശക്തമായ ഒരു ഉപസിസ്റ്റം സ്ഥാപിച്ചിരിക്കുന്നു:
+``` ടെക്സ്റ്റ്
+                 NEXUS GAJA AI മോഡറേഷൻ
+                          │
+       ┌────────────────── ┼──────────────────┐
+       │ │ │
+  ഭാഷ AI സുരക്ഷ AI ഫ്രോഡ് AI
+       │ │ │
+       ├──────────────┬─── ┴─────────────┬───┤
+       │ │ │
+ വിവർത്തന സ്വഭാവ ഐഡൻ്റിറ്റി
+ വിശകലനം വിശകലനം സിഗ്നലുകൾ
+       │ │ │
+       └─────────────┼────────────
+                      ▼
+               അപകടസാധ്യത വിലയിരുത്തൽ
+                      │
+                      ▼
+               ഹ്യൂമൻ റിവ്യൂ
 ```
 
-### 3. à´à´±àµà´±à´µàµà´‚ à´ªàµà´°à´§à´¾à´¨à´ªàµà´ªàµ†à´Ÿàµà´Ÿ AI à´®àµŠà´¡àµà´¯àµ‚à´³àµà´•àµ¾
-Nexus Gaja-à´¯àµà´•àµà´•àµ à´’à´®àµà´ªà´¤àµ à´ªàµà´°à´¤àµà´¯àµ‡à´• à´µà´¿à´¶à´•à´²à´¨ à´®àµ‡à´–à´²à´•à´³àµà´£àµà´Ÿàµ:
-- **M1 - à´­à´¾à´·à´¾ à´§à´¾à´°à´£**: à´­à´¾à´·, à´­à´¾à´·à´¾à´­àµ‡à´¦à´‚, à´¸àµà´²à´¾à´‚à´—àµ, à´µà´¿à´°àµ‹à´§à´¾à´­à´¾à´¸ à´¸àµ‚à´šà´•à´™àµà´™àµ¾, à´µà´¿à´µàµ¼à´¤àµà´¤à´¨ à´ªàµà´°à´¶àµà´¨à´™àµà´™àµ¾ à´Žà´¨àµà´¨à´¿à´µ à´•à´£àµà´Ÿàµ†à´¤àµà´¤àµà´¨àµà´¨àµ.
-- **M2 - à´µà´¿à´·à´¬à´¾à´§ / à´¦àµà´°àµà´ªà´¯àµ‹à´—à´‚ à´•à´£àµà´Ÿàµ†à´¤àµà´¤àµ½**: à´…à´ªà´®à´¾à´¨à´™àµà´™àµ¾, à´µàµà´¯à´•àµà´¤à´¿à´ªà´°à´®à´¾à´¯ à´†à´•àµà´°à´®à´£à´™àµà´™àµ¾, à´‰à´ªà´¦àµà´°à´µà´‚ à´Žà´¨àµà´¨à´¿à´µ à´•à´£àµà´Ÿàµ†à´¤àµà´¤àµà´¨àµà´¨àµ.
-- **M3 - à´­àµ€à´·à´£à´¿ à´•à´£àµà´Ÿàµ†à´¤àµà´¤àµ½**: à´¸à´¾à´§àµà´¯à´®à´¾à´¯ à´­àµ€à´·à´£à´¿à´•àµ¾, à´¬àµà´²à´¾à´•àµà´•àµâ€Œà´®àµ†à´¯à´¿àµ½, à´…à´•àµà´°à´® à´­àµ€à´·à´£à´¿à´•àµ¾ à´Žà´¨àµà´¨à´¿à´µ à´•à´£àµà´Ÿàµ†à´¤àµà´¤àµà´¨àµà´¨àµ.
-- **M4 - à´µà´¿à´¦àµà´µàµ‡à´·à´‚ / à´®à´¨àµà´·àµà´¯à´¤àµà´µà´°à´¹à´¿à´¤à´®à´¾à´•àµà´•àµ½ à´•à´£àµà´Ÿàµ†à´¤àµà´¤àµ½**: à´¨à´¿àµ¼à´¦àµà´¦à´¿à´·àµà´Ÿ à´…à´«à´¿à´²à´¿à´¯àµ‡à´·à´¨àµà´•à´³àµ† à´…à´Ÿà´¿à´¸àµà´¥à´¾à´¨à´®à´¾à´•àµà´•à´¿ à´†à´³àµà´•àµ¾à´•àµà´•àµ à´¨àµ‡à´°àµ†à´¯àµà´³àµà´³ à´Ÿà´¾àµ¼à´—àµ†à´±àµà´±àµà´šàµ†à´¯àµâ€Œà´¤ à´†à´•àµà´°à´®à´£à´™àµà´™àµ¾ à´•à´£àµà´Ÿàµ†à´¤àµà´¤àµà´¨àµà´¨àµ.
-- **M5 â€“ à´¸àµà´ªà´¾à´‚ / à´•àµƒà´¤àµà´°à´¿à´®à´¤àµà´µà´‚ à´•à´£àµà´Ÿàµ†à´¤àµà´¤àµ½**: à´¸àµà´ªà´¾à´‚, à´¬àµ‹à´Ÿàµà´Ÿàµ à´ªàµ†à´°àµà´®à´¾à´±àµà´±à´‚, à´•àµ‹àµ¼à´¡à´¿à´¨àµ‡à´±àµà´±à´¡àµ à´•àµƒà´¤àµà´°à´¿à´®à´¤àµà´µà´‚ à´Žà´¨àµà´¨à´¿à´µ à´•à´£àµà´Ÿàµ†à´¤àµà´¤àµà´¨àµà´¨àµ.
-- **M6 â€“ à´µà´žàµà´šà´¨ à´•à´£àµà´Ÿàµ†à´¤àµà´¤àµ½**: à´¸à´‚à´¶à´¯à´¾à´¸àµà´ªà´¦à´®à´¾à´¯ à´¤à´Ÿàµà´Ÿà´¿à´ªàµà´ªàµ à´¶àµà´°à´®à´™àµà´™àµ¾, à´«à´¿à´·à´¿à´‚à´—àµ, à´¸àµ‹à´·àµà´¯àµ½ à´Žà´žàµà´šà´¿à´¨àµ€à´¯à´±à´¿à´‚à´—àµ à´Žà´¨àµà´¨à´¿à´µ à´•à´£àµà´Ÿàµ†à´¤àµà´¤àµà´¨àµà´¨àµ.
-- **M7 - à´à´¡àµ»àµà´±à´¿à´±àµà´±à´¿ à´‡àµ»àµà´±à´—àµà´°à´¿à´±àµà´±à´¿**: à´…à´•àµà´•àµ—à´£àµà´Ÿàµ à´à´±àµà´±àµ†à´Ÿàµà´•àµà´•àµ½, à´’à´¨àµà´¨à´¿à´²à´§à´¿à´•à´‚ à´…à´•àµà´•àµ—à´£àµà´Ÿàµà´•àµ¾, à´¬àµà´²àµ‹à´•àµà´•àµ à´¬àµˆà´ªà´¾à´¸àµ à´Žà´¨àµà´¨à´¿à´µà´¯àµ†à´•àµà´•àµà´±à´¿à´šàµà´šàµà´³àµà´³ à´¸à´¿à´—àµà´¨à´²àµà´•àµ¾ à´ªà´°à´¿à´¶àµ‹à´§à´¿à´•àµà´•àµà´¨àµà´¨àµ.
-- **M8 â€“ à´®àµ€à´¡à´¿à´¯ à´¸àµ‡à´«àµà´±àµà´±à´¿**: à´šà´¿à´¤àµà´°à´™àµà´™àµ¾, à´“à´¡à´¿à´¯àµ‹, à´µàµ€à´¡à´¿à´¯àµ‹, à´ªàµà´°à´®à´¾à´£à´™àµà´™àµ¾ à´Žà´¨àµà´¨à´¿à´µ à´µà´¿à´¶à´•à´²à´¨à´‚ à´šàµ†à´¯àµà´¯àµà´¨àµà´¨àµ.
-- **M9 â€“ à´¸à´¨àµà´¦àµ¼à´­ à´Žà´žàµà´šà´¿àµ»**: à´à´±àµà´±à´µàµà´‚ à´ªàµà´°à´§à´¾à´¨à´ªàµà´ªàµ†à´Ÿàµà´Ÿ à´®àµŠà´¡àµà´¯àµ‚àµ¾. à´‡à´¤àµ à´µàµà´¯à´•àµà´¤à´¿à´—à´¤ à´•à´£àµà´Ÿàµ†à´¤àµà´¤à´²àµà´•àµ¾ à´’à´°àµà´®à´¿à´šàµà´šàµ à´•àµŠà´£àµà´Ÿàµà´µà´°àµà´¨àµà´¨àµ.
+### 3. ഏറ്റവും പ്രധാനപ്പെട്ട AI മൊഡ്യൂളുകൾ
+Nexus Gaja-യ്ക്ക് ഒമ്പത് പ്രത്യേക വിശകലന മേഖലകളുണ്ട്:
+- **M1 - ഭാഷാ ധാരണ**: ഭാഷ, ഭാഷാഭേദം, സ്ലാംഗ്, വിരോധാഭാസ സൂചകങ്ങൾ, വിവർത്തന പ്രശ്നങ്ങൾ എന്നിവ കണ്ടെത്തുന്നു.
+- **M2 - വിഷബാധ / ദുരുപയോഗം കണ്ടെത്തൽ**: അപമാനങ്ങൾ, വ്യക്തിപരമായ ആക്രമണങ്ങൾ, ഉപദ്രവം എന്നിവ കണ്ടെത്തുന്നു.
+- **M3 - ഭീഷണി കണ്ടെത്തൽ**: സാധ്യമായ ഭീഷണികൾ, ബ്ലാക്ക്‌മെയിൽ, അക്രമ ഭീഷണികൾ എന്നിവ കണ്ടെത്തുന്നു.
+- **M4 - വിദ്വേഷം / മനുഷ്യത്വരഹിതമാക്കൽ കണ്ടെത്തൽ**: നിർദ്ദിഷ്ട അഫിലിയേഷനുകളെ അടിസ്ഥാനമാക്കി ആളുകൾക്ക് നേരെയുള്ള ടാർഗെറ്റുചെയ്‌ത ആക്രമണങ്ങൾ കണ്ടെത്തുന്നു.
+- **M5 – സ്പാം / കൃത്രിമത്വം കണ്ടെത്തൽ**: സ്പാം, ബോട്ട് പെരുമാറ്റം, കോർഡിനേറ്റഡ് കൃത്രിമത്വം എന്നിവ കണ്ടെത്തുന്നു.
+- **M6 – വഞ്ചന കണ്ടെത്തൽ**: സംശയാസ്പദമായ തട്ടിപ്പ് ശ്രമങ്ങൾ, ഫിഷിംഗ്, സോഷ്യൽ എഞ്ചിനീയറിംഗ് എന്നിവ കണ്ടെത്തുന്നു.
+- **M7 - ഐഡൻ്റിറ്റി ഇൻ്റഗ്രിറ്റി**: അക്കൗണ്ട് ഏറ്റെടുക്കൽ, ഒന്നിലധികം അക്കൗണ്ടുകൾ, ബ്ലോക്ക് ബൈപാസ് എന്നിവയെക്കുറിച്ചുള്ള സിഗ്നലുകൾ പരിശോധിക്കുന്നു.
+- **M8 – മീഡിയ സേഫ്റ്റി**: ചിത്രങ്ങൾ, ഓഡിയോ, വീഡിയോ, പ്രമാണങ്ങൾ എന്നിവ വിശകലനം ചെയ്യുന്നു.
+- **M9 – സന്ദർഭ എഞ്ചിൻ**: ഏറ്റവും പ്രധാനപ്പെട്ട മൊഡ്യൂൾ. ഇത് വ്യക്തിഗത കണ്ടെത്തലുകൾ ഒരുമിച്ച് കൊണ്ടുവരുന്നു.
 
-### 4. à´Žà´¨àµà´¤àµà´•àµŠà´£àµà´Ÿàµ à´¸à´¨àµà´¦àµ¼à´­ à´Žà´žàµà´šà´¿àµ» à´µà´³à´°àµ† à´ªàµà´°à´§à´¾à´¨à´®à´¾à´£àµ
-à´’à´°àµ à´¶àµà´¦àµà´§à´®à´¾à´¯ à´•àµ€à´µàµ‡à´¡àµ à´¤à´¿à´°à´¯àµ½ à´®à´¤à´¿à´¯à´¾à´•à´¿à´²àµà´². "à´Žà´¨à´¿à´•àµà´•àµ à´…à´µà´¨àµ† à´šà´¿à´°à´¿à´šàµà´šàµ à´•àµŠà´²àµà´²à´¾à´¨à´¾à´µàµà´‚" à´Žà´¨àµà´¨à´¤à´¿àµ½ à´…àµ¼à´¤àµà´¥à´ªà´°à´®à´¾à´¯ à´…à´•àµà´°à´®à´‚ à´…à´Ÿà´™àµà´™à´¿à´¯à´¿à´°à´¿à´•àµà´•àµà´¨àµà´¨àµ, à´ªà´•àµà´·àµ‡ à´¸à´‚à´¸à´¾à´°à´¤àµà´¤à´¿àµ»àµà´±àµ† à´’à´°àµ à´°àµ‚à´ªà´®à´¾à´£àµ. "à´¨à´¾à´³àµ† à´°à´¾à´¤àµà´°à´¿ 8 à´®à´£à´¿à´•àµà´•àµ à´žà´¾àµ» à´…à´µà´¨àµ† à´…à´µàµ»àµà´±àµ† à´µàµ€à´Ÿà´¿à´¨àµ à´®àµà´¨àµà´¨à´¿àµ½ à´µàµ†à´Ÿà´¿à´µà´šàµà´šàµà´•àµŠà´²àµà´²àµà´‚" à´Žà´¨àµà´¨à´¤àµ à´¤à´¿à´•à´šàµà´šàµà´‚ à´µàµà´¯à´¤àµà´¯à´¸àµà´¤à´®à´¾à´¯ à´’à´°àµ à´¸à´¾à´¹à´šà´°àµà´¯à´®à´¾à´£àµ. à´ˆ à´ªàµà´°à´¤àµà´¯àµ‡à´• à´¸à´¨àµà´¦àµ¼à´­à´¤àµà´¤à´¿àµ½ à´ªàµà´°à´¸àµà´¤à´¾à´µà´¨ à´Žà´¨àµà´¤à´¾à´£àµ à´…àµ¼à´¤àµà´¥à´®à´¾à´•àµà´•àµà´¨àµà´¨à´¤àµ†à´¨àµà´¨àµ AI à´®à´¨à´¸àµà´¸à´¿à´²à´¾à´•àµà´•à´£à´‚.
+### 4. എന്തുകൊണ്ട് സന്ദർഭ എഞ്ചിൻ വളരെ പ്രധാനമാണ്
+ഒരു ശുദ്ധമായ കീവേഡ് തിരയൽ മതിയാകില്ല. "എനിക്ക് അവനെ ചിരിച്ച് കൊല്ലാനാവും" എന്നതിൽ അർത്ഥപരമായ അക്രമം അടങ്ങിയിരിക്കുന്നു, പക്ഷേ സംസാരത്തിൻ്റെ ഒരു രൂപമാണ്. "നാളെ രാത്രി 8 മണിക്ക് ഞാൻ അവനെ അവൻ്റെ വീടിന് മുന്നിൽ വെടിവച്ചുകൊല്ലും" എന്നത് തികച്ചും വ്യത്യസ്തമായ ഒരു സാഹചര്യമാണ്. ഈ പ്രത്യേക സന്ദർഭത്തിൽ പ്രസ്താവന എന്താണ് അർത്ഥമാക്കുന്നതെന്ന് AI മനസ്സിലാക്കണം.
 
-### 5. à´¬à´¹àµà´­à´¾à´·à´¾ à´®àµ‹à´¡à´±àµ‡à´·àµ»
-à´®à´¿à´¤à´¤àµà´µà´¤àµà´¤à´¿à´¨àµ à´µà´¾à´•àµà´•àµà´•àµ¾ à´¤à´¾à´°à´¤à´®àµà´¯à´‚ à´šàµ†à´¯àµà´¯à´¾àµ» à´•à´´à´¿à´¯à´¿à´²àµà´². à´‡à´¤àµ à´…àµ¼à´¤àµà´¥à´¤àµà´¤à´¿àµ»àµà´±àµ† à´¨à´¿à´²à´µà´¾à´°à´‚ à´µà´¿à´¶à´•à´²à´¨à´‚ à´šàµ†à´¯àµà´¯à´£à´‚ (à´‰à´¦à´¾. à´œàµ¼à´®àµà´®àµ» à´­à´¾à´·à´•àµ¾, à´œà´¾à´ªàµà´ªà´¨àµ€à´¸àµ à´­à´¾à´·à´•àµ¾, à´ªàµà´°à´¾à´¦àµ‡à´¶à´¿à´• à´ªà´¦à´ªàµà´°à´¯àµ‹à´—à´™àµà´™àµ¾).
+### 5. ബഹുഭാഷാ മോഡറേഷൻ
+മിതത്വത്തിന് വാക്കുകൾ താരതമ്യം ചെയ്യാൻ കഴിയില്ല. ഇത് അർത്ഥത്തിൻ്റെ നിലവാരം വിശകലനം ചെയ്യണം (ഉദാ. ജർമ്മൻ ഭാഷകൾ, ജാപ്പനീസ് ഭാഷകൾ, പ്രാദേശിക പദപ്രയോഗങ്ങൾ).
 
-### 6. à´¯à´¥à´¾àµ¼à´¤àµà´¥ à´­à´¾à´· + à´µà´¿à´µàµ¼à´¤àµà´¤à´¨à´‚
-à´®àµ‚à´²à´µàµà´‚ à´µà´¿à´µàµ¼à´¤àµà´¤à´¨à´µàµà´‚ à´ªàµà´°à´¤àµà´¯àµ‡à´•à´‚ à´µà´¿à´¶à´•à´²à´¨à´‚ à´šàµ†à´¯àµà´¯àµà´¨àµà´¨àµ. à´…à´¤à´¿à´¨àµà´¶àµ‡à´·à´‚ à´®à´¾à´¤àµà´°à´®àµ‡ "à´¸à´‚à´¯àµ‹à´œà´¿à´¤ à´®àµ‹à´¡à´±àµ‡à´·àµ» à´µà´¿à´²à´¯à´¿à´°àµà´¤àµà´¤àµ½" à´¨à´Ÿà´•àµà´•àµ‚. à´ˆ à´°àµ€à´¤à´¿à´¯à´¿àµ½, à´µà´¿à´µàµ¼à´¤àµà´¤à´¨à´‚ à´¤à´¨àµà´¨àµ† à´¸àµà´¥à´¿à´¤à´¿à´—à´¤à´¿à´•àµ¾ à´µà´·à´³à´¾à´•àµà´•àµà´•à´¯à´¾à´£àµ‹ à´…à´¤àµ‹ à´®à´¾à´±àµà´±à´¿à´®à´±à´¿à´šàµà´šà´¿à´Ÿàµà´Ÿàµà´£àµà´Ÿàµ‹ à´Žà´¨àµà´¨àµ à´¨à´¿àµ¼à´£àµà´£à´¯à´¿à´•àµà´•à´¾àµ» Nexus Gaja-à´¨àµ à´•à´´à´¿à´¯àµà´‚.
+### 6. യഥാർത്ഥ ഭാഷ + വിവർത്തനം
+മൂലവും വിവർത്തനവും പ്രത്യേകം വിശകലനം ചെയ്യുന്നു. അതിനുശേഷം മാത്രമേ "സംയോജിത മോഡറേഷൻ വിലയിരുത്തൽ" നടക്കൂ. ഈ രീതിയിൽ, വിവർത്തനം തന്നെ സ്ഥിതിഗതികൾ വഷളാക്കുകയാണോ അതോ മാറ്റിമറിച്ചിട്ടുണ്ടോ എന്ന് നിർണ്ണയിക്കാൻ Nexus Gaja-ന് കഴിയും.
 
-### 7. à´•àµ‹àµºà´«à´¿à´¡àµ»à´¸àµ à´¸àµà´•àµ‹àµ¼
-à´“à´°àµ‹ AI à´µà´¿à´²à´¯à´¿à´°àµà´¤àµà´¤à´²à´¿à´¨àµà´‚ à´’à´°àµ à´†à´¤àµà´®à´µà´¿à´¶àµà´µà´¾à´¸ à´®àµ‚à´²àµà´¯à´‚ à´²à´­à´¿à´•àµà´•àµà´¨àµà´¨àµ (à´‰à´¦à´¾. à´­àµ€à´·à´£à´¿ à´¸à´¾à´§àµà´¯à´¤: 0.96). à´ªà´•àµà´·àµ‡: **à´†à´¤àµà´®à´µà´¿à´¶àµà´µà´¾à´¸ à´¸àµâ€Œà´•àµ‹àµ¼ â‰  à´¸à´¤àµà´¯à´‚.** 96% à´Žà´¨àµà´¨ à´¸àµâ€Œà´•àµ‹àµ¼ à´…àµ¼à´¤àµà´¥à´®à´¾à´•àµà´•àµà´¨àµà´¨à´¤àµ à´®àµ‹à´¡àµ½ à´…à´¤à´¿àµ»àµà´±àµ† à´µàµ¼à´—àµà´—àµ€à´•à´°à´£à´¤àµà´¤à´¿àµ½ à´µà´³à´°àµ† à´†à´¤àµà´®à´µà´¿à´¶àµà´µà´¾à´¸à´®àµà´³àµà´³à´¤à´¾à´£àµ†à´¨àµà´¨à´¾à´£àµ, à´‰à´ªà´¯àµ‹à´•àµà´¤à´¾à´µàµ à´•àµà´±àµà´±à´•àµà´•à´¾à´°à´¨à´¾à´£àµ†à´¨àµà´¨àµ à´¨à´¿àµ¼à´¬à´¨àµà´§à´®à´¿à´²àµà´².
+### 7. കോൺഫിഡൻസ് സ്കോർ
+ഓരോ AI വിലയിരുത്തലിനും ഒരു ആത്മവിശ്വാസ മൂല്യം ലഭിക്കുന്നു (ഉദാ. ഭീഷണി സാധ്യത: 0.96). പക്ഷേ: **ആത്മവിശ്വാസ സ്‌കോർ ≠ സത്യം.** 96% എന്ന സ്‌കോർ അർത്ഥമാക്കുന്നത് മോഡൽ അതിൻ്റെ വർഗ്ഗീകരണത്തിൽ വളരെ ആത്മവിശ്വാസമുള്ളതാണെന്നാണ്, ഉപയോക്താവ് കുറ്റക്കാരനാണെന്ന് നിർബന്ധമില്ല.
 
-### 8. à´…à´¨à´¿à´¶àµà´šà´¿à´¤à´¤àµà´µà´‚ à´¤à´¨àµà´¨àµ† à´’à´°àµ à´¸àµ‚à´šà´¨à´¯à´¾à´¯à´¿ à´®à´¾à´±àµà´¨àµà´¨àµ
-AI à´…à´¨à´¿à´¶àµà´šà´¿à´¤à´¤àµà´µà´¤àµà´¤à´¿à´²à´¾à´£àµ†à´™àµà´•à´¿àµ½ (à´‰à´¦à´¾. à´­àµ€à´·à´£à´¿: 0.62, à´†à´•àµà´·àµ‡à´ªà´¹à´¾à´¸àµà´¯à´‚: 0.54), à´…à´¤à´¿à´¨àµ à´•à´ à´¿à´¨à´®à´¾à´¯ à´¨à´Ÿà´ªà´Ÿà´¿ à´¸àµà´µàµ€à´•à´°à´¿à´•àµà´•à´¾àµ» à´•à´´à´¿à´¯à´¿à´²àµà´². à´ªà´•à´°à´‚, à´…à´¨à´¿à´¶àµà´šà´¿à´¤à´¤àµà´µà´‚ à´µà´¾à´¸àµà´¤àµà´µà´¿à´¦àµà´¯à´¯à´¿àµ½ à´¨àµ‡à´°à´¿à´Ÿàµà´Ÿàµ à´¨à´¿àµ¼à´®àµà´®à´¿à´šàµà´šà´¿à´°à´¿à´•àµà´•àµà´¨àµà´¨àµ: **à´¹àµà´¯àµ‚à´®àµ» à´±à´¿à´µàµà´¯àµ‚ à´†à´µà´¶àµà´¯à´®à´¾à´£àµ**.
+### 8. അനിശ്ചിതത്വം തന്നെ ഒരു സൂചനയായി മാറുന്നു
+AI അനിശ്ചിതത്വത്തിലാണെങ്കിൽ (ഉദാ. ഭീഷണി: 0.62, ആക്ഷേപഹാസ്യം: 0.54), അതിന് കഠിനമായ നടപടി സ്വീകരിക്കാൻ കഴിയില്ല. പകരം, അനിശ്ചിതത്വം വാസ്തുവിദ്യയിൽ നേരിട്ട് നിർമ്മിച്ചിരിക്കുന്നു: **ഹ്യൂമൻ റിവ്യൂ ആവശ്യമാണ്**.
 
-### 9. à´¨à´¾à´²àµ à´¤àµ€à´°àµà´®à´¾à´¨ à´®àµ‡à´–à´²à´•àµ¾
-- **à´ªà´šàµà´š**: à´®à´¿à´•àµà´•à´µà´¾à´±àµà´‚ à´…à´¨àµà´¸à´°à´£à´®àµà´³àµà´³à´¤à´¾à´£àµ. â†’ à´¨à´Ÿà´ªà´Ÿà´¿à´¯à´¿à´²àµà´².
-- **à´®à´žàµà´ž**: à´¸à´¾à´§àµà´¯à´®à´¾à´¯ à´²à´‚à´˜à´¨à´‚. â†’ à´¨à´¿à´°àµ€à´•àµà´·à´¿à´•àµà´•àµà´• / à´†à´µà´¶àµà´¯à´®àµ†à´™àµà´•à´¿àµ½ à´¶àµà´°à´¦àµà´§à´¿à´•àµà´•àµà´•.
-- **à´“à´±à´žàµà´šàµ**: à´¸à´¾à´§àµà´¯à´®à´¾à´¯ à´²à´‚à´˜à´¨à´‚. â†’ à´®àµ‹à´¡à´±àµ‡à´·àµ» à´ªà´°à´¿à´¶àµ‹à´§à´¨.
-- ðŸ”´ **à´±àµ†à´¡àµ**: à´¸à´¾à´§àµà´¯à´®à´¾à´¯ à´µà´²à´¿à´¯ à´²à´‚à´˜à´¨à´‚. â†’ à´‰à´Ÿà´¨à´Ÿà´¿ à´¸à´‚à´°à´•àµà´·à´£ à´¨à´Ÿà´ªà´Ÿà´¿ + à´®à´¨àµà´·àµà´¯ à´ªà´°à´¿à´¶àµ‹à´§à´¨.
+### 9. നാല് തീരുമാന മേഖലകൾ
+- **പച്ച**: മിക്കവാറും അനുസരണമുള്ളതാണ്. → നടപടിയില്ല.
+- **മഞ്ഞ**: സാധ്യമായ ലംഘനം. → നിരീക്ഷിക്കുക / ആവശ്യമെങ്കിൽ ശ്രദ്ധിക്കുക.
+- **ഓറഞ്ച്**: സാധ്യമായ ലംഘനം. → മോഡറേഷൻ പരിശോധന.
+- 🔴 **റെഡ്**: സാധ്യമായ വലിയ ലംഘനം. → ഉടനടി സംരക്ഷണ നടപടി + മനുഷ്യ പരിശോധന.
 
-### 10. "AI à´ªà´¿à´´" à´‡à´²àµà´²
-** AI à´…à´¨àµà´¤à´¿à´® à´‰à´ªà´°àµ‹à´§à´‚ à´àµ¼à´ªàµà´ªàµ†à´Ÿàµà´¤àµà´¤àµà´¨àµà´¨à´¿à´²àµà´².** à´—àµà´°àµà´¤à´°à´®à´¾à´¯ à´¸àµà´°à´•àµà´·à´¾ à´ªàµà´°à´¶àµâ€Œà´¨à´™àµà´™à´³àµà´Ÿàµ† à´¸à´¾à´¹à´šà´°àµà´¯à´¤àµà´¤à´¿àµ½ à´‡à´¤à´¿à´¨àµ à´…à´Ÿà´¿à´¯à´¨àµà´¤à´° à´¸à´¾à´™àµà´•àµ‡à´¤à´¿à´• à´¨à´Ÿà´ªà´Ÿà´¿à´•àµ¾ (à´‰à´¦à´¾. à´¸à´¨àµà´¦àµ‡à´¶à´‚ à´¤à´Ÿà´žàµà´žàµà´µà´¯àµà´•àµà´•àµ½) à´Ÿàµà´°à´¿à´—àµ¼ à´šàµ†à´¯àµà´¯à´¾àµ» à´•à´´à´¿à´¯àµà´‚, à´Žà´¨àµà´¨à´¾àµ½ à´…à´¨àµà´¤à´¿à´® à´¤àµ€à´°àµà´®à´¾à´¨à´‚ à´¸àµà´¥à´¿à´°àµ€à´•à´°à´¿à´•àµà´•à´¾à´µàµà´¨àµà´¨à´¤à´¾à´¯à´¿à´°à´¿à´•àµà´•àµà´‚.
+### 10. "AI പിഴ" ഇല്ല
+** AI അന്തിമ ഉപരോധം ഏർപ്പെടുത്തുന്നില്ല.** ഗുരുതരമായ സുരക്ഷാ പ്രശ്‌നങ്ങളുടെ സാഹചര്യത്തിൽ ഇതിന് അടിയന്തര സാങ്കേതിക നടപടികൾ (ഉദാ. സന്ദേശം തടഞ്ഞുവയ്ക്കൽ) ട്രിഗർ ചെയ്യാൻ കഴിയും, എന്നാൽ അന്തിമ തീരുമാനം സ്ഥിരീകരിക്കാവുന്നതായിരിക്കും.
 
-### 11. à´¸à´‚à´°à´•àµà´·à´£ à´¨à´Ÿà´ªà´Ÿà´¿à´•àµ¾ à´¯à´¾à´¨àµà´¤àµà´°à´¿à´•à´®à´¾à´•à´¾à´‚
-à´’à´°àµ à´ªàµà´°à´¤àµà´¯àµ‡à´• à´­àµ€à´·à´£à´¿ à´‰à´£àµà´Ÿàµ†à´™àµà´•à´¿àµ½ (à´­àµ€à´·à´£à´¿ à´•à´£àµà´Ÿàµ†à´¤àµà´¤à´¿ â†’ à´‰à´¯àµ¼à´¨àµà´¨ à´†à´¤àµà´®à´µà´¿à´¶àµà´µà´¾à´¸à´‚ â†’ à´¤à´¾àµ½à´•àµà´•à´¾à´²à´¿à´• à´¨à´¿à´¯à´¨àµà´¤àµà´°à´£à´‚ â†’ à´®à´¨àµà´·àµà´¯ à´…à´µà´²àµ‹à´•à´¨à´‚ â†’ à´¤àµ€à´°àµà´®à´¾à´¨à´‚), AI-à´¯àµ† à´µà´¿à´§à´¿à´•àµ¼à´¤àµà´¤à´¾à´µà´¾à´•àµà´•à´¾à´¤àµ† à´žà´™àµà´™àµ¾ à´­àµ€à´·à´£à´¿à´ªàµà´ªàµ†à´Ÿàµà´¤àµà´¤à´¿à´¯ à´‰à´ªà´¯àµ‹à´•àµà´¤à´¾à´µà´¿à´¨àµ† à´¸à´‚à´°à´•àµà´·à´¿à´•àµà´•àµà´‚.
+### 11. സംരക്ഷണ നടപടികൾ യാന്ത്രികമാകാം
+ഒരു പ്രത്യേക ഭീഷണി ഉണ്ടെങ്കിൽ (ഭീഷണി കണ്ടെത്തി → ഉയർന്ന ആത്മവിശ്വാസം → താൽക്കാലിക നിയന്ത്രണം → മനുഷ്യ അവലോകനം → തീരുമാനം), AI-യെ വിധികർത്താവാക്കാതെ ഞങ്ങൾ ഭീഷണിപ്പെടുത്തിയ ഉപയോക്താവിനെ സംരക്ഷിക്കും.
 
-### 12. AI-à´•àµà´•àµ à´…à´¤à´¿àµ»àµà´±àµ† à´¤àµ€à´°àµà´®à´¾à´¨à´¤àµà´¤àµ† à´¨àµà´¯à´¾à´¯àµ€à´•à´°à´¿à´•àµà´•à´¾àµ» à´•à´´à´¿à´¯à´£à´‚
-à´¡à´¿à´Žà´¸àµà´Žà´¯àµà´•àµà´•àµ à´µàµà´¯à´•àµà´¤à´µàµà´‚ à´¨à´¿àµ¼à´¦àµà´¦à´¿à´·àµà´Ÿà´µàµà´®à´¾à´¯ à´•à´¾à´°à´£à´™àµà´™àµ¾ à´†à´µà´¶àµà´¯à´®à´¾à´£àµ. AI à´’à´°àµ à´˜à´Ÿà´¨à´¾à´ªà´°à´®à´¾à´¯ à´°àµ€à´¤à´¿à´¯à´¿àµ½ à´¨àµà´¯à´¾à´¯àµ€à´•à´°à´¿à´•àµà´•àµà´¨àµà´¨àµ: à´±àµ‚àµ¾ (NG-CONDUCT-004), à´•à´£àµà´Ÿàµ†à´¤àµà´¤à´¿ (à´¸à´¾à´§àµà´¯à´¤à´¯àµà´³àµà´³ à´®àµ‚àµ¼à´¤àµà´¤à´®à´¾à´¯ à´­àµ€à´·à´£à´¿), à´†à´¤àµà´®à´µà´¿à´¶àµà´µà´¾à´¸à´‚ (0.94), à´ªàµà´°à´¸à´•àµà´¤à´®à´¾à´¯ à´¸à´¨àµà´¦àµ¼à´­à´‚ (à´®àµà´®àµà´ªà´¤àµà´¤àµ† 4 à´¸à´¨àµà´¦àµ‡à´¶à´™àµà´™àµ¾), à´¶àµà´ªà´¾àµ¼à´¶ à´šàµ†à´¯àµà´¯àµà´¨àµà´¨ à´ªàµà´°à´µàµ¼à´¤àµà´¤à´¨à´‚ (à´®à´¨àµà´·àµà´¯ à´…à´µà´²àµ‹à´•à´¨à´‚).
+### 12. AI-ക്ക് അതിൻ്റെ തീരുമാനത്തെ ന്യായീകരിക്കാൻ കഴിയണം
+ഡിഎസ്എയ്ക്ക് വ്യക്തവും നിർദ്ദിഷ്ടവുമായ കാരണങ്ങൾ ആവശ്യമാണ്. AI ഒരു ഘടനാപരമായ രീതിയിൽ ന്യായീകരിക്കുന്നു: റൂൾ (NG-CONDUCT-004), കണ്ടെത്തി (സാധ്യതയുള്ള മൂർത്തമായ ഭീഷണി), ആത്മവിശ്വാസം (0.94), പ്രസക്തമായ സന്ദർഭം (മുമ്പത്തെ 4 സന്ദേശങ്ങൾ), ശുപാർശ ചെയ്യുന്ന പ്രവർത്തനം (മനുഷ്യ അവലോകനം).
 
-### 13. à´°à´¹à´¸àµà´¯à´®à´¾à´¯à´¿ à´‰à´³àµà´³à´Ÿà´•àµà´•à´‚ à´®à´¾à´±àµà´±à´¾àµ» AI-à´¯àµ† à´…à´¨àµà´µà´¦à´¿à´šàµà´šà´¿à´Ÿàµà´Ÿà´¿à´²àµà´²
-** à´®àµ‹à´¡à´±àµ‡à´·àµ» AI à´’à´°à´¿à´•àµà´•à´²àµà´‚ à´¯à´¥à´¾àµ¼à´¤àµà´¥ à´‰à´³àµà´³à´Ÿà´•àµà´•à´‚ à´¶àµà´°à´¦àµà´§à´¿à´•àµà´•à´ªàµà´ªàµ†à´Ÿà´¾à´¤àµ† à´®à´¾à´±àµà´±à´°àµà´¤àµ.** à´¯à´¾à´¨àµà´¤àµà´°à´¿à´• à´¤à´¿à´°àµà´¤àµà´¤à´²àµà´•àµ¾, à´µà´¿à´µàµ¼à´¤àµà´¤à´¨à´™àµà´™àµ¾ à´…à´²àµà´²àµ†à´™àµà´•à´¿àµ½ à´¸à´‚à´—àµà´°à´¹à´™àµà´™àµ¾ à´¯à´¥à´¾àµ¼à´¤àµà´¥ à´‰à´³àµà´³à´Ÿà´•àµà´•à´‚ à´¨à´¿à´²à´¨à´¿àµ¼à´¤àµà´¤àµà´¨àµà´¨àµ.
+### 13. രഹസ്യമായി ഉള്ളടക്കം മാറ്റാൻ AI-യെ അനുവദിച്ചിട്ടില്ല
+** മോഡറേഷൻ AI ഒരിക്കലും യഥാർത്ഥ ഉള്ളടക്കം ശ്രദ്ധിക്കപ്പെടാതെ മാറ്റരുത്.** യാന്ത്രിക തിരുത്തലുകൾ, വിവർത്തനങ്ങൾ അല്ലെങ്കിൽ സംഗ്രഹങ്ങൾ യഥാർത്ഥ ഉള്ളടക്കം നിലനിർത്തുന്നു.
 
-### 14. AI à´¸àµƒà´·àµà´Ÿà´¿à´šàµà´š à´‰à´³àµà´³à´Ÿà´•àµà´•à´‚
-à´žà´™àµà´™àµ¾ à´¤à´®àµà´®à´¿àµ½ à´µàµ‡àµ¼à´¤à´¿à´°à´¿à´•àµà´•àµà´¨àµà´¨à´¤àµ: à´®à´¨àµà´·àµà´¯àµ» à´¸àµƒà´·àµâ€Œà´Ÿà´¿à´šàµà´šà´¤àµ, AI-à´…à´¸à´¿à´¸àµà´±àµà´±à´¡àµ, AI- à´œà´¨à´±àµ‡à´±àµà´±à´¡àµ, AI- à´•àµƒà´¤àµà´°à´¿à´®à´‚. à´‡à´¤àµ à´‰à´³àµà´³à´Ÿà´•àµà´• à´®àµ†à´±àµà´±à´¾à´¡à´¾à´±àµà´±à´¯àµà´Ÿàµ† à´­à´¾à´—à´®à´¾à´¯à´¿ à´®à´¾à´±àµà´¨àµà´¨àµ.
+### 14. AI സൃഷ്ടിച്ച ഉള്ളടക്കം
+ഞങ്ങൾ തമ്മിൽ വേർതിരിക്കുന്നത്: മനുഷ്യൻ സൃഷ്‌ടിച്ചത്, AI-അസിസ്റ്റഡ്, AI- ജനറേറ്റഡ്, AI- കൃത്രിമം. ഇത് ഉള്ളടക്ക മെറ്റാഡാറ്റയുടെ ഭാഗമായി മാറുന്നു.
 
-### 15. AI à´‰à´³àµà´³à´Ÿà´•àµà´• à´²àµ‡à´¬à´²à´¿à´‚à´—àµà´‚ AI à´ªàµà´°àµŠà´µàµ†à´¨àµ»à´¸àµ à´²àµ†à´¯à´±àµà´‚
-EU AI à´¨à´¿à´¯à´®à´¤àµà´¤à´¿àµ»àµà´±àµ† (à´“à´—à´¸àµà´±àµà´±àµ 2026 à´®àµà´¤àµ½) à´¸àµà´¤à´¾à´°àµà´¯à´¤ à´¨à´¿à´¯à´®à´™àµà´™àµ¾ à´…à´¨àµà´¸à´°à´¿à´šàµà´šàµ, AI- à´¸àµƒà´·àµà´Ÿà´¿à´šàµà´š à´‰à´³àµà´³à´Ÿà´•àµà´•à´‚ à´¤à´¿à´°à´¿à´šàµà´šà´±à´¿à´¯à´¾à´µàµà´¨àµà´¨à´¤à´¾à´¯à´¿à´°à´¿à´•àµà´•à´£à´‚. à´®àµ†à´±àµà´±à´¾à´¡à´¾à´±àµà´± (AI à´‰à´¤àµà´­à´µà´‚, à´®àµ‹à´¡àµ½, à´Ÿàµˆà´‚à´¸àµà´±àµà´±à´¾à´®àµà´ªàµ, à´¹àµà´¯àµ‚à´®àµ» à´±à´¿à´µàµà´¯àµ‚) à´¸à´‚à´­à´°à´¿à´•àµà´•àµà´¨àµà´¨ à´’à´°àµ AI à´ªàµà´°àµŠà´µàµ†à´¨àµ»à´¸àµ à´²àµ†à´¯àµ¼ à´žà´™àµà´™àµ¾ à´µà´¿à´­à´¾à´µà´¨à´‚ à´šàµ†à´¯àµà´¯àµà´¨àµà´¨àµ.
+### 15. AI ഉള്ളടക്ക ലേബലിംഗും AI പ്രൊവെനൻസ് ലെയറും
+EU AI നിയമത്തിൻ്റെ (ഓഗസ്റ്റ് 2026 മുതൽ) സുതാര്യത നിയമങ്ങൾ അനുസരിച്ച്, AI- സൃഷ്ടിച്ച ഉള്ളടക്കം തിരിച്ചറിയാവുന്നതായിരിക്കണം. മെറ്റാഡാറ്റ (AI ഉത്ഭവം, മോഡൽ, ടൈംസ്റ്റാമ്പ്, ഹ്യൂമൻ റിവ്യൂ) സംഭരിക്കുന്ന ഒരു AI പ്രൊവെനൻസ് ലെയർ ഞങ്ങൾ വിഭാവനം ചെയ്യുന്നു.
 
-### 16. à´¡àµ€à´ªàµà´«àµ‡à´•àµà´•àµ à´•à´£àµà´Ÿàµ†à´¤àµà´¤àµ½
-à´¸à´¿à´¨àµà´¤à´±àµà´±à´¿à´•àµ à´‡à´®àµ‡à´œàµà´•àµ¾, à´‰à´¤àµà´¤àµ‡à´œà´¿à´¤à´®à´¾à´¯ à´¶à´¬àµà´¦à´™àµà´™àµ¾, à´¡àµ€à´ªàµà´«àµ‡à´•àµà´•àµà´•àµ¾ à´Žà´¨àµà´¨à´¿à´µ à´•à´£àµà´Ÿàµ†à´¤àµà´¤àµà´¨àµà´¨à´¤à´¿à´¨à´¾à´£àµ à´†àµ¼à´•àµà´•à´¿à´Ÿàµ†à´•àµà´šàµ¼ à´‰à´¦àµà´¦àµ‡à´¶à´¿à´•àµà´•àµà´¨àµà´¨à´¤àµ. à´Žà´¨àµà´¨à´¾àµ½ à´¤à´¿à´°à´¿à´šàµà´šà´±à´¿à´¯àµ½ à´¯à´¾à´¨àµà´¤àµà´°à´¿à´• à´¤àµ†à´³à´¿à´µà´²àµà´².
+### 16. ഡീപ്ഫേക്ക് കണ്ടെത്തൽ
+സിന്തറ്റിക് ഇമേജുകൾ, ഉത്തേജിതമായ ശബ്ദങ്ങൾ, ഡീപ്ഫേക്കുകൾ എന്നിവ കണ്ടെത്തുന്നതിനാണ് ആർക്കിടെക്ചർ ഉദ്ദേശിക്കുന്നത്. എന്നാൽ തിരിച്ചറിയൽ യാന്ത്രിക തെളിവല്ല.
 
-### 17. à´“à´Ÿàµà´Ÿàµ‹à´®à´¾à´±àµà´±à´¿à´•àµ "à´Ÿàµà´°àµ‚à´¤àµà´¤àµ à´®àµ†à´·àµ€àµ»" à´‡à´²àµà´² (à´®àµ‹à´¡à´±àµ‡à´·àµ» â‰  à´µà´¸àµà´¤àµà´¤ à´ªà´°à´¿à´¶àµ‹à´§à´¿à´•àµà´•àµ½)
-à´’à´°àµ à´¸à´¿à´¸àµà´±àµà´±à´‚ à´ªà´°à´¿à´¶àµ‹à´§à´¿à´•àµà´•àµà´¨àµà´¨àµ: "à´‰à´³àµà´³à´Ÿà´•àµà´•à´‚ à´Žà´¨àµà´¤àµ†à´™àµà´•à´¿à´²àµà´‚ à´¨à´¿à´¯à´®à´™àµà´™àµ¾ à´²à´‚à´˜à´¿à´•àµà´•àµà´¨àµà´¨àµà´£àµà´Ÿàµ‹?" (à´‰à´³àµà´³à´Ÿà´•àµà´• à´®àµ‹à´¡à´±àµ‡à´·àµ»), à´®à´±àµà´±àµŠà´¨àµà´¨àµ à´¨àµ½à´•àµà´¨àµà´¨àµ: "à´Žà´¨àµà´¤àµŠà´•àµà´•àµ† à´µà´¿à´µà´°à´™àµà´™à´³àµà´‚ à´‰à´±à´µà´¿à´Ÿà´™àµà´™à´³àµà´®àµà´£àµà´Ÿàµ?" (à´µà´¿à´µà´° à´¸à´¹à´¾à´¯à´‚). à´…à´­à´¿à´ªàµà´°à´¾à´¯à´™àµà´™àµ¾ "à´¤àµ†à´±àµà´±àµ" à´Žà´¨àµà´¨àµ à´²à´³à´¿à´¤à´®à´¾à´¯à´¿ à´‡à´²àµà´²à´¾à´¤à´¾à´•àµà´•à´¿à´²àµà´².
+### 17. ഓട്ടോമാറ്റിക് "ട്രൂത്ത് മെഷീൻ" ഇല്ല (മോഡറേഷൻ ≠ വസ്തുത പരിശോധിക്കൽ)
+ഒരു സിസ്റ്റം പരിശോധിക്കുന്നു: "ഉള്ളടക്കം എന്തെങ്കിലും നിയമങ്ങൾ ലംഘിക്കുന്നുണ്ടോ?" (ഉള്ളടക്ക മോഡറേഷൻ), മറ്റൊന്ന് നൽകുന്നു: "എന്തൊക്കെ വിവരങ്ങളും ഉറവിടങ്ങളുമുണ്ട്?" (വിവര സഹായം). അഭിപ്രായങ്ങൾ "തെറ്റ്" എന്ന് ലളിതമായി ഇല്ലാതാക്കില്ല.
 
-### 18. à´¸à´¾à´‚à´¸àµà´•à´¾à´°à´¿à´• à´¦àµàµ¼à´µàµà´¯à´¾à´–àµà´¯à´¾à´¨à´¤àµà´¤à´¿à´¨àµ†à´¤à´¿à´°à´¾à´¯ à´¸à´‚à´°à´•àµà´·à´£à´‚
-à´’à´°àµ à´°à´¾à´œàµà´¯à´¤àµà´¤à´¿àµ»àµà´±àµ† à´†à´¶à´¯à´µà´¿à´¨à´¿à´®à´¯ à´®à´¾à´¨à´¦à´£àµà´¡à´‚ à´†à´—àµ‹à´³ à´¨à´¿à´²à´µà´¾à´°à´®à´¾à´¯à´¿ à´¸àµà´µàµ€à´•à´°à´¿à´•àµà´•àµà´¨àµà´¨à´¤àµ à´¤à´Ÿà´¯à´¾àµ» AI-à´•àµà´•àµ **à´¸à´¾à´‚à´¸àµà´•à´¾à´°à´¿à´• à´¸à´¨àµà´¦àµ¼à´­ à´®à´¾à´¤àµƒà´•à´•àµ¾** à´†à´µà´¶àµà´¯à´®à´¾à´£àµ.
+### 18. സാംസ്കാരിക ദുർവ്യാഖ്യാനത്തിനെതിരായ സംരക്ഷണം
+ഒരു രാജ്യത്തിൻ്റെ ആശയവിനിമയ മാനദണ്ഡം ആഗോള നിലവാരമായി സ്വീകരിക്കുന്നത് തടയാൻ AI-ക്ക് **സാംസ്കാരിക സന്ദർഭ മാതൃകകൾ** ആവശ്യമാണ്.
 
-### 19. à´†à´•àµà´·àµ‡à´ªà´¹à´¾à´¸àµà´¯à´‚, à´†à´•àµà´·àµ‡à´ªà´¹à´¾à´¸àµà´¯à´‚, à´¨àµ¼à´®àµà´®à´‚
-à´¸à´¨àµà´¦àµ¼à´­à´‚, à´‡à´®àµ‹à´œà´¿à´•àµ¾, à´¸à´‚à´­à´¾à´·à´£ à´ªàµà´°à´µà´¾à´¹à´™àµà´™àµ¾, à´…à´±à´¿à´¯à´ªàµà´ªàµ†à´Ÿàµà´¨àµà´¨ à´µà´¿à´°àµ‹à´§à´¾à´­à´¾à´¸ à´˜à´Ÿà´¨à´•àµ¾ à´Žà´¨àµà´¨à´¿à´µ AI à´‰à´ªà´¯àµ‹à´—à´¿à´•àµà´•àµà´¨àµà´¨àµ, à´Žà´¨àµà´¨à´¾àµ½ à´…àµ¼à´¤àµà´¥à´™àµà´™àµ¾ à´µàµà´¯à´•àµà´¤à´®à´²àµà´²à´¾à´¤àµà´¤à´ªàµà´ªàµ‹àµ¾ à´…à´¨à´¿à´¶àµà´šà´¿à´¤à´¤àµà´µà´‚ à´…à´¨àµà´µà´¦à´¿à´•àµà´•à´£à´‚.
+### 19. ആക്ഷേപഹാസ്യം, ആക്ഷേപഹാസ്യം, നർമ്മം
+സന്ദർഭം, ഇമോജികൾ, സംഭാഷണ പ്രവാഹങ്ങൾ, അറിയപ്പെടുന്ന വിരോധാഭാസ ഘടനകൾ എന്നിവ AI ഉപയോഗിക്കുന്നു, എന്നാൽ അർത്ഥങ്ങൾ വ്യക്തമല്ലാത്തപ്പോൾ അനിശ്ചിതത്വം അനുവദിക്കണം.
 
-### 20. à´’à´°àµŠà´±àµà´± AI à´¸àµà´•àµ‹àµ¼ à´…à´Ÿà´¿à´¸àµà´¥à´¾à´¨à´®à´¾à´•àµà´•à´¿à´¯àµà´³àµà´³ à´¶à´¿à´•àµà´·à´¯à´¿à´²àµà´²
-à´—àµà´°àµà´¤à´°à´®à´¾à´¯ à´®àµ‹à´¡à´±àµ‡à´·àµ» à´‡à´Ÿà´ªàµ†à´Ÿà´²àµà´•à´³àµŠà´¨àµà´¨àµà´‚ à´’à´°àµ à´“à´Ÿàµà´Ÿàµ‹à´®àµ‡à´±àµà´±à´¡àµ à´µàµ¼à´—àµà´—àµ€à´•à´°à´£ à´«à´²à´¤àµà´¤àµ† à´®à´¾à´¤àµà´°à´‚ à´…à´Ÿà´¿à´¸àµà´¥à´¾à´¨à´®à´¾à´•àµà´•à´¿à´¯àµà´³àµà´³à´¤à´²àµà´² (à´Ÿàµ†à´•àµâ€Œà´¸àµâ€Œà´±àµà´±àµ + à´¸à´¨àµà´¦àµ¼à´­à´‚ + à´ªàµ†à´°àµà´®à´¾à´±àµà´±à´‚ + à´­à´¾à´· + à´®àµ€à´¡à´¿à´¯ + à´±àµ‚àµ¾ à´Žà´žàµà´šà´¿àµ» = à´±à´¿à´¸àµà´•àµ à´…à´¸à´¸àµâ€Œà´®àµ†àµ»àµà´±àµ).
+### 20. ഒരൊറ്റ AI സ്കോർ അടിസ്ഥാനമാക്കിയുള്ള ശിക്ഷയില്ല
+ഗുരുതരമായ മോഡറേഷൻ ഇടപെടലുകളൊന്നും ഒരു ഓട്ടോമേറ്റഡ് വർഗ്ഗീകരണ ഫലത്തെ മാത്രം അടിസ്ഥാനമാക്കിയുള്ളതല്ല (ടെക്‌സ്‌റ്റ് + സന്ദർഭം + പെരുമാറ്റം + ഭാഷ + മീഡിയ + റൂൾ എഞ്ചിൻ = റിസ്ക് അസസ്‌മെൻ്റ്).
 
-### 21. à´¯àµ‚à´¸àµ¼ à´¬à´¿à´¹àµ‡à´µà´¿à´¯àµ¼ à´¸à´¿à´—àµà´¨à´²àµà´•àµ¾ & à´¸àµ‹à´·àµà´¯àµ½ à´•àµà´°àµ†à´¡à´¿à´±àµà´±àµ à´¸à´¿à´¸àµà´±àµà´±à´‚ à´‡à´²àµà´²
-à´‡à´¤àµ à´¸à´¾à´™àµà´•àµ‡à´¤à´¿à´• à´¦àµà´°àµà´ªà´¯àµ‹à´— à´¸à´¿à´—àµà´¨à´²àµà´•à´³àµ† à´•àµà´±à´¿à´šàµà´šà´¾à´£àµ (à´‰à´¦à´¾. à´¸àµà´ªà´¾à´‚ à´®à´¾à´¸àµ à´ªàµ‹à´¸àµà´±àµà´±à´¿à´‚à´—àµ), à´’à´°àµ à´ªàµŠà´¤àµ à´¸àµ‹à´·àµà´¯àµ½ à´±àµ‡à´±àµà´±à´¿à´‚à´—àµ à´¸à´‚à´µà´¿à´§à´¾à´¨à´®à´²àµà´². Nexus Gaja à´’à´°àµ à´¸àµ‹à´·àµà´¯àµ½ à´•àµà´°àµ†à´¡à´¿à´±àµà´±àµ à´¸à´¿à´¸àµà´±àµà´±à´‚ à´ªàµà´°à´µàµ¼à´¤àµà´¤à´¿à´ªàµà´ªà´¿à´•àµà´•àµà´¨àµà´¨à´¿à´²àµà´² - à´®àµ‹à´¡à´±àµ‡à´·àµ» à´¸àµà´°à´•àµà´·à´¯àµà´•àµà´•à´¾à´£àµ, à´…à´²àµà´²à´¾à´¤àµ† à´’à´°àµ à´µàµà´¯à´•àµà´¤à´¿à´¯àµà´Ÿàµ† à´®àµ‚à´²àµà´¯à´‚ à´µà´¿à´²à´¯à´¿à´°àµà´¤àµà´¤à´¾à´¨à´²àµà´².
+### 21. യൂസർ ബിഹേവിയർ സിഗ്നലുകൾ & സോഷ്യൽ ക്രെഡിറ്റ് സിസ്റ്റം ഇല്ല
+ഇത് സാങ്കേതിക ദുരുപയോഗ സിഗ്നലുകളെ കുറിച്ചാണ് (ഉദാ. സ്പാം മാസ് പോസ്റ്റിംഗ്), ഒരു പൊതു സോഷ്യൽ റേറ്റിംഗ് സംവിധാനമല്ല. Nexus Gaja ഒരു സോഷ്യൽ ക്രെഡിറ്റ് സിസ്റ്റം പ്രവർത്തിപ്പിക്കുന്നില്ല - മോഡറേഷൻ സുരക്ഷയ്ക്കാണ്, അല്ലാതെ ഒരു വ്യക്തിയുടെ മൂല്യം വിലയിരുത്താനല്ല.
 
-### 22. à´®àµ‹à´¡à´±àµ‡à´·àµ» AI à´“à´¡à´¿à´±àµà´±à´¬à´¿àµ¾ à´†à´¯à´¿à´°à´¿à´•àµà´•à´£à´‚
-à´Ÿàµà´°àµ†à´¯àµâ€Œà´¸à´¿à´¬à´¿à´²à´¿à´±àµà´±à´¿ à´‰à´±à´ªàµà´ªà´¾à´•àµà´•à´¾àµ» à´ªàµà´°à´¸à´•àµà´¤à´®à´¾à´¯ à´Žà´²àµà´²à´¾ à´“à´Ÿàµà´Ÿàµ‹à´®àµ‡à´±àµà´±à´¡àµ à´¤àµ€à´°àµà´®à´¾à´¨à´™àµà´™à´³àµà´‚ à´²àµ‹à´—àµ à´šàµ†à´¯àµâ€Œà´¤à´¿à´°à´¿à´•àµà´•àµà´¨àµà´¨àµ (à´‡à´µàµ»àµà´±àµ à´à´¡à´¿, à´±àµ‚àµ¾ à´à´¡à´¿, à´†à´¤àµà´®à´µà´¿à´¶àµà´µà´¾à´¸à´‚, à´¹àµà´¯àµ‚à´®àµ» à´±à´¿à´µàµà´¯àµ‚ à´®àµà´¤à´²à´¾à´¯à´µ).
+### 22. മോഡറേഷൻ AI ഓഡിറ്റബിൾ ആയിരിക്കണം
+ട്രെയ്‌സിബിലിറ്റി ഉറപ്പാക്കാൻ പ്രസക്തമായ എല്ലാ ഓട്ടോമേറ്റഡ് തീരുമാനങ്ങളും ലോഗ് ചെയ്‌തിരിക്കുന്നു (ഇവൻ്റ് ഐഡി, റൂൾ ഐഡി, ആത്മവിശ്വാസം, ഹ്യൂമൻ റിവ്യൂ മുതലായവ).
 
-### 23. à´¤àµ†à´±àµà´±à´¾à´¯ à´ªàµ‹à´¸à´¿à´±àµà´±àµ€à´µàµà´•à´³àµà´‚ à´¤àµ†à´±àµà´±à´¾à´¯ à´¨àµ†à´—à´±àµà´±àµ€à´µàµà´•à´³àµà´‚ à´—àµà´£à´¨à´¿à´²à´µà´¾à´° à´…à´³à´µàµà´•à´³àµà´‚
-à´ªà´¿à´¶à´•àµà´•à´³àµà´Ÿàµ† à´¤à´°à´™àµà´™àµ¾ à´¨à´¿à´°àµ€à´•àµà´·à´¿à´•àµà´•à´ªàµà´ªàµ†à´Ÿàµà´¨àµà´¨àµ. à´’à´°àµ à´¡à´¾à´·àµâ€Œà´¬àµ‹àµ¼à´¡àµ à´•àµƒà´¤àµà´¯à´¤, à´¤à´¿à´°à´¿à´šàµà´šàµà´µà´¿à´³à´¿à´•àµà´•àµ½, à´ªàµà´°à´¤àµà´¯àµ‡à´•à´¿à´šàµà´šàµ **à´…à´ªàµà´ªàµ€àµ½ à´±à´¿à´µàµ‡à´´àµâ€Œà´¸àµ½ à´¨à´¿à´°à´•àµà´•àµ** (à´µà´¿à´œà´¯à´•à´°à´®à´¾à´¯ à´…à´ªàµà´ªàµ€à´²àµà´•à´³àµà´Ÿàµ† à´Žà´£àµà´£à´‚) à´Žà´¨àµà´¨à´¿à´µ à´…à´³à´•àµà´•àµà´¨àµà´¨àµ. 
+### 23. തെറ്റായ പോസിറ്റീവുകളും തെറ്റായ നെഗറ്റീവുകളും ഗുണനിലവാര അളവുകളും
+പിശകുകളുടെ തരങ്ങൾ നിരീക്ഷിക്കപ്പെടുന്നു. ഒരു ഡാഷ്‌ബോർഡ് കൃത്യത, തിരിച്ചുവിളിക്കൽ, പ്രത്യേകിച്ച് **അപ്പീൽ റിവേഴ്‌സൽ നിരക്ക്** (വിജയകരമായ അപ്പീലുകളുടെ എണ്ണം) എന്നിവ അളക്കുന്നു. 
 
-### 24. à´­à´¾à´·à´¾ à´¨àµà´¯à´¾à´¯à´µàµà´‚ à´µà´¿à´µàµ¼à´¤àµà´¤à´¨ à´ªà´•àµà´·à´ªà´¾à´¤à´µàµà´‚
-à´ªà´¿à´¨àµà´¤àµà´£à´¯àµâ€Œà´•àµà´•àµà´¨àµà´¨ à´Žà´²àµà´²à´¾ à´­à´¾à´·à´•à´³à´¿à´²àµà´‚ (à´¬à´¹àµà´­à´¾à´·à´¾ à´®àµ‹à´¡à´±àµ‡à´·àµ» à´¬àµ†à´žàµà´šàµà´®à´¾àµ¼à´•àµà´•àµ) à´®àµ‹à´¡à´±àµ‡à´·àµ» à´¨à´¿à´²à´µà´¾à´°à´‚ à´¤à´¾à´°à´¤à´®àµà´¯à´ªàµà´ªàµ†à´Ÿàµà´¤àµà´¤à´¾à´µàµà´¨àµà´¨à´¤à´¾à´¯à´¿à´°à´¿à´•àµà´•à´£à´‚. à´®àµ‹à´¡à´±àµ‡à´·àµ» à´«à´²à´™àµà´™àµ¾ à´¯à´¥à´¾àµ¼à´¤àµà´¥à´µàµà´‚ à´µà´¿à´µàµ¼à´¤àµà´¤à´¨à´µàµà´‚ à´¤à´®àµà´®à´¿àµ½ à´µàµà´¯à´¤àµà´¯à´¾à´¸à´®àµà´£àµà´Ÿàµ†à´™àµà´•à´¿àµ½ (à´µà´¿à´µàµ¼à´¤àµà´¤à´¨ à´µàµˆà´°àµà´¦àµà´§àµà´¯à´‚), à´‡à´¤àµ à´ªàµà´°à´¤àµà´¯àµ‡à´•à´‚ à´ªà´°à´¿à´¶àµ‹à´§à´¿à´•àµà´•àµ‡à´£àµà´Ÿà´¤à´¾à´£àµ.
+### 24. ഭാഷാ ന്യായവും വിവർത്തന പക്ഷപാതവും
+പിന്തുണയ്‌ക്കുന്ന എല്ലാ ഭാഷകളിലും (ബഹുഭാഷാ മോഡറേഷൻ ബെഞ്ച്മാർക്ക്) മോഡറേഷൻ നിലവാരം താരതമ്യപ്പെടുത്താവുന്നതായിരിക്കണം. മോഡറേഷൻ ഫലങ്ങൾ യഥാർത്ഥവും വിവർത്തനവും തമ്മിൽ വ്യത്യാസമുണ്ടെങ്കിൽ (വിവർത്തന വൈരുദ്ധ്യം), ഇത് പ്രത്യേകം പരിശോധിക്കേണ്ടതാണ്.
 
-### 25. à´†àµ¼à´•àµà´•à´¿à´Ÿàµ†à´•àµà´šàµ¼ à´ªàµà´°àµŠà´ªàµà´ªàµ‹à´¸àµ½ & à´ªàµ‹à´³à´¿à´¸à´¿ à´Žà´žàµà´šà´¿àµ»
-à´¨à´¿à´¯à´®à´™àµà´™àµ¾ (à´¨à´¯à´‚ à´Žà´žàµà´šà´¿àµ») AI à´®àµ‹à´¡à´²àµà´•à´³à´¿àµ½ à´¹à´¾àµ¼à´¡àµ-à´•àµ‹à´¡àµ à´šàµ†à´¯àµà´¤à´¿à´Ÿàµà´Ÿà´¿à´²àµà´². AI à´¸àµà´¥à´¿à´¤à´¿à´µà´¿à´µà´°à´•àµà´•à´£à´•àµà´•àµà´•àµ¾ à´¨àµ½à´•àµà´¨àµà´¨àµ, à´¨à´¿à´²à´µà´¿à´²àµ† à´¨à´¿à´¯à´®à´™àµà´™à´³àµ† à´…à´Ÿà´¿à´¸àµà´¥à´¾à´¨à´®à´¾à´•àµà´•à´¿ à´ªàµ‹à´³à´¿à´¸à´¿ à´Žà´žàµà´šà´¿àµ» à´¤àµ€à´°àµà´®à´¾à´¨à´™àµà´™àµ¾ à´Žà´Ÿàµà´•àµà´•àµà´¨àµà´¨àµ. à´‡à´¤àµ à´¨à´¿à´¯à´®à´™àµà´™àµ¾ à´®à´¾à´±àµà´±à´¾à´¤àµ† ** à´®àµ‹à´¡àµ½ à´®à´¾à´±àµà´±à´¾àµ» à´…à´¨àµà´µà´¦à´¿à´•àµà´•àµà´¨àµà´¨àµ**.
+### 25. ആർക്കിടെക്ചർ പ്രൊപ്പോസൽ & പോളിസി എഞ്ചിൻ
+നിയമങ്ങൾ (നയം എഞ്ചിൻ) AI മോഡലുകളിൽ ഹാർഡ്-കോഡ് ചെയ്തിട്ടില്ല. AI സ്ഥിതിവിവരക്കണക്കുകൾ നൽകുന്നു, നിലവിലെ നിയമങ്ങളെ അടിസ്ഥാനമാക്കി പോളിസി എഞ്ചിൻ തീരുമാനങ്ങൾ എടുക്കുന്നു. ഇത് നിയമങ്ങൾ മാറ്റാതെ ** മോഡൽ മാറ്റാൻ അനുവദിക്കുന്നു**.
 
-### 26. à´†à´³àµà´•àµ¾ à´…à´¨àµà´¤à´¿à´® à´…à´§à´¿à´•à´¾à´°à´¿à´¯à´¾à´¯à´¿ à´¤àµà´Ÿà´°àµà´¨àµà´¨àµ
-- **NG-AI-MOD-001**: AI à´•à´£àµà´Ÿàµ†à´¤àµà´¤à´²àµà´‚ à´µàµ¼à´—àµà´—àµ€à´•à´°à´£à´µàµà´‚ à´ªà´¿à´¨àµà´¤àµà´£à´¯àµà´•àµà´•àµà´¨àµà´¨àµ, à´Žà´¨àµà´¨à´¾àµ½ à´—àµà´°àµà´¤à´°à´®à´¾à´¯ à´¤àµ€à´°àµà´®à´¾à´¨à´™àµà´™àµ¾ à´Žà´Ÿàµà´•àµà´•àµà´®àµà´ªàµ‹àµ¾ à´®à´¾à´¨àµà´·à´¿à´• à´…à´µà´²àµ‹à´•à´¨à´‚ à´®à´¾à´±àµà´±à´¿à´¸àµà´¥à´¾à´ªà´¿à´•àµà´•àµà´¨àµà´¨à´¿à´²àµà´².
-- **NG-AI-MOD-002**: à´¸àµà´µà´¯à´®àµ‡à´µà´¯àµà´³àµà´³ à´®àµ‹à´¡à´±àµ‡à´·àµ» à´¤àµ€à´°àµà´®à´¾à´¨à´™àµà´™àµ¾ à´•à´£àµà´Ÿàµ†à´¤àµà´¤à´¾à´µàµà´¨àµà´¨à´¤àµà´‚ à´°àµ‡à´–à´ªàµà´ªàµ†à´Ÿàµà´¤àµà´¤à´¾à´µàµà´¨àµà´¨à´¤àµà´‚ à´ªà´°à´¿à´¶àµ‹à´§à´¿à´•àµà´•à´¾à´µàµà´¨àµà´¨à´¤àµà´®à´¾à´¯à´¿à´°à´¿à´•àµà´•à´£à´‚.
+### 26. ആളുകൾ അന്തിമ അധികാരിയായി തുടരുന്നു
+- **NG-AI-MOD-001**: AI കണ്ടെത്തലും വർഗ്ഗീകരണവും പിന്തുണയ്ക്കുന്നു, എന്നാൽ ഗുരുതരമായ തീരുമാനങ്ങൾ എടുക്കുമ്പോൾ മാനുഷിക അവലോകനം മാറ്റിസ്ഥാപിക്കുന്നില്ല.
+- **NG-AI-MOD-002**: സ്വയമേവയുള്ള മോഡറേഷൻ തീരുമാനങ്ങൾ കണ്ടെത്താവുന്നതും രേഖപ്പെടുത്താവുന്നതും പരിശോധിക്കാവുന്നതുമായിരിക്കണം.
 
-** à´¸à´‚à´—àµà´°à´¹à´‚**: à´žà´™àµà´™àµ¾ à´’à´°àµ à´¨à´¾à´²àµ-à´Ÿà´¯àµ¼ à´¸à´¿à´¸àµà´±àµà´±à´‚ à´¨à´¿àµ¼à´®àµà´®à´¿à´•àµà´•àµà´•à´¯à´¾à´£àµ: AI à´•à´£àµà´Ÿàµ†à´¤àµà´¤àµ½, à´¸à´¨àµà´¦àµ¼à´­à´µàµà´‚ à´…à´ªà´•à´Ÿà´¸à´¾à´§àµà´¯à´¤à´¯àµà´‚ à´µà´¿à´¶à´•à´²à´¨à´‚, à´ªàµ‹à´³à´¿à´¸à´¿ à´Žà´žàµà´šà´¿àµ», à´¹àµà´¯àµ‚à´®àµ» à´—à´µàµ‡à´£àµ»à´¸àµ. à´…à´ªà´•à´Ÿà´•à´°à´®à´¾à´¯ "AI à´†à´¸àµ à´œà´¡àµà´œàµ" à´†àµ¼à´•àµà´•à´¿à´Ÿàµ†à´•àµà´šàµ¼ à´¸àµƒà´·àµà´Ÿà´¿à´•àµà´•à´¾à´¤àµ† à´¤à´¨àµà´¨àµ† à´‡à´¤àµ à´¶à´•àµà´¤à´®à´¾à´¯ à´“à´Ÿàµà´Ÿàµ‹à´®àµ‡à´·àµ» à´ªàµà´°à´¾à´ªàµà´¤à´®à´¾à´•àµà´•àµà´¨àµà´¨àµ.
+** സംഗ്രഹം**: ഞങ്ങൾ ഒരു നാല്-ടയർ സിസ്റ്റം നിർമ്മിക്കുകയാണ്: AI കണ്ടെത്തൽ, സന്ദർഭവും അപകടസാധ്യതയും വിശകലനം, പോളിസി എഞ്ചിൻ, ഹ്യൂമൻ ഗവേണൻസ്. അപകടകരമായ "AI ആസ് ജഡ്ജ്" ആർക്കിടെക്ചർ സൃഷ്ടിക്കാതെ തന്നെ ഇത് ശക്തമായ ഓട്ടോമേഷൻ പ്രാപ്തമാക്കുന്നു.
 
-## à´§à´¨à´•à´¾à´°àµà´¯ à´¤à´¤àµà´µà´™àµà´™à´³àµà´‚ à´µà´°àµà´®à´¾à´¨ à´®à´¾à´¤àµƒà´•à´¯àµà´‚ (WP 1.10.1)
+## ധനകാര്യ തത്വങ്ങളും വരുമാന മാതൃകയും (WP 1.10.1)
 
 ![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
-Nexus Gaja-à´¨àµ à´µà´³à´°àµ† à´ªàµà´°à´§à´¾à´¨à´ªàµà´ªàµ†à´Ÿàµà´Ÿ à´…à´Ÿà´¿à´¸àµà´¥à´¾à´¨ à´¸à´¾à´®àµà´ªà´¤àµà´¤à´¿à´• à´¤à´¤àµà´µà´‚ à´¬à´¾à´§à´•à´®à´¾à´£àµ: **à´ªàµà´²à´¾à´±àµà´±àµâ€Œà´«àµ‹à´®à´¿à´¨àµà´³àµà´³à´¿àµ½ à´•àµà´²à´¾à´¸à´¿à´•àµ à´ªà´°à´¸àµà´¯à´™àµà´™à´³àµŠà´¨àµà´¨àµà´®à´¿à´²àµà´².**
-à´‡à´¤àµ à´¨àµ†à´•àµâ€Œà´¸à´¸àµ à´—à´œà´¯àµ† à´‡à´¨àµà´¨à´¤àµà´¤àµ† à´ªà´² à´¸àµ‹à´·àµà´¯àµ½ à´¨àµ†à´±àµà´±àµâ€Œà´µàµ¼à´•àµà´•àµà´•à´³à´¿àµ½ à´¨à´¿à´¨àµà´¨àµà´‚ à´†à´¶à´¯à´ªà´°à´®à´¾à´¯à´¿ à´µàµà´¯à´¤àµà´¯à´¸àµà´¤à´®à´¾à´•àµà´•àµà´¨àµà´¨àµ. à´Žà´¨àµà´¨à´¾àµ½ à´…à´¤à´¿à´¨àµ¼à´¤àµà´¥à´®à´¿à´²àµà´²: Nexus Gaja-à´¨àµ à´’à´°àµ à´µà´¾à´£à´¿à´œàµà´¯ à´¸àµà´µà´­à´¾à´µà´‚ à´‰à´£àµà´Ÿà´¾à´¯à´¿à´°à´¿à´•àµà´•à´°àµà´¤àµ. à´¨àµ‡à´°àµ†à´®à´±à´¿à´šàµà´šàµ: à´ªàµà´²à´¾à´±àµà´±àµà´«àµ‹à´‚ à´¸à´¾à´®àµà´ªà´¤àµà´¤à´¿à´•à´®à´¾à´¯à´¿ à´²à´¾à´­à´•à´°à´®à´¾à´¯à´¿à´°à´¿à´•àµà´•à´£à´‚, à´…à´¤àµà´µà´´à´¿ à´…à´¤à´¿àµ»àµà´±àµ† à´¸à´¾à´®àµ‚à´¹à´¿à´• à´‰à´¦àµà´¦àµ‡à´¶àµà´¯à´‚ à´¦àµ€àµ¼à´˜à´•à´¾à´²à´¤àµà´¤àµ‡à´•àµà´•àµ à´¨à´¿à´²à´¨à´¿àµ½à´•àµà´•àµà´‚. à´…à´¤à´¿à´¨à´¾àµ½ à´¸à´¾à´®àµà´ªà´¤àµà´¤à´¿à´• à´ªàµà´°à´µàµ¼à´¤àµà´¤à´¨à´‚ à´…à´µà´¸à´¾à´¨à´¿à´ªàµà´ªà´¿à´•àµà´•à´¾à´¨àµà´³àµà´³ à´’à´°àµ à´®à´¾àµ¼à´—à´®à´¾à´£àµ, à´ªàµà´²à´¾à´±àµà´±àµâ€Œà´«àµ‹à´®à´¿àµ»àµà´±àµ† à´¯à´¥à´¾àµ¼à´¤àµà´¥ à´²à´•àµà´·àµà´¯à´®à´²àµà´².
+Nexus Gaja-ന് വളരെ പ്രധാനപ്പെട്ട അടിസ്ഥാന സാമ്പത്തിക തത്വം ബാധകമാണ്: **പ്ലാറ്റ്‌ഫോമിനുള്ളിൽ ക്ലാസിക് പരസ്യങ്ങളൊന്നുമില്ല.**
+ഇത് നെക്‌സസ് ഗജയെ ഇന്നത്തെ പല സോഷ്യൽ നെറ്റ്‌വർക്കുകളിൽ നിന്നും ആശയപരമായി വ്യത്യസ്തമാക്കുന്നു. എന്നാൽ അതിനർത്ഥമില്ല: Nexus Gaja-ന് ഒരു വാണിജ്യ സ്വഭാവം ഉണ്ടായിരിക്കരുത്. നേരെമറിച്ച്: പ്ലാറ്റ്ഫോം സാമ്പത്തികമായി ലാഭകരമായിരിക്കണം, അതുവഴി അതിൻ്റെ സാമൂഹിക ഉദ്ദേശ്യം ദീർഘകാലത്തേക്ക് നിലനിൽക്കും. അതിനാൽ സാമ്പത്തിക പ്രവർത്തനം അവസാനിപ്പിക്കാനുള്ള ഒരു മാർഗമാണ്, പ്ലാറ്റ്‌ഫോമിൻ്റെ യഥാർത്ഥ ലക്ഷ്യമല്ല.
 
-### 1. à´¤à´¤àµà´µà´‚ NG-FIN-001
-Nexus Gaja à´…à´¤à´¿àµ»àµà´±àµ† à´ªàµà´°à´µàµ¼à´¤àµà´¤à´¨à´™àµà´™àµ¾à´•àµà´•àµ à´§à´¨à´¸à´¹à´¾à´¯à´‚ à´¨àµ½à´•àµà´¨àµà´¨à´¤àµ à´‰à´ªà´¯àµ‹à´•àµà´¤àµƒ à´¤à´¾àµ½à´ªàµà´ªà´°àµà´¯à´™àµà´™à´³à´¿àµ½ à´¨à´¿à´¨àµà´¨àµ à´µàµ‡à´±à´¿à´Ÿàµà´Ÿàµ à´¸àµà´¤à´¾à´°àµà´¯à´®à´¾à´¯ à´µà´°àµà´®à´¾à´¨ à´¸àµà´Ÿàµà´°àµ€à´®àµà´•à´³à´¿à´²àµ‚à´Ÿàµ†à´¯à´¾à´£àµ, à´…à´²àµà´²à´¾à´¤àµ† à´‰à´ªà´¯àµ‹à´•àµà´¤à´¾à´•àµà´•à´³àµà´Ÿàµ† à´¶àµà´°à´¦àµà´§à´¯àµ‹ à´µàµà´¯à´•àµà´¤à´¿à´—à´¤ à´¡à´¾à´±àµà´±à´¯àµ‹ à´µà´¿à´ªà´£à´¨à´‚ à´šàµ†à´¯àµà´¯àµà´¨àµà´¨à´¤à´¿à´²àµ‚à´Ÿàµ†à´¯à´²àµà´².
+### 1. തത്വം NG-FIN-001
+Nexus Gaja അതിൻ്റെ പ്രവർത്തനങ്ങൾക്ക് ധനസഹായം നൽകുന്നത് ഉപയോക്തൃ താൽപ്പര്യങ്ങളിൽ നിന്ന് വേറിട്ട് സുതാര്യമായ വരുമാന സ്ട്രീമുകളിലൂടെയാണ്, അല്ലാതെ ഉപയോക്താക്കളുടെ ശ്രദ്ധയോ വ്യക്തിഗത ഡാറ്റയോ വിപണനം ചെയ്യുന്നതിലൂടെയല്ല.
 
-### 2. à´•àµà´²à´¾à´¸à´¿à´•àµ à´ªà´°à´¸àµà´¯à´™àµà´™à´³àµŠà´¨àµà´¨àµà´®à´¿à´²àµà´²
-à´ªàµà´°à´¤àµà´¯àµ‡à´•à´¿à´šàµà´šàµà´‚, à´‡à´¨à´¿à´ªàµà´ªà´±à´¯àµà´¨àµà´¨à´µ à´…à´¨àµà´µà´¦à´¿à´•àµà´•à´¿à´²àµà´²:
-- à´¬à´¾à´¨àµ¼ à´ªà´°à´¸àµà´¯à´‚
-- à´ªàµ‹à´ªàµà´ªàµ-à´…à´ªàµà´ªàµ à´ªà´°à´¸àµà´¯à´‚
-- à´ªà´°à´¸àµà´¯ à´µàµ€à´¡à´¿à´¯àµ‹à´•àµ¾ à´¸àµà´µà´¯à´®àµ‡à´µ à´ªàµà´²àµ‡ à´šàµ†à´¯àµà´¤àµ
-- à´¸à´¾à´§à´¾à´°à´£ à´«àµ€à´¡à´¿àµ½ à´¸àµà´ªàµ‹àµºà´¸àµ¼ à´šàµ†à´¯àµà´¤ à´ªàµ‹à´¸àµà´±àµà´±àµà´•àµ¾
-- à´µàµà´¯à´•àµà´¤à´¿à´—à´¤à´®à´¾à´•àµà´•à´¿à´¯ à´ªà´°à´¸àµà´¯ à´ªàµà´°àµŠà´«àµˆà´²àµà´•àµ¾
-- à´‰à´ªà´¯àµ‹à´•àµà´¤àµƒ à´ªàµà´°àµŠà´«àµˆà´²àµà´•àµ¾ à´µà´¿àµ½à´•àµà´•àµà´¨àµà´¨àµ
-- à´µàµà´¯à´•àµà´¤à´¿à´—à´¤ à´¡à´¾à´±àµà´±à´¯àµà´Ÿàµ† à´µà´¿àµ½à´ªàµà´ªà´¨
-- à´¸àµà´µà´•à´¾à´°àµà´¯ à´¸à´‚à´­à´¾à´·à´£à´™àµà´™à´³à´¿àµ½ à´¨à´¿à´¨àµà´¨àµ à´‰à´°àµà´¤àµà´¤à´¿à´°à´¿à´žàµà´ž à´ªà´°à´¸àµà´¯à´‚.
+### 2. ക്ലാസിക് പരസ്യങ്ങളൊന്നുമില്ല
+പ്രത്യേകിച്ചും, ഇനിപ്പറയുന്നവ അനുവദിക്കില്ല:
+- ബാനർ പരസ്യം
+- പോപ്പ്-അപ്പ് പരസ്യം
+- പരസ്യ വീഡിയോകൾ സ്വയമേവ പ്ലേ ചെയ്തു
+- സാധാരണ ഫീഡിൽ സ്പോൺസർ ചെയ്ത പോസ്റ്റുകൾ
+- വ്യക്തിഗതമാക്കിയ പരസ്യ പ്രൊഫൈലുകൾ
+- ഉപയോക്തൃ പ്രൊഫൈലുകൾ വിൽക്കുന്നു
+- വ്യക്തിഗത ഡാറ്റയുടെ വിൽപ്പന
+- സ്വകാര്യ സംഭാഷണങ്ങളിൽ നിന്ന് ഉരുത്തിരിഞ്ഞ പരസ്യം.
 
-à´‡à´¤àµ à´†à´¶à´¯à´µà´¿à´¨à´¿à´®à´¯ à´‡à´Ÿà´‚ à´‰à´ªàµ‡à´•àµà´·à´¿à´•àµà´•àµà´¨àµà´¨àµ: ** à´ªà´°à´¸àµà´¯ à´‡à´Ÿà´¤àµà´¤à´¿à´¨àµ à´ªà´•à´°à´‚ à´†à´¶à´¯à´µà´¿à´¨à´¿à´®à´¯ à´‡à´Ÿà´‚.**
+ഇത് ആശയവിനിമയ ഇടം ഉപേക്ഷിക്കുന്നു: ** പരസ്യ ഇടത്തിന് പകരം ആശയവിനിമയ ഇടം.**
 
-### 3. à´ªà´°à´¸àµà´¯à´®à´¿à´²àµà´²à´¾à´¤àµ† à´§à´¨à´¸à´¹à´¾à´¯à´‚
-à´ªà´•à´°à´‚, à´žà´™àµà´™à´³àµà´Ÿàµ† à´§à´¨à´¸à´¹à´¾à´¯à´‚ à´¨à´¿à´°à´µà´§à´¿ à´¤àµ‚à´£àµà´•àµ¾ à´‰àµ¾à´•àµà´•àµŠà´³àµà´³àµà´¨àµà´¨àµ. à´žà´™àµà´™àµ¾ à´†à´¦àµà´¯à´‚ à´†à´±àµ à´¤àµ‚à´£àµà´•àµ¾ à´¨à´¿àµ¼à´¦àµà´¦àµ‡à´¶à´¿à´•àµà´•àµà´¨àµà´¨àµ:
-``` à´Ÿàµ†à´•àµà´¸àµà´±àµà´±àµ
-                 à´¨àµ†à´•àµà´¸à´¸àµ à´—à´œ
-                     â”‚
-       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-       â–¼ â–¼ â–¼
-   à´ªàµà´°àµ€à´®à´¿à´¯à´‚ à´“àµ¼à´—à´¨àµˆà´¸àµ‡à´·àµ» à´¸à´‚à´­à´¾à´µà´¨ à´šàµ†à´¯àµà´¯àµà´•
-       â”‚ â”‚ â”‚
-       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
-       â–¼ â–¼ â–¼
-   à´ªà´™àµà´•à´¾à´³à´¿à´¤àµà´¤ à´¸àµ‡à´µà´¨à´™àµà´™àµ¾ à´ªàµà´°àµ‹à´¤àµà´¸à´¾à´¹à´¿à´ªàµà´ªà´¿à´•àµà´•àµà´¨àµà´¨àµ
+### 3. പരസ്യമില്ലാതെ ധനസഹായം
+പകരം, ഞങ്ങളുടെ ധനസഹായം നിരവധി തൂണുകൾ ഉൾക്കൊള്ളുന്നു. ഞങ്ങൾ ആദ്യം ആറ് തൂണുകൾ നിർദ്ദേശിക്കുന്നു:
+``` ടെക്സ്റ്റ്
+                 നെക്സസ് ഗജ
+                     │
+       ┌────────────┼────────────┐
+       ▼ ▼ ▼
+   പ്രീമിയം ഓർഗനൈസേഷൻ സംഭാവന ചെയ്യുക
+       │ │ │
+       ├────────────┼────────────┤
+       ▼ ▼ ▼
+   പങ്കാളിത്ത സേവനങ്ങൾ പ്രോത്സാഹിപ്പിക്കുന്നു
 ```
 
-#### à´ªà´¿à´²àµà´²àµ¼ 1 - à´¸àµ—à´œà´¨àµà´¯ à´…à´Ÿà´¿à´¸àµà´¥à´¾à´¨ à´…à´‚à´—à´¤àµà´µà´‚
-**Nexus Gaja à´¸àµ—à´œà´¨àµà´¯à´‚:** à´…à´¨àµà´¤à´¾à´°à´¾à´·àµà´Ÿàµà´° à´§à´¾à´°à´£à´¯à´¿à´²àµ† à´…à´Ÿà´¿à´¸àµà´¥à´¾à´¨ à´ªà´™àµà´•à´¾à´³à´¿à´¤àµà´¤à´‚ à´†àµ¼à´•àµà´•àµ†à´™àµà´•à´¿à´²àµà´‚ à´ªà´£à´®àµà´£àµà´Ÿàµ‹ à´Žà´¨àµà´¨à´¤à´¿à´¨àµ† à´†à´¶àµà´°à´¯à´¿à´•àµà´•à´°àµà´¤àµ. à´‡à´¨à´¿à´ªàµà´ªà´±à´¯àµà´¨àµà´¨à´µ à´¸àµ—à´œà´¨àµà´¯à´®à´¾à´¯à´¿ à´¸à´¾à´§àµà´¯à´®à´¾à´£àµ: à´µàµà´¯à´•àµà´¤à´¿à´—à´¤ à´ªàµà´°àµŠà´«àµˆàµ½, à´…à´¨àµà´¤à´¾à´°à´¾à´·àµà´Ÿàµà´° à´†à´¶à´¯à´µà´¿à´¨à´¿à´®à´¯à´‚, à´¸à´‚à´­à´¾à´µà´¨à´•àµ¾, à´…à´­à´¿à´ªàµà´°à´¾à´¯à´™àµà´™àµ¾, à´…à´Ÿà´¿à´¸àµà´¥à´¾à´¨ à´µà´¿à´µàµ¼à´¤àµà´¤à´¨à´‚, à´•à´®àµà´®àµà´¯àµ‚à´£à´¿à´±àµà´±à´¿à´•àµ¾, à´šà´¾à´±àµà´±àµà´•àµ¾, à´…à´Ÿà´¿à´¸àµà´¥à´¾à´¨ à´®àµ€à´¡à´¿à´¯ à´ªàµà´°à´µàµ¼à´¤àµà´¤à´¨à´™àµà´™àµ¾.
+#### പില്ലർ 1 - സൗജന്യ അടിസ്ഥാന അംഗത്വം
+**Nexus Gaja സൗജന്യം:** അന്താരാഷ്ട്ര ധാരണയിലെ അടിസ്ഥാന പങ്കാളിത്തം ആർക്കെങ്കിലും പണമുണ്ടോ എന്നതിനെ ആശ്രയിക്കരുത്. ഇനിപ്പറയുന്നവ സൗജന്യമായി സാധ്യമാണ്: വ്യക്തിഗത പ്രൊഫൈൽ, അന്താരാഷ്ട്ര ആശയവിനിമയം, സംഭാവനകൾ, അഭിപ്രായങ്ങൾ, അടിസ്ഥാന വിവർത്തനം, കമ്മ്യൂണിറ്റികൾ, ചാറ്റുകൾ, അടിസ്ഥാന മീഡിയ പ്രവർത്തനങ്ങൾ.
 
-#### à´ªà´¿à´²àµà´²àµ¼ 2 - à´ªàµà´°àµ€à´®à´¿à´¯à´‚ à´“à´«à´±àµà´•àµ¾
-à´¸àµà´µà´®àµ‡à´§à´¯à´¾ à´ªà´£à´®à´Ÿà´šàµà´šàµà´³àµà´³ à´“à´«à´±àµà´•àµ¾ (**Nexus Gaja Plus**). à´¸à´¾à´§àµà´¯à´®à´¾à´¯ à´¨àµ‡à´Ÿàµà´Ÿà´™àµà´™àµ¾: à´µà´²à´¿à´¯ à´¸à´‚à´­à´°à´£ â€‹â€‹à´ªà´°à´¿à´§à´¿à´•àµ¾, à´‰à´¯àµ¼à´¨àµà´¨ à´®àµ€à´¡à´¿à´¯ à´¨à´¿à´²à´µà´¾à´°à´‚, à´¦àµˆàµ¼à´˜àµà´¯à´®àµ‡à´±à´¿à´¯ à´µàµ€à´¡à´¿à´¯àµ‹ à´ªàµà´°à´•àµà´·àµ‡à´ªà´£à´™àµà´™àµ¾, à´µà´¿à´ªàµà´²àµ€à´•à´°à´¿à´šàµà´š à´µà´¿à´µàµ¼à´¤àµà´¤à´¨ à´ªàµà´°à´µàµ¼à´¤àµà´¤à´¨à´™àµà´™àµ¾, à´µà´²à´¿à´¯ à´•à´®àµà´®àµà´¯àµ‚à´£à´¿à´±àµà´±à´¿à´•àµ¾, à´…à´§à´¿à´• à´“àµ¼à´—à´¨àµˆà´¸àµ‡à´·à´£àµ½ à´«à´‚à´—àµâ€Œà´·à´¨àµà´•àµ¾, à´‰à´¯àµ¼à´¨àµà´¨ AI à´•àµà´µà´¾à´Ÿàµà´Ÿà´•àµ¾.
-**à´«àµà´°àµ€à´®à´¿à´¯à´‚ - à´Žà´¨àµà´¨à´¾àµ½ "à´¡à´¾àµ¼à´•àµà´•àµ à´«àµà´°àµ€à´®à´¿à´¯à´‚" à´…à´²àµà´²:** à´¸àµà´µà´¤à´¨àµà´¤àµà´° à´ªà´¤à´¿à´ªàµà´ªàµ à´µà´¿à´µàµ‡à´•à´¤àµà´¤àµ‹à´Ÿàµ† à´‰à´ªà´¯àµ‹à´—à´¿à´•àµà´•à´¾à´‚; à´ªàµà´°àµ€à´®à´¿à´¯à´‚ à´…à´¤àµ à´µà´¿à´ªàµà´²àµ€à´•à´°à´¿à´•àµà´•àµà´¨àµà´¨àµ.
+#### പില്ലർ 2 - പ്രീമിയം ഓഫറുകൾ
+സ്വമേധയാ പണമടച്ചുള്ള ഓഫറുകൾ (**Nexus Gaja Plus**). സാധ്യമായ നേട്ടങ്ങൾ: വലിയ സംഭരണ ​​പരിധികൾ, ഉയർന്ന മീഡിയ നിലവാരം, ദൈർഘ്യമേറിയ വീഡിയോ പ്രക്ഷേപണങ്ങൾ, വിപുലീകരിച്ച വിവർത്തന പ്രവർത്തനങ്ങൾ, വലിയ കമ്മ്യൂണിറ്റികൾ, അധിക ഓർഗനൈസേഷണൽ ഫംഗ്‌ഷനുകൾ, ഉയർന്ന AI ക്വാട്ടകൾ.
+**ഫ്രീമിയം - എന്നാൽ "ഡാർക്ക് ഫ്രീമിയം" അല്ല:** സ്വതന്ത്ര പതിപ്പ് വിവേകത്തോടെ ഉപയോഗിക്കാം; പ്രീമിയം അത് വിപുലീകരിക്കുന്നു.
 
-#### à´¸àµà´¤à´‚à´­à´‚ 3 - à´¸à´‚à´˜à´Ÿà´¨à´•àµ¾
-**à´¨àµ†à´•àµâ€Œà´¸à´¸àµ à´—à´œ à´“àµ¼à´—à´¨àµˆà´¸àµ‡à´·àµ»:** à´¸àµâ€Œà´•àµ‚à´³àµà´•àµ¾, à´¸àµ¼à´µàµà´µà´•à´²à´¾à´¶à´¾à´²à´•àµ¾, à´•àµà´²à´¬àµà´¬àµà´•àµ¾, à´Žàµ»à´œà´¿à´’à´•àµ¾, à´•à´®àµà´ªà´¨à´¿à´•àµ¾, à´®àµà´¨à´¿à´¸à´¿à´ªàµà´ªà´¾à´²à´¿à´±àµà´±à´¿à´•àµ¾ à´®àµà´¤à´²à´¾à´¯à´µà´¯àµâ€Œà´•àµà´•à´¾à´¯à´¿ à´•àµ‡à´¨àµà´¦àµà´° à´“àµ¼à´—à´¨àµˆà´¸àµ‡à´·à´£àµ½ à´…à´•àµà´•àµ—à´£àµà´Ÿàµ, à´…à´‚à´— à´®à´¾à´¨àµ‡à´œàµâ€Œà´®àµ†àµ»àµà´±àµ, à´…à´¡àµà´®à´¿àµ» à´ªàµà´°à´µàµ¼à´¤àµà´¤à´¨à´™àµà´™àµ¾ à´Žà´¨àµà´¨à´¿à´µà´¯àµâ€Œà´•àµà´•àµŠà´ªàµà´ªà´‚ à´ªàµà´°à´¤àµà´¯àµ‡à´• à´…à´•àµà´•àµ—à´£àµà´Ÿàµà´•àµ¾. (à´‰à´¦à´¾à´¹à´°à´£à´‚: à´’à´°àµ à´¸àµà´•àµ‚à´³à´¿à´¨àµ à´¸àµ—à´œà´¨àµà´¯à´®à´¾à´¯à´¿ à´…à´²àµà´²àµ†à´™àµà´•à´¿àµ½ à´¸àµà´¥à´¾à´ªà´¨à´ªà´°à´®à´¾à´¯ à´¤à´¾à´°à´¿à´«àµ à´µà´´à´¿ à´µà´¿à´¦àµà´¯à´¾àµ¼à´¤àµà´¥à´¿à´•àµ¾à´•àµà´•àµ à´ªàµà´°à´µàµ‡à´¶à´¨à´‚ à´²à´­à´¿à´•àµà´•àµà´¨àµà´¨àµ).
+#### സ്തംഭം 3 - സംഘടനകൾ
+**നെക്‌സസ് ഗജ ഓർഗനൈസേഷൻ:** സ്‌കൂളുകൾ, സർവ്വകലാശാലകൾ, ക്ലബ്ബുകൾ, എൻജിഒകൾ, കമ്പനികൾ, മുനിസിപ്പാലിറ്റികൾ മുതലായവയ്‌ക്കായി കേന്ദ്ര ഓർഗനൈസേഷണൽ അക്കൗണ്ട്, അംഗ മാനേജ്‌മെൻ്റ്, അഡ്മിൻ പ്രവർത്തനങ്ങൾ എന്നിവയ്‌ക്കൊപ്പം പ്രത്യേക അക്കൗണ്ടുകൾ. (ഉദാഹരണം: ഒരു സ്കൂളിന് സൗജന്യമായി അല്ലെങ്കിൽ സ്ഥാപനപരമായ താരിഫ് വഴി വിദ്യാർത്ഥികൾക്ക് പ്രവേശനം ലഭിക്കുന്നു).
 
-#### à´¸àµà´¤à´‚à´­à´‚ 4 - à´¸à´‚à´­à´¾à´µà´¨à´•àµ¾
-**Nexus Gaja à´«à´£àµà´Ÿà´¿à´‚à´—àµ à´«à´£àµà´Ÿàµ:** à´¦à´¾à´¤à´¾à´•àµà´•àµ¾à´•àµà´•àµ à´¸àµà´µà´®àµ‡à´§à´¯à´¾ à´ªà´£à´‚ à´¨àµ½à´•à´¾à´‚ (à´ªàµŠà´¤àµà´µà´¾à´¯à´¤àµ‹ à´¨àµ€à´•àµà´•à´¿à´µàµ†à´šàµà´šà´¤àµ‹ à´†à´¯ à´¸à´‚à´­à´¾à´µà´¨à´•àµ¾). 
-**à´«à´£àµà´Ÿà´¿à´‚à´—àµ à´ªàµ‚à´³àµà´‚ à´Ÿàµ‹à´‚à´¬àµ‹à´³à´¯àµà´‚:** à´¸àµŒà´œà´¨àµà´¯à´®àµ‹ à´•à´¿à´´à´¿à´µàµ‹à´Ÿàµà´•àµ‚à´Ÿà´¿à´¯à´¤àµ‹ à´†à´¯ à´‰à´ªà´¯àµ‹à´—à´‚ à´’à´°àµ à´¸à´‚à´­à´¾à´µà´¨ à´ªàµ‚à´³à´¿àµ½ à´¨à´¿à´¨àµà´¨à´¾à´£àµ. à´’à´°àµ à´«à´£àµà´Ÿàµ à´…à´²àµ‹à´•àµà´•àµ‡à´·àµ» à´²àµ†à´¡àµà´œàµ¼ à´®à´¾à´±àµà´±à´¿à´µà´¯àµà´•àµà´•àµ½ à´‰à´±à´ªàµà´ªà´¾à´•àµà´•àµà´¨àµà´¨àµ.
-``` à´Ÿàµ†à´•àµà´¸àµà´±àµà´±àµ
-à´¸à´‚à´­à´¾à´µà´¨à´•àµ¾ â†’ à´‰à´¦àµà´¦àµ‡à´¶àµà´¯ à´«à´£àµà´Ÿàµ â†’ à´¯àµ‹à´—àµà´¯à´¤à´¾ à´Žà´žàµà´šà´¿àµ» â†’ à´¸àµ—à´œà´¨àµà´¯ à´†à´•àµà´¸à´¸àµ / à´•à´¿à´´à´¿à´µàµ / à´•àµà´µà´¾à´Ÿàµà´Ÿ
+#### സ്തംഭം 4 - സംഭാവനകൾ
+**Nexus Gaja ഫണ്ടിംഗ് ഫണ്ട്:** ദാതാക്കൾക്ക് സ്വമേധയാ പണം നൽകാം (പൊതുവായതോ നീക്കിവെച്ചതോ ആയ സംഭാവനകൾ). 
+**ഫണ്ടിംഗ് പൂളും ടോംബോളയും:** സൌജന്യമോ കിഴിവോടുകൂടിയതോ ആയ ഉപയോഗം ഒരു സംഭാവന പൂളിൽ നിന്നാണ്. ഒരു ഫണ്ട് അലോക്കേഷൻ ലെഡ്ജർ മാറ്റിവയ്ക്കൽ ഉറപ്പാക്കുന്നു.
+``` ടെക്സ്റ്റ്
+സംഭാവനകൾ → ഉദ്ദേശ്യ ഫണ്ട് → യോഗ്യതാ എഞ്ചിൻ → സൗജന്യ ആക്സസ് / കിഴിവ് / ക്വാട്ട
 ```
 
-#### à´ªà´¿à´²àµà´²àµ¼ 5 - à´¸àµà´¥à´¾à´ªà´¨ à´ªà´¿à´¨àµà´¤àµà´£
-à´¸àµà´ªàµ‹àµºà´¸àµ¼à´®à´¾àµ¼: à´«àµ—à´£àµà´Ÿàµ‡à´·à´¨àµà´•àµ¾, à´¸à´¾à´‚à´¸àµà´•à´¾à´°à´¿à´• à´«à´£àµà´Ÿà´¿à´‚à´—àµ à´ªàµà´°àµ‹à´—àµà´°à´¾à´®àµà´•àµ¾, à´¸à´‚à´¸àµà´¥à´¾à´¨ à´«à´£àµà´Ÿà´¿à´‚à´—àµ à´ªàµà´°àµ‹à´—àµà´°à´¾à´®àµà´•àµ¾.
-**NG-FIN-002 (à´¸àµà´µà´¾à´¤à´¨àµà´¤àµà´°àµà´¯à´‚):** à´§à´¨à´¸à´¹à´¾à´¯à´‚ Nexus Gaja-à´¯àµà´Ÿàµ† à´Žà´¡à´¿à´±àµà´±àµ‹à´±à´¿à´¯àµ½ à´…à´²àµà´²àµ†à´™àµà´•à´¿àµ½ à´¸à´¾à´™àµà´•àµ‡à´¤à´¿à´• à´¨à´¿à´¯à´¨àµà´¤àµà´°à´£à´‚ à´µà´¾à´™àµà´™à´¾à´¨à´¿à´Ÿà´¯à´¿à´²àµà´².
+#### പില്ലർ 5 - സ്ഥാപന പിന്തുണ
+സ്പോൺസർമാർ: ഫൗണ്ടേഷനുകൾ, സാംസ്കാരിക ഫണ്ടിംഗ് പ്രോഗ്രാമുകൾ, സംസ്ഥാന ഫണ്ടിംഗ് പ്രോഗ്രാമുകൾ.
+**NG-FIN-002 (സ്വാതന്ത്ര്യം):** ധനസഹായം Nexus Gaja-യുടെ എഡിറ്റോറിയൽ അല്ലെങ്കിൽ സാങ്കേതിക നിയന്ത്രണം വാങ്ങാനിടയില്ല.
 
-#### à´ªà´¿à´²àµà´²àµ¼ 6 - à´µà´¾à´£à´¿à´œàµà´¯ à´¸àµ‡à´µà´¨à´™àµà´™àµ¾
-Nexus Gaja-à´¨àµ à´¸à´¾à´§à´¾à´°à´£ à´‰à´ªà´¯àµ‹à´•àµà´¤àµƒ à´«àµ€à´¡à´¿à´¨àµ† à´­à´¾à´°à´ªàµà´ªàµ†à´Ÿàµà´¤àµà´¤à´¾à´¤àµ† **Translation-as-a-Service (API)**, à´ªàµà´°àµŠà´«à´·à´£àµ½ à´µà´¿à´µàµ¼à´¤àµà´¤à´¨à´‚, à´“àµ¼à´—à´¨àµˆà´¸àµ‡à´·à´£àµ½ à´•à´®àµà´®àµà´¯àµ‚à´£à´¿à´•àµà´•àµ‡à´·àµ» à´…à´²àµà´²àµ†à´™àµà´•à´¿àµ½ à´…à´¨àµà´¤à´¾à´°à´¾à´·àµà´Ÿàµà´° à´•àµ‹àµºà´«à´±àµ»à´¸àµ à´±àµ‚à´®àµà´•àµ¾ à´ªàµ‹à´²àµà´³àµà´³ B2B à´¸àµ‡à´µà´¨à´™àµà´™àµ¾ à´µà´¾à´—àµà´¦à´¾à´¨à´‚ à´šàµ†à´¯àµà´¯à´¾àµ» à´•à´´à´¿à´¯àµà´‚.
+#### പില്ലർ 6 - വാണിജ്യ സേവനങ്ങൾ
+Nexus Gaja-ന് സാധാരണ ഉപയോക്തൃ ഫീഡിനെ ഭാരപ്പെടുത്താതെ **Translation-as-a-Service (API)**, പ്രൊഫഷണൽ വിവർത്തനം, ഓർഗനൈസേഷണൽ കമ്മ്യൂണിക്കേഷൻ അല്ലെങ്കിൽ അന്താരാഷ്ട്ര കോൺഫറൻസ് റൂമുകൾ പോലുള്ള B2B സേവനങ്ങൾ വാഗ്ദാനം ചെയ്യാൻ കഴിയും.
 
-### 4. à´¡à´¾à´±àµà´± à´®à´¾àµ¼à´•àµà´•à´±àµà´±à´¿à´‚à´—àµà´‚ "à´¨à´¿à´°àµ€à´•àµà´·à´£ à´¸à´®àµà´ªà´¦àµâ€Œà´µàµà´¯à´µà´¸àµà´¥à´¯àµà´‚" à´‡à´²àµà´²
-**NG-FIN-003:** à´‰à´ªà´¯àµ‹à´•àµà´¤àµƒ à´¸àµà´µà´•à´¾à´°àµà´¯ à´¡à´¾à´±àµà´± Nexus Gaja-à´¯àµà´Ÿàµ† à´’à´°àµ à´šà´°à´•àµà´•à´²àµà´². (à´ªàµà´°àµŠà´«àµˆà´²àµà´•àµ¾, à´šà´°à´¿à´¤àµà´°à´™àµà´™àµ¾, à´à´¡àµ»àµà´±à´¿à´±àµà´±à´¿ à´¡à´¾à´±àµà´± à´Žà´¨àµà´¨à´¿à´µà´¯àµà´Ÿàµ† à´µà´¿àµ½à´ªàµà´ªà´¨à´¯à´¿à´²àµà´²). 
-Nexus Gaja à´…à´¤à´¿àµ»àµà´±àµ† à´‰à´ªà´¯àµ‹à´•àµà´¤à´¾à´•àµà´•à´³àµ† à´•à´´à´¿à´¯àµà´¨àµà´¨à´¤àµà´° à´¨à´¿à´°àµ€à´•àµà´·à´¿à´•àµà´•àµà´•à´¯àµà´‚ à´•à´´à´¿à´¯àµà´¨àµà´¨à´¤àµà´° à´•àµƒà´¤àµà´¯à´®à´¾à´¯à´¿ à´®à´¨à´ƒà´¶à´¾à´¸àµà´¤àµà´°à´ªà´°à´®à´¾à´¯à´¿ à´¤à´°à´‚à´¤à´¿à´°à´¿à´•àµà´•àµà´•à´¯àµà´‚ à´šàµ†à´¯àµà´¯àµà´¨àµà´¨à´¤àµ à´ªàµà´°à´¯àµ‹à´œà´¨à´ªàµà´ªàµ†à´Ÿàµà´¤àµà´¤à´¾àµ» à´‰à´¦àµà´¦àµ‡à´¶à´¿à´šàµà´šàµà´³àµà´³à´¤à´²àµà´².
+### 4. ഡാറ്റ മാർക്കറ്റിംഗും "നിരീക്ഷണ സമ്പദ്‌വ്യവസ്ഥയും" ഇല്ല
+**NG-FIN-003:** ഉപയോക്തൃ സ്വകാര്യ ഡാറ്റ Nexus Gaja-യുടെ ഒരു ചരക്കല്ല. (പ്രൊഫൈലുകൾ, ചരിത്രങ്ങൾ, ഐഡൻ്റിറ്റി ഡാറ്റ എന്നിവയുടെ വിൽപ്പനയില്ല). 
+Nexus Gaja അതിൻ്റെ ഉപയോക്താക്കളെ കഴിയുന്നത്ര നിരീക്ഷിക്കുകയും കഴിയുന്നത്ര കൃത്യമായി മനഃശാസ്ത്രപരമായി തരംതിരിക്കുകയും ചെയ്യുന്നത് പ്രയോജനപ്പെടുത്താൻ ഉദ്ദേശിച്ചുള്ളതല്ല.
 
-### 5. à´¸à´¾à´®àµà´ªà´¤àµà´¤à´¿à´• à´¸àµà´¤à´¾à´°àµà´¯à´¤
-Nexus Gaja à´¸à´¾à´®àµà´ªà´¤àµà´¤à´¿à´• à´¸àµà´¤à´¾à´°àµà´¯à´¤: à´µà´¿à´­à´¾à´—à´™àµà´™àµ¾, à´¸à´‚à´­à´¾à´µà´¨ à´…à´³à´µàµ, à´ªàµà´°à´µàµ¼à´¤àµà´¤à´¨ à´šàµ†à´²à´µàµ à´®àµà´¤à´²à´¾à´¯à´µ à´…à´¨àµà´¸à´°à´¿à´šàµà´šàµ à´µà´°àµà´®à´¾à´¨à´‚ à´ªàµà´°à´¸à´¿à´¦àµà´§àµ€à´•à´°à´¿à´•àµà´•à´¾à´‚. 
-**à´«à´£àµà´Ÿà´¿à´‚à´—àµ à´²àµ†à´¡àµà´œàµ¼:** à´’à´°àµ à´¨à´¿àµ¼à´¦àµà´¦à´¿à´·àµâ€Œà´Ÿ à´†à´µà´¶àµà´¯à´¤àµà´¤à´¿à´¨à´¾à´¯à´¿ à´¨àµ€à´•àµà´•à´¿à´µà´šàµà´šà´¿à´°à´¿à´•àµà´•àµà´¨àµà´¨ à´¸à´‚à´­à´¾à´µà´¨à´•àµ¾ à´®à´¨à´¸àµà´¸à´¿à´²à´¾à´•àµà´•à´¾à´µàµà´¨àµà´¨ à´…à´•àµà´•àµ—à´£àµà´Ÿà´¿à´‚à´—àµ à´°àµ€à´¤à´¿à´¯à´¿àµ½ à´°àµ‡à´–à´ªàµà´ªàµ†à´Ÿàµà´¤àµà´¤àµà´¨àµà´¨àµ (à´¸à´‚à´­à´¾à´µà´¨ â†’ à´«à´£àµà´Ÿàµ à´à´¡à´¿ â†’ à´‰à´¦àµà´¦àµ‡à´¶àµà´¯à´‚ â†’ à´²à´­àµà´¯à´®à´¾à´¯ à´¬à´¾à´²àµ»à´¸àµ â†’ à´…à´²àµ‹à´•àµà´•àµ‡à´·àµ»). à´¸àµà´¤à´¾à´°àµà´¯à´¤à´¯à´¿à´²àµà´²à´¾à´¤àµ† à´•àµà´°àµ‹à´¸àµ à´¸à´¬àµà´¸à´¿à´¡à´¿ à´‡à´²àµà´².
+### 5. സാമ്പത്തിക സുതാര്യത
+Nexus Gaja സാമ്പത്തിക സുതാര്യത: വിഭാഗങ്ങൾ, സംഭാവന അളവ്, പ്രവർത്തന ചെലവ് മുതലായവ അനുസരിച്ച് വരുമാനം പ്രസിദ്ധീകരിക്കാം. 
+**ഫണ്ടിംഗ് ലെഡ്ജർ:** ഒരു നിർദ്ദിഷ്‌ട ആവശ്യത്തിനായി നീക്കിവച്ചിരിക്കുന്ന സംഭാവനകൾ മനസ്സിലാക്കാവുന്ന അക്കൗണ്ടിംഗ് രീതിയിൽ രേഖപ്പെടുത്തുന്നു (സംഭാവന → ഫണ്ട് ഐഡി → ഉദ്ദേശ്യം → ലഭ്യമായ ബാലൻസ് → അലോക്കേഷൻ). സുതാര്യതയില്ലാതെ ക്രോസ് സബ്സിഡി ഇല്ല.
 
-### 6. à´µà´¿à´²à´¨à´¿àµ¼à´£àµà´£à´¯à´µàµà´‚ à´¸àµ‹à´³à´¿à´¡à´¾à´°à´¿à´±àµà´±à´¿ à´«à´¿à´¨à´¾àµ»à´¸à´¿à´‚à´—àµ à´®à´¾à´¤àµƒà´•à´¯àµà´‚
-à´µà´¿à´²à´•àµ¾ à´…à´Ÿà´¿à´¸àµà´¥à´¾à´¨à´®à´¾à´•àµà´•à´¿à´¯àµà´³àµà´³à´¤à´¾à´£àµ: à´šàµ†à´²à´µàµ à´“à´±à´¿à´¯àµ»àµà´±àµ‡à´·àµ», à´¨àµà´¯à´¾à´¯à´µàµà´‚ à´à´•àµà´¯à´¦à´¾àµ¼à´¢àµà´¯à´µàµà´‚.
-**à´¸àµ‹à´³à´¿à´¡à´¾à´°à´¿à´±àµà´±à´¿ à´ªàµà´°àµ€à´®à´¿à´¯à´‚:** à´’à´°àµ à´ªàµà´°àµ€à´®à´¿à´¯à´‚ à´‰à´ªà´¯àµ‹à´•àµà´¤à´¾à´µà´¿à´¨àµ à´¸àµà´µà´®àµ‡à´§à´¯à´¾ à´¤à´¿à´°à´žàµà´žàµ†à´Ÿàµà´•àµà´•à´¾à´‚: "à´®à´±àµà´±àµŠà´°àµ à´‰à´ªà´¯àµ‹à´•àµà´¤à´¾à´µà´¿àµ»àµà´±àµ† à´†à´•àµâ€Œà´¸à´¸à´¿àµ»àµà´±àµ† à´’à´°àµ à´­à´¾à´—à´‚ à´žà´¾àµ» à´§à´¨à´¸à´¹à´¾à´¯à´‚ à´šàµ†à´¯àµà´¯àµà´¨àµà´¨àµ." à´¨à´¿àµ¼à´¬à´¨àµà´§à´¿à´¤ à´à´•àµà´¯à´¦à´¾àµ¼à´¢àµà´¯à´‚ à´…à´²àµà´²àµ†à´™àµà´•à´¿àµ½ à´ªàµà´°àµ€à´®à´¿à´¯à´‚ à´•àµà´²à´¾à´¸àµ à´¸àµŠà´¸àµˆà´±àµà´±à´¿ (à´¸àµ—à´œà´¨àµà´¯ à´‰à´ªà´¯àµ‹à´•àµà´¤à´¾à´•àµà´•àµ¾à´•àµà´•àµ à´•àµà´±à´žàµà´ž à´¬à´¹àµà´®à´¾à´¨à´‚ à´…à´²àµà´²àµ†à´™àµà´•à´¿àµ½ à´®àµ‹à´¶à´®à´¾à´¯ à´®àµ‹à´¡à´±àµ‡à´·àµ») à´’à´´à´¿à´µà´¾à´•àµà´•à´¿à´¯à´¿à´°à´¿à´•àµà´•àµà´¨àµà´¨àµ.
+### 6. വിലനിർണ്ണയവും സോളിഡാരിറ്റി ഫിനാൻസിംഗ് മാതൃകയും
+വിലകൾ അടിസ്ഥാനമാക്കിയുള്ളതാണ്: ചെലവ് ഓറിയൻ്റേഷൻ, ന്യായവും ഐക്യദാർഢ്യവും.
+**സോളിഡാരിറ്റി പ്രീമിയം:** ഒരു പ്രീമിയം ഉപയോക്താവിന് സ്വമേധയാ തിരഞ്ഞെടുക്കാം: "മറ്റൊരു ഉപയോക്താവിൻ്റെ ആക്‌സസിൻ്റെ ഒരു ഭാഗം ഞാൻ ധനസഹായം ചെയ്യുന്നു." നിർബന്ധിത ഐക്യദാർഢ്യം അല്ലെങ്കിൽ പ്രീമിയം ക്ലാസ് സൊസൈറ്റി (സൗജന്യ ഉപയോക്താക്കൾക്ക് കുറഞ്ഞ ബഹുമാനം അല്ലെങ്കിൽ മോശമായ മോഡറേഷൻ) ഒഴിവാക്കിയിരിക്കുന്നു.
 
-### 7. à´¸à´¾à´®àµà´ªà´¤àµà´¤à´¿à´• à´•àµ†à´ªà´¿à´
-à´žà´™àµà´™àµ¾ à´…à´¨à´¨àµà´¤à´®à´¾à´¯ à´“àµºà´²àµˆàµ» à´¸à´®à´¯à´¤àµà´¤àµ† à´†à´¶àµà´°à´¯à´¿à´•àµà´•àµà´¨àµà´¨à´¿à´²àµà´² (à´®à´¾à´¨à´¿à´ªàµà´ªàµà´²àµ‡à´±àµà´±àµ€à´µàµ à´Žàµ»à´—àµ‡à´œàµâ€Œà´®àµ†àµ»àµà´±àµ à´¸à´®àµà´ªà´¦àµâ€Œà´µàµà´¯à´µà´¸àµà´¥à´¯à´¿à´²àµà´²). à´žà´™àµà´™à´³àµà´Ÿàµ† à´•àµ†à´ªà´¿à´à´•àµ¾:
-- **à´—àµà´²àµ‹à´¬àµ½ à´•à´®àµà´®àµà´¯àµ‚à´£à´¿à´•àµà´•àµ‡à´·àµ» à´‡àµ»à´¡à´•àµà´¸àµ (à´œà´¿à´¸à´¿à´):** à´µà´¿à´µà´¿à´§ à´­à´¾à´·à´¾ à´…à´²àµà´²àµ†à´™àµà´•à´¿àµ½ à´¸à´¾à´‚à´¸àµà´•à´¾à´°à´¿à´• à´®àµ‡à´–à´²à´•à´³à´¿àµ½ à´¨à´¿à´¨àµà´¨àµà´³àµà´³ à´†à´³àµà´•àµ¾à´•àµà´•à´¿à´Ÿà´¯à´¿àµ½ à´Žà´¤àµà´° à´µà´¿à´œà´¯à´•à´°à´®à´¾à´¯ à´†à´¶à´¯à´µà´¿à´¨à´¿à´®à´¯ à´¬à´¨àµà´§à´™àµà´™àµ¾ à´‰à´£àµà´Ÿà´¾à´•àµà´¨àµà´¨àµ?
-- **à´ªàµà´²à´¾à´±àµà´±àµà´«àµ‹à´‚ à´¸àµà´¸àµà´¥à´¿à´° à´…à´¨àµà´ªà´¾à´¤à´‚ (PSR):** à´†à´µàµ¼à´¤àµà´¤à´¨ à´µà´°àµà´®à´¾à´¨à´‚ / à´†à´µàµ¼à´¤àµà´¤à´¿à´šàµà´šàµà´³àµà´³ à´ªàµà´°à´µàµ¼à´¤àµà´¤à´¨ à´šàµ†à´²à´µàµ (à´²à´•àµà´·àµà´¯à´‚: PSR â‰¥ 1).
+### 7. സാമ്പത്തിക കെപിഐ
+ഞങ്ങൾ അനന്തമായ ഓൺലൈൻ സമയത്തെ ആശ്രയിക്കുന്നില്ല (മാനിപ്പുലേറ്റീവ് എൻഗേജ്‌മെൻ്റ് സമ്പദ്‌വ്യവസ്ഥയില്ല). ഞങ്ങളുടെ കെപിഐകൾ:
+- **ഗ്ലോബൽ കമ്മ്യൂണിക്കേഷൻ ഇൻഡക്സ് (ജിസിഐ):** വിവിധ ഭാഷാ അല്ലെങ്കിൽ സാംസ്കാരിക മേഖലകളിൽ നിന്നുള്ള ആളുകൾക്കിടയിൽ എത്ര വിജയകരമായ ആശയവിനിമയ ബന്ധങ്ങൾ ഉണ്ടാകുന്നു?
+- **പ്ലാറ്റ്ഫോം സുസ്ഥിര അനുപാതം (PSR):** ആവർത്തന വരുമാനം / ആവർത്തിച്ചുള്ള പ്രവർത്തന ചെലവ് (ലക്ഷ്യം: PSR ≥ 1).
 
-### 8. à´¨à´®àµà´•àµà´•àµ à´µàµà´¯à´•àµà´¤à´®à´¾à´¯à´¿ à´†à´µà´¶àµà´¯à´®à´¿à´²àµà´²à´¾à´¤àµà´¤à´¤àµ
-Nexus Gaja-à´¯àµà´•àµà´•àµ à´§à´¨à´¸à´¹à´¾à´¯à´‚ à´¨àµ½à´•à´¿à´¯à´¤àµ:
-âŒ à´µàµà´¯à´•àµà´¤à´¿à´—à´¤ à´µà´¿à´µà´°à´™àµà´™à´³àµà´Ÿàµ† à´µà´¿àµ½à´ªàµà´ªà´¨
-âŒ à´µàµà´¯à´•àµà´¤à´¿à´—à´¤à´®à´¾à´•àµà´•à´¿à´¯ à´•àµà´²à´¾à´¸à´¿à´•àµ à´ªà´°à´¸àµà´¯à´‚à´šàµ†à´¯àµà´¯àµ½
-âŒ à´ªà´°à´¸àµà´¯ à´†à´µà´¶àµà´¯à´™àµà´™àµ¾à´•àµà´•à´¾à´¯à´¿ à´‰à´ªà´¯àµ‹à´•àµà´¤àµƒ à´ªàµ†à´°àµà´®à´¾à´±àµà´±à´‚ à´¨à´¿à´°àµ€à´•àµà´·à´¿à´•àµà´•àµà´¨àµà´¨àµ
-âŒ à´¸àµà´µà´•à´¾à´°àµà´¯ à´†à´¶à´¯à´µà´¿à´¨à´¿à´®à´¯ à´¡à´¾à´±àµà´± à´µà´¿àµ½à´•àµà´•àµà´¨àµà´¨àµ
-âŒ à´®à´±à´šàµà´š AI à´¡à´¾à´±àµà´± à´‰à´ªà´¯àµ‹à´—à´‚
-âŒ à´•àµƒà´¤àµà´°à´¿à´® à´ªàµà´°àµ€à´®à´¿à´¯à´‚ à´²àµ‹à´•àµà´•àµà´•àµ¾
-âŒ à´§à´¨à´¸à´®àµà´ªà´¾à´¦à´¨à´¤àµà´¤à´¿à´¨àµ à´•àµƒà´¤àµà´°à´¿à´®à´®à´¾à´¯à´¿ à´Žà´¤àµà´¤à´¿à´šàµà´šàµ‡à´°à´¾à´¨àµà´³àµà´³ à´ªà´°à´¿à´®à´¿à´¤à´¿
-âŒ à´ªà´£à´®à´Ÿà´šàµà´š à´°à´¾à´·àµà´Ÿàµà´°àµ€à´¯ à´¸àµà´µà´¾à´§àµ€à´¨à´‚
-âŒ à´ªàµà´°à´¿à´µà´¿à´²àµ‡à´œàµà´¡àµ à´®àµ‹à´¡à´±àµ‡à´·àµ» à´¤àµ€à´°àµà´®à´¾à´¨à´™àµà´™àµ¾ à´µà´¾à´™àµà´™àµà´¨àµà´¨àµ.
+### 8. നമുക്ക് വ്യക്തമായി ആവശ്യമില്ലാത്തത്
+Nexus Gaja-യ്ക്ക് ധനസഹായം നൽകിയത്:
+❌ വ്യക്തിഗത വിവരങ്ങളുടെ വിൽപ്പന
+❌ വ്യക്തിഗതമാക്കിയ ക്ലാസിക് പരസ്യംചെയ്യൽ
+❌ പരസ്യ ആവശ്യങ്ങൾക്കായി ഉപയോക്തൃ പെരുമാറ്റം നിരീക്ഷിക്കുന്നു
+❌ സ്വകാര്യ ആശയവിനിമയ ഡാറ്റ വിൽക്കുന്നു
+❌ മറച്ച AI ഡാറ്റ ഉപയോഗം
+❌ കൃത്രിമ പ്രീമിയം ലോക്കുകൾ
+❌ ധനസമ്പാദനത്തിന് കൃത്രിമമായി എത്തിച്ചേരാനുള്ള പരിമിതി
+❌ പണമടച്ച രാഷ്ട്രീയ സ്വാധീനം
+❌ പ്രിവിലേജ്ഡ് മോഡറേഷൻ തീരുമാനങ്ങൾ വാങ്ങുന്നു.
 
-### 9. à´ªàµà´°à´¾à´¥à´®à´¿à´• à´µà´¾à´¸àµà´¤àµà´µà´¿à´¦àµà´¯
-``` à´Ÿàµ†à´•àµà´¸àµà´±àµà´±àµ
-                         à´¨àµ†à´•àµà´¸à´¸àµ à´—à´œ
-                              â”‚
-             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
-             â”‚ â”‚ â”‚
-             â–¼ â–¼ â–¼
-          à´‰à´ªà´¯àµ‹à´•àµà´¤à´¾à´•àµà´•à´³àµà´Ÿàµ† à´“àµ¼à´—à´¨àµˆà´¸àµ‡à´·àµ» à´Žàµ»àµà´±àµ¼à´ªàµà´°àµˆà´¸àµ
-             â”‚ â”‚ â”‚
-             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
-                              â”‚
-                       à´ªàµà´²à´¾à´±àµà´±àµà´«àµ‹à´‚ à´¸àµ‡à´µà´¨à´™àµà´™àµ¾
-                              â”‚
-          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-          â–¼ â–¼ â–¼
-       à´ªàµà´°àµ€à´®à´¿à´¯à´‚ à´¸à´‚à´­à´¾à´µà´¨à´•àµ¾ API
-                              â”‚
-                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-                    â–¼ â–¼
-               à´ªàµŠà´¤àµ à´«à´£àµà´Ÿàµ à´¨à´¿à´¯à´¨àµà´¤àµà´°à´¿à´¤ à´«à´£àµà´Ÿàµà´•àµ¾
-                                        â”‚
-                                        â–¼
-                                  à´¸à´¾à´®àµ‚à´¹à´¿à´• à´‰à´¦àµà´¦àµ‡à´¶à´‚
+### 9. പ്രാഥമിക വാസ്തുവിദ്യ
+``` ടെക്സ്റ്റ്
+                         നെക്സസ് ഗജ
+                              │
+             ┌───────────────┼──────────────
+             │ │ │
+             ▼ ▼ ▼
+          ഉപയോക്താക്കളുടെ ഓർഗനൈസേഷൻ എൻ്റർപ്രൈസ്
+             │ │ │
+             └───────────────┼────────────
+                              │
+                       പ്ലാറ്റ്ഫോം സേവനങ്ങൾ
+                              │
+          ┌─────────────────── ┼───────────────────┐
+          ▼ ▼ ▼
+       പ്രീമിയം സംഭാവനകൾ API
+                              │
+                    ┌─────────┴─────────┐
+                    ▼ ▼
+               പൊതു ഫണ്ട് നിയന്ത്രിത ഫണ്ടുകൾ
+                                        │
+                                        ▼
+                                  സാമൂഹിക ഉദ്ദേശം
 ```
 
-### à´¸à´‚à´—àµà´°à´¹à´‚: à´§à´¨à´•à´¾à´°àµà´¯ à´¤à´¤àµà´µà´™àµà´™àµ¾ (NG-FIN)
-- **NG-FIN-001:** Nexus Gaja à´ªà´°à´®àµà´ªà´°à´¾à´—à´¤ à´ªà´°à´¸àµà´¯à´¤àµà´¤à´¿àµ½ à´¨à´¿à´¨àµà´¨àµ à´§à´¨à´¸à´¹à´¾à´¯à´‚ à´¨àµ½à´•àµà´¨àµà´¨à´¤à´²àµà´².
-- **NG-FIN-002:** à´¸à´¾à´®àµà´ªà´¤àµà´¤à´¿à´• à´ªà´¿à´¨àµà´¤àµà´£ à´®àµ‹à´¡à´±àµ‡à´·à´¨à´¿à´²àµ‹ à´­à´°à´£à´¤àµà´¤à´¿à´²àµ‹ à´¸àµà´µà´¾à´§àµ€à´¨à´‚ à´šàµ†à´²àµà´¤àµà´¤àµà´¨àµà´¨à´¿à´²àµà´².
-- **NG-FIN-003:** à´µàµà´¯à´•àµà´¤à´¿à´—à´¤ à´‰à´ªà´¯àµ‹à´•àµà´¤àµƒ à´¡à´¾à´±àµà´± à´’à´°àµ à´šà´°à´•àµà´•à´²àµà´².
-- **NG-FIN-004:** à´…à´Ÿà´¿à´¸àµà´¥à´¾à´¨ à´‡àµ»àµà´±àµ¼à´¨à´¾à´·à´£àµ½ à´•à´®àµà´®àµà´¯àµ‚à´£à´¿à´•àµà´•àµ‡à´·àµ» à´«à´‚à´—àµâ€Œà´·àµ» à´ªà´£à´®à´Ÿà´¯àµà´•àµà´•à´¾à´¤àµ† à´¤à´¨àµà´¨àµ† à´†à´•àµâ€Œà´¸à´¸àµ à´šàµ†à´¯àµà´¯à´¾à´µàµà´¨àµà´¨à´¤à´¾à´£àµ.
-- **NG-FIN-005:** à´ªàµà´°àµ€à´®à´¿à´¯à´‚ à´“à´«à´±àµà´•àµ¾ à´¸àµ‡à´µà´¨à´™àµà´™à´³àµà´Ÿàµ† à´µàµà´¯à´¾à´ªàµà´¤à´¿ à´µà´¿à´ªàµà´²àµ€à´•à´°à´¿à´•àµà´•àµà´¨àµà´¨àµ, à´Žà´¨àµà´¨à´¾àµ½ à´¸àµà´µà´¤à´¨àµà´¤àµà´° à´‰à´ªà´¯àµ‹à´•àµà´¤à´¾à´•àµà´•à´³àµà´Ÿàµ† à´…à´¨àµà´¤à´¸àµà´¸àµà´‚ à´…à´Ÿà´¿à´¸àµà´¥à´¾à´¨ à´†à´¶à´¯à´µà´¿à´¨à´¿à´®à´¯ à´“à´ªàµà´·à´¨àµà´•à´³àµà´‚ à´¤à´¾à´´àµà´¤àµà´¤à´°àµà´¤àµ.
-- **NG-FIN-006:** à´’à´°àµ à´ªàµà´°à´¤àµà´¯àµ‡à´• à´‰à´¦àµà´¦àµ‡à´¶àµà´¯à´¤àµà´¤à´¿à´¨à´¾à´¯à´¿ à´¨àµ€à´•àµà´•à´¿à´µà´šàµà´šà´¿à´°à´¿à´•àµà´•àµà´¨àµà´¨ à´«à´£àµà´Ÿàµà´•àµ¾ à´•àµˆà´•à´¾à´°àµà´¯à´‚ à´šàµ†à´¯àµà´¯àµà´¨àµà´¨àµ.
-- **NG-FIN-007:** à´¸à´‚à´­à´¾à´µà´¨à´•à´³àµà´‚ à´§à´¨à´¸à´¹à´¾à´¯à´µàµà´‚ à´¸àµà´¤à´¾à´°àµà´¯à´®à´¾à´¯àµà´‚ à´®à´¨à´¸àµà´¸à´¿à´²à´¾à´•àµà´•à´¾à´µàµà´¨àµà´¨à´¤à´¿à´²àµà´‚ à´•àµˆà´•à´¾à´°àµà´¯à´‚ à´šàµ†à´¯àµà´¯àµà´¨àµà´¨àµ.
-- **NG-FIN-008:** à´µà´¾à´£à´¿à´œàµà´¯ à´¸àµ‡à´µà´¨à´™àµà´™àµ¾ à´ªàµà´²à´¾à´±àµà´±àµâ€Œà´«àµ‹à´®à´¿àµ»àµà´±àµ† à´¸àµà´µà´¾à´¤à´¨àµà´¤àµà´°àµà´¯à´¤àµà´¤àµ† à´¬à´¾à´§à´¿à´•àµà´•à´°àµà´¤àµ.
-- **NG-FIN-009:** Nexus Gaja-à´¯àµà´Ÿàµ† à´¸à´¾à´®àµà´ªà´¤àµà´¤à´¿à´• à´µà´¿à´•à´¸à´¨à´‚ à´¦àµ€àµ¼à´˜à´•à´¾à´² à´¸àµà´¸àµà´¥à´¿à´°à´¤à´¯à´¾à´£àµ à´²à´•àµà´·àµà´¯à´®à´¿à´Ÿàµà´¨àµà´¨à´¤àµ, à´ªà´°à´®à´¾à´µà´§à´¿ à´‰à´ªà´¯àµ‹à´•àµà´¤àµƒ à´§à´¨à´¸à´®àµà´ªà´¾à´¦à´¨à´®à´²àµà´².
-- **NG-FIN-010:** à´¸à´¾à´®àµà´ªà´¤àµà´¤à´¿à´• à´˜à´Ÿà´¨ à´¶à´¾à´¶àµà´µà´¤à´®à´¾à´¯à´¿ à´¸à´¾à´®àµ‚à´¹à´¿à´• à´²à´•àµà´·àµà´¯à´¤àµà´¤àµ† à´ªàµà´°à´¾à´ªàµà´¤à´®à´¾à´•àµà´•à´£à´‚ - à´…à´¨àµà´¤à´¾à´°à´¾à´·àµà´Ÿàµà´° à´§à´¾à´°à´£, à´…à´¨àµà´¤à´¾à´°à´¾à´·àµà´Ÿàµà´° à´†à´¶à´¯à´µà´¿à´¨à´¿à´®à´¯à´‚, à´œà´¨à´™àµà´™àµ¾ à´¤à´®àµà´®à´¿à´²àµà´³àµà´³ à´¸àµ—à´¹àµƒà´¦à´‚.
+### സംഗ്രഹം: ധനകാര്യ തത്വങ്ങൾ (NG-FIN)
+- **NG-FIN-001:** Nexus Gaja പരമ്പരാഗത പരസ്യത്തിൽ നിന്ന് ധനസഹായം നൽകുന്നതല്ല.
+- **NG-FIN-002:** സാമ്പത്തിക പിന്തുണ മോഡറേഷനിലോ ഭരണത്തിലോ സ്വാധീനം ചെലുത്തുന്നില്ല.
+- **NG-FIN-003:** വ്യക്തിഗത ഉപയോക്തൃ ഡാറ്റ ഒരു ചരക്കല്ല.
+- **NG-FIN-004:** അടിസ്ഥാന ഇൻ്റർനാഷണൽ കമ്മ്യൂണിക്കേഷൻ ഫംഗ്‌ഷൻ പണമടയ്ക്കാതെ തന്നെ ആക്‌സസ് ചെയ്യാവുന്നതാണ്.
+- **NG-FIN-005:** പ്രീമിയം ഓഫറുകൾ സേവനങ്ങളുടെ വ്യാപ്തി വിപുലീകരിക്കുന്നു, എന്നാൽ സ്വതന്ത്ര ഉപയോക്താക്കളുടെ അന്തസ്സും അടിസ്ഥാന ആശയവിനിമയ ഓപ്ഷനുകളും താഴ്ത്തരുത്.
+- **NG-FIN-006:** ഒരു പ്രത്യേക ഉദ്ദേശ്യത്തിനായി നീക്കിവച്ചിരിക്കുന്ന ഫണ്ടുകൾ കൈകാര്യം ചെയ്യുന്നു.
+- **NG-FIN-007:** സംഭാവനകളും ധനസഹായവും സുതാര്യമായും മനസ്സിലാക്കാവുന്നതിലും കൈകാര്യം ചെയ്യുന്നു.
+- **NG-FIN-008:** വാണിജ്യ സേവനങ്ങൾ പ്ലാറ്റ്‌ഫോമിൻ്റെ സ്വാതന്ത്ര്യത്തെ ബാധിക്കരുത്.
+- **NG-FIN-009:** Nexus Gaja-യുടെ സാമ്പത്തിക വികസനം ദീർഘകാല സുസ്ഥിരതയാണ് ലക്ഷ്യമിടുന്നത്, പരമാവധി ഉപയോക്തൃ ധനസമ്പാദനമല്ല.
+- **NG-FIN-010:** സാമ്പത്തിക ഘടന ശാശ്വതമായി സാമൂഹിക ലക്ഷ്യത്തെ പ്രാപ്തമാക്കണം - അന്താരാഷ്ട്ര ധാരണ, അന്താരാഷ്ട്ര ആശയവിനിമയം, ജനങ്ങൾ തമ്മിലുള്ള സൗഹൃദം.
 
-## API, à´‡àµ»àµà´±àµ¼à´«àµ‡à´¸àµ, à´•à´®àµà´®àµà´¯àµ‚à´£à´¿à´•àµà´•àµ‡à´·àµ» à´†àµ¼à´•àµà´•à´¿à´Ÿàµ†à´•àµà´šàµ¼ (WP 1.11.3)
+## API, ഇൻ്റർഫേസ്, കമ്മ്യൂണിക്കേഷൻ ആർക്കിടെക്ചർ (WP 1.11.3)
 
-à´¸à´¿à´¸àµà´±àµà´±à´‚ à´¸àµà´¥à´¿à´°à´¤à´¯àµà´‚ à´¸àµà´°à´•àµà´·à´¯àµà´‚ à´¸àµà´•àµ‡à´²à´¬à´¿à´³à´¿à´±àµà´±à´¿à´¯àµà´‚ à´‰à´±à´ªàµà´ªà´¾à´•àµà´•à´¾àµ», Nexus Gaja à´•àµ¼à´¶à´¨à´®à´¾à´¯à´¿ API à´…à´Ÿà´¿à´¸àµà´¥à´¾à´¨à´®à´¾à´•àµà´•à´¿à´¯àµà´³àµà´³à´¤àµà´‚ à´‡à´µàµ»àµà´±àµ-à´¡àµà´°àµˆà´µàµ à´†àµ¼à´•àµà´•à´¿à´Ÿàµ†à´•àµà´šà´±àµà´‚ à´ªà´¿à´¨àµà´¤àµà´Ÿà´°àµà´¨àµà´¨àµ.
+സിസ്റ്റം സ്ഥിരതയും സുരക്ഷയും സ്കേലബിളിറ്റിയും ഉറപ്പാക്കാൻ, Nexus Gaja കർശനമായി API അടിസ്ഥാനമാക്കിയുള്ളതും ഇവൻ്റ്-ഡ്രൈവ് ആർക്കിടെക്ചറും പിന്തുടരുന്നു.
 
-### à´…à´Ÿà´¿à´¸àµà´¥à´¾à´¨ à´¤à´¤àµà´µà´™àµà´™àµ¾
-- **à´¡à´¯à´±à´•àµà´Ÿàµ à´¡à´¾à´±àµà´±à´¾à´¬àµ‡à´¸àµ à´†à´•àµâ€Œà´¸à´¸àµ à´‡à´²àµà´²:** à´˜à´Ÿà´•à´™àµà´™àµ¾ à´¨à´¿àµ¼à´µàµà´µà´šà´¿à´šàµà´š à´‡àµ»àµà´±àµ¼à´«àµ‡à´¸àµà´•àµ¾ (API-à´•àµ¾ à´…à´²àµà´²àµ†à´™àµà´•à´¿àµ½ à´‡à´µàµ»àµà´±àµà´•àµ¾) à´µà´´à´¿ à´®à´¾à´¤àµà´°à´®à´¾à´¯à´¿ à´†à´¶à´¯à´µà´¿à´¨à´¿à´®à´¯à´‚ à´¨à´Ÿà´¤àµà´¤àµà´¨àµà´¨àµ, à´’à´°à´¿à´•àµà´•à´²àµà´‚ à´®à´±àµà´±àµ à´¸àµ‡à´µà´¨à´™àµà´™à´³à´¿àµ½ à´¨à´¿à´¨àµà´¨àµà´³àµà´³ à´¨àµ‡à´°à´¿à´Ÿàµà´Ÿàµà´³àµà´³ à´¡à´¾à´±àµà´±à´¾à´¬àµ‡à´¸àµ à´…à´¨àµà´µàµ‡à´·à´£à´™àµà´™à´³à´¿à´²àµ‚à´Ÿàµ†à´¯à´²àµà´².
-- **API à´—àµ‡à´±àµà´±àµâ€Œà´µàµ‡:** à´Žà´²àµà´²à´¾ à´¬à´¾à´¹àµà´¯ à´•àµà´²à´¯àµ»àµà´±àµ à´…à´­àµà´¯àµ¼à´¤àµà´¥à´¨à´•à´³àµà´‚ à´ªàµà´°à´¾à´®à´¾à´£àµ€à´•à´°à´£à´‚, à´±àµ‚à´Ÿàµà´Ÿà´¿à´‚à´—àµ, à´¨à´¿à´°à´•àµà´•àµ à´ªà´°à´¿à´®à´¿à´¤à´ªàµà´ªàµ†à´Ÿàµà´¤àµà´¤àµ½ à´Žà´¨àµà´¨à´¿à´µ à´•àµˆà´•à´¾à´°àµà´¯à´‚ à´šàµ†à´¯àµà´¯àµà´¨àµà´¨ à´’à´°àµ API à´—àµ‡à´±àµà´±àµâ€Œà´µàµ‡à´¯à´¿à´²àµ‚à´Ÿàµ† à´•à´Ÿà´¨àµà´¨àµà´ªàµ‹à´•àµà´¨àµà´¨àµ.
-- **à´¦à´¾à´¤à´¾à´µà´¿àµ»àµà´±àµ† à´¸à´‚à´—àµà´°à´¹à´‚:** à´¬à´¾à´¹àµà´¯ à´¸àµ‡à´µà´¨à´™àµà´™àµ¾ (AI à´®àµ‹à´¡à´²àµà´•àµ¾, à´ªàµ‡à´¯àµâ€Œà´®àµ†àµ»àµà´±àµ à´¦à´¾à´¤à´¾à´•àµà´•àµ¾, à´µà´¿à´µàµ¼à´¤àµà´¤à´¨ à´Žà´žàµà´šà´¿à´¨àµà´•àµ¾) à´…à´¬àµâ€Œà´¸àµâ€Œà´Ÿàµà´°à´¾à´•àµà´·àµ» à´²àµ†à´¯à´±àµà´•à´³à´¿à´²àµ‚à´Ÿàµ† à´¸à´‚à´¯àµ‹à´œà´¿à´ªàµà´ªà´¿à´šàµà´šà´¿à´°à´¿à´•àµà´•àµà´¨àµà´¨àµ. à´‡à´¤àµ à´¹à´¾àµ¼à´¡àµ-à´µà´¯àµ¼à´¡àµ à´¡à´¿à´ªàµ»à´¡àµ»à´¸à´¿à´•à´³àµ† à´¤à´Ÿà´¯àµà´•à´¯àµà´‚ à´«àµà´²àµ†à´•àµà´¸à´¿à´¬à´¿àµ¾ à´ªàµà´°àµŠà´µàµˆà´¡àµ¼ à´¸àµà´µà´¿à´šàµà´šà´¿à´‚à´—àµ à´…à´¨àµà´µà´¦à´¿à´•àµà´•àµà´•à´¯àµà´‚ à´šàµ†à´¯àµà´¯àµà´¨àµà´¨àµ.
+### അടിസ്ഥാന തത്വങ്ങൾ
+- **ഡയറക്ട് ഡാറ്റാബേസ് ആക്‌സസ് ഇല്ല:** ഘടകങ്ങൾ നിർവ്വചിച്ച ഇൻ്റർഫേസുകൾ (API-കൾ അല്ലെങ്കിൽ ഇവൻ്റുകൾ) വഴി മാത്രമായി ആശയവിനിമയം നടത്തുന്നു, ഒരിക്കലും മറ്റ് സേവനങ്ങളിൽ നിന്നുള്ള നേരിട്ടുള്ള ഡാറ്റാബേസ് അന്വേഷണങ്ങളിലൂടെയല്ല.
+- **API ഗേറ്റ്‌വേ:** എല്ലാ ബാഹ്യ ക്ലയൻ്റ് അഭ്യർത്ഥനകളും പ്രാമാണീകരണം, റൂട്ടിംഗ്, നിരക്ക് പരിമിതപ്പെടുത്തൽ എന്നിവ കൈകാര്യം ചെയ്യുന്ന ഒരു API ഗേറ്റ്‌വേയിലൂടെ കടന്നുപോകുന്നു.
+- **ദാതാവിൻ്റെ സംഗ്രഹം:** ബാഹ്യ സേവനങ്ങൾ (AI മോഡലുകൾ, പേയ്‌മെൻ്റ് ദാതാക്കൾ, വിവർത്തന എഞ്ചിനുകൾ) അബ്‌സ്‌ട്രാക്ഷൻ ലെയറുകളിലൂടെ സംയോജിപ്പിച്ചിരിക്കുന്നു. ഇത് ഹാർഡ്-വയർഡ് ഡിപൻഡൻസികളെ തടയുകയും ഫ്ലെക്സിബിൾ പ്രൊവൈഡർ സ്വിച്ചിംഗ് അനുവദിക്കുകയും ചെയ്യുന്നു.
 
-### à´†à´¶à´¯à´µà´¿à´¨à´¿à´®à´¯ à´ªà´¾à´±àµà´±àµ‡à´£àµà´•àµ¾
-- **à´¸à´¿àµ»à´•àµà´°à´£à´¸àµ à´Žà´ªà´¿à´à´•àµ¾ (REST/HTTPS):** à´²àµ‹à´—à´¿àµ», à´ªàµà´°àµŠà´«àµˆàµ½ à´•àµà´°à´®àµ€à´•à´°à´£à´™àµà´™àµ¾ à´…à´²àµà´²àµ†à´™àµà´•à´¿àµ½ à´¨àµ‡à´°à´¿à´Ÿàµà´Ÿàµà´³àµà´³ à´µà´¿à´µàµ¼à´¤àµà´¤à´¨à´™àµà´™àµ¾ à´ªàµ‹à´²àµà´³àµà´³ à´‰à´Ÿà´¨à´Ÿà´¿ à´…à´­àµà´¯àµ¼à´¤àµà´¥à´¨à´•àµ¾à´•àµà´•à´¾à´¯à´¿ à´‰à´ªà´¯àµ‹à´—à´¿à´•àµà´•àµà´¨àµà´¨àµ.
-- **à´Žà´¸à´¿àµ»à´•àµà´°à´£à´¸àµ à´‡à´µàµ»àµà´±àµà´•àµ¾ (à´‡à´µàµ»àµà´±àµ à´¬à´¸àµ):** à´µà´¿à´˜à´Ÿà´¿à´ªàµà´ªà´¿à´šàµà´š à´ªàµà´°à´•àµà´°à´¿à´¯à´•àµ¾à´•àµà´•à´¾à´¯àµà´³àµà´³ Nexus Gaja-à´¯àµà´Ÿàµ† à´•àµ‡à´¨àµà´¦àµà´° à´¨à´¾à´¡àµ€à´µàµà´¯àµ‚à´¹à´‚ (à´‰à´¦à´¾. `Message.Created` à´®àµ‹à´¡à´±àµ‡à´·à´¨àµà´‚ à´µà´¿à´µàµ¼à´¤àµà´¤à´¨à´µàµà´‚ à´…à´±à´¿à´¯à´¿à´ªàµà´ªàµà´‚ à´…à´¸à´®à´¨àµà´µà´¿à´¤à´®à´¾à´¯à´¿ à´Ÿàµà´°à´¿à´—àµ¼ à´šàµ†à´¯àµà´¯àµà´¨àµà´¨àµ).
-- ** à´¤à´¤àµà´¸à´®à´¯à´‚ (à´µàµ†à´¬àµâ€Œà´¸àµ‹à´•àµà´•à´±àµà´±àµ):** à´¤à´¤àµà´¸à´®à´¯ à´šà´¾à´±àµà´±à´¿à´¨àµà´‚ à´Ÿàµˆà´ªàµà´ªà´¿à´‚à´—àµ à´¸àµà´±àµà´±à´¾à´±àµà´±à´¸à´¿à´¨àµà´‚ à´µàµ‡à´£àµà´Ÿà´¿ à´¸à´®àµ¼à´ªàµà´ªà´¿à´¤ à´šà´¾à´¨à´²àµà´•àµ¾.
+### ആശയവിനിമയ പാറ്റേണുകൾ
+- **സിൻക്രണസ് എപിഐകൾ (REST/HTTPS):** ലോഗിൻ, പ്രൊഫൈൽ ക്രമീകരണങ്ങൾ അല്ലെങ്കിൽ നേരിട്ടുള്ള വിവർത്തനങ്ങൾ പോലുള്ള ഉടനടി അഭ്യർത്ഥനകൾക്കായി ഉപയോഗിക്കുന്നു.
+- **എസിൻക്രണസ് ഇവൻ്റുകൾ (ഇവൻ്റ് ബസ്):** വിഘടിപ്പിച്ച പ്രക്രിയകൾക്കായുള്ള Nexus Gaja-യുടെ കേന്ദ്ര നാഡീവ്യൂഹം (ഉദാ. `Message.Created` മോഡറേഷനും വിവർത്തനവും അറിയിപ്പും അസമന്വിതമായി ട്രിഗർ ചെയ്യുന്നു).
+- ** തത്സമയം (വെബ്‌സോക്കറ്റ്):** തത്സമയ ചാറ്റിനും ടൈപ്പിംഗ് സ്റ്റാറ്റസിനും വേണ്ടി സമർപ്പിത ചാനലുകൾ.
 
-### à´¸àµà´°à´•àµà´·à´¯àµà´‚ à´µà´¿à´¶àµà´µà´¾à´¸àµà´¯à´¤à´¯àµà´‚
-- **à´¸àµ€à´±àµ‹ à´Ÿàµà´°à´¸àµà´±àµà´±àµ à´®àµ‹à´¡àµ½:** à´†à´¨àµà´¤à´°à´¿à´• à´¨àµ†à´±àµà´±àµâ€Œà´µàµ¼à´•àµà´•àµ à´Ÿàµà´°à´¾à´«à´¿à´•àµà´•àµ à´¸àµà´µà´¯à´®àµ‡à´µ à´µà´¿à´¶àµà´µà´¸à´¨àµ€à´¯à´®à´²àµà´²; à´¸àµ†àµ»à´¸à´¿à´±àµà´±àµ€à´µàµ à´¸àµ‡à´µà´¨-à´¸àµ‡à´µà´¨ à´†à´¶à´¯à´µà´¿à´¨à´¿à´®à´¯à´¤àµà´¤à´¿à´¨àµ à´ªàµà´°à´¾à´®à´¾à´£àµ€à´•à´°à´£à´‚ à´†à´µà´¶àµà´¯à´®à´¾à´£àµ.
-- **Idempotence & Outbox à´ªà´¾à´±àµà´±àµ‡àµº:** à´¨à´¿àµ¼à´£àµà´£à´¾à´¯à´• à´ªàµà´°à´µàµ¼à´¤àµà´¤à´¨à´™àµà´™àµ¾ (à´¸à´‚à´­à´¾à´µà´¨à´•àµ¾ à´…à´²àµà´²àµ†à´™àµà´•à´¿àµ½ à´¸à´¨àµà´¦àµ‡à´¶à´™àµà´™àµ¾ à´ªàµ‹à´²àµà´³àµà´³à´µ) à´’à´¨àµà´¨à´¿à´²à´§à´¿à´•à´‚ à´ªàµà´°àµ‹à´¸à´¸àµà´¸à´¿à´‚à´—àµ à´¤à´Ÿà´¯àµà´¨àµà´¨à´¤à´¿à´¨àµà´‚ à´¡à´¾à´±àµà´±à´¾à´¬àµ‡à´¸àµ à´‡à´Ÿà´ªà´¾à´Ÿàµà´•à´³à´¿àµ½ à´ªàµ‹à´²àµà´‚ à´‡à´µàµ»àµà´±àµà´•àµ¾ à´¨à´·àµâ€Œà´Ÿà´ªàµà´ªàµ†à´Ÿàµà´¨àµà´¨à´¿à´²àµà´²àµ†à´¨àµà´¨àµ à´‰à´±à´ªàµà´ªà´¾à´•àµà´•à´¾àµ» à´”à´Ÿàµà´Ÿàµâ€Œà´¬àµ‹à´•àµâ€Œà´¸àµ à´ªà´¾à´±àµà´±àµ‡àµº à´‰à´ªà´¯àµ‹à´—à´¿à´•àµà´•àµà´¨àµà´¨à´¤à´¿à´¨àµà´‚ à´à´¡à´®àµà´ªà´±àµà´±àµ»àµà´±àµ à´†à´¯à´¿ à´°àµ‚à´ªà´•àµ½à´ªàµà´ªà´¨ à´šàµ†à´¯àµâ€Œà´¤à´¿à´°à´¿à´•àµà´•àµà´¨àµà´¨àµ.
+### സുരക്ഷയും വിശ്വാസ്യതയും
+- **സീറോ ട്രസ്റ്റ് മോഡൽ:** ആന്തരിക നെറ്റ്‌വർക്ക് ട്രാഫിക്ക് സ്വയമേവ വിശ്വസനീയമല്ല; സെൻസിറ്റീവ് സേവന-സേവന ആശയവിനിമയത്തിന് പ്രാമാണീകരണം ആവശ്യമാണ്.
+- **Idempotence & Outbox പാറ്റേൺ:** നിർണ്ണായക പ്രവർത്തനങ്ങൾ (സംഭാവനകൾ അല്ലെങ്കിൽ സന്ദേശങ്ങൾ പോലുള്ളവ) ഒന്നിലധികം പ്രോസസ്സിംഗ് തടയുന്നതിനും ഡാറ്റാബേസ് ഇടപാടുകളിൽ പോലും ഇവൻ്റുകൾ നഷ്‌ടപ്പെടുന്നില്ലെന്ന് ഉറപ്പാക്കാൻ ഔട്ട്‌ബോക്‌സ് പാറ്റേൺ ഉപയോഗിക്കുന്നതിനും ഐഡമ്പറ്റൻ്റ് ആയി രൂപകൽപ്പന ചെയ്‌തിരിക്കുന്നു.
 
-## MVP à´¡àµŠà´®àµ†à´¯àµàµ» à´®àµ‹à´¡àµ½ (WP 1.12)
+## MVP ഡൊമെയ്ൻ മോഡൽ (WP 1.12)
 
 ![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
 
-à´µàµà´¯à´•àµà´¤à´®à´¾à´¯ à´¡àµŠà´®àµ†à´¯àµàµ» à´…à´¤à´¿à´°àµà´•à´³àµà´³àµà´³ à´’à´°àµ à´®àµ‹à´¡àµà´²à´¾àµ¼ à´®àµ‹à´£àµ‹à´²à´¿à´¤àµà´¤à´¾à´¯à´¿ à´°àµ‚à´ªà´•àµ½à´ªàµà´ªà´¨ à´šàµ†à´¯àµâ€Œà´¤à´¿à´°à´¿à´•àµà´•àµà´¨àµà´¨ à´•àµ¼à´¶à´¨à´®à´¾à´¯ à´¡àµŠà´®àµ†à´¯àµàµ»-à´¡àµà´°à´¿à´µàµº à´Žà´‚à´µà´¿à´ªà´¿ à´†àµ¼à´•àµà´•à´¿à´Ÿàµ†à´•àµâ€Œà´šàµ¼ (ADR-025) à´¨àµ†à´•àµâ€Œà´¸à´¸àµ à´—à´œ à´‰à´ªà´¯àµ‹à´—à´¿à´•àµà´•àµà´¨àµà´¨àµ. à´¨à´¿àµ¼à´¦àµà´¦à´¿à´·àµà´Ÿ à´¡àµŠà´®àµ†à´¯àµâ€Œà´¨àµà´•àµ¾ à´ªà´¿à´¨àµà´¨àµ€à´Ÿàµ à´”à´Ÿàµà´Ÿàµâ€Œà´¸àµ‹à´´àµâ€Œà´¸àµ à´šàµ†à´¯àµà´¯àµà´¨àµà´¨à´¤à´¿à´¨àµà´³àµà´³ à´µà´´à´•àµà´•à´‚ à´¨à´¿à´²à´¨à´¿àµ¼à´¤àµà´¤à´¿à´•àµà´•àµŠà´£àµà´Ÿàµà´¤à´¨àµà´¨àµ† à´ˆ à´˜à´Ÿà´¨ à´†à´¦àµà´¯à´•à´¾à´² à´®àµˆà´•àµà´°àµ‹à´¸àµ¼à´µàµ€à´¸àµ à´¸à´™àµà´•àµ€àµ¼à´£àµà´£à´¤à´¯àµ† à´¤à´Ÿà´¯àµà´¨àµà´¨àµ.
+വ്യക്തമായ ഡൊമെയ്ൻ അതിരുകളുള്ള ഒരു മോഡുലാർ മോണോലിത്തായി രൂപകൽപ്പന ചെയ്‌തിരിക്കുന്ന കർശനമായ ഡൊമെയ്ൻ-ഡ്രിവൺ എംവിപി ആർക്കിടെക്‌ചർ (ADR-025) നെക്‌സസ് ഗജ ഉപയോഗിക്കുന്നു. നിർദ്ദിഷ്ട ഡൊമെയ്‌നുകൾ പിന്നീട് ഔട്ട്‌സോഴ്‌സ് ചെയ്യുന്നതിനുള്ള വഴക്കം നിലനിർത്തിക്കൊണ്ടുതന്നെ ഈ ഘടന ആദ്യകാല മൈക്രോസർവീസ് സങ്കീർണ്ണതയെ തടയുന്നു.
 
-### à´¸à´¾à´™àµà´•àµ‡à´¤à´¿à´• à´•àµ‹àµ¼ à´Žàµ»àµà´±à´¿à´±àµà´±à´¿à´•àµ¾
-à´¡à´¾à´±àµà´±à´¯àµà´Ÿàµ† à´¸à´®à´—àµà´°à´¤ à´‰à´±à´ªàµà´ªà´¾à´•àµà´•à´¾à´¨àµà´‚ "à´‰à´ªà´¯àµ‹à´•àµà´¤àµƒà´¨à´¾à´®à´‚ = à´®à´¨àµà´·àµà´¯àµ»" à´ªàµ‹à´²àµà´³àµà´³ à´ªà´¿à´¶à´•àµà´•àµ¾ à´’à´´à´¿à´µà´¾à´•àµà´•à´¾à´¨àµà´‚ à´†àµ¼à´•àµà´•à´¿à´Ÿàµ†à´•àµà´šàµ¼ à´†à´¶à´¯à´™àµà´™à´³àµ† à´•àµ¼à´¶à´¨à´®à´¾à´¯à´¿ à´µàµ‡àµ¼à´¤à´¿à´°à´¿à´•àµà´•àµà´¨àµà´¨àµ:
-- **à´à´¡àµ»àµà´±à´¿à´±àµà´±à´¿ & à´…à´•àµà´•àµ—à´£àµà´Ÿàµà´•àµ¾:** `à´µàµà´¯à´•àµà´¤à´¿` â‰  `à´‰à´ªà´¯àµ‹à´•àµà´¤àµƒ à´…à´•àµà´•àµ—à´£àµà´Ÿàµ` â‰  `à´à´¡àµ»àµà´±à´¿à´±àµà´±à´¿ à´¸àµà´¥à´¿à´°àµ€à´•à´°à´£à´‚`. à´ªà´°à´¿à´¶àµ‹à´§à´¿à´šàµà´šàµà´±à´ªàµà´ªà´¿à´šàµà´š à´µàµà´¯à´•àµà´¤à´¿ à´’à´°àµ à´…à´•àµà´•àµ—à´£àµà´Ÿà´¿à´²àµ‚à´Ÿàµ†à´¯à´¾à´£àµ à´ªà´™àµà´•àµ†à´Ÿàµà´•àµà´•àµà´¨àµà´¨à´¤àµ, à´Žà´¨àµà´¨à´¾àµ½ à´Žàµ»àµà´±à´¿à´±àµà´±à´¿à´•àµ¾ à´ªàµà´°à´¤àµà´¯àµ‡à´•à´®à´¾à´¯à´¿ à´¤àµà´Ÿà´°àµà´‚.
-- **à´†à´¶à´¯à´µà´¿à´¨à´¿à´®à´¯à´‚:** `à´¸à´¨àµà´¦àµ‡à´¶à´‚` â‰  `à´µà´¿à´µàµ¼à´¤àµà´¤à´¨à´‚`. à´¯à´¥à´¾àµ¼à´¤àµà´¥ à´¸à´¨àµà´¦àµ‡à´¶à´‚ à´®à´¾à´±àµà´±à´®à´¿à´²àµà´²à´¾à´¤àµà´¤à´¤à´¾à´£àµ; à´µà´¿à´µàµ¼à´¤àµà´¤à´¨à´™àµà´™àµ¾ à´²à´¿à´™àµà´•àµà´¡àµ à´Žàµ»àµà´±à´¿à´±àµà´±à´¿à´•à´³à´¾à´£àµ.
-- ** à´®àµ‹à´¡à´±àµ‡à´·àµ»:** `à´±à´¿à´ªàµà´ªàµ‹àµ¼à´Ÿàµà´Ÿàµ` â‰  `à´®àµ‹à´¡à´±àµ‡à´·àµ» à´¡à´¿à´¸à´¿à´·àµ»`. à´’à´°àµ à´¸à´¨àµà´¦àµ‡à´¶à´‚ à´’à´°àµ à´¸àµ‚à´šà´¨ à´®à´¾à´¤àµà´°à´®à´¾à´£àµ; à´’à´°àµ à´®àµ‹à´¡à´±àµ‡à´±àµà´±àµ¼ à´…à´¨àµà´µàµ‡à´·à´£à´‚ à´¨à´Ÿà´¤àµà´¤àµà´¨àµà´¨àµ.
-- **à´§à´¨à´•à´¾à´°àµà´¯à´‚:** `à´¸à´‚à´­à´¾à´µà´¨` â‰  `à´«à´£àµà´Ÿàµ à´¬à´¾à´²àµ»à´¸àµ`. à´ªàµ‡à´¯àµâ€Œà´®àµ†àµ»àµà´±àµà´•àµ¾ à´’à´°àµ à´²àµ†à´¡àµà´œàµ¼ (à´•àµà´¯à´¾à´·àµ à´¬àµà´•àµà´•àµ) à´µà´´à´¿ à´’à´°àµ à´«à´£àµà´Ÿà´¿à´²àµ‡à´•àµà´•àµ à´®à´¾à´±àµà´±à´®à´¿à´²àµà´²à´¾à´¤àµ† à´ªàµ‹à´¸àµà´±àµà´±àµ à´šàµ†à´¯àµà´¯àµà´¨àµà´¨àµ.
+### സാങ്കേതിക കോർ എൻ്റിറ്റികൾ
+ഡാറ്റയുടെ സമഗ്രത ഉറപ്പാക്കാനും "ഉപയോക്തൃനാമം = മനുഷ്യൻ" പോലുള്ള പിശകുകൾ ഒഴിവാക്കാനും ആർക്കിടെക്ചർ ആശയങ്ങളെ കർശനമായി വേർതിരിക്കുന്നു:
+- **ഐഡൻ്റിറ്റി & അക്കൗണ്ടുകൾ:** `വ്യക്തി` ≠ `ഉപയോക്തൃ അക്കൗണ്ട്` ≠ `ഐഡൻ്റിറ്റി സ്ഥിരീകരണം`. പരിശോധിച്ചുറപ്പിച്ച വ്യക്തി ഒരു അക്കൗണ്ടിലൂടെയാണ് പങ്കെടുക്കുന്നത്, എന്നാൽ എൻ്റിറ്റികൾ പ്രത്യേകമായി തുടരും.
+- **ആശയവിനിമയം:** `സന്ദേശം` ≠ `വിവർത്തനം`. യഥാർത്ഥ സന്ദേശം മാറ്റമില്ലാത്തതാണ്; വിവർത്തനങ്ങൾ ലിങ്ക്ഡ് എൻ്റിറ്റികളാണ്.
+- ** മോഡറേഷൻ:** `റിപ്പോർട്ട്` ≠ `മോഡറേഷൻ ഡിസിഷൻ`. ഒരു സന്ദേശം ഒരു സൂചന മാത്രമാണ്; ഒരു മോഡറേറ്റർ അന്വേഷണം നടത്തുന്നു.
+- **ധനകാര്യം:** `സംഭാവന` ≠ `ഫണ്ട് ബാലൻസ്`. പേയ്‌മെൻ്റുകൾ ഒരു ലെഡ്ജർ (ക്യാഷ് ബുക്ക്) വഴി ഒരു ഫണ്ടിലേക്ക് മാറ്റമില്ലാതെ പോസ്റ്റ് ചെയ്യുന്നു.
 
-### à´¬à´¨àµà´§à´¿à´ªàµà´ªà´¿à´šàµà´š à´µà´¿à´·à´¯ à´¡àµŠà´®àµ†à´¯àµâ€Œà´¨àµà´•àµ¾
-à´¸à´¿à´¸àµà´±àµà´±à´¤àµà´¤àµ† à´²àµ‹à´œà´¿à´•àµà´•àµ½ à´¡àµŠà´®àµ†à´¯àµâ€Œà´¨àµà´•à´³à´¾à´¯à´¿ à´¤à´¿à´°à´¿à´šàµà´šà´¿à´°à´¿à´•àµà´•àµà´¨àµà´¨àµ (à´¬àµ—à´£àµà´Ÿà´¡àµ à´¸à´¨àµà´¦àµ¼à´­à´™àµà´™àµ¾): à´à´¡àµ»àµà´±à´¿à´±àµà´±à´¿, à´…à´•àµà´•àµ—à´£àµà´Ÿàµ, à´“àµ¼à´—à´¨àµˆà´¸àµ‡à´·àµ», à´•à´®àµà´®àµà´¯àµ‚à´£à´¿à´•àµà´•àµ‡à´·àµ», à´•à´®àµà´®àµà´¯àµ‚à´£à´¿à´±àµà´±à´¿, à´­à´¾à´·, à´®àµ‹à´¡à´±àµ‡à´·àµ», à´¨àµ‹à´Ÿàµà´Ÿà´¿à´«à´¿à´•àµà´•àµ‡à´·àµ», à´«à´¿à´¨à´¾àµ»à´¸àµ, à´—à´µàµ‡à´£àµ»à´¸àµ. à´¯à´¥à´¾àµ¼à´¤àµà´¥ à´…à´­à´¿à´¨àµ‡à´¤à´¾à´•àµà´•àµ¾ (à´‰à´ªà´¯àµ‹à´•àµà´¤à´¾à´•àµà´•àµ¾, à´¸àµà´•àµ‚à´³àµà´•àµ¾, à´Žàµ»à´œà´¿à´’à´•àµ¾) à´®àµà´¤àµ½ à´…à´µà´°àµà´Ÿàµ† à´¡à´¿à´œà´¿à´±àµà´±àµ½ à´‡à´Ÿà´ªàµ†à´Ÿà´²àµà´•àµ¾ à´µà´°àµ†à´¯àµà´³àµà´³ à´®àµà´´àµà´µàµ» à´¶àµƒà´‚à´–à´²à´¯àµ†à´¯àµà´‚ à´…à´µàµ¼ à´ªàµà´°à´¤à´¿à´¨à´¿à´§àµ€à´•à´°à´¿à´•àµà´•àµà´¨àµà´¨àµ.
+### ബന്ധിപ്പിച്ച വിഷയ ഡൊമെയ്‌നുകൾ
+സിസ്റ്റത്തെ ലോജിക്കൽ ഡൊമെയ്‌നുകളായി തിരിച്ചിരിക്കുന്നു (ബൗണ്ടഡ് സന്ദർഭങ്ങൾ): ഐഡൻ്റിറ്റി, അക്കൗണ്ട്, ഓർഗനൈസേഷൻ, കമ്മ്യൂണിക്കേഷൻ, കമ്മ്യൂണിറ്റി, ഭാഷ, മോഡറേഷൻ, നോട്ടിഫിക്കേഷൻ, ഫിനാൻസ്, ഗവേണൻസ്. യഥാർത്ഥ അഭിനേതാക്കൾ (ഉപയോക്താക്കൾ, സ്കൂളുകൾ, എൻജിഒകൾ) മുതൽ അവരുടെ ഡിജിറ്റൽ ഇടപെടലുകൾ വരെയുള്ള മുഴുവൻ ശൃംഖലയെയും അവർ പ്രതിനിധീകരിക്കുന്നു.
 
-## à´ªà´¦àµà´§à´¤à´¿ à´¨à´¿à´²
-à´ªàµà´°àµ‹à´œà´•àµà´±àµà´±àµ à´¸à´œàµ€à´µà´®à´¾à´¯ à´†àµ¼à´•àµà´•à´¿à´Ÿàµ†à´•àµà´šàµ¼ à´†à´¸àµ‚à´¤àµà´°à´£ à´˜à´Ÿàµà´Ÿà´¤àµà´¤à´¿à´²à´¾à´£àµ.
-à´¨à´¿à´²à´µà´¿à´²àµà´³àµà´³ à´µà´¾à´¸àµà´¤àµà´µà´¿à´¦àµà´¯à´¾ à´¤àµ€à´°àµà´®à´¾à´¨à´™àµà´™àµ¾ `/à´¡àµ‹à´•àµà´¸àµ` à´«àµ‹àµ¾à´¡à´±à´¿àµ½ à´°àµ‡à´–à´ªàµà´ªàµ†à´Ÿàµà´¤àµà´¤àµà´¨àµà´¨àµ.
+## പദ്ധതി നില
+പ്രോജക്റ്റ് സജീവമായ ആർക്കിടെക്ചർ ആസൂത്രണ ഘട്ടത്തിലാണ്.
+നിലവിലുള്ള വാസ്തുവിദ്യാ തീരുമാനങ്ങൾ `/ഡോക്സ്` ഫോൾഡറിൽ രേഖപ്പെടുത്തുന്നു.
 
 ---
 
-## à´²àµˆà´¸àµ»à´¸àµà´‚ à´¬àµ—à´¦àµà´§à´¿à´• à´¸àµà´µà´¤àµà´¤àµà´‚
+## ലൈസൻസും ബൗദ്ധിക സ്വത്തും
 
-> **Â© 2024-2026 SonnerStudio - SonnerStudio-à´¯àµà´Ÿàµ† à´¸àµà´¥à´¾à´ªà´•àµ», à´œà´¾àµ» à´«àµà´°à´¿à´¸àµà´•àµ†, à´‰à´Ÿà´®, à´¡à´¯à´±à´•àµà´Ÿàµ¼, à´šàµ€à´«àµ à´¡à´¿à´¸àµˆà´¨àµ¼ â€” à´Žà´²àµà´²à´¾ à´…à´µà´•à´¾à´¶à´™àµà´™à´³àµà´‚ à´¨à´¿à´•àµà´·à´¿à´ªàµà´¤à´‚.**
+> **© 2024-2026 SonnerStudio - SonnerStudio-യുടെ സ്ഥാപകൻ, ജാൻ ഫ്രിസ്കെ, ഉടമ, ഡയറക്ടർ, ചീഫ് ഡിസൈനർ — എല്ലാ അവകാശങ്ങളും നിക്ഷിപ്തം.**
 
-**Nexus Gaja** à´Žà´¨àµà´¨à´¤àµ **SonnerStudio**-à´¨àµ à´•àµ€à´´à´¿àµ½ à´ªàµà´°à´µàµ¼à´¤àµà´¤à´¿à´•àµà´•àµà´¨àµà´¨ **Jan Friske**-àµ»àµà´±àµ† à´Žà´•àµâ€Œà´¸àµâ€Œà´•àµà´²àµ‚à´¸àµ€à´µàµ à´¬àµ—à´¦àµà´§à´¿à´• à´¸àµà´µà´¤àµà´¤à´¾à´£àµ.
+**Nexus Gaja** എന്നത് **SonnerStudio**-ന് കീഴിൽ പ്രവർത്തിക്കുന്ന **Jan Friske**-ൻ്റെ എക്‌സ്‌ക്ലൂസീവ് ബൗദ്ധിക സ്വത്താണ്.
 
-à´Žà´²àµà´²à´¾ à´†à´¶à´¯à´™àµà´™à´³àµà´‚ à´†àµ¼à´•àµà´•à´¿à´Ÿàµ†à´•àµà´šà´±àµà´•à´³àµà´‚ à´¡àµŠà´®àµ†à´¯àµàµ» à´®àµ‹à´¡à´²àµà´•à´³àµà´‚ à´¬àµà´°à´¾àµ»à´¡àµ à´à´¡àµ»àµà´±à´¿à´±àµà´±à´¿à´¯àµà´‚ à´…à´¨àµà´¬à´¨àµà´§ à´¡àµ‹à´•àµà´¯àµà´®àµ†àµ»àµà´±àµ‡à´·à´¨àµà´‚ à´‰àµ¾à´ªàµà´ªàµ†à´Ÿàµ† - Nexus Gaja-à´¯àµà´Ÿàµ† à´à´• à´¸àµà´°à´·àµà´Ÿà´¾à´µàµà´‚ à´†àµ¼à´•àµà´•à´¿à´Ÿàµ†à´•àµà´±àµà´±àµà´‚ à´‰à´Ÿà´®à´¯àµà´®à´¾à´£àµ à´œà´¾àµ» à´«àµà´°à´¿à´¸àµà´•àµ†.
+എല്ലാ ആശയങ്ങളും ആർക്കിടെക്ചറുകളും ഡൊമെയ്ൻ മോഡലുകളും ബ്രാൻഡ് ഐഡൻ്റിറ്റിയും അനുബന്ധ ഡോക്യുമെൻ്റേഷനും ഉൾപ്പെടെ - Nexus Gaja-യുടെ ഏക സ്രഷ്ടാവും ആർക്കിടെക്റ്റും ഉടമയുമാണ് ജാൻ ഫ്രിസ്കെ.
 
-**à´à´¤àµ†à´™àµà´•à´¿à´²àµà´‚ à´®àµ‚à´¨àµà´¨à´¾à´‚ à´•à´•àµà´·à´¿à´•àµà´•àµ à´…à´µà´°àµà´Ÿàµ† à´µà´²àµà´ªàµà´ªà´‚, à´µà´¿à´ªà´£à´¿ à´¸àµà´¥à´¾à´¨à´‚ à´…à´²àµà´²àµ†à´™àµà´•à´¿àµ½ à´¸à´¾à´™àµà´•àµ‡à´¤à´¿à´• à´µàµà´¯à´µà´¸à´¾à´¯à´¤àµà´¤à´¿à´²àµ† à´¸àµà´µà´¾à´§àµ€à´¨à´‚ à´Žà´¨àµà´¨à´¿à´µ à´ªà´°à´¿à´—à´£à´¿à´•àµà´•à´¾à´¤àµ† à´…à´µà´•à´¾à´¶à´™àµà´™à´³àµ‹ à´²àµˆà´¸àµ»à´¸àµà´•à´³àµ‹ à´‰à´Ÿà´®à´¸àµà´¥à´¾à´µà´•à´¾à´¶à´™àµà´™à´³àµ‹ à´…à´¨àµà´µà´¦à´¿à´•àµà´•à´¿à´²àµà´².
+**ഏതെങ്കിലും മൂന്നാം കക്ഷിക്ക് അവരുടെ വലുപ്പം, വിപണി സ്ഥാനം അല്ലെങ്കിൽ സാങ്കേതിക വ്യവസായത്തിലെ സ്വാധീനം എന്നിവ പരിഗണിക്കാതെ അവകാശങ്ങളോ ലൈസൻസുകളോ ഉടമസ്ഥാവകാശങ്ങളോ അനുവദിക്കില്ല.
 
-### à´µàµà´¯à´•àµà´¤à´®à´¾à´¯ à´°àµ‡à´–à´¾à´®àµ‚à´²à´®àµà´³àµà´³ à´¸à´®àµà´®à´¤à´®à´¿à´²àµà´²à´¾à´¤àµ† à´…à´¨àµà´µà´¦à´¨àµ€à´¯à´®à´²àµà´²à´¾à´¤àµà´¤à´¤àµ:
-- âŒ à´ˆ à´¸àµ‹à´«àµà´±àµà´±àµâ€Œà´µàµ†à´¯àµ¼ à´…à´²àµà´²àµ†à´™àµà´•à´¿àµ½ à´…à´¤à´¿àµ»àµà´±àµ† à´¡àµ‹à´•àµà´¯àµà´®àµ†àµ»àµà´±àµ‡à´·àµ» à´ªà´•àµ¼à´¤àµà´¤àµà´•, à´ªàµà´¨àµ¼à´¨à´¿àµ¼à´®àµà´®à´¿à´•àµà´•àµà´• à´…à´²àµà´²àµ†à´™àµà´•à´¿àµ½ à´µà´¿à´¤à´°à´£à´‚ à´šàµ†à´¯àµà´¯àµà´•
-- âŒ à´ªà´°à´¿à´·àµà´•àµà´•à´°à´¿à´•àµà´•àµà´•, à´ªàµŠà´°àµà´¤àµà´¤à´ªàµà´ªàµ†à´Ÿàµà´¤àµà´¤àµà´• à´…à´²àµà´²àµ†à´™àµà´•à´¿àµ½ à´¡àµ†à´±à´¿à´µàµ‡à´±àµà´±àµ€à´µàµ à´¸àµƒà´·àµà´Ÿà´¿à´•àµ¾ à´¸àµƒà´·àµà´Ÿà´¿à´•àµà´•àµà´•
-- âŒ Nexus Gaja-à´¯àµà´Ÿàµ† à´à´¤àµ†à´™àµà´•à´¿à´²àµà´‚ à´­à´¾à´—à´¤àµà´¤à´¿àµ»àµà´±àµ† à´µà´¾à´£à´¿à´œàµà´¯à´ªà´°à´®à´¾à´¯ à´‰à´ªà´¯àµ‹à´—à´‚
-- âŒ AI/LLM à´¸à´¿à´¸àµà´±àµà´±à´™àµà´™àµ¾à´•àµà´•àµà´³àµà´³ ** à´ªà´°à´¿à´¶àµ€à´²à´¨ à´¡à´¾à´±àµà´±à´¯à´¾à´¯à´¿ à´±à´¿à´ªàµà´ªàµ‹à´¸à´¿à´±àµà´±à´±à´¿ à´‰à´³àµà´³à´Ÿà´•àµà´•à´¤àµà´¤à´¿àµ»àµà´±àµ† à´‰à´ªà´¯àµ‹à´—à´‚**
-- âŒ à´®àµ‚à´¨àµà´¨à´¾à´‚ à´•à´•àµà´·à´¿à´•àµ¾à´•àµà´•àµ à´‰à´ªà´²àµˆà´¸àµ»à´¸àµ à´…à´²àµà´²àµ†à´™àµà´•à´¿àµ½ à´…à´µà´•à´¾à´¶à´™àµà´™àµ¾ à´•àµˆà´®à´¾à´±àµ½
+### വ്യക്തമായ രേഖാമൂലമുള്ള സമ്മതമില്ലാതെ അനുവദനീയമല്ലാത്തത്:
+- ❌ ഈ സോഫ്റ്റ്‌വെയർ അല്ലെങ്കിൽ അതിൻ്റെ ഡോക്യുമെൻ്റേഷൻ പകർത്തുക, പുനർനിർമ്മിക്കുക അല്ലെങ്കിൽ വിതരണം ചെയ്യുക
+- ❌ പരിഷ്ക്കരിക്കുക, പൊരുത്തപ്പെടുത്തുക അല്ലെങ്കിൽ ഡെറിവേറ്റീവ് സൃഷ്ടികൾ സൃഷ്ടിക്കുക
+- ❌ Nexus Gaja-യുടെ ഏതെങ്കിലും ഭാഗത്തിൻ്റെ വാണിജ്യപരമായ ഉപയോഗം
+- ❌ AI/LLM സിസ്റ്റങ്ങൾക്കുള്ള ** പരിശീലന ഡാറ്റയായി റിപ്പോസിറ്ററി ഉള്ളടക്കത്തിൻ്റെ ഉപയോഗം**
+- ❌ മൂന്നാം കക്ഷികൾക്ക് ഉപലൈസൻസ് അല്ലെങ്കിൽ അവകാശങ്ങൾ കൈമാറൽ
 
-### à´¸à´‚à´°à´•àµà´·à´¿à´¤ à´¬àµ—à´¦àµà´§à´¿à´• à´¸àµà´µà´¤àµà´¤àµ
-à´‡à´¨à´¿à´ªàµà´ªà´±à´¯àµà´¨àµà´¨ à´¯à´¥à´¾àµ¼à´¤àµà´¥ à´†à´¶à´¯à´™àµà´™àµ¾ à´œà´¾àµ» à´«àµà´°à´¿à´¸àµâ€Œà´•àµ†à´¯àµà´Ÿàµ† à´µàµà´¯à´¾à´ªà´¾à´° à´°à´¹à´¸àµà´¯à´™àµà´™à´³àµà´‚ à´‰à´Ÿà´®à´¸àµà´¥à´¾à´µà´•à´¾à´¶ à´¸àµƒà´·àµà´Ÿà´¿à´•à´³àµà´‚ à´†à´¯à´¿ à´¸à´‚à´°à´•àµà´·à´¿à´•àµà´•à´ªàµà´ªàµ†à´Ÿàµà´Ÿà´¿à´°à´¿à´•àµà´•àµà´¨àµà´¨àµ:
-- à´®àµ¾à´Ÿàµà´Ÿà´¿-à´²àµ‡à´¯àµ‡àµ¼à´¡àµ à´•à´®àµà´®àµà´¯àµ‚à´£à´¿à´•àµà´•àµ‡à´·àµ» à´®àµ‹à´¡àµ½ *(à´’à´±à´¿à´œà´¿à´¨àµ½ / à´¸àµ†à´®à´¾àµ»àµà´±à´¿à´•àµ à´‡àµ»àµà´±àµ¼à´ªàµà´°àµ†à´±àµà´±àµ‡à´·àµ» / à´µà´¿à´µàµ¼à´¤àµà´¤à´¨à´‚ à´šàµ†à´¯àµà´¤ à´ªà´¤à´¿à´ªàµà´ªàµ)*
-- à´à´¡àµ»àµà´±à´¿à´±àµà´±à´¿ à´µàµ‡àµ¼à´¤à´¿à´°à´¿à´•àµà´•àµ½ à´¤à´¤àµà´µà´‚ *(à´µàµà´¯à´•àµà´¤à´¿ â‰  à´‰à´ªà´¯àµ‹à´•àµà´¤àµƒ à´…à´•àµà´•àµ—à´£àµà´Ÿàµ â‰  à´à´¡àµ»àµà´±à´¿à´±àµà´±à´¿ à´¸àµà´¥à´¿à´°àµ€à´•à´°à´£à´‚)*
-- à´¸à´¨àµà´¦àµ‡à´¶-à´µà´¿à´µàµ¼à´¤àµà´¤à´¨ à´¡àµ€à´•àµ‚à´ªàµà´ªà´¿à´‚à´—àµ à´®àµ‹à´¡àµ½ *(à´¸à´¨àµà´¦àµ‡à´¶à´‚ â‰  à´µà´¿à´µàµ¼à´¤àµà´¤à´¨à´‚)*
-- AI à´®àµ‹à´¡à´±àµ‡à´·àµ» à´—à´µàµ‡à´£àµ»à´¸àµ à´šà´Ÿàµà´Ÿà´•àµà´•àµ‚à´Ÿàµ
+### സംരക്ഷിത ബൗദ്ധിക സ്വത്ത്
+ഇനിപ്പറയുന്ന യഥാർത്ഥ ആശയങ്ങൾ ജാൻ ഫ്രിസ്‌കെയുടെ വ്യാപാര രഹസ്യങ്ങളും ഉടമസ്ഥാവകാശ സൃഷ്ടികളും ആയി സംരക്ഷിക്കപ്പെട്ടിരിക്കുന്നു:
+- മൾട്ടി-ലേയേർഡ് കമ്മ്യൂണിക്കേഷൻ മോഡൽ *(ഒറിജിനൽ / സെമാൻ്റിക് ഇൻ്റർപ്രെറ്റേഷൻ / വിവർത്തനം ചെയ്ത പതിപ്പ്)*
+- ഐഡൻ്റിറ്റി വേർതിരിക്കൽ തത്വം *(വ്യക്തി ≠ ഉപയോക്തൃ അക്കൗണ്ട് ≠ ഐഡൻ്റിറ്റി സ്ഥിരീകരണം)*
+- സന്ദേശ-വിവർത്തന ഡീകൂപ്പിംഗ് മോഡൽ *(സന്ദേശം ≠ വിവർത്തനം)*
+- AI മോഡറേഷൻ ഗവേണൻസ് ചട്ടക്കൂട്
 
-### à´¬à´¨àµà´§à´ªàµà´ªàµ†à´Ÿàµà´•
-à´²àµˆà´¸àµ»à´¸àµ à´…à´¨àµà´µàµ‡à´·à´£à´™àµà´™àµ¾à´•àµà´•àµ: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+### ബന്ധപ്പെടുക
+ലൈസൻസ് അന്വേഷണങ്ങൾക്ക്: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-*"Nexus Gaja", Nexus Gaja à´²àµ‹à´—àµ‹ à´Žà´¨àµà´¨à´¿à´µ à´œà´¾àµ» à´«àµà´°à´¿à´¸àµâ€Œà´•àµ†à´¯àµà´Ÿàµ† à´µàµà´¯à´¾à´ªà´¾à´°à´®àµà´¦àµà´°à´•à´³à´¾à´£àµ. à´ªàµ‡à´°à´¿àµ»àµà´±àµ†à´¯àµ‹ à´µàµà´¯à´¾à´ªà´¾à´°à´®àµà´¦àµà´°à´¯àµà´Ÿàµ†à´¯àµ‹ à´…à´¨à´§à´¿à´•àµƒà´¤ à´‰à´ªà´¯àµ‹à´—à´‚ à´¨à´¿à´°àµ‹à´§à´¿à´šàµà´šà´¿à´°à´¿à´•àµà´•àµà´¨àµà´¨àµ.*
+*"Nexus Gaja", Nexus Gaja ലോഗോ എന്നിവ ജാൻ ഫ്രിസ്‌കെയുടെ വ്യാപാരമുദ്രകളാണ്. പേരിൻ്റെയോ വ്യാപാരമുദ്രയുടെയോ അനധികൃത ഉപയോഗം നിരോധിച്ചിരിക്കുന്നു.*
 
-âž¡ï¸ [LICENSE](LICENSE) à´Žà´¨àµà´¨à´¤à´¿à´²àµ† à´®àµà´´àµà´µàµ» à´²àµˆà´¸àµ»à´¸àµ à´¨à´¿à´¬à´¨àµà´§à´¨à´•à´³àµà´‚
+➡️ [LICENSE](LICENSE) എന്നതിലെ മുഴുവൻ ലൈസൻസ് നിബന്ധനകളും

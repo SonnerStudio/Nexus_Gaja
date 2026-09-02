@@ -1,379 +1,381 @@
-﻿# Nexus Gaja
+# Nexus Gaja
 
-> *Ð­Ð» Ð°Ñ€Ð°Ð»Ñ‹Ðº Ñ‚Ñ‹Ð½Ñ‡Ñ‚Ñ‹Ðº Ð¶Ð°Ð½Ð° ÑÐ» Ð°Ñ€Ð°Ð»Ñ‹Ðº Ñ‚ÑƒÑˆÑƒÐ½ÑƒÑƒ ÑƒÑ‡ÑƒÐ½*
+> *Эл аралык тынчтык жана эл аралык тушунуу учун*
 
 
 ![Nexus Gaja Logo](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+
+
 <br>
 [![Nexus Gaja Demo](assets/video/Nexus_Gaja_TikTok_EN_thumb.jpg)](https://github.com/SonnerStudio/Nexus_Gaja/blob/main/assets/video/Nexus_Gaja_TikTok_EN.mp4)
 
 <details>
-<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
 
 </details>
 <details>
-<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
 
 </details>
 
-**Nexus Gaja** - Ð±ÑƒÐ» Ð³Ð»Ð¾Ð±Ð°Ð»Ð´ÑƒÑƒ Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹ÑˆÑ‚Ð°Ñ€Ð´Ñ‹ Ó©Ð·Ð³Ó©Ñ€Ñ‚Ò¯Ò¯ Ò¯Ñ‡Ò¯Ð½ Ð¸ÑˆÑ‚ÐµÐ»Ð¸Ð¿ Ñ‡Ñ‹ÐºÐºÐ°Ð½ Ð°ÐºÑ‹Ð»Ð´ÑƒÑƒ, ÐºÐ¾Ð½Ñ‚ÐµÐºÑÑ‚Ñ‚Ð¸ Ñ‚Ò¯ÑˆÒ¯Ð½Ð³Ó©Ð½ Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹Ñˆ Ñ‚Ð°Ñ€Ð¼Ð°Ð³Ñ‹.
+**Nexus Gaja** - бул глобалдуу байланыштарды өзгөртүү үчүн иштелип чыккан акылдуу, контекстти түшүнгөн байланыш тармагы.
 
-## ÐœÐ°ÐºÑÐ°Ñ‚ Ð¶Ð°Ð½Ð° ÐºÓ©Ñ€Ò¯Ð½Ò¯Ñˆ
+## Максат жана көрүнүш
 
 ![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
 
-Ð“Ð»Ð¾Ð±Ð°Ð»Ð´Ð°ÑˆÐºÐ°Ð½ Ð´Ò¯Ð¹Ð½Ó©Ð´Ó© Ñ‚Ð¸Ð» ÐºÓ©Ð±Ò¯Ð½Ñ‡Ó© ÑÒ£ Ñ‡Ð¾Ò£ Ñ‚Ð¾ÑÐºÐ¾Ð¾Ð»Ð´ÑƒÐº Ð±Ð¾Ð»ÑƒÐ¿ ÑÐ°Ð½Ð°Ð»Ð°Ñ‚. Nexus Gaja'Ð½Ñ‹Ð½ Ð½ÐµÐ³Ð¸Ð·Ð³Ð¸ Ð¼Ð°ÐºÑÐ°Ñ‚Ñ‹ - Ð°Ð´Ð°Ð¼Ð´Ð°Ñ€ Ð¶Ð°Ð»Ð¿Ñ‹ Ñ‚Ð¸Ð»Ð´Ðµ ÑÒ¯Ð¹Ð»Ó©Ð¹Ð±Ò¯ Ð¶Ðµ ÑÒ¯Ð¹Ð»Ó©ÑˆÐ¿Ó©Ð³Ó©Ð½Ò¯Ð½Ó© ÐºÐ°Ñ€Ð°Ð±Ð°ÑÑ‚Ð°Ð½, Ò¯Ð·Ð³Ò¯Ð»Ñ‚Ò¯ÐºÑÒ¯Ð·, Ð¶ÐµÑ‚ÐºÐ¸Ð»Ð¸ÐºÑ‚Ò¯Ò¯ Ð¶Ð°Ð½Ð° ÐºÐ¾Ð½Ñ‚ÐµÐºÑÑ‚Ñ‚Ð¸Ðº Ñ‚Ð°Ðº Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹ÑˆÑ‚Ñ‹ ÐºÐ°Ð¼ÑÑ‹Ð· ÐºÑ‹Ð»ÑƒÑƒ. 
+Глобалдашкан дүйнөдө тил көбүнчө эң чоң тоскоолдук болуп саналат. Nexus Gaja'нын негизги максаты - адамдар жалпы тилде сүйлөйбү же сүйлөшпөгөнүнө карабастан, үзгүлтүксүз, жеткиликтүү жана контексттик так байланышты камсыз кылуу. 
 
-Ð‘ÑƒÐ» Ð¶Ó©Ð½ Ð³Ð°Ð½Ð° ÑÓ©Ð·Ð´Ò¯ Ó©Ð¶Ó©Ñ€Ð»Ò¯Ðº Ð¼ÐµÐ½ÐµÐ½ ÐºÐ¾Ñ‚Ð¾Ñ€ÑƒÑƒ ÑÐ¼ÐµÑ, **Ð¼Ð°Ð°Ð½Ð¸ÑÐ¸ ÐºÐ¾Ñ‚Ð¾Ñ€ÑƒÑƒ** Ð¶Ó©Ð½Ò¯Ð½Ð´Ó©. Nexus Gaja Ð¼Ð°Ð´Ð°Ð½Ð¸Ð¹, Ð°Ð¹Ð¼Ð°ÐºÑ‚Ñ‹Ðº Ð¶Ð°Ð½Ð° ÐºÐ¾Ð½Ñ‚ÐµÐºÑÑ‚Ñ‚Ð¸Ðº Ð½ÑŽÐ°Ð½ÑÑ‚Ð°Ñ€Ð´Ñ‹ Ñ‚Ò¯ÑˆÒ¯Ð½Ò¯Ò¯ Ð¼ÐµÐ½ÐµÐ½ Ð°Ð´Ð°Ð¼Ð´Ð°Ñ€Ð´Ñ‹ Ñ‚ÐµÑ€ÐµÒ£Ð¸Ñ€ÑÑÐº Ð´ÐµÒ£Ð³ÑÑÐ»Ð´Ðµ Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹ÑˆÑ‚Ñ‹Ñ€Ñ‹Ð¿, Ñ‡Ñ‹Ð½Ñ‹Ð³Ñ‹, Ð½ÑƒÐºÑƒÑ€Ð° Ð±Ð°Ð°Ñ€Ð»Ð°ÑˆÑƒÑƒÐ³Ð° Ð¼Ò¯Ð¼ÐºÒ¯Ð½Ñ‡Ò¯Ð»Ò¯Ðº Ð±ÐµÑ€ÐµÑ‚.
+Бул жөн гана сөздү өжөрлүк менен которуу эмес, **мааниси которуу** жөнүндө. Nexus Gaja маданий, аймактык жана контексттик нюанстарды түшүнүү менен адамдарды тереңирээк деңгээлде байланыштырып, чыныгы, нукура баарлашууга мүмкүнчүлүк берет.
 
-## ÐœÒ¯Ð¼ÐºÒ¯Ð½Ñ‡Ò¯Ð»Ò¯ÐºÑ‚Ó©Ñ€ Ð¶Ð°Ð½Ð° Ó©Ð·Ð³Ó©Ñ‡Ó©Ð»Ò¯ÐºÑ‚Ó©Ñ€
-- **ÐœÑƒÐ»ÑŒÑ‚Ð¸Ð¼ÐµÐ´Ð¸Ð° Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹ÑˆÑ‹**: Ð¡Ð¸ÑÑ‚ÐµÐ¼Ð° Ñ‚ÐµÐºÑÑ‚Ñ‚Ð¸ Ð³Ð°Ð½Ð° ÑÐ¼ÐµÑ, ÑÒ¯Ñ€Ó©Ñ‚Ñ‚Ó©Ñ€Ð´Ò¯, Ð°ÑƒÐ´Ð¸Ð¾ Ð¶Ð°Ð½Ð° Ð²Ð¸Ð´ÐµÐ¾Ð»Ð¾Ñ€Ð´Ñƒ Ð´Ð° Ð¸ÑˆÑ‚ÐµÑ‚ÐµÑ‚. Ð‘ÑƒÐ» Ñ€ÐµÐ°Ð»Ð´ÑƒÑƒ ÑƒÐ±Ð°ÐºÑ‹Ñ‚Ñ‚Ð° Ñ‚Ð¸Ð»Ð´Ð¸Ð½ Ñ‡ÐµÐºÑ‚ÐµÑ€Ð¸Ð½Ð´Ðµ Ñ‚Ð¾Ð»ÑƒÐº Ð¸Ð¼Ð¼ÐµÑ€ÑÐ¸Ð²Ð´Ò¯Ò¯ Ð±Ð°Ð°Ñ€Ð»Ð°ÑˆÑƒÑƒÐ³Ð° (Ð¼Ð¸ÑÐ°Ð»Ñ‹, Ð²Ð¸Ð´ÐµÐ¾ Ñ‡Ð°Ð»ÑƒÑƒÐ»Ð°Ñ€ Ð¶Ðµ Ò¯Ð½ Ð±Ð¸Ð»Ð´Ð¸Ñ€Ò¯Ò¯Ð»Ó©Ñ€Ò¯) Ð¼Ò¯Ð¼ÐºÒ¯Ð½Ð´Ò¯Ðº Ð±ÐµÑ€ÐµÑ‚.
-- **ÐšÐ¾Ð½Ñ‚ÐµÐºÑÑ‚Ñ‚Ð¸Ðº ÑÐµÐ·Ð³Ð¸Ñ‡Ñ‚Ð¸Ðº**: ÑÐ°Ð»Ñ‚Ñ‚ÑƒÑƒ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾Ñ‡ÑƒÐ»Ð°Ñ€ Ñ‚ÑƒÑƒÑ€Ð° ÑÐ¼ÐµÑ Ñ‚Ò¯ÑˆÒ¯Ð½Ð³Ó©Ð½ Ð¸Ñ€Ð¾Ð½Ð¸ÑÐ½Ñ‹, Ð¸Ð´Ð¸Ð¾Ð¼Ð°Ð»Ð°Ñ€Ð´Ñ‹, Ð¶Ð°Ñ€Ð³Ð¾Ð½Ð´Ð¾Ñ€Ð´Ñƒ Ð¶Ð°Ð½Ð° Ð°Ð¹Ð¼Ð°ÐºÑ‚Ñ‹Ðº Ð´Ð¸Ð°Ð»ÐµÐºÑ‚Ð¸Ð»ÐµÑ€Ð´Ð¸ Ð°Ð½Ñ‹ÐºÑ‚Ð¾Ð¾.
-- **ÐšÑ€Ð¾ÑÑ-Ð¿Ð»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð° Ñ‚Ð°Ñ€Ð¼Ð°Ð³Ñ‹**: Ð–ÐµÐºÐµ Ñ‡Ð°Ñ‚Ñ‚Ð°Ñ€, Ñ„Ð¾Ñ€ÑƒÐ¼ Ñ‚ÐµÐ¼Ð°Ð»Ð°Ñ€Ñ‹ (ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹Ð»ÐµÑ€ Ð¼ÐµÐ½ÐµÐ½ Ð¿Ð¾ÑÑ‚Ñ‚Ð¾Ñ€) Ð¶Ð°Ð½Ð° Ð³Ð»Ð¾Ð±Ð°Ð»Ð´Ñ‹Ðº ÐºÐ¾Ð¾Ð¼Ñ‡ÑƒÐ»ÑƒÐºÑ‚ÑƒÐ½ Ó©Ð· Ð°Ñ€Ð° Ð°Ñ€Ð°ÐºÐµÑ‚Ñ‚ÐµÐ½Ò¯Ò¯ÑÒ¯ Ò¯Ñ‡Ò¯Ð½ Ð½ÐµÐ³Ð¸Ð· ÐºÐ°Ñ‚Ð°Ñ€Ñ‹ ÐºÑ‹Ð·Ð¼Ð°Ñ‚ ÐºÑ‹Ð»Ð°Ñ‚.
+## Мүмкүнчүлүктөр жана өзгөчөлүктөр
+- **Мультимедиа байланышы**: Система текстти гана эмес, сүрөттөрдү, аудио жана видеолорду да иштетет. Бул реалдуу убакытта тилдин чектеринде толук иммерсивдүү баарлашууга (мисалы, видео чалуулар же үн билдирүүлөрү) мүмкүндүк берет.
+- **Контексттик сезгичтик**: салттуу котормочулар туура эмес түшүнгөн иронияны, идиомаларды, жаргондорду жана аймактык диалектилерди аныктоо.
+- **Кросс-платформа тармагы**: Жеке чаттар, форум темалары (комментарийлер менен посттор) жана глобалдык коомчулуктун өз ара аракеттенүүсү үчүн негиз катары кызмат кылат.
 
 ---
 
-## Ð¢ÐµÑ…Ð½Ð¸ÐºÐ°Ð»Ñ‹Ðº Ð°Ñ€Ñ…Ð¸Ñ‚ÐµÐºÑ‚ÑƒÑ€Ð° (Ð½ÐµÐ³Ð¸Ð·Ð³Ð¸ Ñ‚Ò¯ÑˆÒ¯Ð½Ò¯Ðº)
+## Техникалык архитектура (негизги түшүнүк)
 
 ![Nexus Gaja Translation Concept](assets/img/nexus_translation.jpg)
 
-Nexus Gaja Ñ‚ÐµÑ…Ð½Ð¸ÐºÐ°Ð»Ñ‹Ðº Ó©Ð·Ó©Ð³Ò¯ ÐºÐ°Ñ‚ÑƒÑƒ Ò¯Ñ‡ ÐºÐ°Ñ‚Ð¼Ð°Ñ€Ð³Ð° Ð±Ó©Ð»Ò¯Ð½Ð³Ó©Ð½ Ó©Ð· Ð°Ð»Ð´Ñ‹Ð½Ñ‡Ð° Ð¸ÑˆÑ‚ÐµÐ»Ð¸Ð¿ Ñ‡Ñ‹ÐºÐºÐ°Ð½ Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹Ñˆ Ð¼Ð¾Ð´ÐµÐ»Ð¸ Ð±Ð¾Ð»ÑƒÐ¿ ÑÐ°Ð½Ð°Ð»Ð°Ñ‚:
+Nexus Gaja техникалык өзөгү катуу үч катмарга бөлүнгөн өз алдынча иштелип чыккан байланыш модели болуп саналат:
 
-1. **Ð¢Ò¯Ð¿Ð½ÑƒÑÐºÐ°**: Ð–Ó©Ð½Ó©Ñ‚Ò¯Ò¯Ñ‡Ò¯ Ñ‚Ð°Ñ€Ð°Ð±Ñ‹Ð½Ð°Ð½ Ñ‚Ò¯Ð·Ò¯Ð»Ð³Ó©Ð½ Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹Ñˆ Ð¾Ð±ÑŠÐµÐºÑ‚Ð¸ (Ð±Ð¸Ð»Ð´Ð¸Ñ€Ò¯Ò¯) Ð´Ð°Ð¹Ñ‹Ð¼Ð° Ó©Ð·Ð³Ó©Ñ€Ò¯Ð»Ð±Ó©Ñ Ð±Ð¾Ð¹Ð´Ð¾Ð½ ÐºÐ°Ð»Ð°Ñ‚.
-2. **Ð¡ÐµÐ¼Ð°Ð½Ñ‚Ð¸ÐºÐ°Ð»Ñ‹Ðº Ð¸Ð½Ñ‚ÐµÑ€Ð¿Ñ€ÐµÑ‚Ð°Ñ†Ð¸Ñ**: Ð¡Ð¸ÑÑ‚ÐµÐ¼Ð° ÑÓ©Ð·Ð´Ó©Ñ€Ð´Ò¯ ÑÐ»Ðµ ÑÐ¼ÐµÑ, Ñ‡Ñ‹Ð½Ñ‹Ð³Ñ‹ Ð¼Ð°Ð°Ð½Ð¸Ð½Ð¸ Ñ‚Ð°Ð»Ð´Ð°Ð¹Ñ‚.
-3. **ÐœÐ°ÐºÑÐ°Ñ‚Ñ‚ÑƒÑƒ Ñ‚Ð¸Ð»Ð´Ð¸ ÐºÓ©Ñ€ÑÓ©Ñ‚Ò¯Ò¯**: AI Ñ‚Ð¸ÐµÑˆÐµÐ»Ò¯Ò¯ Ð°Ð»ÑƒÑƒÑ‡Ñƒ Ò¯Ñ‡Ò¯Ð½ Ð°Ð»Ð°Ñ€Ð´Ñ‹Ð½ ÐºÐ°Ð°Ð»Ð°Ð³Ð°Ð½ Ñ‚Ð¸Ð»Ð¸Ð½Ðµ Ð½ÐµÐ³Ð¸Ð·Ð´ÐµÐ»Ð³ÐµÐ½ Ð¾Ñ€Ð¸Ð³Ð¸Ð½Ð°Ð»Ð´Ñ‹Ð½ ÑƒÐ±Ð°ÐºÑ‚Ñ‹Ð»ÑƒÑƒ Ð¶Ðµ ÐºÑÑˆÑ‚ÐµÐ»Ð³ÐµÐ½ Ó©ÐºÒ¯Ð»Ñ‡Ò¯Ð»Ò¯Ð³Ò¯Ð½ Ð³Ð°Ð½Ð° Ñ‚Ò¯Ð·Ó©Ñ‚. ÐšÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾Ð»Ð¾Ñ€ ÑÑ‡ ÐºÐ°Ñ‡Ð°Ð½ Ñ‚Ò¯Ð¿Ð½ÑƒÑÐºÐ° Ð±Ð¸Ð»Ð´Ð¸Ñ€Ò¯Ò¯Ð½Ò¯Ð½ Ò¯ÑÑ‚Ò¯Ð½Ó©Ð½ Ð¶Ð°Ð·Ñ‹Ð»Ð±Ð°Ð¹Ñ‚.
+1. **Түпнуска**: Жөнөтүүчү тарабынан түзүлгөн байланыш объекти (билдирүү) дайыма өзгөрүлбөс бойдон калат.
+2. **Семантикалык интерпретация**: Система сөздөрдү эле эмес, чыныгы маанини талдайт.
+3. **Максаттуу тилди көрсөтүү**: AI тиешелүү алуучу үчүн алардын каалаган тилине негизделген оригиналдын убактылуу же кэштелген өкүлчүлүгүн гана түзөт. Котормолор эч качан түпнуска билдирүүнүн үстүнөн жазылбайт.
 
-### ÐšÐ¾Ð½Ñ‚ÐµÐºÑÑ‚Ñ‚Ð¸Ðº ÐºÓ©Ð· ÐºÐ°Ñ€Ð°Ð½Ð´Ñ‹Ð»Ñ‹Ðº
-ÐšÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾Ð»Ð¾Ñ€ Nexus Gaja Ð¶Ð°Ò£Ñ‹Ð»Ñ‹ÐºÑ‚Ð°Ñ€Ñ‹Ð½ ÑÑ‡ ÐºÐ°Ñ‡Ð°Ð½ Ó©Ð·Ò¯Ð½Ñ‡Ó© ÐºÐ°Ñ€Ð°ÑˆÐ¿Ð°Ð¹Ñ‚. ÐœÐ¾Ñ‚Ð¾Ñ€ Ð±Ð°Ñ€Ð´Ñ‹Ðº Ð¸ÐµÑ€Ð°Ñ€Ñ…Ð¸ÑÐ½Ñ‹ ÑÑÐºÐµ Ð°Ð»Ð°Ñ‚:
-`ÐšÐ°Ð±Ð°Ñ€` â†’ 'ÐœÑƒÑ€ÑƒÐ½ÐºÑƒ Ð±Ð¸Ð»Ð´Ð¸Ñ€Ò¯Ò¯Ð»Ó©Ñ€' â†’ 'Ð¢ÐµÐ»Ð¸Ðº ÐºÐ¾Ð½Ñ‚ÐµÐºÑÑ‚' â†’ 'ÐšÐ¾Ð¾Ð¼Ñ‡ÑƒÐ»ÑƒÐº ÐºÐ¾Ð½Ñ‚ÐµÐºÑÑ‚' â†’ 'Ð¢Ð¸Ð» / ÐÐ¹Ð¼Ð°Ðº' â†’ 'ÐšÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÑ‡ÑƒÐ½ÑƒÐ½ Ñ‚Ð°Ð½Ð´Ð¾Ð¾Ð»Ð¾Ñ€Ñƒ'
+### Контексттик көз карандылык
+Котормолор Nexus Gaja жаңылыктарын эч качан өзүнчө карашпайт. Мотор бардык иерархияны эске алат:
+`Кабар` → 'Мурунку билдирүүлөр' → 'Телик контекст' → 'Коомчулук контекст' → 'Тил / Аймак' → 'Колдонуучунун тандоолору'
 
-### Ð¢Ð°Ð»Ð°Ð¿ Ð±Ð¾ÑŽÐ½Ñ‡Ð° ÐºÐ¾Ñ‚Ð¾Ñ€ÑƒÑƒ Ð°Ñ€ÐºÑ‹Ð»ÑƒÑƒ Ð½Ð°Ñ‚Ñ‹Ð¹Ð¶Ð°Ð»ÑƒÑƒÐ»ÑƒÐº
-ÐšÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾ **Ñ‡Ð°ÐºÑ‹Ñ€Ð³Ð°Ð½Ð´Ð°** Ð³Ð°Ð½Ð° Ð¸ÑˆÐºÐµ Ð°ÑˆÐ°Ñ‚ (Ñ‚Ð°Ð»Ð°Ð¿ Ð±Ð¾ÑŽÐ½Ñ‡Ð°) Ñ€ÐµÑÑƒÑ€ÑÑ‚Ñƒ Ò¯Ð½Ó©Ð¼Ð´Ó©Ó©Ñ‡Ò¯ Ð¶Ð¾Ð» Ð¼ÐµÐ½ÐµÐ½. ÐšÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÑ‡Ñƒ Ð¼Ð°Ð·Ð¼ÑƒÐ½Ð´Ñƒ ÑÑƒÑ€Ð°Ð³Ð°Ð½Ð´Ð°, Ð°Ð» Ð°Ð»Ð°Ñ€Ð´Ñ‹Ð½ Ð´ÐµÐ¼ÐµÐ¹ÐºÐ¸ Ñ‚Ð¸Ð»Ð¸Ð½Ðµ ÐºÐ¾Ñ‚Ð¾Ñ€ÑƒÐ»Ð°Ñ‚. Ð‘ÐµÐ»Ð³Ð¸Ð»Ò¯Ò¯ Ð±Ð¸Ñ€ Ñ‚Ð¸Ð»Ð´Ð¸Ð½ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾Ð»Ð¾Ñ€Ñƒ ÐºÐ¸Ð¹Ð¸Ð½Ñ‡ÐµÑ€ÑÑÐº ÑÑƒÑ€Ð°Ð¼Ð´Ð°Ñ€Ð´Ñ‹ ÐºÐµÑÐºÐ¸Ð½ Ñ‚ÐµÐ·Ð´ÐµÑ‚Ò¯Ò¯ Ò¯Ñ‡Ò¯Ð½ Ñ‚ÑƒÑ€ÑƒÐºÑ‚ÑƒÑƒ ÑÐ°ÐºÑ‚Ð°Ð»Ð°Ñ‚ (ÐºÑÑˆÑ‚Ó©Ó©).
+### Талап боюнча которуу аркылуу натыйжалуулук
+Котормо **чакырганда** гана ишке ашат (талап боюнча) ресурсту үнөмдөөчү жол менен. Колдонуучу мазмунду сураганда, ал алардын демейки тилине которулат. Белгилүү бир тилдин котормолору кийинчерээк сурамдарды кескин тездетүү үчүн туруктуу сакталат (кэштөө).
 
-## AI Ð¼ÐµÐ½ÐµÐ½ Ð¸ÑˆÑ‚ÐµÐ³ÐµÐ½ Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ (WP 1.8.4)
+## AI менен иштеген модерация (WP 1.8.4)
 
 ![Nexus Gaja AI Moderation](assets/img/nexus_moderation.jpg)
 
-AI Ñ‚Ð°Ñ€Ð°Ð±Ñ‹Ð½Ð°Ð½ ÐºÐ¾Ð»Ð´Ð¾Ð¾Ð³Ð¾ Ð°Ð»Ñ‹Ð½Ð³Ð°Ð½ Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ Ð¼ÐµÐ½ÐµÐ½ Ð±Ð¸Ð· Ð¿Ñ€Ð¾Ð´ÑƒÐºÑ‚ Ð¸Ð´ÐµÑÑÑ‹Ð½Ð°Ð½ Ñ‚ÐµÑ…Ð½Ð¸ÐºÐ°Ð»Ñ‹Ðº Ð°Ñ€Ñ…Ð¸Ñ‚ÐµÐºÑ‚ÑƒÑ€Ð°Ð³Ð° Ñ‡ÐµÐ¹Ð¸Ð½ Ñ‡Ð¾Ò£ ÐºÐ°Ð´Ð°Ð¼ Ñ‚Ð°ÑˆÑ‚Ð°Ð¹Ð±Ñ‹Ð· Ð¶Ð°Ð½Ð° Ð•Ð‘ ÑƒÑ‡ÑƒÑ€Ð´Ð°Ð³Ñ‹ Ñ‡ÐµÐ½ÐµÐ¼Ð´ÐµÑ€Ð¸Ð½ ÑÑÐºÐµ Ð°Ð»Ð°Ð±Ñ‹Ð· (50-ÑÑ‚. Ñ‹Ð»Ð°Ð¹Ñ‹Ðº Ð•Ð‘ AI ÐÐºÑ‚Ñ‹Ð½Ñ‹Ð½ Ð°Ñ‡Ñ‹ÐºÑ‚Ñ‹Ðº Ð¼Ð¸Ð»Ð´ÐµÑ‚Ñ‚ÐµÐ½Ð¼ÐµÐ»ÐµÑ€Ð¸; Ñ‚Ò¯ÑˆÒ¯Ð½Ò¯ÐºÑ‚Ò¯Ò¯ Ð½ÐµÐ³Ð¸Ð·Ð´ÐµÐ¼ÐµÐ»ÐµÑ€ Ð¶Ð°Ð½Ð° ÐºÐ°Ñ€ÑˆÑ‹ Ñ‡Ñ‹Ð³ÑƒÑƒÐ½ÑƒÐ½ Ð²Ð°Ñ€Ð¸Ð°Ð½Ñ‚Ñ‚Ð°Ñ€Ñ‹ Ð¼ÐµÐ½ÐµÐ½ Ð¡Ð°Ð½Ð°Ñ€Ð¸Ð¿Ñ‚Ð¸Ðº ÐšÑ‹Ð·Ð¼Ð°Ñ‚Ñ‚Ð°Ñ€ ÐÐºÑ‚Ñ‹).
+AI тарабынан колдоого алынган модерация менен биз продукт идеясынан техникалык архитектурага чейин чоң кадам таштайбыз жана ЕБ учурдагы ченемдерин эске алабыз (50-ст. ылайык ЕБ AI Актынын ачыктык милдеттенмелери; түшүнүктүү негиздемелер жана каршы чыгуунун варианттары менен Санариптик Кызматтар Акты).
 
-### 1. ÐÐµÐ³Ð¸Ð·Ð³Ð¸ Ð¿Ñ€Ð¸Ð½Ñ†Ð¸Ð¿
-ÐÑ€Ñ…Ð¸Ñ‚ÐµÐºÑ‚ÑƒÑ€Ð° Ò¯Ñ‡Ò¯Ð½ ÑÒ£ Ð¼Ð°Ð°Ð½Ð¸Ð»Ò¯Ò¯ ÑÒ¯Ð¹Ð»Ó©Ð¼: **Moderation AI - Ð±ÑƒÐ» Ð°Ð²Ñ‚Ð¾Ð½Ð¾Ð¼Ð´ÑƒÑƒ Ð±Ð°ÑˆÐºÐ°Ñ€ÑƒÑƒ ÑÐ¸ÑÑ‚ÐµÐ¼Ð°ÑÑ‹ ÑÐ¼ÐµÑ, Ñ‚ÐµÐºÑˆÐµÑ€Ò¯Ò¯ ÑÐ¸ÑÑ‚ÐµÐ¼Ð°ÑÑ‹.**
-Ð‘ÑƒÐ» Nexus Gaja'Ð´Ð° ÐºÐ°Ð½Ð´Ð°Ð¹ Ð¿Ð¸ÐºÐ¸Ñ€Ð»ÐµÑ€Ð´Ð¸Ð½ Ð±Ð¾Ð»ÑƒÑˆÑƒÐ½Ð° ÑƒÑ€ÑƒÐºÑÐ°Ñ‚ Ð±ÐµÑ€Ð¸Ð»Ð³ÐµÐ½Ð¸Ð½ Ð°Ð½Ñ‹ÐºÑ‚Ð¾Ð¾ Ò¯Ñ‡Ò¯Ð½ ÑÐ¼ÐµÑ, Ð°Ð´Ð°Ð¼Ð´Ð°Ñ€Ð´Ñ‹ Ñ‡ÐµÐ½ÐµÐ¼Ð¸ Ð¼ÐµÐ½ÐµÐ½ ÐºÐ¾Ð»Ð´Ð¾Ð¾ Ò¯Ñ‡Ò¯Ð½ Ð°Ñ€Ð½Ð°Ð»Ð³Ð°Ð½.
-ÐžÑˆÐµÐ½Ñ‚Ð¸Ð¿, Ð±Ð¸Ð· Ò¯Ñ‡ Ð½ÐµÑ€ÑÐµÐ½Ð¸ Ð°Ð¹Ñ‹Ñ€Ð¼Ð°Ð»Ð°Ð¹Ð±Ñ‹Ð·:
-- **ÐÐ½Ñ‹ÐºÑ‚Ð¾Ð¾:** "Ð‘ÑƒÐ» Ð¶ÐµÑ€Ð´Ðµ ÑÑ€ÐµÐ¶Ðµ Ð±ÑƒÐ·ÑƒÑƒ Ð±Ð¾Ð»ÑƒÑˆÑƒ Ð¼Ò¯Ð¼ÐºÒ¯Ð½."
-- **Ð‘Ð°Ð°:** "ÐœÐ¸ÑÐ°Ð»Ñ‹, ÑÑ€ÐµÐ¶Ðµ Ð±ÑƒÐ·ÑƒÑƒ Ñ‹ÐºÑ‚Ñ‹Ð¼Ð°Ð»Ð´Ñ‹Ð³Ñ‹ 94% Ñ‚Ò¯Ð·Ó©Ñ‚."
-- **Ð§ÐµÑ‡Ð¸Ð¼:** "Ð§Ñ‹Ð½Ð´Ñ‹Ð³Ñ‹Ð½Ð´Ð° ÐºÐ°Ð½Ð´Ð°Ð¹ Ñ‡Ð°Ñ€Ð° ÐºÓ©Ñ€Ò¯Ð»Ó©Ñ‚?"
-Ò®Ñ‡Ò¯Ð½Ñ‡Ò¯ Ð´ÐµÒ£Ð³ÑÑÐ» Ð¾Ð¾Ñ€ ÑƒÑ‡ÑƒÑ€Ð»Ð°Ñ€Ð´Ð° Ð³ÑƒÐ¼Ð°Ð½Ð´ÑƒÑƒ ÐºÓ©Ð·Ó©Ð¼Ó©Ð»Ð³Ó© Ð°Ð»Ñ‹Ð½Ñ‹ÑˆÑ‹ ÐºÐµÑ€ÐµÐº.
+### 1. Негизги принцип
+Архитектура үчүн эң маанилүү сүйлөм: **Moderation AI - бул автономдуу башкаруу системасы эмес, текшерүү системасы.**
+Бул Nexus Gaja'да кандай пикирлердин болушуна уруксат берилгенин аныктоо үчүн эмес, адамдарды ченеми менен колдоо үчүн арналган.
+Ошентип, биз үч нерсени айырмалайбыз:
+- **Аныктоо:** "Бул жерде эреже бузуу болушу мүмкүн."
+- **Баа:** "Мисалы, эреже бузуу ыктымалдыгы 94% түзөт."
+- **Чечим:** "Чындыгында кандай чара көрүлөт?"
+Үчүнчү деңгээл оор учурларда гумандуу көзөмөлгө алынышы керек.
 
-### 2. ÐœÐ¾Ð´ÐµÑ€Ð°Ñ†Ð¸ÑÐ»Ñ‹Ðº AI Ó©Ð·Ò¯Ð½Ò¯Ð½ Ð¿Ð¾Ð´ÑÐ¸ÑÑ‚ÐµÐ¼Ð°ÑÑ‹ Ð±Ð¾Ð»Ð¾Ñ‚
-Ð–Ð°Ð»Ð³Ñ‹Ð· AI Ð¾Ñ€Ð´ÑƒÐ½Ð°, ÐºÒ¯Ñ‡Ñ‚Ò¯Ò¯ Ð¿Ð¾Ð´ÑÐ¸ÑÑ‚ÐµÐ¼Ð° Ñ‚Ò¯Ð·Ò¯Ð»Ð³Ó©Ð½:
-```Ñ‚ÐµÐºÑÑ‚
-                 NEXUS GAJA AI ÐœÐžÐ”Ð•Ð ÐÐ¦Ð˜Ð¯Ð¡Ð«
-                          â”‚
-       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-       â”‚ â”‚ â”‚
+### 2. Модерациялык AI өзүнүн подсистемасы болот
+Жалгыз AI ордуна, күчтүү подсистема түзүлгөн:
+```текст
+                 NEXUS GAJA AI МОДЕРАЦИЯСЫ
+                          │
+       ┌────────────────── ┼──────────────────┐
+       │ │ │
   Language AI Safety AI Fraud AI
-       â”‚ â”‚ â”‚
-       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€ â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”¤
-       â”‚ â”‚ â”‚
+       │ │ │
+       ├──────────────┬─── ┴──────────────┬───┤
+       │ │ │
  Translation Behavior Identity
  Analysis Analysis Signals
-       â”‚ â”‚ â”‚
-       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
-                      â–¼
-               Ð¢Ð¾Ð±Ð¾ÐºÐµÐ»Ð´Ð¸ÐºÑ‚ÐµÑ€Ð´Ð¸ Ð±Ð°Ð°Ð»Ð¾Ð¾
-                      â”‚
-                      â–¼
+       │ │ │
+       └──────────────┼─────────────────
+                      ▼
+               Тобокелдиктерди баалоо
+                      │
+                      ▼
                Human Review
 ```
 
-### 3. Ð­Ò£ Ð¼Ð°Ð°Ð½Ð¸Ð»Ò¯Ò¯ AI Ð¼Ð¾Ð´ÑƒÐ»Ð´Ð°Ñ€Ñ‹
-Nexus Gaja Ò¯Ñ‡Ò¯Ð½ Ñ‚Ð¾Ð³ÑƒÐ· Ð°Ð´Ð¸ÑÑ‚ÐµÑˆÑ‚Ð¸Ñ€Ð¸Ð»Ð³ÐµÐ½ Ñ‚Ð°Ð»Ð´Ð¾Ð¾ Ð°Ð¹Ð¼Ð°ÐºÑ‚Ð°Ñ€Ñ‹ Ð±Ð°Ñ€:
-- **M1 â€“ Ð¢Ð¸Ð»Ð´Ð¸ Ñ‚Ò¯ÑˆÒ¯Ð½Ò¯Ò¯**: Ð¢Ð¸Ð», Ð´Ð¸Ð°Ð»ÐµÐºÑ‚, Ð¶Ð°Ñ€Ð³Ð¾Ð½, Ð¸Ñ€Ð¾Ð½Ð¸ÑÐ»Ñ‹Ðº ÐºÓ©Ñ€ÑÓ©Ñ‚ÐºÒ¯Ñ‡Ñ‚Ó©Ñ€Ð´Ò¯, ÐºÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾ ÐºÓ©Ð¹Ð³Ó©Ð¹Ð»Ó©Ñ€Ò¯Ð½ Ð°Ð½Ñ‹ÐºÑ‚Ð°Ð¹Ñ‚.
-- **M2 â€“ Ð£ÑƒÐ»ÑƒÑƒÐ»ÑƒÐºÑ‚Ñƒ / ÐºÑ‹ÑÐ½Ð°Ñ‚Ñ‚Ñ‹ÐºÑ‚Ñ‹ Ð°Ð½Ñ‹ÐºÑ‚Ð¾Ð¾**: ÐºÐµÐ¼ÑÐ¸Ð½Ñ‚Ò¯Ò¯Ð½Ò¯, Ð¶ÐµÐºÐµ ÐºÐ¾Ð» ÑÐ°Ð»ÑƒÑƒÐ»Ð°Ñ€Ð´Ñ‹, ÐºÑƒÑƒÐ³ÑƒÐ½Ñ‚ÑƒÐºÑ‚Ð¾Ð¾Ð»Ð¾Ñ€Ð´Ñƒ Ð°Ð½Ñ‹ÐºÑ‚Ð°Ð¹Ñ‚.
-- **M3 â€“ ÐšÐ¾Ñ€ÐºÑƒÐ½ÑƒÑ‡Ñ‚Ñƒ Ð°Ð½Ñ‹ÐºÑ‚Ð¾Ð¾**: ÐœÒ¯Ð¼ÐºÒ¯Ð½ Ð±Ð¾Ð»Ð³Ð¾Ð½ ÐºÐ¾Ñ€ÐºÑƒÐ½ÑƒÑ‡Ñ‚Ð°Ñ€Ð´Ñ‹, ÑˆÐ°Ð½Ñ‚Ð°Ð¶Ð´Ñ‹ Ð¶Ð°Ð½Ð° Ð·Ð¾Ð¼Ð±ÑƒÐ»ÑƒÐº ÐºÐ¾Ñ€ÐºÑƒÐ½ÑƒÑ‡Ñ‚Ð°Ñ€Ñ‹Ð½ Ð°Ð½Ñ‹ÐºÑ‚Ð°Ð¹Ñ‚.
-- **M4 â€“ Ð–ÐµÐº ÐºÓ©Ñ€Ò¯Ò¯ / Ð°Ð´Ð°Ð¼Ð³ÐµÑ€Ñ‡Ð¸Ð»Ð¸ÐºÑÐ¸Ð·Ð´Ð¸ÐºÑ‚Ð¸ Ð°Ð½Ñ‹ÐºÑ‚Ð¾Ð¾**: Ð‘ÐµÐ»Ð³Ð¸Ð»Ò¯Ò¯ Ð±Ð¸Ñ€ Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹ÑˆÑ‚Ñ‹Ð½ Ð½ÐµÐ³Ð¸Ð·Ð¸Ð½Ð´Ðµ Ð°Ð´Ð°Ð¼Ð´Ð°Ñ€Ð³Ð° Ð±Ð°Ð³Ñ‹Ñ‚Ñ‚Ð°Ð»Ð³Ð°Ð½ Ñ‡Ð°Ð±ÑƒÑƒÐ»Ð´Ð°Ñ€Ð´Ñ‹ Ð°Ð½Ñ‹ÐºÑ‚Ð°Ð¹Ñ‚.
-- **M5 â€“ Ð¡Ð¿Ð°Ð¼ / ÐœÐ°Ð½Ð¸Ð¿ÑƒÐ»ÑÑ†Ð¸ÑÐ½Ñ‹ Ð°Ð½Ñ‹ÐºÑ‚Ð¾Ð¾**: Ð¡Ð¿Ð°Ð¼Ð´Ñ‹, Ð±Ð¾Ñ‚Ñ‚ÑƒÐ½ Ð¶Ò¯Ñ€Ò¯Ð¼-Ñ‚ÑƒÑ€ÑƒÐ¼ÑƒÐ½, Ð¼Ð°ÐºÑƒÐ»Ð´Ð°ÑˆÑ‹Ð»Ð³Ð°Ð½ Ð¼Ð°Ð½Ð¸Ð¿ÑƒÐ»ÑÑ†Ð¸ÑÐ½Ñ‹ Ð°Ð½Ñ‹ÐºÑ‚Ð°Ð¹Ñ‚.
-- **M6 â€“ ÐÐ»Ð´Ð°Ð¼Ñ‡Ñ‹Ð»Ñ‹ÐºÑ‚Ñ‹ Ð°Ð½Ñ‹ÐºÑ‚Ð¾Ð¾**: Ð¨ÐµÐºÑ‚Ò¯Ò¯ Ð°Ð»Ð´Ð°Ð¼Ñ‡Ñ‹Ð»Ñ‹Ðº Ð°Ñ€Ð°ÐºÐµÑ‚Ñ‚ÐµÑ€Ð¸Ð½, Ñ„Ð¸ÑˆÐ¸Ð½Ð³Ð´Ð¸, ÑÐ¾Ñ†Ð¸Ð°Ð»Ð´Ñ‹Ðº Ð¸Ð½Ð¶ÐµÐ½ÐµÑ€Ð¸ÑÐ½Ñ‹ Ð°Ð½Ñ‹ÐºÑ‚Ð°Ð¹Ñ‚.
-- **M7 â€“ Identity Integrity**: Ð­ÑÐµÐ¿Ñ‚Ð¸ Ð±Ð°ÑÑ‹Ð¿ Ð°Ð»ÑƒÑƒ, Ð±Ð¸Ñ€ Ð½ÐµÑ‡Ðµ Ð°ÐºÐºÐ°ÑƒÐ½Ñ‚Ñ‚Ð°Ñ€, Ð±Ð»Ð¾ÐºÑ‚Ð¾Ñ€Ð´Ñƒ Ð°Ð¹Ð»Ð°Ð½Ñ‹Ð¿ Ó©Ñ‚Ò¯Ò¯ Ð±Ð¾ÑŽÐ½Ñ‡Ð° ÑÐ¸Ð³Ð½Ð°Ð»Ð´Ð°Ñ€Ð´Ñ‹ Ñ‚ÐµÐºÑˆÐµÑ€ÐµÑ‚.
-- **M8 â€“ ÐœÐµÐ´Ð¸Ð° ÐºÐ¾Ð¾Ð¿ÑÑƒÐ·Ð´ÑƒÐ³Ñƒ**: Ð¡Ò¯Ñ€Ó©Ñ‚Ñ‚Ó©Ñ€Ð´Ò¯, Ð°ÑƒÐ´Ð¸Ð¾Ð½Ñƒ, Ð²Ð¸Ð´ÐµÐ¾Ð»Ð¾Ñ€Ð´Ñƒ, Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‚ÐµÑ€Ð´Ð¸ Ñ‚Ð°Ð»Ð´Ð°Ð¹Ñ‚.
-- **M9 â€“ ÐšÐ¾Ð½Ñ‚ÐµÐºÑÑ‚Ñ‚Ð¸Ðº ÐºÑ‹Ð¹Ð¼Ñ‹Ð»Ð´Ð°Ñ‚ÐºÑ‹Ñ‡**: Ð­Ò£ Ð¼Ð°Ð°Ð½Ð¸Ð»Ò¯Ò¯ Ð¼Ð¾Ð´ÑƒÐ». ÐÐ» Ð¶ÐµÐºÐµ Ð¶Ñ‹Ð¹Ñ‹Ð½Ñ‚Ñ‹ÐºÑ‚Ð°Ñ€Ð´Ñ‹ Ð±Ð¸Ñ€Ð¸ÐºÑ‚Ð¸Ñ€ÐµÑ‚.
+### 3. Эң маанилүү AI модулдары
+Nexus Gaja үчүн тогуз адистештирилген талдоо аймактары бар:
+- **M1 – Тилди түшүнүү**: Тил, диалект, жаргон, ирониялык көрсөткүчтөрдү, котормо көйгөйлөрүн аныктайт.
+- **M2 – Уулуулукту / кыянаттыкты аныктоо**: кемсинтүүнү, жеке кол салууларды, куугунтуктоолорду аныктайт.
+- **M3 – Коркунучту аныктоо**: Мүмкүн болгон коркунучтарды, шантажды жана зомбулук коркунучтарын аныктайт.
+- **M4 – Жек көрүү / адамгерчиликсиздикти аныктоо**: Белгилүү бир байланыштын негизинде адамдарга багытталган чабуулдарды аныктайт.
+- **M5 – Спам / Манипуляцияны аныктоо**: Спамды, боттун жүрүм-турумун, макулдашылган манипуляцияны аныктайт.
+- **M6 – Алдамчылыкты аныктоо**: Шектүү алдамчылык аракеттерин, фишингди, социалдык инженерияны аныктайт.
+- **M7 – Identity Integrity**: Эсепти басып алуу, бир нече аккаунттар, блокторду айланып өтүү боюнча сигналдарды текшерет.
+- **M8 – Медиа коопсуздугу**: Сүрөттөрдү, аудиону, видеолорду, документтерди талдайт.
+- **M9 – Контексттик кыймылдаткыч**: Эң маанилүү модул. Ал жеке жыйынтыктарды бириктирет.
 
-### 4. Ð­Ð¼Ð½Ðµ Ò¯Ñ‡Ò¯Ð½ ÐšÐ¾Ð½Ñ‚ÐµÐºÑÑ‚Ñ‚Ð¸Ðº ÐºÑ‹Ð¹Ð¼Ñ‹Ð»Ð´Ð°Ñ‚ÐºÑ‹Ñ‡ Ð¼Ñ‹Ð½Ñ‡Ð°Ð»Ñ‹Ðº Ð¼Ð°Ð°Ð½Ð¸Ð»Ò¯Ò¯?
-Ð¢Ð°Ð·Ð° Ð°Ñ‡ÐºÑ‹Ñ‡ Ð¸Ð·Ð´Ó©Ó© Ð¶ÐµÑ‚Ð¸ÑˆÑÐ¸Ð· Ð±Ð¾Ð»Ð¼Ð¾Ðº. "ÐœÐµÐ½ Ð°Ð½Ñ‹ ÐºÒ¯Ð»Ò¯Ð¿ Ó©Ð»Ñ‚Ò¯Ñ€Ó© Ð°Ð»Ð¼Ð°ÐºÐ¼Ñ‹Ð½" Ð´ÐµÐ³ÐµÐ½ ÑÓ©Ð· ÑÐµÐ¼Ð°Ð½Ñ‚Ð¸ÐºÐ°Ð»Ñ‹Ðº Ð·Ð¾Ð¼Ð±ÑƒÐ»ÑƒÐºÑ‚Ñƒ ÐºÐ°Ð¼Ñ‚Ñ‹Ð¹Ñ‚, Ð±Ð¸Ñ€Ð¾Ðº Ð±ÑƒÐ» ÑÓ©Ð·Ð´Ò¯Ð½ Ñ„Ð¸Ð³ÑƒÑ€Ð°ÑÑ‹. â€œÐ­Ñ€Ñ‚ÐµÒ£ ÑÐ°Ð°Ñ‚ 20:00Ð´Ó© Ò¯Ð¹Ò¯Ð½Ò¯Ð½ Ð°Ð»Ð´Ñ‹Ð½Ð°Ð½ Ð°Ñ‚Ñ‹Ð¿ ÑÐ°Ð»Ð°Ð¼â€ Ð´ÐµÐ³ÐµÐ½ Ñ‚Ð°ÐºÑ‹Ñ€ Ð±Ð°ÑˆÐºÐ° Ð¶Ð°Ð³Ð´Ð°Ð¹. AI Ð±ÑƒÐ» ÐºÐ¾Ð½ÐºÑ€ÐµÑ‚Ñ‚Ò¯Ò¯ ÐºÐ¾Ð½Ñ‚ÐµÐºÑÑ‚Ñ‚Ðµ Ð±Ð¸Ð»Ð´Ð¸Ñ€Ò¯Ò¯ ÑÐ¼Ð½ÐµÐ½Ð¸ Ð±Ð¸Ð»Ð´Ð¸Ñ€ÐµÑ€Ð¸Ð½ Ñ‚Ò¯ÑˆÒ¯Ð½Ò¯ÑˆÒ¯ ÐºÐµÑ€ÐµÐº.
+### 4. Эмне үчүн Контексттик кыймылдаткыч мынчалык маанилүү?
+Таза ачкыч издөө жетишсиз болмок. "Мен аны күлүп өлтүрө алмакмын" деген сөз семантикалык зомбулукту камтыйт, бирок бул сөздүн фигурасы. “Эртең саат 20:00дө үйүнүн алдынан атып салам” деген такыр башка жагдай. AI бул конкреттүү контекстте билдирүү эмнени билдирерин түшүнүшү керек.
 
-### 5. ÐšÓ©Ð¿ Ñ‚Ð¸Ð»Ð´Ò¯Ò¯ Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ
-ÐœÐ¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ Ð¶Ó©Ð½ ÑÐ»Ðµ ÑÓ©Ð·Ð´Ó©Ñ€Ð´Ò¯ ÑÐ°Ð»Ñ‹ÑˆÑ‚Ñ‹Ñ€Ð° Ð°Ð»Ð±Ð°Ð¹Ñ‚. ÐÐ» Ð¼Ð°Ð°Ð½Ð¸Ð½Ð¸Ð½ Ð´ÐµÒ£Ð³ÑÑÐ»Ð¸Ð½ Ñ‚Ð°Ð»Ð´Ð¾Ð¾ ÐºÐµÑ€ÐµÐº (Ð¼Ð¸ÑÐ°Ð»Ñ‹, Ð½ÐµÐ¼Ð¸Ñ Ð¸Ð´Ð¸Ð¾Ð¼Ð°Ð»Ð°Ñ€Ñ‹Ð½Ð° ÐºÐ°Ñ€ÑˆÑ‹ ÑÐ¿Ð¾Ð½ Ð¸Ð´Ð¸Ð¾Ð¼Ð°Ð»Ð°Ñ€Ñ‹Ð½Ð° ÐºÐ°Ñ€ÑˆÑ‹ Ð°Ð¹Ð¼Ð°ÐºÑ‚Ñ‹Ðº Ñ‚ÑƒÑŽÐ½Ñ‚Ð¼Ð°Ð»Ð°Ñ€Ð³Ð° ÐºÐ°Ñ€ÑˆÑ‹).
+### 5. Көп тилдүү модерация
+Модерация жөн эле сөздөрдү салыштыра албайт. Ал маанинин деңгээлин талдоо керек (мисалы, немис идиомаларына каршы япон идиомаларына каршы аймактык туюнтмаларга каршы).
 
-### 6. Ð¢Ò¯Ð¿Ð½ÑƒÑÐºÐ° Ñ‚Ð¸Ð» + ÐºÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾
-Ð¢Ò¯Ð¿Ð½ÑƒÑÐºÐ° Ð¶Ð°Ð½Ð° ÐºÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾ Ó©Ð·Ò¯Ð½Ñ‡Ó© Ñ‚Ð°Ð»Ð´Ð°Ð½Ð°Ñ‚. ÐžÑˆÐ¾Ð½Ð´Ð¾Ð½ ÐºÐ¸Ð¹Ð¸Ð½ Ð³Ð°Ð½Ð° Â«ÐšÐ¾Ð¼Ð±Ð¸Ð½Ð°Ñ†Ð¸ÑÐ»Ð°Ð½Ð³Ð°Ð½ Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ†Ð¸ÑÐ½Ñ‹ Ð±Ð°Ð°Ð»Ð¾Ð¾Â» Ð¸ÑˆÐºÐµ Ð°ÑˆÐ°Ñ‚. ÐžÑˆÐµÐ½Ñ‚Ð¸Ð¿, Nexus Gaja ÐºÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾Ð½ÑƒÐ½ Ó©Ð·Ò¯ ÐºÑ‹Ñ€Ð´Ð°Ð°Ð»Ð´Ñ‹ ÐºÑƒÑ€Ñ‡ÑƒÑ‚ÑƒÐ¿ Ð¶Ðµ Ó©Ð·Ð³Ó©Ñ€Ñ‚ÐºÓ©Ð½Ò¯Ð½ Ð°Ð½Ñ‹ÐºÑ‚Ð°Ð¹ Ð°Ð»Ð°Ñ‚.
+### 6. Түпнуска тил + котормо
+Түпнуска жана котормо өзүнчө талданат. Ошондон кийин гана «Комбинацияланган модерацияны баалоо» ишке ашат. Ошентип, Nexus Gaja котормонун өзү кырдаалды курчутуп же өзгөрткөнүн аныктай алат.
 
-### 7. Ð˜ÑˆÐµÐ½Ð¸Ð¼ Ð±Ð°Ð»Ð»Ñ‹
-ÐÑ€ Ð±Ð¸Ñ€ AI Ð±Ð°Ð°Ð»Ð¾Ð¾ Ð¸ÑˆÐµÐ½Ð¸Ð¼ Ð¼Ð°Ð°Ð½Ð¸ÑÐ¸Ð½ Ð°Ð»Ð°Ñ‚ (Ð¼Ð¸ÑÐ°Ð»Ñ‹, ÐºÐ¾Ñ€ÐºÑƒÐ½ÑƒÑ‡ Ñ‹ÐºÑ‚Ñ‹Ð¼Ð°Ð»Ð´Ñ‹Ð³Ñ‹: 0,96). Ð‘Ð¸Ñ€Ð¾Ðº: **Ð˜ÑˆÐµÐ½Ð¸Ð¼Ð´Ò¯Ò¯Ð»Ò¯Ðº ÑƒÐ¿Ð°Ð¹Ñ‹ â‰  Ð§Ñ‹Ð½Ð´Ñ‹Ðº.** 96% ÑƒÐ¿Ð°Ð¹ Ð¼Ð¾Ð´ÐµÐ»Ð´Ð¸Ð½ ÐºÐ»Ð°ÑÑÐ¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸ÑÐ´Ð° Ð°Ð±Ð´Ð°Ð½ Ð¸ÑˆÐµÐ½Ð¸Ð¼Ð´Ò¯Ò¯ ÑÐºÐµÐ½Ð¸Ð½ Ð³Ð°Ð½Ð° Ð±Ð¸Ð»Ð´Ð¸Ñ€ÐµÑ‚, Ð°Ð» ÑÓ©Ð·ÑÒ¯Ð· Ñ‚Ò¯Ñ€Ð´Ó© ÐºÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÑ‡ÑƒÐ½ÑƒÐ½ ÐºÒ¯Ð½Ó©Ó©Ð»Ò¯Ò¯ ÑÐºÐµÐ½Ð¸Ð½ Ð±Ð¸Ð»Ð´Ð¸Ñ€Ð±ÐµÐ¹Ñ‚.
+### 7. Ишеним баллы
+Ар бир AI баалоо ишеним маанисин алат (мисалы, коркунуч ыктымалдыгы: 0,96). Бирок: **Ишенимдүүлүк упайы ≠ Чындык.** 96% упай моделдин классификацияда абдан ишенимдүү экенин гана билдирет, ал сөзсүз түрдө колдонуучунун күнөөлүү экенин билдирбейт.
 
-### 8. Ð‘ÐµÐ»Ð³Ð¸ÑÐ¸Ð·Ð´Ð¸ÐºÑ‚Ð¸Ð½ Ó©Ð·Ò¯ ÑÐ¸Ð³Ð½Ð°Ð»Ð³Ð° Ð°Ð¹Ð»Ð°Ð½Ð°Ñ‚
-Ð­Ð³ÐµÑ€Ð´Ðµ AI Ð±ÐµÐ»Ð³Ð¸ÑÐ¸Ð· Ð±Ð¾Ð»ÑÐ¾ (Ð¼Ð¸ÑÐ°Ð»Ñ‹, ÐºÐ¾Ñ€ÐºÑƒÐ½ÑƒÑ‡: 0,62, ÑÐ°Ñ‚Ð¸Ñ€Ð°: 0,54), Ð°Ð» Ð¶Ó©Ð½ ÑÐ»Ðµ ÐºÐ°Ñ‚Ð°Ð°Ð» Ñ‡Ð°Ñ€Ð° ÐºÓ©Ñ€Ó© Ð°Ð»Ð±Ð°Ð¹Ñ‚. ÐÐ½Ñ‹Ð½ Ð¾Ñ€Ð´ÑƒÐ½Ð°, Ð±ÐµÐ»Ð³Ð¸ÑÐ¸Ð·Ð´Ð¸Ðº Ñ‚Ò¯Ð·Ð´Ó©Ð½-Ñ‚Ò¯Ð· Ð°Ñ€Ñ…Ð¸Ñ‚ÐµÐºÑ‚ÑƒÑ€Ð°Ð´Ð° ÐºÑƒÑ€ÑƒÐ»Ð³Ð°Ð½: **ÐÐ´Ð°Ð¼Ð´Ñ‹Ð½ ÐºÐ°Ñ€Ð¾Ð¾ÑÑƒ Ñ‚Ð°Ð»Ð°Ð¿ ÐºÑ‹Ð»Ñ‹Ð½Ð°Ñ‚**.
+### 8. Белгисиздиктин өзү сигналга айланат
+Эгерде AI белгисиз болсо (мисалы, коркунуч: 0,62, сатира: 0,54), ал жөн эле катаал чара көрө албайт. Анын ордуна, белгисиздик түздөн-түз архитектурада курулган: **Адамдын кароосу талап кылынат**.
 
-### 9. Ð§ÐµÑ‡Ð¸Ð¼ ÐºÐ°Ð±Ñ‹Ð» Ð°Ð»ÑƒÑƒÐ½ÑƒÐ½ Ñ‚Ó©Ñ€Ñ‚ Ð±Ð°Ð³Ñ‹Ñ‚Ñ‹
-- ðŸŸ¢ **Ð–ÐÐ¨Ð«Ð›**: ÐšÓ©Ð±Ò¯Ð½Ñ‡Ó© Ñ‹Ð»Ð°Ð¹Ñ‹ÐºÑ‚ÑƒÑƒ. â†’ ÑÑ‡ ÐºÐ°Ð½Ð´Ð°Ð¹ Ð°Ñ€Ð°ÐºÐµÑ‚ Ð¶Ð¾Ðº.
-- ðŸŸ¡ **Ð¡ÐÐ Ð«**: ÐœÒ¯Ð¼ÐºÒ¯Ð½ Ð±ÑƒÐ·ÑƒÑƒ. â†’ ÐºÐµÑ€ÐµÐº Ð±Ð¾Ð»ÑÐ¾ Ð±Ð°Ð¹ÐºÐ°Ò£Ñ‹Ð· / Ð±ÐµÐ»Ð³Ð¸Ð»ÐµÒ£Ð¸Ð·.
-- ðŸŸ  **ÐšÐ«Ð—Ð«Ð“Ð«ÐÐ§Ð«**: Ð«ÐºÑ‚Ñ‹Ð¼Ð°Ð» Ð±ÑƒÐ·ÑƒÑƒ. â†’ ÐœÐ¾Ð´ÐµÑ€Ð°Ñ†Ð¸ÑÐ½Ñ‹ Ñ‚ÐµÐºÑˆÐµÑ€Ò¯Ò¯.
-- ðŸ”´ **ÐšÐ«Ð—Ð«Ð›**: Ð¾Ð»ÑƒÑ‚Ñ‚ÑƒÑƒ Ð±ÑƒÐ·ÑƒÑƒ Ð±Ð¾Ð»ÑƒÑˆÑƒ Ð¼Ò¯Ð¼ÐºÒ¯Ð½. â†’ Ñ‚Ð¾ÐºÑ‚Ð¾Ð¾ÑÑƒÐ· ÐºÐ¾Ñ€Ð³Ð¾Ð½ÑƒÑƒ Ñ‡Ð°Ñ€Ð°ÑÑ‹ + Ð°Ð´Ð°Ð¼ ÑÑ‹Ð½Ð¾Ð¾.
+### 9. Чечим кабыл алуунун төрт багыты
+- 🟢 **ЖАШЫЛ**: Көбүнчө ылайыктуу. → эч кандай аракет жок.
+- 🟡 **САРЫ**: Мүмкүн бузуу. → керек болсо байкаңыз / белгилеңиз.
+- 🟠 **КЫЗЫГЫНЧЫ**: Ыктымал бузуу. → Модерацияны текшерүү.
+- 🔴 **КЫЗЫЛ**: олуттуу бузуу болушу мүмкүн. → токтоосуз коргонуу чарасы + адам сыноо.
 
-### 10. "AI Ð¶Ð°Ð·Ð°ÑÑ‹" Ð¶Ð¾Ðº
-**AI Ð°ÐºÑ‹Ñ€ÐºÑ‹ ÑÐ°Ð½ÐºÑ†Ð¸ÑÐ»Ð°Ñ€Ð´Ñ‹ ÐºÐ¸Ñ€Ð³Ð¸Ð·Ð±ÐµÐ¹Ñ‚.** ÐšÐ¾Ð¾Ð¿ÑÑƒÐ·Ð´ÑƒÐºÐºÐ° Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹ÑˆÑ‚ÑƒÑƒ Ð¾Ð»ÑƒÑ‚Ñ‚ÑƒÑƒ ÐºÐ¾Ð¾Ð¿Ñ‚Ð¾Ð½ÑƒÑƒÐ»Ð°Ñ€ Ð±Ð¾Ð»Ð³Ð¾Ð½ ÑƒÑ‡ÑƒÑ€Ð´Ð° Ð°Ð» ÑˆÐ°ÑˆÑ‹Ð»Ñ‹Ñˆ Ñ‚ÐµÑ…Ð½Ð¸ÐºÐ°Ð»Ñ‹Ðº Ñ‡Ð°Ñ€Ð°Ð»Ð°Ñ€Ð´Ñ‹ (Ð¼Ð¸ÑÐ°Ð»Ñ‹, Ð±Ð¸Ð»Ð´Ð¸Ñ€Ò¯Ò¯Ð½Ò¯ Ñ‚Ð¾ÐºÑ‚Ð¾Ñ‚ÑƒÐ¿ ÐºÐ¾ÑŽÑƒ) Ð¸ÑˆÐºÐµ Ð°ÑˆÑ‹Ñ€Ñ‹ÑˆÑ‹ Ð¼Ò¯Ð¼ÐºÒ¯Ð½, Ð±Ð¸Ñ€Ð¾Ðº Ð°ÐºÑ‹Ñ€ÐºÑ‹ Ñ‡ÐµÑ‡Ð¸Ð¼ Ñ‚ÐµÐºÑˆÐµÑ€Ð¸Ð»ÐµÑ‚.
+### 10. "AI жазасы" жок
+**AI акыркы санкцияларды киргизбейт.** Коопсуздукка байланыштуу олуттуу кооптонуулар болгон учурда ал шашылыш техникалык чараларды (мисалы, билдирүүнү токтотуп коюу) ишке ашырышы мүмкүн, бирок акыркы чечим текшерилет.
 
-### 11. ÐšÐ¾Ñ€Ð³Ð¾Ð¾ Ñ‡Ð°Ñ€Ð°Ð»Ð°Ñ€Ñ‹ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ñ‚Ñ‹Ðº Ñ‚Ò¯Ñ€Ð´Ó© Ð±Ð¾Ð»ÑƒÑˆÑƒ Ð¼Ò¯Ð¼ÐºÒ¯Ð½
-Ð­Ð³ÐµÑ€ Ð±ÐµÐ»Ð³Ð¸Ð»Ò¯Ò¯ Ð±Ð¸Ñ€ ÐºÐ¾Ñ€ÐºÑƒÐ½ÑƒÑ‡ Ð±Ð¾Ð»ÑÐ¾ (ÐšÐ¾Ñ€ÐºÑƒÐ½ÑƒÑ‡ Ð°Ð½Ñ‹ÐºÑ‚Ð°Ð»Ð´Ñ‹ â†’ Ð–Ð¾Ð³Ð¾Ñ€ÐºÑƒ Ð¸ÑˆÐµÐ½Ð¸Ð¼ â†’ Ð£Ð±Ð°ÐºÑ‚Ñ‹Ð»ÑƒÑƒ Ñ‡ÐµÐºÑ‚Ó©Ó© â†’ ÐÐ´Ð°Ð¼Ð´Ñ‹Ð½ ÐºÐ°Ñ€Ð¾Ð¾ÑÑƒ â†’ Ð§ÐµÑ‡Ð¸Ð¼), Ð±Ð¸Ð· AIÐ½Ñ‹ ÑÐ¾Ñ‚ ÐºÑ‹Ð»Ð±Ð°ÑÑ‚Ð°Ð½ ÐºÐ¾Ñ€ÐºÑƒÑ‚ÐºÐ°Ð½ ÐºÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÑ‡ÑƒÐ½Ñƒ ÐºÐ¾Ñ€Ð³Ð¾Ð¹Ð±ÑƒÐ·.
+### 11. Коргоо чаралары автоматтык түрдө болушу мүмкүн
+Эгер белгилүү бир коркунуч болсо (Коркунуч аныкталды → Жогорку ишеним → Убактылуу чектөө → Адамдын кароосу → Чечим), биз AIны сот кылбастан коркуткан колдонуучуну коргойбуз.
 
-### 12. AI Ó©Ð·Ò¯Ð½Ò¯Ð½ Ñ‡ÐµÑ‡Ð¸Ð¼Ð¸Ð½ Ð°ÐºÑ‚Ð°Ð¹ Ð°Ð»Ñ‹ÑˆÑ‹ ÐºÐµÑ€ÐµÐº
-DSA Ñ‚Ð°Ðº Ð¶Ð°Ð½Ð° ÐºÐ¾Ð½ÐºÑ€ÐµÑ‚Ñ‚Ò¯Ò¯ ÑÐµÐ±ÐµÐ¿Ñ‚ÐµÑ€Ð´Ð¸ Ñ‚Ð°Ð»Ð°Ð¿ ÐºÑ‹Ð»Ð°Ñ‚. AI ÑÑ‚Ñ€ÑƒÐºÑ‚ÑƒÑ€Ð°Ð»Ð°Ð½Ð³Ð°Ð½ Ð¶Ð¾Ð» Ð¼ÐµÐ½ÐµÐ½ ÑÐµÐ±ÐµÐ¿Ñ‚ÐµÑ€Ð¸: ÑÑ€ÐµÐ¶Ðµ (NG-CONDUCT-004), Ð°Ð½Ñ‹ÐºÑ‚Ð°Ð»Ð³Ð°Ð½ (Ð¿Ð¾Ñ‚ÐµÐ½Ñ†Ð¸Ð°Ð»Ð´ÑƒÑƒ ÐºÐ¾Ð½ÐºÑ€ÐµÑ‚Ñ‚Ò¯Ò¯ ÐºÐ¾Ñ€ÐºÑƒÐ½ÑƒÑ‡), Ð¸ÑˆÐµÐ½Ð¸Ð¼ (0,94), Ñ‚Ð¸ÐµÑˆÐµÐ»Ò¯Ò¯ ÐºÐ¾Ð½Ñ‚ÐµÐºÑÑ‚ (ÐœÑƒÑ€ÑƒÐ½ÐºÑƒ 4 Ð±Ð¸Ð»Ð´Ð¸Ñ€Ò¯Ò¯), ÑÑƒÐ½ÑƒÑˆ ÐºÑ‹Ð»Ñ‹Ð½Ð³Ð°Ð½ Ð¸Ñˆ-Ð°Ñ€Ð°ÐºÐµÑ‚ (ÐÐ´Ð°Ð¼Ð´Ñ‹Ð½ ÐºÐ°Ñ€Ð¾Ð¾ÑÑƒ).
+### 12. AI өзүнүн чечимин актай алышы керек
+DSA так жана конкреттүү себептерди талап кылат. AI структураланган жол менен себептери: эреже (NG-CONDUCT-004), аныкталган (потенциалдуу конкреттүү коркунуч), ишеним (0,94), тиешелүү контекст (Мурунку 4 билдирүү), сунуш кылынган иш-аракет (Адамдын кароосу).
 
-### 13. AI Ð¼Ð°Ð·Ð¼ÑƒÐ½Ð´Ñƒ Ð¶Ð°ÑˆÑ‹Ñ€ÑƒÑƒÐ½ Ó©Ð·Ð³Ó©Ñ€Ñ‚Ò¯Ò¯Ð³Ó© Ð¶Ð¾Ð» Ð±ÐµÑ€Ð¸Ð»Ð±ÐµÐ¹Ñ‚
-**ÐœÐ¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ AI ÑÑ‡ ÐºÐ°Ñ‡Ð°Ð½ Ñ‚Ò¯Ð¿Ð½ÑƒÑÐºÐ° Ð¼Ð°Ð·Ð¼ÑƒÐ½Ð´Ñƒ Ð±Ð°Ð¹ÐºÐ°Ð»Ð±Ð°ÑÑ‚Ð°Ð½ Ó©Ð·Ð³Ó©Ñ€Ñ‚Ð¿Ó©ÑˆÒ¯ ÐºÐµÑ€ÐµÐº.** ÐÐ²Ñ‚Ð¾Ð¼Ð°Ñ‚Ñ‚Ñ‹Ðº Ð¾Ò£Ð´Ð¾Ð¾Ð»Ð¾Ñ€, ÐºÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾Ð»Ð¾Ñ€ Ð¶Ðµ Ð¶Ñ‹Ð¹Ñ‹Ð½Ñ‚Ñ‹ÐºÑ‚Ð°Ñ€ Ð±Ð°ÑˆÑ‚Ð°Ð¿ÐºÑ‹ Ð¼Ð°Ð·Ð¼ÑƒÐ½Ð´Ñƒ ÑÐ°ÐºÑ‚Ð°Ð¿ ÐºÐ°Ð»Ð°Ñ‚.
+### 13. AI мазмунду жашыруун өзгөртүүгө жол берилбейт
+**Модерация AI эч качан түпнуска мазмунду байкалбастан өзгөртпөшү керек.** Автоматтык оңдоолор, котормолор же жыйынтыктар баштапкы мазмунду сактап калат.
 
-### 14. AI Ð¶Ð°Ñ€Ð°Ñ‚ÐºÐ°Ð½ Ð¼Ð°Ð·Ð¼ÑƒÐ½
-Ð‘Ð¸Ð· Ð°Ð¹Ñ‹Ñ€Ð¼Ð°Ð»Ð°Ð¹Ð±Ñ‹Ð·: Ð°Ð´Ð°Ð¼ Ð¶Ð°Ñ€Ð°Ñ‚ÐºÐ°Ð½, AI Ð¶Ð°Ñ€Ð´Ð°Ð¼ Ð±ÐµÑ€Ð³ÐµÐ½, AI Ð¶Ð°Ñ€Ð°Ñ‚ÐºÐ°Ð½ Ð¶Ð°Ð½Ð° AI Ð±Ð°ÑˆÐºÐ°Ñ€Ð³Ð°Ð½. Ð‘ÑƒÐ» Ð¼Ð°Ð·Ð¼ÑƒÐ½Ð´ÑƒÐ½ Ð¼ÐµÑ‚Ð°Ð´Ð°Ð¹Ñ‹Ð½Ð´Ð°Ñ€Ñ‹Ð½Ñ‹Ð½ Ð±Ð¸Ñ€ Ð±Ó©Ð»Ò¯Ð³Ò¯ Ð±Ð¾Ð»ÑƒÐ¿ ÐºÐ°Ð»Ð°Ñ‚.
+### 14. AI жараткан мазмун
+Биз айырмалайбыз: адам жараткан, AI жардам берген, AI жараткан жана AI башкарган. Бул мазмундун метадайындарынын бир бөлүгү болуп калат.
 
-### 15. AI ÐœÐ°Ð·Ð¼ÑƒÐ½ÑƒÐ½ ÑÐ½Ð±ÐµÐ»Ð³Ð¸ÑÐ¸ Ð¶Ð°Ð½Ð° AI ÐŸÑ€Ð¾Ð²Ð°Ð½Ñ ÐºÐ°Ñ‚Ð¼Ð°Ñ€Ñ‹
-Ð•Ð²Ñ€Ð¾Ð±Ð¸Ñ€Ð¸Ð¼Ð´Ð¸ÐºÑ‚Ð¸Ð½ AI ÐÐºÑ‚Ñ‹Ð½Ñ‹Ð½ Ð°Ñ‡Ñ‹ÐºÑ‚Ñ‹Ðº ÑÑ€ÐµÐ¶ÐµÐ»ÐµÑ€Ð¸Ð½Ðµ Ñ‹Ð»Ð°Ð¹Ñ‹Ðº (2026-Ð¶Ñ‹Ð»Ð´Ñ‹Ð½ Ð°Ð²Ð³ÑƒÑÑ‚ÑƒÐ½Ð°Ð½ Ð±ÐµÑ€Ð¸) AI Ñ‚Ð°Ñ€Ð°Ð±Ñ‹Ð½Ð°Ð½ Ñ‚Ò¯Ð·Ò¯Ð»Ð³Ó©Ð½ Ð¼Ð°Ð·Ð¼ÑƒÐ½ Ñ‚Ð°Ð°Ð½Ñ‹Ð¼Ð°Ð» Ð±Ð¾Ð»ÑƒÑˆÑƒ ÐºÐµÑ€ÐµÐº. Ð‘Ð¸Ð· Ð¼ÐµÑ‚Ð°Ð±ÐµÑ€Ð¸Ð»Ð¸ÑˆÑ‚ÐµÑ€Ð´Ð¸ (AI ÐºÐµÐ»Ð¸Ð¿ Ñ‡Ñ‹Ð³Ñ‹ÑˆÑ‹, Ð¼Ð¾Ð´ÐµÐ»Ð¸, ÑƒÐ±Ð°ÐºÑ‹Ñ‚ Ð±ÐµÐ»Ð³Ð¸ÑÐ¸, Ð°Ð´Ð°Ð¼Ð´Ñ‹Ð½ ÐºÐ°Ñ€Ð¾Ð¾ÑÑƒ) ÑÐ°ÐºÑ‚Ð°Ð³Ð°Ð½ AI ÐŸÑ€Ð¾Ð²Ð°Ð½Ñ ÐºÐ°Ñ‚Ð¼Ð°Ñ€Ñ‹Ð½ ÐºÐ°Ñ€Ð°ÑˆÑ‚Ñ‹Ñ€Ð°Ð±Ñ‹Ð·.
+### 15. AI Мазмунун энбелгиси жана AI Прованс катмары
+Евробиримдиктин AI Актынын ачыктык эрежелерине ылайык (2026-жылдын августунан бери) AI тарабынан түзүлгөн мазмун таанымал болушу керек. Биз метаберилиштерди (AI келип чыгышы, модели, убакыт белгиси, адамдын кароосу) сактаган AI Прованс катмарын караштырабыз.
 
-### 16. Deepfake Ð°Ð½Ñ‹ÐºÑ‚Ð¾Ð¾
-ÐÑ€Ñ…Ð¸Ñ‚ÐµÐºÑ‚ÑƒÑ€Ð° ÑÐ¸Ð½Ñ‚ÐµÑ‚Ð¸ÐºÐ°Ð»Ñ‹Ðº ÑÒ¯Ñ€Ó©Ñ‚Ñ‚Ó©Ñ€Ð´Ò¯, Ð´ÐµÐ¼Ð´ÐµÐ»Ð³ÐµÐ½ Ò¯Ð½Ð´Ó©Ñ€Ð´Ò¯ Ð¶Ð°Ð½Ð° Ñ‚ÐµÑ€ÐµÒ£ Ñ„ÐµÐ¹ÐºÑ‚ÐµÑ€Ð´Ð¸ Ð°Ð½Ñ‹ÐºÑ‚Ð¾Ð¾Ð³Ð¾ Ð°Ñ€Ð½Ð°Ð»Ð³Ð°Ð½. Ð‘Ð¸Ñ€Ð¾Ðº Ñ‚Ð°Ð°Ð½ÑƒÑƒ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ñ‚Ñ‹Ðº Ñ‚Ò¯Ñ€Ð´Ó© Ð´Ð°Ð»Ð¸Ð» Ð±Ð¾Ð»Ð¾ Ð°Ð»Ð±Ð°Ð¹Ñ‚.
+### 16. Deepfake аныктоо
+Архитектура синтетикалык сүрөттөрдү, демделген үндөрдү жана терең фейктерди аныктоого арналган. Бирок таануу автоматтык түрдө далил боло албайт.
 
-### 17. ÐÐ²Ñ‚Ð¾Ð¼Ð°Ñ‚Ñ‚Ñ‹Ðº "Ñ‡Ñ‹Ð½Ð´Ñ‹Ðº Ð¼Ð°ÑˆÐ¸Ð½Ð°ÑÑ‹" Ð¶Ð¾Ðº (Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ â‰  Ñ„Ð°ÐºÑ‚ Ñ‚ÐµÐºÑˆÐµÑ€Ò¯Ò¯)
-Ð¡Ð¸ÑÑ‚ÐµÐ¼Ð° Ñ‚ÐµÐºÑˆÐµÑ€ÐµÑ‚: "ÐœÐ°Ð·Ð¼ÑƒÐ½ ÐºÐ°Ð½Ð´Ð°Ð¹Ð´Ñ‹Ñ€ Ð±Ð¸Ñ€ ÑÑ€ÐµÐ¶ÐµÐ»ÐµÑ€Ð´Ð¸ Ð±ÑƒÐ·ÑƒÐ¿ Ð¶Ð°Ñ‚Ð°Ð±Ñ‹?" (Content Moderation), Ð±Ð°ÑˆÐºÐ°ÑÑ‹: "ÐšÐ°Ð½Ð´Ð°Ð¹ Ð¼Ð°Ð°Ð»Ñ‹Ð¼Ð°Ñ‚ Ð¶Ð°Ð½Ð° Ð±ÑƒÐ»Ð°ÐºÑ‚Ð°Ñ€ â€‹â€‹Ð±Ð°Ñ€?" (ÐœÐ°Ð°Ð»Ñ‹Ð¼Ð°Ñ‚Ñ‚Ñ‹Ðº Ð¶Ð°Ñ€Ð´Ð°Ð¼). ÐŸÐ¸ÐºÐ¸Ñ€Ð»ÐµÑ€ Ð¶Ó©Ð½ ÑÐ»Ðµ "Ñ‚ÑƒÑƒÑ€Ð° ÑÐ¼ÐµÑ" Ð´ÐµÐ¿ Ó©Ñ‡Ò¯Ñ€Ò¯Ð»Ð±Ó©Ð¹Ñ‚.
+### 17. Автоматтык "чындык машинасы" жок (модерация ≠ факт текшерүү)
+Система текшерет: "Мазмун кандайдыр бир эрежелерди бузуп жатабы?" (Content Moderation), башкасы: "Кандай маалымат жана булактар ​​бар?" (Маалыматтык жардам). Пикирлер жөн эле "туура эмес" деп өчүрүлбөйт.
 
-### 18. ÐœÐ°Ð´Ð°Ð½Ð¸Ð¹ Ñ‚ÑƒÑƒÑ€Ð° ÑÐ¼ÐµÑ Ñ‡ÐµÑ‡Ð¼ÐµÐ»Ó©Ó©Ð´Ó©Ð½ ÐºÐ¾Ñ€Ð³Ð¾Ð¾
-AI Ð±Ð¸Ñ€ Ó©Ð»ÐºÓ©Ð½Ò¯Ð½ Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹Ñˆ Ð½Ð¾Ñ€Ð¼Ð°ÑÑ‹Ð½Ñ‹Ð½ Ð´Ò¯Ð¹Ð½Ó©Ð»Ò¯Ðº ÑÑ‚Ð°Ð½Ð´Ð°Ñ€Ñ‚ ÐºÐ°Ñ‚Ð°Ñ€Ñ‹ ÐºÐ°Ð±Ñ‹Ð» Ð°Ð»Ñ‹Ð½Ñ‹ÑˆÑ‹Ð½Ð° Ð¶Ð¾Ð» Ð±ÐµÑ€Ð±Ó©Ó© Ò¯Ñ‡Ò¯Ð½ **ÐœÐ°Ð´Ð°Ð½Ð¸Ð¹ ÐºÐ¾Ð½Ñ‚ÐµÐºÑÑ‚Ñ‚Ð¸Ðº Ð¼Ð¾Ð´ÐµÐ»Ð´ÐµÑ€Ð´Ð¸** Ñ‚Ð°Ð»Ð°Ð¿ ÐºÑ‹Ð»Ð°Ñ‚.
+### 18. Маданий туура эмес чечмелөөдөн коргоо
+AI бир өлкөнүн байланыш нормасынын дүйнөлүк стандарт катары кабыл алынышына жол бербөө үчүн **Маданий контексттик моделдерди** талап кылат.
 
-### 19. Ð˜Ñ€Ð¾Ð½Ð¸Ñ, ÑÐ°Ñ‚Ð¸Ñ€Ð° Ð¶Ð°Ð½Ð° ÑŽÐ¼Ð¾Ñ€
-AI ÐºÐ¾Ð½Ñ‚ÐµÐºÑÑ‚Ñ‚Ð¸, ÑÐ¼Ð¾Ð´Ð·Ð¸Ð»ÐµÑ€Ð´Ð¸, Ð±Ð°Ð°Ñ€Ð»Ð°ÑˆÑƒÑƒ Ð°Ð³Ñ‹Ð¼Ð´Ð°Ñ€Ñ‹Ð½ Ð¶Ð°Ð½Ð° Ð±ÐµÐ»Ð³Ð¸Ð»Ò¯Ò¯ Ð¸Ñ€Ð¾Ð½Ð¸ÑÐ»Ñ‹Ðº ÑÑ‚Ñ€ÑƒÐºÑ‚ÑƒÑ€Ð°Ð»Ð°Ñ€Ð´Ñ‹ ÐºÐ¾Ð»Ð´Ð¾Ð½Ð¾Ñ‚, Ð±Ð¸Ñ€Ð¾Ðº Ð¼Ð°Ð°Ð½Ð¸ÑÐ¸ Ñ‚Ò¯ÑˆÒ¯Ð½Ò¯ÐºÑÒ¯Ð· Ð±Ð¾Ð»Ð³Ð¾Ð½Ð´Ð¾ Ð±ÐµÐ»Ð³Ð¸ÑÐ¸Ð·Ð´Ð¸ÐºÐºÐµ Ð¶Ð¾Ð» Ð±ÐµÑ€Ð¸ÑˆÐ¸ ÐºÐµÑ€ÐµÐº.
+### 19. Ирония, сатира жана юмор
+AI контекстти, эмодзилерди, баарлашуу агымдарын жана белгилүү ирониялык структураларды колдонот, бирок мааниси түшүнүксүз болгондо белгисиздикке жол бериши керек.
 
-### 20. Ð–Ð°Ð»Ð³Ñ‹Ð· AI ÑƒÐ¿Ð°Ð¹Ñ‹Ð½Ñ‹Ð½ Ð½ÐµÐ³Ð¸Ð·Ð¸Ð½Ð´Ðµ Ð¶Ð°Ð·Ð° Ð¶Ð¾Ðº
-Ð­Ñ‡ ÐºÐ°Ð½Ð´Ð°Ð¹ Ð¾Ð»ÑƒÑ‚Ñ‚ÑƒÑƒ Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ ÐºÐ¸Ð¹Ð»Ð¸Ð³Ð¸ÑˆÒ¯Ò¯ÑÒ¯ Ð±Ð¸Ñ€ Ð³Ð°Ð½Ð° Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ñ‚Ð°ÑˆÑ‚Ñ‹Ñ€Ñ‹Ð»Ð³Ð°Ð½ ÐºÐ»Ð°ÑÑÐ¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ñ Ð¶Ñ‹Ð¹Ñ‹Ð½Ñ‚Ñ‹Ð³Ñ‹Ð½Ð° Ð½ÐµÐ³Ð¸Ð·Ð´ÐµÐ»Ð¸ÑˆÐ¸ Ð¼Ò¯Ð¼ÐºÒ¯Ð½ ÑÐ¼ÐµÑ (Ð¢ÐµÐºÑÑ‚ + ÐšÐ¾Ð½Ñ‚ÐµÐºÑÑ‚ + Ð–Ò¯Ñ€Ò¯Ð¼-Ñ‚ÑƒÑ€ÑƒÐ¼ + Ð¢Ð¸Ð» + ÐœÐµÐ´Ð¸Ð° + Ð­Ñ€ÐµÐ¶Ðµ Ð¼ÐµÑ…Ð°Ð½Ð¸Ð·Ð¼Ð¸ = Ð¢Ð¾Ð±Ð¾ÐºÐµÐ»Ð´Ð¸ÐºÑ‚ÐµÑ€Ð´Ð¸ Ð±Ð°Ð°Ð»Ð¾Ð¾).
+### 20. Жалгыз AI упайынын негизинде жаза жок
+Эч кандай олуттуу модерация кийлигишүүсү бир гана автоматташтырылган классификация жыйынтыгына негизделиши мүмкүн эмес (Текст + Контекст + Жүрүм-турум + Тил + Медиа + Эреже механизми = Тобокелдиктерди баалоо).
 
-### 21. ÐšÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÑ‡ÑƒÐ½ÑƒÐ½ Ð¶Ò¯Ñ€Ò¯Ð¼-Ñ‚ÑƒÑ€ÑƒÐ¼ÑƒÐ½ÑƒÐ½ ÑÐ¸Ð³Ð½Ð°Ð»Ð´Ð°Ñ€Ñ‹ & Ð¡Ð¾Ñ†Ð¸Ð°Ð»Ð´Ñ‹Ðº ÐºÑ€ÐµÐ´Ð¸Ñ‚ ÑÐ¸ÑÑ‚ÐµÐ¼Ð°ÑÑ‹ Ð¶Ð¾Ðº
-Ð‘ÑƒÐ» Ð¶Ð°Ð»Ð¿Ñ‹ ÑÐ¾Ñ†Ð¸Ð°Ð»Ð´Ñ‹Ðº Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³ ÑÐ¸ÑÑ‚ÐµÐ¼Ð°ÑÑ‹ ÑÐ¼ÐµÑ, Ñ‚ÐµÑ…Ð½Ð¸ÐºÐ°Ð»Ñ‹Ðº ÐºÑ‹ÑÐ½Ð°Ñ‚Ñ‚Ñ‹Ðº ÑÐ¸Ð³Ð½Ð°Ð»Ð´Ð°Ñ€Ñ‹ (Ð¼Ð¸ÑÐ°Ð»Ñ‹, ÑÐ¿Ð°Ð¼ Ð¼Ð°ÑÑÐ°Ð»Ñ‹Ðº Ñ‚Ò¯Ñ€Ð´Ó© Ð¶Ð°Ñ€Ñ‹ÑÐ»Ð¾Ð¾) Ð¶Ó©Ð½Ò¯Ð½Ð´Ó©. Nexus Gaja ÑÐ¾Ñ†Ð¸Ð°Ð»Ð´Ñ‹Ðº ÐºÑ€ÐµÐ´Ð¸Ñ‚Ñ‚Ð¸Ðº ÑÐ¸ÑÑ‚ÐµÐ¼Ð°Ð½Ñ‹ Ð¸ÑˆÑ‚ÐµÑ‚Ð¿ÐµÐ¹Ñ‚ - Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ ÐºÐ¾Ð¾Ð¿ÑÑƒÐ·Ð´ÑƒÐº Ò¯Ñ‡Ò¯Ð½ Ð¶Ð°Ð½Ð° Ð°Ð´Ð°Ð¼Ð´Ñ‹Ð½ Ð±Ð°Ð°Ð»ÑƒÑƒÐ»ÑƒÐ³ÑƒÐ½ Ð±Ð°Ð°Ð»Ð¾Ð¾ Ò¯Ñ‡Ò¯Ð½ ÑÐ¼ÐµÑ.
+### 21. Колдонуучунун жүрүм-турумунун сигналдары & Социалдык кредит системасы жок
+Бул жалпы социалдык рейтинг системасы эмес, техникалык кыянаттык сигналдары (мисалы, спам массалык түрдө жарыялоо) жөнүндө. Nexus Gaja социалдык кредиттик системаны иштетпейт - модерация коопсуздук үчүн жана адамдын баалуулугун баалоо үчүн эмес.
 
-### 22. ÐœÐ¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ AI Ð°ÑƒÐ´Ð¸Ñ‚Ð¾Ñ€Ð´ÑƒÐº Ð±Ð¾Ð»ÑƒÑˆÑƒ ÐºÐµÑ€ÐµÐº
-Ð‘Ð°Ð°Ñ€Ð´Ñ‹Ðº Ñ‚Ð¸ÐµÑˆÐµÐ»Ò¯Ò¯ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ñ‚Ð°ÑˆÑ‚Ñ‹Ñ€Ñ‹Ð»Ð³Ð°Ð½ Ñ‡ÐµÑ‡Ð¸Ð¼Ð´ÐµÑ€ (Ð¾ÐºÑƒÑÐ½Ñ‹Ð½ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ñƒ, ÑÑ€ÐµÐ¶Ðµ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ñƒ, Ð¸ÑˆÐµÐ½Ð¸Ð¼Ð´Ò¯Ò¯Ð»Ò¯Ðº, Ð°Ð´Ð°Ð¼Ð´Ð°Ñ€Ð´Ñ‹Ð½ ÐºÐ°Ñ€Ð¾Ð¾ÑÑƒ Ð¶.Ð±.) Ð±Ð°Ð¹ÐºÐ¾Ð¾ Ð¶Ò¯Ñ€Ð³Ò¯Ð·Ò¯Ò¯ Ò¯Ñ‡Ò¯Ð½ ÐºÐ°Ñ‚Ñ‚Ð°Ð»Ð°Ñ‚.
+### 22. Модерация AI аудитордук болушу керек
+Баардык тиешелүү автоматташтырылган чечимдер (окуянын идентификатору, эреже идентификатору, ишенимдүүлүк, адамдардын кароосу ж.б.) байкоо жүргүзүү үчүн катталат.
 
 ### 23. False Positives, False Negatives & Quality Metrics
-ÐšÐ°Ñ‚Ð° Ñ‚Ò¯Ñ€Ð»Ó©Ñ€Ò¯ ÐºÓ©Ð·Ó©Ð¼Ó©Ð»Ð´Ó©Ð½Ó©Ñ‚. ÐšÑƒÑ€Ð°Ð»Ð´Ð°Ñ€ Ñ‚Ð°ÐºÑ‚Ð°ÑÑ‹ Ñ‚Ð°ÐºÑ‚Ñ‹ÐºÑ‚Ñ‹, ÐºÐ°Ð¹Ñ€Ð° Ñ‡Ð°ÐºÑ‹Ñ€ÑƒÑƒÐ½Ñƒ Ð¶Ð°Ð½Ð° Ó©Ð·Ð³Ó©Ñ‡Ó© **ÐÐ¿ÐµÐ»Ð»ÑÑ†Ð¸ÑÐ½Ñ‹ ÐºÐ°Ð¹Ñ‚Ð°Ñ€ÑƒÑƒ ÐºÑƒÑ€ÑÑƒÐ½** Ó©Ð»Ñ‡Ó©Ð¹Ñ‚ (Ð¸Ð¹Ð³Ð¸Ð»Ð¸ÐºÑ‚Ò¯Ò¯ ÐºÐ°Ð¹Ñ€Ñ‹Ð»ÑƒÑƒÐ»Ð°Ñ€Ð´Ñ‹Ð½ ÑÐ°Ð½Ñ‹). 
+Ката түрлөрү көзөмөлдөнөт. Куралдар тактасы тактыкты, кайра чакырууну жана өзгөчө **Апелляцияны кайтаруу курсун** өлчөйт (ийгиликтүү кайрылуулардын саны). 
 
-### 24. Ð¢Ð¸Ð»Ð´Ð¸Ð½ ÐºÐ°Ð»Ñ‹ÑÑ‚Ñ‹Ð³Ñ‹ Ð¶Ð°Ð½Ð° ÐºÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾Ð½ÑƒÐ½ Ð±Ð¸Ñ€ Ð¶Ð°ÐºÑ‚ÑƒÑƒÐ»ÑƒÐ³Ñƒ
-ÐœÐ¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ ÑÐ°Ð¿Ð°Ñ‚Ñ‹ Ð±Ð°Ñ€Ð´Ñ‹Ðº ÐºÐ¾Ð»Ð´Ð¾Ð¾Ð³Ð¾ Ð°Ð»Ñ‹Ð½Ð³Ð°Ð½ Ñ‚Ð¸Ð»Ð´ÐµÑ€ Ð¼ÐµÐ½ÐµÐ½ ÑÐ°Ð»Ñ‹ÑˆÑ‚Ñ‹Ñ€Ñ‹Ð»Ñ‹ÑˆÑ‹ ÐºÐµÑ€ÐµÐº (Multilingual Moderation Benchmark). Ð­Ð³ÐµÑ€Ð´Ðµ Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ Ð½Ð°Ñ‚Ñ‹Ð¹Ð¶Ð°Ð»Ð°Ñ€Ñ‹ Ñ‚Ò¯Ð¿Ð½ÑƒÑÐºÐ° Ð¼ÐµÐ½ÐµÐ½ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾Ð½ÑƒÐ½ Ð¾Ñ€Ñ‚Ð¾ÑÑƒÐ½Ð´Ð° Ð°Ð¹Ñ‹Ñ€Ð¼Ð° Ð±Ð¾Ð»ÑÐ¾ (ÐºÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾ ÐºÐ¾Ð½Ñ„Ð»Ð¸ÐºÑ‚Ð¸), Ð±ÑƒÐ» Ó©Ð·Ò¯Ð½Ñ‡Ó© Ñ‚ÐµÐºÑˆÐµÑ€Ð¸Ð»Ð¸ÑˆÐ¸ ÐºÐµÑ€ÐµÐº.
+### 24. Тилдин калыстыгы жана котормонун бир жактуулугу
+Модерация сапаты бардык колдоого алынган тилдер менен салыштырылышы керек (Multilingual Moderation Benchmark). Эгерде модерация натыйжалары түпнуска менен котормонун ортосунда айырма болсо (котормо конфликти), бул өзүнчө текшерилиши керек.
 
 ### 25. Architecture Proposal & Policy Engine
-Ð­Ñ€ÐµÐ¶ÐµÐ»ÐµÑ€ (ÑÐ°ÑÑÐ°Ñ‚ ÐºÑ‹Ð¹Ð¼Ñ‹Ð»Ð´Ð°Ñ‚ÐºÑ‹Ñ‡Ñ‹) AI Ð¼Ð¾Ð´ÐµÐ»Ð´ÐµÑ€Ð¸Ð½Ðµ ÐºÐ°Ñ‚ÑƒÑƒ ÐºÐ¾Ð´Ð´Ð¾Ð»Ð³Ð¾Ð½ ÑÐ¼ÐµÑ. AI Ñ‚Ò¯ÑˆÒ¯Ð½Ò¯ÐºÑ‚Ó©Ñ€Ð´Ò¯ Ð±ÐµÑ€ÐµÑ‚, ÑÐ°ÑÑÐ°Ñ‚ ÐºÑ‹Ð¹Ð¼Ñ‹Ð»Ð´Ð°Ñ‚ÐºÑ‹Ñ‡Ñ‹ ÑƒÑ‡ÑƒÑ€Ð´Ð°Ð³Ñ‹ ÑÑ€ÐµÐ¶ÐµÐ»ÐµÑ€Ð´Ð¸Ð½ Ð½ÐµÐ³Ð¸Ð·Ð¸Ð½Ð´Ðµ Ñ‡ÐµÑ‡Ð¸Ð¼Ð´ÐµÑ€Ð´Ð¸ ÐºÐ°Ð±Ñ‹Ð» Ð°Ð»Ð°Ñ‚. Ð‘ÑƒÐ» **ÑÑ€ÐµÐ¶ÐµÐ»ÐµÑ€Ð´Ð¸ Ó©Ð·Ð³Ó©Ñ€Ñ‚Ð¿Ó©ÑÑ‚Ó©Ð½ Ð¼Ð¾Ð´ÐµÐ»Ð´Ð¸ Ó©Ð·Ð³Ó©Ñ€Ñ‚Ò¯Ò¯Ð³Ó©** Ð¼Ò¯Ð¼ÐºÒ¯Ð½Ð´Ò¯Ðº Ð±ÐµÑ€ÐµÑ‚.
+Эрежелер (саясат кыймылдаткычы) AI моделдерине катуу коддолгон эмес. AI түшүнүктөрдү берет, саясат кыймылдаткычы учурдагы эрежелердин негизинде чечимдерди кабыл алат. Бул **эрежелерди өзгөртпөстөн моделди өзгөртүүгө** мүмкүндүк берет.
 
-### 26. Ð­Ð» Ð°ÐºÑ‹Ñ€ÐºÑ‹ Ð±Ð¸Ð¹Ð»Ð¸Ðº Ð±Ð¾Ð¹Ð´Ð¾Ð½ ÐºÐ°Ð»ÑƒÑƒÐ´Ð°
-- **NG-AI-MOD-001**: AI Ð°Ð½Ñ‹ÐºÑ‚Ð¾Ð¾Ð½Ñƒ Ð¶Ð°Ð½Ð° ÐºÐ»Ð°ÑÑÐ¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸ÑÐ½Ñ‹ ÐºÐ¾Ð»Ð´Ð¾Ð¹Ñ‚, Ð±Ð¸Ñ€Ð¾Ðº Ð¾Ð»ÑƒÑ‚Ñ‚ÑƒÑƒ Ñ‡ÐµÑ‡Ð¸Ð¼Ð´ÐµÑ€Ð´Ð¸ ÐºÐ°Ð±Ñ‹Ð» Ð°Ð»ÑƒÑƒÐ´Ð° Ð°Ð´Ð°Ð¼Ð´Ñ‹Ð½ ÐºÐ°Ñ€Ð¾Ð¾ÑÑƒÐ½ Ð°Ð»Ð¼Ð°ÑˆÑ‚Ñ‹Ñ€Ð±Ð°Ð¹Ñ‚.
-- **NG-AI-MOD-002**: ÐÐ²Ñ‚Ð¾Ð¼Ð°Ñ‚Ñ‚Ð°ÑˆÑ‚Ñ‹Ñ€Ñ‹Ð»Ð³Ð°Ð½ Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ Ñ‡ÐµÑ‡Ð¸Ð¼Ð´ÐµÑ€Ð¸ Ð±Ð°Ð¹ÐºÐ¾Ð¾Ð³Ð¾, Ð¶Ð°Ð·ÑƒÑƒÐ³Ð° Ð¶Ð°Ð½Ð° Ñ‚ÐµÐºÑˆÐµÑ€Ò¯Ò¯Ð³Ó© Ð¼Ò¯Ð¼ÐºÒ¯Ð½ Ð±Ð¾Ð»ÑƒÑˆÑƒ ÐºÐµÑ€ÐµÐº.
+### 26. Эл акыркы бийлик бойдон калууда
+- **NG-AI-MOD-001**: AI аныктоону жана классификацияны колдойт, бирок олуттуу чечимдерди кабыл алууда адамдын кароосун алмаштырбайт.
+- **NG-AI-MOD-002**: Автоматташтырылган модерация чечимдери байкоого, жазууга жана текшерүүгө мүмкүн болушу керек.
 
-**ÐšÑ‹ÑÐºÐ°Ñ‡Ð° Ð¼Ð°Ð°Ð»Ñ‹Ð¼Ð°Ñ‚**: Ð‘Ð¸Ð· Ñ‚Ó©Ñ€Ñ‚ Ð±Ð°ÑÐºÑ‹Ñ‡Ñ‚ÑƒÑƒ ÑÐ¸ÑÑ‚ÐµÐ¼Ð°Ð½Ñ‹ ÐºÑƒÑ€ÑƒÐ¿ Ð¶Ð°Ñ‚Ð°Ð±Ñ‹Ð·: AI Ð°Ð½Ñ‹ÐºÑ‚Ð¾Ð¾, ÐºÐ¾Ð½Ñ‚ÐµÐºÑÑ‚ Ð¶Ð°Ð½Ð° Ñ‚Ð¾Ð±Ð¾ÐºÐµÐ»Ð´Ð¸ÐºÑ‚ÐµÑ€Ð´Ð¸ Ñ‚Ð°Ð»Ð´Ð¾Ð¾, ÑÐ°ÑÑÐ°Ñ‚ ÐºÑ‹Ð¹Ð¼Ñ‹Ð»Ð´Ð°Ñ‚ÐºÑ‹Ñ‡Ñ‹ Ð¶Ð°Ð½Ð° Ð°Ð´Ð°Ð¼Ð´Ñ‹Ðº Ð±Ð°ÑˆÐºÐ°Ñ€ÑƒÑƒ. Ð‘ÑƒÐ» ÐºÐ¾Ñ€ÐºÑƒÐ½ÑƒÑ‡Ñ‚ÑƒÑƒ "Ð¡Ð¾Ñ‚ ÐºÐ°Ñ‚Ð°Ñ€Ñ‹ AI" Ð°Ñ€Ñ…Ð¸Ñ‚ÐµÐºÑ‚ÑƒÑ€Ð°ÑÑ‹Ð½ Ñ‚Ò¯Ð·Ð±Ó©ÑÑ‚Ó©Ð½, ÐºÒ¯Ñ‡Ñ‚Ò¯Ò¯ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ñ‚Ð°ÑˆÑ‚Ñ‹Ñ€ÑƒÑƒÐ³Ð° Ð¼Ò¯Ð¼ÐºÒ¯Ð½Ð´Ò¯Ðº Ð±ÐµÑ€ÐµÑ‚.
+**Кыскача маалымат**: Биз төрт баскычтуу системаны куруп жатабыз: AI аныктоо, контекст жана тобокелдиктерди талдоо, саясат кыймылдаткычы жана адамдык башкаруу. Бул коркунучтуу "Сот катары AI" архитектурасын түзбөстөн, күчтүү автоматташтырууга мүмкүндүк берет.
 
-## ÐšÐ°Ñ€Ð¶Ñ‹Ð»Ð¾Ð¾ Ð¿Ñ€Ð¸Ð½Ñ†Ð¸Ð¿Ñ‚ÐµÑ€Ð¸ Ð¶Ð°Ð½Ð° ÐºÐ¸Ñ€ÐµÑˆÐµ Ð¼Ð¾Ð´ÐµÐ»Ð¸ (WP 1.10.1)
+## Каржылоо принциптери жана киреше модели (WP 1.10.1)
 
 ![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
-Nexus Gaja Ò¯Ñ‡Ò¯Ð½ Ó©Ñ‚Ó© Ð¼Ð°Ð°Ð½Ð¸Ð»Ò¯Ò¯ Ð½ÐµÐ³Ð¸Ð·Ð³Ð¸ ÑÐºÐ¾Ð½Ð¾Ð¼Ð¸ÐºÐ°Ð»Ñ‹Ðº Ð¿Ñ€Ð¸Ð½Ñ†Ð¸Ð¿ ÐºÐ¾Ð»Ð´Ð¾Ð½ÑƒÐ»Ð°Ñ‚: **ÐŸÐ»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð°Ð´Ð° ÐºÐ»Ð°ÑÑÐ¸ÐºÐ°Ð»Ñ‹Ðº Ð¶Ð°Ñ€Ð½Ð°Ð¼Ð° Ð¶Ð¾Ðº.**
-Ð‘ÑƒÐ» Nexus Gaja ÐºÐ¾Ð½Ñ†ÐµÐ¿Ñ‚ÑƒÐ°Ð»Ð´Ñ‹Ðº Ð¶Ð°ÐºÑ‚Ð°Ð½ Ð°Ð·Ñ‹Ñ€ÐºÑ‹ ÐºÓ©Ð¿Ñ‚Ó©Ð³Ó©Ð½ ÑÐ¾Ñ†Ð¸Ð°Ð»Ð´Ñ‹Ðº Ñ‚Ð°Ñ€Ð¼Ð°ÐºÑ‚Ð°Ñ€Ð´Ð°Ð½ Ð°Ð¹Ñ‹Ñ€Ð¼Ð°Ð»Ð°Ð½Ð°Ñ‚. Ð‘Ð¸Ñ€Ð¾Ðº Ð±ÑƒÐ» Ð´ÐµÐ³ÐµÐ½Ð´Ð¸ Ð±Ð¸Ð»Ð´Ð¸Ñ€Ð±ÐµÐ¹Ñ‚: Nexus Gaja ÐºÐ¾Ð¼Ð¼ÐµÑ€Ñ†Ð¸ÑÐ»Ñ‹Ðº Ð¼Ò¯Ð½Ó©Ð·Ð³Ó© ÑÑ Ð±Ð¾Ð»Ð±Ð¾ÑˆÑƒ ÐºÐµÑ€ÐµÐº. Ð¢ÐµÑÐºÐµÑ€Ð¸ÑÐ¸Ð½Ñ‡Ðµ: Ð¿Ð»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð° ÑÐºÐ¾Ð½Ð¾Ð¼Ð¸ÐºÐ°Ð»Ñ‹Ðº Ð¶Ð°ÐºÑ‚Ð°Ð½ Ð¿Ð°Ð¹Ð´Ð°Ð»ÑƒÑƒ Ð±Ð¾Ð»ÑƒÑˆÑƒ ÐºÐµÑ€ÐµÐº, Ð¾ÑˆÐ¾Ð½Ð´ÑƒÐºÑ‚Ð°Ð½ Ð°Ð½Ñ‹Ð½ ÑÐ¾Ñ†Ð¸Ð°Ð»Ð´Ñ‹Ðº Ð¼Ð°ÐºÑÐ°Ñ‚Ñ‹ ÑƒÐ·Ð°Ðº Ð¼Ó©Ó©Ð½Ó©Ñ‚Ñ‚Ò¯Ò¯ ÐºÐµÐ»ÐµÑ‡ÐµÐºÑ‚Ðµ Ð´Ð°Ð³Ñ‹ Ð¶Ð°ÑˆÐ°Ð¹ Ð°Ð»Ð°Ñ‚. Ð”ÐµÐ¼ÐµÐº, ÑÐºÐ¾Ð½Ð¾Ð¼Ð¸ÐºÐ°Ð»Ñ‹Ðº Ð¸ÑˆÐ¼ÐµÑ€Ð´Ò¯Ò¯Ð»Ò¯Ðº Ð¿Ð»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð°Ð½Ñ‹Ð½ Ð¸Ñˆ Ð¶Ò¯Ð·Ò¯Ð½Ð´Ó©Ð³Ò¯ Ð¼Ð°ÐºÑÐ°Ñ‚Ñ‹ ÑÐ¼ÐµÑ, Ð¼Ð°ÐºÑÐ°Ñ‚ÐºÐ° Ð¶ÐµÑ‚Ò¯Ò¯ ÐºÐ°Ñ€Ð°Ð¶Ð°Ñ‚Ñ‹ Ð±Ð¾Ð»ÑƒÐ¿ ÑÐ°Ð½Ð°Ð»Ð°Ñ‚.
+Nexus Gaja үчүн өтө маанилүү негизги экономикалык принцип колдонулат: **Платформада классикалык жарнама жок.**
+Бул Nexus Gaja концептуалдык жактан азыркы көптөгөн социалдык тармактардан айырмаланат. Бирок бул дегенди билдирбейт: Nexus Gaja коммерциялык мүнөзгө ээ болбошу керек. Тескерисинче: платформа экономикалык жактан пайдалуу болушу керек, ошондуктан анын социалдык максаты узак мөөнөттүү келечекте дагы жашай алат. Демек, экономикалык ишмердүүлүк платформанын иш жүзүндөгү максаты эмес, максатка жетүү каражаты болуп саналат.
 
-### 1. NG-FIN-001 Ð¿Ñ€Ð¸Ð½Ñ†Ð¸Ð±Ð¸
-Nexus Gaja Ó©Ð· Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸ÑÐ»Ð°Ñ€Ñ‹Ð½ ÐºÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÑ‡ÑƒÐ»Ð°Ñ€Ð´Ñ‹Ð½ ÐºÓ©Ò£Ò¯Ð»Ò¯Ð½ Ð¶Ðµ Ð¶ÐµÐºÐµ Ð¼Ð°Ð°Ð»Ñ‹Ð¼Ð°Ñ‚Ñ‚Ð°Ñ€Ñ‹Ð½ Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³ Ð°Ñ€ÐºÑ‹Ð»ÑƒÑƒ ÑÐ¼ÐµÑ, ÐºÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÑ‡ÑƒÐ»Ð°Ñ€Ð´Ñ‹Ð½ ÐºÑ‹Ð·Ñ‹ÐºÑ‡Ñ‹Ð»Ñ‹ÐºÑ‚Ð°Ñ€Ñ‹Ð½Ð°Ð½ Ð±Ó©Ð»Ó©Ðº Ð°Ñ‡Ñ‹Ðº ÐºÐ¸Ñ€ÐµÑˆÐµ Ð°Ð³Ñ‹Ð¼Ð´Ð°Ñ€Ñ‹ Ð°Ñ€ÐºÑ‹Ð»ÑƒÑƒ ÐºÐ°Ñ€Ð¶Ñ‹Ð»Ð°Ð¹Ñ‚.
+### 1. NG-FIN-001 принциби
+Nexus Gaja өз операцияларын колдонуучулардын көңүлүн же жеке маалыматтарын маркетинг аркылуу эмес, колдонуучулардын кызыкчылыктарынан бөлөк ачык киреше агымдары аркылуу каржылайт.
 
-### 2. ÐšÐ»Ð°ÑÑÐ¸ÐºÐ°Ð»Ñ‹Ðº Ð¶Ð°Ñ€Ð½Ð°Ð¼Ð° Ð¶Ð¾Ðº
-ÐÑ‚Ð°Ð¿ Ð°Ð¹Ñ‚ÐºÐ°Ð½Ð´Ð°, Ñ‚Ó©Ð¼Ó©Ð½ÐºÒ¯Ð»Ó©Ñ€Ð³Ó© Ð¶Ð¾Ð» Ð±ÐµÑ€Ð¸Ð»Ð±ÐµÐ¹Ñ‚:
-- Ð‘Ð°Ð½Ð½ÐµÑ€Ð´Ð¸Ðº Ð¶Ð°Ñ€Ð½Ð°Ð¼Ð°
-- ÐšÐ°Ð»ÐºÑ‹Ð¼Ð° Ð¶Ð°Ñ€Ð½Ð°Ð¼Ð°
-- ÐÐ²Ñ‚Ð¾Ð¼Ð°Ñ‚Ñ‚Ñ‹Ðº Ñ‚Ò¯Ñ€Ð´Ó© Ð¾Ð¹Ð½Ð¾Ñ‚ÑƒÐ»Ð³Ð°Ð½ Ð¶Ð°Ñ€Ð½Ð°Ð¼Ð°Ð»Ñ‹Ðº Ð²Ð¸Ð´ÐµÐ¾Ð»Ð¾Ñ€
-- ÐºÐ°Ð´Ð¸Ð¼ÐºÐ¸ ÐºÐ°Ð½Ð°Ð»Ð´Ð°Ð³Ñ‹ Ð´ÐµÐ¼Ó©Ó©Ñ€Ñ‡Ò¯ Ð¿Ð¾ÑÑ‚Ñ‚Ð¾Ñ€
-- Ð¶ÐµÐºÐµÐ»ÐµÑˆÑ‚Ð¸Ñ€Ð¸Ð»Ð³ÐµÐ½ Ð¶Ð°Ñ€Ð½Ð°Ð¼Ð° Ð¿Ñ€Ð¾Ñ„Ð¸Ð»Ð´ÐµÑ€Ð¸
-- ÐšÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÑ‡ÑƒÐ½ÑƒÐ½ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»Ð´ÐµÑ€Ð¸Ð½ ÑÐ°Ñ‚ÑƒÑƒ
-- Ð¶ÐµÐºÐµ Ð¼Ð°Ð°Ð»Ñ‹Ð¼Ð°Ñ‚Ñ‚Ð°Ñ€Ð´Ñ‹ ÑÐ°Ñ‚ÑƒÑƒ
-- Ð–ÐµÐºÐµ ÑÒ¯Ð¹Ð»Ó©ÑˆÒ¯Ò¯Ð»Ó©Ñ€Ð´Ó©Ð½ Ð°Ð»Ñ‹Ð½Ð³Ð°Ð½ Ð¶Ð°Ñ€Ð½Ð°Ð¼Ð°.
+### 2. Классикалык жарнама жок
+Атап айтканда, төмөнкүлөргө жол берилбейт:
+- Баннердик жарнама
+- Калкыма жарнама
+- Автоматтык түрдө ойнотулган жарнамалык видеолор
+- кадимки каналдагы демөөрчү посттор
+- жекелештирилген жарнама профилдери
+- Колдонуучунун профилдерин сатуу
+- жеке маалыматтарды сатуу
+- Жеке сүйлөшүүлөрдөн алынган жарнама.
 
-Ð‘ÑƒÐ» Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹Ñˆ Ð¼ÐµÐ¹ÐºÐ¸Ð½Ð´Ð¸Ð³Ð¸Ð½ ÐºÐ°Ð»Ñ‚Ñ‹Ñ€Ð°Ñ‚: **Ð–Ð°Ñ€Ð½Ð°Ð¼Ð°Ð»Ñ‹Ðº Ð¼ÐµÐ¹ÐºÐ¸Ð½Ð´Ð¸ÐºÑ‚Ð¸Ð½ Ð¾Ñ€Ð´ÑƒÐ½Ð° Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹Ñˆ Ð¼ÐµÐ¹ÐºÐ¸Ð½Ð´Ð¸Ð³Ð¸.**
+Бул байланыш мейкиндигин калтырат: **Жарнамалык мейкиндиктин ордуна байланыш мейкиндиги.**
 
-### 3. Ð–Ð°Ñ€Ð½Ð°Ð¼Ð°ÑÑ‹Ð· ÐºÐ°Ñ€Ð¶Ñ‹Ð»Ð¾Ð¾
-ÐÐ½Ñ‹Ð½ Ð¾Ñ€Ð´ÑƒÐ½Ð°, Ð±Ð¸Ð·Ð´Ð¸Ð½ ÐºÐ°Ñ€Ð¶Ñ‹Ð»Ð¾Ð¾ Ð±Ð¸Ñ€ Ð½ÐµÑ‡Ðµ Ñ‚Ò¯Ñ€ÐºÒ¯ÐºÑ‚Ó©Ñ€Ð´Ó©Ð½ Ñ‚ÑƒÑ€ÑƒÑˆÑƒ Ð¼Ò¯Ð¼ÐºÒ¯Ð½. Ð‘Ð¸Ð· Ð°Ð»Ð³Ð°Ñ‡ Ð°Ð»Ñ‚Ñ‹ Ñ‚Ò¯Ñ€ÐºÒ¯ÐºÑ‚Ò¯ ÑÑƒÐ½ÑƒÑˆÑ‚Ð°Ð¹Ð±Ñ‹Ð·:
-```Ñ‚ÐµÐºÑÑ‚
+### 3. Жарнамасыз каржылоо
+Анын ордуна, биздин каржылоо бир нече түркүктөрдөн турушу мүмкүн. Биз алгач алты түркүктү сунуштайбыз:
+```текст
                  NEXUS GAJA
-                     â”‚
-       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-       â–¼ â–¼ â–¼
-   ÐŸÐ Ð•ÐœÐ˜Ð£Ðœ Ð£Ð®Ðœ Ð”ÐžÐÐžÐ 
-       â”‚ â”‚ â”‚
-       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
-       â–¼ â–¼ â–¼
-   Ó¨ÐÓ¨ÐšÐ¢Ó¨Ð¨Ð¢Ò®Ðš ÐšÐ«Ð—ÐœÐÐ¢Ð¢ÐÐ Ð«Ð Ð–ÐÐ Ð«Ð¯Ð›ÐÐ£Ð£
+                     │
+       ┌─────────────┼─────────────┐
+       ▼ ▼ ▼
+   ПРЕМИУМ УЮМ ДОНОР
+       │ │ │
+       ├─────────────┼─────────────┤
+       ▼ ▼ ▼
+   ӨНӨКТӨШТҮК КЫЗМАТТАРЫН ЖАРЫЯЛАУУ
 ```
 
-#### 1-Ñ‚Ð¸Ñ€ÐºÐµÐ¼Ðµ â€“ ÐÐºÑ‹ÑÑ‹Ð· Ð½ÐµÐ³Ð¸Ð·Ð³Ð¸ Ð¼Ò¯Ñ‡Ó©Ð»Ò¯Ðº
-**Nexus Gaja Free:** Ð­Ð» Ð°Ñ€Ð°Ð»Ñ‹Ðº Ñ‚Ò¯ÑˆÒ¯Ð½Ò¯Ò¯Ð³Ó© Ð½ÐµÐ³Ð¸Ð·Ð³Ð¸ ÐºÐ°Ñ‚Ñ‹ÑˆÑƒÑƒ ÐºÐ¸Ð¼Ð´Ð¸Ñ€ Ð±Ð¸Ñ€Ó©Ó©Ð½Ò¯Ð½ Ð°ÐºÑ‡Ð°ÑÑ‹ Ð±Ð°Ñ€-Ð¶Ð¾Ð³ÑƒÐ½Ð° ÐºÓ©Ð· ÐºÐ°Ñ€Ð°Ð½Ð´Ñ‹ Ð±Ð¾Ð»Ð±Ð¾ÑˆÑƒ ÐºÐµÑ€ÐµÐº. Ð¢Ó©Ð¼Ó©Ð½ÐºÒ¯Ð»Ó©Ñ€ Ð±ÐµÐºÐµÑ€ Ð¼Ò¯Ð¼ÐºÒ¯Ð½: Ð¶ÐµÐºÐµ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŒ, ÑÐ» Ð°Ñ€Ð°Ð»Ñ‹Ðº Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹Ñˆ, ÑÐ°Ð»Ñ‹Ð¼Ð´Ð°Ñ€, ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹Ð»ÐµÑ€, Ð½ÐµÐ³Ð¸Ð·Ð³Ð¸ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾, Ð¶Ð°Ð¼Ð°Ð°Ñ‚Ñ‚Ð°Ñ€, Ñ‡Ð°Ñ‚Ñ‚Ð°Ñ€, Ð¼ÐµÐ´Ð¸Ð°Ð½Ñ‹Ð½ Ð½ÐµÐ³Ð¸Ð·Ð³Ð¸ Ñ„ÑƒÐ½ÐºÑ†Ð¸ÑÐ»Ð°Ñ€Ñ‹.
+#### 1-тиркеме – Акысыз негизги мүчөлүк
+**Nexus Gaja Free:** Эл аралык түшүнүүгө негизги катышуу кимдир бирөөнүн акчасы бар-жогуна көз каранды болбошу керек. Төмөнкүлөр бекер мүмкүн: жеке профиль, эл аралык байланыш, салымдар, комментарийлер, негизги котормо, жамааттар, чаттар, медианын негизги функциялары.
 
-#### 2-Ñ‚Ð¸Ñ€ÐµÐº â€“ ÐŸÑ€ÐµÐ¼Ð¸ÑƒÐ¼ ÑÑƒÐ½ÑƒÑˆÑ‚Ð°Ñ€
-Ð«ÐºÑ‚Ñ‹ÑÑ€Ð´ÑƒÑƒ Ð°ÐºÑ‹ Ñ‚Ó©Ð»Ó©Ð½Ò¯Ò¯Ñ‡Ò¯ ÑÑƒÐ½ÑƒÑˆÑ‚Ð°Ñ€ (**Nexus Gaja Plus**). ÐœÒ¯Ð¼ÐºÒ¯Ð½ Ð±Ð¾Ð»Ð³Ð¾Ð½ Ð°Ñ€Ñ‚Ñ‹ÐºÑ‡Ñ‹Ð»Ñ‹ÐºÑ‚Ð°Ñ€: Ñ‡Ð¾Ò£ÑƒÑ€Ð°Ð°Ðº ÑÐ°ÐºÑ‚Ð¾Ð¾ Ñ‡ÐµÐºÑ‚ÐµÑ€Ð¸, Ð¼ÐµÐ´Ð¸Ð° ÑÐ°Ð¿Ð°Ñ‚Ñ‹ Ð¶Ð¾Ð³Ð¾Ñ€Ñƒ, Ð²Ð¸Ð´ÐµÐ¾Ð½Ñƒ ÑƒÐ·Ð°Ð³Ñ‹Ñ€Ð°Ð°Ðº Ð±ÐµÑ€Ò¯Ò¯, ÐºÐµÒ£ÐµÐ¹Ñ‚Ð¸Ð»Ð³ÐµÐ½ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾ Ñ„ÑƒÐ½ÐºÑ†Ð¸ÑÐ»Ð°Ñ€Ñ‹, Ñ‡Ð¾Ò£ÑƒÑ€Ð°Ð°Ðº Ð¶Ð°Ð¼Ð°Ð°Ñ‚Ñ‚Ð°Ñ€, ÐºÐ¾ÑˆÑƒÐ¼Ñ‡Ð° ÑƒÑŽÑˆÑ‚ÑƒÑ€ÑƒÑƒ Ñ„ÑƒÐ½ÐºÑ†Ð¸ÑÐ»Ð°Ñ€Ñ‹, AI ÐºÐ²Ð¾Ñ‚Ð°Ð»Ð°Ñ€Ñ‹.
-**Freemium â€“ Ð±Ð¸Ñ€Ð¾Ðº â€œDark Freemiumâ€ ÑÐ¼ÐµÑ:** ÐÐºÑ‹ÑÑ‹Ð· Ð²ÐµÑ€ÑÐ¸ÑÐ½Ñ‹ Ñ‚ÑƒÑƒÑ€Ð° ÐºÐ¾Ð»Ð´Ð¾Ð½ÑÐ¾ Ð±Ð¾Ð»Ð¾Ñ‚; Premium Ð°Ð½Ñ‹ ÐºÐµÒ£ÐµÐ¹Ñ‚ÐµÑ‚.
+#### 2-тирек – Премиум сунуштар
+Ыктыярдуу акы төлөнүүчү сунуштар (**Nexus Gaja Plus**). Мүмкүн болгон артыкчылыктар: чоңураак сактоо чектери, медиа сапаты жогору, видеону узагыраак берүү, кеңейтилген котормо функциялары, чоңураак жамааттар, кошумча уюштуруу функциялары, AI квоталары.
+**Freemium – бирок “Dark Freemium” эмес:** Акысыз версияны туура колдонсо болот; Premium аны кеңейтет.
 
-#### 3-Ñ‚Ð¸Ñ€ÐµÐº â€“ Ð£ÑŽÐ¼Ð´Ð°Ñ€
-**Nexus Gaja ÑƒÑŽÐ¼Ñƒ:** ÐœÐµÐºÑ‚ÐµÐ¿Ñ‚ÐµÑ€, ÑƒÐ½Ð¸Ð²ÐµÑ€ÑÐ¸Ñ‚ÐµÑ‚Ñ‚ÐµÑ€, ÐºÐ»ÑƒÐ±Ð´Ð°Ñ€, Ð±ÐµÐ¹Ó©ÐºÐ¼Ó©Ñ‚ ÑƒÑŽÐ¼Ð´Ð°Ñ€, ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸ÑÐ»Ð°Ñ€, Ð¼ÑƒÐ½Ð¸Ñ†Ð¸Ð¿Ð°Ð»Ð¸Ñ‚ÐµÑ‚Ñ‚ÐµÑ€ Ð¶.Ð±. Ò¯Ñ‡Ò¯Ð½ Ð±Ð¾Ñ€Ð±Ð¾Ñ€Ð´ÑƒÐº ÑƒÑŽÑˆÑ‚ÑƒÑ€ÑƒÑƒ ÑÑÐµÐ±Ð¸, Ð¼Ò¯Ñ‡Ó©Ð»Ó©Ñ€Ð´Ò¯ Ð±Ð°ÑˆÐºÐ°Ñ€ÑƒÑƒ Ð¶Ð°Ð½Ð° Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€ Ñ„ÑƒÐ½ÐºÑ†Ð¸ÑÐ»Ð°Ñ€Ñ‹ Ð±Ð°Ñ€ Ð°Ñ‚Ð°Ð¹Ñ‹Ð½ ÑÑÐµÐ¿Ñ‚ÐµÑ€. (ÐœÐ¸ÑÐ°Ð»Ñ‹: ÐœÐµÐºÑ‚ÐµÐ¿ Ð¾ÐºÑƒÑƒÑ‡ÑƒÐ»Ð°Ñ€Ð´Ñ‹ Ð°ÐºÑ‹ÑÑ‹Ð· Ð¶Ðµ Ð¸Ð½ÑÑ‚Ð¸Ñ‚ÑƒÑ‚Ñ‚ÑƒÐº Ñ‚Ð°Ñ€Ð¸Ñ„ Ð°Ñ€ÐºÑ‹Ð»ÑƒÑƒ Ð°Ð»Ð°Ñ‚).
+#### 3-тирек – Уюмдар
+**Nexus Gaja уюму:** Мектептер, университеттер, клубдар, бейөкмөт уюмдар, компаниялар, муниципалитеттер ж.б. үчүн борбордук уюштуруу эсеби, мүчөлөрдү башкаруу жана администратор функциялары бар атайын эсептер. (Мисалы: Мектеп окуучуларды акысыз же институттук тариф аркылуу алат).
 
-#### 4-Ñ‚Ð¸Ñ€ÐºÐµÐº â€“ ÐšÐ°Ð¹Ñ€Ñ‹Ð¼Ð´ÑƒÑƒÐ»ÑƒÐº
-**Nexus Gaja ÐºÐ°Ñ€Ð¶Ñ‹Ð»Ð¾Ð¾ Ñ„Ð¾Ð½Ð´Ñƒ:** Ð”Ð¾Ð½Ð¾Ñ€Ð»Ð¾Ñ€ Ó©Ð· Ñ‹ÐºÑ‚Ñ‹ÑÑ€Ñ‹ Ð¼ÐµÐ½ÐµÐ½ Ð°ÐºÑ‡Ð° Ð±ÐµÑ€Ðµ Ð°Ð»Ñ‹ÑˆÐ°Ñ‚ (Ð¶Ð°Ð»Ð¿Ñ‹ Ð¶Ðµ Ð¼Ð°ÐºÑÐ°Ñ‚Ñ‚ÑƒÑƒ ÐºÐ°Ð¹Ñ€Ñ‹Ð¼Ð´ÑƒÑƒÐ»ÑƒÐº). 
-**ÐšÐ°Ñ€Ð¶Ñ‹Ð»Ð¾Ð¾ Ð±Ð°ÑÑÐµÐ¹Ð½Ð¸ Ð¶Ð°Ð½Ð° Ñ‚Ð¾Ð¼Ð±Ð¾Ð»Ð°:** ÐÐºÑ‹ÑÑ‹Ð· Ð¶Ðµ Ð°Ñ€Ð·Ð°Ð½Ð´Ð°Ñ‚Ñ‹Ð»Ð³Ð°Ð½ Ð¿Ð°Ð¹Ð´Ð°Ð»Ð°Ð½ÑƒÑƒ ÐºÐ°Ð¹Ñ€Ñ‹Ð¼Ð´ÑƒÑƒÐ»ÑƒÐº Ð¿ÑƒÐ»ÑƒÐ½Ð°Ð½ ÐºÐ°Ñ€Ð¶Ñ‹Ð»Ð°Ð½Ð°Ñ‚. Ð¤Ð¾Ð½Ð´Ð´Ñƒ Ð±Ó©Ð»Ò¯ÑˆÑ‚Ò¯Ñ€Ò¯Ò¯ ÐºÐ¸Ñ‚ÐµÐ¿Ñ‡ÐµÑÐ¸ Ð¼Ð°ÐºÑÐ°Ñ‚Ñ‚ÑƒÑƒ Ð±Ó©Ð»Ò¯ÑˆÑ‚Ò¯Ñ€Ò¯Ò¯Ð½Ò¯ ÐºÐ°Ð¼ÑÑ‹Ð· ÐºÑ‹Ð»Ð°Ñ‚.
-```Ñ‚ÐµÐºÑÑ‚
-ÐšÐÐ™Ð Ð«ÐœÐ”Ð£Ð£Ð›Ð£Ðš â†’ ÐœÐÐšÐ¡ÐÐ¢ Ð¤ÐžÐÐ” â†’ Ð–ÐÐ ÐÐšÐ§Ð«Ð›Ð«Ðš ÐšÐ«ÐœÐ‘ÐÐ¢Ð« â†’ ÐÐºÑ‹ÑÑ‹Ð· Ð¶ÐµÑ‚Ò¯Ò¯ / ÐÑ€Ð·Ð°Ð½Ð´Ð°Ñ‚ÑƒÑƒ / ÐšÐ²Ð¾Ñ‚Ð°
+#### 4-тиркек – Кайрымдуулук
+**Nexus Gaja каржылоо фонду:** Донорлор өз ыктыяры менен акча бере алышат (жалпы же максаттуу кайрымдуулук). 
+**Каржылоо бассейни жана томбола:** Акысыз же арзандатылган пайдалануу кайрымдуулук пулунан каржыланат. Фондду бөлүштүрүү китепчеси максаттуу бөлүштүрүүнү камсыз кылат.
+```текст
+КАЙРЫМДУУЛУК → МАКСАТ ФОНД → ЖАРАКЧЫЛЫК КЫМБАТЫ → Акысыз жетүү / Арзандатуу / Квота
 ```
 
-#### 5-Ñ‚Ð¸Ñ€ÐºÐµÐº â€“ Ð˜Ð½ÑÑ‚Ð¸Ñ‚ÑƒÑ†Ð¸Ð¾Ð½Ð°Ð»Ð´Ñ‹Ðº ÐºÐ¾Ð»Ð´Ð¾Ð¾
-Ð”ÐµÐ¼Ó©Ó©Ñ€Ñ‡Ò¯Ð»Ó©Ñ€: Ð¤Ð¾Ð½Ð´Ð´Ð¾Ñ€, Ð¼Ð°Ð´Ð°Ð½Ð¸ÑÑ‚Ñ‚Ñ‹ ÐºÐ°Ñ€Ð¶Ñ‹Ð»Ð¾Ð¾ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð°Ð»Ð°Ñ€Ñ‹, Ð¼Ð°Ð¼Ð»ÐµÐºÐµÑ‚Ñ‚Ð¸Ðº ÐºÐ°Ñ€Ð¶Ñ‹Ð»Ð¾Ð¾ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð°Ð»Ð°Ñ€Ñ‹.
-**NG-FIN-002 (ÐšÓ©Ð· ÐºÐ°Ñ€Ð°Ð½Ð´Ñ‹ÑÑ‹Ð·Ð´Ñ‹Ðº):** ÐšÐ°Ñ€Ð¶Ñ‹Ð»Ð¾Ð¾ Nexus Gaja Ð±Ð¾ÑŽÐ½Ñ‡Ð° Ñ€ÐµÐ´Ð°ÐºÑ†Ð¸ÑÐ»Ñ‹Ðº Ð¶Ðµ Ñ‚ÐµÑ…Ð½Ð¸ÐºÐ°Ð»Ñ‹Ðº ÐºÓ©Ð·Ó©Ð¼Ó©Ð»Ð´Ò¯ ÑÐ°Ñ‚Ñ‹Ð¿ Ð°Ð»Ð±Ð°Ð¹Ñ‚.
+#### 5-тиркек – Институционалдык колдоо
+Демөөрчүлөр: Фонддор, маданиятты каржылоо программалары, мамлекеттик каржылоо программалары.
+**NG-FIN-002 (Көз карандысыздык):** Каржылоо Nexus Gaja боюнча редакциялык же техникалык көзөмөлдү сатып албайт.
 
-#### 6-Ñ‚Ð¸Ñ€ÐºÐµÐº â€“ ÐšÐ¾Ð¼Ð¼ÐµÑ€Ñ†Ð¸ÑÐ»Ñ‹Ðº ÐºÑ‹Ð·Ð¼Ð°Ñ‚ ÐºÓ©Ñ€ÑÓ©Ñ‚Ò¯Ò¯Ð»Ó©Ñ€
-Nexus Gaja **ÐšÑ‹Ð·Ð¼Ð°Ñ‚ ÐºÐ°Ñ‚Ð°Ñ€Ñ‹ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾ (API)**, ÐºÐµÑÐ¸Ð¿ÐºÓ©Ð¹ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾, ÑƒÑŽÑˆÑ‚ÑƒÑ€ÑƒÑƒ Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹ÑˆÑ‹ Ð¶Ðµ ÑÐ» Ð°Ñ€Ð°Ð»Ñ‹Ðº ÐºÐ¾Ð½Ñ„ÐµÑ€ÐµÐ½Ñ†-Ð·Ð°Ð» ÑÑ‹ÑÐºÑ‚ÑƒÑƒ B2B ÐºÑ‹Ð·Ð¼Ð°Ñ‚Ñ‚Ð°Ñ€Ñ‹Ð½ ÑÑƒÐ½ÑƒÑˆÑ‚Ð°Ð¹ Ð°Ð»Ð°Ñ‚.
+#### 6-тиркек – Коммерциялык кызмат көрсөтүүлөр
+Nexus Gaja **Кызмат катары котормо (API)**, кесипкөй котормо, уюштуруу байланышы же эл аралык конференц-зал сыяктуу B2B кызматтарын сунуштай алат.
 
-### 4. ÐœÐ°Ð°Ð»Ñ‹Ð¼Ð°Ñ‚ Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³Ð¸ Ð¶Ð°Ð½Ð° "ÐºÓ©Ð·Ó©Ð¼Ó©Ð» ÑÐºÐ¾Ð½Ð¾Ð¼Ð¸ÐºÐ°ÑÑ‹" Ð¶Ð¾Ðº
-**NG-FIN-003:** ÐšÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÑ‡ÑƒÐ½ÑƒÐ½ Ð¶ÐµÐºÐµ Ð¼Ð°Ð°Ð»Ñ‹Ð¼Ð°Ñ‚Ñ‹ Nexus Gaja Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹ ÑÐ¼ÐµÑ. (ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒÐ´ÐµÑ€, Ñ‚Ð°Ñ€Ñ‹Ñ…Ñ‚Ð°Ñ€, Ð¸Ð½ÑÐ°Ð½Ð´Ñ‹Ðº Ð¼Ð°Ð°Ð»Ñ‹Ð¼Ð°Ñ‚Ñ‚Ð°Ñ€ ÑÐ°Ñ‚Ñ‹Ð»Ð±Ð°Ð¹Ñ‚). 
-Nexus Gaja Ð°Ð½Ñ‹Ð½ ÐºÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÑ‡ÑƒÐ»Ð°Ñ€Ñ‹Ð½ Ð¼Ò¯Ð¼ÐºÒ¯Ð½ Ð±Ð¾Ð»ÑƒÑˆÑƒÐ½Ñ‡Ð° ÐºÓ©Ð±Ò¯Ñ€Ó©Ó©Ðº ÐºÓ©Ð·Ó©Ð¼Ó©Ð»Ð´Ó©Ð¿, Ð¿ÑÐ¸Ñ…Ð¾Ð»Ð¾Ð³Ð¸ÑÐ»Ñ‹Ðº Ð¶Ð°ÐºÑ‚Ð°Ð½ Ð¼Ò¯Ð¼ÐºÒ¯Ð½ Ð±Ð¾Ð»ÑƒÑˆÑƒÐ½Ñ‡Ð° Ñ‚Ð°Ðº ÐºÐ»Ð°ÑÑÐ¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸ÑÐ»Ð¾Ð¾Ð´Ð¾Ð½ Ð¿Ð°Ð¹Ð´Ð° ÐºÓ©Ñ€Ò¯Ò¯ Ò¯Ñ‡Ò¯Ð½ Ð°Ñ€Ð½Ð°Ð»Ð³Ð°Ð½ ÑÐ¼ÐµÑ.
+### 4. Маалымат маркетинги жана "көзөмөл экономикасы" жок
+**NG-FIN-003:** Колдонуучунун жеке маалыматы Nexus Gaja товары эмес. (Профильдер, тарыхтар, инсандык маалыматтар сатылбайт). 
+Nexus Gaja анын колдонуучуларын мүмкүн болушунча көбүрөөк көзөмөлдөп, психологиялык жактан мүмкүн болушунча так классификациялоодон пайда көрүү үчүн арналган эмес.
 
-### 5. Ð¤Ð¸Ð½Ð°Ð½ÑÑ‹Ð»Ñ‹Ðº Ð°Ñ‡Ñ‹ÐºÑ‚Ñ‹Ðº
-Nexus Gaja Financial Transparency: ÐšÐ¸Ñ€ÐµÑˆÐµ ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸ÑÐ»Ð°Ñ€Ð³Ð°, ÐºÐ°Ð¹Ñ€Ñ‹Ð¼Ð´ÑƒÑƒÐ»ÑƒÐºÑ‚ÑƒÐ½ ÐºÓ©Ð»Ó©Ð¼Ò¯Ð½Ó©, Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸ÑÐ»Ñ‹Ðº Ñ‡Ñ‹Ð³Ñ‹Ð¼Ð´Ð°Ñ€Ð³Ð° Ð¶.Ð±. Ð¶Ð°Ñ€Ð°ÑˆÐ° Ð¶Ð°Ñ€Ñ‹ÑÐ»Ð°Ð½Ð°Ñ‚. 
-**ÐšÐ°Ñ€Ð¶Ñ‹Ð»Ð¾Ð¾ ÐºÐ¸Ñ‚ÐµÐ±Ð¸:** Ð‘ÐµÐ»Ð³Ð¸Ð»Ò¯Ò¯ Ð±Ð¸Ñ€ Ð¼Ð°ÐºÑÐ°Ñ‚ÐºÐ° Ð±Ð°Ð³Ñ‹Ñ‚Ñ‚Ð°Ð»Ð³Ð°Ð½ ÐºÐ°Ð¹Ñ€Ñ‹Ð¼Ð´ÑƒÑƒÐ»ÑƒÐºÑ‚Ð°Ñ€ Ñ‚Ò¯ÑˆÒ¯Ð½Ò¯ÐºÑ‚Ò¯Ò¯ ÑÑÐµÐ¿ÐºÐµ Ð°Ð»Ñ‹Ð½Ð°Ñ‚ (ÐšÐ°Ð¹Ñ€Ñ‹Ð¼Ð´ÑƒÑƒÐ»ÑƒÐº â†’ Ð¤Ð¾Ð½Ð´ ID â†’ ÐœÐ°ÐºÑÐ°Ñ‚ â†’ ÐšÐ¾Ð»Ð´Ð¾ Ð±Ð¾Ð»Ð³Ð¾Ð½ Ð±Ð°Ð»Ð°Ð½Ñ â†’ Ð‘Ó©Ð»Ò¯ÑˆÑ‚Ò¯Ñ€Ò¯Ò¯). ÐÑ‡Ñ‹ÐºÑ‚Ñ‹Ðº Ð±Ð¾Ð»Ð±Ð¾ÑÐ¾ ÐºÐ°Ð¹Ñ‡Ñ‹Ð»Ð°Ñˆ ÑÑƒÐ±ÑÐ¸Ð´Ð¸ÑÐ»Ð¾Ð¾ Ð±Ð¾Ð»Ð±Ð¾Ð¹Ñ‚.
+### 5. Финансылык ачыктык
+Nexus Gaja Financial Transparency: Киреше категорияларга, кайрымдуулуктун көлөмүнө, операциялык чыгымдарга ж.б. жараша жарыяланат. 
+**Каржылоо китеби:** Белгилүү бир максатка багытталган кайрымдуулуктар түшүнүктүү эсепке алынат (Кайрымдуулук → Фонд ID → Максат → Колдо болгон баланс → Бөлүштүрүү). Ачыктык болбосо кайчылаш субсидиялоо болбойт.
 
-### 6. Ð‘Ð°Ð° Ð¶Ð°Ð½Ð° Ñ‚Ð¸Ð»ÐµÐºÑ‚ÐµÑˆÑ‚Ð¸ÐºÑ‚Ð¸ ÐºÐ°Ñ€Ð¶Ñ‹Ð»Ð¾Ð¾ Ð¼Ð¾Ð´ÐµÐ»Ð¸
-Ð‘Ð°Ð°Ð»Ð°Ñ€: Ð½Ð°Ñ€Ðº Ð±Ð°Ð³Ñ‹Ñ‚Ñ‹, ÐºÐ°Ð»Ñ‹ÑÑ‚Ñ‹Ðº Ð¶Ð°Ð½Ð° Ñ‚Ð¸Ð»ÐµÐºÑ‚ÐµÑˆÑ‚Ð¸ÐºÐºÐµ Ð½ÐµÐ³Ð¸Ð·Ð´ÐµÐ»ÐµÑ‚.
-**Solidarity Premium:** ÐŸÑ€ÐµÐ¼Ð¸ÑƒÐ¼ ÐºÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÑ‡Ñƒ Ó©Ð· Ñ‹ÐºÑ‚Ñ‹ÑÑ€Ñ‹ Ð¼ÐµÐ½ÐµÐ½ Ñ‚Ð°Ð½Ð´Ð°Ð¹ Ð°Ð»Ð°Ñ‚: "ÐœÐµÐ½ Ð±Ð°ÑˆÐºÐ° ÐºÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÑ‡ÑƒÐ½ÑƒÐ½ ÐºÐ¸Ñ€Ò¯Ò¯ Ð¼Ò¯Ð¼ÐºÒ¯Ð½Ñ‡Ò¯Ð»Ò¯Ð³Ò¯Ð½Ò¯Ð½ Ð±Ð¸Ñ€ Ð±Ó©Ð»Ò¯Ð³Ò¯Ð½ ÐºÐ°Ñ€Ð¶Ñ‹Ð»Ð°Ð¹Ð¼." ÐœÐ°Ð¶Ð±ÑƒÑ€Ð»Ð°Ð½Ð³Ð°Ð½ Ñ‚Ð¸Ð»ÐµÐºÑ‚ÐµÑˆÑ‚Ð¸Ðº Ð¶Ðµ Ð¿Ñ€ÐµÐ¼Ð¸ÑƒÐ¼ ÐºÐ»Ð°ÑÑ ÐºÐ¾Ð¾Ð¼Ñƒ (ÑÑ€ÐºÐ¸Ð½ ÐºÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÑ‡ÑƒÐ»Ð°Ñ€ Ò¯Ñ‡Ò¯Ð½ Ð°Ð·Ñ‹Ñ€Ð°Ð°Ðº ÑƒÑ€Ð¼Ð°Ñ‚Ñ‚Ð¾Ð¾ Ð¶Ðµ Ð½Ð°Ñ‡Ð°Ñ€Ñ‹Ñ€Ð°Ð°Ðº Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ) Ð¶Ð¾ÐºÐºÐ¾ Ñ‡Ñ‹Ð³Ð°Ñ€Ñ‹Ð»Ð°Ñ‚.
+### 6. Баа жана тилектештикти каржылоо модели
+Баалар: нарк багыты, калыстык жана тилектештикке негизделет.
+**Solidarity Premium:** Премиум колдонуучу өз ыктыяры менен тандай алат: "Мен башка колдонуучунун кирүү мүмкүнчүлүгүнүн бир бөлүгүн каржылайм." Мажбурланган тилектештик же премиум класс коому (эркин колдонуучулар үчүн азыраак урматтоо же начарыраак модерация) жокко чыгарылат.
 
-### 7. Ð­ÐºÐ¾Ð½Ð¾Ð¼Ð¸ÐºÐ°Ð»Ñ‹Ðº KPI
-Ð‘Ð¸Ð· Ñ‡ÐµÐºÑÐ¸Ð· Ð¾Ð½Ð»Ð°Ð¹Ð½ ÑƒÐ±Ð°ÐºÑ‹Ñ‚Ñ‚Ð°Ð½ ÐºÓ©Ð· ÐºÐ°Ñ€Ð°Ð½Ð´Ñ‹ ÑÐ¼ÐµÑÐ¿Ð¸Ð· (Ð¼Ð°Ð½Ð¸Ð¿ÑƒÐ»ÑÑ†Ð¸ÑÐ»Ñ‹Ðº Ñ‚Ð°Ñ€Ñ‚ÑƒÑƒ ÑÐºÐ¾Ð½Ð¾Ð¼Ð¸ÐºÐ°ÑÑ‹ Ð¶Ð¾Ðº). Ð‘Ð¸Ð·Ð´Ð¸Ð½ KPIÐ»ÐµÑ€:
-- **Ð“Ð»Ð¾Ð±Ð°Ð»Ð´Ñ‹Ðº ÐºÐ¾Ð¼Ð¼ÑƒÐ½Ð¸ÐºÐ°Ñ†Ð¸Ñ Ð¸Ð½Ð´ÐµÐºÑÐ¸ (GCI):** ÐÑ€ ÐºÐ°Ð½Ð´Ð°Ð¹ Ñ‚Ð¸Ð»Ð´Ð¸Ðº Ð¶Ðµ Ð¼Ð°Ð´Ð°Ð½Ð¸Ð¹ Ð°Ð¹Ð¼Ð°ÐºÑ‚Ð°Ñ€Ð´Ð°Ð³Ñ‹ Ð°Ð´Ð°Ð¼Ð´Ð°Ñ€Ð´Ñ‹Ð½ Ð¾Ñ€Ñ‚Ð¾ÑÑƒÐ½Ð´Ð° ÐºÐ°Ð½Ñ‡Ð° Ð¸Ð¹Ð³Ð¸Ð»Ð¸ÐºÑ‚Ò¯Ò¯ ÐºÐ¾Ð¼Ð¼ÑƒÐ½Ð¸ÐºÐ°Ñ†Ð¸Ñ Ð¼Ð°Ð¼Ð¸Ð»ÐµÐ»ÐµÑ€Ð¸ Ð¿Ð°Ð¹Ð´Ð° Ð±Ð¾Ð»Ð¾Ñ‚?
-- **ÐŸÐ»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð°Ð½Ñ‹Ð½ Ñ‚ÑƒÑ€ÑƒÐºÑ‚ÑƒÑƒÐ»ÑƒÐº ÐºÐ¾ÑÑ„Ñ„Ð¸Ñ†Ð¸ÐµÐ½Ñ‚Ð¸ (PSR):** ÐºÐ°Ð¹Ñ‚Ð°Ð»Ð°Ð½ÑƒÑƒÑ‡Ñƒ ÐºÐ¸Ñ€ÐµÑˆÐµ / ÐºÐ°Ð¹Ñ‚Ð°Ð»Ð°Ð½ÑƒÑƒÑ‡Ñƒ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸ÑÐ»Ñ‹Ðº Ñ‡Ñ‹Ð³Ñ‹Ð¼Ð´Ð°Ñ€ (Ð¼Ð°ÐºÑÐ°Ñ‚: PSR â‰¥ 1).
+### 7. Экономикалык KPI
+Биз чексиз онлайн убакыттан көз каранды эмеспиз (манипуляциялык тартуу экономикасы жок). Биздин KPIлер:
+- **Глобалдык коммуникация индекси (GCI):** Ар кандай тилдик же маданий аймактардагы адамдардын ортосунда канча ийгиликтүү коммуникация мамилелери пайда болот?
+- **Платформанын туруктуулук коэффициенти (PSR):** кайталануучу киреше / кайталануучу операциялык чыгымдар (максат: PSR ≥ 1).
 
-### 8. Ð‘Ð¸Ð· ÑÐ¼Ð½ÐµÐ½Ð¸ ÐºÐ°Ð°Ð»Ð°Ð±Ð°Ð¹Ð±Ñ‹Ð·
-Nexus Gaja Ñ‚Ó©Ð¼Ó©Ð½ÐºÒ¯Ð»Ó©Ñ€ Ñ‚Ð°Ñ€Ð°Ð±Ñ‹Ð½Ð°Ð½ ÐºÐ°Ñ€Ð¶Ñ‹Ð»Ð°Ð½Ð±Ð°Ð¹Ñ‚:
-âŒ Ð–ÐµÐºÐµ Ð¼Ð°Ð°Ð»Ñ‹Ð¼Ð°Ñ‚Ñ‚Ñ‹ ÑÐ°Ñ‚ÑƒÑƒ
-âŒ Ð¶ÐµÐºÐµÐ»ÐµÑˆÑ‚Ð¸Ñ€Ð¸Ð»Ð³ÐµÐ½ ÐºÐ»Ð°ÑÑÐ¸ÐºÐ°Ð»Ñ‹Ðº Ð¶Ð°Ñ€Ð½Ð°Ð¼Ð°
-âŒ Ð–Ð°Ñ€Ð½Ð°Ð¼Ð°Ð»Ñ‹Ðº Ð¼Ð°ÐºÑÐ°Ñ‚Ñ‚Ð°Ñ€ Ò¯Ñ‡Ò¯Ð½ ÐºÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÑ‡ÑƒÐ½ÑƒÐ½ Ð¶Ò¯Ñ€Ò¯Ð¼-Ñ‚ÑƒÑ€ÑƒÐ¼ÑƒÐ½ ÐºÓ©Ð·Ó©Ð¼Ó©Ð»Ð´Ó©Ó©
-âŒ Ð–ÐµÐºÐµ Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹Ñˆ Ð¼Ð°Ð°Ð»Ñ‹Ð¼Ð°Ñ‚Ñ‚Ð°Ñ€Ñ‹Ð½ ÑÐ°Ñ‚ÑƒÑƒ
-âŒ Ð¶Ð°ÑˆÑ‹Ñ€ÑƒÑƒÐ½ AI Ð¼Ð°Ð°Ð»Ñ‹Ð¼Ð°Ñ‚Ñ‚Ð°Ñ€Ñ‹Ð½ ÐºÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒ
-âŒ Ð¼Ð°Ð½Ð¸Ð¿ÑƒÐ»ÑÑ†Ð¸ÑÐ»Ñ‹Ðº Ð¿Ñ€ÐµÐ¼Ð¸ÑƒÐ¼ ÐºÑƒÐ»Ð¿ÑƒÐ»Ð°Ñ€
-âŒ ÐÐºÑ‡Ð° Ñ‚Ð°Ð±ÑƒÑƒ Ò¯Ñ‡Ò¯Ð½ Ð¶Ð°ÑÐ°Ð»Ð¼Ð° Ñ‡ÐµÐºÑ‚Ó©Ó©
-âŒ Ð°ÐºÑ‹ Ñ‚Ó©Ð»Ó©Ð½Ò¯Ò¯Ñ‡Ò¯ ÑÐ°ÑÑÐ¸Ð¹ Ñ‚Ð°Ð°ÑÐ¸Ñ€
-âŒ ÐÑ€Ñ‚Ñ‹ÐºÑ‡Ñ‹Ð»Ñ‹ÐºÑ‚ÑƒÑƒ Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ Ñ‡ÐµÑ‡Ð¸Ð¼Ð´ÐµÑ€Ð¸Ð½ ÑÐ°Ñ‚Ñ‹Ð¿ Ð°Ð»ÑƒÑƒ.
+### 8. Биз эмнени каалабайбыз
+Nexus Gaja төмөнкүлөр тарабынан каржыланбайт:
+❌ Жеке маалыматты сатуу
+❌ жекелештирилген классикалык жарнама
+❌ Жарнамалык максаттар үчүн колдонуучунун жүрүм-турумун көзөмөлдөө
+❌ Жеке байланыш маалыматтарын сатуу
+❌ жашыруун AI маалыматтарын колдонуу
+❌ манипуляциялык премиум кулпулар
+❌ Акча табуу үчүн жасалма чектөө
+❌ акы төлөнүүчү саясий таасир
+❌ Артыкчылыктуу модерация чечимдерин сатып алуу.
 
-### 9. ÐÐ»Ð´Ñ‹Ð½ Ð°Ð»Ð° Ð°Ñ€Ñ…Ð¸Ñ‚ÐµÐºÑ‚ÑƒÑ€Ð°
-```Ñ‚ÐµÐºÑÑ‚
+### 9. Алдын ала архитектура
+```текст
                          NEXUS GAJA
-                              â”‚
-             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
-             â”‚ â”‚ â”‚
-             â–¼ â–¼ â–¼
-          ÐŸÐÐ™Ð”ÐÐ›ÐÐÐ£Ð£Ð§Ð£Ð›ÐÐ  Ð£Ð®ÐœÐ”ÐÐ Ð« Ð˜Ð¨ÐšÐÐÐ
-             â”‚ â”‚ â”‚
-             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
-                              â”‚
-                       ÐŸÐ›ÐÐ¢Ð¤ÐžÐ ÐœÐ ÐšÐ«Ð—ÐœÐÐ¢Ð¢ÐÐ Ð«
-                              â”‚
-          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-          â–¼ â–¼ â–¼
+                              │
+             ┌────────────────┼───────────────
+             │ │ │
+             ▼ ▼ ▼
+          ПАЙДАЛАНУУЧУЛАР УЮМДАРЫ ИШКАНА
+             │ │ │
+             └────────────────┼───────────────
+                              │
+                       ПЛАТФОРМА КЫЗМАТТАРЫ
+                              │
+          ┌─────────────────── ┼───────────────────┐
+          ▼ ▼ ▼
        PREMIUM DONATIONS API
-                              â”‚
-                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-                    â–¼ â–¼
-               Ð–ÐÐ›ÐŸÐ« Ð¤ÐžÐÐ”Ð£ÐÐ£Ð Ð§Ð•ÐšÐ¢Ð•Ð›Ð“Ð•Ð ÐšÐÐ ÐÐ–ÐÐ¢Ð¢ÐÐ 
-                                        â”‚
-                                        â–¼
-                                  Ð¡ÐžÐ¦Ð˜ÐÐ›Ð”Ð«Ðš ÐœÐÐšÐ¡ÐÐ¢
+                              │
+                    ┌─────────┴─────────┐
+                    ▼ ▼
+               ЖАЛПЫ ФОНДУНУН ЧЕКТЕЛГЕН КАРАЖАТТАР
+                                        │
+                                        ▼
+                                  СОЦИАЛДЫК МАКСАТ
 ```
 
-### ÐšÑ‹ÑÐºÐ°Ñ‡Ð° Ð¼Ð°Ð°Ð»Ñ‹Ð¼Ð°Ñ‚: ÐšÐ°Ñ€Ð¶Ñ‹Ð»Ð¾Ð¾ Ð¿Ñ€Ð¸Ð½Ñ†Ð¸Ð¿Ñ‚ÐµÑ€Ð¸ (NG-FIN)
-- **NG-FIN-001:** Nexus Gaja ÑÐ°Ð»Ñ‚Ñ‚ÑƒÑƒ Ð¶Ð°Ñ€Ð½Ð°Ð¼Ð° Ð¼ÐµÐ½ÐµÐ½ ÐºÐ°Ñ€Ð¶Ñ‹Ð»Ð°Ð½Ð±Ð°Ð¹Ñ‚.
-- **NG-FIN-002:** ÐšÐ°Ñ€Ð¶Ñ‹Ð»Ñ‹Ðº ÐºÐ¾Ð»Ð´Ð¾Ð¾ Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ†Ð¸ÑÐ³Ð° Ð¶Ðµ Ð±Ð°ÑˆÐºÐ°Ñ€ÑƒÑƒÐ³Ð° Ñ‚Ð°Ð°ÑÐ¸Ñ€Ð¸Ð½ Ñ‚Ð¸Ð¹Ð³Ð¸Ð·Ð±ÐµÐ¹Ñ‚.
-- **NG-FIN-003:** ÐšÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÑ‡ÑƒÐ½ÑƒÐ½ Ð¶ÐµÐºÐµ Ð¼Ð°Ð°Ð»Ñ‹Ð¼Ð°Ñ‚Ñ‚Ð°Ñ€Ñ‹ Ñ‚Ð¾Ð²Ð°Ñ€ ÑÐ¼ÐµÑ.
-- **NG-FIN-004:** ÐÐµÐ³Ð¸Ð·Ð³Ð¸ ÑÐ» Ð°Ñ€Ð°Ð»Ñ‹Ðº Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹Ñˆ Ñ„ÑƒÐ½ÐºÑ†Ð¸ÑÑÑ‹ Ñ‚Ó©Ð»Ó©Ð¼ÑÒ¯Ð· Ð¶ÐµÑ‚ÐºÐ¸Ð»Ð¸ÐºÑ‚Ò¯Ò¯ Ð±Ð¾Ð¹Ð´Ð¾Ð½ ÐºÐ°Ð»ÑƒÑƒÑÑƒ ÐºÐµÑ€ÐµÐº.
-- **NG-FIN-005:** ÐŸÑ€ÐµÐ¼Ð¸ÑƒÐ¼ ÑÑƒÐ½ÑƒÑˆÑ‚Ð°Ñ€Ñ‹ ÐºÑ‹Ð·Ð¼Ð°Ñ‚Ñ‚Ð°Ñ€Ð´Ñ‹Ð½ Ñ‡Ó©Ð¹Ñ€Ó©ÑÒ¯Ð½ ÐºÐµÒ£ÐµÐ¹Ñ‚ÐµÑ‚, Ð±Ð¸Ñ€Ð¾Ðº Ð±ÐµÐºÐµÑ€ ÐºÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÑ‡ÑƒÐ»Ð°Ñ€Ð´Ñ‹Ð½ ÐºÐ°Ð´Ñ‹Ñ€-Ð±Ð°Ñ€ÐºÑ‹Ð½ Ð¶Ð°Ð½Ð° Ð½ÐµÐ³Ð¸Ð·Ð³Ð¸ Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹Ñˆ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð»ÐµÑ€Ð¸Ð½ Ñ‚Ò¯ÑˆÒ¯Ñ€Ð±Ó©ÑˆÒ¯ ÐºÐµÑ€ÐµÐº.
-- **NG-FIN-006:** ÐœÐ°ÐºÑÐ°Ñ‚Ñ‚ÑƒÑƒ ÐºÐ°Ñ€Ð°Ð¶Ð°Ñ‚Ñ‚Ð°Ñ€ Ð±ÐµÐ»Ð³Ð¸Ð»Ò¯Ò¯ Ð±Ð¸Ñ€ Ð¼Ð°ÐºÑÐ°Ñ‚ Ò¯Ñ‡Ò¯Ð½ Ð±Ð°ÑˆÐºÐ°Ñ€Ñ‹Ð»Ð°Ñ‚.
-- **NG-FIN-007:** ÐšÐ°Ð¹Ñ€Ñ‹Ð¼Ð´ÑƒÑƒÐ»ÑƒÐº Ð¶Ð°Ð½Ð° ÐºÐ°Ñ€Ð¶Ñ‹Ð»Ð¾Ð¾ Ð°Ñ‡Ñ‹Ðº Ð¶Ð°Ð½Ð° Ñ‚Ò¯ÑˆÒ¯Ð½Ò¯ÐºÑ‚Ò¯Ò¯ Ð±Ð°ÑˆÐºÐ°Ñ€Ñ‹Ð»Ð°Ñ‚.
-- **NG-FIN-008:** ÐšÐ¾Ð¼Ð¼ÐµÑ€Ñ†Ð¸ÑÐ»Ñ‹Ðº ÐºÑ‹Ð·Ð¼Ð°Ñ‚Ñ‚Ð°Ñ€ Ð¿Ð»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð°Ð½Ñ‹Ð½ ÐºÓ©Ð· ÐºÐ°Ñ€Ð°Ð½Ð´Ñ‹ÑÑ‹Ð·Ð´Ñ‹Ð³Ñ‹Ð½Ð° Ñ‚Ð°Ð°ÑÐ¸Ñ€Ð¸Ð½ Ñ‚Ð¸Ð¹Ð³Ð¸Ð·Ð±ÐµÑˆÐ¸ ÐºÐµÑ€ÐµÐº.
-- **NG-FIN-009:** Nexus GajaÐ½Ñ‹Ð½ ÑÐºÐ¾Ð½Ð¾Ð¼Ð¸ÐºÐ°Ð»Ñ‹Ðº Ó©Ð½Ò¯Ð³Ò¯Ò¯ÑÒ¯ ÐºÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÑ‡ÑƒÐ»Ð°Ñ€Ð´Ñ‹Ð½ Ð¼Ð°ÐºÑÐ¸Ð¼Ð°Ð»Ð´ÑƒÑƒ Ð¼Ð¾Ð½ÐµÑ‚Ð¸Ð·Ð°Ñ†Ð¸ÑÑÑ‹Ð½Ð° ÑÐ¼ÐµÑ, ÑƒÐ·Ð°Ðº Ð¼Ó©Ó©Ð½Ó©Ñ‚Ñ‚Ò¯Ò¯ Ñ‚ÑƒÑ€ÑƒÐºÑ‚ÑƒÑƒÐ»ÑƒÐºÐºÐ° Ð±Ð°Ð³Ñ‹Ñ‚Ñ‚Ð°Ð»Ñ‹ÑˆÑ‹ ÐºÐµÑ€ÐµÐº.
-- **NG-FIN-010:** Ð­ÐºÐ¾Ð½Ð¾Ð¼Ð¸ÐºÐ°Ð»Ñ‹Ðº ÑÑ‚Ñ€ÑƒÐºÑ‚ÑƒÑ€Ð° ÑÐ¾Ñ†Ð¸Ð°Ð»Ð´Ñ‹Ðº Ð¼Ð°ÐºÑÐ°Ñ‚ÐºÐ° â€“ Ð¸Ð½Ñ‚ÐµÑ€Ð½Ð°Ñ†Ð¸Ð¾Ð½Ð°Ð»Ð´Ñ‹Ðº Ñ‚Ò¯ÑˆÒ¯Ð½Ò¯ÑˆÒ¯Ò¯Ð³Ó©, Ð¸Ð½Ñ‚ÐµÑ€Ð½Ð°Ñ†Ð¸Ð¾Ð½Ð°Ð»Ð´Ñ‹Ðº Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹ÑˆÐºÐ° Ð¶Ð°Ð½Ð° ÑÐ»Ð´ÐµÑ€Ð´Ð¸Ð½ Ð¾Ñ€Ñ‚Ð¾ÑÑƒÐ½Ð´Ð°Ð³Ñ‹ Ð´Ð¾ÑÑ‚ÑƒÐºÐºÐ° Ñ‚ÑƒÑ€ÑƒÐºÑ‚ÑƒÑƒ ÑˆÐ°Ñ€Ñ‚ Ñ‚Ò¯Ð·Ò¯ÑˆÒ¯ ÐºÐµÑ€ÐµÐº.
+### Кыскача маалымат: Каржылоо принциптери (NG-FIN)
+- **NG-FIN-001:** Nexus Gaja салттуу жарнама менен каржыланбайт.
+- **NG-FIN-002:** Каржылык колдоо модерацияга же башкарууга таасирин тийгизбейт.
+- **NG-FIN-003:** Колдонуучунун жеке маалыматтары товар эмес.
+- **NG-FIN-004:** Негизги эл аралык байланыш функциясы төлөмсүз жеткиликтүү бойдон калуусу керек.
+- **NG-FIN-005:** Премиум сунуштары кызматтардын чөйрөсүн кеңейтет, бирок бекер колдонуучулардын кадыр-баркын жана негизги байланыш параметрлерин түшүрбөшү керек.
+- **NG-FIN-006:** Максаттуу каражаттар белгилүү бир максат үчүн башкарылат.
+- **NG-FIN-007:** Кайрымдуулук жана каржылоо ачык жана түшүнүктүү башкарылат.
+- **NG-FIN-008:** Коммерциялык кызматтар платформанын көз карандысыздыгына таасирин тийгизбеши керек.
+- **NG-FIN-009:** Nexus Gajaнын экономикалык өнүгүүсү колдонуучулардын максималдуу монетизациясына эмес, узак мөөнөттүү туруктуулукка багытталышы керек.
+- **NG-FIN-010:** Экономикалык структура социалдык максатка – интернационалдык түшүнүшүүгө, интернационалдык байланышка жана элдердин ортосундагы достукка туруктуу шарт түзүшү керек.
 
-## API, Ð¸Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹Ñ Ð¶Ð°Ð½Ð° Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹Ñˆ Ð°Ñ€Ñ…Ð¸Ñ‚ÐµÐºÑ‚ÑƒÑ€Ð°ÑÑ‹ (WP 1.11.3)
+## API, интерфейс жана байланыш архитектурасы (WP 1.11.3)
 
-Ð¡Ð¸ÑÑ‚ÐµÐ¼Ð°Ð½Ñ‹Ð½ Ñ‚ÑƒÑ€ÑƒÐºÑ‚ÑƒÑƒÐ»ÑƒÐ³ÑƒÐ½, ÐºÐ¾Ð¾Ð¿ÑÑƒÐ·Ð´ÑƒÐ³ÑƒÐ½ Ð¶Ð°Ð½Ð° Ð¼Ð°ÑÑˆÑ‚Ð°Ð±Ð´ÑƒÑƒÐ»ÑƒÐ³ÑƒÐ½ ÐºÐ°Ð¼ÑÑ‹Ð· ÐºÑ‹Ð»ÑƒÑƒ Ò¯Ñ‡Ò¯Ð½ Nexus Gaja API Ð½ÐµÐ³Ð¸Ð·Ð¸Ð½Ð´ÐµÐ³Ð¸ Ð¶Ð°Ð½Ð° Ð¾ÐºÑƒÑÐ»Ð°Ñ€Ð³Ð° Ð½ÐµÐ³Ð¸Ð·Ð´ÐµÐ»Ð³ÐµÐ½ Ð°Ñ€Ñ…Ð¸Ñ‚ÐµÐºÑ‚ÑƒÑ€Ð°Ð½Ñ‹ ÐºÐ¾Ð»Ð´Ð¾Ð½Ð¾Ñ‚.
+Системанын туруктуулугун, коопсуздугун жана масштабдуулугун камсыз кылуу үчүн Nexus Gaja API негизиндеги жана окуяларга негизделген архитектураны колдонот.
 
-### ÐÐµÐ³Ð¸Ð·Ð³Ð¸ Ð¿Ñ€Ð¸Ð½Ñ†Ð¸Ð¿Ñ‚ÐµÑ€
-- **Ð¢Ò¯Ð·Ð´Ó©Ð½-Ñ‚Ò¯Ð· Ð±ÐµÑ€Ð¸Ð»Ð¸ÑˆÑ‚ÐµÑ€ Ð±Ð°Ð·Ð°ÑÑ‹Ð½Ð° ÐºÐ¸Ñ€Ò¯Ò¯ Ð¶Ð¾Ðº: ** ÐšÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ñ‚ÐµÑ€ Ð±Ð¸Ñ€ Ð³Ð°Ð½Ð° Ð°Ð½Ñ‹ÐºÑ‚Ð°Ð»Ð³Ð°Ð½ Ð¸Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹ÑÑ‚ÐµÑ€ (API Ð¶Ðµ Ð¾ÐºÑƒÑÐ»Ð°Ñ€) Ð°Ñ€ÐºÑ‹Ð»ÑƒÑƒ Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹ÑˆÐ°Ñ‚, ÑÑ‡ ÐºÐ°Ñ‡Ð°Ð½ Ð±Ð°ÑˆÐºÐ° ÐºÑ‹Ð·Ð¼Ð°Ñ‚Ñ‚Ð°Ñ€Ð´Ð°Ð½ Ñ‚Ò¯Ð· Ð¼Ð°Ð°Ð»Ñ‹Ð¼Ð°Ñ‚ Ð±Ð°Ð·Ð°ÑÑ‹Ð½Ð° ÑÑƒÑ€Ð¾Ð¾-Ñ‚Ð°Ð»Ð°Ð¿Ñ‚Ð°Ñ€ Ð°Ñ€ÐºÑ‹Ð»ÑƒÑƒ.
-- **API Gateway:** Ð‘Ð°Ñ€Ð´Ñ‹Ðº Ñ‚Ñ‹ÑˆÐºÑ‹ ÐºÐ°Ñ€Ð´Ð°Ñ€ ÑÑƒÑ€Ð¾Ð¾-Ñ‚Ð°Ð»Ð°Ð¿Ñ‚Ð°Ñ€Ñ‹ Ð°Ð½Ñ‹ÐºÑ‚Ñ‹Ð³Ñ‹Ð½ Ñ‚ÐµÐºÑˆÐµÑ€Ò¯Ò¯, Ð¼Ð°Ñ€ÑˆÑ€ÑƒÑ‚Ñ‚Ð°ÑˆÑ‚Ñ‹Ñ€ÑƒÑƒ Ð¶Ð°Ð½Ð° Ñ‹Ð»Ð´Ð°Ð¼Ð´Ñ‹ÐºÑ‚Ñ‹ Ñ‡ÐµÐºÑ‚Ó©Ó©Ð½Ò¯ Ñ‚ÐµÐ¹Ð»ÐµÐ³ÐµÐ½ API ÑˆÐ»ÑŽÐ·Ð¸ Ð°Ñ€ÐºÑ‹Ð»ÑƒÑƒ Ó©Ñ‚Ó©Ñ‚.
-- **ÐŸÑ€Ð¾Ð²Ð°Ð¹Ð´ÐµÑ€Ð´Ð¸Ð½ Ð°Ð±ÑÑ‚Ñ€Ð°ÐºÑ†Ð¸ÑÑÑ‹:** Ð¢Ñ‹ÑˆÐºÑ‹ ÐºÑ‹Ð·Ð¼Ð°Ñ‚Ñ‚Ð°Ñ€ (AI Ð¼Ð¾Ð´ÐµÐ»Ð´ÐµÑ€Ð¸, Ñ‚Ó©Ð»Ó©Ð¼ Ð¿Ñ€Ð¾Ð²Ð°Ð¹Ð´ÐµÑ€Ð»ÐµÑ€Ð¸, ÐºÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾ ÐºÑ‹Ð¹Ð¼Ñ‹Ð»Ð´Ð°Ñ‚ÐºÑ‹Ñ‡Ñ‚Ð°Ñ€Ñ‹) Ð°Ð±ÑÑ‚Ñ€Ð°ÐºÑ†Ð¸Ñ ÐºÐ°Ñ‚Ð¼Ð°Ñ€Ð»Ð°Ñ€Ñ‹ Ð°Ñ€ÐºÑ‹Ð»ÑƒÑƒ Ð¸Ð½Ñ‚ÐµÐ³Ñ€Ð°Ñ†Ð¸ÑÐ»Ð°Ð½Ð³Ð°Ð½. Ð‘ÑƒÐ» ÐºÐ°Ñ‚ÑƒÑƒ Ð·Ñ‹Ð¼Ð´ÑƒÑƒ ÐºÓ©Ð· ÐºÐ°Ñ€Ð°Ð½Ð´Ñ‹Ð»Ñ‹ÐºÑ‚Ñ‹ Ð°Ð»Ð´Ñ‹Ð½ Ð°Ð»Ð°Ñ‚ Ð¶Ð°Ð½Ð° Ð¿Ñ€Ð¾Ð²Ð°Ð¹Ð´ÐµÑ€Ð´Ð¸Ð½ Ð¸Ð¹ÐºÐµÐ¼Ð´Ò¯Ò¯ Ó©Ñ‚Ò¯ÑˆÒ¯Ð½Ó© Ð¼Ò¯Ð¼ÐºÒ¯Ð½Ð´Ò¯Ðº Ð±ÐµÑ€ÐµÑ‚.
+### Негизги принциптер
+- **Түздөн-түз берилиштер базасына кирүү жок: ** Компоненттер бир гана аныкталган интерфейстер (API же окуялар) аркылуу байланышат, эч качан башка кызматтардан түз маалымат базасына суроо-талаптар аркылуу.
+- **API Gateway:** Бардык тышкы кардар суроо-талаптары аныктыгын текшерүү, маршрутташтыруу жана ылдамдыкты чектөөнү тейлеген API шлюзи аркылуу өтөт.
+- **Провайдердин абстракциясы:** Тышкы кызматтар (AI моделдери, төлөм провайдерлери, котормо кыймылдаткычтары) абстракция катмарлары аркылуу интеграцияланган. Бул катуу зымдуу көз карандылыкты алдын алат жана провайдердин ийкемдүү өтүшүнө мүмкүндүк берет.
 
-### Ð‘Ð°Ð¹Ð»Ð°Ð½Ñ‹Ñˆ Ò¯Ð»Ð³Ò¯Ð»Ó©Ñ€Ò¯
-- **Ð¡Ð¸Ð½Ñ…Ñ€Ð¾Ð½Ð´ÑƒÑƒ API'Ð»ÐµÑ€ (REST/HTTPS):** ÐšÐ¸Ñ€Ò¯Ò¯, Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŒ Ð¶Ó©Ð½Ð´Ó©Ó©Ð»Ó©Ñ€Ò¯ Ð¶Ðµ Ñ‚Ò¯Ð· ÐºÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾ ÑÑ‹ÑÐºÑ‚ÑƒÑƒ Ð´Ð°Ñ€Ð¾Ð¾ ÑÑƒÑ€Ð¾Ð¾-Ñ‚Ð°Ð»Ð°Ð¿Ñ‚Ð°Ñ€ Ò¯Ñ‡Ò¯Ð½ ÐºÐ¾Ð»Ð´Ð¾Ð½ÑƒÐ»Ð°Ñ‚.
-- **ÐÑÐ¸Ð½Ñ…Ñ€Ð¾Ð½Ð´ÑƒÐº Ð¾ÐºÑƒÑÐ»Ð°Ñ€ (ÐžÐºÑƒÑ Ð°Ð²Ñ‚Ð¾Ð±ÑƒÑÑƒ):** Nexus GajaÐ½Ñ‹Ð½ Ð±Ð¾Ñ€Ð±Ð¾Ñ€Ð´ÑƒÐº Ð½ÐµÑ€Ð² ÑÐ¸ÑÑ‚ÐµÐ¼Ð°ÑÑ‹ Ð°Ð¶Ñ‹Ñ€Ð°Ñ‚Ñ‹Ð»Ð³Ð°Ð½ Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‚ÐµÑ€ Ò¯Ñ‡Ò¯Ð½ (Ð¼Ð¸ÑÐ°Ð»Ñ‹, `Message.Created` Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ†Ð¸ÑÐ½Ñ‹, ÐºÐ¾Ñ‚Ð¾Ñ€ÑƒÑƒÐ½Ñƒ Ð¶Ð°Ð½Ð° ÑÑÐºÐµÑ€Ñ‚Ò¯Ò¯Ð½Ò¯ Ð°ÑÐ¸Ð½Ñ…Ñ€Ð¾Ð½Ð´ÑƒÐº Ñ‚Ò¯Ñ€Ð´Ó© Ð¸ÑˆÑ‚ÐµÑ‚ÐµÑ‚).
-- **Ð§Ñ‹Ð½Ñ‹Ð³Ñ‹ ÑƒÐ±Ð°ÐºÑ‹Ñ‚ (WebSocket):** Ð–Ð°Ð½Ð´ÑƒÑƒ Ð±Ð°Ð°Ñ€Ð»Ð°ÑˆÑƒÑƒ Ð¶Ð°Ð½Ð° Ñ‚ÐµÑ€Ò¯Ò¯ ÑÑ‚Ð°Ñ‚ÑƒÑÑƒ Ò¯Ñ‡Ò¯Ð½ Ð°Ñ‚Ð°Ð¹Ñ‹Ð½ ÐºÐ°Ð½Ð°Ð»Ð´Ð°Ñ€.
+### Байланыш үлгүлөрү
+- **Синхрондуу API'лер (REST/HTTPS):** Кирүү, профиль жөндөөлөрү же түз котормо сыяктуу дароо суроо-талаптар үчүн колдонулат.
+- **Асинхрондук окуялар (Окуя автобусу):** Nexus Gajaнын борбордук нерв системасы ажыратылган процесстер үчүн (мисалы, `Message.Created` модерацияны, которууну жана эскертүүнү асинхрондук түрдө иштетет).
+- **Чыныгы убакыт (WebSocket):** Жандуу баарлашуу жана терүү статусу үчүн атайын каналдар.
 
-### ÐšÐ¾Ð¾Ð¿ÑÑƒÐ·Ð´ÑƒÐº Ð¶Ð°Ð½Ð° Ð¸ÑˆÐµÐ½Ð¸Ð¼Ð´Ò¯Ò¯Ð»Ò¯Ðº
-- **ÐÓ©Ð» Trust Model:** Ð˜Ñ‡ÐºÐ¸ Ñ‚Ð°Ñ€Ð¼Ð°Ðº Ñ‚Ñ€Ð°Ñ„Ð¸Ð³Ð¸ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ñ‚Ñ‹Ðº Ñ‚Ò¯Ñ€Ð´Ó© Ð¸ÑˆÐµÐ½Ð±ÐµÐ¹Ñ‚; ÐšÑ‹Ð·Ð¼Ð°Ñ‚Ñ‚Ð°Ð½ Ñ‚ÐµÐ¹Ð»Ó©Ó©Ð³Ó© ÑÐµÐ·Ð³Ð¸Ñ‡ Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹Ñˆ Ð°ÑƒÑ‚ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸ÑÐ½Ñ‹ Ñ‚Ð°Ð»Ð°Ð¿ ÐºÑ‹Ð»Ð°Ñ‚.
-- **Ð˜Ð´ÐµÐ¼Ð¿Ð¾Ñ‚ÐµÐ½Ñ‚Ñ‚Ò¯Ò¯Ð»Ò¯Ðº Ð¶Ð°Ð½Ð° Ð§Ñ‹Ð³ÑƒÑƒÑ‡Ñƒ ÐºÑƒÑ‚ÑƒÑ‡Ð° Ò¯Ð»Ð³Ò¯ÑÒ¯:** ÐšÑ€Ð¸Ñ‚Ð¸ÐºÐ°Ð»Ñ‹Ðº Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸ÑÐ»Ð°Ñ€ (Ð¼Ð¸ÑÐ°Ð»Ñ‹, ÐºÐ°Ð¹Ñ€Ñ‹Ð¼Ð´ÑƒÑƒÐ»ÑƒÐº Ð¶Ðµ Ð±Ð¸Ð»Ð´Ð¸Ñ€Ò¯Ò¯Ð»Ó©Ñ€) Ð±Ð¸Ñ€ Ð½ÐµÑ‡Ðµ Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‚Ð¸Ð½ Ð°Ð»Ð´Ñ‹Ð½ Ð°Ð»ÑƒÑƒ Ò¯Ñ‡Ò¯Ð½ Ð¸Ð´ÐµÐ¼Ð¿Ð¾Ñ‚ÐµÐ½Ñ‚Ñ‚Ò¯Ò¯ Ð±Ð¾Ð»ÑƒÑƒÐ³Ð° Ð¶Ð°Ð½Ð° Ð¼Ð°Ð°Ð»Ñ‹Ð¼Ð°Ñ‚ Ð±Ð°Ð·Ð°ÑÑ‹Ð½Ð´Ð°Ð³Ñ‹ Ñ‚Ñ€Ð°Ð½Ð·Ð°ÐºÑ†Ð¸ÑÐ»Ð°Ñ€Ð´Ð° Ð¾ÐºÑƒÑÐ»Ð°Ñ€Ð´Ñ‹Ð½ Ð¶Ð¾Ð³Ð¾Ð»ÑƒÐ¿ ÐºÐµÑ‚Ð¿ÐµÑˆÐ¸ Ò¯Ñ‡Ò¯Ð½ Ñ‡Ñ‹Ð³Ñ‹Ñˆ ÐºÑƒÑ‚ÑƒÑÑƒÐ½ÑƒÐ½ Ò¯Ð»Ð³Ò¯ÑÒ¯Ð½ ÐºÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÐ³Ð° Ð°Ñ€Ð½Ð°Ð»Ð³Ð°Ð½.
+### Коопсуздук жана ишенимдүүлүк
+- **Нөл Trust Model:** Ички тармак трафиги автоматтык түрдө ишенбейт; Кызматтан тейлөөгө сезгич байланыш аутентификацияны талап кылат.
+- **Идемпотенттүүлүк жана Чыгуучу кутуча үлгүсү:** Критикалык операциялар (мисалы, кайрымдуулук же билдирүүлөр) бир нече процесстин алдын алуу үчүн идемпотенттүү болууга жана маалымат базасындагы транзакцияларда окуялардын жоголуп кетпеши үчүн чыгыш кутусунун үлгүсүн колдонууга арналган.
 
-## MVP Ð´Ð¾Ð¼ÐµÐ½ Ð¼Ð¾Ð´ÐµÐ»Ð¸ (WP 1.12)
+## MVP домен модели (WP 1.12)
 
-![Nexus Gaja Ð¼Ð¾Ð´ÑƒÐ»Ð´ÑƒÐº Ð¼Ð¾Ð½Ð¾Ð»Ð¸Ñ‚](assets/img/nexus_architecture.jpg)
+![Nexus Gaja модулдук монолит](assets/img/nexus_architecture.jpg)
 
-Nexus Gaja Ñ‚Ð°Ðº Ð´Ð¾Ð¼ÐµÐ½ Ñ‡ÐµÐºÑ‚ÐµÑ€Ð¸ Ð¼ÐµÐ½ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»Ð´ÑƒÐº Ð¼Ð¾Ð½Ð¾Ð»Ð¸Ñ‚ ÐºÐ°Ñ‚Ð°Ñ€Ñ‹ Ð¸ÑˆÑ‚ÐµÐ»Ð¸Ð¿ Ñ‡Ñ‹ÐºÐºÐ°Ð½ ÐºÐ°Ñ‚ÑƒÑƒ Ð´Ð¾Ð¼ÐµÐ½Ð³Ðµ Ð½ÐµÐ³Ð¸Ð·Ð´ÐµÐ»Ð³ÐµÐ½ MVP Ð°Ñ€Ñ…Ð¸Ñ‚ÐµÐºÑ‚ÑƒÑ€Ð°ÑÑ‹Ð½ (ADR-025) ÐºÐ¾Ð»Ð´Ð¾Ð½Ð¾Ñ‚. Ð‘ÑƒÐ» ÑÑ‚Ñ€ÑƒÐºÑ‚ÑƒÑ€Ð° ÐºÐ¸Ð¹Ð¸Ð½Ñ‡ÐµÑ€ÑÑÐº Ð±ÐµÐ»Ð³Ð¸Ð»Ò¯Ò¯ Ð´Ð¾Ð¼ÐµÐ½Ð´ÐµÑ€Ð´Ð¸ Ð°ÑƒÑ‚ÑÐ¾Ñ€ÑÐ¸Ð½Ð³Ð³Ðµ Ð¸Ð¹ÐºÐµÐ¼Ð´Ò¯Ò¯Ð»Ò¯ÐºÑ‚Ò¯ ÑÐ°ÐºÑ‚Ð°Ð¿, Ð¼Ð¸ÐºÑ€Ð¾ÑÐµÑ€Ð²Ð¸ÑÑ‚Ð¸Ð½ Ð°Ð»Ð³Ð°Ñ‡ÐºÑ‹ Ñ‚Ð°Ñ‚Ð°Ð°Ð»Ð´Ñ‹Ð³Ñ‹Ð½ Ð°Ð»Ð´Ñ‹Ð½ Ð°Ð»Ð°Ñ‚.
+Nexus Gaja так домен чектери менен модулдук монолит катары иштелип чыккан катуу доменге негизделген MVP архитектурасын (ADR-025) колдонот. Бул структура кийинчерээк белгилүү домендерди аутсорсингге ийкемдүүлүктү сактап, микросервистин алгачкы татаалдыгын алдын алат.
 
-### Ð¢ÐµÑ…Ð½Ð¸ÐºÐ°Ð»Ñ‹Ðº Ð½ÐµÐ³Ð¸Ð·Ð³Ð¸ ÑÑƒÐ±ÑŠÐµÐºÑ‚Ñ‚ÐµÑ€
-ÐÑ€Ñ…Ð¸Ñ‚ÐµÐºÑ‚ÑƒÑ€Ð° Ð¼Ð°Ð°Ð»Ñ‹Ð¼Ð°Ñ‚Ñ‚Ð°Ñ€Ð´Ñ‹Ð½ Ð±Ò¯Ñ‚Ò¯Ð½Ð´Ò¯Ð³Ò¯Ð½ ÐºÐ°Ð¼ÑÑ‹Ð· ÐºÑ‹Ð»ÑƒÑƒ Ð¶Ð°Ð½Ð° "ÐºÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÑ‡ÑƒÐ½ÑƒÐ½ Ð°Ñ‚Ñ‹ = Ð°Ð´Ð°Ð¼" ÑÑ‹ÑÐºÑ‚ÑƒÑƒ ÐºÐ°Ñ‚Ð°Ð»Ð°Ñ€Ð´Ñ‹ Ð±Ð¾Ð»Ñ‚ÑƒÑ€Ð±Ð¾Ð¾ Ò¯Ñ‡Ò¯Ð½ Ñ‚Ò¯ÑˆÒ¯Ð½Ò¯ÐºÑ‚Ó©Ñ€Ð´Ò¯ ÐºÐ°Ñ‚ÑƒÑƒ Ð±Ó©Ð»Ò¯Ð¿ Ñ‚ÑƒÑ€Ð°Ñ‚:
-- **Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¶Ð°Ð½Ð° ÐšÐ°Ñ‚Ñ‚Ð¾Ð¾ ÑÑÐµÐ¿Ñ‚ÐµÑ€Ð¸:** `ÐÐ´Ð°Ð¼` â‰  `ÐšÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÑ‡ÑƒÐ½ÑƒÐ½ Ð°ÐºÐºÐ°ÑƒÐ½Ñ‚Ñƒ` â‰  `Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸ÑÐ»Ð¾Ð¾`. Ð¢ÐµÐºÑˆÐµÑ€Ð¸Ð»Ð³ÐµÐ½ Ð°Ð´Ð°Ð¼ Ð±Ð¸Ñ€ Ð°ÐºÐºÐ°ÑƒÐ½Ñ‚ Ð°Ñ€ÐºÑ‹Ð»ÑƒÑƒ ÐºÐ°Ñ‚Ñ‹ÑˆÐ°Ñ‚, Ð±Ð¸Ñ€Ð¾Ðº ÑÑƒÐ±ÑŠÐµÐºÑ‚Ñ‚ÐµÑ€ Ó©Ð·Ò¯Ð½Ñ‡Ó© Ð±Ð¾Ð¹Ð´Ð¾Ð½ ÐºÐ°Ð»ÑƒÑƒÐ´Ð°.
-- **Ð‘Ð°Ð¹Ð»Ð°Ð½Ñ‹Ñˆ:** `ÐšÐ°Ð±Ð°Ñ€` â‰  `ÐšÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾`. Ð¢Ò¯Ð¿Ð½ÑƒÑÐºÐ° Ð±Ð¸Ð»Ð´Ð¸Ñ€Ò¯Ò¯ Ó©Ð·Ð³Ó©Ñ€Ò¯Ð»Ð±Ó©Ð¹Ñ‚; ÐšÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾Ð»Ð¾Ñ€ Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹ÑˆÐºÐ°Ð½ Ð¾Ð±ÑŠÐµÐºÑ‚Ñ‚ÐµÑ€.
-- **ÐœÐ¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ:** `Ð‘Ð°ÑÐ½Ð´Ð°Ð¼Ð°` â‰  `ÐœÐ¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ Ñ‡ÐµÑ‡Ð¸Ð¼Ð¸`. Ð‘Ð¸Ð»Ð´Ð¸Ñ€Ò¯Ò¯ Ð¶Ó©Ð½ Ð³Ð°Ð½Ð° ÐºÓ©Ñ€ÑÓ©Ñ‚ÐºÒ¯Ñ‡; Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ‚Ð¾Ñ€ Ð¸Ð»Ð¸ÐºÑ‚Ó©Ó© Ð¶Ò¯Ñ€Ð³Ò¯Ð·Ó©Ñ‚.
-- **Ð¤Ð¸Ð½Ð°Ð½ÑÑ‹:** `ÐºÐ°Ð¹Ñ€Ñ‹Ð¼Ð´ÑƒÑƒÐ»ÑƒÐº` â‰  `Ð¤Ð¾Ð½Ð´ Ð±Ð°Ð»Ð°Ð½ÑÑ‹`. Ð¢Ó©Ð»Ó©Ð¼Ð´Ó©Ñ€ Ð±ÑƒÑ…Ð³Ð°Ð»Ñ‚ÐµÑ€Ð´Ð¸Ðº ÐºÐ¸Ñ‚ÐµÐ¿ (ÐºÐ°ÑÑÐ°Ð»Ñ‹Ðº ÐºÐ¸Ñ‚ÐµÐ¿) Ð°Ñ€ÐºÑ‹Ð»ÑƒÑƒ Ñ„Ð¾Ð½Ð´Ð³Ð¾ Ó©Ð·Ð³Ó©Ñ€Ò¯Ð»Ð±Ó©Ð¹Ñ‚.
+### Техникалык негизги субъекттер
+Архитектура маалыматтардын бүтүндүгүн камсыз кылуу жана "колдонуучунун аты = адам" сыяктуу каталарды болтурбоо үчүн түшүнүктөрдү катуу бөлүп турат:
+- **Идентификатор жана Каттоо эсептери:** `Адам` ≠ `Колдонуучунун аккаунту` ≠ `Идентификациялоо`. Текшерилген адам бир аккаунт аркылуу катышат, бирок субъекттер өзүнчө бойдон калууда.
+- **Байланыш:** `Кабар` ≠ `Котормо`. Түпнуска билдирүү өзгөрүлбөйт; Котормолор байланышкан объекттер.
+- **Модерация:** `Баяндама` ≠ `Модерация чечими`. Билдирүү жөн гана көрсөткүч; модератор иликтөө жүргүзөт.
+- **Финансы:** `кайрымдуулук` ≠ `Фонд балансы`. Төлөмдөр бухгалтердик китеп (кассалык китеп) аркылуу фондго өзгөрүлбөйт.
 
-### Ð‘Ð°Ð¹Ð»Ð°Ð½Ñ‹ÑˆÐºÐ°Ð½ Ð¿Ñ€ÐµÐ´Ð¼ÐµÑ‚Ñ‚Ð¸Ðº Ð´Ð¾Ð¼ÐµÐ½Ð´ÐµÑ€
-Ð¡Ð¸ÑÑ‚ÐµÐ¼Ð° Ð»Ð¾Ð³Ð¸ÐºÐ°Ð»Ñ‹Ðº Ð´Ð¾Ð¼ÐµÐ½Ð´ÐµÑ€Ð³Ðµ (Ñ‡ÐµÐºÑ‚ÐµÐ»Ð³ÐµÐ½ ÐºÐ¾Ð½Ñ‚ÐµÐºÑÑ‚Ñ‚ÐµÑ€Ð³Ðµ) Ð±Ó©Ð»Ò¯Ð½Ó©Ñ‚: Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ñ, ÐšÐ°Ñ‚Ñ‚Ð¾Ð¾ ÑÑÐµÐ±Ð¸, Ð£ÑŽÐ¼, Ð‘Ð°Ð¹Ð»Ð°Ð½Ñ‹Ñˆ, ÐšÐ¾Ð¾Ð¼Ñ‡ÑƒÐ»ÑƒÐº, Ð¢Ð¸Ð», ÐœÐ¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ, Ð‘Ð¸Ð»Ð´Ð¸Ñ€Ò¯Ò¯, ÐšÐ°Ñ€Ð¶Ñ‹ Ð¶Ð°Ð½Ð° Ð‘Ð°ÑˆÐºÐ°Ñ€ÑƒÑƒ. ÐÐ»Ð°Ñ€ Ñ‡Ñ‹Ð½Ñ‹Ð³Ñ‹ Ð°ÐºÑ‚ÐµÑ€Ð»Ð¾Ñ€Ð´Ð¾Ð½ (ÐºÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÑ‡ÑƒÐ»Ð°Ñ€, Ð¼ÐµÐºÑ‚ÐµÐ¿Ñ‚ÐµÑ€, Ð±ÐµÐ¹Ó©ÐºÐ¼Ó©Ñ‚ ÑƒÑŽÐ¼Ð´Ð°Ñ€) ÑÐ°Ð½Ð°Ñ€Ð¸Ð¿Ñ‚Ð¸Ðº Ó©Ð· Ð°Ñ€Ð° Ð°Ñ€Ð°ÐºÐµÑ‚Ñ‚ÐµÐ½Ò¯Ò¯ÑÒ¯Ð½Ó© Ñ‡ÐµÐ¹Ð¸Ð½ Ð±Ò¯Ñ‚ Ñ‡Ñ‹Ð½Ð¶Ñ‹Ñ€Ð´Ñ‹ Ð±Ð¸Ð»Ð´Ð¸Ñ€ÐµÑ‚.
+### Байланышкан предметтик домендер
+Система логикалык домендерге (чектелген контексттерге) бөлүнөт: Идентификация, Каттоо эсеби, Уюм, Байланыш, Коомчулук, Тил, Модерация, Билдирүү, Каржы жана Башкаруу. Алар чыныгы актерлордон (колдонуучулар, мектептер, бейөкмөт уюмдар) санариптик өз ара аракеттенүүсүнө чейин бүт чынжырды билдирет.
 
-## Ð”Ð¾Ð»Ð±Ð¾Ð¾Ñ€Ð´ÑƒÐ½ Ð°Ð±Ð°Ð»Ñ‹
-Ð”Ð¾Ð»Ð±Ð¾Ð¾Ñ€ Ð°ÐºÑ‚Ð¸Ð²Ð´Ò¯Ò¯ Ð°Ñ€Ñ…Ð¸Ñ‚ÐµÐºÑ‚ÑƒÑ€Ð° Ð¶Ð°Ð½Ð° Ð¿Ð»Ð°Ð½Ð´Ð°ÑˆÑ‚Ñ‹Ñ€ÑƒÑƒ Ð±Ð°ÑÐºÑ‹Ñ‡Ñ‹Ð½Ð´Ð°.
-Ð£Ñ‡ÑƒÑ€Ð´Ð°Ð³Ñ‹ Ð°Ñ€Ñ…Ð¸Ñ‚ÐµÐºÑ‚ÑƒÑ€Ð°Ð»Ñ‹Ðº Ñ‡ÐµÑ‡Ð¸Ð¼Ð´ÐµÑ€ `/docs` Ð¿Ð°Ð¿ÐºÐ°ÑÑ‹Ð½Ð´Ð° Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‚ÐµÑˆÑ‚Ð¸Ñ€Ð¸Ð»ÐµÑ‚.
+## Долбоордун абалы
+Долбоор активдүү архитектура жана пландаштыруу баскычында.
+Учурдагы архитектуралык чечимдер `/docs` папкасында документтештирилет.
 
 ---
 
-## Ð›Ð¸Ñ†ÐµÐ½Ð·Ð¸Ñ Ð¶Ð°Ð½Ð° Ð¸Ð½Ñ‚ÐµÐ»Ð»ÐµÐºÑ‚ÑƒÐ°Ð»Ð´Ñ‹Ðº Ð¼ÐµÐ½Ñ‡Ð¸Ðº
+## Лицензия жана интеллектуалдык менчик
 
-> **Â© 2024-2026 SonnerStudio - Ð¯Ð½ Ð¤Ñ€Ð¸ÑÐºÐµ SonnerStudio'Ð½ÑƒÐ½ Ð½ÐµÐ³Ð¸Ð·Ð´Ó©Ó©Ñ‡Ò¯ÑÒ¯, ÑÑÑÐ¸, Ð´Ð¸Ñ€ÐµÐºÑ‚Ð¾Ñ€Ñƒ Ð¶Ð°Ð½Ð° Ð±Ð°ÑˆÐºÑ‹ Ð´Ð¸Ð·Ð°Ð¹Ð½ÐµÑ€Ð¸ â€” Ð‘Ð°Ñ€Ð´Ñ‹Ðº ÑƒÐºÑƒÐºÑ‚Ð°Ñ€ ÐºÐ¾Ñ€Ð³Ð¾Ð»Ð³Ð¾Ð½.**
+> **© 2024-2026 SonnerStudio - Ян Фриске SonnerStudio'нун негиздөөчүсү, ээси, директору жана башкы дизайнери — Бардык укуктар корголгон.**
 
-**Nexus Gaja** **SonnerStudio** Ð°ÑÑ‚Ñ‹Ð½Ð´Ð° Ð¸ÑˆÑ‚ÐµÐ³ÐµÐ½ **Jan Friske** ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸ÑÑÑ‹Ð½Ñ‹Ð½ ÑÐºÑÐºÐ»ÑŽÐ·Ð¸Ð²Ð´Ò¯Ò¯ Ð¸Ð½Ñ‚ÐµÐ»Ð»ÐµÐºÑ‚ÑƒÐ°Ð»Ð´Ñ‹Ðº Ð¼ÐµÐ½Ñ‡Ð¸Ð³Ð¸ Ð±Ð¾Ð»ÑƒÐ¿ ÑÐ°Ð½Ð°Ð»Ð°Ñ‚.
+**Nexus Gaja** **SonnerStudio** астында иштеген **Jan Friske** компаниясынын эксклюзивдүү интеллектуалдык менчиги болуп саналат.
 
-Ð¯Ð½ Ð¤Ñ€Ð¸ÑÐºÐµ Nexus GajaÐ½Ñ‹Ð½ Ð¶Ð°Ð»Ð³Ñ‹Ð· Ð¶Ð°Ñ€Ð°Ñ‚ÑƒÑƒÑ‡ÑƒÑÑƒ, Ð°Ñ€Ñ…Ð¸Ñ‚ÐµÐºÑ‚Ð¾Ñ€Ñƒ Ð¶Ð°Ð½Ð° ÑÑÑÐ¸, Ð°Ð½Ñ‹Ð½ Ð¸Ñ‡Ð¸Ð½Ð´Ðµ Ð±Ð°Ñ€Ð´Ñ‹Ðº ÐºÐ¾Ð½Ñ†ÐµÐ¿Ñ†Ð¸ÑÐ»Ð°Ñ€, Ð°Ñ€Ñ…Ð¸Ñ‚ÐµÐºÑ‚ÑƒÑ€Ð°Ð»Ð°Ñ€, Ð´Ð¾Ð¼ÐµÐ½ Ð¼Ð¾Ð´ÐµÐ»Ð´ÐµÑ€Ð¸, Ð±Ñ€ÐµÐ½Ð´Ð´Ð¸Ð½ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸ÑÑÑ‹ Ð¶Ð°Ð½Ð° Ñ‚Ð¸ÐµÑˆÐµÐ»Ò¯Ò¯ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‚ÐµÑ€.
+Ян Фриске Nexus Gajaнын жалгыз жаратуучусу, архитектору жана ээси, анын ичинде бардык концепциялар, архитектуралар, домен моделдери, бренддин идентификациясы жана тиешелүү документтер.
 
-**Ð­Ñ‡ ÐºÐ°Ð½Ð´Ð°Ð¹ ÑƒÐºÑƒÐºÑ‚Ð°Ñ€, Ð»Ð¸Ñ†ÐµÐ½Ð·Ð¸ÑÐ»Ð°Ñ€ Ð¶Ðµ Ð¼ÐµÐ½Ñ‡Ð¸Ðº ÐºÑ‹Ð·Ñ‹ÐºÑ‡Ñ‹Ð»Ñ‹ÐºÑ‚Ð°Ñ€Ñ‹ Ò¯Ñ‡Ò¯Ð½Ñ‡Ò¯ Ñ‚Ð°Ñ€Ð°Ð¿ÐºÐ° Ð±ÐµÑ€Ð¸Ð»Ð±ÐµÐ¹Ñ‚**, Ð°Ð»Ð°Ñ€Ð´Ñ‹Ð½ ÐºÓ©Ð»Ó©Ð¼Ò¯Ð½Ó©, Ñ€Ñ‹Ð½Ð¾ÐºÑ‚Ð¾Ð³Ñƒ Ð°Ð±Ð°Ð»Ñ‹Ð½Ð° Ð¶Ðµ Ñ‚ÐµÑ…Ð½Ð¾Ð»Ð¾Ð³Ð¸Ñ Ñ‚Ð°Ñ€Ð¼Ð°Ð³Ñ‹Ð½Ð´Ð°Ð³Ñ‹ Ñ‚Ð°Ð°ÑÐ¸Ñ€Ð¸Ð½Ðµ ÐºÐ°Ñ€Ð°Ð±Ð°ÑÑ‚Ð°Ð½.
+**Эч кандай укуктар, лицензиялар же менчик кызыкчылыктары үчүнчү тарапка берилбейт**, алардын көлөмүнө, рыноктогу абалына же технология тармагындагы таасирине карабастан.
 
-### Ð–Ð°Ð·ÑƒÑƒ Ð¶Ò¯Ð·Ò¯Ð½Ð´Ó©Ð³Ò¯ Ð¼Ð°ÐºÑƒÐ»Ð´ÑƒÐ³ÑƒÑÑƒÐ· ÑÐ¼Ð½ÐµÐ»ÐµÑ€Ð³Ðµ Ð¶Ð¾Ð» Ð±ÐµÑ€Ð¸Ð»Ð±ÐµÐ¹Ñ‚:
-- âŒ Ð‘ÑƒÐ» Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð°Ð»Ñ‹Ðº ÐºÐ°Ð¼ÑÑ‹Ð·Ð´Ð¾Ð¾Ð½Ñƒ Ð¶Ðµ Ð°Ð½Ñ‹Ð½ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‚ÐµÑ€Ð¸Ð½ ÐºÓ©Ñ‡Ò¯Ñ€Ò¯Ò£Ò¯Ð·, ÐºÐ°Ð¹Ñ€Ð° Ñ‡Ñ‹Ð³Ð°Ñ€Ñ‹Ò£Ñ‹Ð· Ð¶Ðµ Ñ‚Ð°Ñ€Ð°Ñ‚Ñ‹Ò£Ñ‹Ð·
-- âŒ Ó¨Ð·Ð³Ó©Ñ€Ñ‚Ò¯Ò¯, Ñ‹Ð»Ð°Ð¹Ñ‹ÐºÑ‚Ð°ÑˆÑ‚Ñ‹Ñ€ÑƒÑƒ Ð¶Ðµ Ñ‚ÑƒÑƒÐ½Ð´Ñƒ Ñ‡Ñ‹Ð³Ð°Ñ€Ð¼Ð°Ð»Ð°Ñ€Ð´Ñ‹ Ñ‚Ò¯Ð·Ò¯Ò¯
-- âŒ Nexus Gaja'Ð½Ñ‹Ð½ ÐºÐ°Ð°Ð»Ð°Ð³Ð°Ð½ Ð±Ó©Ð»Ò¯Ð³Ò¯Ð½ ÐºÐ¾Ð¼Ð¼ÐµÑ€Ñ†Ð¸ÑÐ»Ñ‹Ðº Ð¼Ð°ÐºÑÐ°Ñ‚Ñ‚Ð° ÐºÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒ
-- âŒ Ð ÐµÐ¿Ð¾Ð·Ð¸Ñ‚Ð¾Ñ€Ð¸Ð¹Ð´Ð¸Ð½ Ð¼Ð°Ð·Ð¼ÑƒÐ½ÑƒÐ½ **AI/LLM ÑÐ¸ÑÑ‚ÐµÐ¼Ð°Ð»Ð°Ñ€Ñ‹ Ò¯Ñ‡Ò¯Ð½ Ð¾ÐºÑƒÑ‚ÑƒÑƒ Ð¼Ð°Ð°Ð»Ñ‹Ð¼Ð°Ñ‚Ñ‚Ð°Ñ€Ñ‹ ÐºÐ°Ñ‚Ð°Ñ€Ñ‹ ÐºÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒ**
-- âŒ Ð¡ÑƒÐ±Ð»Ð¸Ñ†ÐµÐ½Ð·Ð¸Ñ Ð¶Ðµ ÑƒÐºÑƒÐºÑ‚Ð°Ñ€Ð´Ñ‹ Ò¯Ñ‡Ò¯Ð½Ñ‡Ò¯ Ð¶Ð°ÐºÑ‚Ð°Ñ€Ð³Ð° Ó©Ñ‚ÐºÓ©Ñ€Ò¯Ð¿ Ð±ÐµÑ€Ò¯Ò¯
+### Жазуу жүзүндөгү макулдугусуз эмнелерге жол берилбейт:
+- ❌ Бул программалык камсыздоону же анын документтерин көчүрүңүз, кайра чыгарыңыз же таратыңыз
+- ❌ Өзгөртүү, ылайыкташтыруу же туунду чыгармаларды түзүү
+- ❌ Nexus Gaja'нын каалаган бөлүгүн коммерциялык максатта колдонуу
+- ❌ Репозиторийдин мазмунун **AI/LLM системалары үчүн окутуу маалыматтары катары колдонуу**
+- ❌ Сублицензия же укуктарды үчүнчү жактарга өткөрүп берүү
 
-### ÐšÐ¾Ñ€Ð³Ð¾Ð»Ð³Ð¾Ð½ Ð¸Ð½Ñ‚ÐµÐ»Ð»ÐµÐºÑ‚ÑƒÐ°Ð»Ð´Ñ‹Ðº Ð¼ÐµÐ½Ñ‡Ð¸Ðº
-Ð¢Ó©Ð¼Ó©Ð½ÐºÒ¯ Ð¾Ñ€Ð¸Ð³Ð¸Ð½Ð°Ð»Ð´ÑƒÑƒ ÐºÐ¾Ð½Ñ†ÐµÐ¿Ñ†Ð¸ÑÐ»Ð°Ñ€ ÐºÐ¾Ð¼Ð¼ÐµÑ€Ñ†Ð¸ÑÐ»Ñ‹Ðº ÑÑ‹Ñ€ Ð¶Ð°Ð½Ð° Ð¯Ð½ Ð¤Ñ€Ð¸ÑÐºÐµÐ½Ð¸Ð½ Ð¶ÐµÐºÐµ Ñ‡Ñ‹Ð³Ð°Ñ€Ð¼Ð°Ð»Ð°Ñ€Ñ‹ ÐºÐ°Ñ‚Ð°Ñ€Ñ‹ ÐºÐ¾Ñ€Ð³Ð¾Ð»Ð¾Ñ‚:
-- ÐšÓ©Ð¿ ÐºÐ°Ñ‚Ð¼Ð°Ñ€Ð»ÑƒÑƒ Ð±Ð°Ð¹Ð»Ð°Ð½Ñ‹Ñˆ Ð¼Ð¾Ð´ÐµÐ»Ð¸ *(Ð¢Ò¯Ð¿Ð½ÑƒÑÐºÐ° / Ð¡ÐµÐ¼Ð°Ð½Ñ‚Ð¸ÐºÐ°Ð»Ñ‹Ðº Ð¸Ð½Ñ‚ÐµÑ€Ð¿Ñ€ÐµÑ‚Ð°Ñ†Ð¸Ñ / ÐšÐ¾Ñ‚Ð¾Ñ€ÑƒÐ»Ð³Ð°Ð½ Ð‘Ð°ÑÑ‹Ð»Ð¼Ð°)*
-- Ð¸Ð½ÑÐ°Ð½Ð´Ñ‹ÐºÑ‚Ñ‹ Ð°Ð¶Ñ‹Ñ€Ð°Ñ‚ÑƒÑƒ Ð¿Ñ€Ð¸Ð½Ñ†Ð¸Ð±Ð¸ *(Ð°Ð´Ð°Ð¼ â‰  ÐºÐ¾Ð»Ð´Ð¾Ð½ÑƒÑƒÑ‡Ñƒ Ð°ÐºÐºÐ°ÑƒÐ½Ñ‚Ñƒ â‰  Ð¸Ð½ÑÐ°Ð½Ð´Ñ‹Ð³Ñ‹Ð½ Ñ‚ÐµÐºÑˆÐµÑ€Ò¯Ò¯)*
-- Ð‘Ð¸Ð»Ð´Ð¸Ñ€Ò¯Ò¯-ÐºÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾ Ð°Ð¶Ñ‹Ñ€Ð°Ñ‚ÑƒÑƒ Ð¼Ð¾Ð´ÐµÐ»Ð¸ *(Ð±Ð¸Ð»Ð´Ð¸Ñ€Ò¯Ò¯ â‰  ÐºÐ¾Ñ‚Ð¾Ñ€Ð¼Ð¾)*
-- AI Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ†Ð¸ÑÑÑ‹Ð½ Ð±Ð°ÑˆÐºÐ°Ñ€ÑƒÑƒÐ½ÑƒÐ½ Ð½ÐµÐ³Ð¸Ð·Ð¸
+### Корголгон интеллектуалдык менчик
+Төмөнкү оригиналдуу концепциялар коммерциялык сыр жана Ян Фрискенин жеке чыгармалары катары корголот:
+- Көп катмарлуу байланыш модели *(Түпнуска / Семантикалык интерпретация / Которулган Басылма)*
+- инсандыкты ажыратуу принциби *(адам ≠ колдонуучу аккаунту ≠ инсандыгын текшерүү)*
+- Билдирүү-котормо ажыратуу модели *(билдирүү ≠ котормо)*
+- AI модерациясын башкаруунун негизи
 
-### Ð‘Ð°Ð¹Ð»Ð°Ð½Ñ‹Ñˆ
-Ð›Ð¸Ñ†ÐµÐ½Ð·Ð¸Ñ ÑÑƒÑ€Ð¾Ð¾ Ò¯Ñ‡Ò¯Ð½: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+### Байланыш
+Лицензия суроо үчүн: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-*â€œNexus Gajaâ€ Ð¶Ð°Ð½Ð° Nexus Gaja Ð»Ð¾Ð³Ð¾Ñ‚Ð¸Ð±Ð¸ Ð¯Ð½ Ð¤Ñ€Ð¸ÑÐºÐµÐ½Ð¸Ð½ ÑÐ¾Ð¾Ð´Ð° Ð±ÐµÐ»Ð³Ð¸Ð»ÐµÑ€Ð¸. Ð°Ñ‚Ñ‹Ð½ Ð¶Ðµ ÑÐ¾Ð¾Ð´Ð° Ð±ÐµÐ»Ð³Ð¸ÑÐ¸Ð½ ÑƒÑ€ÑƒÐºÑÐ°Ñ‚ÑÑ‹Ð· Ð¿Ð°Ð¹Ð´Ð°Ð»Ð°Ð½ÑƒÑƒÐ³Ð° Ñ‚Ñ‹ÑŽÑƒ ÑÐ°Ð»Ñ‹Ð½Ð°Ñ‚.*
+*“Nexus Gaja” жана Nexus Gaja логотиби Ян Фрискенин соода белгилери. атын же соода белгисин уруксатсыз пайдаланууга тыюу салынат.*
 
-âž¡ï¸ Ð¢Ð¾Ð»ÑƒÐº Ð»Ð¸Ñ†ÐµÐ½Ð·Ð¸Ñ ÑˆÐ°Ñ€Ñ‚Ñ‚Ð°Ñ€Ñ‹ [LICENSE](LICENSE)
+➡️ Толук лицензия шарттары [LICENSE](LICENSE)

@@ -1,4 +1,4 @@
-﻿# Nexus Gaja
+# Nexus Gaja
 
 > *Kanggo perdamaian internasional lan pemahaman internasional*
 
@@ -6,19 +6,21 @@
 ![Nexus Gaja Logo](aset/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+
+
 <br>
 [![Nexus Gaja Demo](assets/video/Nexus_Gaja_TikTok_EN_thumb.jpg)](https://github.com/SonnerStudio/Nexus_Gaja/blob/main/assets/video/Nexus_Gaja_TikTok_EN.mp4)
 
 <details>
-<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
 
 </details>
 <details>
-<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
 
 </details>
 
@@ -43,7 +45,7 @@ Ora mung nerjemahake tembung-tembung sing wangkal, nanging uga babagan **mindhah
 
 ![Konsep Terjemahan Nexus Gaja](aset/img/nexus_translation.jpg)
 
-Inti teknis Nexus Gaja yaiku model komunikasi sing dikembangake dhewe, sing dipÃ©rang dadi telung lapisan:
+Inti teknis Nexus Gaja yaiku model komunikasi sing dikembangake dhewe, sing dipérang dadi telung lapisan:
 
 1. **Original**: Obyek komunikasi (pesen) sing digawe dening pangirim tansah tetep ora bisa diganti.
 2. ** Interpretasi Semantik **: Sistem kasebut ora mung nganalisa tembung, nanging makna sing sejatine.
@@ -51,7 +53,7 @@ Inti teknis Nexus Gaja yaiku model komunikasi sing dikembangake dhewe, sing dip�
 
 ### Ketergantungan konteks
 Terjemahan ora tau ndeleng warta ing Nexus Gaja kanthi kapisah. Mesin njupuk kabeh hirarki ing akun:
-`Pesen` â†’ `Pesen Sadurunge` â†’ `Konteks Utas` â†’ `Konteks Komunitas` â†’ `Basa / Wilayah` â†’ `Preferensi Pangguna`
+`Pesen` → `Pesen Sadurunge` → `Konteks Utas` → `Konteks Komunitas` → `Basa / Wilayah` → `Preferensi Pangguna`
 
 ### Efisiensi liwat terjemahan on-demand
 Terjemahan mung ditindakake **yen diarani** (on-demand) kanthi cara ngirit sumber daya. Nalika pangguna njaluk isi, diterjemahake menyang basa standar. Terjemahan kanggo basa tartamtu disimpen kanthi permanen (caching) kanggo nyepetake pitakon sabanjure kanthi dramatis.
@@ -75,35 +77,35 @@ Tingkat katelu kudu dikontrol kanthi manungsa ing kasus serius.
 Tinimbang AI siji, subsistem sing kuat ditetepake:
 ``` teks
                  NEXUS GAJA AI MODERASI
-                          â”‚
-       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-       â”‚ â”‚ â”‚
+                          │
+       ┌────────────────── ┼──────────────────┐
+       │ │ │
   Language AI Safety AI Penipuan AI
-       â”‚ â”‚ â”‚
-       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€ â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”¤
-       â”‚ â”‚ â”‚
+       │ │ │
+       ├──────────────┬─── ┴──────────────┬───┤
+       │ │ │
  Identitas Prilaku Terjemahan
  Sinyal Analisis Analisis
-       â”‚ â”‚ â”‚
-       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
-                      â–¼
+       │ │ │
+       └──────────────┼────────────────────────
+                      ▼
                Assessment resiko
-                      â”‚
-                      â–¼
+                      │
+                      ▼
                Manungsa Review
 ```
 
 ### 3. Modul AI paling penting
 Ana sangang area analisis khusus kanggo Nexus Gaja:
-- **M1 â€“ Pangertosan Basa**: Ndeteksi basa, dialek, slang, indikator ironi, masalah terjemahan.
+- **M1 – Pangertosan Basa**: Ndeteksi basa, dialek, slang, indikator ironi, masalah terjemahan.
 - **M2 - Deteksi Keracunan / Penyalahgunaan**: Ndeteksi penghinaan, serangan pribadi, gangguan.
 - **M3 - Deteksi Ancaman**: Ndeteksi kemungkinan ancaman, pemerasan, lan ancaman kekerasan.
-- **M4 â€“ Deteksi Kebencian / Dehumanisasi**: Ndeteksi serangan sing ditargetake marang wong adhedhasar afiliasi tartamtu.
-- **M5 â€“ Deteksi Spam / Manipulasi**: Ndeteksi spam, prilaku bot, manipulasi terkoordinasi.
+- **M4 – Deteksi Kebencian / Dehumanisasi**: Ndeteksi serangan sing ditargetake marang wong adhedhasar afiliasi tartamtu.
+- **M5 – Deteksi Spam / Manipulasi**: Ndeteksi spam, prilaku bot, manipulasi terkoordinasi.
 - **M6 - Deteksi Penipuan**: Ndeteksi upaya penipuan, phishing, teknik sosial sing curiga.
 - **M7 - Integritas Identitas**: Priksa sinyal babagan pengambilalihan akun, pirang-pirang akun, mblokir blokir.
-- **M8 â€“ Keamanan Media**: Nganalisis gambar, audio, video, dokumen.
-- **M9 â€“ Context Engine**: Modul paling penting. Iku ndadekke bebarengan temonan individu.
+- **M8 – Keamanan Media**: Nganalisis gambar, audio, video, dokumen.
+- **M9 – Context Engine**: Modul paling penting. Iku ndadekke bebarengan temonan individu.
 
 ### 4. Kenapa Mesin Konteks penting banget
 Panelusuran tembung kunci sing murni ora bakal cukup. "Aku bisa mateni dheweke ngguyu" ngandhut kekerasan semantik, nanging minangka tokoh wicara. "Sesuk jam 20.00 aku bakal nembak dheweke ing ngarep omahe" kahanan sing beda. AI kudu ngerti apa tegese pratelan kasebut ing konteks khusus iki.
@@ -115,22 +117,22 @@ Moderasi ora bisa mung mbandhingake tembung. Sampeyan kudu nganalisa tingkat mak
 Asli lan terjemahan dianalisis kanthi kapisah. Mung banjur "Assessment Moderasi Gabungan" njupuk Panggonan. Kanthi cara iki, Nexus Gaja bisa nemtokake manawa terjemahan kasebut bisa nambah utawa ngowahi kahanan.
 
 ### 7. Skor Kapercayan
-Saben penilaian AI nampa nilai kapercayan (contone, Ancaman probabilitas: 0,96). Nanging: **Skor Kapercayan â‰  Kasunyatan.** Skor 96% mung ateges model kasebut yakin banget ing klasifikasi, ora mesthi pangguna sing salah.
+Saben penilaian AI nampa nilai kapercayan (contone, Ancaman probabilitas: 0,96). Nanging: **Skor Kapercayan ≠ Kasunyatan.** Skor 96% mung ateges model kasebut yakin banget ing klasifikasi, ora mesthi pangguna sing salah.
 
 ### 8. Ora mesthi dhewe dadi tandha
 Yen AI ora mesthi (contone, Ancaman: 0.62, Sindiran: 0.54), ora bisa mung tumindak kasar. Nanging, kahanan sing durung mesthi dibangun langsung menyang arsitektur: **Dibutuhake Tinjauan Manungsa**.
 
 ### 9. Papat wilayah kaputusan
-- ðŸŸ¢ **IJO**: Paling kamungkinan manut. â†’ ora tumindak.
-- ðŸŸ¡ **KUNING**: Kemungkinan pelanggaran. â†’ mirsani / cathetan yen perlu.
-- ðŸŸ  **ORANGE**: Kemungkinan pelanggaran. â†’ Priksa moderasi.
-- ðŸ”´ **Abang**: Pelanggaran sing bisa ditindakake. â†’ langkah protÃ¨ktif langsung + tes manungsa.
+- 🟢 **IJO**: Paling kamungkinan manut. → ora tumindak.
+- 🟡 **KUNING**: Kemungkinan pelanggaran. → mirsani / cathetan yen perlu.
+- 🟠 **ORANGE**: Kemungkinan pelanggaran. → Priksa moderasi.
+- 🔴 **Abang**: Pelanggaran sing bisa ditindakake. → langkah protèktif langsung + tes manungsa.
 
 ### 10. Ora ana "penalti AI"
 **AI ora nemtokke sanksi final.** Bisa micu langkah-langkah teknis darurat (contone, nyegah pesen) yen ana masalah keamanan sing serius, nanging keputusan final tetep bisa diverifikasi.
 
-### 11. Tindakan protÃ¨ktif bisa otomatis
-Yen ana ancaman tartamtu (Ancaman dideteksi â†’ Kapercayan sing dhuwur â†’ Watesan sementara â†’ Tinjauan manungsa â†’ Keputusan), kita nglindhungi pangguna sing kaancam tanpa nggawe AI hakim.
+### 11. Tindakan protèktif bisa otomatis
+Yen ana ancaman tartamtu (Ancaman dideteksi → Kapercayan sing dhuwur → Watesan sementara → Tinjauan manungsa → Keputusan), kita nglindhungi pangguna sing kaancam tanpa nggawe AI hakim.
 
 ### 12. AI kudu bisa mbenerake keputusane
 DSA mbutuhake alasan sing jelas lan spesifik. Alasan AI kanthi cara terstruktur: Aturan (NG-CONDUCT-004), Dideteksi (Ancaman konkrit potensial), Kapercayan (0.94), Konteks sing relevan (Pesen 4 sadurunge), Tindakan sing disaranake (Tinjauan manungsa).
@@ -139,15 +141,15 @@ DSA mbutuhake alasan sing jelas lan spesifik. Alasan AI kanthi cara terstruktur:
 **Moderasi AI ora kudu ngganti konten asli tanpa digatekake.** Koreksi otomatis, terjemahan utawa ringkesan nahan konten asli.
 
 ### 14. AI kui isi
-Kita mbedakake antarane: digawe manungsa, dibantu AI, digawe AI lan dimanipulasi AI. Iki dadi bagÃ©an saka metadata isi.
+Kita mbedakake antarane: digawe manungsa, dibantu AI, digawe AI lan dimanipulasi AI. Iki dadi bagéan saka metadata isi.
 
 ### 15. AI Content Labeling & AI Provenance Layer
 Miturut aturan transparan EU AI Act (wiwit Agustus 2026), konten sing digawe AI kudu bisa dingerteni. We envisage AI Provenance Layer sing nyimpen metadata (AI asal, model, timestamp, review manungsa).
 
 ### 16. Deteksi Deepfake
-ArsitÃ¨ktur iki dimaksudakÃ© kanggo ndeteksi gambar sintetik, swara sing dirangsang lan deepfakes. Nanging pangenalan ora otomatis bukti.
+Arsitèktur iki dimaksudaké kanggo ndeteksi gambar sintetik, swara sing dirangsang lan deepfakes. Nanging pangenalan ora otomatis bukti.
 
-### 17. Ora ana "mesin kebenaran" otomatis (moderasi â‰  pamriksa fakta)
+### 17. Ora ana "mesin kebenaran" otomatis (moderasi ≠ pamriksa fakta)
 Sistem mriksa: "Apa isi kasebut nglanggar aturan?" (Content Moderation), liyane nyedhiyakake: "Informasi lan sumber apa sing ana?" (Bantuan Informasi). Panemu ora mung dibusak minangka "salah".
 
 ### 18. Proteksi marang salah paham budaya
@@ -188,7 +190,7 @@ Prinsip ekonomi dhasar sing penting banget ditrapake kanggo Nexus Gaja: **Ora an
 Iki ndadekake Nexus Gaja beda konsep karo akeh jaringan sosial saiki. Nanging iki ora ateges: Nexus Gaja kudu ora duwe karakter komersial. Kosok baline: platform kasebut kudu ekonomis supaya tujuan sosial bisa terus ana ing jangka panjang. Kegiatan ekonomi mulane minangka sarana kanggo mungkasi, dudu tujuan nyata saka platform kasebut.
 
 ### 1. Prinsip NG-FIN-001
-Nexus Gaja mbiayai operasine liwat aliran revenue transparan sing kapisah saka kapentingan pangguna lan ora liwat marketing manungsa waÃ© utawa data pribadhi.
+Nexus Gaja mbiayai operasine liwat aliran revenue transparan sing kapisah saka kapentingan pangguna lan ora liwat marketing manungsa waé utawa data pribadhi.
 
 ### 2. Ora ana iklan klasik
 Utamane, ing ngisor iki ora diidini:
@@ -199,7 +201,7 @@ Utamane, ing ngisor iki ora diidini:
 - profil iklan pribadi
 - Sade profil pangguna
 - Penjualan data pribadi
-- Iklan asalÃ© saka obrolan pribadi.
+- Iklan asalé saka obrolan pribadi.
 
 Iki ninggalake ruang komunikasi: **Ruang komunikasi tinimbang papan iklan.**
 
@@ -207,13 +209,13 @@ Iki ninggalake ruang komunikasi: **Ruang komunikasi tinimbang papan iklan.**
 Nanging, pendanaan bisa kalebu sawetara pilar. Kita pisanan ngusulake enem pilar:
 ``` teks
                  NEXUS GAJA
-                     â”‚
-       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-       â–¼ â–¼ â–¼
+                     │
+       ┌─────────────┼─────────────┐
+       ▼ ▼ ▼
    ORGANISASI PREMIUM DONASI
-       â”‚ â”‚ â”‚
-       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
-       â–¼ â–¼ â–¼
+       │ │ │
+       ├─────────────┼─────────────┤
+       ▼ ▼ ▼
    PROMOSI LAYANAN KEMITRAAN
 ```
 
@@ -224,14 +226,14 @@ Nanging, pendanaan bisa kalebu sawetara pilar. Kita pisanan ngusulake enem pilar
 Penawaran mbayar sukarela (**Nexus Gaja Plus**). Keuntungan sing bisa ditindakake: watesan panyimpenan sing luwih gedhe, kualitas media sing luwih dhuwur, transmisi video sing luwih dawa, fungsi terjemahan sing ditambahi, komunitas sing luwih gedhe, fungsi organisasi tambahan, kuota AI sing luwih dhuwur.
 **Freemium - nanging ora "Freemium Peteng": ** Versi gratis bisa digunakake kanthi wicaksana; Premium ngembangaken.
 
-#### Pilar 3 â€“ Organisasi
+#### Pilar 3 – Organisasi
 **Organisasi Nexus Gaja:** Akun khusus kanggo sekolah, universitas, klub, LSM, perusahaan, kotamadya, lsp, kanthi akun organisasi pusat, manajemen anggota lan fungsi admin. (Conto: Sekolah nampa akses siswa kanthi gratis utawa liwat tarif institusional).
 
-#### Rukun 4 â€“ Sumbangan
+#### Rukun 4 – Sumbangan
 **Dana pendanaan Nexus Gaja:** Donor bisa nyedhiyakake dhuwit kanthi sukarela (sumbangan umum utawa khusus). 
 **Kolam pendanaan lan tombola:** Panggunaan gratis utawa diskon dibiayai saka kolam sumbangan. Buku besar alokasi dana njamin earmarking.
 ``` teks
-DONASI â†’ DANA TUJUAN â†’ MESIN LAYAK â†’ Akses gratis / Diskon / Kuota
+DONASI → DANA TUJUAN → MESIN LAYAK → Akses gratis / Diskon / Kuota
 ```
 
 #### Pilar 5 - Dhukungan institusi
@@ -247,7 +249,7 @@ Nexus Gaja ora dimaksudake kanggo entuk manfaat saka pangguna sing dipantau sabi
 
 ### 5. Transparansi finansial
 Transparansi Keuangan Nexus Gaja: Penghasilan bisa diterbitake miturut kategori, volume sumbangan, biaya operasi, lsp. 
-**Buku Pembiayaan:** Sumbangan sing ditandhani kanggo tujuan tartamtu dicathet kanthi cara akuntansi sing bisa dingerteni (Sumbangan â†’ ID Dana â†’ Tujuan â†’ Saldo kasedhiya â†’ Alokasi). Ora ana subsidi silang tanpa transparansi.
+**Buku Pembiayaan:** Sumbangan sing ditandhani kanggo tujuan tartamtu dicathet kanthi cara akuntansi sing bisa dingerteni (Sumbangan → ID Dana → Tujuan → Saldo kasedhiya → Alokasi). Ora ana subsidi silang tanpa transparansi.
 
 ### 6. Model pendanaan rega lan solidaritas
 Rega adhedhasar: orientasi biaya, keadilan lan solidaritas.
@@ -256,42 +258,42 @@ Rega adhedhasar: orientasi biaya, keadilan lan solidaritas.
 ### 7. KPI ekonomi
 Kita ora gumantung ing wektu online tanpa wates (ora ana ekonomi keterlibatan manipulatif). KPI kita:
 - **Indeks Komunikasi Global (GCI):** Pira sesambungan komunikasi sing sukses ing antarane wong saka wilayah linguistik utawa budaya sing beda?
-- **Platform Sustainability Ratio (PSR):** revenue ambalan / biaya operasi ambalan (target: PSR â‰¥ 1).
+- **Platform Sustainability Ratio (PSR):** revenue ambalan / biaya operasi ambalan (target: PSR ≥ 1).
 
 ### 8. Apa sing ora dikarepake
 Nexus Gaja ora dibiayai dening:
-âŒ Penjualan informasi pribadi
-âŒ iklan klasik sing dipersonalisasi
-âŒ Ngawasi prilaku pangguna kanggo tujuan pariwara
-âŒ Adol data komunikasi pribadi
-âŒ panggunaan data AI sing didhelikake
-âŒ kunci premium manipulatif
-âŒ Watesan tekan gawean kanggo monetisasi
-âŒ mbayar pengaruh politik
-âŒ Tuku keputusan moderasi sing duwe hak istimewa.
+❌ Penjualan informasi pribadi
+❌ iklan klasik sing dipersonalisasi
+❌ Ngawasi prilaku pangguna kanggo tujuan pariwara
+❌ Adol data komunikasi pribadi
+❌ panggunaan data AI sing didhelikake
+❌ kunci premium manipulatif
+❌ Watesan tekan gawean kanggo monetisasi
+❌ mbayar pengaruh politik
+❌ Tuku keputusan moderasi sing duwe hak istimewa.
 
 ### 9. Arsitektur Awal
 ``` teks
                          NEXUS GAJA
-                              â”‚
-             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
-             â”‚ â”‚ â”‚
-             â–¼ â–¼ â–¼
+                              │
+             ┌────────────────┼───────────────────
+             │ │ │
+             ▼ ▼ ▼
           USERS ORGANISASI ENTERPRISE
-             â”‚ â”‚ â”‚
-             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
-                              â”‚
+             │ │ │
+             └────────────────┼──────────────────
+                              │
                        LAYANAN PLATFORM
-                              â”‚
-          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-          â–¼ â–¼ â–¼
+                              │
+          ┌─────────────────── ┼───────────────────┐
+          ▼ ▼ ▼
        API DONASI PREMIUM
-                              â”‚
-                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-                    â–¼ â–¼
+                              │
+                    ┌─────────┴─────────┐
+                    ▼ ▼
                DANA UMUM DANA WATES
-                                        â”‚
-                                        â–¼
+                                        │
+                                        ▼
                                   TUJUAN SOSIAL
 ```
 
@@ -332,14 +334,14 @@ Kanggo mesthekake stabilitas sistem, keamanan lan skalabilitas, Nexus Gaja ndere
 Nexus Gaja nggunakake arsitektur MVP strictly domain-driven (ADR-025), dirancang minangka monolit modul karo wates domain cetha. Struktur iki nyegah kerumitan microservice awal nalika njaga keluwesan kanggo outsource domain tartamtu mengko.
 
 ### Entitas inti teknis
-ArsitÃ¨ktur kasebut kanthi tegas misahake konsep kanggo njamin integritas data lan ngindhari kesalahan kayata "jeneng panganggo = manungsa":
-- **Identitas & Akun:** `Wong` â‰  `Akun Panganggo` â‰  `Verifikasi Identitas`. Wong sing wis diverifikasi melu liwat siji akun, nanging entitas kasebut tetep kapisah.
-- **Komunikasi:** `Pesen` â‰  `Terjemahan`. Pesen asli ora bisa diganti; Terjemahan minangka entitas sing disambung.
-- **Moderasi:** `Laporan` â‰  `Keputusan Moderasi`. A pesen mung pratondo; moderator nindakake investigasi.
-- **Keuangan:** `Sumbangan` â‰  `Saldo Dana`. Pembayaran ora owah dikirim menyang dana liwat buku besar (buku kas).
+Arsitèktur kasebut kanthi tegas misahake konsep kanggo njamin integritas data lan ngindhari kesalahan kayata "jeneng panganggo = manungsa":
+- **Identitas & Akun:** `Wong` ≠ `Akun Panganggo` ≠ `Verifikasi Identitas`. Wong sing wis diverifikasi melu liwat siji akun, nanging entitas kasebut tetep kapisah.
+- **Komunikasi:** `Pesen` ≠ `Terjemahan`. Pesen asli ora bisa diganti; Terjemahan minangka entitas sing disambung.
+- **Moderasi:** `Laporan` ≠ `Keputusan Moderasi`. A pesen mung pratondo; moderator nindakake investigasi.
+- **Keuangan:** `Sumbangan` ≠ `Saldo Dana`. Pembayaran ora owah dikirim menyang dana liwat buku besar (buku kas).
 
 ### Domain subyek sing disambungake
-Sistem kasebut dipÃ©rang dadi domain logis (konteks sing diwatesi): Identitas, Akun, Organisasi, Komunikasi, Komunitas, Basa, Moderasi, Notifikasi, Keuangan lan Pemerintahan. Dheweke makili kabeh rantai saka aktor nyata (pangguna, sekolah, LSM) nganti interaksi digital.
+Sistem kasebut dipérang dadi domain logis (konteks sing diwatesi): Identitas, Akun, Organisasi, Komunikasi, Komunitas, Basa, Moderasi, Notifikasi, Keuangan lan Pemerintahan. Dheweke makili kabeh rantai saka aktor nyata (pangguna, sekolah, LSM) nganti interaksi digital.
 
 ## Status proyek
 Proyek kasebut ana ing fase arsitektur lan perencanaan aktif.
@@ -349,7 +351,7 @@ Kaputusan arsitektur sing lagi ditindakake didokumentasikake ing folder `/docs`.
 
 ## Lisensi & Kekayaan Intelektual
 
-> **Â© 2024-2026 SonnerStudio - Jan Friske Pendhiri, Pemilik, Direktur lan Kepala Desainer SonnerStudio â€” Kabeh hak dilindhungi undhang-undhang.**
+> **© 2024-2026 SonnerStudio - Jan Friske Pendhiri, Pemilik, Direktur lan Kepala Desainer SonnerStudio — Kabeh hak dilindhungi undhang-undhang.**
 
 ** Nexus Gaja ** minangka properti intelektual eksklusif saka ** Jan Friske **, operasi ing **SonnerStudio **.
 
@@ -358,17 +360,17 @@ Jan Friske minangka siji-sijine pencipta, arsitek lan pemilik Nexus Gaja - kaleb
 **Ora ana hak, lisensi utawa kapentingan kepemilikan sing diwenehake marang pihak katelu ** ora preduli saka ukuran, posisi pasar utawa pengaruhe ing industri teknologi.
 
 ### Apa sing ora diidini tanpa idin tinulis:
-- âŒ Nyalin, ngasilake utawa nyebarake piranti lunak iki utawa dokumentasine
-- âŒ Ngowahi, adaptasi utawa nggawe karya turunan
-- âŒ Panggunaan komersial bagean saka Nexus Gaja
-- âŒ Panganggone isi repositori minangka **data latihan kanggo sistem AI/LLM**
-- âŒ Sublisensi utawa transfer hak menyang pihak katelu
+- ❌ Nyalin, ngasilake utawa nyebarake piranti lunak iki utawa dokumentasine
+- ❌ Ngowahi, adaptasi utawa nggawe karya turunan
+- ❌ Panggunaan komersial bagean saka Nexus Gaja
+- ❌ Panganggone isi repositori minangka **data latihan kanggo sistem AI/LLM**
+- ❌ Sublisensi utawa transfer hak menyang pihak katelu
 
 ### Properti intelektual sing dilindhungi
 Konsep asli ing ngisor iki dilindhungi minangka rahasia dagang lan kreasi kepemilikan Jan Friske:
 - Model komunikasi multi-layer *(Original / Interpretation Semantic / Translated Edition)*
-- Prinsip pemisahan identitas *(wong â‰  akun pangguna â‰  verifikasi identitas)*
-- Model decoupling terjemahan pesen *(pesen â‰  terjemahan)*
+- Prinsip pemisahan identitas *(wong ≠ akun pangguna ≠ verifikasi identitas)*
+- Model decoupling terjemahan pesen *(pesen ≠ terjemahan)*
 - Kerangka tata kelola moderasi AI
 
 ### Kontak
@@ -376,4 +378,4 @@ Kanggo pitakon lisensi: [github.com/SonnerStudio](https://github.com/SonnerStudi
 
 *"Nexus Gaja" lan logo Nexus Gaja minangka merek dagang Jan Friske. Panganggone jeneng utawa merek dagang sing ora sah dilarang.*
 
-âž¡ï¸ Ketentuan lisensi lengkap ing [LICENSE](LICENSE)
+➡️ Ketentuan lisensi lengkap ing [LICENSE](LICENSE)

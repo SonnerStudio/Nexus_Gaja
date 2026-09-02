@@ -1,35 +1,37 @@
-﻿# Nexus Gaja
+# Nexus Gaja
 
-> *KÃ¼resel barÄ±ÅŸ ve karÅŸÄ±lÄ±klÄ± anlayÄ±ÅŸ iÃ§in*
+> *Küresel barış ve karşılıklı anlayış için*
 
 
 ![Nexus Gaja Logo](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+
+
 <br>
 [![Nexus Gaja Demo](assets/video/Nexus_Gaja_TikTok_EN_thumb.jpg)](https://github.com/SonnerStudio/Nexus_Gaja/blob/main/assets/video/Nexus_Gaja_TikTok_EN.mp4)
 
 <details>
-<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
 
 </details>
 
-**Nexus Gaja**, kÃ¼resel iletiÅŸimi devrim niteliÄŸinde deÄŸiÅŸtirmek iÃ§in tasarlanmÄ±ÅŸ akÄ±llÄ±, baÄŸlama duyarlÄ± bir iletiÅŸim aÄŸÄ±dÄ±r.
+**Nexus Gaja**, küresel iletişimi devrim niteliğinde değiştirmek için tasarlanmış akıllı, bağlama duyarlı bir iletişim ağıdır.
 
-## Projenin AmaÃ§ ve Vizyon
+## Projenin Amaç ve Vizyon
 
 ![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
 
-KÃ¼reselleÅŸmiÅŸ bir dÃ¼nyada dil genellikle en bÃ¼yÃ¼k engeldir. Nexus Gaja'nÄ±n temel amacÄ±, ortak bir dil konuÅŸup konuÅŸmadÄ±klarÄ±na bakÄ±lmaksÄ±zÄ±n insanlar arasÄ±nda kesintisiz, engelsiz ve baÄŸlamsal olarak doÄŸru iletiÅŸimi saÄŸlamaktÄ±r.
+Küreselleşmiş bir dünyada dil genellikle en büyük engeldir. Nexus Gaja'nın temel amacı, ortak bir dil konuşup konuşmadıklarına bakılmaksızın insanlar arasında kesintisiz, engelsiz ve bağlamsal olarak doğru iletişimi sağlamaktır.
 
-Sadece kelimelerin katÄ± bir ÅŸekilde Ã§evrilmesi deÄŸil, **anlamÄ±n aktarÄ±lmasÄ±** sÃ¶z konusudur. Nexus Gaja, kÃ¼ltÃ¼rel, bÃ¶lgesel ve baÄŸlamsal incelikleri anlayarak insanlarÄ± daha derin bir seviyede birbirine baÄŸlar ve bÃ¶ylece gerÃ§ek, otantik sohbetlere olanak tanÄ±r.
+Sadece kelimelerin katı bir şekilde çevrilmesi değil, **anlamın aktarılması** söz konusudur. Nexus Gaja, kültürel, bölgesel ve bağlamsal incelikleri anlayarak insanları daha derin bir seviyede birbirine bağlar ve böylece gerçek, otantik sohbetlere olanak tanır.
 
-## Olanaklar ve Ã–zellikler
-- **Multimedya Ä°letiÅŸim**: Sistem sadece metni deÄŸil, aynÄ± zamanda gÃ¶rÃ¼ntÃ¼, ses ve videoyu da iÅŸler. Bu, dil sÄ±nÄ±rlarÄ±nÄ± aÅŸarak gerÃ§ek zamanlÄ± (Ã¶rneÄŸin gÃ¶rÃ¼ntÃ¼lÃ¼ aramalar veya sesli mesajlar gibi) tamamen sÃ¼rÃ¼kleyici sohbetlere olanak tanÄ±r.
-- **BaÄŸlam DuyarlÄ±lÄ±ÄŸÄ±**: Geleneksel Ã§evirmenler tarafÄ±ndan sÄ±klÄ±kla yanlÄ±ÅŸ anlaÅŸÄ±lan ironi, deyimler, jargon ve bÃ¶lgesel lehÃ§elerin tanÄ±nmasÄ±.
-- **Platformlar ArasÄ± AÄŸ**: Ã–zel sohbetler, forum konularÄ± (yorumlu gÃ¶nderiler) ve kÃ¼resel topluluk etkileÅŸimleri iÃ§in bir temel gÃ¶revi gÃ¶rÃ¼r.
+## Olanaklar ve Özellikler
+- **Multimedya İletişim**: Sistem sadece metni değil, aynı zamanda görüntü, ses ve videoyu da işler. Bu, dil sınırlarını aşarak gerçek zamanlı (örneğin görüntülü aramalar veya sesli mesajlar gibi) tamamen sürükleyici sohbetlere olanak tanır.
+- **Bağlam Duyarlılığı**: Geleneksel çevirmenler tarafından sıklıkla yanlış anlaşılan ironi, deyimler, jargon ve bölgesel lehçelerin tanınması.
+- **Platformlar Arası Ağ**: Özel sohbetler, forum konuları (yorumlu gönderiler) ve küresel topluluk etkileşimleri için bir temel görevi görür.
 
 ---
 
@@ -37,320 +39,320 @@ Sadece kelimelerin katÄ± bir ÅŸekilde Ã§evrilmesi deÄŸil, **anlamÄ±n a
 
 ![Nexus Gaja Translation Concept](assets/img/nexus_translation.jpg)
 
-Nexus Gaja'nÄ±n teknik Ã§ekirdeÄŸi, kesin olarak Ã¼Ã§ katmana ayrÄ±lmÄ±ÅŸ Ã¶zel olarak oluÅŸturulmuÅŸ bir iletiÅŸim modelidir:
+Nexus Gaja'nın teknik çekirdeği, kesin olarak üç katmana ayrılmış özel olarak oluşturulmuş bir iletişim modelidir:
 
-1. **Orijinal**: GÃ¶nderen tarafÄ±ndan oluÅŸturulan iletiÅŸim nesnesi (mesaj) her zaman deÄŸiÅŸtirilemez kalÄ±r.
-2. **Anlamsal Yorumlama**: Sistem sadece kelimeleri deÄŸil, gerÃ§ek anlamÄ± analiz eder.
-3. **Hedef Dil GÃ¶sterimi**: Yapay zeka, yalnÄ±zca tercih ettiÄŸi dile dayanarak ilgili alÄ±cÄ± iÃ§in orijinalin geÃ§ici veya Ã¶nbelleÄŸe alÄ±nmÄ±ÅŸ bir temsilini oluÅŸturur. Ã‡eviriler asla orijinal mesajÄ±n Ã¼zerine yazÄ±lmaz.
+1. **Orijinal**: Gönderen tarafından oluşturulan iletişim nesnesi (mesaj) her zaman değiştirilemez kalır.
+2. **Anlamsal Yorumlama**: Sistem sadece kelimeleri değil, gerçek anlamı analiz eder.
+3. **Hedef Dil Gösterimi**: Yapay zeka, yalnızca tercih ettiği dile dayanarak ilgili alıcı için orijinalin geçici veya önbelleğe alınmış bir temsilini oluşturur. Çeviriler asla orijinal mesajın üzerine yazılmaz.
 
-### BaÄŸlam BaÄŸÄ±mlÄ±lÄ±ÄŸÄ±
-Nexus Gaja'daki Ã§eviriler mesajlarÄ± asla izole olarak ele almaz. Motor tÃ¼m hiyerarÅŸiyi dikkate alÄ±r:
-`Message` â†’ `Previous Messages` â†’ `Thread Context` â†’ `Community Context` â†’ `Language / Region` â†’ `User Preferences`
+### Bağlam Bağımlılığı
+Nexus Gaja'daki çeviriler mesajları asla izole olarak ele almaz. Motor tüm hiyerarşiyi dikkate alır:
+`Message` → `Previous Messages` → `Thread Context` → `Community Context` → `Language / Region` → `User Preferences`
 
-### Ä°steÄŸe BaÄŸlÄ± Ã‡eviri ile Verimlilik
-Ã‡eviri kaynak tasarrufu saÄŸlayarak yalnÄ±zca **istek Ã¼zerine** (Ä°steÄŸe BaÄŸlÄ±) gerÃ§ekleÅŸir. Bir kullanÄ±cÄ± iÃ§erik talep ettiÄŸinde, bu iÃ§erik Ã¶nceden ayarladÄ±ÄŸÄ± dile Ã§evrilir. Belirli bir dil iÃ§in bir Ã§eviri oluÅŸturulduktan sonra, gelecekteki istekleri Ã¶nemli Ã¶lÃ§Ã¼de hÄ±zlandÄ±rmak iÃ§in kalÄ±cÄ± olarak saklanÄ±r (Ã¶nbelleÄŸe alma).
+### İsteğe Bağlı Çeviri ile Verimlilik
+Çeviri kaynak tasarrufu sağlayarak yalnızca **istek üzerine** (İsteğe Bağlı) gerçekleşir. Bir kullanıcı içerik talep ettiğinde, bu içerik önceden ayarladığı dile çevrilir. Belirli bir dil için bir çeviri oluşturulduktan sonra, gelecekteki istekleri önemli ölçüde hızlandırmak için kalıcı olarak saklanır (önbelleğe alma).
 
 ## Yapay Zeka Destekli Moderasyon (WP 1.8.4)
 
 ![Nexus Gaja AI Moderation](assets/img/nexus_moderation.jpg)
 
-Yapay Zeka Destekli Moderasyon ile Ã¼rÃ¼n fikrinden teknik mimariye doÄŸru Ã¶nemli bir adÄ±m atÄ±yoruz ve mevcut AB dÃ¼zenlemelerini dikkate alÄ±yoruz (Madde 50 kapsamÄ±ndaki AB Yapay Zeka YasasÄ±'nÄ±n ÅŸeffaflÄ±k gereklilikleri; anlaÅŸÄ±lÄ±r gerekÃ§eler ve itiraz seÃ§enekleriyle Dijital Hizmetler YasasÄ± - DSA) dikkate alarak Ã¼rÃ¼n fikrinden teknik mimariye Ã¶nemli bir adÄ±m atÄ±yoruz.
+Yapay Zeka Destekli Moderasyon ile ürün fikrinden teknik mimariye doğru önemli bir adım atıyoruz ve mevcut AB düzenlemelerini dikkate alıyoruz (Madde 50 kapsamındaki AB Yapay Zeka Yasası'nın şeffaflık gereklilikleri; anlaşılır gerekçeler ve itiraz seçenekleriyle Dijital Hizmetler Yasası - DSA) dikkate alarak ürün fikrinden teknik mimariye önemli bir adım atıyoruz.
 
 ### 1. Temel Prensip
-Mimari iÃ§in en Ã¶nemli cÃ¼mle ÅŸudur: **Moderasyon yapay zekasÄ± Ã¶zerk bir karar mekanizmasÄ± deÄŸil, bir inceleme sistemidir.**
-Ä°nsanlara moderasyonda yardÄ±mcÄ± olmak iÃ§in tasarlanmÄ±ÅŸtÄ±r, Nexus Gaja'da hangi gÃ¶rÃ¼ÅŸlerin var olabileceÄŸine kendi baÅŸÄ±na karar vermek iÃ§in deÄŸil.
-ÃœÃ§ seviyeyi birbirinden ayÄ±rÄ±yoruz:
+Mimari için en önemli cümle şudur: **Moderasyon yapay zekası özerk bir karar mekanizması değil, bir inceleme sistemidir.**
+İnsanlara moderasyonda yardımcı olmak için tasarlanmıştır, Nexus Gaja'da hangi görüşlerin var olabileceğine kendi başına karar vermek için değil.
+Üç seviyeyi birbirinden ayırıyoruz:
 - **Tespit:** "Burada bir kural ihlali olabilir."
-- **DeÄŸerlendirme:** "Bir kural ihlali olasÄ±lÄ±ÄŸÄ± Ã¶rneÄŸin %94'tÃ¼r."
-- **Karar:** "GerÃ§ekte hangi Ã¶nlem alÄ±nacak?"
-ÃœÃ§Ã¼ncÃ¼ seviye, ciddi durumlarda bir insan tarafÄ±ndan kontrol edilmelidir.
+- **Değerlendirme:** "Bir kural ihlali olasılığı örneğin %94'tür."
+- **Karar:** "Gerçekte hangi önlem alınacak?"
+Üçüncü seviye, ciddi durumlarda bir insan tarafından kontrol edilmelidir.
 
-### 2. Alt Sistem Olarak Moderasyon Yapay ZekasÄ±
-Tek bir yapay zeka yerine saÄŸlam bir alt sistem kurulur:
+### 2. Alt Sistem Olarak Moderasyon Yapay Zekası
+Tek bir yapay zeka yerine sağlam bir alt sistem kurulur:
 ```text
                  NEXUS GAJA AI MODERATION
-                          â”‚
-       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-       â”‚                  â”‚                  â”‚
+                          │
+       ┌──────────────────┼──────────────────┐
+       │                  │                  │
   Language AI        Safety AI          Fraud AI
-       â”‚                  â”‚                  â”‚
-       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”¤
-       â”‚              â”‚                  â”‚
+       │                  │                  │
+       ├──────────────┬───┴──────────────┬───┤
+       │              │                  │
  Translation      Behaviour          Identity
  Analysis         Analysis            Signals
-       â”‚              â”‚                  â”‚
-       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
-                      â–¼
+       │              │                  │
+       └──────────────┼──────────────────┘
+                      ▼
                Risk Assessment
-                      â”‚
-                      â–¼
+                      │
+                      ▼
                Human Review
 ```
 
-### 3. En Ã–nemli Yapay Zeka ModÃ¼lleri
-Nexus Gaja dokuz uzmanlaÅŸmÄ±ÅŸ analiz alanÄ± kullanÄ±r:
-- **M1 â€“ Language Understanding**: Dil, lehÃ§e, argo, ironi gÃ¶stergeleri, Ã§eviri sorunlarÄ±nÄ± algÄ±lar.
-- **M2 â€“ Toxicity / Abuse Detection**: Hakaret, kiÅŸisel saldÄ±rÄ±, tacizi algÄ±lar.
-- **M3 â€“ Threat Detection**: OlasÄ± tehditleri, ÅŸantajÄ±, ÅŸiddet sÃ¶ylemlerini algÄ±lar.
-- **M4 â€“ Hate / Dehumanization Detection**: Belirli aidiyetlere dayalÄ± hedefli saldÄ±rÄ±larÄ± algÄ±lar.
-- **M5 â€“ Spam / Manipulation Detection**: Spam, bot davranÄ±ÅŸÄ±, koordineli manipÃ¼lasyonu algÄ±lar.
-- **M6 â€“ Fraud Detection**: ÅžÃ¼pheli dolandÄ±rÄ±cÄ±lÄ±k giriÅŸimlerini, kimlik avÄ±nÄ±, sosyal mÃ¼hendisliÄŸi algÄ±lar.
-- **M7 â€“ Identity Integrity**: Hesap ele geÃ§irme, birden fazla hesap, yasaklardan kaÃ§Ä±nma ile ilgili sinyalleri kontrol eder.
-- **M8 â€“ Media Safety**: GÃ¶rselleri, sesi, videoyu, belgeleri analiz eder.
-- **M9 â€“ Context Engine**: En Ã¶nemli modÃ¼ldÃ¼r. Bireysel bulgularÄ± birleÅŸtirir.
+### 3. En Önemli Yapay Zeka Modülleri
+Nexus Gaja dokuz uzmanlaşmış analiz alanı kullanır:
+- **M1 – Language Understanding**: Dil, lehçe, argo, ironi göstergeleri, çeviri sorunlarını algılar.
+- **M2 – Toxicity / Abuse Detection**: Hakaret, kişisel saldırı, tacizi algılar.
+- **M3 – Threat Detection**: Olası tehditleri, şantajı, şiddet söylemlerini algılar.
+- **M4 – Hate / Dehumanization Detection**: Belirli aidiyetlere dayalı hedefli saldırıları algılar.
+- **M5 – Spam / Manipulation Detection**: Spam, bot davranışı, koordineli manipülasyonu algılar.
+- **M6 – Fraud Detection**: Şüpheli dolandırıcılık girişimlerini, kimlik avını, sosyal mühendisliği algılar.
+- **M7 – Identity Integrity**: Hesap ele geçirme, birden fazla hesap, yasaklardan kaçınma ile ilgili sinyalleri kontrol eder.
+- **M8 – Media Safety**: Görselleri, sesi, videoyu, belgeleri analiz eder.
+- **M9 – Context Engine**: En önemli modüldür. Bireysel bulguları birleştirir.
 
-### 4. Context Engine Neden Ã‡ok Ã–nemlidir
-YalnÄ±zca bir anahtar kelime aramasÄ± yetersiz kalacaktÄ±r. "GÃ¼lmekten onu Ã¶ldÃ¼rebilirim" semantik olarak ÅŸiddet iÃ§erir ancak mecazi bir ifadedir. "YarÄ±n akÅŸam 8'de onu evinin Ã¶nÃ¼nde vuracaÄŸÄ±m" tamamen farklÄ± bir durumdur. Yapay zeka, ifadenin belirli baÄŸlamÄ±nda ne anlama geldiÄŸini anlamalÄ±dÄ±r.
+### 4. Context Engine Neden Çok Önemlidir
+Yalnızca bir anahtar kelime araması yetersiz kalacaktır. "Gülmekten onu öldürebilirim" semantik olarak şiddet içerir ancak mecazi bir ifadedir. "Yarın akşam 8'de onu evinin önünde vuracağım" tamamen farklı bir durumdur. Yapay zeka, ifadenin belirli bağlamında ne anlama geldiğini anlamalıdır.
 
-### 5. Ã‡ok Dilli Moderasyon
-Moderasyon basitÃ§e kelimeleri karÅŸÄ±laÅŸtÄ±ramaz. Semantik dÃ¼zeyi analiz etmelidir (Ã¶rneÄŸin, Almanca deyimler vs. Japonca deyimler vs. bÃ¶lgesel ifadeler).
+### 5. Çok Dilli Moderasyon
+Moderasyon basitçe kelimeleri karşılaştıramaz. Semantik düzeyi analiz etmelidir (örneğin, Almanca deyimler vs. Japonca deyimler vs. bölgesel ifadeler).
 
-### 6. Orijinal Dil + Ã‡eviri
-Orijinal ve Ã§eviri ayrÄ± ayrÄ± analiz edilir. Ancak o zaman "Combined Moderation Assessment" gerÃ§ekleÅŸir. Bu, Nexus Gaja'nÄ±n Ã§evirinin kendisinin olaylarÄ± tÄ±rmandÄ±rÄ±p tÄ±rmandÄ±rmadÄ±ÄŸÄ±nÄ± veya deÄŸiÅŸtirip deÄŸiÅŸtirmediÄŸini belirlemesine olanak tanÄ±r.
+### 6. Orijinal Dil + Çeviri
+Orijinal ve çeviri ayrı ayrı analiz edilir. Ancak o zaman "Combined Moderation Assessment" gerçekleşir. Bu, Nexus Gaja'nın çevirinin kendisinin olayları tırmandırıp tırmandırmadığını veya değiştirip değiştirmediğini belirlemesine olanak tanır.
 
-### 7. GÃ¼ven PuanÄ± (Confidence Score)
-Her yapay zeka deÄŸerlendirmesi bir gÃ¼ven puanÄ± alÄ±r (Ã¶r. Tehdit olasÄ±lÄ±ÄŸÄ±: 0.96). Ancak: **GÃ¼ven PuanÄ± â‰  GerÃ§ek.** %96'lÄ±k bir puan, modelin sÄ±nÄ±flandÄ±rmasÄ±ndan Ã§ok emin olduÄŸu anlamÄ±na gelir, kullanÄ±cÄ±nÄ±n mutlaka suÃ§lu olduÄŸu anlamÄ±na gelmez.
+### 7. Güven Puanı (Confidence Score)
+Her yapay zeka değerlendirmesi bir güven puanı alır (ör. Tehdit olasılığı: 0.96). Ancak: **Güven Puanı ≠ Gerçek.** %96'lık bir puan, modelin sınıflandırmasından çok emin olduğu anlamına gelir, kullanıcının mutlaka suçlu olduğu anlamına gelmez.
 
-### 8. Belirsizlik Kendisi Bir Sinyale DÃ¶nÃ¼ÅŸÃ¼r
-Yapay zeka emin deÄŸilse (Ã¶r. Tehdit: 0.62, Hiciv: 0.54), katÄ± kurallarÄ± basitÃ§e uygulayamaz. Bunun yerine, belirsizlik doÄŸrudan mimariye yerleÅŸtirilmiÅŸtir: **Human Review Required** (Ä°nsan Ä°ncelemesi Gerekli).
+### 8. Belirsizlik Kendisi Bir Sinyale Dönüşür
+Yapay zeka emin değilse (ör. Tehdit: 0.62, Hiciv: 0.54), katı kuralları basitçe uygulayamaz. Bunun yerine, belirsizlik doğrudan mimariye yerleştirilmiştir: **Human Review Required** (İnsan İncelemesi Gerekli).
 
-### 9. DÃ¶rt Karar BÃ¶lgesi
-- ðŸŸ¢ **GREEN**: BÃ¼yÃ¼k olasÄ±lÄ±kla kurallara uygun. â†’ iÅŸlem yok.
-- ðŸŸ¡ **YELLOW**: OlasÄ± ihlal. â†’ izle / gerekirse bir uyarÄ± ver.
-- ðŸŸ  **ORANGE**: Muhtemel ihlal. â†’ moderasyon incelemesi.
-- ðŸ”´ **RED**: Ciddi olasÄ± ihlal. â†’ acil koruyucu Ã¶nlem + insan incelemesi.
+### 9. Dört Karar Bölgesi
+- 🟢 **GREEN**: Büyük olasılıkla kurallara uygun. → işlem yok.
+- 🟡 **YELLOW**: Olası ihlal. → izle / gerekirse bir uyarı ver.
+- 🟠 **ORANGE**: Muhtemel ihlal. → moderasyon incelemesi.
+- 🔴 **RED**: Ciddi olası ihlal. → acil koruyucu önlem + insan incelemesi.
 
-### 10. "Yapay Zeka CezasÄ±" Yok
-**Yapay zeka nihai yaptÄ±rÄ±mlar uygulamaz.** Ciddi gÃ¼venlik endiÅŸeleri iÃ§in anÄ±nda teknik Ã¶nlemleri tetikleyebilir (Ã¶rneÄŸin, bir mesajÄ± geÃ§ici olarak bekletmek), ancak nihai karar doÄŸrulanabilir kalÄ±r.
+### 10. "Yapay Zeka Cezası" Yok
+**Yapay zeka nihai yaptırımlar uygulamaz.** Ciddi güvenlik endişeleri için anında teknik önlemleri tetikleyebilir (örneğin, bir mesajı geçici olarak bekletmek), ancak nihai karar doğrulanabilir kalır.
 
-### 11. Koruyucu Ã–nlemler Otomatik Olarak GerÃ§ekleÅŸebilir
-Somut bir tehdit durumunda (Threat detected â†’ High confidence â†’ Temporary restriction â†’ Human review â†’ Decision), yapay zekayÄ± bir yargÄ±ca dÃ¶nÃ¼ÅŸtÃ¼rmeden tehdit edilen kullanÄ±cÄ±yÄ± koruruz.
+### 11. Koruyucu Önlemler Otomatik Olarak Gerçekleşebilir
+Somut bir tehdit durumunda (Threat detected → High confidence → Temporary restriction → Human review → Decision), yapay zekayı bir yargıca dönüştürmeden tehdit edilen kullanıcıyı koruruz.
 
-### 12. Yapay Zeka KararlarÄ±nÄ± GerekÃ§elendirebilmelidir
-DSA aÃ§Ä±k ve spesifik nedenler gerektirir. Yapay zeka yapÄ±landÄ±rÄ±lmÄ±ÅŸ gerekÃ§eler sunar: Kural (NG-CONDUCT-004), AlgÄ±lanan (OlasÄ± somut tehdit), GÃ¼ven (0.94), Ä°lgili baÄŸlam (Ã–nceki 4 mesaj), Ã–nerilen eylem (Ä°nsan incelemesi).
+### 12. Yapay Zeka Kararlarını Gerekçelendirebilmelidir
+DSA açık ve spesifik nedenler gerektirir. Yapay zeka yapılandırılmış gerekçeler sunar: Kural (NG-CONDUCT-004), Algılanan (Olası somut tehdit), Güven (0.94), İlgili bağlam (Önceki 4 mesaj), Önerilen eylem (İnsan incelemesi).
 
-### 13. Yapay Zeka Ä°Ã§eriÄŸi Gizlice DeÄŸiÅŸtirmemelidir
-**Moderasyon yapay zekasÄ±, orijinal iÃ§eriÄŸi asla fark edilmeden deÄŸiÅŸtirmemelidir.** Otomatik dÃ¼zeltme, Ã§eviri veya Ã¶zetleme sÄ±rasÄ±nda orijinal iÃ§erik her zaman korunur.
+### 13. Yapay Zeka İçeriği Gizlice Değiştirmemelidir
+**Moderasyon yapay zekası, orijinal içeriği asla fark edilmeden değiştirmemelidir.** Otomatik düzeltme, çeviri veya özetleme sırasında orijinal içerik her zaman korunur.
 
-### 14. Yapay Zeka TarafÄ±ndan OluÅŸturulan Ä°Ã§erik
-Åžunlar arasÄ±nda ayrÄ±m yapÄ±yoruz: Ä°nsan yapÄ±mÄ±, Yapay zeka destekli, Yapay zeka tarafÄ±ndan oluÅŸturulmuÅŸ ve Yapay zeka tarafÄ±ndan manipÃ¼le edilmiÅŸ. Bu, iÃ§erik meta verilerinin bir parÃ§asÄ± olacaktÄ±r.
+### 14. Yapay Zeka Tarafından Oluşturulan İçerik
+Şunlar arasında ayrım yapıyoruz: İnsan yapımı, Yapay zeka destekli, Yapay zeka tarafından oluşturulmuş ve Yapay zeka tarafından manipüle edilmiş. Bu, içerik meta verilerinin bir parçası olacaktır.
 
-### 15. Yapay Zeka Ä°Ã§eriÄŸinin Etiketlenmesi ve Yapay Zeka Kaynak KatmanÄ±
-AB Yapay Zeka YasasÄ±'nÄ±n (AÄŸustos 2026'dan itibaren geÃ§erli) ÅŸeffaflÄ±k kurallarÄ±na gÃ¶re, yapay zeka tarafÄ±ndan oluÅŸturulan iÃ§erik tanÄ±mlanabilir olmalÄ±dÄ±r. Meta verileri (Yapay Zeka KÃ¶keni, Model, Zaman DamgasÄ±, Ä°nsan Ä°ncelemesi) depolayan bir AI Provenance Layer (Yapay Zeka Kaynak KatmanÄ±) saÄŸlÄ±yoruz.
+### 15. Yapay Zeka İçeriğinin Etiketlenmesi ve Yapay Zeka Kaynak Katmanı
+AB Yapay Zeka Yasası'nın (Ağustos 2026'dan itibaren geçerli) şeffaflık kurallarına göre, yapay zeka tarafından oluşturulan içerik tanımlanabilir olmalıdır. Meta verileri (Yapay Zeka Kökeni, Model, Zaman Damgası, İnsan İncelemesi) depolayan bir AI Provenance Layer (Yapay Zeka Kaynak Katmanı) sağlıyoruz.
 
 ### 16. Deepfake Tespiti
-Mimari sentetik gÃ¶rÃ¼ntÃ¼leri, klonlanmÄ±ÅŸ sesleri ve deepfake'leri tespit etmeyi amaÃ§lamaktadÄ±r. Ancak, tespit otomatik olarak bir kanÄ±t deÄŸildir.
+Mimari sentetik görüntüleri, klonlanmış sesleri ve deepfake'leri tespit etmeyi amaçlamaktadır. Ancak, tespit otomatik olarak bir kanıt değildir.
 
-### 17. Otomatik "Hakikat Makinesi" Yok (Moderasyon â‰  DoÄŸruluk KontrolÃ¼)
-Bir sistem ÅŸunu kontrol eder: "Ä°Ã§erik kurallarÄ± ihlal ediyor mu?" (Content Moderation), diÄŸeri ÅŸunu saÄŸlar: "Hangi bilgiler ve kaynaklar mevcut?" (Information Assistance). GÃ¶rÃ¼ÅŸler sadece "yanlÄ±ÅŸ" olduklarÄ± iÃ§in silinmez.
+### 17. Otomatik "Hakikat Makinesi" Yok (Moderasyon ≠ Doğruluk Kontrolü)
+Bir sistem şunu kontrol eder: "İçerik kuralları ihlal ediyor mu?" (Content Moderation), diğeri şunu sağlar: "Hangi bilgiler ve kaynaklar mevcut?" (Information Assistance). Görüşler sadece "yanlış" oldukları için silinmez.
 
-### 18. KÃ¼ltÃ¼rel YanlÄ±ÅŸ Yorumlamaya KarÅŸÄ± Koruma
-Yapay zeka, bir Ã¼lkenin iletiÅŸim normlarÄ±nÄ±n kÃ¼resel bir standart olarak varsayÄ±lmasÄ±nÄ± Ã¶nlemek iÃ§in **Cultural Context Models**'a (KÃ¼ltÃ¼rel BaÄŸlam Modelleri) ihtiyaÃ§ duyar.
+### 18. Kültürel Yanlış Yorumlamaya Karşı Koruma
+Yapay zeka, bir ülkenin iletişim normlarının küresel bir standart olarak varsayılmasını önlemek için **Cultural Context Models**'a (Kültürel Bağlam Modelleri) ihtiyaç duyar.
 
-### 19. Ä°roni, Hiciv ve Mizah
-Yapay zeka baÄŸlamÄ±, emojileri, konuÅŸma geÃ§miÅŸini ve bilinen ironi yapÄ±larÄ±nÄ± kullanÄ±r, ancak anlamlar belirsiz olduÄŸunda belirsizliÄŸe izin vermelidir.
+### 19. İroni, Hiciv ve Mizah
+Yapay zeka bağlamı, emojileri, konuşma geçmişini ve bilinen ironi yapılarını kullanır, ancak anlamlar belirsiz olduğunda belirsizliğe izin vermelidir.
 
-### 20. Tek Bir Yapay Zeka PuanÄ±na DayalÄ± Ceza Yok
-HiÃ§bir ciddi moderasyon mÃ¼dahalesi yalnÄ±zca tek bir otomatik sÄ±nÄ±flandÄ±rma sonucuna dayanamaz (Metin + BaÄŸlam + DavranÄ±ÅŸ + Dil + Medya + Kural Motoru = Risk DeÄŸerlendirmesi).
+### 20. Tek Bir Yapay Zeka Puanına Dayalı Ceza Yok
+Hiçbir ciddi moderasyon müdahalesi yalnızca tek bir otomatik sınıflandırma sonucuna dayanamaz (Metin + Bağlam + Davranış + Dil + Medya + Kural Motoru = Risk Değerlendirmesi).
 
-### 21. KullanÄ±cÄ± DavranÄ±ÅŸ Sinyalleri ve Sosyal Kredi Sistemi Yok
-Bu, genel bir sosyal derecelendirme sistemi ile deÄŸil, teknik kÃ¶tÃ¼ye kullanÄ±m sinyalleri (Ã¶rneÄŸin, toplu spam gÃ¶nderimi) ile ilgilidir. Nexus Gaja bir Sosyal Kredi Sistemi sÃ¼rdÃ¼rmez - moderasyon bir kiÅŸinin deÄŸerinin deÄŸerlendirilmesine deÄŸil, gÃ¼venliÄŸe hizmet eder.
+### 21. Kullanıcı Davranış Sinyalleri ve Sosyal Kredi Sistemi Yok
+Bu, genel bir sosyal derecelendirme sistemi ile değil, teknik kötüye kullanım sinyalleri (örneğin, toplu spam gönderimi) ile ilgilidir. Nexus Gaja bir Sosyal Kredi Sistemi sürdürmez - moderasyon bir kişinin değerinin değerlendirilmesine değil, güvenliğe hizmet eder.
 
-### 22. Moderasyon Yapay ZekasÄ± Denetlenebilir OlmalÄ±dÄ±r
-Ä°zlenebilirliÄŸi saÄŸlamak iÃ§in tÃ¼m ilgili otomatik kararlar (Event-ID, Rule-ID, Confidence, Human-Review, vb.) gÃ¼nlÃ¼ÄŸe kaydedilir.
+### 22. Moderasyon Yapay Zekası Denetlenebilir Olmalıdır
+İzlenebilirliği sağlamak için tüm ilgili otomatik kararlar (Event-ID, Rule-ID, Confidence, Human-Review, vb.) günlüğe kaydedilir.
 
-### 23. YanlÄ±ÅŸ Pozitifler, YanlÄ±ÅŸ Negatifler ve Kalite Metrikleri
-Hata tÃ¼rleri izlenir. Bir gÃ¶sterge panosu KesinliÄŸi, Geri Ã‡aÄŸÄ±rmayÄ± ve Ã¶zellikle **Ä°tiraz Geri Ã‡evirme OranÄ±nÄ±** (baÅŸarÄ±lÄ± itirazlarÄ±n sayÄ±sÄ±) Ã¶lÃ§er.
+### 23. Yanlış Pozitifler, Yanlış Negatifler ve Kalite Metrikleri
+Hata türleri izlenir. Bir gösterge panosu Kesinliği, Geri Çağırmayı ve özellikle **İtiraz Geri Çevirme Oranını** (başarılı itirazların sayısı) ölçer.
 
-### 24. Dil EÅŸitliÄŸi ve Ã‡eviri YanlÄ±lÄ±ÄŸÄ±
-Moderasyon kalitesi desteklenen tÃ¼m dillerde karÅŸÄ±laÅŸtÄ±rÄ±labilir olmalÄ±dÄ±r (Ã‡ok Dilli Moderasyon Kriteri). Orijinal metin ile Ã§eviri arasÄ±ndaki moderasyon sonuÃ§larÄ± farklÄ±ysa (Ã‡eviri Ã‡atÄ±ÅŸmasÄ±), bu durum Ã¶zel olarak incelenmelidir.
+### 24. Dil Eşitliği ve Çeviri Yanlılığı
+Moderasyon kalitesi desteklenen tüm dillerde karşılaştırılabilir olmalıdır (Çok Dilli Moderasyon Kriteri). Orijinal metin ile çeviri arasındaki moderasyon sonuçları farklıysa (Çeviri Çatışması), bu durum özel olarak incelenmelidir.
 
-### 25. Mimari Ã–nerisi ve Kural Motoru (Policy Engine)
-Kurallar yapay zeka modellerine kodlanmamÄ±ÅŸtÄ±r. Yapay zeka bulgularÄ± saÄŸlar; Policy Engine mevcut kurallara gÃ¶re karar verir. Bu, **kural deÄŸiÅŸiklikleri olmadan model deÄŸiÅŸikliklerine** olanak tanÄ±r.
+### 25. Mimari Önerisi ve Kural Motoru (Policy Engine)
+Kurallar yapay zeka modellerine kodlanmamıştır. Yapay zeka bulguları sağlar; Policy Engine mevcut kurallara göre karar verir. Bu, **kural değişiklikleri olmadan model değişikliklerine** olanak tanır.
 
-### 26. Ä°nsan Nihai Otorite Olmaya Devam Eder
-- **NG-AI-MOD-001**: Yapay zeka tespit ve sÄ±nÄ±flandÄ±rmada yardÄ±mcÄ± olur, ancak ciddi kararlarda insan incelemesinin yerini almaz.
-- **NG-AI-MOD-002**: Otomatik moderasyon kararlarÄ± izlenebilir, kaydedilebilir ve doÄŸrulanabilir olmalÄ±dÄ±r.
+### 26. İnsan Nihai Otorite Olmaya Devam Eder
+- **NG-AI-MOD-001**: Yapay zeka tespit ve sınıflandırmada yardımcı olur, ancak ciddi kararlarda insan incelemesinin yerini almaz.
+- **NG-AI-MOD-002**: Otomatik moderasyon kararları izlenebilir, kaydedilebilir ve doğrulanabilir olmalıdır.
 
-**Ã–zet**: DÃ¶rt aÅŸamalÄ± bir sistem kuruyoruz: Yapay Zeka Tespiti, BaÄŸlam ve Risk Analizi, Kural Motoru (Policy Engine) ve Ä°nsan YÃ¶netiÅŸimi. Bu, tehlikeli bir "YargÄ±Ã§ olarak Yapay Zeka" mimarisi oluÅŸturmadan gÃ¼Ã§lÃ¼ bir otomasyon saÄŸlar.
+**Özet**: Dört aşamalı bir sistem kuruyoruz: Yapay Zeka Tespiti, Bağlam ve Risk Analizi, Kural Motoru (Policy Engine) ve İnsan Yönetişimi. Bu, tehlikeli bir "Yargıç olarak Yapay Zeka" mimarisi oluşturmadan güçlü bir otomasyon sağlar.
 
-## Finansman Ä°lkeleri ve Gelir Modeli (WP 1.10.1)
+## Finansman İlkeleri ve Gelir Modeli (WP 1.10.1)
 
 ![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
-Nexus Gaja iÃ§in Ã§ok Ã¶nemli bir ekonomik ilke geÃ§erlidir: **Platform iÃ§inde geleneksel reklamlara yer yoktur.**
-Bu, Nexus Gaja'yÄ± gÃ¼nÃ¼mÃ¼zÃ¼n birÃ§ok sosyal aÄŸÄ±ndan temel olarak ayÄ±rÄ±r. Ancak bu, Nexus Gaja'nÄ±n ticari bir karaktere sahip olamayacaÄŸÄ± anlamÄ±na gelmez. Aksine, sosyal amacÄ±nÄ±n kalÄ±cÄ± olabilmesi iÃ§in platformun ekonomik olarak sÃ¼rdÃ¼rÃ¼lebilir olmasÄ± gerekir. Ekonomik faaliyet bir amaca ulaÅŸmak iÃ§in bir araÃ§tÄ±r, platformun birincil amacÄ± deÄŸildir.
+Nexus Gaja için çok önemli bir ekonomik ilke geçerlidir: **Platform içinde geleneksel reklamlara yer yoktur.**
+Bu, Nexus Gaja'yı günümüzün birçok sosyal ağından temel olarak ayırır. Ancak bu, Nexus Gaja'nın ticari bir karaktere sahip olamayacağı anlamına gelmez. Aksine, sosyal amacının kalıcı olabilmesi için platformun ekonomik olarak sürdürülebilir olması gerekir. Ekonomik faaliyet bir amaca ulaşmak için bir araçtır, platformun birincil amacı değildir.
 
 ### 1. Prensip NG-FIN-001
-Nexus Gaja, operasyonlarÄ±nÄ± kullanÄ±cÄ±larÄ±n dikkatini veya kiÅŸisel verilerini paraya dÃ¶nÃ¼ÅŸtÃ¼rerek deÄŸil, kullanÄ±cÄ± Ã§Ä±karlarÄ±ndan ayrÄ±, ÅŸeffaf gelir kaynaklarÄ± aracÄ±lÄ±ÄŸÄ±yla finanse eder.
+Nexus Gaja, operasyonlarını kullanıcıların dikkatini veya kişisel verilerini paraya dönüştürerek değil, kullanıcı çıkarlarından ayrı, şeffaf gelir kaynakları aracılığıyla finanse eder.
 
 ### 2. Klasik Reklam Yok
-Ã–zellikle ÅŸunlar yasaktÄ±r:
+Özellikle şunlar yasaktır:
 - Banner reklamlar
-- AÃ§Ä±lÄ±r pencere (Pop-up) reklamlarÄ±
-- Otomatik oynatÄ±lan video reklamlar
-- Standart akÄ±ÅŸta (feed) sponsorlu gÃ¶nderiler
-- KiÅŸiselleÅŸtirilmiÅŸ reklam profilleri
-- KullanÄ±cÄ± profillerinin veya kiÅŸisel verilerin satÄ±ÅŸÄ±
-- Ã–zel konuÅŸmalardan elde edilen reklamlar.
+- Açılır pencere (Pop-up) reklamları
+- Otomatik oynatılan video reklamlar
+- Standart akışta (feed) sponsorlu gönderiler
+- Kişiselleştirilmiş reklam profilleri
+- Kullanıcı profillerinin veya kişisel verilerin satışı
+- Özel konuşmalardan elde edilen reklamlar.
 
-Nexus Gaja bir **reklam alanÄ± yerine bir iletiÅŸim alanÄ±** olmaya devam etmektedir.
+Nexus Gaja bir **reklam alanı yerine bir iletişim alanı** olmaya devam etmektedir.
 
-### 3. ReklamsÄ±z Finansman (6 SÃ¼tun)
-Finansman altÄ± sÃ¼tun Ã¼zerine inÅŸa edilmiÅŸtir:
+### 3. Reklamsız Finansman (6 Sütun)
+Finansman altı sütun üzerine inşa edilmiştir:
 ```text
                  NEXUS GAJA
-                     â”‚
-       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-       â–¼             â–¼             â–¼
-   PREMIUM       ORGANÄ°ZASYON     BAÄžIÅžLAR
-       â”‚             â”‚             â”‚
-       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
-       â–¼             â–¼             â–¼
-  FON/HÄ°BE        ORTAKLIKLAR   HÄ°ZMETLER
+                     │
+       ┌─────────────┼─────────────┐
+       ▼             ▼             ▼
+   PREMIUM       ORGANİZASYON     BAĞIŞLAR
+       │             │             │
+       ├─────────────┼─────────────┤
+       ▼             ▼             ▼
+  FON/HİBE        ORTAKLIKLAR   HİZMETLER
 ```
 
-#### SÃ¼tun 1 â€“ Ãœcretsiz Temel Ãœyelik
-**Nexus Gaja Free**, herkes iÃ§in temel uluslararasÄ± anlayÄ±ÅŸÄ± (profil, uluslararasÄ± iletiÅŸim, gÃ¶nderiler, topluluklar, sohbetler, temel Ã§eviri) Ã¼cretsiz olarak saÄŸlar.
+#### Sütun 1 – Ücretsiz Temel Üyelik
+**Nexus Gaja Free**, herkes için temel uluslararası anlayışı (profil, uluslararası iletişim, gönderiler, topluluklar, sohbetler, temel çeviri) ücretsiz olarak sağlar.
 
-#### SÃ¼tun 2 â€“ Premium Teklifler
-GÃ¶nÃ¼llÃ¼ Ã¼cretli teklifler (**Nexus Gaja Plus**), daha bÃ¼yÃ¼k depolama sÄ±nÄ±rlarÄ±, daha yÃ¼ksek medya kalitesi, geniÅŸletilmiÅŸ yapay zeka kotalarÄ± ve organizasyonel Ã¶zellikler sunar.
-**Ã–nemli (Dark Freemium yerine Freemium):** Temel iletiÅŸim asla yapay olarak kullanÄ±lamaz hale getirilmemelidir.
+#### Sütun 2 – Premium Teklifler
+Gönüllü ücretli teklifler (**Nexus Gaja Plus**), daha büyük depolama sınırları, daha yüksek medya kalitesi, genişletilmiş yapay zeka kotaları ve organizasyonel özellikler sunar.
+**Önemli (Dark Freemium yerine Freemium):** Temel iletişim asla yapay olarak kullanılamaz hale getirilmemelidir.
 
-#### SÃ¼tun 3 â€“ Organizasyonlar
-Okullar, Ã¼niversiteler, STK'lar, iÅŸletmeler ve belediyeler iÃ§in Ã¶zel hesaplar (**Nexus Gaja Organization**). Okullar, uluslararasÄ± anlayÄ±ÅŸÄ±n Ã§oÄŸaltÄ±cÄ±larÄ± olarak kurumsal tarifeler aracÄ±lÄ±ÄŸÄ±yla desteklenebilir.
+#### Sütun 3 – Organizasyonlar
+Okullar, üniversiteler, STK'lar, işletmeler ve belediyeler için özel hesaplar (**Nexus Gaja Organization**). Okullar, uluslararası anlayışın çoğaltıcıları olarak kurumsal tarifeler aracılığıyla desteklenebilir.
 
-#### SÃ¼tun 4 â€“ BaÄŸÄ±ÅŸlar
-**Nexus Gaja Fon Havuzu**, genel ve Ã¶zel amaÃ§lÄ± (Ã¶rneÄŸin "uluslararasÄ± genÃ§lik iletiÅŸimi iÃ§in") baÄŸÄ±ÅŸlarÄ± kabul eder. Bir **Fon Tahsis Defteri (Fund Allocation Ledger)**, fonlarÄ±n ÅŸeffaf bir ÅŸekilde tahsis edilmesini saÄŸlar.
-**AmaÃ§ Fonu ve Tombala:** BaÄŸÄ±ÅŸlarÄ±n bir kÄ±smÄ± Ã¼cretsiz/indirimli kullanÄ±m iÃ§in bir havuzu besler. Bir tombala mekanizmasÄ± bu fonlarÄ± ÅŸeffaf ve denetlerebilir bir ÅŸekilde tahsis edebilir.
+#### Sütun 4 – Bağışlar
+**Nexus Gaja Fon Havuzu**, genel ve özel amaçlı (örneğin "uluslararası gençlik iletişimi için") bağışları kabul eder. Bir **Fon Tahsis Defteri (Fund Allocation Ledger)**, fonların şeffaf bir şekilde tahsis edilmesini sağlar.
+**Amaç Fonu ve Tombala:** Bağışların bir kısmı ücretsiz/indirimli kullanım için bir havuzu besler. Bir tombala mekanizması bu fonları şeffaf ve denetlerebilir bir şekilde tahsis edebilir.
 
-#### SÃ¼tun 5 â€“ Kurumsal Fonlar
-VakÄ±flar, kÃ¼ltÃ¼rel fon programlarÄ± veya devlet programlarÄ±.
-**NG-FIN-002:** Finansal destek, editoryal veya teknik kontrol satÄ±n almaz (BaÄŸÄ±msÄ±zlÄ±k).
+#### Sütun 5 – Kurumsal Fonlar
+Vakıflar, kültürel fon programları veya devlet programları.
+**NG-FIN-002:** Finansal destek, editoryal veya teknik kontrol satın almaz (Bağımsızlık).
 
-#### SÃ¼tun 6 â€“ Ticari Hizmetler
-Standart kullanÄ±cÄ± akÄ±ÅŸÄ±nÄ± (feed) zorlamadan, **Hizmet olarak Ã‡eviri** (API), kurumsal iletiÅŸim veya uluslararasÄ± konferans salonlarÄ± gibi B2B hizmetler.
+#### Sütun 6 – Ticari Hizmetler
+Standart kullanıcı akışını (feed) zorlamadan, **Hizmet olarak Çeviri** (API), kurumsal iletişim veya uluslararası konferans salonları gibi B2B hizmetler.
 
-### 4. Veri TicarileÅŸtirmesi ve GÃ¶zetim Ekonomisi Yok
-**NG-FIN-003:** KiÅŸisel kullanÄ±cÄ± verileri bir meta deÄŸildir. Listelerin, profillerin veya geÃ§miÅŸlerin satÄ±ÅŸÄ± yoktur. Nexus Gaja, psikolojik gÃ¶zetimden (GÃ¶zetim Ekonomisi - Surveillance Economy) kar elde etmez.
+### 4. Veri Ticarileştirmesi ve Gözetim Ekonomisi Yok
+**NG-FIN-003:** Kişisel kullanıcı verileri bir meta değildir. Listelerin, profillerin veya geçmişlerin satışı yoktur. Nexus Gaja, psikolojik gözetimden (Gözetim Ekonomisi - Surveillance Economy) kar elde etmez.
 
-### 5. Finansal ÅžeffaflÄ±k ve Fon Defteri
-**Nexus Gaja Finansal ÅžeffaflÄ±ÄŸÄ±:** Toplu finansal yapÄ±larÄ±n yayÄ±nlanmasÄ±. Ã–zel amaÃ§lÄ± baÄŸÄ±ÅŸlar teknik muhasebe alÄ±r (Fon ID â†’ AmaÃ§ â†’ Bakiye â†’ Tahsis). Sosyal amaÃ§lÄ± fonlardan kurumsal pazarlamaya Ã§apraz sÃ¼bvansiyon yapÄ±lamaz.
+### 5. Finansal Şeffaflık ve Fon Defteri
+**Nexus Gaja Finansal Şeffaflığı:** Toplu finansal yapıların yayınlanması. Özel amaçlı bağışlar teknik muhasebe alır (Fon ID → Amaç → Bakiye → Tahsis). Sosyal amaçlı fonlardan kurumsal pazarlamaya çapraz sübvansiyon yapılamaz.
 
-### 6. DayanÄ±ÅŸma Temelli Finansman Modeli
-FiyatlandÄ±rma maliyet odaklÄ±lÄ±ÄŸa, adalete ve dayanÄ±ÅŸmaya dayanÄ±r.
-**DayanÄ±ÅŸma Premium:** Premium kullanÄ±cÄ±larÄ±n baÅŸka bir kullanÄ±cÄ±nÄ±n eriÅŸiminin bir kÄ±smÄ±nÄ± finanse etmesi iÃ§in gÃ¶nÃ¼llÃ¼ bir seÃ§enek. Zorunlu dayanÄ±ÅŸma veya premium bir sÄ±nÄ±f toplumu (Ã¼cretsiz kullanÄ±cÄ±lar iÃ§in daha az saygÄ±/moderasyon) kesinlikle yasaktÄ±r.
+### 6. Dayanışma Temelli Finansman Modeli
+Fiyatlandırma maliyet odaklılığa, adalete ve dayanışmaya dayanır.
+**Dayanışma Premium:** Premium kullanıcıların başka bir kullanıcının erişiminin bir kısmını finanse etmesi için gönüllü bir seçenek. Zorunlu dayanışma veya premium bir sınıf toplumu (ücretsiz kullanıcılar için daha az saygı/moderasyon) kesinlikle yasaktır.
 
-### 7. EtkileÅŸim Ekonomisi Yerine Ekonomik KPI'lar
-KullanÄ±cÄ±larÄ± "mÃ¼mkÃ¼n olduÄŸunca uzun sÃ¼re Ã§evrimiÃ§i" tutmaya baÄŸÄ±mlÄ±lÄ±k yoktur (ragebait yok, sonsuz akÄ±ÅŸ yok).
-Bunun yerine aÅŸaÄŸÄ±daki gibi metrikler kullanÄ±rÄ±z:
-- **KÃ¼resel Ä°letiÅŸim Endeksi (GCI):** FarklÄ± dilsel/kÃ¼ltÃ¼rel bÃ¶lgelerden gelen insanlar arasÄ±ndaki baÅŸarÄ±lÄ± iletiÅŸim iliÅŸkileri.
-- **Platform SÃ¼rdÃ¼rÃ¼lebilirlik OranÄ± (PSR):** Tekrarlayan gelir / tekrarlayan iÅŸletme maliyetleri (Hedef â‰¥ 1).
+### 7. Etkileşim Ekonomisi Yerine Ekonomik KPI'lar
+Kullanıcıları "mümkün olduğunca uzun süre çevrimiçi" tutmaya bağımlılık yoktur (ragebait yok, sonsuz akış yok).
+Bunun yerine aşağıdaki gibi metrikler kullanırız:
+- **Küresel İletişim Endeksi (GCI):** Farklı dilsel/kültürel bölgelerden gelen insanlar arasındaki başarılı iletişim ilişkileri.
+- **Platform Sürdürülebilirlik Oranı (PSR):** Tekrarlayan gelir / tekrarlayan işletme maliyetleri (Hedef ≥ 1).
 
-### 8. AÃ§Ä±kÃ§a Ä°stemediÄŸimiz Åžeyler (Negatif Liste)
-Nexus Gaja ÅŸunlar aracÄ±lÄ±ÄŸÄ±yla **finanse edilmez**:
-âŒ KiÅŸisel verilerin satÄ±ÅŸÄ±
-âŒ KiÅŸiselleÅŸtirilmiÅŸ klasik reklamcÄ±lÄ±k
-âŒ Reklam amacÄ±yla kullanÄ±cÄ± davranÄ±ÅŸÄ±nÄ±n izlenmesi
-âŒ Ã–zel iletiÅŸim verilerinin satÄ±ÅŸÄ±
-âŒ Gizli yapay zeka veri kullanÄ±mÄ±
-âŒ ManipÃ¼latif Premium Ã¶deme duvarlarÄ±
-âŒ TicarileÅŸtirme iÃ§in yapay eriÅŸim kÄ±sÄ±tlamasÄ±
-âŒ Ãœcretli siyasi etki
-âŒ AyrÄ±calÄ±klÄ± moderasyon kararlarÄ±nÄ±n satÄ±n alÄ±nmasÄ±.
+### 8. Açıkça İstemediğimiz Şeyler (Negatif Liste)
+Nexus Gaja şunlar aracılığıyla **finanse edilmez**:
+❌ Kişisel verilerin satışı
+❌ Kişiselleştirilmiş klasik reklamcılık
+❌ Reklam amacıyla kullanıcı davranışının izlenmesi
+❌ Özel iletişim verilerinin satışı
+❌ Gizli yapay zeka veri kullanımı
+❌ Manipülatif Premium ödeme duvarları
+❌ Ticarileştirme için yapay erişim kısıtlaması
+❌ Ücretli siyasi etki
+❌ Ayrıcalıklı moderasyon kararlarının satın alınması.
 
-### 9. Ã–n Finansal Mimari
+### 9. Ön Finansal Mimari
 ```text
                          NEXUS GAJA
-                              â”‚
-             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-             â”‚                â”‚                â”‚
-             â–¼                â–¼                â–¼
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+             ▼                ▼                ▼
           USERS          ORGANIZATIONS      ENTERPRISE
-             â”‚                â”‚                â”‚
-             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
-                              â”‚
+             │                │                │
+             └────────────────┼────────────────┘
+                              │
                        PLATFORM SERVICES
-                              â”‚
-          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-          â–¼                   â–¼                   â–¼
+                              │
+          ┌───────────────────┼───────────────────┐
+          ▼                   ▼                   ▼
        PREMIUM             DONATIONS            API
-                              â”‚
-                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-                    â–¼                   â–¼
+                              │
+                    ┌─────────┴─────────┐
+                    ▼                   ▼
                GENERAL FUND       RESTRICTED FUNDS
-                                        â”‚
-                                        â–¼
+                                        │
+                                        ▼
                                   SOCIAL PURPOSE
 ```
 
-### Finansman Prensiplerinin Ã–zeti (NG-FIN)
-- **NG-FIN-001:** Klasik reklamcÄ±lÄ±k yoluyla finansman yoktur.
+### Finansman Prensiplerinin Özeti (NG-FIN)
+- **NG-FIN-001:** Klasik reklamcılık yoluyla finansman yoktur.
 - **NG-FIN-002:** Finansal destek yoluyla editoryal/teknik kontrol yoktur.
-- **NG-FIN-003:** KiÅŸisel veriler bir meta deÄŸildir.
-- **NG-FIN-004:** Temel iletiÅŸim, Ã¶deme yapÄ±lmadan eriÅŸilebilir kalÄ±r.
-- **NG-FIN-005:** Premium teklifler Ã¼cretsiz kullanÄ±cÄ±larÄ± aÅŸaÄŸÄ±lamamalÄ±dÄ±r.
-- **NG-FIN-006:** Ã–zel amaÃ§lÄ± fonlar amaÃ§larÄ±na gÃ¶re yÃ¶netilir.
-- **NG-FIN-007:** BaÄŸÄ±ÅŸlarÄ±n ve hibelerin ÅŸeffaf yÃ¶netimi.
-- **NG-FIN-008:** Ticari B2B hizmetleri baÄŸÄ±msÄ±zlÄ±k ilkesinden Ã¶dÃ¼n vermez.
-- **NG-FIN-009:** Maksimum para kazanma yerine sÃ¼rdÃ¼rÃ¼lebilirliÄŸe odaklanma.
-- **NG-FIN-010:** YapÄ±, sosyal amacÄ± kalÄ±cÄ± olarak gÃ¼vence altÄ±na alÄ±r.
+- **NG-FIN-003:** Kişisel veriler bir meta değildir.
+- **NG-FIN-004:** Temel iletişim, ödeme yapılmadan erişilebilir kalır.
+- **NG-FIN-005:** Premium teklifler ücretsiz kullanıcıları aşağılamamalıdır.
+- **NG-FIN-006:** Özel amaçlı fonlar amaçlarına göre yönetilir.
+- **NG-FIN-007:** Bağışların ve hibelerin şeffaf yönetimi.
+- **NG-FIN-008:** Ticari B2B hizmetleri bağımsızlık ilkesinden ödün vermez.
+- **NG-FIN-009:** Maksimum para kazanma yerine sürdürülebilirliğe odaklanma.
+- **NG-FIN-010:** Yapı, sosyal amacı kalıcı olarak güvence altına alır.
 
-## API, ArayÃ¼z ve Ä°letiÅŸim Mimarisi (WP 1.11.3)
+## API, Arayüz ve İletişim Mimarisi (WP 1.11.3)
 
-Sistem kararlÄ±lÄ±ÄŸÄ±nÄ±, gÃ¼venliÄŸini ve Ã¶lÃ§eklenebilirliÄŸini saÄŸlamak iÃ§in Nexus Gaja, katÄ± bir API Ã¶ncelikli ve olay gÃ¼dÃ¼mlÃ¼ (event-driven) mimari izler.
+Sistem kararlılığını, güvenliğini ve ölçeklenebilirliğini sağlamak için Nexus Gaja, katı bir API öncelikli ve olay güdümlü (event-driven) mimari izler.
 
 ### Temel Prensipler
-- **DoÄŸrudan VeritabanÄ± EriÅŸimi Yok:** BileÅŸenler yalnÄ±zca tanÄ±mlÄ± arayÃ¼zler (API'ler veya Olaylar) Ã¼zerinden iletiÅŸim kurar, asla diÄŸer hizmetlerin veritabanlarÄ±na doÄŸrudan sorgular yapmaz.
-- **API AÄŸ GeÃ§idi (Gateway):** TÃ¼m harici istemci istekleri; kimlik doÄŸrulama, yÃ¶nlendirme ve hÄ±z sÄ±nÄ±rlamasÄ±nÄ± iÅŸleyen bir API AÄŸ GeÃ§idi Ã¼zerinden geÃ§er.
-- **SaÄŸlayÄ±cÄ± SoyutlamasÄ±:** Harici hizmetler (Yapay Zeka modelleri, Ã¶deme saÄŸlayÄ±cÄ±larÄ±, Ã§eviri motorlarÄ±) soyutlama katmanlarÄ± aracÄ±lÄ±ÄŸÄ±yla entegre edilir, sabit baÄŸÄ±mlÄ±lÄ±klar Ã¶nlenir ve esnek saÄŸlayÄ±cÄ± deÄŸiÅŸimine olanak tanÄ±r.
+- **Doğrudan Veritabanı Erişimi Yok:** Bileşenler yalnızca tanımlı arayüzler (API'ler veya Olaylar) üzerinden iletişim kurar, asla diğer hizmetlerin veritabanlarına doğrudan sorgular yapmaz.
+- **API Ağ Geçidi (Gateway):** Tüm harici istemci istekleri; kimlik doğrulama, yönlendirme ve hız sınırlamasını işleyen bir API Ağ Geçidi üzerinden geçer.
+- **Sağlayıcı Soyutlaması:** Harici hizmetler (Yapay Zeka modelleri, ödeme sağlayıcıları, çeviri motorları) soyutlama katmanları aracılığıyla entegre edilir, sabit bağımlılıklar önlenir ve esnek sağlayıcı değişimine olanak tanır.
 
-### Ä°letiÅŸim Modelleri
-- **Senkron API'ler (REST/HTTPS):** Oturum aÃ§ma, profil ayarlarÄ± veya doÄŸrudan Ã§eviriler gibi anlÄ±k istekler iÃ§in kullanÄ±lÄ±r.
-- **Asenkron Olaylar (Event Bus):** Gecikmeli, ayrÄ±ÅŸtÄ±rÄ±lmÄ±ÅŸ iÅŸleme iÃ§in Nexus Gaja'nÄ±n merkezi sinir sistemi (Ã¶rneÄŸin, `Message.Created` olayÄ± asenkron olarak Moderasyon, Ã‡eviri ve Bildirimi tetikler).
-- **GerÃ§ek ZamanlÄ± (WebSocket):** CanlÄ± sohbet ve yazÄ±yor gÃ¶stergeleri iÃ§in ayrÄ±lmÄ±ÅŸ kanallar.
+### İletişim Modelleri
+- **Senkron API'ler (REST/HTTPS):** Oturum açma, profil ayarları veya doğrudan çeviriler gibi anlık istekler için kullanılır.
+- **Asenkron Olaylar (Event Bus):** Gecikmeli, ayrıştırılmış işleme için Nexus Gaja'nın merkezi sinir sistemi (örneğin, `Message.Created` olayı asenkron olarak Moderasyon, Çeviri ve Bildirimi tetikler).
+- **Gerçek Zamanlı (WebSocket):** Canlı sohbet ve yazıyor göstergeleri için ayrılmış kanallar.
 
-### GÃ¼venlik ve GÃ¼venilirlik
-- **SÄ±fÄ±r GÃ¼ven (Zero-Trust) Modeli:** Dahili aÄŸ trafiÄŸi otomatik olarak gÃ¼venilir sayÄ±lmaz; hassas hizmetten hizmete iletiÅŸim kimlik doÄŸrulama gerektirir.
-- **Idempotency (EÅŸkuvvetlilik) ve Outbox Deseni:** Kritik iÅŸlemler (baÄŸÄ±ÅŸlar veya mesajlaÅŸma gibi), veritabanÄ± iÅŸlemleri sÄ±rasÄ±nda bile olaylarÄ±n asla kaybolmamasÄ±nÄ± saÄŸlamak iÃ§in Outbox desenini kullanarak yinelenen iÅŸlemeleri Ã¶nleyecek ÅŸekilde idempotent (tekrarlanabilir) olarak tasarlanmÄ±ÅŸtÄ±r.
+### Güvenlik ve Güvenilirlik
+- **Sıfır Güven (Zero-Trust) Modeli:** Dahili ağ trafiği otomatik olarak güvenilir sayılmaz; hassas hizmetten hizmete iletişim kimlik doğrulama gerektirir.
+- **Idempotency (Eşkuvvetlilik) ve Outbox Deseni:** Kritik işlemler (bağışlar veya mesajlaşma gibi), veritabanı işlemleri sırasında bile olayların asla kaybolmamasını sağlamak için Outbox desenini kullanarak yinelenen işlemeleri önleyecek şekilde idempotent (tekrarlanabilir) olarak tasarlanmıştır.
 
-## MVP Etki AlanÄ± Modeli (WP 1.12)
+## MVP Etki Alanı Modeli (WP 1.12)
 
 ![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
 
-Nexus Gaja, kesin sÄ±nÄ±rlarÄ± olan modÃ¼ler bir monolit olarak tasarlanmÄ±ÅŸ, sÄ±kÄ± sÄ±kÄ±ya Etki AlanÄ± OdaklÄ± MVP Mimarisi (ADR-025) kullanÄ±r. Bu yapÄ±, mikro hizmetlerin erken karmaÅŸÄ±klÄ±ÄŸÄ±nÄ± Ã¶nlerken, daha sonra belirli alanlarÄ± ayÄ±rma esnekliÄŸini de korur. Veri bÃ¼tÃ¼nlÃ¼ÄŸÃ¼nÃ¼ saÄŸlamak ve "KullanÄ±cÄ± AdÄ± = Ä°nsan" gibi yapÄ±sal tuzaklardan kaÃ§Ä±nmak iÃ§in kavramlarÄ± aÃ§Ä±kÃ§a ayÄ±rÄ±r:
-- **Kimlik ve Hesaplar:** `Person` â‰  `User Account` â‰  `Identity Verification`. DoÄŸrulanmÄ±ÅŸ bir kiÅŸi bir hesap aracÄ±lÄ±ÄŸÄ±yla katÄ±lÄ±r, ancak varlÄ±klar ayrÄ± kalÄ±r.
-- **Ä°letiÅŸim:** `Message` â‰  `Translation`. Orijinal mesaj deÄŸiÅŸtirilemez; Ã§eviriler baÄŸlantÄ±lÄ± varlÄ±klardÄ±r.
-- **Moderasyon:** `Report` â‰  `Moderation Decision`. Rapor sadece bir iddiadÄ±r; bir moderasyon vakasÄ± araÅŸtÄ±rmayÄ± yÃ¼rÃ¼tÃ¼r.
-- **Finans:** `Donation` â‰  `Fund Balance`. Ã–demeler, ÅŸeffaflÄ±k saÄŸlamak iÃ§in deÄŸiÅŸtirilemez bir defter (ledger) aracÄ±lÄ±ÄŸÄ±yla fona kaydedilir.
+Nexus Gaja, kesin sınırları olan modüler bir monolit olarak tasarlanmış, sıkı sıkıya Etki Alanı Odaklı MVP Mimarisi (ADR-025) kullanır. Bu yapı, mikro hizmetlerin erken karmaşıklığını önlerken, daha sonra belirli alanları ayırma esnekliğini de korur. Veri bütünlüğünü sağlamak ve "Kullanıcı Adı = İnsan" gibi yapısal tuzaklardan kaçınmak için kavramları açıkça ayırır:
+- **Kimlik ve Hesaplar:** `Person` ≠ `User Account` ≠ `Identity Verification`. Doğrulanmış bir kişi bir hesap aracılığıyla katılır, ancak varlıklar ayrı kalır.
+- **İletişim:** `Message` ≠ `Translation`. Orijinal mesaj değiştirilemez; çeviriler bağlantılı varlıklardır.
+- **Moderasyon:** `Report` ≠ `Moderation Decision`. Rapor sadece bir iddiadır; bir moderasyon vakası araştırmayı yürütür.
+- **Finans:** `Donation` ≠ `Fund Balance`. Ödemeler, şeffaflık sağlamak için değiştirilemez bir defter (ledger) aracılığıyla fona kaydedilir.
 
-### BaÄŸlantÄ±lÄ± Etki AlanlarÄ±
-Sistem mantÄ±ksal etki alanlarÄ±na bÃ¶lÃ¼nmÃ¼ÅŸtÃ¼r: Kimlik, Hesap, Organizasyon, Ä°letiÅŸim, Topluluk, Dil, Moderasyon, Bildirim, Finans ve YÃ¶netiÅŸim.
+### Bağlantılı Etki Alanları
+Sistem mantıksal etki alanlarına bölünmüştür: Kimlik, Hesap, Organizasyon, İletişim, Topluluk, Dil, Moderasyon, Bildirim, Finans ve Yönetişim.
 
 ## Proje Durumu
-Proje aktif mimari ve planlama aÅŸamasÄ±ndadÄ±r.
-Devam eden mimari kararlar `/docs` klasÃ¶rÃ¼nde belgelenmektedir.
+Proje aktif mimari ve planlama aşamasındadır.
+Devam eden mimari kararlar `/docs` klasöründe belgelenmektedir.
 
 ---
 
-## Lisans ve Fikri MÃ¼lkiyet
+## Lisans ve Fikri Mülkiyet
 
-> **Â© 2024â€“2026 SonnerStudio - Jan Friske GrÃ¼nder, Inhaber, Direktor und Chefdesigner von SonnerStudio â€” TÃ¼m haklarÄ± saklÄ±dÄ±r.**
+> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — Tüm hakları saklıdır.**
 
-**Nexus Gaja**, **SonnerStudio** bÃ¼nyesinde faaliyet gÃ¶steren **Jan Friske**'Ä±n mÃ¼nhasÄ±r fikri mÃ¼lkiyetidir.
+**Nexus Gaja**, **SonnerStudio** bünyesinde faaliyet gösteren **Jan Friske**'ın münhasır fikri mülkiyetidir.
 
-Jan Friske, tÃ¼m kavramlar, mimariler, alan modelleri, marka kimliÄŸi ve ilgili belgeler dahil olmak Ã¼zere Nexus Gaja'nÄ±n tek yaratÄ±cÄ±sÄ±, mimarÄ± ve sahibidir.
+Jan Friske, tüm kavramlar, mimariler, alan modelleri, marka kimliği ve ilgili belgeler dahil olmak üzere Nexus Gaja'nın tek yaratıcısı, mimarı ve sahibidir.
 
-**Teknoloji sektÃ¶rÃ¼ndeki bÃ¼yÃ¼klÃ¼kleri, piyasa konumlarÄ± veya etkileri ne olursa olsun, hiÃ§bir Ã¼Ã§Ã¼ncÃ¼ tarafa herhangi bir hak, lisans veya mÃ¼lkiyet Ã§Ä±karÄ± tanÄ±nmamaktadÄ±r.**
+**Teknoloji sektöründeki büyüklükleri, piyasa konumları veya etkileri ne olursa olsun, hiçbir üçüncü tarafa herhangi bir hak, lisans veya mülkiyet çıkarı tanınmamaktadır.**
 
-### AÃ§Ä±k yazÄ±lÄ± izin olmaksÄ±zÄ±n YAPILAMAYACAKLAR:
-- âŒ Bu yazÄ±lÄ±mÄ±n veya belgelerinin kopyalanmasÄ±, Ã§oÄŸaltÄ±lmasÄ± veya daÄŸÄ±tÄ±lmasÄ±
-- âŒ DeÄŸiÅŸtirme, uyarlama veya tÃ¼rev eserler oluÅŸturma
-- âŒ Nexus Gaja'nÄ±n herhangi bir bÃ¶lÃ¼mÃ¼nÃ¼n ticari kullanÄ±mÄ±
-- âŒ Bu deponun iÃ§eriÄŸinin **yapay zeka/LLM sistemleri iÃ§in eÄŸitim verisi** olarak kullanÄ±lmasÄ±
-- âŒ HaklarÄ±n Ã¼Ã§Ã¼ncÃ¼ taraflara alt lisanslama veya devredilmesi
+### Açık yazılı izin olmaksızın YAPILAMAYACAKLAR:
+- ❌ Bu yazılımın veya belgelerinin kopyalanması, çoğaltılması veya dağıtılması
+- ❌ Değiştirme, uyarlama veya türev eserler oluşturma
+- ❌ Nexus Gaja'nın herhangi bir bölümünün ticari kullanımı
+- ❌ Bu deponun içeriğinin **yapay zeka/LLM sistemleri için eğitim verisi** olarak kullanılması
+- ❌ Hakların üçüncü taraflara alt lisanslama veya devredilmesi
 
-### Ä°letiÅŸim
-Lisans sorgularÄ± iÃ§in: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+### İletişim
+Lisans sorguları için: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-âž¡ï¸ Tam lisans koÅŸullarÄ± iÃ§in [LICENSE](LICENSE) dosyasÄ±na bakÄ±n
+➡️ Tam lisans koşulları için [LICENSE](LICENSE) dosyasına bakın

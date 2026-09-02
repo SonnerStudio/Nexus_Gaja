@@ -1,8 +1,6 @@
-﻿# Nexus Gaja we de na di wɔl
+# Nexus Gaja we de na di wɔl
 <br>
 [![Nexus Gaja Demo](assets/video/Nexus_Gaja_TikTok_EN_thumb.jpg)](https://github.com/SonnerStudio/Nexus_Gaja/blob/main/assets/video/Nexus_Gaja_TikTok_EN.mp4)
-
-
 
 > *Fɔ intanashɔnal pis ɛn intanashɔnal ɔndastandin*
 

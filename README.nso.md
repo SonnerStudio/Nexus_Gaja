@@ -1,8 +1,6 @@
-﻿# Kgokagano ya Gaja
+# Kgokagano ya Gaja
 <br>
 [![Nexus Gaja Demo](assets/video/Nexus_Gaja_TikTok_EN_thumb.jpg)](https://github.com/SonnerStudio/Nexus_Gaja/blob/main/assets/video/Nexus_Gaja_TikTok_EN.mp4)
-
-
 
 > *Bakeng sa khutšo ya boditšhabatšhaba le kwešišo ya boditšhabatšhaba*
 

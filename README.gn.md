@@ -1,378 +1,379 @@
-﻿# Nexo Gaja rehegua
+# Nexo Gaja rehegua
 
-> *Py'aguapy internacional ha entendimiento internacional-pe guarÃ£*
+> *Py'aguapy internacional ha entendimiento internacional-pe guarã*
 
 
-![Nexus Gaja Logo](mba'ekuaarÃ£/logotipo.jpg)
+![Nexus Gaja Logo](mba'ekuaarã/logotipo.jpg)
 
-![Nexus Gaja HÃ©roe](mba'ekuaarÃ£/img/nexus_hÃ©roe.jpg)
+![Nexus Gaja Héroe](mba'ekuaarã/img/nexus_héroe.jpg)
+
 
 <br>
 [![Nexus Gaja Demo](assets/video/Nexus_Gaja_TikTok_EN_thumb.jpg)](https://github.com/SonnerStudio/Nexus_Gaja/blob/main/assets/video/Nexus_Gaja_TikTok_EN.mp4)
 
 <details>
-<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
 
-</details> Ã‘e'áº½ guarani.
+</details> Ñe'ẽ guarani.
 
-**Nexus Gaja** haêžŒehÃ­na peteÄ© red momarandurÃ£ iÃ±aranduva, oikuaa porÃ£va contexto, ojejapÃ³va omoambue hagÌƒua momaranduha atyguasu.
+**Nexus Gaja** haꞌehína peteĩ red momarandurã iñaranduva, oikuaa porãva contexto, ojejapóva omoambue hag̃ua momaranduha atyguasu.
 
-## HembipotÃ¡pe ha TembiecharÃ£
+## Hembipotápe ha Tembiecharã
 
-![Nexus Gaja Vision](mbaâ€™ekuaarÃ£/img/nexus_vision.jpg)
+![Nexus Gaja Vision](mba’ekuaarã/img/nexus_vision.jpg)
 
-PeteÄ© mundo globalizado-pe, Ã±eâ€™áº½ haâ€™e jepi pe barrera tuichavÃ©va. Nexus Gaja rembipota tenondegua haêžŒehÃ­na ikatu hagÌƒuÃ¡icha oÃ±eÃ±omongeta hekopete, ojeikekuaa ha oÃ±embojoaju hagÌƒua hekoitÃ©pe tapichakuÃ©ra apytÃ©pe - tahaêžŒe haêžŒeva oÃ±eêžŒe peteÄ© Ã±eêžŒe peteÄ©va tÃ©rÃ£ nahÃ¡niri. 
+Peteĩ mundo globalizado-pe, ñe’ẽ ha’e jepi pe barrera tuichavéva. Nexus Gaja rembipota tenondegua haꞌehína ikatu hag̃uáicha oñeñomongeta hekopete, ojeikekuaa ha oñembojoaju hag̃ua hekoitépe tapichakuéra apytépe - tahaꞌe haꞌeva oñeꞌe peteĩ ñeꞌe peteĩva térã nahániri. 
 
-Ndaha'Ã©i Ã±e'áº½ Ã±embohasa iÃ±akÃ£hatÃ£nte, ha katu **ombohasa haguÃ£ he'isÃ©va**. Nexus Gaja ombojoaju tapichakuÃ©rape nivel ipypukuvÃ©vape oikuaa porÃ£vo matices cultural, regional ha contextual, ombohapÃ©va Ã±omongeta aÃ±eteguÃ¡va, aÃ±eteguÃ¡va.
+Ndaha'éi ñe'ẽ ñembohasa iñakãhatãnte, ha katu **ombohasa haguã he'iséva**. Nexus Gaja ombojoaju tapichakuérape nivel ipypukuvévape oikuaa porãvo matices cultural, regional ha contextual, ombohapéva ñomongeta añeteguáva, añeteguáva.
 
-## Posibilidad ha caracterÃ­sticas
-- **Ã‘eâ€™áº½mondo multimedia**: Pe sistema ndahaâ€™Ã©i jehaipyre aÃ±Ã³nte, ha katu avei taâ€™Ã£nga, Ã±ehendu ha taâ€™Ã£ngamÃ½i. KÃ³va oheja Ã±omongeta oÃ±embohysÃ½iva (e.g. videollamada tÃ©rÃ£ marandu Ã±eâ€™áº½ rupive) tiempo real-pe Ã±eâ€™áº½ rembeâ€™y rupi.
-- **Sensibilidad contexto**: Ojehechakuaa ironÃ­a, idioma, jerga ha dialecto regional oÃ±entende vaÃ­va jepi umi traductor yma guarÃ©va.
-- **Red de plataformas cruzadas**: Oservi base ramo umi chat privado, rosca foro (postes orekÃ³va comentario) ha interacciÃ³n comunidad global-pe gÌƒuarÃ£.
+## Posibilidad ha características
+- **Ñe’ẽmondo multimedia**: Pe sistema ndaha’éi jehaipyre añónte, ha katu avei ta’ãnga, ñehendu ha ta’ãngamýi. Kóva oheja ñomongeta oñembohysýiva (e.g. videollamada térã marandu ñe’ẽ rupive) tiempo real-pe ñe’ẽ rembe’y rupi.
+- **Sensibilidad contexto**: Ojehechakuaa ironía, idioma, jerga ha dialecto regional oñentende vaíva jepi umi traductor yma guaréva.
+- **Red de plataformas cruzadas**: Oservi base ramo umi chat privado, rosca foro (postes orekóva comentario) ha interacción comunidad global-pe g̃uarã.
 
 --- .
 
-## Arquitectura tÃ©cnica (concepto nÃºcleo) rehegua .
+## Arquitectura técnica (concepto núcleo) rehegua .
 
-![Nexus Gaja Ã‘embohasaha Concepto](activos/img/nexus_traducciÃ³n.jpg)
+![Nexus Gaja Ñembohasaha Concepto](activos/img/nexus_traducción.jpg)
 
-Pe nÃºcleo tÃ©cnico Nexus Gaja rehegua haêžŒehÃ­na peteÄ© modelo comunicaciÃ³n ijeheguigua, oÃ±embojaêžŒo estrictamente mbohapy capa-pe:
+Pe núcleo técnico Nexus Gaja rehegua haꞌehína peteĩ modelo comunicación ijeheguigua, oñembojaꞌo estrictamente mbohapy capa-pe:
 
-1. **Original**: Pe mbaâ€™eâ€™oka momarandurÃ£ (marandu) omoheÃ±Ã³iva pe omondovaâ€™ekue akÃ³inte opyta iÃ±ambueâ€™á»¹re.
-2. **InterpretaciÃ³n SemÃ¡ntica**: Pe sistema ohesaâ€™á»¹ijo ndahaâ€™Ã©i umi Ã±eâ€™áº½ aÃ±Ã³nte, ha katu pe heâ€™isÃ©va aÃ±etegua.
-3. **Ã‘eâ€™áº½ ojehecharamÃ³va jehechauka**: AI omoheÃ±Ã³i peteÄ© jehechauka sapyâ€™ami tÃ©rÃ£ cachÃ©-pe aÃ±oite pe ypykue rehegua pe ohupytysÃ©vape gÌƒuarÃ£, oÃ±emopyendÃ¡va iÃ±eâ€™áº½ oiporavÃ³vare. Umi traduksiÃ³n arakaÊ¼eve ndohaÃ­ri pe mensÃ¡he ypykue.
+1. **Original**: Pe mba’e’oka momarandurã (marandu) omoheñóiva pe omondova’ekue akóinte opyta iñambue’ỹre.
+2. **Interpretación Semántica**: Pe sistema ohesa’ỹijo ndaha’éi umi ñe’ẽ añónte, ha katu pe he’iséva añetegua.
+3. **Ñe’ẽ ojehecharamóva jehechauka**: AI omoheñói peteĩ jehechauka sapy’ami térã caché-pe añoite pe ypykue rehegua pe ohupytysévape g̃uarã, oñemopyendáva iñe’ẽ oiporavóvare. Umi traduksión arakaʼeve ndohaíri pe mensáhe ypykue.
 
 ### Contexto rehegua dependencia
-Umi traducciÃ³n arakaâ€™eve nomaÃ±Ã¡i marandu Nexus Gaja-pe aislamiento-pe. Pe motor oguereko en cuenta opaite jerarquÃ­a:
-`Marandu` â†’ `Marandu mboyvegua` â†’ `Rosca Ã±emohenda` â†’ `Komunida Ã±emohenda` â†’ `Ã‘eâ€™áº½ / RegiÃ³n` â†’ `PoruhÃ¡rape oiporavÃ³va`
+Umi traducción araka’eve nomañái marandu Nexus Gaja-pe aislamiento-pe. Pe motor oguereko en cuenta opaite jerarquía:
+`Marandu` → `Marandu mboyvegua` → `Rosca ñemohenda` → `Komunida ñemohenda` → `Ñe’ẽ / Región` → `Poruhárape oiporavóva`
 
-### Eficiencia Ã±embohasa ojejerurÃ©va rupive
-Pe Ã±embohasa oiko **oÃ±ehenÃ³i jave** (ojejerurÃ©va) peteÄ© tape osalva hagÌƒua recurso-pe aÃ±oite. PeteÄ© puruhÃ¡ra ojerurÃ©ramo contenido, oÃ±embohasa iÃ±eâ€™áº½teÃ©pe. Umi Ã±eâ€™áº½asa peteÄ© Ã±eâ€™áº½me gÌƒuarÃ£ oÃ±eÃ±ongatu tapiaite gÌƒuarÃ£ (cachÃ©) tuicha ombopyaâ€™eve hagÌƒua umi porandu ojejapÃ³va upe rire.
+### Eficiencia ñembohasa ojejeruréva rupive
+Pe ñembohasa oiko **oñehenói jave** (ojejeruréva) peteĩ tape osalva hag̃ua recurso-pe añoite. Peteĩ puruhára ojeruréramo contenido, oñembohasa iñe’ẽteépe. Umi ñe’ẽasa peteĩ ñe’ẽme g̃uarã oñeñongatu tapiaite g̃uarã (caché) tuicha ombopya’eve hag̃ua umi porandu ojejapóva upe rire.
 
-## ModeraciÃ³n AI rupive (WP 1.8.4) .
+## Moderación AI rupive (WP 1.8.4) .
 
-![Nexus Gaja AI ModeraciÃ³n](mbaâ€™ekuaarÃ£/img/nexus_moderaciÃ³n.jpg)
+![Nexus Gaja AI Moderación](mba’ekuaarã/img/nexus_moderación.jpg)
 
-ModeraciÃ³n oipytyvÃµva AI, rojapo peteÃ® paso tuichÃ¡va idea producto guive arquitectura tÃ©cnica peve ha oreko en cuenta umi normativa UE ko'Ã¡gÃ£guÃ¡va (obligaciones transparencia Ley AI UE segÃºn Art. 50; Ley de Servicios Digitales orekÃ³va justificaciones comprensibles ha opciones de objeciÃ³n).
+Moderación oipytyvõva AI, rojapo peteî paso tuicháva idea producto guive arquitectura técnica peve ha oreko en cuenta umi normativa UE ko'ágãguáva (obligaciones transparencia Ley AI UE según Art. 50; Ley de Servicios Digitales orekóva justificaciones comprensibles ha opciones de objeción).
 
-### 1. Principio bÃ¡sico rehegua
-Ã‘eêžŒáº½joaju iÃ±importantevÃ©va arquitectura-pe gÌƒuarÃ£ haêžŒehÃ­na: **AI moderaciÃ³n haêžŒehÃ­na peteÄ© sistema jesarekorÃ£ ha ndahaêžŒei peteÄ© sistema gobernante autÃ³nomo.**
-OÃ±eha'Ã£ oipytyvÃµ tapichakuÃ©rape moderaciÃ³n-pe, ndaha'Ã©i ojekuaa haguÃ£ mba'e temiandu ojeheja oÃ® Nexus Gaja-pe.
-PÃ©icha jahechakuaa mbohapy mbaâ€™e:
-- **Detecta:** â€œIkatu oÃ® violaciÃ³n regla rehegua koâ€™Ã¡pe.â€
-- **Tasa:** â€œTechapyrÃ£, probabilidad ojeviola haguÃ£ regla ha'e 94%.â€
-- **Edesidi:** â€œMbaâ€™e acciÃ³n aÃ±etehÃ¡pe ojejapÃ³ta?â€
-Mbohapyha nivel ojecontrolava'erÃ£ humanamente umi kÃ¡so grave-pe.
+### 1. Principio básico rehegua
+Ñeꞌẽjoaju iñimportantevéva arquitectura-pe g̃uarã haꞌehína: **AI moderación haꞌehína peteĩ sistema jesarekorã ha ndahaꞌei peteĩ sistema gobernante autónomo.**
+Oñeha'ã oipytyvõ tapichakuérape moderación-pe, ndaha'éi ojekuaa haguã mba'e temiandu ojeheja oî Nexus Gaja-pe.
+Péicha jahechakuaa mbohapy mba’e:
+- **Detecta:** “Ikatu oî violación regla rehegua ko’ápe.”
+- **Tasa:** “Techapyrã, probabilidad ojeviola haguã regla ha'e 94%.”
+- **Edesidi:** “Mba’e acción añetehápe ojejapóta?”
+Mbohapyha nivel ojecontrolava'erã humanamente umi káso grave-pe.
 
-### 2. Pe AI moderaciÃ³n rehegua haêžŒeta subsistema imbaêžŒeteÃ©va
-PeteÄ© AI rangue, oÃ±emopyenda peteÄ© subsistema imbaretÃ©va:
+### 2. Pe AI moderación rehegua haꞌeta subsistema imbaꞌeteéva
+Peteĩ AI rangue, oñemopyenda peteĩ subsistema imbaretéva:
 ```jehaipyre
-                 NEXUS GAJA AI MODERACIÃ“N rehegua
-                          â”‚ rehegua
-       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-       â”‚ â”‚ â”‚ rehegua
-  Ã‘eâ€™áº½ AI Seguridad AI Fraude AI
-       â”‚ â”‚ â”‚ rehegua
-       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
-       â”‚ â”‚ â”‚ rehegua
- Ã‘eâ€™áº½asa Tekopy tee ojehechakuaaâ€™á»¹va
- AnÃ¡lisis AnÃ¡lisis rehegua SeÃ±ales
-       â”‚ â”‚ â”‚ rehegua
-       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
-                      â–¼ rehegua
+                 NEXUS GAJA AI MODERACIÓN rehegua
+                          │ rehegua
+       ┌─────────────────── ┼──────────────────┐
+       │ │ │ rehegua
+  Ñe’ẽ AI Seguridad AI Fraude AI
+       │ │ │ rehegua
+       ├─────────────────── ┴──────────────────┤
+       │ │ │ rehegua
+ Ñe’ẽasa Tekopy tee ojehechakuaa’ỹva
+ Análisis Análisis rehegua Señales
+       │ │ │ rehegua
+       └────────────────────────────────────┘
+                      ▼ rehegua
                Riesgo jehechakuaa rehegua
-                      â”‚ rehegua
-                      â–¼ rehegua
-               YvypÃ³ra Ã‘ehesaâ€™á»¹ijo
+                      │ rehegua
+                      ▼ rehegua
+               Yvypóra Ñehesa’ỹijo
 ```
 
-### 3. Umi mÃ³dulo AI iÃ±importantevÃ©va
-OÄ© nueve Ã¡rea de anÃ¡lisis especializado Nexus Gaja-pe gÌƒuarÃ£:
-- **M1 â€“ Ã‘eâ€™áº½kuaaty**: Ohechakuaa Ã±eâ€™áº½, Ã±eâ€™áº½â€™aty, Ã±eâ€™áº½â€™aty, ironÃ­a jehechaukaha, Ã±eâ€™áº½asa apaÃ±uÃ£i.
-- **M2 â€“ Toxicidad / Abuso DetecciÃ³n**: Ohechakuaa insulto, ataque personal, acoso.
-- **M3 â€“ Amenaza DetecciÃ³n**: Ohechakuaa umi amenaza ikatÃºva, chantaje ha amenaza violencia rehegua.
-- **M4 â€“ Odio / DeshumanizaciÃ³n DetecciÃ³n**: Ohechakuaa umi ataque ojepytasÃ³va tapichakuÃ©ra rehe oÃ±emopyendÃ¡va afiliaciÃ³n especÃ­fica rehe.
-- **M5 â€“ Spam / Manipulation Detection**: Ohechakuaa spam, bot reko, manipulaciÃ³n oÃ±embojoajÃºva.
-- **M6 â€“ Fraude DetecciÃ³n**: Ohechakuaa umi intento de fraude sospechoso, phishing, ingenierÃ­a social.
-- **M7 â€“ Identidad Integridad**: Ojesareko seÃ±ales oÃ±eâ€™áº½va cuenta jegueraha rehe, heta cuenta, bloque bypass rehegua.
-- **M8 â€“ Seguridad de medios**: Ohesaâ€™á»¹ijo taâ€™Ã£nga, audio, video, kuatia.
-- **M9 â€“ Motor de Contexto**: Pe mÃ³dulo iÃ±importantevÃ©va. Ombyaty umi mbaâ€™e ojejuhÃºva peteÄ©teÄ©va.
+### 3. Umi módulo AI iñimportantevéva
+Oĩ nueve área de análisis especializado Nexus Gaja-pe g̃uarã:
+- **M1 – Ñe’ẽkuaaty**: Ohechakuaa ñe’ẽ, ñe’ẽ’aty, ñe’ẽ’aty, ironía jehechaukaha, ñe’ẽasa apañuãi.
+- **M2 – Toxicidad / Abuso Detección**: Ohechakuaa insulto, ataque personal, acoso.
+- **M3 – Amenaza Detección**: Ohechakuaa umi amenaza ikatúva, chantaje ha amenaza violencia rehegua.
+- **M4 – Odio / Deshumanización Detección**: Ohechakuaa umi ataque ojepytasóva tapichakuéra rehe oñemopyendáva afiliación específica rehe.
+- **M5 – Spam / Manipulation Detection**: Ohechakuaa spam, bot reko, manipulación oñembojoajúva.
+- **M6 – Fraude Detección**: Ohechakuaa umi intento de fraude sospechoso, phishing, ingeniería social.
+- **M7 – Identidad Integridad**: Ojesareko señales oñe’ẽva cuenta jegueraha rehe, heta cuenta, bloque bypass rehegua.
+- **M8 – Seguridad de medios**: Ohesa’ỹijo ta’ãnga, audio, video, kuatia.
+- **M9 – Motor de Contexto**: Pe módulo iñimportantevéva. Ombyaty umi mba’e ojejuhúva peteĩteĩva.
 
-### 4. Mbaâ€™Ã©repa iÃ±importanteterei pe Motor de Contexto
-PeteÄ© Ã±eâ€™áº½ clave jeheka puro ndahaâ€™emoâ€™Ã£i suficiente. â€œIkatu ajuka chupe opukavyâ€ oguereko violencia semÃ¡ntica, ha katu haâ€™e peteÄ© figura de discurso. â€œKo'ÃªrÃµ 8 p.m. adispara ichupe hÃ³ga renondÃ©peâ€ ha'e peteÃ® situaciÃ³n completamente diferente. Pe AI oikuaavaâ€™erÃ£ mbaâ€™Ã©pa heâ€™ise pe Ã±eâ€™áº½mondo ko contexto especÃ­fico-pe.
+### 4. Mba’érepa iñimportanteterei pe Motor de Contexto
+Peteĩ ñe’ẽ clave jeheka puro ndaha’emo’ãi suficiente. “Ikatu ajuka chupe opukavy” oguereko violencia semántica, ha katu ha’e peteĩ figura de discurso. “Ko'êrõ 8 p.m. adispara ichupe hóga renondépe” ha'e peteî situación completamente diferente. Pe AI oikuaava’erã mba’épa he’ise pe ñe’ẽmondo ko contexto específico-pe.
 
-### 5. ModeraciÃ³n heta Ã±eâ€™áº½me
-Pe moderaciÃ³n ndaikatÃºi ombojoja rei umi palÃ¡vra. Ohesaâ€™á»¹ijovaâ€™erÃ£ pe nivel de significado (e.g. idioma alemÃ¡n vs. idioma japonÃ©s vs. expresiones regionales).
+### 5. Moderación heta ñe’ẽme
+Pe moderación ndaikatúi ombojoja rei umi palávra. Ohesa’ỹijova’erã pe nivel de significado (e.g. idioma alemán vs. idioma japonés vs. expresiones regionales).
 
-### 6. Ã‘eâ€™áº½ ypykue + Ã±embohasa
-Pe original ha pe traduksiÃ³n oÃ±eanalisa por separado. UpÃ©icharÃµ aÃ±oite oiko pe â€œEvaluaciÃ³n de ModeraciÃ³n Combinadaâ€. PÃ©icha Nexus Gaja ikatu ohechakuaa ikatÃºpa pe traduksiÃ³n voi ombohasy tÃ©rÃ£ omoambue pe situasiÃ³n.
+### 6. Ñe’ẽ ypykue + ñembohasa
+Pe original ha pe traduksión oñeanalisa por separado. Upéicharõ añoite oiko pe “Evaluación de Moderación Combinada”. Péicha Nexus Gaja ikatu ohechakuaa ikatúpa pe traduksión voi ombohasy térã omoambue pe situasión.
 
-### 7. PuntuaciÃ³n Jerovia rehegua
-KÃ¡da evaluaciÃ³n AI rehegua ohupyty peteÄ© valor jeroviapy rehegua (e.g. Probabilidad amenaza rehegua: 0,96). Ha katu: **PuntuaciÃ³n de Confianza â‰  AÃ±etegua.** PuntuaciÃ³n 96% he ise aÃ±oite pe modelo ojeroviaitereiha iclasificaciÃ³n rehe, ndaha Ã©i katuete pe oiporÃºva oguerekoha culpable.
+### 7. Puntuación Jerovia rehegua
+Káda evaluación AI rehegua ohupyty peteĩ valor jeroviapy rehegua (e.g. Probabilidad amenaza rehegua: 0,96). Ha katu: **Puntuación de Confianza ≠ Añetegua.** Puntuación 96% he ise añoite pe modelo ojeroviaitereiha iclasificación rehe, ndaha éi katuete pe oiporúva oguerekoha culpable.
 
-### 8. Pe incertidumbre voi oiko chugui peteÄ© seÃ±al
-Pe AI ndojekuaaporÃ£iramo (e.g. Amenaza: 0,62, SÃ¡tira: 0,54), ndaikatÃºi ojapo acciÃ³n vai rei. UpÃ©va rangue, incertidumbre oÃ±emopuêžŒa directamente arquitectura-pe: **OÃ±eikoteváº½ yvypÃ³ra jehecha jey**.
+### 8. Pe incertidumbre voi oiko chugui peteĩ señal
+Pe AI ndojekuaaporãiramo (e.g. Amenaza: 0,62, Sátira: 0,54), ndaikatúi ojapo acción vai rei. Upéva rangue, incertidumbre oñemopuꞌa directamente arquitectura-pe: **Oñeikotevẽ yvypóra jehecha jey**.
 
-### 9. Irundy Ã¡rea decisiÃ³n rehegua
-- ðŸŸ¢ **VERDE**: OimÃ©ne omoaÃ±etÃ©va. â†’ ndaipÃ³ri tembiapo.
-- ðŸŸ¡ **HORI**: Ikatu ojejapo violaciÃ³n. â†’ ojesareko / oÃ±atende tekoteváº½ramo.
-- ðŸŸ  **NARANJA**: OimÃ©ne violaciÃ³n. â†’ Ojesareko moderaciÃ³n rehe.
-- ðŸ”´ **ROJO**: Tuicha violaciÃ³n ikatÃºva ojejapo. â†’ medida de protecciÃ³n pyaâ€™e + prueba yvypÃ³ra rehegua.
+### 9. Irundy área decisión rehegua
+- 🟢 **VERDE**: Oiméne omoañetéva. → ndaipóri tembiapo.
+- 🟡 **HORI**: Ikatu ojejapo violación. → ojesareko / oñatende tekotevẽramo.
+- 🟠 **NARANJA**: Oiméne violación. → Ojesareko moderación rehe.
+- 🔴 **ROJO**: Tuicha violación ikatúva ojejapo. → medida de protección pya’e + prueba yvypóra rehegua.
 
-### 10. NdaipÃ³ri â€œpena AIâ€ rehegua .
-**AI nomoÃ®ri sanciÃ³n paha.** Ikatu ombohape medida tÃ©cnica de emergencia (e.g. retenciÃ³n mensaje) oÃ® ramo tuicha preocupaciÃ³n seguridad reheguÃ¡va, pero decisiÃ³n paha opyta verificable.
+### 10. Ndaipóri “pena AI” rehegua .
+**AI nomoîri sanción paha.** Ikatu ombohape medida técnica de emergencia (e.g. retención mensaje) oî ramo tuicha preocupación seguridad reheguáva, pero decisión paha opyta verificable.
 
-### 11. Umi medida de protecciÃ³n ikatu automÃ¡tica
-OÄ©ramo peteÄ© amenaza especÃ­fica (Amenaza ojejuhÃºva â†’ Jerovia yvate â†’ RestricciÃ³n temporal â†’ YvypÃ³ra jehesaâ€™á»¹ijo â†’ DecisiÃ³n), roÃ±angareko puruhÃ¡ra oÃ±eamenasa vaâ€™ekuÃ©re rojapoâ€™á»¹re AI-gui juez ramo.
+### 11. Umi medida de protección ikatu automática
+Oĩramo peteĩ amenaza específica (Amenaza ojejuhúva → Jerovia yvate → Restricción temporal → Yvypóra jehesa’ỹijo → Decisión), roñangareko puruhára oñeamenasa va’ekuére rojapo’ỹre AI-gui juez ramo.
 
-### 12. AI ikatuvaâ€™erÃ£ ohustifika idecisiÃ³n
-DSA ojerure razones hesakÃ£va ha especÃ­ficas. Umi AI razones de manera estructurada: Regla (NG-CONDUCT-004), OjejuhÃºva (Potencial amenaza concreta), Confianza (0,94), Contexto relevante (4 marandu mboyvegua), AcciÃ³n recomendada (YvypÃ³ra jehesaâ€™á»¹ijo).
+### 12. AI ikatuva’erã ohustifika idecisión
+DSA ojerure razones hesakãva ha específicas. Umi AI razones de manera estructurada: Regla (NG-CONDUCT-004), Ojejuhúva (Potencial amenaza concreta), Confianza (0,94), Contexto relevante (4 marandu mboyvegua), Acción recomendada (Yvypóra jehesa’ỹijo).
 
-### 13. AI ndojehejÃ¡i omoambue Ã±emihÃ¡me contenido
-**AI moderaciÃ³n rehegua arakaâ€™eve nomoambueivaâ€™erÃ£ pe contenido original ojehechakuaaâ€™á»¹re.** CorrecciÃ³n automÃ¡tica, traducciÃ³n tÃ©rÃ£ resumen oguereko contenido original.
+### 13. AI ndojehejái omoambue ñemiháme contenido
+**AI moderación rehegua araka’eve nomoambueiva’erã pe contenido original ojehechakuaa’ỹre.** Corrección automática, traducción térã resumen oguereko contenido original.
 
-### 14. AI omoheÃ±Ã³iva contenido
-Ã‘ambojoavy: yvypÃ³ra omoheÃ±Ã³iva, AI oipytyvÃµva, AI omoheÃ±Ã³iva ha AI omanipulÃ¡va. KÃ³vagui oiko metadato contenido rehegua peháº½ngue.
+### 14. AI omoheñóiva contenido
+Ñambojoavy: yvypóra omoheñóiva, AI oipytyvõva, AI omoheñóiva ha AI omanipuláva. Kóvagui oiko metadato contenido rehegua pehẽngue.
 
 ### 15. AI Contenido Etiquetado & AI Capa Proveniencia rehegua
-PÃ©icha umi norma de transparencia Ley de AI UE (agosto 2026 guive), ojehechakuaava'erÃ£ contenido omoheÃ±Ã³iva AI. Ã‘aimoâ€™Ã£ peteÄ© Capa de Proveniencia AI oÃ±ongatÃºva metadato (AI origen, modelo, tiempo sello, yvypÃ³ra jehesaâ€™á»¹ijo).
+Péicha umi norma de transparencia Ley de AI UE (agosto 2026 guive), ojehechakuaava'erã contenido omoheñóiva AI. Ñaimo’ã peteĩ Capa de Proveniencia AI oñongatúva metadato (AI origen, modelo, tiempo sello, yvypóra jehesa’ỹijo).
 
 ### 16. Deepfake jehechakuaa
-Ko arquitectura oÃ±eha'Ã£ ojehechakuaa ta'anga sintÃ©tica, voz estimulada ha deepfakes. Ha katu pe reconocimiento ndahaâ€™Ã©i automÃ¡ticamente prueba.
+Ko arquitectura oñeha'ã ojehechakuaa ta'anga sintética, voz estimulada ha deepfakes. Ha katu pe reconocimiento ndaha’éi automáticamente prueba.
 
-### 17. NdaipÃ³ri â€œmÃ¡quina aÃ±eteguaâ€ automÃ¡tica (moderaciÃ³n â‰  hecho jesareko) .
-PeteÄ© sistema ohecha: â€œÂ¿OviolÃ¡pa pe contenido oimeraáº½ regla?â€. (ModeraciÃ³n de Contenidos), ambue ome'áº½: "Mba'e marandu ha fuente-pa oÄ©?" (Asistencia Marandu rehegua). Umi dictamen ndahaâ€™Ã©i oÃ±embogue haÄuÃ¡nte â€œojavyâ€ ramo.
+### 17. Ndaipóri “máquina añetegua” automática (moderación ≠ hecho jesareko) .
+Peteĩ sistema ohecha: “¿Oviolápa pe contenido oimeraẽ regla?”. (Moderación de Contenidos), ambue ome'ẽ: "Mba'e marandu ha fuente-pa oĩ?" (Asistencia Marandu rehegua). Umi dictamen ndaha’éi oñembogue haĝuánte “ojavy” ramo.
 
-### 18. Ã‘angareko oÃ±einterpreta vai haguÃ£ cultural rehe
-AI ojerure **Modelos de Contexto Cultural** ani hagÌƒua ojeadopta peteÄ© tetÃ£ norma comunicaciÃ³n rehegua peteÄ© estÃ¡ndar mundial ramo.
+### 18. Ñangareko oñeinterpreta vai haguã cultural rehe
+AI ojerure **Modelos de Contexto Cultural** ani hag̃ua ojeadopta peteĩ tetã norma comunicación rehegua peteĩ estándar mundial ramo.
 
-### 19. IronÃ­a, sÃ¡tira ha humor
-AI oipuru contexto, emojis, Ã±emongeta Ã±emonguêžŒe ha ironÃ­a estructura ojekuaÃ¡va, ha katu ohejavaêžŒerÃ£ incertidumbre nahesakÃ£porÃ£i jave umi heêžŒisÃ©va.
+### 19. Ironía, sátira ha humor
+AI oipuru contexto, emojis, ñemongeta ñemonguꞌe ha ironía estructura ojekuaáva, ha katu ohejavaꞌerã incertidumbre nahesakãporãi jave umi heꞌiséva.
 
-### 20. NdaipÃ³ri castigo oÃ±emopyendÃ¡va peteÃ® puntuaciÃ³n AI rehe
-NdaipÃ³ri intervenciÃ³n moderaciÃ³n seria ikatÃºva oÃ±emopyenda exclusivamente peteÃ® resultado clasificaciÃ³n automatizada rehe (Texto + Contexto + Comportamiento + Lenguaje + Medios de ComunicaciÃ³n + Motor de Reglas = EvaluaciÃ³n de Riesgos).
+### 20. Ndaipóri castigo oñemopyendáva peteî puntuación AI rehe
+Ndaipóri intervención moderación seria ikatúva oñemopyenda exclusivamente peteî resultado clasificación automatizada rehe (Texto + Contexto + Comportamiento + Lenguaje + Medios de Comunicación + Motor de Reglas = Evaluación de Riesgos).
 
-### 21. SeÃ±ales de comportamiento de usuario & NdaipÃ³ri Sistema de CrÃ©dito Social
-OÃ±eâ€™áº½ umi seÃ±al abuso tÃ©cnico rehegua (e.g. spam Ã±embohasa masivo rehegua), ndahaâ€™Ã©i peteÄ© sistema general de calificaciÃ³n social rehegua. Nexus Gaja ndoikÃ³i sistema de crÃ©dito social - moderaciÃ³n ha'e seguridad rehe ha ndaha'Ã©i oevalua haguÃ£ peteÃ® tapicha valor.
+### 21. Señales de comportamiento de usuario & Ndaipóri Sistema de Crédito Social
+Oñe’ẽ umi señal abuso técnico rehegua (e.g. spam ñembohasa masivo rehegua), ndaha’éi peteĩ sistema general de calificación social rehegua. Nexus Gaja ndoikói sistema de crédito social - moderación ha'e seguridad rehe ha ndaha'éi oevalua haguã peteî tapicha valor.
 
-### 22. AI moderaciÃ³n rehegua haêžŒevaêžŒerÃ£ auditable
-Opaite decisiÃ³n automatizada relevante ojeregistra (ID evento rehegua, ID regla rehegua, jerovia, yvypÃ³ra jehesaâ€™á»¹ijo, ha mbaâ€™e) ojeasegura hagÌƒua trazabilidad.
+### 22. AI moderación rehegua haꞌevaꞌerã auditable
+Opaite decisión automatizada relevante ojeregistra (ID evento rehegua, ID regla rehegua, jerovia, yvypóra jehesa’ỹijo, ha mba’e) ojeasegura hag̃ua trazabilidad.
 
-### 23. Positivo Japu, Negativo Japu & MÃ©trica Calidad rehegua
-Ojesareko umi tipo de error rehe. PeteÄ© cuadro de mando omedi precisiÃ³n, recall ha especialmente **Tasa de ReversiÃ³n de ApelaciÃ³n** (mboy apelaciÃ³n osáº½ porÃ£). 
+### 23. Positivo Japu, Negativo Japu & Métrica Calidad rehegua
+Ojesareko umi tipo de error rehe. Peteĩ cuadro de mando omedi precisión, recall ha especialmente **Tasa de Reversión de Apelación** (mboy apelación osẽ porã). 
 
-### 24. Ã‘eâ€™áº½ tekojoja & Ã±eâ€™áº½asa jejopy
-Pe moderaciÃ³n calidad oÃ±embojojavaâ€™erÃ£ opaite Ã±eâ€™áº½ oipytyvÃµvape (Multilingual Moderation Benchmark). Umi resultado moderaciÃ³n rehegua ojoavy ramo original ha traducciÃ³n apytÃ©pe (conflicto de traducciÃ³n), kÃ³va ojehechavaâ€™erÃ£ por separado.
+### 24. Ñe’ẽ tekojoja & ñe’ẽasa jejopy
+Pe moderación calidad oñembojojava’erã opaite ñe’ẽ oipytyvõvape (Multilingual Moderation Benchmark). Umi resultado moderación rehegua ojoavy ramo original ha traducción apytépe (conflicto de traducción), kóva ojehechava’erã por separado.
 
-### 25. Motor de Propuesta & PolÃ­tica de Arquitectura rehegua
-Umi regla (motor polÃ­tica) ndahaâ€™Ã©i hard-codificaciÃ³n umi modelo AI-pe. Pe AI omeâ€™áº½ jesareko, pe motor polÃ­tica rehegua ojapo umi decisiÃ³n oÃ±emopyendÃ¡va umi norma koâ€™Ã¡ÄaguÃ¡re. KÃ³va oheja **modelo Ã±emoambue oÃ±emoambueâ€™á»¹re umi tembiapoukapy**.
+### 25. Motor de Propuesta & Política de Arquitectura rehegua
+Umi regla (motor política) ndaha’éi hard-codificación umi modelo AI-pe. Pe AI ome’ẽ jesareko, pe motor política rehegua ojapo umi decisión oñemopyendáva umi norma ko’áĝaguáre. Kóva oheja **modelo ñemoambue oñemoambue’ỹre umi tembiapoukapy**.
 
-### 26. TapichakuÃ©ra opyta mburuvicha paha ramo
-- **NG-AI-MOD-001**: AI oipytyvÃµ detecciÃ³n ha clasificaciÃ³n, ha katu nomyengoviÃ¡i yvypÃ³ra revisiÃ³n ojejapo jave decisiÃ³n grave.
-- **NG-AI-MOD-002**: Umi decisiÃ³n moderaciÃ³n automatizada rehegua ojehechavaâ€™erÃ£, ojehai ha ojehechakuaÃ¡va.
+### 26. Tapichakuéra opyta mburuvicha paha ramo
+- **NG-AI-MOD-001**: AI oipytyvõ detección ha clasificación, ha katu nomyengoviái yvypóra revisión ojejapo jave decisión grave.
+- **NG-AI-MOD-002**: Umi decisión moderación automatizada rehegua ojehechava’erã, ojehai ha ojehechakuaáva.
 
-**Resumen**: Romopuâ€™Ã£ hÃ­na peteÄ© sistema irundy nivel rehegua: AI jehechakuaa, contexto ha riesgo anÃ¡lisis, motor polÃ­tica ha yvypÃ³ra sÃ£mbyhy. KÃ³va ombokatupyry automatizaciÃ³n mbarete omoheÃ±Ã³iâ€™á»¹re peteÄ© arquitectura â€œAI juez ramoâ€ ipeligrosoitÃ©va.
+**Resumen**: Romopu’ã hína peteĩ sistema irundy nivel rehegua: AI jehechakuaa, contexto ha riesgo análisis, motor política ha yvypóra sãmbyhy. Kóva ombokatupyry automatización mbarete omoheñói’ỹre peteĩ arquitectura “AI juez ramo” ipeligrosoitéva.
 
 ## Principios financiamiento rehegua ha modelo ingreso rehegua (WP 1.10.1) .
 
 ![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
-FÃ¼r Nexus Gaja gilt ein sehr wichtiges Ã¶konomisches Grundprinzip: **Keine klassische Werbung innerhalb der Plattform.**
-Damit unterscheidet sich Nexus Gaja bereits konzeptionell von vielen heutigen sozialen Netzwerken. Das bedeutet aber nicht: Nexus Gaja darf keinen kommerziellen Charakter besitzen. Im Gegenteil: Die Plattform muss wirtschaftlich tragfÃ¤hig sein, damit ihr gesellschaftlicher Zweck dauerhaft bestehen kann. Die wirtschaftliche TÃ¤tigkeit ist also Mittel zum Zweck, nicht der eigentliche Zweck der Plattform.
+Für Nexus Gaja gilt ein sehr wichtiges ökonomisches Grundprinzip: **Keine klassische Werbung innerhalb der Plattform.**
+Damit unterscheidet sich Nexus Gaja bereits konzeptionell von vielen heutigen sozialen Netzwerken. Das bedeutet aber nicht: Nexus Gaja darf keinen kommerziellen Charakter besitzen. Im Gegenteil: Die Plattform muss wirtschaftlich tragfähig sein, damit ihr gesellschaftlicher Zweck dauerhaft bestehen kann. Die wirtschaftliche Tätigkeit ist also Mittel zum Zweck, nicht der eigentliche Zweck der Plattform.
 
 ### 1. Grundsatz NG-FIN-001
 Nexus Gaja finanziert seinen Betrieb durch transparente, vom Nutzerinteresse getrennte Einnahmequellen und nicht durch die Vermarktung der Aufmerksamkeit oder personenbezogener Daten seiner Nutzer.
 
 ### 2. Keine klassische Werbung
-Nicht erlaubt wÃ¤ren insbesondere:
+Nicht erlaubt wären insbesondere:
 - Bannerwerbung
 - Pop-up-Werbung
 - automatisch eingespielte Werbevideos
-- gesponserte BeitrÃ¤ge im normalen Feed
+- gesponserte Beiträge im normalen Feed
 - personalisierte Werbeprofile
 - Verkauf von Nutzerprofilen
 - Verkauf personenbezogener Daten
-- Werbung, die sich aus privaten GesprÃ¤chen ableitet.
+- Werbung, die sich aus privaten Gesprächen ableitet.
 
-Damit bleibt der Kommunikationsraum: **Kommunikationsraum statt WerbeflÃ¤che.**
+Damit bleibt der Kommunikationsraum: **Kommunikationsraum statt Werbefläche.**
 
 ### 3. Finanzierung ohne Werbung
-Unsere Finanzierung kann stattdessen aus mehreren SÃ¤ulen bestehen. Wir schlagen zunÃ¤chst sechs SÃ¤ulen vor:
+Unsere Finanzierung kann stattdessen aus mehreren Säulen bestehen. Wir schlagen zunächst sechs Säulen vor:
 ```text
                  NEXUS GAJA
-                     â”‚
-       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-       â–¼             â–¼             â–¼
+                     │
+       ┌─────────────┼─────────────┐
+       ▼             ▼             ▼
    PREMIUM       ORGANISATION    SPENDEN
-       â”‚             â”‚             â”‚
-       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
-       â–¼             â–¼             â–¼
-   FÃ–RDERUNG      PARTNERSCHAFT   DIENSTE
+       │             │             │
+       ├─────────────┼─────────────┤
+       ▼             ▼             ▼
+   FÖRDERUNG      PARTNERSCHAFT   DIENSTE
 ```
 
-#### SÃ¤ule 1 â€“ Freie Grundmitgliedschaft
-**Nexus Gaja Free:** Die grundlegende Teilnahme an der VÃ¶lkerverstÃ¤ndigung sollte nicht davon abhÃ¤ngen, ob jemand Geld besitzt. Kostenlos ermÃ¶glicht werden: persÃ¶nliches Profil, internationale Kommunikation, BeitrÃ¤ge, Kommentare, grundlegende Ãœbersetzung, Communities, Chats, grundlegende Medienfunktionen.
+#### Säule 1 – Freie Grundmitgliedschaft
+**Nexus Gaja Free:** Die grundlegende Teilnahme an der Völkerverständigung sollte nicht davon abhängen, ob jemand Geld besitzt. Kostenlos ermöglicht werden: persönliches Profil, internationale Kommunikation, Beiträge, Kommentare, grundlegende Übersetzung, Communities, Chats, grundlegende Medienfunktionen.
 
-#### SÃ¤ule 2 â€“ Premium-Angebote
-Freiwillige kostenpflichtige Angebote (**Nexus Gaja Plus**). Denkbare Vorteile: grÃ¶ÃŸere Speicherlimits, hÃ¶here MedienqualitÃ¤t, lÃ¤ngere VideoÃ¼bertragungen, erweiterte Ãœbersetzungsfunktionen, grÃ¶ÃŸere Communities, zusÃ¤tzliche Organisationsfunktionen, hÃ¶here KI-Kontingente.
-**Freemium â€“ aber nicht â€žDark Freemiumâ€œ:** Die kostenlose Version ist sinnvoll nutzbar; Premium erweitert sie.
+#### Säule 2 – Premium-Angebote
+Freiwillige kostenpflichtige Angebote (**Nexus Gaja Plus**). Denkbare Vorteile: größere Speicherlimits, höhere Medienqualität, längere Videoübertragungen, erweiterte Übersetzungsfunktionen, größere Communities, zusätzliche Organisationsfunktionen, höhere KI-Kontingente.
+**Freemium – aber nicht „Dark Freemium“:** Die kostenlose Version ist sinnvoll nutzbar; Premium erweitert sie.
 
-#### SÃ¤ule 3 â€“ Organisationen
-**Nexus Gaja Organization:** Spezielle Konten fÃ¼r Schulen, UniversitÃ¤ten, Vereine, NGOs, Unternehmen, Kommunen usw., mit zentralem Organisationskonto, Mitgliederverwaltung und Admin-Funktionen. (Beispiel: Eine Schule erhÃ¤lt SchÃ¼lerzugÃ¤nge kostenlos oder Ã¼ber einen institutionellen Tarif).
+#### Säule 3 – Organisationen
+**Nexus Gaja Organization:** Spezielle Konten für Schulen, Universitäten, Vereine, NGOs, Unternehmen, Kommunen usw., mit zentralem Organisationskonto, Mitgliederverwaltung und Admin-Funktionen. (Beispiel: Eine Schule erhält Schülerzugänge kostenlos oder über einen institutionellen Tarif).
 
-#### SÃ¤ule 4 â€“ Spenden
-**Nexus Gaja FÃ¶rderfonds:** Spender kÃ¶nnen freiwillig Geld zur VerfÃ¼gung stellen (allgemeine oder zweckgebundene Spenden). 
-**FÃ¶rderpool und Tombola:** Kostenlose bzw. vergÃ¼nstigte Nutzung wird aus einem Spendenpool finanziert. Ein Fund Allocation Ledger stellt die Zweckbindung sicher.
+#### Säule 4 – Spenden
+**Nexus Gaja Förderfonds:** Spender können freiwillig Geld zur Verfügung stellen (allgemeine oder zweckgebundene Spenden). 
+**Förderpool und Tombola:** Kostenlose bzw. vergünstigte Nutzung wird aus einem Spendenpool finanziert. Ein Fund Allocation Ledger stellt die Zweckbindung sicher.
 ```text
-DONATIONS â†’ PURPOSE FUND â†’ ELIGIBILITY ENGINE â†’ Free access / Discount / Quota
+DONATIONS → PURPOSE FUND → ELIGIBILITY ENGINE → Free access / Discount / Quota
 ```
 
-#### SÃ¤ule 5 â€“ Institutionelle FÃ¶rderung
-FÃ¶rderer: Stiftungen, KulturfÃ¶rderprogramme, staatliche FÃ¶rderprogramme.
-**NG-FIN-002 (UnabhÃ¤ngigkeit):** Finanzielle FÃ¶rderung darf keine redaktionelle oder technische Kontrolle Ã¼ber Nexus Gaja kaufen.
+#### Säule 5 – Institutionelle Förderung
+Förderer: Stiftungen, Kulturförderprogramme, staatliche Förderprogramme.
+**NG-FIN-002 (Unabhängigkeit):** Finanzielle Förderung darf keine redaktionelle oder technische Kontrolle über Nexus Gaja kaufen.
 
-#### SÃ¤ule 6 â€“ Kommerzielle Dienstleistungen
-Nexus Gaja kann B2B-Dienstleistungen anbieten, wie z.B. **Translation-as-a-Service (API)**, professionelle Ãœbersetzung, Organisationskommunikation oder internationale KonferenzrÃ¤ume, ohne den normalen Nutzerfeed mit Werbung zu belasten.
+#### Säule 6 – Kommerzielle Dienstleistungen
+Nexus Gaja kann B2B-Dienstleistungen anbieten, wie z.B. **Translation-as-a-Service (API)**, professionelle Übersetzung, Organisationskommunikation oder internationale Konferenzräume, ohne den normalen Nutzerfeed mit Werbung zu belasten.
 
 
 
-### 4. Keine Datenvermarktung und keine â€žSurveillance Economyâ€œ
-**NG-FIN-003:** Personenbezogene Nutzerdaten sind kein Handelsgut von Nexus Gaja. (Kein Verkauf von Profilen, Historien, IdentitÃ¤tsdaten). 
-Nexus Gaja soll nicht davon profitieren, dass seine Nutzer mÃ¶glichst viel Ã¼berwacht und psychologisch mÃ¶glichst prÃ¤zise klassifiziert werden.
+### 4. Keine Datenvermarktung und keine „Surveillance Economy“
+**NG-FIN-003:** Personenbezogene Nutzerdaten sind kein Handelsgut von Nexus Gaja. (Kein Verkauf von Profilen, Historien, Identitätsdaten). 
+Nexus Gaja soll nicht davon profitieren, dass seine Nutzer möglichst viel überwacht und psychologisch möglichst präzise klassifiziert werden.
 
 ### 5. Finanzielle Transparenz
-Nexus Gaja Financial Transparency: VerÃ¶ffentlichbar sind Einnahmen nach Kategorien, Spendenvolumen, Betriebskosten etc. 
-**FÃ¶rdermittel-Ledger:** Zweckgebundene Spenden werden buchhalterisch nachvollziehbar erfasst (Donation â†’ Fund ID â†’ Purpose â†’ Available Balance â†’ Allocation). Es gibt keine Quersubventionierung ohne Transparenz.
+Nexus Gaja Financial Transparency: Veröffentlichbar sind Einnahmen nach Kategorien, Spendenvolumen, Betriebskosten etc. 
+**Fördermittel-Ledger:** Zweckgebundene Spenden werden buchhalterisch nachvollziehbar erfasst (Donation → Fund ID → Purpose → Available Balance → Allocation). Es gibt keine Quersubventionierung ohne Transparenz.
 
 ### 6. Preisgestaltung und Solidarisches Finanzierungsmodell
-Die Preise orientieren sich an: Kostenorientierung, Fairness und SolidaritÃ¤t.
-**Solidarisches Premium:** Ein Premium-Nutzer kann freiwillig wÃ¤hlen: â€žIch finanziere einen Teil des Zugangs eines anderen Nutzers.â€œ ZwangssolidaritÃ¤t oder eine Premium-Klassengesellschaft (weniger Respekt oder schlechtere Moderation fÃ¼r Free-Nutzer) ist ausgeschlossen.
+Die Preise orientieren sich an: Kostenorientierung, Fairness und Solidarität.
+**Solidarisches Premium:** Ein Premium-Nutzer kann freiwillig wählen: „Ich finanziere einen Teil des Zugangs eines anderen Nutzers.“ Zwangssolidarität oder eine Premium-Klassengesellschaft (weniger Respekt oder schlechtere Moderation für Free-Nutzer) ist ausgeschlossen.
 
 ### 7. Wirtschaftliche KPI
-Wir sind nicht abhÃ¤ngig von endloser Online-Zeit (keine manipulative Engagement-Ã–konomie). Unsere KPIs:
+Wir sind nicht abhängig von endloser Online-Zeit (keine manipulative Engagement-Ökonomie). Unsere KPIs:
 - **Global Communication Index (GCI):** Wie viele erfolgreiche Kommunikationsbeziehungen entstehen zwischen Menschen unterschiedlicher Sprach- oder Kulturregionen?
-- **Platform Sustainability Ratio (PSR):** wiederkehrende Einnahmen / wiederkehrende Betriebskosten (Ziel: PSR â‰¥ 1).
+- **Platform Sustainability Ratio (PSR):** wiederkehrende Einnahmen / wiederkehrende Betriebskosten (Ziel: PSR ≥ 1).
 
-### 8. Was wir ausdrÃ¼cklich nicht wollen
+### 8. Was wir ausdrücklich nicht wollen
 Nexus Gaja finanziert sich nicht durch:
-âŒ Verkauf personenbezogener Daten
-âŒ personalisierte klassische Werbung
-âŒ Ãœberwachung des Nutzerverhaltens zum Werbezweck
-âŒ Verkauf privater Kommunikationsdaten
-âŒ versteckte KI-Datennutzung
-âŒ manipulative Premium-Sperren
-âŒ kÃ¼nstliche ReichweitenbeschrÃ¤nkung zur Monetarisierung
-âŒ bezahlte politische Einflussnahme
-âŒ Kauf privilegierter Moderationsentscheidungen.
+❌ Verkauf personenbezogener Daten
+❌ personalisierte klassische Werbung
+❌ Überwachung des Nutzerverhaltens zum Werbezweck
+❌ Verkauf privater Kommunikationsdaten
+❌ versteckte KI-Datennutzung
+❌ manipulative Premium-Sperren
+❌ künstliche Reichweitenbeschränkung zur Monetarisierung
+❌ bezahlte politische Einflussnahme
+❌ Kauf privilegierter Moderationsentscheidungen.
 
-### 9. VorlÃ¤ufige Architektur
+### 9. Vorläufige Architektur
 ```text
                          NEXUS GAJA
-                              â”‚
-             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-             â”‚                â”‚                â”‚
-             â–¼                â–¼                â–¼
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+             ▼                ▼                ▼
           USERS          ORGANIZATIONS      ENTERPRISE
-             â”‚                â”‚                â”‚
-             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
-                              â”‚
+             │                │                │
+             └────────────────┼────────────────┘
+                              │
                        PLATFORM SERVICES
-                              â”‚
-          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-          â–¼                   â–¼                   â–¼
+                              │
+          ┌───────────────────┼───────────────────┐
+          ▼                   ▼                   ▼
        PREMIUM             DONATIONS            API
-                              â”‚
-                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-                    â–¼                   â–¼
+                              │
+                    ┌─────────┴─────────┐
+                    ▼                   ▼
                GENERAL FUND       RESTRICTED FUNDS
-                                        â”‚
-                                        â–¼
+                                        │
+                                        ▼
                                   SOCIAL PURPOSE
 ```
 
 
 
-### Ã‘embohysÃ½i: Principios financiamiento rehegua (NG-FIN) .
-- **NG-FIN-001:** Nexus Gaja noÃ±efinancia publicidad tradicional rupive.
-- **NG-FIN-002:** Pe pytyvÃµ viru rehegua ndojapÃ³i influencia moderaciÃ³n tÃ©rÃ£ gobernabilidad rehe.
-- **NG-FIN-003:** Umi dato personal puruhÃ¡ra rehegua ndahaâ€™Ã©i peteÄ© mbaâ€™erepy.
-- **NG-FIN-004:** Pe funciÃ³n bÃ¡sica comunicaciÃ³n internacional rehegua opyta vaâ€™erÃ£ ojeikekuaa ojepagaâ€™á»¹re.
-- **NG-FIN-005:** Umi oferta premium ombotuichave serviciokuÃ©ra rembiapo, ha katu ndomboguejyivaâ€™erÃ£ dignidad ha opciÃ³n comunicaciÃ³n bÃ¡sica umi usuario isÃ£sÃ³va rehegua.
-- **NG-FIN-006:** Umi viru oÃ±edestinÃ¡va oÃ±emboguata peteÄ© propÃ³sito especÃ­fico-pe gÌƒuarÃ£.
-- **NG-FIN-007:** Umi donaciÃ³n ha financiamiento oÃ±emboguata hesakÃ£ ha oÃ±entende porÃ£va.
-- **NG-FIN-008:** Umi servicio comercial ndoikÃ³ivaâ€™erÃ£ oityvyro plataforma independencia.
-- **NG-FIN-009:** Nexus Gaja Ã±emoakÃ£rapuâ€™Ã£ econÃ³mico oÃ±embosakoâ€™ivaâ€™erÃ£ sostenibilidad ipukÃºva rehe ha ndahaâ€™Ã©i monetizaciÃ³n mÃ¡xima usuario rehegua.
-- **NG-FIN-010:** Estructura econÃ³mica ombokatupyryvaâ€™erÃ£ tapiaite pe propÃ³sito social - entendimiento internacional, comunicaciÃ³n internacional ha angirÅ© tetÃ£nguÃ©ra apytÃ©pe.
+### Ñembohysýi: Principios financiamiento rehegua (NG-FIN) .
+- **NG-FIN-001:** Nexus Gaja noñefinancia publicidad tradicional rupive.
+- **NG-FIN-002:** Pe pytyvõ viru rehegua ndojapói influencia moderación térã gobernabilidad rehe.
+- **NG-FIN-003:** Umi dato personal puruhára rehegua ndaha’éi peteĩ mba’erepy.
+- **NG-FIN-004:** Pe función básica comunicación internacional rehegua opyta va’erã ojeikekuaa ojepaga’ỹre.
+- **NG-FIN-005:** Umi oferta premium ombotuichave serviciokuéra rembiapo, ha katu ndomboguejyiva’erã dignidad ha opción comunicación básica umi usuario isãsóva rehegua.
+- **NG-FIN-006:** Umi viru oñedestináva oñemboguata peteĩ propósito específico-pe g̃uarã.
+- **NG-FIN-007:** Umi donación ha financiamiento oñemboguata hesakã ha oñentende porãva.
+- **NG-FIN-008:** Umi servicio comercial ndoikóiva’erã oityvyro plataforma independencia.
+- **NG-FIN-009:** Nexus Gaja ñemoakãrapu’ã económico oñembosako’iva’erã sostenibilidad ipukúva rehe ha ndaha’éi monetización máxima usuario rehegua.
+- **NG-FIN-010:** Estructura económica ombokatupyryva’erã tapiaite pe propósito social - entendimiento internacional, comunicación internacional ha angirũ tetãnguéra apytépe.
 
-## API, interfaz ha momarandurÃ£ arquitectura (WP 1.11.3) .
+## API, interfaz ha momarandurã arquitectura (WP 1.11.3) .
 
-Ojeasegura hagÌƒua sistema estabilidad, seguridad ha escalabilidad, Nexus Gaja osegi peteÄ© arquitectura estrictamente API-pe ha oÃ±emboguatÃ¡va evento-pe.
+Ojeasegura hag̃ua sistema estabilidad, seguridad ha escalabilidad, Nexus Gaja osegi peteĩ arquitectura estrictamente API-pe ha oñemboguatáva evento-pe.
 
-### Principios bÃ¡sicos rehegua
-- **NdaipÃ³ri jeike directo base de datos-pe:** Umi componente oÃ±emongeta interfaz ojedefinivaêžŒekue rupive aÃ±oite (API tÃ©rÃ£ evento), arakaêžŒeve umi consulta directa base de datos rupive ambue servicio-gui.
-- **API Gateway:** Opaite cliente okapegua jerure ohasa peteÄ© API Gateway rupive oÃ±angarekÃ³va jekuaauka, enrutamiento ha tasa limitaciÃ³n rehe.
-- **Proveedor abstracciÃ³n:** Umi servicio okapegua (modelo AI, proveedor de pago, motor de traducciÃ³n) oÃ±embojoaju capas de abstracciÃ³n rupive. KÃ³va ojoko umi dependencia cable duro ha oheja conmutaciÃ³n flexible proveedor rehegua.
+### Principios básicos rehegua
+- **Ndaipóri jeike directo base de datos-pe:** Umi componente oñemongeta interfaz ojedefinivaꞌekue rupive añoite (API térã evento), arakaꞌeve umi consulta directa base de datos rupive ambue servicio-gui.
+- **API Gateway:** Opaite cliente okapegua jerure ohasa peteĩ API Gateway rupive oñangarekóva jekuaauka, enrutamiento ha tasa limitación rehe.
+- **Proveedor abstracción:** Umi servicio okapegua (modelo AI, proveedor de pago, motor de traducción) oñembojoaju capas de abstracción rupive. Kóva ojoko umi dependencia cable duro ha oheja conmutación flexible proveedor rehegua.
 
-### Ã‘eâ€™áº½mondo reko
-- **API sÃ­ncrono (REST/HTTPS):** Ojepuru mbaêžŒejerure pyaêžŒete gÌƒuarÃ£ haêžŒehÃ¡icha jeike, perfil Ã±emboheko tÃ©rÃ£ Ã±embohasa directo.
-- **Eventos AsÃ­ncronos (Event Bus):** Nexus Gaja sistema nervioso central umi proceso desacoplado-pe gÌƒuarÃ£ (e.g. `Message.Created` omoÃ±epyrÅ© moderaciÃ³n, Ã±embohasa ha momarandu asÃ­ncrono).
-- **Tiempo real (WebSocket):** Canal oÃ±embohekopyrÃ©va Ã±emongeta en vivo ha jehai rekorÃ£.
+### Ñe’ẽmondo reko
+- **API síncrono (REST/HTTPS):** Ojepuru mbaꞌejerure pyaꞌete g̃uarã haꞌeháicha jeike, perfil ñemboheko térã ñembohasa directo.
+- **Eventos Asíncronos (Event Bus):** Nexus Gaja sistema nervioso central umi proceso desacoplado-pe g̃uarã (e.g. `Message.Created` omoñepyrũ moderación, ñembohasa ha momarandu asíncrono).
+- **Tiempo real (WebSocket):** Canal oñembohekopyréva ñemongeta en vivo ha jehai rekorã.
 
 ### Seguridad ha jeroviapy
-- **Modelo de Confianza Cero:** TrÃ¡fico red ryepÃ½pe ndojegueroviapÃ¡i ijehegui; momarandu sensitivo servicio-servicio rehegua oikoteváº½ jekuaauka.
-- **Idempotence & Outbox Pattern:** Umi operaciÃ³n crÃ­tica (haêžŒehÃ¡icha donaciÃ³n tÃ©rÃ£ marandu) ojejapo idempotent- hagÌƒua ojejoko hagÌƒua heta procesamiento ha ojepuru hagÌƒua patrÃ³n outbox rehegua ani hagÌƒua okaÃ±y umi mbaêžŒe ojehÃºva jepe umi transacciÃ³n base de datos-pe.
+- **Modelo de Confianza Cero:** Tráfico red ryepýpe ndojegueroviapái ijehegui; momarandu sensitivo servicio-servicio rehegua oikotevẽ jekuaauka.
+- **Idempotence & Outbox Pattern:** Umi operación crítica (haꞌeháicha donación térã marandu) ojejapo idempotent- hag̃ua ojejoko hag̃ua heta procesamiento ha ojepuru hag̃ua patrón outbox rehegua ani hag̃ua okañy umi mbaꞌe ojehúva jepe umi transacción base de datos-pe.
 
-## Modelo de Dominio MVP (WP 1.12) Ã‘eâ€™áº½poty ha Ã±eâ€™áº½poty Ã±emohenda.
+## Modelo de Dominio MVP (WP 1.12) Ñe’ẽpoty ha ñe’ẽpoty ñemohenda.
 
-![Nexus Gaja Monolito Modular](mbaâ€™ekuaarÃ£/img/nexus_arquitectura.jpg)
+![Nexus Gaja Monolito Modular](mba’ekuaarã/img/nexus_arquitectura.jpg)
 
-Nexus Gaja oipuru peteÄ© arquitectura MVP impulsada estrictamente dominio rupive (ADR-025), ojejapÃ³va peteÄ© monolito modular ramo orekÃ³va lÃ­mite dominio hesakÃ£va. Ko estructura ojoko complejidad microservicio Ã±epyrÅ©rÃ£ omantene aja flexibilidad ojeexternalisa hagÌƒua dominio especÃ­fico upe rire.
+Nexus Gaja oipuru peteĩ arquitectura MVP impulsada estrictamente dominio rupive (ADR-025), ojejapóva peteĩ monolito modular ramo orekóva límite dominio hesakãva. Ko estructura ojoko complejidad microservicio ñepyrũrã omantene aja flexibilidad ojeexternalisa hag̃ua dominio específico upe rire.
 
-### Entidades tÃ©cnicas nÃºcleo rehegua
-Pe arquitectura ombojaêžŒo estrictamente umi concepto oasegura hagÌƒua datokuÃ©ra integridad ha ani hagÌƒua ojejavy haêžŒehÃ¡icha â€œusername = humanâ€:
-- **Identidad & Cuentas:** `Tapicha` â‰  `PoruhÃ¡rape Kuatia` â‰  `Identidad jekuaauka`. PeteÃ® tapicha verificado oparticipa peteÃ® cuenta rupive, pero umi entidad opyta separada.
-- **Ã‘eâ€™áº½mondo:** `Marandu` â‰  `Ã‘eâ€™áº½asa`. Pe marandu ypykue haâ€™e peteÄ© mbaâ€™e iÃ±ambueâ€™á»¹va; Umi Ã±eâ€™áº½asa haâ€™e entidad ojoajÃºva.
-- **ModeraciÃ³n:** `Marandu` â‰  `ModeraciÃ³n DecisiÃ³n`. PeteÄ© marandu haâ€™e peteÄ© indicaciÃ³n aÃ±Ã³nte; peteÃ® moderador omotenonde investigaciÃ³n.
-- **Finanzas:** `DonaciÃ³n` â‰  `Saldo de fondos`. Umi pago oÃ±emondo incambiablemente peteÃ® fondo-pe peteÃ® libro mayor (libro de caja) rupive.
+### Entidades técnicas núcleo rehegua
+Pe arquitectura ombojaꞌo estrictamente umi concepto oasegura hag̃ua datokuéra integridad ha ani hag̃ua ojejavy haꞌeháicha “username = human”:
+- **Identidad & Cuentas:** `Tapicha` ≠ `Poruhárape Kuatia` ≠ `Identidad jekuaauka`. Peteî tapicha verificado oparticipa peteî cuenta rupive, pero umi entidad opyta separada.
+- **Ñe’ẽmondo:** `Marandu` ≠ `Ñe’ẽasa`. Pe marandu ypykue ha’e peteĩ mba’e iñambue’ỹva; Umi ñe’ẽasa ha’e entidad ojoajúva.
+- **Moderación:** `Marandu` ≠ `Moderación Decisión`. Peteĩ marandu ha’e peteĩ indicación añónte; peteî moderador omotenonde investigación.
+- **Finanzas:** `Donación` ≠ `Saldo de fondos`. Umi pago oñemondo incambiablemente peteî fondo-pe peteî libro mayor (libro de caja) rupive.
 
-### Umi dominio sujeto rehegua oÃ±embojoajÃºva
-Ko sistema oÃ±embojaêžŒo dominio lÃ³gico-pe (contexto limitado): Identidad, Cuenta, OrganizaciÃ³n, ComunicaciÃ³n, Comunidad, Lenguaje, ModeraciÃ³n, NotificaciÃ³n, Finanzas ha Gobernabilidad. Orrepresenta hikuÃ¡i cadena pukukue umi actor aÃ±eteguÃ¡va guive (usuario, mbo'ehao, ONG) umi interacciÃ³n digital orekÃ³va peve.
+### Umi dominio sujeto rehegua oñembojoajúva
+Ko sistema oñembojaꞌo dominio lógico-pe (contexto limitado): Identidad, Cuenta, Organización, Comunicación, Comunidad, Lenguaje, Moderación, Notificación, Finanzas ha Gobernabilidad. Orrepresenta hikuái cadena pukukue umi actor añeteguáva guive (usuario, mbo'ehao, ONG) umi interacción digital orekóva peve.
 
 ## Proyecto reko
-Ko proyecto oime fase arquitectura ha planificaciÃ³n activa-pe.
-Umi decisiÃ³n arquitectÃ³nica oÃ±emotenondÃ©va ojehai kuatiÃ¡re `/docs` ryrÃºpe.
+Ko proyecto oime fase arquitectura ha planificación activa-pe.
+Umi decisión arquitectónica oñemotenondéva ojehai kuatiáre `/docs` ryrúpe.
 
 --- .
 
 ## Licencia & Propiedad Intelectual rehegua
 
-> **Â© 2024-2026 SonnerStudio - Jan Friske SonnerStudio MoÃ±epyrÅ©hÃ¡ra, IjÃ¡ra, MotenondehÃ¡ra ha DiseÃ±ador Jefe â€” Opaite derecho ojeguerekÃ³va.**
+> **© 2024-2026 SonnerStudio - Jan Friske SonnerStudio Moñepyrũhára, Ijára, Motenondehára ha Diseñador Jefe — Opaite derecho ojeguerekóva.**
 
-**Nexus Gaja** ha'e **Jan Friske** mba'e arandupy teete, omba'apÃ³va **SonnerStudio** poguÃ½pe.
+**Nexus Gaja** ha'e **Jan Friske** mba'e arandupy teete, omba'apóva **SonnerStudio** poguýpe.
 
-Jan Friske haêžŒehÃ­na Nexus Gaja apohare, arquitecto ha jÃ¡ra aÃ±oite â€” oikehÃ¡pe opaite concepto, arquitectura, modelo dominio rehegua, identidad de marca ha documentaciÃ³n ojoajÃºva hese.
+Jan Friske haꞌehína Nexus Gaja apohare, arquitecto ha jára añoite — oikehápe opaite concepto, arquitectura, modelo dominio rehegua, identidad de marca ha documentación ojoajúva hese.
 
-**NoÃ±emeâ€™áº½i derecho, licencia tÃ©rÃ£ interes propietario mbaâ€™eveichagua mbohapÃ½ha tapichÃ¡pe** tahaâ€™e haâ€™Ã©va tuichaha, posiciÃ³n mercado-pe tÃ©rÃ£ influencia industria tecnolÃ³gica-pe.
+**Noñeme’ẽi derecho, licencia térã interes propietario mba’eveichagua mbohapýha tapichápe** taha’e ha’éva tuichaha, posición mercado-pe térã influencia industria tecnológica-pe.
 
-### Mbaâ€™Ã©pa NDOJEHEJÃIVAâ€™EKUE consentimiento expreso escritoâ€™á»¹re:
-- âŒ Jakopia, jajapo jey tÃ©rÃ£ Ã±amyasÃ£i ko software tÃ©rÃ£ ikuatiakuÃ©ra
-- âŒ Omoambue, omohenda tÃ©rÃ£ omoheÃ±Ã³i tembiapo derivado
-- âŒ Jeporu Ã±emurÃ£me oimeraáº½va Nexus Gaja peháº½ngue rehegua
-- âŒ Ojeporu contenido repositorio rehegua **datos de capacitaciÃ³n ramo sistema AI/LLM-pe gÌƒuarÃ£** .
-- âŒ Sublicencia tÃ©rÃ£ derecho Ã±embohasa mbohapÃ½ha tapichÃ¡pe
+### Mba’épa NDOJEHEJÁIVA’EKUE consentimiento expreso escrito’ỹre:
+- ❌ Jakopia, jajapo jey térã ñamyasãi ko software térã ikuatiakuéra
+- ❌ Omoambue, omohenda térã omoheñói tembiapo derivado
+- ❌ Jeporu ñemurãme oimeraẽva Nexus Gaja pehẽngue rehegua
+- ❌ Ojeporu contenido repositorio rehegua **datos de capacitación ramo sistema AI/LLM-pe g̃uarã** .
+- ❌ Sublicencia térã derecho ñembohasa mbohapýha tapichápe
 
-### Propiedad intelectual oÃ±eÃ±angarekÃ³va
-Ko'Ã£ concepto original oÃ±eÃ±angareko secreto comercial ha creaciÃ³n propiedad ramo Jan Friske:
-- Pe modelo comunicaciÃ³n multicapa rehegua *(InterpretaciÃ³n Original / SemÃ¡ntica / EdiciÃ³n Traducida)*
-- Pe principio separaciÃ³n identidad rehegua *(persona â‰  cuenta usuario â‰  verificaciÃ³n identidad rehegua)*
-- Pe modelo de acoplamiento marandu-traducciÃ³n *(marandu â‰  Ã±embohasa)*
-- Pe AI sÃ£mbyhy moderaciÃ³n rehegua
+### Propiedad intelectual oñeñangarekóva
+Ko'ã concepto original oñeñangareko secreto comercial ha creación propiedad ramo Jan Friske:
+- Pe modelo comunicación multicapa rehegua *(Interpretación Original / Semántica / Edición Traducida)*
+- Pe principio separación identidad rehegua *(persona ≠ cuenta usuario ≠ verificación identidad rehegua)*
+- Pe modelo de acoplamiento marandu-traducción *(marandu ≠ ñembohasa)*
+- Pe AI sãmbyhy moderación rehegua
 
-### Ã‘eâ€™áº½mondo
-Ojeporavo hagÌƒua licencia rehegua: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+### Ñe’ẽmondo
+Ojeporavo hag̃ua licencia rehegua: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-*â€œNexus Gajaâ€ ha Nexus Gaja logotipo ha'e marca comercial Jan Friske mba'Ã©va. Ojeproivi ojeporu noÃ±eautorisÃ¡iramo pe tÃ©ra tÃ©rÃ£ pe mÃ¡rka.*
+*“Nexus Gaja” ha Nexus Gaja logotipo ha'e marca comercial Jan Friske mba'éva. Ojeproivi ojeporu noñeautorisáiramo pe téra térã pe márka.*
 
-âž¡ï¸ Licencia rehegua tÃ©rmino henyháº½va [LICENSE](LICENSE)-pe.
+➡️ Licencia rehegua término henyhẽva [LICENSE](LICENSE)-pe.

@@ -1,51 +1,53 @@
-﻿# Nexus Gaja
+# Nexus Gaja
 
-> *UÅ¾ pasaulinÄ™ taikÄ… ir tarpusavio supratimÄ…*
+> *Už pasaulinę taiką ir tarpusavio supratimą*
 
 
 ![Nexus Gaja logotipas](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+
+
 <br>
 [![Nexus Gaja Demo](assets/video/Nexus_Gaja_TikTok_EN_thumb.jpg)](https://github.com/SonnerStudio/Nexus_Gaja/blob/main/assets/video/Nexus_Gaja_TikTok_EN.mp4)
 
 <details>
-<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
 
 </details>
 
-**Nexus Gaja** yra iÅ¡manus, kontekstui jautrus komunikacijos tinklas, sukurtas pakeisti pasaulinÄ¯ bendravimÄ….
+**Nexus Gaja** yra išmanus, kontekstui jautrus komunikacijos tinklas, sukurtas pakeisti pasaulinį bendravimą.
 
 ## Tikslas ir vizija
 
 ![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
 
-Globalizuotame pasaulyje kalba daÅ¾nai yra didÅ¾iausia kliÅ«tis. Pagrindinis â€žNexus Gajaâ€œ tikslas â€“ uÅ¾tikrinti sklandÅ³, be kliÅ«ÄiÅ³ ir tikslÅ³ kontekstinÄ¯ Å¾moniÅ³ bendravimÄ…, nepaisant to, ar jie kalba bendra kalba.
+Globalizuotame pasaulyje kalba dažnai yra didžiausia kliūtis. Pagrindinis „Nexus Gaja“ tikslas – užtikrinti sklandų, be kliūčių ir tikslų kontekstinį žmonių bendravimą, nepaisant to, ar jie kalba bendra kalba.
 
-Tai ne tik grieÅ¾tas Å¾odÅ¾iÅ³ vertimas, bet ir **prasmÄ—s perkÄ—limas**. â€žNexus Gajaâ€œ sujungia Å¾mones gilesniu lygmeniu, suprasdama kultÅ«rinius, regioninius ir kontekstinius niuansus, taip Ä¯galindama tikrus, autentiÅ¡kus pokalbius.
+Tai ne tik griežtas žodžių vertimas, bet ir **prasmės perkėlimas**. „Nexus Gaja“ sujungia žmones gilesniu lygmeniu, suprasdama kultūrinius, regioninius ir kontekstinius niuansus, taip įgalindama tikrus, autentiškus pokalbius.
 
-## GalimybÄ—s ir funkcijos
-- **Multimedijos ryÅ¡ys**: sistema apdoroja ne tik tekstÄ…, bet ir vaizdÄ…, garsÄ… ir vaizdo Ä¯raÅ¡Ä…. Tai leidÅ¾ia uÅ¾megzti visapusiÅ¡kai Ä¯traukianÄius pokalbius (pvz., vaizdo skambuÄius ar balso praneÅ¡imus) realiuoju laiku perÅ¾engiant kalbos barjerus.
-- **Konteksto jautrumas**: ironijos, idiomÅ³, Å¾argono ir regioniniÅ³ dialektÅ³, kuriuos Ä¯prasti vertÄ—jai daÅ¾nai nesupranta, atpaÅ¾inimas.
-â€“ **KeliÅ³ platformÅ³ tinklas**: naudojamas kaip privaÄiÅ³ pokalbiÅ³, forumo gijÅ³ (Ä¯raÅ¡Å³ su komentarais) ir pasaulinÄ—s bendruomenÄ—s sÄ…veikos pagrindas.
+## Galimybės ir funkcijos
+- **Multimedijos ryšys**: sistema apdoroja ne tik tekstą, bet ir vaizdą, garsą ir vaizdo įrašą. Tai leidžia užmegzti visapusiškai įtraukiančius pokalbius (pvz., vaizdo skambučius ar balso pranešimus) realiuoju laiku peržengiant kalbos barjerus.
+- **Konteksto jautrumas**: ironijos, idiomų, žargono ir regioninių dialektų, kuriuos įprasti vertėjai dažnai nesupranta, atpažinimas.
+– **Kelių platformų tinklas**: naudojamas kaip privačių pokalbių, forumo gijų (įrašų su komentarais) ir pasaulinės bendruomenės sąveikos pagrindas.
 
 ---
 
-## TechninÄ— architektÅ«ra (pagrindinÄ— koncepcija)
+## Techninė architektūra (pagrindinė koncepcija)
 
 ![Nexus Gaja vertimo koncepcija](assets/img/nexus_translation.jpg)
 
-TechninÄ— â€žNexus Gajaâ€œ Å¡erdis yra pagal uÅ¾sakymÄ… sukurtas ryÅ¡io modelis, grieÅ¾tai suskirstytas Ä¯ tris sluoksnius:
+Techninė „Nexus Gaja“ šerdis yra pagal užsakymą sukurtas ryšio modelis, griežtai suskirstytas į tris sluoksnius:
 
-1. **Original**: siuntÄ—jo sukurtas komunikacijos objektas (praneÅ¡imas) visada iÅ¡lieka nepakitÄ™s.
-2. **Semantinis aiÅ¡kinimas**: sistema analizuoja ne tik Å¾odÅ¾ius, bet ir tikrÄ…jÄ… reikÅ¡mÄ™.
-3. **Target Language Representation**: AI tik sukuria laikinÄ… arba talpykloje saugomÄ… originalo atvaizdÄ… atitinkamam gavÄ—jui pagal pageidaujamÄ… kalbÄ…. Vertimai niekada neperraÅ¡o pradinio praneÅ¡imo.
+1. **Original**: siuntėjo sukurtas komunikacijos objektas (pranešimas) visada išlieka nepakitęs.
+2. **Semantinis aiškinimas**: sistema analizuoja ne tik žodžius, bet ir tikrąją reikšmę.
+3. **Target Language Representation**: AI tik sukuria laikiną arba talpykloje saugomą originalo atvaizdą atitinkamam gavėjui pagal pageidaujamą kalbą. Vertimai niekada neperrašo pradinio pranešimo.
 
-### Konteksto priklausomybÄ—
-â€žNexus Gajaâ€œ vertimai niekada neÅ¾iÅ«ri praneÅ¡imÅ³ atskirai. Variklis atsiÅ¾velgia Ä¯ visÄ… hierarchijÄ…:
-"PraneÅ¡imas" â†’ "Ankstesni praneÅ¡imai" â†’ "Gijos kontekstas" â†’ "BendruomenÄ—s kontekstas" â†’ "Kalba / regionas" â†’ "Naudotojo nuostatos"
+### Konteksto priklausomybė
+„Nexus Gaja“ vertimai niekada nežiūri pranešimų atskirai. Variklis atsižvelgia į visą hierarchiją:
+"Pranešimas" → "Ankstesni pranešimai" → "Gijos kontekstas" → "Bendruomenės kontekstas" → "Kalba / regionas" → "Naudotojo nuostatos"
 
 ### Efficiency through On-Demand Translation
 Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.
@@ -57,124 +59,124 @@ Translation occurs resource-efficiently only **upon request** (On-Demand). When 
 With AI-Assisted Moderation, we are taking a significant step from product idea to technical architecture, taking into account current EU regulations (transparency requirements of the EU AI Act under Art. 50; Digital Services Act with comprehensible justifications and appeal options).
 
 ### 1. Pagrindinis principas
-Svarbiausias sakinys architektÅ«rai yra toks: **Moderavimo AI yra perÅ¾iÅ«ros sistema, o ne autonominÄ— valdymo sistema.**
-Jis skirtas padÄ—ti Å¾monÄ—ms saikingai, o ne paÄiam nustatyti, kurioms nuomonÄ—ms leidÅ¾iama egzistuoti â€žNexus Gajaâ€œ.
+Svarbiausias sakinys architektūrai yra toks: **Moderavimo AI yra peržiūros sistema, o ne autonominė valdymo sistema.**
+Jis skirtas padėti žmonėms saikingai, o ne pačiam nustatyti, kurioms nuomonėms leidžiama egzistuoti „Nexus Gaja“.
 Mes skiriame tris lygius:
-â€“ **Aptikimas:** â€žÄŒia gali bÅ«ti taisykliÅ³ paÅ¾eidimasâ€œ.
-- **Ä®vertinimas:** "TaisyklÄ—s paÅ¾eidimo tikimybÄ— yra, pavyzdÅ¾iui, 94 %."
-â€“ **Sprendimas:** â€žKokiÅ³ veiksmÅ³ iÅ¡ tikrÅ³jÅ³ imamasi?
-TreÄiÄ…jÄ¯ lygÄ¯ sunkiais atvejais turi valdyti Å¾mogus.
+– **Aptikimas:** „Čia gali būti taisyklių pažeidimas“.
+- **Įvertinimas:** "Taisyklės pažeidimo tikimybė yra, pavyzdžiui, 94 %."
+– **Sprendimas:** „Kokių veiksmų iš tikrųjų imamasi?
+Trečiąjį lygį sunkiais atvejais turi valdyti žmogus.
 
 ### 2. The Moderation AI as a Subsystem
 Instead of a single AI, a robust subsystem is established:
 ```text
                  NEXUS GAJA AI MODERATION
-                          â”‚
-       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-       â”‚                  â”‚                  â”‚
+                          │
+       ┌──────────────────┼──────────────────┐
+       │                  │                  │
   Language AI        Safety AI          Fraud AI
-       â”‚                  â”‚                  â”‚
-       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”¤
-       â”‚              â”‚                  â”‚
+       │                  │                  │
+       ├──────────────┬───┴──────────────┬───┤
+       │              │                  │
  Translation      Behaviour          Identity
  Analysis         Analysis            Signals
-       â”‚              â”‚                  â”‚
-       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
-                      â–¼
+       │              │                  │
+       └──────────────┼──────────────────┘
+                      ▼
                Risk Assessment
-                      â”‚
-                      â–¼
+                      │
+                      ▼
                Human Review
 ```
 
 ### 3. Svarbiausi AI moduliai
-â€žNexus Gajaâ€œ naudoja devynias specializuotas analizÄ—s sritis:
-- **M1 â€“ kalbos supratimas**: aptinka kalbos, dialekto, slengo, ironijos rodiklius, vertimo problemas.
-- **M2 â€“ toksiÅ¡kumo / piktnaudÅ¾iavimo aptikimas**: aptinka Ä¯Å¾eidimus, asmeninius iÅ¡puolius, priekabiavimÄ….
-- **M3 â€“ grÄ—smiÅ³ aptikimas**: aptinka galimus grasinimus, Å¡antaÅ¾Ä…, praneÅ¡imus apie smurtÄ….
-- **M4 â€“ neapykantos / nuÅ¾moginimo aptikimas**: aptinka tikslinius iÅ¡puolius prieÅ¡ Å¾mones pagal konkreÄiÄ… priklausomybÄ™.
-- **M5 â€“ Å lamÅ¡to / manipuliavimo aptikimas**: aptinka Å¡lamÅ¡tÄ…, robotÅ³ elgesÄ¯, suderintÄ… manipuliavimÄ….
-- **M6 â€“ sukÄiavimo aptikimas**: aptinka Ä¯tartinus bandymus sukÄiauti, sukÄiavimÄ…, socialinÄ™ inÅ¾inerijÄ….
-- **M7 â€“ tapatybÄ—s vientisumas**: tikrina signalus dÄ—l paskyros perÄ—mimo, keliÅ³ paskyrÅ³, draudimo vengimo.
-- **M8 â€“ medijos sauga**: analizuoja vaizdus, â€‹â€‹garsÄ…, vaizdo Ä¯raÅ¡us, dokumentus.
-- **M9 â€“ kontekstinis variklis**: svarbiausias modulis. Jis sujungia atskiras iÅ¡vadas.
+„Nexus Gaja“ naudoja devynias specializuotas analizės sritis:
+- **M1 – kalbos supratimas**: aptinka kalbos, dialekto, slengo, ironijos rodiklius, vertimo problemas.
+- **M2 – toksiškumo / piktnaudžiavimo aptikimas**: aptinka įžeidimus, asmeninius išpuolius, priekabiavimą.
+- **M3 – grėsmių aptikimas**: aptinka galimus grasinimus, šantažą, pranešimus apie smurtą.
+- **M4 – neapykantos / nužmoginimo aptikimas**: aptinka tikslinius išpuolius prieš žmones pagal konkrečią priklausomybę.
+- **M5 – Šlamšto / manipuliavimo aptikimas**: aptinka šlamštą, robotų elgesį, suderintą manipuliavimą.
+- **M6 – sukčiavimo aptikimas**: aptinka įtartinus bandymus sukčiauti, sukčiavimą, socialinę inžineriją.
+- **M7 – tapatybės vientisumas**: tikrina signalus dėl paskyros perėmimo, kelių paskyrų, draudimo vengimo.
+- **M8 – medijos sauga**: analizuoja vaizdus, ​​garsą, vaizdo įrašus, dokumentus.
+- **M9 – kontekstinis variklis**: svarbiausias modulis. Jis sujungia atskiras išvadas.
 
-### 4. KodÄ—l konteksto variklis yra labai svarbus
-Vienos raktiniÅ³ Å¾odÅ¾iÅ³ paieÅ¡kos neuÅ¾tektÅ³. â€žGalÄ—Äiau jÄ¯ nuÅ¾udyti iÅ¡ juokoâ€œ semantiÅ¡kai apima smurtÄ…, bet yra kalbos figÅ«ra. â€žRytoj 20 val. aÅ¡ jÄ¯ nuÅ¡ausiu prieÅ¡ais jo namusâ€œ â€“ visai kita situacija. AI turi suprasti, kÄ… Å¡is teiginys reiÅ¡kia konkreÄiame kontekste.
+### 4. Kodėl konteksto variklis yra labai svarbus
+Vienos raktinių žodžių paieškos neužtektų. „Galėčiau jį nužudyti iš juoko“ semantiškai apima smurtą, bet yra kalbos figūra. „Rytoj 20 val. aš jį nušausiu priešais jo namus“ – visai kita situacija. AI turi suprasti, ką šis teiginys reiškia konkrečiame kontekste.
 
 ### 5. Daugiakalbis moderavimas
-Saikingumas negali tiesiog lyginti Å¾odÅ¾iÅ³. Ji turi iÅ¡analizuoti semantinÄ¯ lygmenÄ¯ (pvz., vokieÄiÅ³ kalbos ir japonÅ³ idiomos, palyginti su regioninÄ—mis iÅ¡raiÅ¡komis).
+Saikingumas negali tiesiog lyginti žodžių. Ji turi išanalizuoti semantinį lygmenį (pvz., vokiečių kalbos ir japonų idiomos, palyginti su regioninėmis išraiškomis).
 
 ### 6. Originalo kalba + vertimas
-Originalas ir vertimas analizuojami atskirai. Tik tada vyksta â€žKombinuotas moderacijos vertinimasâ€œ. Tai leidÅ¾ia â€žNexus Gajaâ€œ nustatyti, ar pats vertimas galÄ—jo eskaluoti ar pakeisti faktus.
+Originalas ir vertimas analizuojami atskirai. Tik tada vyksta „Kombinuotas moderacijos vertinimas“. Tai leidžia „Nexus Gaja“ nustatyti, ar pats vertimas galėjo eskaluoti ar pakeisti faktus.
 
-### 7. PasitikÄ—jimo balas
-Kiekvienas AI Ä¯vertinimas gauna pasitikÄ—jimo balÄ… (pvz., grÄ—smÄ—s tikimybÄ—: 0,96). TaÄiau: **PasitikÄ—jimo balas â‰  Tiesa.** 96 % balas reiÅ¡kia tik tai, kad modelis yra visiÅ¡kai tikras dÄ—l savo klasifikacijos, o nebÅ«tinai kaltas vartotojas.
+### 7. Pasitikėjimo balas
+Kiekvienas AI įvertinimas gauna pasitikėjimo balą (pvz., grėsmės tikimybė: 0,96). Tačiau: **Pasitikėjimo balas ≠ Tiesa.** 96 % balas reiškia tik tai, kad modelis yra visiškai tikras dėl savo klasifikacijos, o nebūtinai kaltas vartotojas.
 
-### 8. NeapibrÄ—Å¾tumas pats tampa signalu
-Jei dirbtinis intelektas yra neaiÅ¡kus (pvz., grÄ—smÄ—: 0,62, satyra: 0,54), ji neturi tiesiog priversti laikytis grieÅ¾tÅ³ taisykliÅ³. Vietoj to, neapibrÄ—Å¾tumas yra tiesiogiai Ä¯terptas Ä¯ architektÅ«rÄ…: **Reikalingas Å¾mogaus patikrinimas**.
+### 8. Neapibrėžtumas pats tampa signalu
+Jei dirbtinis intelektas yra neaiškus (pvz., grėsmė: 0,62, satyra: 0,54), ji neturi tiesiog priversti laikytis griežtų taisyklių. Vietoj to, neapibrėžtumas yra tiesiogiai įterptas į architektūrą: **Reikalingas žmogaus patikrinimas**.
 
-### 9. Keturios sprendimÅ³ zonos
-- ðŸŸ¢ **Å½ALIA**: labai tikÄ—tina, kad atitinka reikalavimus. â†’ jokiÅ³ veiksmÅ³.
-- ðŸŸ¡ **GELTONA**: galimas paÅ¾eidimas. â†’ stebÄ—ti / prireikus Ä¯spÄ—ti.
-- ðŸŸ  **ORANÅ½INÄ–**: galimas paÅ¾eidimas. â†’ moderavimo apÅ¾valga.
-- ðŸ”´ **RAAUDONA**: galimas rimtas paÅ¾eidimas. â†’ neatidÄ—liotina apsaugos priemonÄ— + Å¾mogaus perÅ¾iÅ«ra.
+### 9. Keturios sprendimų zonos
+- 🟢 **ŽALIA**: labai tikėtina, kad atitinka reikalavimus. → jokių veiksmų.
+- 🟡 **GELTONA**: galimas pažeidimas. → stebėti / prireikus įspėti.
+- 🟠 **ORANŽINĖ**: galimas pažeidimas. → moderavimo apžvalga.
+- 🔴 **RAAUDONA**: galimas rimtas pažeidimas. → neatidėliotina apsaugos priemonė + žmogaus peržiūra.
 
-### 10. NÄ—ra â€žAI bausmÄ—sâ€œ
-** Dirbtinis intelektas netaiko jokiÅ³ galutiniÅ³ sankcijÅ³.** DÄ—l rimtÅ³ saugumo problemÅ³ jis gali imtis techniniÅ³ neatidÄ—liotinÅ³ priemoniÅ³ (pvz., laikinai sulaikyti praneÅ¡imÄ…), taÄiau galutinÄ¯ sprendimÄ… galima patikrinti.
+### 10. Nėra „AI bausmės“
+** Dirbtinis intelektas netaiko jokių galutinių sankcijų.** Dėl rimtų saugumo problemų jis gali imtis techninių neatidėliotinų priemonių (pvz., laikinai sulaikyti pranešimą), tačiau galutinį sprendimą galima patikrinti.
 
-### 11. Apsaugos priemonÄ—s gali atsirasti automatiÅ¡kai
-KonkreÄios grÄ—smÄ—s atveju (Aptikta grÄ—smÄ— â†’ Didelis pasitikÄ—jimas â†’ Laikinas apribojimas â†’ Å½mogaus perÅ¾iÅ«ra â†’ Sprendimas), apsaugome vartotojÄ…, kuriam gresia pavojus, nepaversdami AI teisÄ—ju.
+### 11. Apsaugos priemonės gali atsirasti automatiškai
+Konkrečios grėsmės atveju (Aptikta grėsmė → Didelis pasitikėjimas → Laikinas apribojimas → Žmogaus peržiūra → Sprendimas), apsaugome vartotoją, kuriam gresia pavojus, nepaversdami AI teisėju.
 
-### 12. AI turi sugebÄ—ti pagrÄ¯sti savo sprendimus
-DSA reikalauja aiÅ¡kiÅ³ ir konkreÄiÅ³ prieÅ¾asÄiÅ³. AI pateikia struktÅ«rizuotus argumentus: taisyklÄ— (NG-CONDUCT-004), aptikta (galima konkreti grÄ—smÄ—), pasitikÄ—jimas (0,94), atitinkamas kontekstas (ankstesni 4 praneÅ¡imai), rekomenduojamas veiksmas (Å¾mogaus apÅ¾valga).
+### 12. AI turi sugebėti pagrįsti savo sprendimus
+DSA reikalauja aiškių ir konkrečių priežasčių. AI pateikia struktūrizuotus argumentus: taisyklė (NG-CONDUCT-004), aptikta (galima konkreti grėsmė), pasitikėjimas (0,94), atitinkamas kontekstas (ankstesni 4 pranešimai), rekomenduojamas veiksmas (žmogaus apžvalga).
 
 ### 13. AI neturi slapta keisti turinio
-**Moderuojantis AI niekada negali nepastebimai keisti originalaus turinio.** Automatinio taisymo, vertimo ar apibendrinimo metu originalas visada iÅ¡saugomas.
+**Moderuojantis AI niekada negali nepastebimai keisti originalaus turinio.** Automatinio taisymo, vertimo ar apibendrinimo metu originalas visada išsaugomas.
 
 ### 14. AI sukurtas turinys
-Skiriame: Å¾mogaus sukurtÄ…, dirbtinio intelekto padedamÄ…, dirbtinio intelekto sukurtÄ… ir dirbtinio intelekto manipuliuotÄ…. Tai taps turinio metaduomenÅ³ dalimi.
+Skiriame: žmogaus sukurtą, dirbtinio intelekto padedamą, dirbtinio intelekto sukurtą ir dirbtinio intelekto manipuliuotą. Tai taps turinio metaduomenų dalimi.
 
-### 15. AI turinio ir AI kilmÄ—s sluoksnio Å¾enklinimas
-Pagal ES AI Ä¯statymo skaidrumo taisykles (galioja 2026 m. rugpjÅ«Äio mÄ—n.), dirbtinio intelekto sukurtas turinys turi bÅ«ti identifikuojamas. Mes teikiame AI kilmÄ—s sluoksnÄ¯, kuriame saugomi metaduomenys (AI-Origin, Model, Timestamp, Human Review).
+### 15. AI turinio ir AI kilmės sluoksnio ženklinimas
+Pagal ES AI įstatymo skaidrumo taisykles (galioja 2026 m. rugpjūčio mėn.), dirbtinio intelekto sukurtas turinys turi būti identifikuojamas. Mes teikiame AI kilmės sluoksnį, kuriame saugomi metaduomenys (AI-Origin, Model, Timestamp, Human Review).
 
 ### 16. Deepfake Detection
 The architecture aims to detect synthetic images, cloned voices, and deepfakes. However, detection is not automatically proof.
 
-### 17. No Automatic "Truth Machine" (Moderation â‰  Fact Checking)
+### 17. No Automatic "Truth Machine" (Moderation ≠ Fact Checking)
 One system checks: "Does the content violate rules?" (Content Moderation), another provides: "What information and sources are available?" (Information Assistance). Opinions are not simply deleted for being "wrong."
 
 ### 18. Protection Against Cultural Misinterpretation
 The AI requires **Cultural Context Models** to prevent the communication norms of one country from being assumed as a global standard.
 
 ### 19. Ironija, satyra ir humoras
-AI naudoja kontekstÄ…, jaustukus, pokalbiÅ³ istorijÄ… ir Å¾inomas ironijos struktÅ«ras, taÄiau turi leisti neapibrÄ—Å¾tumÄ…, kai reikÅ¡mÄ—s yra dviprasmiÅ¡kos.
+AI naudoja kontekstą, jaustukus, pokalbių istoriją ir žinomas ironijos struktūras, tačiau turi leisti neapibrėžtumą, kai reikšmės yra dviprasmiškos.
 
-### 20. Jokios bausmÄ—s remiantis vienu AI balu
-Jokia rimta moderavimo intervencija negali bÅ«ti grindÅ¾iama tik vienu automatizuotu klasifikavimo rezultatu (tekstas + kontekstas + elgsena + kalba + medija + taisykliÅ³ variklis = rizikos vertinimas).
+### 20. Jokios bausmės remiantis vienu AI balu
+Jokia rimta moderavimo intervencija negali būti grindžiama tik vienu automatizuotu klasifikavimo rezultatu (tekstas + kontekstas + elgsena + kalba + medija + taisyklių variklis = rizikos vertinimas).
 
 ### 21. Vartotojo elgesio signalai ir socialinio kredito sistemos nebuvimas
-Tai susijÄ™ su techninio piktnaudÅ¾iavimo signalais (pvz., masiniu Å¡lamÅ¡to skelbimu), o ne su bendra socialinio Ä¯vertinimo sistema. â€žNexus Gajaâ€œ nepalaiko SocialiniÅ³ kreditÅ³ sistemos â€“ saikas tarnauja saugumui, o ne Å¾mogaus vertÄ—s Ä¯vertinimui.
+Tai susiję su techninio piktnaudžiavimo signalais (pvz., masiniu šlamšto skelbimu), o ne su bendra socialinio įvertinimo sistema. „Nexus Gaja“ nepalaiko Socialinių kreditų sistemos – saikas tarnauja saugumui, o ne žmogaus vertės įvertinimui.
 
-### 22. Saikingas AI turi bÅ«ti tikrinamas
-Visi atitinkami automatizuoti sprendimai registruojami (Ä®vykio ID, TaisyklÄ—s ID, PasitikÄ—jimas, Å½mogaus perÅ¾iÅ«ra ir kt.), kad bÅ«tÅ³ uÅ¾tikrintas atsekamumas.
+### 22. Saikingas AI turi būti tikrinamas
+Visi atitinkami automatizuoti sprendimai registruojami (Įvykio ID, Taisyklės ID, Pasitikėjimas, Žmogaus peržiūra ir kt.), kad būtų užtikrintas atsekamumas.
 
-### 23. Klaidingi teigiami, klaidingi neigiami teiginiai ir kokybÄ—s metrika
-KlaidÅ³ tipai yra stebimi. PrietaisÅ³ skydelyje matuojamas tikslumas, atÅ¡aukimas ir ypaÄ **apeliacijos atÅ¡aukimo rodiklis** (sÄ—kmingÅ³ apeliacijÅ³ skaiÄius).
+### 23. Klaidingi teigiami, klaidingi neigiami teiginiai ir kokybės metrika
+Klaidų tipai yra stebimi. Prietaisų skydelyje matuojamas tikslumas, atšaukimas ir ypač **apeliacijos atšaukimo rodiklis** (sėkmingų apeliacijų skaičius).
 
-### 24. Kalbos teisingumas ir vertimo Å¡aliÅ¡kumas
-Moderavimo kokybÄ— turi bÅ«ti palyginama visomis palaikomomis kalbomis (Multilingual Moderation Benchmark). Jei moderavimo rezultatai skiriasi nuo originalo ir vertimo (vertimo konfliktas), tai reikia konkreÄiai perÅ¾iÅ«rÄ—ti.
+### 24. Kalbos teisingumas ir vertimo šališkumas
+Moderavimo kokybė turi būti palyginama visomis palaikomomis kalbomis (Multilingual Moderation Benchmark). Jei moderavimo rezultatai skiriasi nuo originalo ir vertimo (vertimo konfliktas), tai reikia konkrečiai peržiūrėti.
 
-### 25. ArchitektÅ«ros pasiÅ«lymas ir politikos variklis
-TaisyklÄ—s (politikos variklis) nÄ—ra uÅ¾koduotos dirbtinio intelekto modeliuose. AI pateikia iÅ¡vadas; politikos variklis nusprendÅ¾ia remdamasis galiojanÄiomis taisyklÄ—mis. Tai leidÅ¾ia **modelÄ¯ keisti nekeiÄiant taisykliÅ³**.
+### 25. Architektūros pasiūlymas ir politikos variklis
+Taisyklės (politikos variklis) nėra užkoduotos dirbtinio intelekto modeliuose. AI pateikia išvadas; politikos variklis nusprendžia remdamasis galiojančiomis taisyklėmis. Tai leidžia **modelį keisti nekeičiant taisyklių**.
 
-### 26. Å½mogus lieka galutine valdÅ¾ia
-- **NG-AI-MOD-001**: AI padeda aptikti ir klasifikuoti, bet nepakeiÄia Å¾mogaus perÅ¾iÅ«ros priimant rimtus sprendimus.
-â€“ **NG-AI-MOD-002**: automatiniai moderavimo sprendimai turi bÅ«ti atsekami, registruojami ir patikrinami.
+### 26. Žmogus lieka galutine valdžia
+- **NG-AI-MOD-001**: AI padeda aptikti ir klasifikuoti, bet nepakeičia žmogaus peržiūros priimant rimtus sprendimus.
+– **NG-AI-MOD-002**: automatiniai moderavimo sprendimai turi būti atsekami, registruojami ir patikrinami.
 
-**Santrauka**: kuriame keturiÅ³ etapÅ³ sistemÄ…: AI aptikimÄ…, konteksto ir rizikos analizÄ™, politikos variklÄ¯ ir Å¾mogaus valdymÄ…. Tai leidÅ¾ia stipriai automatizuoti nesukuriant pavojingos â€žAI kaip teisÄ—joâ€œ architektÅ«ros.
+**Santrauka**: kuriame keturių etapų sistemą: AI aptikimą, konteksto ir rizikos analizę, politikos variklį ir žmogaus valdymą. Tai leidžia stipriai automatizuoti nesukuriant pavojingos „AI kaip teisėjo“ architektūros.
 
-## Finansavimo principai ir pajamÅ³ modelis (WP 1.10.1)
+## Finansavimo principai ir pajamų modelis (WP 1.10.1)
 
 ![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
@@ -182,121 +184,121 @@ For Nexus Gaja, a highly important economic principle applies: **No traditional 
 This fundamentally distinguishes Nexus Gaja from many of today's social networks. However, this does not mean that Nexus Gaja cannot have a commercial character. On the contrary, the platform must be economically viable so that its social purpose can endure. Economic activity is a means to an end, not the primary purpose of the platform.
 
 ### 1. Principas NG-FIN-001
-â€žNexus Gajaâ€œ finansuoja savo veiklÄ… per skaidrius pajamÅ³ srautus, atskirtus nuo naudotojÅ³ interesÅ³, o ne gaudama pajamÅ³ iÅ¡ naudotojÅ³ dÄ—mesio ar asmeniniÅ³ duomenÅ³.
+„Nexus Gaja“ finansuoja savo veiklą per skaidrius pajamų srautus, atskirtus nuo naudotojų interesų, o ne gaudama pajamų iš naudotojų dėmesio ar asmeninių duomenų.
 
-### 2. Jokios tradicinÄ—s reklamos
-YpaÄ draudÅ¾iami:
-- ReklamjuostÄ—s
-- IÅ¡Å¡okantys skelbimai
-- AutomatiÅ¡kai paleidÅ¾iami vaizdo Ä¯raÅ¡o skelbimai
-- Remiami Ä¯raÅ¡ai standartiniame sklaidos kanale
+### 2. Jokios tradicinės reklamos
+Ypač draudžiami:
+- Reklamjuostės
+- Iššokantys skelbimai
+- Automatiškai paleidžiami vaizdo įrašo skelbimai
+- Remiami įrašai standartiniame sklaidos kanale
 - Personalizuoti reklamos profiliai
-- VartotojÅ³ profiliÅ³ ar asmens duomenÅ³ pardavimas
-- Reklama, gauta iÅ¡ privaÄiÅ³ pokalbiÅ³.
+- Vartotojų profilių ar asmens duomenų pardavimas
+- Reklama, gauta iš privačių pokalbių.
 
-â€žNexus Gajaâ€œ iÅ¡lieka **bendravimo, o ne reklamos erdve**.
+„Nexus Gaja“ išlieka **bendravimo, o ne reklamos erdve**.
 
-### 3. Finansavimas be reklamos (6 ramsÄiai)
-Finansavimas grindÅ¾iamas Å¡eÅ¡iais ramsÄiais:
+### 3. Finansavimas be reklamos (6 ramsčiai)
+Finansavimas grindžiamas šešiais ramsčiais:
 ``` tekstas
                  NEXUS GAJA
-                     â”‚
-       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
-       â–¼ â–¼ â–¼
+                     │
+       ┌─────────────┼──────────────
+       ▼ ▼ ▼
    PREMIUM ORGANIZACIJOS AUKOS
-       â”‚ â”‚ â”‚
-       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
-       â–¼ â–¼ â–¼
-    SUTEIKIA PARTNERYSTÄ–S PASLAUGAS
+       │ │ │
+       ├─────────────┼─────────────┤
+       ▼ ▼ ▼
+    SUTEIKIA PARTNERYSTĖS PASLAUGAS
 ```
 
-#### 1 ramstis â€“ nemokama pagrindinÄ— narystÄ—
-**Nexus Gaja Free** suteikia galimybÄ™ visiems nemokamai suprasti pagrindinÄ¯ tarptautinÄ¯ supratimÄ… (profilis, tarptautinis bendravimas, Ä¯raÅ¡ai, bendruomenÄ—s, pokalbiai, pagrindinis vertimas).
+#### 1 ramstis – nemokama pagrindinė narystė
+**Nexus Gaja Free** suteikia galimybę visiems nemokamai suprasti pagrindinį tarptautinį supratimą (profilis, tarptautinis bendravimas, įrašai, bendruomenės, pokalbiai, pagrindinis vertimas).
 
-#### 2 ramstis â€“ aukÅ¡Äiausios kokybÄ—s pasiÅ«lymai
-SavanoriÅ¡ki mokami pasiÅ«lymai (**Nexus Gaja Plus**), suteikiantys didesnius saugyklos apribojimus, aukÅ¡tesnÄ™ medijos kokybÄ™, iÅ¡plÄ—stas AI kvotas ir organizacines funkcijas.
-**Svarbu (â€žFreemiumâ€œ vietoj â€žDark Freemiumâ€œ):** Pagrindinis ryÅ¡ys niekada negali bÅ«ti dirbtinai pablogintas.
+#### 2 ramstis – aukščiausios kokybės pasiūlymai
+Savanoriški mokami pasiūlymai (**Nexus Gaja Plus**), suteikiantys didesnius saugyklos apribojimus, aukštesnę medijos kokybę, išplėstas AI kvotas ir organizacines funkcijas.
+**Svarbu („Freemium“ vietoj „Dark Freemium“):** Pagrindinis ryšys niekada negali būti dirbtinai pablogintas.
 
-#### 3 ramstis â€“ organizacijos
-Specialios paskyros mokykloms, universitetams, NVO, Ä¯monÄ—ms ir savivaldybÄ—ms (**Nexus Gaja Organization**). Mokyklos gali bÅ«ti remiamos per institucinius tarifus kaip tarptautinio supratimo skleidÄ—jams.
+#### 3 ramstis – organizacijos
+Specialios paskyros mokykloms, universitetams, NVO, įmonėms ir savivaldybėms (**Nexus Gaja Organization**). Mokyklos gali būti remiamos per institucinius tarifus kaip tarptautinio supratimo skleidėjams.
 
-#### 4 ramstis â€“ aukos
-**Nexus Gaja finansavimo fondas** priima bendrÄ…sias ir tikslines aukas (pvz., â€žtarptautiniam jaunimo bendravimuiâ€œ). **LÄ—Å¡Å³ paskirstymo knyga** uÅ¾tikrina skaidrÅ³ lÄ—Å¡Å³ paskirstymÄ….
-**Tikslinis fondas ir â€žTombolaâ€œ:** dalis aukÅ³ suteikia galimybÄ™ nemokamai / su nuolaida naudotis. Loterijos/tombolo mechanizmas Å¡ias lÄ—Å¡as gali paskirstyti skaidriai ir audituojamai.
+#### 4 ramstis – aukos
+**Nexus Gaja finansavimo fondas** priima bendrąsias ir tikslines aukas (pvz., „tarptautiniam jaunimo bendravimui“). **Lėšų paskirstymo knyga** užtikrina skaidrų lėšų paskirstymą.
+**Tikslinis fondas ir „Tombola“:** dalis aukų suteikia galimybę nemokamai / su nuolaida naudotis. Loterijos/tombolo mechanizmas šias lėšas gali paskirstyti skaidriai ir audituojamai.
 
-#### 5 ramstis â€“ institucijÅ³ finansavimas
-Fondai, kultÅ«ros finansavimo programos arba valstybinÄ—s programos.
-**NG-FIN-002:** FinansinÄ— parama neÄ¯perka redakcinÄ—s ar techninÄ—s kontrolÄ—s (NepriklausomybÄ—s).
+#### 5 ramstis – institucijų finansavimas
+Fondai, kultūros finansavimo programos arba valstybinės programos.
+**NG-FIN-002:** Finansinė parama neįperka redakcinės ar techninės kontrolės (Nepriklausomybės).
 
-#### 6 ramstis â€“ komercinÄ—s paslaugos
-B2B paslaugos, pvz., **Vertimas kaip paslauga** (API), organizacijos bendravimas ar tarptautinÄ—s konferencijÅ³ salÄ—s, neapkraunant standartinio naudotojo sklaidos kanalo.
+#### 6 ramstis – komercinės paslaugos
+B2B paslaugos, pvz., **Vertimas kaip paslauga** (API), organizacijos bendravimas ar tarptautinės konferencijų salės, neapkraunant standartinio naudotojo sklaidos kanalo.
 
-### 4. Be pajamÅ³ gavimo ir stebÄ—jimo ekonomikos
-**NG-FIN-003:** Asmeniniai vartotojo duomenys nÄ—ra prekÄ—. Neparduodama sÄ…raÅ¡Å³, profiliÅ³ ar istorijÅ³. â€žNexus Gajaâ€œ negauna naudos iÅ¡ psichologinio stebÄ—jimo (stebÄ—jimo ekonomika).
+### 4. Be pajamų gavimo ir stebėjimo ekonomikos
+**NG-FIN-003:** Asmeniniai vartotojo duomenys nėra prekė. Neparduodama sąrašų, profilių ar istorijų. „Nexus Gaja“ negauna naudos iš psichologinio stebėjimo (stebėjimo ekonomika).
 
-### 5. Finansinis skaidrumas ir fondÅ³ knyga
-**Nexus Gaja Finansinis skaidrumas:** SuvestiniÅ³ finansiniÅ³ struktÅ«rÅ³ skelbimas. TikslinÄ—s aukos apskaitomos technine apskaita (Fondo ID â†’ Paskirtis â†’ Likutis â†’ Paskirstymas). Jokio socialiniÅ³ tikslÅ³ kryÅ¾minio subsidijavimo Ä¯ Ä¯monÄ—s rinkodarÄ….
+### 5. Finansinis skaidrumas ir fondų knyga
+**Nexus Gaja Finansinis skaidrumas:** Suvestinių finansinių struktūrų skelbimas. Tikslinės aukos apskaitomos technine apskaita (Fondo ID → Paskirtis → Likutis → Paskirstymas). Jokio socialinių tikslų kryžminio subsidijavimo į įmonės rinkodarą.
 
-### 6. Solidarumu grÄ¯sto finansavimo modelis
-Kainos nustatomos atsiÅ¾velgiant Ä¯ sÄ…naudas, sÄ…Å¾iningumÄ… ir solidarumÄ….
-**Solidarumo premija:** savanoriÅ¡ka galimybÄ— Premium naudotojams finansuoti dalÄ¯ kito naudotojo prieigos. Priverstinis solidarumas arba aukÅ¡Äiausios klasÄ—s visuomenÄ— (maÅ¾iau pagarbos / nuosaikumo nemokamiems vartotojams) yra grieÅ¾tai draudÅ¾iamas.
+### 6. Solidarumu grįsto finansavimo modelis
+Kainos nustatomos atsižvelgiant į sąnaudas, sąžiningumą ir solidarumą.
+**Solidarumo premija:** savanoriška galimybė Premium naudotojams finansuoti dalį kito naudotojo prieigos. Priverstinis solidarumas arba aukščiausios klasės visuomenė (mažiau pagarbos / nuosaikumo nemokamiems vartotojams) yra griežtai draudžiamas.
 
-### 7. Ekonominiai KPI, o ne Ä¯sitraukimo ekonomika
-Jokios priklausomybÄ—s nuo to, kad vartotojai bÅ«tÅ³ kuo ilgiau prisijungÄ™ (jokio ragebaito, begaliniÅ³ kanalÅ³).
+### 7. Ekonominiai KPI, o ne įsitraukimo ekonomika
+Jokios priklausomybės nuo to, kad vartotojai būtų kuo ilgiau prisijungę (jokio ragebaito, begalinių kanalų).
 Vietoj to naudojame tokias metrikas kaip:
-- **Visuotinis komunikacijos indeksas (GCI):** SÄ—kmingi bendravimo santykiai tarp Å¾moniÅ³ iÅ¡ skirtingÅ³ kalbiniÅ³ / kultÅ«riniÅ³ regionÅ³.
-- **Platformos tvarumo koeficientas (PSR):** pasikartojanÄios pajamos / pasikartojanÄios veiklos iÅ¡laidos (tikslas â‰¥ 1).
+- **Visuotinis komunikacijos indeksas (GCI):** Sėkmingi bendravimo santykiai tarp žmonių iš skirtingų kalbinių / kultūrinių regionų.
+- **Platformos tvarumo koeficientas (PSR):** pasikartojančios pajamos / pasikartojančios veiklos išlaidos (tikslas ≥ 1).
 
-### 8. Ko mes aiÅ¡kiai nenorime (neigiamas sÄ…raÅ¡as)
-â€žNexus Gajaâ€œ **ne** finansuoja:
-âŒ Asmens duomenÅ³ pardavimas
-âŒ Personalizuota tradicinÄ— reklama
-âŒ NaudotojÅ³ elgesio stebÄ—jimas reklamos tikslais
-âŒ Privataus ryÅ¡io duomenÅ³ pardavimas
-âŒ PaslÄ—ptas AI duomenÅ³ naudojimas
-âŒ Manipuliuojamos â€žPremiumâ€œ mokamos sienos
-âŒ Dirbtinis pajamÅ³ gavimo apribojimas
-âŒ Mokama politinÄ— Ä¯taka
-âŒ PrivilegijuotÅ³ moderavimo sprendimÅ³ pirkimas.
+### 8. Ko mes aiškiai nenorime (neigiamas sąrašas)
+„Nexus Gaja“ **ne** finansuoja:
+❌ Asmens duomenų pardavimas
+❌ Personalizuota tradicinė reklama
+❌ Naudotojų elgesio stebėjimas reklamos tikslais
+❌ Privataus ryšio duomenų pardavimas
+❌ Paslėptas AI duomenų naudojimas
+❌ Manipuliuojamos „Premium“ mokamos sienos
+❌ Dirbtinis pajamų gavimo apribojimas
+❌ Mokama politinė įtaka
+❌ Privilegijuotų moderavimo sprendimų pirkimas.
 
-### 9. Preliminari finansinÄ— architektÅ«ra
+### 9. Preliminari finansinė architektūra
 ``` tekstas
                          NEXUS GAJA
-                              â”‚
-             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
-             â”‚ â”‚ â”‚
-             â–¼ â–¼ â–¼
-          VARTOTOJÅ² ORGANIZACIJÅ² Ä®MONÄ–
-             â”‚ â”‚ â”‚
-             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
-                              â”‚
+                              │
+             ┌────────────────┼──────────────
+             │ │ │
+             ▼ ▼ ▼
+          VARTOTOJŲ ORGANIZACIJŲ ĮMONĖ
+             │ │ │
+             └────────────────┼─────────────────
+                              │
                        PLATFORMOS PASLAUGOS
-                              â”‚
-          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-          â–¼ â–¼ â–¼
+                              │
+          ┌─────────────────── ┼───────────────────┐
+          ▼ ▼ ▼
        PREMIUM DONATIONS API
-                              â”‚
-                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-                    â–¼ â–¼
-               BENDROSIOS FONDO RIBOTOS LÄ–Å OS
-                                        â”‚
-                                        â–¼
-                                  SOCIALINÄ– TIKSLAS
+                              │
+                    ┌─────────┴─────────┐
+                    ▼ ▼
+               BENDROSIOS FONDO RIBOTOS LĖŠOS
+                                        │
+                                        ▼
+                                  SOCIALINĖ TIKSLAS
 ```
 
-### Finansavimo principÅ³ santrauka (NG-FIN)
-â€“ **NG-FIN-001:** Jokio finansavimo naudojant tradicinÄ™ reklamÄ….
-- **NG-FIN-002:** Jokia redakcinÄ— / techninÄ— kontrolÄ— teikiant finansinÄ™ paramÄ….
-- **NG-FIN-003:** Asmens duomenys nÄ—ra prekÄ—.
-- **NG-FIN-004:** Pagrindinis ryÅ¡ys iÅ¡lieka pasiekiamas be mokÄ—jimo.
-â€“ **NG-FIN-005:** AukÅ¡Äiausios kokybÄ—s pasiÅ«lymai neturi Å¾eminti nemokamÅ³ naudotojÅ³.
-- **NG-FIN-006:** Paskirties lÄ—Å¡os valdomos pagal jÅ³ paskirtÄ¯.
-- **NG-FIN-007:** Skaidrus aukÅ³ ir dotacijÅ³ valdymas.
-- **NG-FIN-008:** KomercinÄ—s B2B paslaugos nekelia pavojaus nepriklausomumui.
-- **NG-FIN-009:** DÄ—mesys tvarumui, o ne maksimaliam pajamÅ³ gavimui.
-- **NG-FIN-010:** StruktÅ«ra nuolat uÅ¾tikrina socialinÄ™ paskirtÄ¯.
+### Finansavimo principų santrauka (NG-FIN)
+– **NG-FIN-001:** Jokio finansavimo naudojant tradicinę reklamą.
+- **NG-FIN-002:** Jokia redakcinė / techninė kontrolė teikiant finansinę paramą.
+- **NG-FIN-003:** Asmens duomenys nėra prekė.
+- **NG-FIN-004:** Pagrindinis ryšys išlieka pasiekiamas be mokėjimo.
+– **NG-FIN-005:** Aukščiausios kokybės pasiūlymai neturi žeminti nemokamų naudotojų.
+- **NG-FIN-006:** Paskirties lėšos valdomos pagal jų paskirtį.
+- **NG-FIN-007:** Skaidrus aukų ir dotacijų valdymas.
+- **NG-FIN-008:** Komercinės B2B paslaugos nekelia pavojaus nepriklausomumui.
+- **NG-FIN-009:** Dėmesys tvarumui, o ne maksimaliam pajamų gavimui.
+- **NG-FIN-010:** Struktūra nuolat užtikrina socialinę paskirtį.
 
-## API, sÄ…sajos ir komunikacijos architektÅ«ra (WP 1.11.3)
+## API, sąsajos ir komunikacijos architektūra (WP 1.11.3)
 
 To ensure system stability, security, and scalability, Nexus Gaja follows a strictly API-first and event-driven architecture. 
 
@@ -306,9 +308,9 @@ To ensure system stability, security, and scalability, Nexus Gaja follows a stri
 - **Provider Abstraction:** External services (AI models, payment providers, translation engines) are integrated via abstraction layers, avoiding hardcoded dependencies and enabling flexible provider swapping.
 
 ### Bendravimo modeliai
-â€“ **SinchroninÄ—s API (REST/HTTPS):** naudojamos tiesioginÄ—ms uÅ¾klausoms, pvz., prisijungimui, profilio nustatymams ar tiesioginiams vertimams, pateikti.
-â€“ **Asinchroniniai Ä¯vykiai (Ä¯vykiÅ³ magistralÄ—):** â€žNexus Gajaâ€œ centrinÄ— nervÅ³ sistema, skirta atidÄ—tam, atsietam apdorojimui (pvz., â€žPraneÅ¡imas.Sukurtasâ€œ, suaktyvinantis moderavimÄ…, vertimÄ… ir praneÅ¡imus asinchroniÅ¡kai).
-â€“ **Realiuoju laiku (â€žWebSocketâ€œ):** specialÅ«s kanalai, skirti tiesioginiam pokalbiui ir raÅ¡ymo indikatoriams.
+– **Sinchroninės API (REST/HTTPS):** naudojamos tiesioginėms užklausoms, pvz., prisijungimui, profilio nustatymams ar tiesioginiams vertimams, pateikti.
+– **Asinchroniniai įvykiai (įvykių magistralė):** „Nexus Gaja“ centrinė nervų sistema, skirta atidėtam, atsietam apdorojimui (pvz., „Pranešimas.Sukurtas“, suaktyvinantis moderavimą, vertimą ir pranešimus asinchroniškai).
+– **Realiuoju laiku („WebSocket“):** specialūs kanalai, skirti tiesioginiam pokalbiui ir rašymo indikatoriams.
 
 ### Security and Reliability
 - **Zero-Trust Model:** Internal network traffic is not automatically trusted; sensitive service-to-service communication requires authentication.
@@ -318,42 +320,42 @@ To ensure system stability, security, and scalability, Nexus Gaja follows a stri
 
 ![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
 
-â€žNexus Gajaâ€œ naudoja grieÅ¾tai domenu pagrÄ¯stÄ… MVP architektÅ«rÄ… (ADR-025), sukurtÄ… kaip modulinis monolitas su aiÅ¡kiomis domeno ribomis. Å i struktÅ«ra apsaugo nuo ankstyvo mikropaslaugÅ³ sudÄ—tingumo ir iÅ¡laiko lankstumÄ… vÄ—liau atskirti konkreÄius domenus.
+„Nexus Gaja“ naudoja griežtai domenu pagrįstą MVP architektūrą (ADR-025), sukurtą kaip modulinis monolitas su aiškiomis domeno ribomis. Ši struktūra apsaugo nuo ankstyvo mikropaslaugų sudėtingumo ir išlaiko lankstumą vėliau atskirti konkrečius domenus.
 
 ### Pagrindiniai domeno subjektai
-ArchitektÅ«ra aiÅ¡kiai atskiria skirtingas sÄ…vokas, kad bÅ«tÅ³ uÅ¾tikrintas duomenÅ³ vientisumas ir iÅ¡vengta struktÅ«riniÅ³ spÄ…stÅ³, pvz., â€žVartotojo vardas = Å¾mogusâ€œ:
-â€“ **TapatybÄ— ir paskyros:** â€žAsmuoâ€œ â‰  â€žVartotojo paskyraâ€œ â‰  â€žTapatybÄ—s patvirtinimasâ€œ. Patvirtintas asmuo dalyvauja per paskyrÄ…, taÄiau subjektai lieka atskiri.
-- **Bendravimas:** â€žPraneÅ¡imasâ€œ â‰  â€žVertimasâ€œ. Pradinis praneÅ¡imas iÅ¡lieka nepakitÄ™s; vertimai yra susieti objektai.
-- **Moderavimas:** â€žPraneÅ¡imasâ€œ â‰  â€žModeravimo sprendimasâ€œ. Ataskaita yra tik pretenzija; moderavimo byla atlieka tyrimÄ….
-â€“ **Finansai:** â€žAukaâ€œ â‰  â€žLÄ—Å¡Å³ likutisâ€œ. MokÄ—jimai registruojami per nekeiÄiamÄ… knygÄ… Ä¯ fondÄ…, uÅ¾tikrinant finansinÄ¯ skaidrumÄ….
+Architektūra aiškiai atskiria skirtingas sąvokas, kad būtų užtikrintas duomenų vientisumas ir išvengta struktūrinių spąstų, pvz., „Vartotojo vardas = žmogus“:
+– **Tapatybė ir paskyros:** „Asmuo“ ≠ „Vartotojo paskyra“ ≠ „Tapatybės patvirtinimas“. Patvirtintas asmuo dalyvauja per paskyrą, tačiau subjektai lieka atskiri.
+- **Bendravimas:** „Pranešimas“ ≠ „Vertimas“. Pradinis pranešimas išlieka nepakitęs; vertimai yra susieti objektai.
+- **Moderavimas:** „Pranešimas“ ≠ „Moderavimo sprendimas“. Ataskaita yra tik pretenzija; moderavimo byla atlieka tyrimą.
+– **Finansai:** „Auka“ ≠ „Lėšų likutis“. Mokėjimai registruojami per nekeičiamą knygą į fondą, užtikrinant finansinį skaidrumą.
 
 ### Sujungti domenai
-Sistema suskirstyta Ä¯ aiÅ¡kias logines sritis (ribotus kontekstus): tapatybÄ—, paskyra, organizacija, komunikacija, bendruomenÄ—, kalba, moderavimas, praneÅ¡imai, finansai ir valdymas. Å ie domenai apibÅ«dina visÄ… kelionÄ™ nuo realaus pasaulio subjektÅ³ (naudotojÅ³, mokyklÅ³, NVO) iki jÅ³ skaitmeninÄ—s sÄ…veikos ir susijusio valdymo.
+Sistema suskirstyta į aiškias logines sritis (ribotus kontekstus): tapatybė, paskyra, organizacija, komunikacija, bendruomenė, kalba, moderavimas, pranešimai, finansai ir valdymas. Šie domenai apibūdina visą kelionę nuo realaus pasaulio subjektų (naudotojų, mokyklų, NVO) iki jų skaitmeninės sąveikos ir susijusio valdymo.
 
-## Projekto bÅ«sena
-Å iuo metu projektas yra aktyvaus architektÅ«ros ir planavimo etape.
-Vykdomi architektÅ«riniai sprendimai dokumentuojami aplanke â€ž/docsâ€œ.---
+## Projekto būsena
+Šiuo metu projektas yra aktyvaus architektūros ir planavimo etape.
+Vykdomi architektūriniai sprendimai dokumentuojami aplanke „/docs“.---
 
-## Licencija ir intelektinÄ— nuosavybÄ—
+## Licencija ir intelektinė nuosavybė
 
-> **Â© 2024â€“2026 SonnerStudio - Jan Friske GrÃ¼nder, Inhaber, Direktor und Chefdesigner von SonnerStudio â€” Visos teisÄ—s saugomos.**
+> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — Visos teisės saugomos.**
 
-**Nexus Gaja** yra iÅ¡skirtinÄ— **Jan Friske**, veikianÄio **SonnerStudio** vardu, intelektinÄ— nuosavybÄ—.
+**Nexus Gaja** yra išskirtinė **Jan Friske**, veikiančio **SonnerStudio** vardu, intelektinė nuosavybė.
 
-Jan Friske yra vienintelis Nexus Gaja kÅ«rÄ—jas, architektas ir savininkas â€” Ä¯skaitant visas sÄ…vokas, architektÅ«rÄ…, domeno modelius, prekÄ—s Å¾enklo tapatybÄ™ ir susijusius dokumentus.
+Jan Friske yra vienintelis Nexus Gaja kūrėjas, architektas ir savininkas — įskaitant visas sąvokas, architektūrą, domeno modelius, prekės ženklo tapatybę ir susijusius dokumentus.
 
-**Jokios teisÄ—s, licencijos ar nuosavybÄ—s interesai nÄ—ra suteikiami treÄiosioms Å¡alims**, neatsiÅ¾velgiant Ä¯ jÅ³ dydÄ¯, rinkos pozicijÄ… ar Ä¯takÄ… technologijÅ³ pramonÄ—je.
+**Jokios teisės, licencijos ar nuosavybės interesai nėra suteikiami trečiosioms šalims**, neatsižvelgiant į jų dydį, rinkos poziciją ar įtaką technologijų pramonėje.
 
-### Kas NELEIDÅ½IAMA be aiÅ¡kaus raÅ¡tiÅ¡ko sutikimo:
-- âŒ Å ios programinÄ—s Ä¯rangos ar jos dokumentacijos kopijavimas, dauginimas ar platinimas
-- âŒ Modifikavimas, adaptavimas ar iÅ¡vestiniÅ³ kÅ«riniÅ³ kÅ«rimas
-- âŒ Bet kurios Nexus Gaja dalies komercinis naudojimas
-- âŒ Å ios saugyklos turinio naudojimas kaip AI ar LLM sistemÅ³ mokymo duomenys
-- âŒ TeisiÅ³ sublicencijavimas ar perdavimas treÄiosioms Å¡alims
+### Kas NELEIDŽIAMA be aiškaus raštiško sutikimo:
+- ❌ Šios programinės įrangos ar jos dokumentacijos kopijavimas, dauginimas ar platinimas
+- ❌ Modifikavimas, adaptavimas ar išvestinių kūrinių kūrimas
+- ❌ Bet kurios Nexus Gaja dalies komercinis naudojimas
+- ❌ Šios saugyklos turinio naudojimas kaip AI ar LLM sistemų mokymo duomenys
+- ❌ Teisių sublicencijavimas ar perdavimas trečiosioms šalims
 
 ### Kontaktai
 Licencijos klausimais: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-*â€žNexus Gaja" ir Nexus Gaja logotipas yra Jan Friske prekiÅ³ Å¾enklai. NeteisÄ—tas vardo ar prekÄ—s Å¾enklo naudojimas yra draudÅ¾iamas.*
+*„Nexus Gaja" ir Nexus Gaja logotipas yra Jan Friske prekių ženklai. Neteisėtas vardo ar prekės ženklo naudojimas yra draudžiamas.*
 
-âž¡ï¸ Visas licencijos sÄ…lygas Å¾r. [LICENSE](LICENSE) faile
+➡️ Visas licencijos sąlygas žr. [LICENSE](LICENSE) faile
