@@ -1,377 +1,379 @@
-# Nexus Gaja
+﻿# Nexus Gaja
 
-> *Միջազգային խաղաղության և միջազգային փոխըմբռնման համար*
+> *Õ„Õ«Õ»Õ¡Õ¦Õ£Õ¡ÕµÕ«Õ¶ Õ­Õ¡Õ²Õ¡Õ²Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Ö‡ Õ´Õ«Õ»Õ¡Õ¦Õ£Õ¡ÕµÕ«Õ¶ ÖƒÕ¸Õ­Õ¨Õ´Õ¢Õ¼Õ¶Õ´Õ¡Õ¶ Õ°Õ¡Õ´Õ¡Ö€*
 
 
 ![Nexus Gaja Logo](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
 
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 
-**Nexus Gaja**-ը խելացի, համատեքստից տեղյակ հաղորդակցման ցանց է, որը նախատեսված է համաշխարհային հաղորդակցությունը հեղափոխելու համար:
+**Nexus Gaja**-Õ¨ Õ­Õ¥Õ¬Õ¡ÖÕ«, Õ°Õ¡Õ´Õ¡Õ¿Õ¥Ö„Õ½Õ¿Õ«Ö Õ¿Õ¥Õ²ÕµÕ¡Õ¯ Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ´Õ¡Õ¶ ÖÕ¡Õ¶Ö Õ§, Õ¸Ö€Õ¨ Õ¶Õ¡Õ­Õ¡Õ¿Õ¥Õ½Õ¾Õ¡Õ® Õ§ Õ°Õ¡Õ´Õ¡Õ·Õ­Õ¡Ö€Õ°Õ¡ÕµÕ«Õ¶ Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Õ°Õ¥Õ²Õ¡ÖƒÕ¸Õ­Õ¥Õ¬Õ¸Ö‚ Õ°Õ¡Õ´Õ¡Ö€:
 
-## Նպատակը և տեսլականը
+## Õ†ÕºÕ¡Õ¿Õ¡Õ¯Õ¨ Ö‡ Õ¿Õ¥Õ½Õ¬Õ¡Õ¯Õ¡Õ¶Õ¨
 
 ![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
 
-Գլոբալացված աշխարհում լեզուն հաճախ ամենամեծ խոչընդոտն է: Nexus Gaja-ի հիմնական նպատակն է մարդկանց միջև անխափան, մատչելի և համատեքստում ճշգրիտ հաղորդակցություն ապահովել՝ անկախ նրանից՝ նրանք ընդհանուր լեզվով են խոսում, թե ոչ: 
+Ô³Õ¬Õ¸Õ¢Õ¡Õ¬Õ¡ÖÕ¾Õ¡Õ® Õ¡Õ·Õ­Õ¡Ö€Õ°Õ¸Ö‚Õ´ Õ¬Õ¥Õ¦Õ¸Ö‚Õ¶ Õ°Õ¡Õ³Õ¡Õ­ Õ¡Õ´Õ¥Õ¶Õ¡Õ´Õ¥Õ® Õ­Õ¸Õ¹Õ¨Õ¶Õ¤Õ¸Õ¿Õ¶ Õ§: Nexus Gaja-Õ« Õ°Õ«Õ´Õ¶Õ¡Õ¯Õ¡Õ¶ Õ¶ÕºÕ¡Õ¿Õ¡Õ¯Õ¶ Õ§ Õ´Õ¡Ö€Õ¤Õ¯Õ¡Õ¶Ö Õ´Õ«Õ»Ö‡ Õ¡Õ¶Õ­Õ¡ÖƒÕ¡Õ¶, Õ´Õ¡Õ¿Õ¹Õ¥Õ¬Õ« Ö‡ Õ°Õ¡Õ´Õ¡Õ¿Õ¥Ö„Õ½Õ¿Õ¸Ö‚Õ´ Õ³Õ·Õ£Ö€Õ«Õ¿ Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ Õ¡ÕºÕ¡Õ°Õ¸Õ¾Õ¥Õ¬Õ Õ¡Õ¶Õ¯Õ¡Õ­ Õ¶Ö€Õ¡Õ¶Õ«ÖÕ Õ¶Ö€Õ¡Õ¶Ö„ Õ¨Õ¶Õ¤Õ°Õ¡Õ¶Õ¸Ö‚Ö€ Õ¬Õ¥Õ¦Õ¾Õ¸Õ¾ Õ¥Õ¶ Õ­Õ¸Õ½Õ¸Ö‚Õ´, Õ©Õ¥ Õ¸Õ¹: 
 
-Խոսքը միայն բառերի համառ թարգմանության մասին չէ, այլ **իմաստը փոխանցելու**: Nexus Gaja-ն կապում է մարդկանց ավելի խորը մակարդակում՝ հասկանալով մշակութային, տարածաշրջանային և համատեքստային նրբությունները՝ հնարավորություն տալով իրական, իսկական խոսակցությունների:
+Ô½Õ¸Õ½Ö„Õ¨ Õ´Õ«Õ¡ÕµÕ¶ Õ¢Õ¡Õ¼Õ¥Ö€Õ« Õ°Õ¡Õ´Õ¡Õ¼ Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ´Õ¡Õ½Õ«Õ¶ Õ¹Õ§, Õ¡ÕµÕ¬ **Õ«Õ´Õ¡Õ½Õ¿Õ¨ ÖƒÕ¸Õ­Õ¡Õ¶ÖÕ¥Õ¬Õ¸Ö‚**: Nexus Gaja-Õ¶ Õ¯Õ¡ÕºÕ¸Ö‚Õ´ Õ§ Õ´Õ¡Ö€Õ¤Õ¯Õ¡Õ¶Ö Õ¡Õ¾Õ¥Õ¬Õ« Õ­Õ¸Ö€Õ¨ Õ´Õ¡Õ¯Õ¡Ö€Õ¤Õ¡Õ¯Õ¸Ö‚Õ´Õ Õ°Õ¡Õ½Õ¯Õ¡Õ¶Õ¡Õ¬Õ¸Õ¾ Õ´Õ·Õ¡Õ¯Õ¸Ö‚Õ©Õ¡ÕµÕ«Õ¶, Õ¿Õ¡Ö€Õ¡Õ®Õ¡Õ·Ö€Õ»Õ¡Õ¶Õ¡ÕµÕ«Õ¶ Ö‡ Õ°Õ¡Õ´Õ¡Õ¿Õ¥Ö„Õ½Õ¿Õ¡ÕµÕ«Õ¶ Õ¶Ö€Õ¢Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¨Õ Õ°Õ¶Õ¡Ö€Õ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ Õ¿Õ¡Õ¬Õ¸Õ¾ Õ«Ö€Õ¡Õ¯Õ¡Õ¶, Õ«Õ½Õ¯Õ¡Õ¯Õ¡Õ¶ Õ­Õ¸Õ½Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ«:
 
-## Հնարավորություններ և առանձնահատկություններ
-- **Մուլտիմեդիա հաղորդակցություն**. համակարգը մշակում է ոչ միայն տեքստը, այլև պատկերները, աուդիո և վիդեո: Սա թույլ է տալիս լիովին ընկղմվող խոսակցություններ (օրինակ՝ տեսազանգեր կամ ձայնային հաղորդագրություններ) իրական ժամանակում՝ լեզվական սահմաններից դուրս:
-- **Համատեքստային զգայունություն**. ավանդական թարգմանիչների կողմից հաճախ սխալ ընկալվող հեգնանքի, բառակապակցությունների, ժարգոնի և տարածաշրջանային բարբառների հայտնաբերում:
-- **Խաչափպլատֆորմային ցանց**. ծառայում է որպես մասնավոր զրույցների, ֆորումի թեմաների (մեկնաբանություններով գրառումներ) և գլոբալ համայնքի փոխազդեցությունների հիմք:
+## Õ€Õ¶Õ¡Ö€Õ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€ Ö‡ Õ¡Õ¼Õ¡Õ¶Õ±Õ¶Õ¡Õ°Õ¡Õ¿Õ¯Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€
+- **Õ„Õ¸Ö‚Õ¬Õ¿Õ«Õ´Õ¥Õ¤Õ«Õ¡ Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶**. Õ°Õ¡Õ´Õ¡Õ¯Õ¡Ö€Õ£Õ¨ Õ´Õ·Õ¡Õ¯Õ¸Ö‚Õ´ Õ§ Õ¸Õ¹ Õ´Õ«Õ¡ÕµÕ¶ Õ¿Õ¥Ö„Õ½Õ¿Õ¨, Õ¡ÕµÕ¬Ö‡ ÕºÕ¡Õ¿Õ¯Õ¥Ö€Õ¶Õ¥Ö€Õ¨, Õ¡Õ¸Ö‚Õ¤Õ«Õ¸ Ö‡ Õ¾Õ«Õ¤Õ¥Õ¸: ÕÕ¡ Õ©Õ¸Ö‚ÕµÕ¬ Õ§ Õ¿Õ¡Õ¬Õ«Õ½ Õ¬Õ«Õ¸Õ¾Õ«Õ¶ Õ¨Õ¶Õ¯Õ²Õ´Õ¾Õ¸Õ² Õ­Õ¸Õ½Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€ (Ö…Ö€Õ«Õ¶Õ¡Õ¯Õ Õ¿Õ¥Õ½Õ¡Õ¦Õ¡Õ¶Õ£Õ¥Ö€ Õ¯Õ¡Õ´ Õ±Õ¡ÕµÕ¶Õ¡ÕµÕ«Õ¶ Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ£Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€) Õ«Ö€Õ¡Õ¯Õ¡Õ¶ ÕªÕ¡Õ´Õ¡Õ¶Õ¡Õ¯Õ¸Ö‚Õ´Õ Õ¬Õ¥Õ¦Õ¾Õ¡Õ¯Õ¡Õ¶ Õ½Õ¡Õ°Õ´Õ¡Õ¶Õ¶Õ¥Ö€Õ«Ö Õ¤Õ¸Ö‚Ö€Õ½:
+- **Õ€Õ¡Õ´Õ¡Õ¿Õ¥Ö„Õ½Õ¿Õ¡ÕµÕ«Õ¶ Õ¦Õ£Õ¡ÕµÕ¸Ö‚Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶**. Õ¡Õ¾Õ¡Õ¶Õ¤Õ¡Õ¯Õ¡Õ¶ Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ«Õ¹Õ¶Õ¥Ö€Õ« Õ¯Õ¸Õ²Õ´Õ«Ö Õ°Õ¡Õ³Õ¡Õ­ Õ½Õ­Õ¡Õ¬ Õ¨Õ¶Õ¯Õ¡Õ¬Õ¾Õ¸Õ² Õ°Õ¥Õ£Õ¶Õ¡Õ¶Ö„Õ«, Õ¢Õ¡Õ¼Õ¡Õ¯Õ¡ÕºÕ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ«, ÕªÕ¡Ö€Õ£Õ¸Õ¶Õ« Ö‡ Õ¿Õ¡Ö€Õ¡Õ®Õ¡Õ·Ö€Õ»Õ¡Õ¶Õ¡ÕµÕ«Õ¶ Õ¢Õ¡Ö€Õ¢Õ¡Õ¼Õ¶Õ¥Ö€Õ« Õ°Õ¡ÕµÕ¿Õ¶Õ¡Õ¢Õ¥Ö€Õ¸Ö‚Õ´:
+- **Ô½Õ¡Õ¹Õ¡ÖƒÕºÕ¬Õ¡Õ¿Ö†Õ¸Ö€Õ´Õ¡ÕµÕ«Õ¶ ÖÕ¡Õ¶Ö**. Õ®Õ¡Õ¼Õ¡ÕµÕ¸Ö‚Õ´ Õ§ Õ¸Ö€ÕºÕ¥Õ½ Õ´Õ¡Õ½Õ¶Õ¡Õ¾Õ¸Ö€ Õ¦Ö€Õ¸Ö‚ÕµÖÕ¶Õ¥Ö€Õ«, Ö†Õ¸Ö€Õ¸Ö‚Õ´Õ« Õ©Õ¥Õ´Õ¡Õ¶Õ¥Ö€Õ« (Õ´Õ¥Õ¯Õ¶Õ¡Õ¢Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¸Õ¾ Õ£Ö€Õ¡Õ¼Õ¸Ö‚Õ´Õ¶Õ¥Ö€) Ö‡ Õ£Õ¬Õ¸Õ¢Õ¡Õ¬ Õ°Õ¡Õ´Õ¡ÕµÕ¶Ö„Õ« ÖƒÕ¸Õ­Õ¡Õ¦Õ¤Õ¥ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ« Õ°Õ«Õ´Ö„:
 
 ---
 
-## Տեխնիկական ճարտարապետություն (հիմնական հայեցակարգ)
+## ÕÕ¥Õ­Õ¶Õ«Õ¯Õ¡Õ¯Õ¡Õ¶ Õ³Õ¡Ö€Õ¿Õ¡Ö€Õ¡ÕºÕ¥Õ¿Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ (Õ°Õ«Õ´Õ¶Õ¡Õ¯Õ¡Õ¶ Õ°Õ¡ÕµÕ¥ÖÕ¡Õ¯Õ¡Ö€Õ£)
 
 ![Nexus Gaja Translation Concept](assets/img/nexus_translation.jpg)
 
-Nexus Gaja-ի տեխնիկական միջուկը ինքնազարգացած հաղորդակցման մոդել է, որը խստորեն բաժանված է երեք շերտերի.
+Nexus Gaja-Õ« Õ¿Õ¥Õ­Õ¶Õ«Õ¯Õ¡Õ¯Õ¡Õ¶ Õ´Õ«Õ»Õ¸Ö‚Õ¯Õ¨ Õ«Õ¶Ö„Õ¶Õ¡Õ¦Õ¡Ö€Õ£Õ¡ÖÕ¡Õ® Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ´Õ¡Õ¶ Õ´Õ¸Õ¤Õ¥Õ¬ Õ§, Õ¸Ö€Õ¨ Õ­Õ½Õ¿Õ¸Ö€Õ¥Õ¶ Õ¢Õ¡ÕªÕ¡Õ¶Õ¾Õ¡Õ® Õ§ Õ¥Ö€Õ¥Ö„ Õ·Õ¥Ö€Õ¿Õ¥Ö€Õ«.
 
-1. **Բնօրինակ**. ուղարկողի կողմից ստեղծված հաղորդակցման օբյեկտը (հաղորդագրությունը) միշտ մնում է անփոփոխ:
-2. **Իմաստային մեկնաբանություն**. համակարգը վերլուծում է ոչ միայն բառերը, այլև իրական իմաստը:
-3. **Թիրախային լեզվի ներկայացում**. AI-ն ստեղծում է բնօրինակի միայն ժամանակավոր կամ պահված ներկայացում համապատասխան ստացողի համար՝ հիմնվելով նրանց նախընտրած լեզվի վրա: Թարգմանությունները երբեք չեն վերագրում բնօրինակ հաղորդագրությունը:
+1. **Ô²Õ¶Ö…Ö€Õ«Õ¶Õ¡Õ¯**. Õ¸Ö‚Õ²Õ¡Ö€Õ¯Õ¸Õ²Õ« Õ¯Õ¸Õ²Õ´Õ«Ö Õ½Õ¿Õ¥Õ²Õ®Õ¾Õ¡Õ® Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ´Õ¡Õ¶ Ö…Õ¢ÕµÕ¥Õ¯Õ¿Õ¨ (Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ£Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨) Õ´Õ«Õ·Õ¿ Õ´Õ¶Õ¸Ö‚Õ´ Õ§ Õ¡Õ¶ÖƒÕ¸ÖƒÕ¸Õ­:
+2. **Ô»Õ´Õ¡Õ½Õ¿Õ¡ÕµÕ«Õ¶ Õ´Õ¥Õ¯Õ¶Õ¡Õ¢Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶**. Õ°Õ¡Õ´Õ¡Õ¯Õ¡Ö€Õ£Õ¨ Õ¾Õ¥Ö€Õ¬Õ¸Ö‚Õ®Õ¸Ö‚Õ´ Õ§ Õ¸Õ¹ Õ´Õ«Õ¡ÕµÕ¶ Õ¢Õ¡Õ¼Õ¥Ö€Õ¨, Õ¡ÕµÕ¬Ö‡ Õ«Ö€Õ¡Õ¯Õ¡Õ¶ Õ«Õ´Õ¡Õ½Õ¿Õ¨:
+3. **Ô¹Õ«Ö€Õ¡Õ­Õ¡ÕµÕ«Õ¶ Õ¬Õ¥Õ¦Õ¾Õ« Õ¶Õ¥Ö€Õ¯Õ¡ÕµÕ¡ÖÕ¸Ö‚Õ´**. AI-Õ¶ Õ½Õ¿Õ¥Õ²Õ®Õ¸Ö‚Õ´ Õ§ Õ¢Õ¶Ö…Ö€Õ«Õ¶Õ¡Õ¯Õ« Õ´Õ«Õ¡ÕµÕ¶ ÕªÕ¡Õ´Õ¡Õ¶Õ¡Õ¯Õ¡Õ¾Õ¸Ö€ Õ¯Õ¡Õ´ ÕºÕ¡Õ°Õ¾Õ¡Õ® Õ¶Õ¥Ö€Õ¯Õ¡ÕµÕ¡ÖÕ¸Ö‚Õ´ Õ°Õ¡Õ´Õ¡ÕºÕ¡Õ¿Õ¡Õ½Õ­Õ¡Õ¶ Õ½Õ¿Õ¡ÖÕ¸Õ²Õ« Õ°Õ¡Õ´Õ¡Ö€Õ Õ°Õ«Õ´Õ¶Õ¾Õ¥Õ¬Õ¸Õ¾ Õ¶Ö€Õ¡Õ¶Ö Õ¶Õ¡Õ­Õ¨Õ¶Õ¿Ö€Õ¡Õ® Õ¬Õ¥Õ¦Õ¾Õ« Õ¾Ö€Õ¡: Ô¹Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¨ Õ¥Ö€Õ¢Õ¥Ö„ Õ¹Õ¥Õ¶ Õ¾Õ¥Ö€Õ¡Õ£Ö€Õ¸Ö‚Õ´ Õ¢Õ¶Ö…Ö€Õ«Õ¶Õ¡Õ¯ Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ£Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨:
 
-### Համատեքստային կախվածություն
-Nexus Gaja-ում թարգմանությունները երբեք առանձին չեն նայում նորություններին: Շարժիչը հաշվի է առնում ամբողջ հիերարխիան.
-«Հաղորդագրություն» → «Նախորդ հաղորդագրություններ» → «Թեմայի համատեքստ» → «Համայնքի համատեքստ» → «Լեզու/տարածաշրջան» → «Օգտվողի նախապատվություններ»
+### Õ€Õ¡Õ´Õ¡Õ¿Õ¥Ö„Õ½Õ¿Õ¡ÕµÕ«Õ¶ Õ¯Õ¡Õ­Õ¾Õ¡Õ®Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶
+Nexus Gaja-Õ¸Ö‚Õ´ Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¨ Õ¥Ö€Õ¢Õ¥Ö„ Õ¡Õ¼Õ¡Õ¶Õ±Õ«Õ¶ Õ¹Õ¥Õ¶ Õ¶Õ¡ÕµÕ¸Ö‚Õ´ Õ¶Õ¸Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ«Õ¶: Õ‡Õ¡Ö€ÕªÕ«Õ¹Õ¨ Õ°Õ¡Õ·Õ¾Õ« Õ§ Õ¡Õ¼Õ¶Õ¸Ö‚Õ´ Õ¡Õ´Õ¢Õ¸Õ²Õ» Õ°Õ«Õ¥Ö€Õ¡Ö€Õ­Õ«Õ¡Õ¶.
+Â«Õ€Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ£Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Â» â†’ Â«Õ†Õ¡Õ­Õ¸Ö€Õ¤ Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ£Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Â» â†’ Â«Ô¹Õ¥Õ´Õ¡ÕµÕ« Õ°Õ¡Õ´Õ¡Õ¿Õ¥Ö„Õ½Õ¿Â» â†’ Â«Õ€Õ¡Õ´Õ¡ÕµÕ¶Ö„Õ« Õ°Õ¡Õ´Õ¡Õ¿Õ¥Ö„Õ½Õ¿Â» â†’ Â«Ô¼Õ¥Õ¦Õ¸Ö‚/Õ¿Õ¡Ö€Õ¡Õ®Õ¡Õ·Ö€Õ»Õ¡Õ¶Â» â†’ Â«Õ•Õ£Õ¿Õ¾Õ¸Õ²Õ« Õ¶Õ¡Õ­Õ¡ÕºÕ¡Õ¿Õ¾Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Â»
 
-### Արդյունավետություն՝ ըստ պահանջի թարգմանության
-Թարգմանությունը կատարվում է միայն **երբ կանչվում է** (ըստ պահանջի) ռեսուրսների խնայողության եղանակով: Երբ օգտատերը խնդրում է բովանդակություն, այն թարգմանվում է իր լռելյայն լեզվով: Հատուկ լեզվի թարգմանությունները մշտապես պահվում են (քեշում) հետագա հարցումները կտրուկ արագացնելու համար:
+### Ô±Ö€Õ¤ÕµÕ¸Ö‚Õ¶Õ¡Õ¾Õ¥Õ¿Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ Õ¨Õ½Õ¿ ÕºÕ¡Õ°Õ¡Õ¶Õ»Õ« Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¡Õ¶
+Ô¹Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Õ¯Õ¡Õ¿Õ¡Ö€Õ¾Õ¸Ö‚Õ´ Õ§ Õ´Õ«Õ¡ÕµÕ¶ **Õ¥Ö€Õ¢ Õ¯Õ¡Õ¶Õ¹Õ¾Õ¸Ö‚Õ´ Õ§** (Õ¨Õ½Õ¿ ÕºÕ¡Õ°Õ¡Õ¶Õ»Õ«) Õ¼Õ¥Õ½Õ¸Ö‚Ö€Õ½Õ¶Õ¥Ö€Õ« Õ­Õ¶Õ¡ÕµÕ¸Õ²Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¥Õ²Õ¡Õ¶Õ¡Õ¯Õ¸Õ¾: ÔµÖ€Õ¢ Ö…Õ£Õ¿Õ¡Õ¿Õ¥Ö€Õ¨ Õ­Õ¶Õ¤Ö€Õ¸Ö‚Õ´ Õ§ Õ¢Õ¸Õ¾Õ¡Õ¶Õ¤Õ¡Õ¯Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶, Õ¡ÕµÕ¶ Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¾Õ¸Ö‚Õ´ Õ§ Õ«Ö€ Õ¬Õ¼Õ¥Õ¬ÕµÕ¡ÕµÕ¶ Õ¬Õ¥Õ¦Õ¾Õ¸Õ¾: Õ€Õ¡Õ¿Õ¸Ö‚Õ¯ Õ¬Õ¥Õ¦Õ¾Õ« Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¨ Õ´Õ·Õ¿Õ¡ÕºÕ¥Õ½ ÕºÕ¡Õ°Õ¾Õ¸Ö‚Õ´ Õ¥Õ¶ (Ö„Õ¥Õ·Õ¸Ö‚Õ´) Õ°Õ¥Õ¿Õ¡Õ£Õ¡ Õ°Õ¡Ö€ÖÕ¸Ö‚Õ´Õ¶Õ¥Ö€Õ¨ Õ¯Õ¿Ö€Õ¸Ö‚Õ¯ Õ¡Ö€Õ¡Õ£Õ¡ÖÕ¶Õ¥Õ¬Õ¸Ö‚ Õ°Õ¡Õ´Õ¡Ö€:
 
-## AI-ով աշխատող մոդերացիա (WP 1.8.4)
+## AI-Õ¸Õ¾ Õ¡Õ·Õ­Õ¡Õ¿Õ¸Õ² Õ´Õ¸Õ¤Õ¥Ö€Õ¡ÖÕ«Õ¡ (WP 1.8.4)
 
 ![Nexus Gaja AI Moderation](assets/img/nexus_moderation.jpg)
 
-Արհեստական ինտելեկտի աջակցությամբ գործող չափավորմամբ մենք մեծ քայլ ենք կատարում արտադրանքի գաղափարից մինչև տեխնիկական ճարտարապետություն և հաշվի ենք առնում ԵՄ ներկայիս կանոնակարգերը (ԵՄ AI ակտի թափանցիկության պարտավորությունները՝ համաձայն Արվեստի 50-ի, Թվային ծառայությունների ակտ՝ հասկանալի հիմնավորումներով և առարկությունների տարբերակներով):
+Ô±Ö€Õ°Õ¥Õ½Õ¿Õ¡Õ¯Õ¡Õ¶ Õ«Õ¶Õ¿Õ¥Õ¬Õ¥Õ¯Õ¿Õ« Õ¡Õ»Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¡Õ´Õ¢ Õ£Õ¸Ö€Õ®Õ¸Õ² Õ¹Õ¡ÖƒÕ¡Õ¾Õ¸Ö€Õ´Õ¡Õ´Õ¢ Õ´Õ¥Õ¶Ö„ Õ´Õ¥Õ® Ö„Õ¡ÕµÕ¬ Õ¥Õ¶Ö„ Õ¯Õ¡Õ¿Õ¡Ö€Õ¸Ö‚Õ´ Õ¡Ö€Õ¿Õ¡Õ¤Ö€Õ¡Õ¶Ö„Õ« Õ£Õ¡Õ²Õ¡ÖƒÕ¡Ö€Õ«Ö Õ´Õ«Õ¶Õ¹Ö‡ Õ¿Õ¥Õ­Õ¶Õ«Õ¯Õ¡Õ¯Õ¡Õ¶ Õ³Õ¡Ö€Õ¿Õ¡Ö€Õ¡ÕºÕ¥Õ¿Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ Ö‡ Õ°Õ¡Õ·Õ¾Õ« Õ¥Õ¶Ö„ Õ¡Õ¼Õ¶Õ¸Ö‚Õ´ ÔµÕ„ Õ¶Õ¥Ö€Õ¯Õ¡ÕµÕ«Õ½ Õ¯Õ¡Õ¶Õ¸Õ¶Õ¡Õ¯Õ¡Ö€Õ£Õ¥Ö€Õ¨ (ÔµÕ„ AI Õ¡Õ¯Õ¿Õ« Õ©Õ¡ÖƒÕ¡Õ¶ÖÕ«Õ¯Õ¸Ö‚Õ©ÕµÕ¡Õ¶ ÕºÕ¡Ö€Õ¿Õ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¨Õ Õ°Õ¡Õ´Õ¡Õ±Õ¡ÕµÕ¶ Ô±Ö€Õ¾Õ¥Õ½Õ¿Õ« 50-Õ«, Ô¹Õ¾Õ¡ÕµÕ«Õ¶ Õ®Õ¡Õ¼Õ¡ÕµÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ« Õ¡Õ¯Õ¿Õ Õ°Õ¡Õ½Õ¯Õ¡Õ¶Õ¡Õ¬Õ« Õ°Õ«Õ´Õ¶Õ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ´Õ¶Õ¥Ö€Õ¸Õ¾ Ö‡ Õ¡Õ¼Õ¡Ö€Õ¯Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ« Õ¿Õ¡Ö€Õ¢Õ¥Ö€Õ¡Õ¯Õ¶Õ¥Ö€Õ¸Õ¾):
 
-### 1. Հիմնական սկզբունք
-Ճարտարապետության համար ամենակարևոր նախադասությունն է՝ **Moderation AI-ն ստուգող համակարգ է և ոչ թե ինքնավար կառավարող համակարգ։**
-Այն նախատեսված է չափավորության մեջ մարդկանց աջակցելու համար, այլ ոչ թե որոշելու, թե որ կարծիքներն են թույլատրվում գոյություն ունենալ Nexus Gaja-ում:
-Այսպիսով, մենք տարբերում ենք երեք բան.
-- **Հայտնաբերել. ** «Այստեղ կարող է կանոնների խախտում լինել»:
-- **Գնահատական:** «Օրինակ, կանոնների խախտման հավանականությունը 94% է»:
-- **Որոշեք.** «Ի՞նչ գործողություն է իրականում ձեռնարկվելու»:
-Երրորդ մակարդակը պետք է մարդկայնորեն վերահսկվի լուրջ դեպքերում.
+### 1. Õ€Õ«Õ´Õ¶Õ¡Õ¯Õ¡Õ¶ Õ½Õ¯Õ¦Õ¢Õ¸Ö‚Õ¶Ö„
+ÕƒÕ¡Ö€Õ¿Õ¡Ö€Õ¡ÕºÕ¥Õ¿Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ°Õ¡Õ´Õ¡Ö€ Õ¡Õ´Õ¥Õ¶Õ¡Õ¯Õ¡Ö€Ö‡Õ¸Ö€ Õ¶Õ¡Õ­Õ¡Õ¤Õ¡Õ½Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶ Õ§Õ **Moderation AI-Õ¶ Õ½Õ¿Õ¸Ö‚Õ£Õ¸Õ² Õ°Õ¡Õ´Õ¡Õ¯Õ¡Ö€Õ£ Õ§ Ö‡ Õ¸Õ¹ Õ©Õ¥ Õ«Õ¶Ö„Õ¶Õ¡Õ¾Õ¡Ö€ Õ¯Õ¡Õ¼Õ¡Õ¾Õ¡Ö€Õ¸Õ² Õ°Õ¡Õ´Õ¡Õ¯Õ¡Ö€Õ£Ö‰**
+Ô±ÕµÕ¶ Õ¶Õ¡Õ­Õ¡Õ¿Õ¥Õ½Õ¾Õ¡Õ® Õ§ Õ¹Õ¡ÖƒÕ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ´Õ¥Õ» Õ´Õ¡Ö€Õ¤Õ¯Õ¡Õ¶Ö Õ¡Õ»Õ¡Õ¯ÖÕ¥Õ¬Õ¸Ö‚ Õ°Õ¡Õ´Õ¡Ö€, Õ¡ÕµÕ¬ Õ¸Õ¹ Õ©Õ¥ Õ¸Ö€Õ¸Õ·Õ¥Õ¬Õ¸Ö‚, Õ©Õ¥ Õ¸Ö€ Õ¯Õ¡Ö€Õ®Õ«Ö„Õ¶Õ¥Ö€Õ¶ Õ¥Õ¶ Õ©Õ¸Ö‚ÕµÕ¬Õ¡Õ¿Ö€Õ¾Õ¸Ö‚Õ´ Õ£Õ¸ÕµÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ Õ¸Ö‚Õ¶Õ¥Õ¶Õ¡Õ¬ Nexus Gaja-Õ¸Ö‚Õ´:
+Ô±ÕµÕ½ÕºÕ«Õ½Õ¸Õ¾, Õ´Õ¥Õ¶Ö„ Õ¿Õ¡Ö€Õ¢Õ¥Ö€Õ¸Ö‚Õ´ Õ¥Õ¶Ö„ Õ¥Ö€Õ¥Ö„ Õ¢Õ¡Õ¶.
+- **Õ€Õ¡ÕµÕ¿Õ¶Õ¡Õ¢Õ¥Ö€Õ¥Õ¬. ** Â«Ô±ÕµÕ½Õ¿Õ¥Õ² Õ¯Õ¡Ö€Õ¸Õ² Õ§ Õ¯Õ¡Õ¶Õ¸Õ¶Õ¶Õ¥Ö€Õ« Õ­Õ¡Õ­Õ¿Õ¸Ö‚Õ´ Õ¬Õ«Õ¶Õ¥Õ¬Â»:
+- **Ô³Õ¶Õ¡Õ°Õ¡Õ¿Õ¡Õ¯Õ¡Õ¶:** Â«Õ•Ö€Õ«Õ¶Õ¡Õ¯, Õ¯Õ¡Õ¶Õ¸Õ¶Õ¶Õ¥Ö€Õ« Õ­Õ¡Õ­Õ¿Õ´Õ¡Õ¶ Õ°Õ¡Õ¾Õ¡Õ¶Õ¡Õ¯Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ 94% Õ§Â»:
+- **ÕˆÖ€Õ¸Õ·Õ¥Ö„.** Â«Ô»ÕžÕ¶Õ¹ Õ£Õ¸Ö€Õ®Õ¸Õ²Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ Õ§ Õ«Ö€Õ¡Õ¯Õ¡Õ¶Õ¸Ö‚Õ´ Õ±Õ¥Õ¼Õ¶Õ¡Ö€Õ¯Õ¾Õ¥Õ¬Õ¸Ö‚Â»:
+ÔµÖ€Ö€Õ¸Ö€Õ¤ Õ´Õ¡Õ¯Õ¡Ö€Õ¤Õ¡Õ¯Õ¨ ÕºÕ¥Õ¿Ö„ Õ§ Õ´Õ¡Ö€Õ¤Õ¯Õ¡ÕµÕ¶Õ¸Ö€Õ¥Õ¶ Õ¾Õ¥Ö€Õ¡Õ°Õ½Õ¯Õ¾Õ« Õ¬Õ¸Ö‚Ö€Õ» Õ¤Õ¥ÕºÖ„Õ¥Ö€Õ¸Ö‚Õ´.
 
-### 2. Մոդերացիոն AI-ն կլինի իր սեփական ենթահամակարգը
-Մեկ AI-ի փոխարեն ստեղծվում է ամուր ենթահամակարգ.
-`` տեքստ
+### 2. Õ„Õ¸Õ¤Õ¥Ö€Õ¡ÖÕ«Õ¸Õ¶ AI-Õ¶ Õ¯Õ¬Õ«Õ¶Õ« Õ«Ö€ Õ½Õ¥ÖƒÕ¡Õ¯Õ¡Õ¶ Õ¥Õ¶Õ©Õ¡Õ°Õ¡Õ´Õ¡Õ¯Õ¡Ö€Õ£Õ¨
+Õ„Õ¥Õ¯ AI-Õ« ÖƒÕ¸Õ­Õ¡Ö€Õ¥Õ¶ Õ½Õ¿Õ¥Õ²Õ®Õ¾Õ¸Ö‚Õ´ Õ§ Õ¡Õ´Õ¸Ö‚Ö€ Õ¥Õ¶Õ©Õ¡Õ°Õ¡Õ´Õ¡Õ¯Õ¡Ö€Õ£.
+`` Õ¿Õ¥Ö„Õ½Õ¿
                  NEXUS GAJA AI MODERATION
-                          │
-       ┌────────────────── ┼──────────────────┐
-       │ │ │
-  Լեզուն AI Safety AI խարդախություն AI
-       │ │ │
-       ├──────────────┬─── ┴──────────────┬───┤
-       │ │ │
- Թարգմանության վարքագծի ինքնությունը
- Վերլուծության վերլուծության ազդանշաններ
-       │ │ │
-       └──────────────┼───-
-                      ▼
-               Ռիսկերի գնահատում
-                      │
-                      ▼
+                          â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â”‚ â”‚ â”‚
+  Ô¼Õ¥Õ¦Õ¸Ö‚Õ¶ AI Safety AI Õ­Õ¡Ö€Õ¤Õ¡Õ­Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ AI
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€ â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”¤
+       â”‚ â”‚ â”‚
+ Ô¹Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¾Õ¡Ö€Ö„Õ¡Õ£Õ®Õ« Õ«Õ¶Ö„Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨
+ ÕŽÕ¥Ö€Õ¬Õ¸Ö‚Õ®Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¾Õ¥Ö€Õ¬Õ¸Ö‚Õ®Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¡Õ¦Õ¤Õ¡Õ¶Õ·Õ¡Õ¶Õ¶Õ¥Ö€
+       â”‚ â”‚ â”‚
+       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€-
+                      â–¼
+               ÕŒÕ«Õ½Õ¯Õ¥Ö€Õ« Õ£Õ¶Õ¡Õ°Õ¡Õ¿Õ¸Ö‚Õ´
+                      â”‚
+                      â–¼
                Human Review
 ```
 
-### 3. Ամենակարևոր AI մոդուլները
-Nexus Gaja-ի համար կան ինը մասնագիտացված վերլուծության ոլորտներ.
-- **M1 – Լեզվի ըմբռնում**. Հայտնաբերում է լեզուն, բարբառը, ժարգոնը, հեգնական ցուցիչները, թարգմանության խնդիրները:
-- **M2 – Թունավորություն / Չարաշահման հայտնաբերում**. Հայտնաբերում է վիրավորանքները, անձնական հարձակումները, ոտնձգությունները:
-- **M3 – Սպառնալիքների հայտնաբերում**. Հայտնաբերում է հնարավոր սպառնալիքները, շանտաժը և բռնության սպառնալիքները:
-- **M4 – Ատելություն / Ապամարդկայնացման հայտնաբերում**. Հայտնաբերում է թիրախավորված հարձակումները մարդկանց վրա՝ հիմնված հատուկ պատկանելության վրա:
-- **M5 – Սպամի / մանիպուլյացիայի հայտնաբերում **. Հայտնաբերում է սպամ, բոտի վարքագիծ, համակարգված մանիպուլյացիա:
-- **M6 – Խարդախության հայտնաբերում**. Հայտնաբերում է կասկածելի խարդախության փորձեր, ֆիշինգ, սոցիալական ճարտարագիտություն:
-- **M7 – Ինքնության ամբողջականություն**. Ստուգում է ազդանշանները հաշվի գրավման, բազմաթիվ հաշիվների, արգելափակման շրջանցման վերաբերյալ:
-- **M8 – Մեդիա անվտանգություն**. Վերլուծում է պատկերները, աուդիո, վիդեո, փաստաթղթերը:
-- **M9 – Համատեքստային շարժիչ **: Ամենակարևոր մոդուլը: Այն միավորում է անհատական ​​բացահայտումները:
+### 3. Ô±Õ´Õ¥Õ¶Õ¡Õ¯Õ¡Ö€Ö‡Õ¸Ö€ AI Õ´Õ¸Õ¤Õ¸Ö‚Õ¬Õ¶Õ¥Ö€Õ¨
+Nexus Gaja-Õ« Õ°Õ¡Õ´Õ¡Ö€ Õ¯Õ¡Õ¶ Õ«Õ¶Õ¨ Õ´Õ¡Õ½Õ¶Õ¡Õ£Õ«Õ¿Õ¡ÖÕ¾Õ¡Õ® Õ¾Õ¥Ö€Õ¬Õ¸Ö‚Õ®Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¸Õ¬Õ¸Ö€Õ¿Õ¶Õ¥Ö€.
+- **M1 â€“ Ô¼Õ¥Õ¦Õ¾Õ« Õ¨Õ´Õ¢Õ¼Õ¶Õ¸Ö‚Õ´**. Õ€Õ¡ÕµÕ¿Õ¶Õ¡Õ¢Õ¥Ö€Õ¸Ö‚Õ´ Õ§ Õ¬Õ¥Õ¦Õ¸Ö‚Õ¶, Õ¢Õ¡Ö€Õ¢Õ¡Õ¼Õ¨, ÕªÕ¡Ö€Õ£Õ¸Õ¶Õ¨, Õ°Õ¥Õ£Õ¶Õ¡Õ¯Õ¡Õ¶ ÖÕ¸Ö‚ÖÕ«Õ¹Õ¶Õ¥Ö€Õ¨, Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ­Õ¶Õ¤Õ«Ö€Õ¶Õ¥Ö€Õ¨:
+- **M2 â€“ Ô¹Õ¸Ö‚Õ¶Õ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ / Õ‰Õ¡Ö€Õ¡Õ·Õ¡Õ°Õ´Õ¡Õ¶ Õ°Õ¡ÕµÕ¿Õ¶Õ¡Õ¢Õ¥Ö€Õ¸Ö‚Õ´**. Õ€Õ¡ÕµÕ¿Õ¶Õ¡Õ¢Õ¥Ö€Õ¸Ö‚Õ´ Õ§ Õ¾Õ«Ö€Õ¡Õ¾Õ¸Ö€Õ¡Õ¶Ö„Õ¶Õ¥Ö€Õ¨, Õ¡Õ¶Õ±Õ¶Õ¡Õ¯Õ¡Õ¶ Õ°Õ¡Ö€Õ±Õ¡Õ¯Õ¸Ö‚Õ´Õ¶Õ¥Ö€Õ¨, Õ¸Õ¿Õ¶Õ±Õ£Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¨:
+- **M3 â€“ ÕÕºÕ¡Õ¼Õ¶Õ¡Õ¬Õ«Ö„Õ¶Õ¥Ö€Õ« Õ°Õ¡ÕµÕ¿Õ¶Õ¡Õ¢Õ¥Ö€Õ¸Ö‚Õ´**. Õ€Õ¡ÕµÕ¿Õ¶Õ¡Õ¢Õ¥Ö€Õ¸Ö‚Õ´ Õ§ Õ°Õ¶Õ¡Ö€Õ¡Õ¾Õ¸Ö€ Õ½ÕºÕ¡Õ¼Õ¶Õ¡Õ¬Õ«Ö„Õ¶Õ¥Ö€Õ¨, Õ·Õ¡Õ¶Õ¿Õ¡ÕªÕ¨ Ö‡ Õ¢Õ¼Õ¶Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ½ÕºÕ¡Õ¼Õ¶Õ¡Õ¬Õ«Ö„Õ¶Õ¥Ö€Õ¨:
+- **M4 â€“ Ô±Õ¿Õ¥Õ¬Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ / Ô±ÕºÕ¡Õ´Õ¡Ö€Õ¤Õ¯Õ¡ÕµÕ¶Õ¡ÖÕ´Õ¡Õ¶ Õ°Õ¡ÕµÕ¿Õ¶Õ¡Õ¢Õ¥Ö€Õ¸Ö‚Õ´**. Õ€Õ¡ÕµÕ¿Õ¶Õ¡Õ¢Õ¥Ö€Õ¸Ö‚Õ´ Õ§ Õ©Õ«Ö€Õ¡Õ­Õ¡Õ¾Õ¸Ö€Õ¾Õ¡Õ® Õ°Õ¡Ö€Õ±Õ¡Õ¯Õ¸Ö‚Õ´Õ¶Õ¥Ö€Õ¨ Õ´Õ¡Ö€Õ¤Õ¯Õ¡Õ¶Ö Õ¾Ö€Õ¡Õ Õ°Õ«Õ´Õ¶Õ¾Õ¡Õ® Õ°Õ¡Õ¿Õ¸Ö‚Õ¯ ÕºÕ¡Õ¿Õ¯Õ¡Õ¶Õ¥Õ¬Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¾Ö€Õ¡:
+- **M5 â€“ ÕÕºÕ¡Õ´Õ« / Õ´Õ¡Õ¶Õ«ÕºÕ¸Ö‚Õ¬ÕµÕ¡ÖÕ«Õ¡ÕµÕ« Õ°Õ¡ÕµÕ¿Õ¶Õ¡Õ¢Õ¥Ö€Õ¸Ö‚Õ´ **. Õ€Õ¡ÕµÕ¿Õ¶Õ¡Õ¢Õ¥Ö€Õ¸Ö‚Õ´ Õ§ Õ½ÕºÕ¡Õ´, Õ¢Õ¸Õ¿Õ« Õ¾Õ¡Ö€Ö„Õ¡Õ£Õ«Õ®, Õ°Õ¡Õ´Õ¡Õ¯Õ¡Ö€Õ£Õ¾Õ¡Õ® Õ´Õ¡Õ¶Õ«ÕºÕ¸Ö‚Õ¬ÕµÕ¡ÖÕ«Õ¡:
+- **M6 â€“ Ô½Õ¡Ö€Õ¤Õ¡Õ­Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ°Õ¡ÕµÕ¿Õ¶Õ¡Õ¢Õ¥Ö€Õ¸Ö‚Õ´**. Õ€Õ¡ÕµÕ¿Õ¶Õ¡Õ¢Õ¥Ö€Õ¸Ö‚Õ´ Õ§ Õ¯Õ¡Õ½Õ¯Õ¡Õ®Õ¥Õ¬Õ« Õ­Õ¡Ö€Õ¤Õ¡Õ­Õ¸Ö‚Õ©ÕµÕ¡Õ¶ ÖƒÕ¸Ö€Õ±Õ¥Ö€, Ö†Õ«Õ·Õ«Õ¶Õ£, Õ½Õ¸ÖÕ«Õ¡Õ¬Õ¡Õ¯Õ¡Õ¶ Õ³Õ¡Ö€Õ¿Õ¡Ö€Õ¡Õ£Õ«Õ¿Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶:
+- **M7 â€“ Ô»Õ¶Ö„Õ¶Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¡Õ´Õ¢Õ¸Õ²Õ»Õ¡Õ¯Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶**. ÕÕ¿Õ¸Ö‚Õ£Õ¸Ö‚Õ´ Õ§ Õ¡Õ¦Õ¤Õ¡Õ¶Õ·Õ¡Õ¶Õ¶Õ¥Ö€Õ¨ Õ°Õ¡Õ·Õ¾Õ« Õ£Ö€Õ¡Õ¾Õ´Õ¡Õ¶, Õ¢Õ¡Õ¦Õ´Õ¡Õ©Õ«Õ¾ Õ°Õ¡Õ·Õ«Õ¾Õ¶Õ¥Ö€Õ«, Õ¡Ö€Õ£Õ¥Õ¬Õ¡ÖƒÕ¡Õ¯Õ´Õ¡Õ¶ Õ·Ö€Õ»Õ¡Õ¶ÖÕ´Õ¡Õ¶ Õ¾Õ¥Ö€Õ¡Õ¢Õ¥Ö€ÕµÕ¡Õ¬:
+- **M8 â€“ Õ„Õ¥Õ¤Õ«Õ¡ Õ¡Õ¶Õ¾Õ¿Õ¡Õ¶Õ£Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶**. ÕŽÕ¥Ö€Õ¬Õ¸Ö‚Õ®Õ¸Ö‚Õ´ Õ§ ÕºÕ¡Õ¿Õ¯Õ¥Ö€Õ¶Õ¥Ö€Õ¨, Õ¡Õ¸Ö‚Õ¤Õ«Õ¸, Õ¾Õ«Õ¤Õ¥Õ¸, ÖƒÕ¡Õ½Õ¿Õ¡Õ©Õ²Õ©Õ¥Ö€Õ¨:
+- **M9 â€“ Õ€Õ¡Õ´Õ¡Õ¿Õ¥Ö„Õ½Õ¿Õ¡ÕµÕ«Õ¶ Õ·Õ¡Ö€ÕªÕ«Õ¹ **: Ô±Õ´Õ¥Õ¶Õ¡Õ¯Õ¡Ö€Ö‡Õ¸Ö€ Õ´Õ¸Õ¤Õ¸Ö‚Õ¬Õ¨: Ô±ÕµÕ¶ Õ´Õ«Õ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ´ Õ§ Õ¡Õ¶Õ°Õ¡Õ¿Õ¡Õ¯Õ¡Õ¶ â€‹â€‹Õ¢Õ¡ÖÕ¡Õ°Õ¡ÕµÕ¿Õ¸Ö‚Õ´Õ¶Õ¥Ö€Õ¨:
 
-### 4. Ինչու է համատեքստային շարժիչն այդքան կարևոր
-Մաքուր հիմնաբառի որոնումը անբավարար կլինի: «Ես կարող էի սպանել նրան ծիծաղելով»-ը պարունակում է իմաստային բռնություն, բայց խոսքի պատկեր է: «Վաղը ժամը 20.00-ին կկրակեմ իր տան դիմաց» լրիվ այլ իրավիճակ է։ AI-ն պետք է հասկանա, թե ինչ է նշանակում հայտարարությունը այս կոնկրետ համատեքստում:
+### 4. Ô»Õ¶Õ¹Õ¸Ö‚ Õ§ Õ°Õ¡Õ´Õ¡Õ¿Õ¥Ö„Õ½Õ¿Õ¡ÕµÕ«Õ¶ Õ·Õ¡Ö€ÕªÕ«Õ¹Õ¶ Õ¡ÕµÕ¤Ö„Õ¡Õ¶ Õ¯Õ¡Ö€Ö‡Õ¸Ö€
+Õ„Õ¡Ö„Õ¸Ö‚Ö€ Õ°Õ«Õ´Õ¶Õ¡Õ¢Õ¡Õ¼Õ« Õ¸Ö€Õ¸Õ¶Õ¸Ö‚Õ´Õ¨ Õ¡Õ¶Õ¢Õ¡Õ¾Õ¡Ö€Õ¡Ö€ Õ¯Õ¬Õ«Õ¶Õ«: Â«ÔµÕ½ Õ¯Õ¡Ö€Õ¸Õ² Õ§Õ« Õ½ÕºÕ¡Õ¶Õ¥Õ¬ Õ¶Ö€Õ¡Õ¶ Õ®Õ«Õ®Õ¡Õ²Õ¥Õ¬Õ¸Õ¾Â»-Õ¨ ÕºÕ¡Ö€Õ¸Ö‚Õ¶Õ¡Õ¯Õ¸Ö‚Õ´ Õ§ Õ«Õ´Õ¡Õ½Õ¿Õ¡ÕµÕ«Õ¶ Õ¢Õ¼Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶, Õ¢Õ¡ÕµÖ Õ­Õ¸Õ½Ö„Õ« ÕºÕ¡Õ¿Õ¯Õ¥Ö€ Õ§: Â«ÕŽÕ¡Õ²Õ¨ ÕªÕ¡Õ´Õ¨ 20.00-Õ«Õ¶ Õ¯Õ¯Ö€Õ¡Õ¯Õ¥Õ´ Õ«Ö€ Õ¿Õ¡Õ¶ Õ¤Õ«Õ´Õ¡ÖÂ» Õ¬Ö€Õ«Õ¾ Õ¡ÕµÕ¬ Õ«Ö€Õ¡Õ¾Õ«Õ³Õ¡Õ¯ Õ§Ö‰ AI-Õ¶ ÕºÕ¥Õ¿Ö„ Õ§ Õ°Õ¡Õ½Õ¯Õ¡Õ¶Õ¡, Õ©Õ¥ Õ«Õ¶Õ¹ Õ§ Õ¶Õ·Õ¡Õ¶Õ¡Õ¯Õ¸Ö‚Õ´ Õ°Õ¡ÕµÕ¿Õ¡Ö€Õ¡Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Õ¡ÕµÕ½ Õ¯Õ¸Õ¶Õ¯Ö€Õ¥Õ¿ Õ°Õ¡Õ´Õ¡Õ¿Õ¥Ö„Õ½Õ¿Õ¸Ö‚Õ´:
 
-### 5. Բազմալեզու չափավորություն
-Չափավորությունը չի կարող պարզապես բառերը համեմատել: Այն պետք է վերլուծի իմաստի մակարդակը (օրինակ՝ գերմանական արտահայտություններն ընդդեմ ճապոնական իդիոմների ընդդեմ տարածաշրջանային արտահայտությունների):
+### 5. Ô²Õ¡Õ¦Õ´Õ¡Õ¬Õ¥Õ¦Õ¸Ö‚ Õ¹Õ¡ÖƒÕ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶
+Õ‰Õ¡ÖƒÕ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Õ¹Õ« Õ¯Õ¡Ö€Õ¸Õ² ÕºÕ¡Ö€Õ¦Õ¡ÕºÕ¥Õ½ Õ¢Õ¡Õ¼Õ¥Ö€Õ¨ Õ°Õ¡Õ´Õ¥Õ´Õ¡Õ¿Õ¥Õ¬: Ô±ÕµÕ¶ ÕºÕ¥Õ¿Ö„ Õ§ Õ¾Õ¥Ö€Õ¬Õ¸Ö‚Õ®Õ« Õ«Õ´Õ¡Õ½Õ¿Õ« Õ´Õ¡Õ¯Õ¡Ö€Õ¤Õ¡Õ¯Õ¨ (Ö…Ö€Õ«Õ¶Õ¡Õ¯Õ Õ£Õ¥Ö€Õ´Õ¡Õ¶Õ¡Õ¯Õ¡Õ¶ Õ¡Ö€Õ¿Õ¡Õ°Õ¡ÕµÕ¿Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¶ Õ¨Õ¶Õ¤Õ¤Õ¥Õ´ Õ³Õ¡ÕºÕ¸Õ¶Õ¡Õ¯Õ¡Õ¶ Õ«Õ¤Õ«Õ¸Õ´Õ¶Õ¥Ö€Õ« Õ¨Õ¶Õ¤Õ¤Õ¥Õ´ Õ¿Õ¡Ö€Õ¡Õ®Õ¡Õ·Ö€Õ»Õ¡Õ¶Õ¡ÕµÕ«Õ¶ Õ¡Ö€Õ¿Õ¡Õ°Õ¡ÕµÕ¿Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ«):
 
-### 6. Բնօրինակ լեզու + թարգմանություն
-Բնագիրը և թարգմանությունը վերլուծվում են առանձին։ Միայն դրանից հետո է տեղի ունենում «Համակցված չափավորության գնահատումը»: Այս կերպ Nexus Gaja-ն կարող է որոշել՝ արդյոք թարգմանությունն ինքնին կարող է սրել կամ փոխել իրավիճակը։
+### 6. Ô²Õ¶Ö…Ö€Õ«Õ¶Õ¡Õ¯ Õ¬Õ¥Õ¦Õ¸Ö‚ + Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶
+Ô²Õ¶Õ¡Õ£Õ«Ö€Õ¨ Ö‡ Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Õ¾Õ¥Ö€Õ¬Õ¸Ö‚Õ®Õ¾Õ¸Ö‚Õ´ Õ¥Õ¶ Õ¡Õ¼Õ¡Õ¶Õ±Õ«Õ¶Ö‰ Õ„Õ«Õ¡ÕµÕ¶ Õ¤Ö€Õ¡Õ¶Õ«Ö Õ°Õ¥Õ¿Õ¸ Õ§ Õ¿Õ¥Õ²Õ« Õ¸Ö‚Õ¶Õ¥Õ¶Õ¸Ö‚Õ´ Â«Õ€Õ¡Õ´Õ¡Õ¯ÖÕ¾Õ¡Õ® Õ¹Õ¡ÖƒÕ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ£Õ¶Õ¡Õ°Õ¡Õ¿Õ¸Ö‚Õ´Õ¨Â»: Ô±ÕµÕ½ Õ¯Õ¥Ö€Õº Nexus Gaja-Õ¶ Õ¯Õ¡Ö€Õ¸Õ² Õ§ Õ¸Ö€Õ¸Õ·Õ¥Õ¬Õ Õ¡Ö€Õ¤ÕµÕ¸Ö„ Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶ Õ«Õ¶Ö„Õ¶Õ«Õ¶ Õ¯Õ¡Ö€Õ¸Õ² Õ§ Õ½Ö€Õ¥Õ¬ Õ¯Õ¡Õ´ ÖƒÕ¸Õ­Õ¥Õ¬ Õ«Ö€Õ¡Õ¾Õ«Õ³Õ¡Õ¯Õ¨Ö‰
 
-### 7. Վստահության միավոր
-AI-ի յուրաքանչյուր գնահատում ստանում է վստահության արժեք (օրինակ՝ սպառնալիքի հավանականություն՝ 0,96): Բայց. **Վստահության միավոր ≠ Ճշմարտություն:** 96% միավորը միայն նշանակում է, որ մոդելը շատ վստահ է իր դասակարգման մեջ, և պարտադիր չէ, որ օգտատերը մեղավոր է:
+### 7. ÕŽÕ½Õ¿Õ¡Õ°Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ´Õ«Õ¡Õ¾Õ¸Ö€
+AI-Õ« ÕµÕ¸Ö‚Ö€Õ¡Ö„Õ¡Õ¶Õ¹ÕµÕ¸Ö‚Ö€ Õ£Õ¶Õ¡Õ°Õ¡Õ¿Õ¸Ö‚Õ´ Õ½Õ¿Õ¡Õ¶Õ¸Ö‚Õ´ Õ§ Õ¾Õ½Õ¿Õ¡Õ°Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¡Ö€ÕªÕ¥Ö„ (Ö…Ö€Õ«Õ¶Õ¡Õ¯Õ Õ½ÕºÕ¡Õ¼Õ¶Õ¡Õ¬Õ«Ö„Õ« Õ°Õ¡Õ¾Õ¡Õ¶Õ¡Õ¯Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ 0,96): Ô²Õ¡ÕµÖ. **ÕŽÕ½Õ¿Õ¡Õ°Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ´Õ«Õ¡Õ¾Õ¸Ö€ â‰  ÕƒÕ·Õ´Õ¡Ö€Õ¿Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶:** 96% Õ´Õ«Õ¡Õ¾Õ¸Ö€Õ¨ Õ´Õ«Õ¡ÕµÕ¶ Õ¶Õ·Õ¡Õ¶Õ¡Õ¯Õ¸Ö‚Õ´ Õ§, Õ¸Ö€ Õ´Õ¸Õ¤Õ¥Õ¬Õ¨ Õ·Õ¡Õ¿ Õ¾Õ½Õ¿Õ¡Õ° Õ§ Õ«Ö€ Õ¤Õ¡Õ½Õ¡Õ¯Õ¡Ö€Õ£Õ´Õ¡Õ¶ Õ´Õ¥Õ», Ö‡ ÕºÕ¡Ö€Õ¿Õ¡Õ¤Õ«Ö€ Õ¹Õ§, Õ¸Ö€ Ö…Õ£Õ¿Õ¡Õ¿Õ¥Ö€Õ¨ Õ´Õ¥Õ²Õ¡Õ¾Õ¸Ö€ Õ§:
 
-### 8. Անորոշությունն ինքնին ազդանշան է դառնում
-Եթե AI-ն անորոշ է (օրինակ՝ սպառնալիք՝ 0,62, երգիծանք՝ 0,54), այն չի կարող պարզապես կոշտ գործողությունների դիմել։ Փոխարենը, անորոշությունն ուղղակիորեն ներկառուցված է ճարտարապետության մեջ. **Պահանջվում է մարդկային վերանայում**:
+### 8. Ô±Õ¶Õ¸Ö€Õ¸Õ·Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶ Õ«Õ¶Ö„Õ¶Õ«Õ¶ Õ¡Õ¦Õ¤Õ¡Õ¶Õ·Õ¡Õ¶ Õ§ Õ¤Õ¡Õ¼Õ¶Õ¸Ö‚Õ´
+ÔµÕ©Õ¥ AI-Õ¶ Õ¡Õ¶Õ¸Ö€Õ¸Õ· Õ§ (Ö…Ö€Õ«Õ¶Õ¡Õ¯Õ Õ½ÕºÕ¡Õ¼Õ¶Õ¡Õ¬Õ«Ö„Õ 0,62, Õ¥Ö€Õ£Õ«Õ®Õ¡Õ¶Ö„Õ 0,54), Õ¡ÕµÕ¶ Õ¹Õ« Õ¯Õ¡Ö€Õ¸Õ² ÕºÕ¡Ö€Õ¦Õ¡ÕºÕ¥Õ½ Õ¯Õ¸Õ·Õ¿ Õ£Õ¸Ö€Õ®Õ¸Õ²Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ« Õ¤Õ«Õ´Õ¥Õ¬Ö‰ Õ“Õ¸Õ­Õ¡Ö€Õ¥Õ¶Õ¨, Õ¡Õ¶Õ¸Ö€Õ¸Õ·Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶ Õ¸Ö‚Õ²Õ²Õ¡Õ¯Õ«Õ¸Ö€Õ¥Õ¶ Õ¶Õ¥Ö€Õ¯Õ¡Õ¼Õ¸Ö‚ÖÕ¾Õ¡Õ® Õ§ Õ³Õ¡Ö€Õ¿Õ¡Ö€Õ¡ÕºÕ¥Õ¿Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ´Õ¥Õ». **ÕŠÕ¡Õ°Õ¡Õ¶Õ»Õ¾Õ¸Ö‚Õ´ Õ§ Õ´Õ¡Ö€Õ¤Õ¯Õ¡ÕµÕ«Õ¶ Õ¾Õ¥Ö€Õ¡Õ¶Õ¡ÕµÕ¸Ö‚Õ´**:
 
-### 9. Որոշման չորս ոլորտներ
-- **ԿԱՆԱՉ**: Ամենայն հավանականությամբ, համապատասխանում է: → ոչ մի գործողություն.
-- **ԴԵՂԻՆ**՝ Հնարավոր խախտում։ → դիտարկել / անհրաժեշտության դեպքում նշել:
-- **ՕՐԱՆՋ**՝ Հավանական խախտում։ → Չափավորության ստուգում:
-- 🔴 **ԿԱՐՄԻՐ**. Խոշոր հնարավոր խախտում. → անհապաղ պաշտպանիչ միջոց + մարդկանց փորձարկում։
+### 9. ÕˆÖ€Õ¸Õ·Õ´Õ¡Õ¶ Õ¹Õ¸Ö€Õ½ Õ¸Õ¬Õ¸Ö€Õ¿Õ¶Õ¥Ö€
+- **Ô¿Ô±Õ†Ô±Õ‰**: Ô±Õ´Õ¥Õ¶Õ¡ÕµÕ¶ Õ°Õ¡Õ¾Õ¡Õ¶Õ¡Õ¯Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¡Õ´Õ¢, Õ°Õ¡Õ´Õ¡ÕºÕ¡Õ¿Õ¡Õ½Õ­Õ¡Õ¶Õ¸Ö‚Õ´ Õ§: â†’ Õ¸Õ¹ Õ´Õ« Õ£Õ¸Ö€Õ®Õ¸Õ²Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶.
+- **Ô´ÔµÕ‚Ô»Õ†**Õ Õ€Õ¶Õ¡Ö€Õ¡Õ¾Õ¸Ö€ Õ­Õ¡Õ­Õ¿Õ¸Ö‚Õ´Ö‰ â†’ Õ¤Õ«Õ¿Õ¡Ö€Õ¯Õ¥Õ¬ / Õ¡Õ¶Õ°Ö€Õ¡ÕªÕ¥Õ·Õ¿Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¤Õ¥ÕºÖ„Õ¸Ö‚Õ´ Õ¶Õ·Õ¥Õ¬:
+- **Õ•ÕÔ±Õ†Õ‹**Õ Õ€Õ¡Õ¾Õ¡Õ¶Õ¡Õ¯Õ¡Õ¶ Õ­Õ¡Õ­Õ¿Õ¸Ö‚Õ´Ö‰ â†’ Õ‰Õ¡ÖƒÕ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ½Õ¿Õ¸Ö‚Õ£Õ¸Ö‚Õ´:
+- ðŸ”´ **Ô¿Ô±ÕÕ„Ô»Õ**. Ô½Õ¸Õ·Õ¸Ö€ Õ°Õ¶Õ¡Ö€Õ¡Õ¾Õ¸Ö€ Õ­Õ¡Õ­Õ¿Õ¸Ö‚Õ´. â†’ Õ¡Õ¶Õ°Õ¡ÕºÕ¡Õ² ÕºÕ¡Õ·Õ¿ÕºÕ¡Õ¶Õ«Õ¹ Õ´Õ«Õ»Õ¸Ö + Õ´Õ¡Ö€Õ¤Õ¯Õ¡Õ¶Ö ÖƒÕ¸Ö€Õ±Õ¡Ö€Õ¯Õ¸Ö‚Õ´Ö‰
 
-### 10. Առանց «AI տույժի»
-** AI-ն վերջնական պատժամիջոցներ չի սահմանում:** Այն կարող է գործարկել արտակարգ տեխնիկական միջոցներ (օրինակ` հետաձգել հաղորդագրությունը) անվտանգության լուրջ մտահոգությունների դեպքում, սակայն վերջնական որոշումը մնում է ստուգելի:
+### 10. Ô±Õ¼Õ¡Õ¶Ö Â«AI Õ¿Õ¸Ö‚ÕµÕªÕ«Â»
+** AI-Õ¶ Õ¾Õ¥Ö€Õ»Õ¶Õ¡Õ¯Õ¡Õ¶ ÕºÕ¡Õ¿ÕªÕ¡Õ´Õ«Õ»Õ¸ÖÕ¶Õ¥Ö€ Õ¹Õ« Õ½Õ¡Õ°Õ´Õ¡Õ¶Õ¸Ö‚Õ´:** Ô±ÕµÕ¶ Õ¯Õ¡Ö€Õ¸Õ² Õ§ Õ£Õ¸Ö€Õ®Õ¡Ö€Õ¯Õ¥Õ¬ Õ¡Ö€Õ¿Õ¡Õ¯Õ¡Ö€Õ£ Õ¿Õ¥Õ­Õ¶Õ«Õ¯Õ¡Õ¯Õ¡Õ¶ Õ´Õ«Õ»Õ¸ÖÕ¶Õ¥Ö€ (Ö…Ö€Õ«Õ¶Õ¡Õ¯` Õ°Õ¥Õ¿Õ¡Õ±Õ£Õ¥Õ¬ Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ£Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨) Õ¡Õ¶Õ¾Õ¿Õ¡Õ¶Õ£Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¬Õ¸Ö‚Ö€Õ» Õ´Õ¿Õ¡Õ°Õ¸Õ£Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ« Õ¤Õ¥ÕºÖ„Õ¸Ö‚Õ´, Õ½Õ¡Õ¯Õ¡ÕµÕ¶ Õ¾Õ¥Ö€Õ»Õ¶Õ¡Õ¯Õ¡Õ¶ Õ¸Ö€Õ¸Õ·Õ¸Ö‚Õ´Õ¨ Õ´Õ¶Õ¸Ö‚Õ´ Õ§ Õ½Õ¿Õ¸Ö‚Õ£Õ¥Õ¬Õ«:
 
-### 11. Պաշտպանական միջոցառումները կարող են լինել ավտոմատ
-Եթե կա կոնկրետ սպառնալիք (Հայտնաբերվել է սպառնալիք → Բարձր վստահություն → Ժամանակավոր սահմանափակում → Մարդկային վերանայում → Որոշում), մենք պաշտպանում ենք սպառնացող օգտատիրոջը՝ առանց AI-ին դատավոր դարձնելու։
+### 11. ÕŠÕ¡Õ·Õ¿ÕºÕ¡Õ¶Õ¡Õ¯Õ¡Õ¶ Õ´Õ«Õ»Õ¸ÖÕ¡Õ¼Õ¸Ö‚Õ´Õ¶Õ¥Ö€Õ¨ Õ¯Õ¡Ö€Õ¸Õ² Õ¥Õ¶ Õ¬Õ«Õ¶Õ¥Õ¬ Õ¡Õ¾Õ¿Õ¸Õ´Õ¡Õ¿
+ÔµÕ©Õ¥ Õ¯Õ¡ Õ¯Õ¸Õ¶Õ¯Ö€Õ¥Õ¿ Õ½ÕºÕ¡Õ¼Õ¶Õ¡Õ¬Õ«Ö„ (Õ€Õ¡ÕµÕ¿Õ¶Õ¡Õ¢Õ¥Ö€Õ¾Õ¥Õ¬ Õ§ Õ½ÕºÕ¡Õ¼Õ¶Õ¡Õ¬Õ«Ö„ â†’ Ô²Õ¡Ö€Õ±Ö€ Õ¾Õ½Õ¿Õ¡Õ°Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ â†’ ÔºÕ¡Õ´Õ¡Õ¶Õ¡Õ¯Õ¡Õ¾Õ¸Ö€ Õ½Õ¡Õ°Õ´Õ¡Õ¶Õ¡ÖƒÕ¡Õ¯Õ¸Ö‚Õ´ â†’ Õ„Õ¡Ö€Õ¤Õ¯Õ¡ÕµÕ«Õ¶ Õ¾Õ¥Ö€Õ¡Õ¶Õ¡ÕµÕ¸Ö‚Õ´ â†’ ÕˆÖ€Õ¸Õ·Õ¸Ö‚Õ´), Õ´Õ¥Õ¶Ö„ ÕºÕ¡Õ·Õ¿ÕºÕ¡Õ¶Õ¸Ö‚Õ´ Õ¥Õ¶Ö„ Õ½ÕºÕ¡Õ¼Õ¶Õ¡ÖÕ¸Õ² Ö…Õ£Õ¿Õ¡Õ¿Õ«Ö€Õ¸Õ»Õ¨Õ Õ¡Õ¼Õ¡Õ¶Ö AI-Õ«Õ¶ Õ¤Õ¡Õ¿Õ¡Õ¾Õ¸Ö€ Õ¤Õ¡Ö€Õ±Õ¶Õ¥Õ¬Õ¸Ö‚Ö‰
 
-### 12. AI-ն պետք է կարողանա հիմնավորել իր որոշումը
-DSA-ն պահանջում է հստակ և կոնկրետ պատճառներ: AI-ի պատճառները կառուցվածքային ձևով են՝ Կանոն (NG-CONDUCT-004), Հայտնաբերված (Պոտենցիալ կոնկրետ սպառնալիք), Վստահություն (0.94), Համապատասխան համատեքստ (Նախորդ 4 հաղորդագրություն), Առաջարկվող գործողություն (Մարդկային վերանայում):
+### 12. AI-Õ¶ ÕºÕ¥Õ¿Ö„ Õ§ Õ¯Õ¡Ö€Õ¸Õ²Õ¡Õ¶Õ¡ Õ°Õ«Õ´Õ¶Õ¡Õ¾Õ¸Ö€Õ¥Õ¬ Õ«Ö€ Õ¸Ö€Õ¸Õ·Õ¸Ö‚Õ´Õ¨
+DSA-Õ¶ ÕºÕ¡Õ°Õ¡Õ¶Õ»Õ¸Ö‚Õ´ Õ§ Õ°Õ½Õ¿Õ¡Õ¯ Ö‡ Õ¯Õ¸Õ¶Õ¯Ö€Õ¥Õ¿ ÕºÕ¡Õ¿Õ³Õ¡Õ¼Õ¶Õ¥Ö€: AI-Õ« ÕºÕ¡Õ¿Õ³Õ¡Õ¼Õ¶Õ¥Ö€Õ¨ Õ¯Õ¡Õ¼Õ¸Ö‚ÖÕ¾Õ¡Õ®Ö„Õ¡ÕµÕ«Õ¶ Õ±Ö‡Õ¸Õ¾ Õ¥Õ¶Õ Ô¿Õ¡Õ¶Õ¸Õ¶ (NG-CONDUCT-004), Õ€Õ¡ÕµÕ¿Õ¶Õ¡Õ¢Õ¥Ö€Õ¾Õ¡Õ® (ÕŠÕ¸Õ¿Õ¥Õ¶ÖÕ«Õ¡Õ¬ Õ¯Õ¸Õ¶Õ¯Ö€Õ¥Õ¿ Õ½ÕºÕ¡Õ¼Õ¶Õ¡Õ¬Õ«Ö„), ÕŽÕ½Õ¿Õ¡Õ°Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ (0.94), Õ€Õ¡Õ´Õ¡ÕºÕ¡Õ¿Õ¡Õ½Õ­Õ¡Õ¶ Õ°Õ¡Õ´Õ¡Õ¿Õ¥Ö„Õ½Õ¿ (Õ†Õ¡Õ­Õ¸Ö€Õ¤ 4 Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ£Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶), Ô±Õ¼Õ¡Õ»Õ¡Ö€Õ¯Õ¾Õ¸Õ² Õ£Õ¸Ö€Õ®Õ¸Õ²Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ (Õ„Õ¡Ö€Õ¤Õ¯Õ¡ÕµÕ«Õ¶ Õ¾Õ¥Ö€Õ¡Õ¶Õ¡ÕµÕ¸Ö‚Õ´):
 
-### 13. AI-ին չի թույլատրվում գաղտնի փոխել բովանդակությունը
-**Moderation AI-ն երբեք չպետք է աննկատ փոխի բնօրինակ բովանդակությունը:** Ավտոմատ ուղղումները, թարգմանությունները կամ ամփոփումները պահպանում են բնօրինակ բովանդակությունը:
+### 13. AI-Õ«Õ¶ Õ¹Õ« Õ©Õ¸Ö‚ÕµÕ¬Õ¡Õ¿Ö€Õ¾Õ¸Ö‚Õ´ Õ£Õ¡Õ²Õ¿Õ¶Õ« ÖƒÕ¸Õ­Õ¥Õ¬ Õ¢Õ¸Õ¾Õ¡Õ¶Õ¤Õ¡Õ¯Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨
+**Moderation AI-Õ¶ Õ¥Ö€Õ¢Õ¥Ö„ Õ¹ÕºÕ¥Õ¿Ö„ Õ§ Õ¡Õ¶Õ¶Õ¯Õ¡Õ¿ ÖƒÕ¸Õ­Õ« Õ¢Õ¶Ö…Ö€Õ«Õ¶Õ¡Õ¯ Õ¢Õ¸Õ¾Õ¡Õ¶Õ¤Õ¡Õ¯Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨:** Ô±Õ¾Õ¿Õ¸Õ´Õ¡Õ¿ Õ¸Ö‚Õ²Õ²Õ¸Ö‚Õ´Õ¶Õ¥Ö€Õ¨, Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¨ Õ¯Õ¡Õ´ Õ¡Õ´ÖƒÕ¸ÖƒÕ¸Ö‚Õ´Õ¶Õ¥Ö€Õ¨ ÕºÕ¡Õ°ÕºÕ¡Õ¶Õ¸Ö‚Õ´ Õ¥Õ¶ Õ¢Õ¶Ö…Ö€Õ«Õ¶Õ¡Õ¯ Õ¢Õ¸Õ¾Õ¡Õ¶Õ¤Õ¡Õ¯Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨:
 
-### 14. AI-ի կողմից ստեղծված բովանդակություն
-Մենք տարբերակում ենք՝ մարդու կողմից ստեղծված, AI-ի օգնությամբ, AI-ի ստեղծած և AI-ի մանիպուլյացիաների միջև: Սա դառնում է բովանդակության մետատվյալների մի մասը:
+### 14. AI-Õ« Õ¯Õ¸Õ²Õ´Õ«Ö Õ½Õ¿Õ¥Õ²Õ®Õ¾Õ¡Õ® Õ¢Õ¸Õ¾Õ¡Õ¶Õ¤Õ¡Õ¯Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶
+Õ„Õ¥Õ¶Ö„ Õ¿Õ¡Ö€Õ¢Õ¥Ö€Õ¡Õ¯Õ¸Ö‚Õ´ Õ¥Õ¶Ö„Õ Õ´Õ¡Ö€Õ¤Õ¸Ö‚ Õ¯Õ¸Õ²Õ´Õ«Ö Õ½Õ¿Õ¥Õ²Õ®Õ¾Õ¡Õ®, AI-Õ« Ö…Õ£Õ¶Õ¸Ö‚Õ©ÕµÕ¡Õ´Õ¢, AI-Õ« Õ½Õ¿Õ¥Õ²Õ®Õ¡Õ® Ö‡ AI-Õ« Õ´Õ¡Õ¶Õ«ÕºÕ¸Ö‚Õ¬ÕµÕ¡ÖÕ«Õ¡Õ¶Õ¥Ö€Õ« Õ´Õ«Õ»Ö‡: ÕÕ¡ Õ¤Õ¡Õ¼Õ¶Õ¸Ö‚Õ´ Õ§ Õ¢Õ¸Õ¾Õ¡Õ¶Õ¤Õ¡Õ¯Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ´Õ¥Õ¿Õ¡Õ¿Õ¾ÕµÕ¡Õ¬Õ¶Õ¥Ö€Õ« Õ´Õ« Õ´Õ¡Õ½Õ¨:
 
-### 15. AI բովանդակության պիտակավորում և AI-ի ծագման շերտ
-Համաձայն ԵՄ AI ակտի թափանցիկության կանոնների (2026 թվականի օգոստոսից) AI-ի կողմից ստեղծված բովանդակությունը պետք է ճանաչելի լինի: Մենք նախատեսում ենք AI-ի ծագման շերտ, որը պահպանում է մետատվյալները (AI ծագումը, մոդելը, ժամանակի դրոշմը, մարդու ակնարկը):
+### 15. AI Õ¢Õ¸Õ¾Õ¡Õ¶Õ¤Õ¡Õ¯Õ¸Ö‚Õ©ÕµÕ¡Õ¶ ÕºÕ«Õ¿Õ¡Õ¯Õ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ´ Ö‡ AI-Õ« Õ®Õ¡Õ£Õ´Õ¡Õ¶ Õ·Õ¥Ö€Õ¿
+Õ€Õ¡Õ´Õ¡Õ±Õ¡ÕµÕ¶ ÔµÕ„ AI Õ¡Õ¯Õ¿Õ« Õ©Õ¡ÖƒÕ¡Õ¶ÖÕ«Õ¯Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¯Õ¡Õ¶Õ¸Õ¶Õ¶Õ¥Ö€Õ« (2026 Õ©Õ¾Õ¡Õ¯Õ¡Õ¶Õ« Ö…Õ£Õ¸Õ½Õ¿Õ¸Õ½Õ«Ö) AI-Õ« Õ¯Õ¸Õ²Õ´Õ«Ö Õ½Õ¿Õ¥Õ²Õ®Õ¾Õ¡Õ® Õ¢Õ¸Õ¾Õ¡Õ¶Õ¤Õ¡Õ¯Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ ÕºÕ¥Õ¿Ö„ Õ§ Õ³Õ¡Õ¶Õ¡Õ¹Õ¥Õ¬Õ« Õ¬Õ«Õ¶Õ«: Õ„Õ¥Õ¶Ö„ Õ¶Õ¡Õ­Õ¡Õ¿Õ¥Õ½Õ¸Ö‚Õ´ Õ¥Õ¶Ö„ AI-Õ« Õ®Õ¡Õ£Õ´Õ¡Õ¶ Õ·Õ¥Ö€Õ¿, Õ¸Ö€Õ¨ ÕºÕ¡Õ°ÕºÕ¡Õ¶Õ¸Ö‚Õ´ Õ§ Õ´Õ¥Õ¿Õ¡Õ¿Õ¾ÕµÕ¡Õ¬Õ¶Õ¥Ö€Õ¨ (AI Õ®Õ¡Õ£Õ¸Ö‚Õ´Õ¨, Õ´Õ¸Õ¤Õ¥Õ¬Õ¨, ÕªÕ¡Õ´Õ¡Õ¶Õ¡Õ¯Õ« Õ¤Ö€Õ¸Õ·Õ´Õ¨, Õ´Õ¡Ö€Õ¤Õ¸Ö‚ Õ¡Õ¯Õ¶Õ¡Ö€Õ¯Õ¨):
 
-### 16. Deepfake-ի հայտնաբերում
-Ճարտարապետությունը նախատեսված է հայտնաբերելու սինթետիկ պատկերներ, խթանված ձայներ և խորը կեղծիքներ: Բայց ճանաչումը ինքնաբերաբար ապացույց չէ:
+### 16. Deepfake-Õ« Õ°Õ¡ÕµÕ¿Õ¶Õ¡Õ¢Õ¥Ö€Õ¸Ö‚Õ´
+ÕƒÕ¡Ö€Õ¿Õ¡Ö€Õ¡ÕºÕ¥Õ¿Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Õ¶Õ¡Õ­Õ¡Õ¿Õ¥Õ½Õ¾Õ¡Õ® Õ§ Õ°Õ¡ÕµÕ¿Õ¶Õ¡Õ¢Õ¥Ö€Õ¥Õ¬Õ¸Ö‚ Õ½Õ«Õ¶Õ©Õ¥Õ¿Õ«Õ¯ ÕºÕ¡Õ¿Õ¯Õ¥Ö€Õ¶Õ¥Ö€, Õ­Õ©Õ¡Õ¶Õ¾Õ¡Õ® Õ±Õ¡ÕµÕ¶Õ¥Ö€ Ö‡ Õ­Õ¸Ö€Õ¨ Õ¯Õ¥Õ²Õ®Õ«Ö„Õ¶Õ¥Ö€: Ô²Õ¡ÕµÖ Õ³Õ¡Õ¶Õ¡Õ¹Õ¸Ö‚Õ´Õ¨ Õ«Õ¶Ö„Õ¶Õ¡Õ¢Õ¥Ö€Õ¡Õ¢Õ¡Ö€ Õ¡ÕºÕ¡ÖÕ¸Ö‚ÕµÖ Õ¹Õ§:
 
-### 17. Ոչ մի ավտոմատ «ճշմարտության մեքենա» (չափավորություն ≠ փաստերի ստուգում)
-Համակարգը ստուգում է. «Բովանդակությունը խախտում է որևէ կանոն»: (Content Moderation), մյուսը նշում է. «Ի՞նչ տեղեկություններ և աղբյուրներ կան»: (Տեղեկատվական աջակցություն): Կարծիքները պարզապես չեն ջնջվում որպես «սխալ»։
+### 17. ÕˆÕ¹ Õ´Õ« Õ¡Õ¾Õ¿Õ¸Õ´Õ¡Õ¿ Â«Õ³Õ·Õ´Õ¡Ö€Õ¿Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ´Õ¥Ö„Õ¥Õ¶Õ¡Â» (Õ¹Õ¡ÖƒÕ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ â‰  ÖƒÕ¡Õ½Õ¿Õ¥Ö€Õ« Õ½Õ¿Õ¸Ö‚Õ£Õ¸Ö‚Õ´)
+Õ€Õ¡Õ´Õ¡Õ¯Õ¡Ö€Õ£Õ¨ Õ½Õ¿Õ¸Ö‚Õ£Õ¸Ö‚Õ´ Õ§. Â«Ô²Õ¸Õ¾Õ¡Õ¶Õ¤Õ¡Õ¯Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Õ­Õ¡Õ­Õ¿Õ¸Ö‚Õ´ Õ§ Õ¸Ö€Ö‡Õ§ Õ¯Õ¡Õ¶Õ¸Õ¶Â»: (Content Moderation), Õ´ÕµÕ¸Ö‚Õ½Õ¨ Õ¶Õ·Õ¸Ö‚Õ´ Õ§. Â«Ô»ÕžÕ¶Õ¹ Õ¿Õ¥Õ²Õ¥Õ¯Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€ Ö‡ Õ¡Õ²Õ¢ÕµÕ¸Ö‚Ö€Õ¶Õ¥Ö€ Õ¯Õ¡Õ¶Â»: (ÕÕ¥Õ²Õ¥Õ¯Õ¡Õ¿Õ¾Õ¡Õ¯Õ¡Õ¶ Õ¡Õ»Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶): Ô¿Õ¡Ö€Õ®Õ«Ö„Õ¶Õ¥Ö€Õ¨ ÕºÕ¡Ö€Õ¦Õ¡ÕºÕ¥Õ½ Õ¹Õ¥Õ¶ Õ»Õ¶Õ»Õ¾Õ¸Ö‚Õ´ Õ¸Ö€ÕºÕ¥Õ½ Â«Õ½Õ­Õ¡Õ¬Â»Ö‰
 
-### 18. Պաշտպանություն մշակութային սխալ մեկնաբանություններից
-Արհեստական ինտելեկտը պահանջում է **Մշակութային համատեքստային մոդելներ**, որպեսզի կանխեն մեկ երկրի հաղորդակցության նորմը որպես համաշխարհային չափանիշ:
+### 18. ÕŠÕ¡Õ·Õ¿ÕºÕ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ Õ´Õ·Õ¡Õ¯Õ¸Ö‚Õ©Õ¡ÕµÕ«Õ¶ Õ½Õ­Õ¡Õ¬ Õ´Õ¥Õ¯Õ¶Õ¡Õ¢Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ«Ö
+Ô±Ö€Õ°Õ¥Õ½Õ¿Õ¡Õ¯Õ¡Õ¶ Õ«Õ¶Õ¿Õ¥Õ¬Õ¥Õ¯Õ¿Õ¨ ÕºÕ¡Õ°Õ¡Õ¶Õ»Õ¸Ö‚Õ´ Õ§ **Õ„Õ·Õ¡Õ¯Õ¸Ö‚Õ©Õ¡ÕµÕ«Õ¶ Õ°Õ¡Õ´Õ¡Õ¿Õ¥Ö„Õ½Õ¿Õ¡ÕµÕ«Õ¶ Õ´Õ¸Õ¤Õ¥Õ¬Õ¶Õ¥Ö€**, Õ¸Ö€ÕºÕ¥Õ½Õ¦Õ« Õ¯Õ¡Õ¶Õ­Õ¥Õ¶ Õ´Õ¥Õ¯ Õ¥Ö€Õ¯Ö€Õ« Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¶Õ¸Ö€Õ´Õ¨ Õ¸Ö€ÕºÕ¥Õ½ Õ°Õ¡Õ´Õ¡Õ·Õ­Õ¡Ö€Õ°Õ¡ÕµÕ«Õ¶ Õ¹Õ¡ÖƒÕ¡Õ¶Õ«Õ·:
 
-### 19. Հեգնանք, երգիծանք և հումոր
-AI-ն օգտագործում է համատեքստ, էմոջիներ, խոսակցությունների հոսքեր և հայտնի հեգնական կառուցվածքներ, սակայն պետք է թույլ տա անորոշություն, երբ իմաստները պարզ չեն:
+### 19. Õ€Õ¥Õ£Õ¶Õ¡Õ¶Ö„, Õ¥Ö€Õ£Õ«Õ®Õ¡Õ¶Ö„ Ö‡ Õ°Õ¸Ö‚Õ´Õ¸Ö€
+AI-Õ¶ Ö…Õ£Õ¿Õ¡Õ£Õ¸Ö€Õ®Õ¸Ö‚Õ´ Õ§ Õ°Õ¡Õ´Õ¡Õ¿Õ¥Ö„Õ½Õ¿, Õ§Õ´Õ¸Õ»Õ«Õ¶Õ¥Ö€, Õ­Õ¸Õ½Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ« Õ°Õ¸Õ½Ö„Õ¥Ö€ Ö‡ Õ°Õ¡ÕµÕ¿Õ¶Õ« Õ°Õ¥Õ£Õ¶Õ¡Õ¯Õ¡Õ¶ Õ¯Õ¡Õ¼Õ¸Ö‚ÖÕ¾Õ¡Õ®Ö„Õ¶Õ¥Ö€, Õ½Õ¡Õ¯Õ¡ÕµÕ¶ ÕºÕ¥Õ¿Ö„ Õ§ Õ©Õ¸Ö‚ÕµÕ¬ Õ¿Õ¡ Õ¡Õ¶Õ¸Ö€Õ¸Õ·Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶, Õ¥Ö€Õ¢ Õ«Õ´Õ¡Õ½Õ¿Õ¶Õ¥Ö€Õ¨ ÕºÕ¡Ö€Õ¦ Õ¹Õ¥Õ¶:
 
-### 20. Ոչ մի պատիժ՝ հիմնված AI-ի մեկ միավորի վրա
-Ոչ մի լուրջ չափավոր միջամտություն չի կարող հիմնված լինել բացառապես մեկ ավտոմատացված դասակարգման արդյունքի վրա (Տեքստ + համատեքստ + վարքագիծ + լեզու + լրատվամիջոց + կանոնների շարժիչ = ռիսկի գնահատում):
+### 20. ÕˆÕ¹ Õ´Õ« ÕºÕ¡Õ¿Õ«ÕªÕ Õ°Õ«Õ´Õ¶Õ¾Õ¡Õ® AI-Õ« Õ´Õ¥Õ¯ Õ´Õ«Õ¡Õ¾Õ¸Ö€Õ« Õ¾Ö€Õ¡
+ÕˆÕ¹ Õ´Õ« Õ¬Õ¸Ö‚Ö€Õ» Õ¹Õ¡ÖƒÕ¡Õ¾Õ¸Ö€ Õ´Õ«Õ»Õ¡Õ´Õ¿Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ Õ¹Õ« Õ¯Õ¡Ö€Õ¸Õ² Õ°Õ«Õ´Õ¶Õ¾Õ¡Õ® Õ¬Õ«Õ¶Õ¥Õ¬ Õ¢Õ¡ÖÕ¡Õ¼Õ¡ÕºÕ¥Õ½ Õ´Õ¥Õ¯ Õ¡Õ¾Õ¿Õ¸Õ´Õ¡Õ¿Õ¡ÖÕ¾Õ¡Õ® Õ¤Õ¡Õ½Õ¡Õ¯Õ¡Ö€Õ£Õ´Õ¡Õ¶ Õ¡Ö€Õ¤ÕµÕ¸Ö‚Õ¶Ö„Õ« Õ¾Ö€Õ¡ (ÕÕ¥Ö„Õ½Õ¿ + Õ°Õ¡Õ´Õ¡Õ¿Õ¥Ö„Õ½Õ¿ + Õ¾Õ¡Ö€Ö„Õ¡Õ£Õ«Õ® + Õ¬Õ¥Õ¦Õ¸Ö‚ + Õ¬Ö€Õ¡Õ¿Õ¾Õ¡Õ´Õ«Õ»Õ¸Ö + Õ¯Õ¡Õ¶Õ¸Õ¶Õ¶Õ¥Ö€Õ« Õ·Õ¡Ö€ÕªÕ«Õ¹ = Õ¼Õ«Õ½Õ¯Õ« Õ£Õ¶Õ¡Õ°Õ¡Õ¿Õ¸Ö‚Õ´):
 
-### 21. Օգտագործողի վարքագծի ազդանշաններ և սոցիալական վարկային համակարգ չկա
-Խոսքը տեխնիկական չարաշահման ազդանշանների մասին է (օրինակ՝ սպամի զանգվածային հրապարակումը), այլ ոչ թե ընդհանուր սոցիալական վարկանիշային համակարգի: Nexus Gaja-ն սոցիալական կրեդիտային համակարգ չի գործում. չափավորությունը անվտանգության համար է, այլ ոչ թե անձի արժեքը գնահատելու համար:
+### 21. Õ•Õ£Õ¿Õ¡Õ£Õ¸Ö€Õ®Õ¸Õ²Õ« Õ¾Õ¡Ö€Ö„Õ¡Õ£Õ®Õ« Õ¡Õ¦Õ¤Õ¡Õ¶Õ·Õ¡Õ¶Õ¶Õ¥Ö€ Ö‡ Õ½Õ¸ÖÕ«Õ¡Õ¬Õ¡Õ¯Õ¡Õ¶ Õ¾Õ¡Ö€Õ¯Õ¡ÕµÕ«Õ¶ Õ°Õ¡Õ´Õ¡Õ¯Õ¡Ö€Õ£ Õ¹Õ¯Õ¡
+Ô½Õ¸Õ½Ö„Õ¨ Õ¿Õ¥Õ­Õ¶Õ«Õ¯Õ¡Õ¯Õ¡Õ¶ Õ¹Õ¡Ö€Õ¡Õ·Õ¡Õ°Õ´Õ¡Õ¶ Õ¡Õ¦Õ¤Õ¡Õ¶Õ·Õ¡Õ¶Õ¶Õ¥Ö€Õ« Õ´Õ¡Õ½Õ«Õ¶ Õ§ (Ö…Ö€Õ«Õ¶Õ¡Õ¯Õ Õ½ÕºÕ¡Õ´Õ« Õ¦Õ¡Õ¶Õ£Õ¾Õ¡Õ®Õ¡ÕµÕ«Õ¶ Õ°Ö€Õ¡ÕºÕ¡Ö€Õ¡Õ¯Õ¸Ö‚Õ´Õ¨), Õ¡ÕµÕ¬ Õ¸Õ¹ Õ©Õ¥ Õ¨Õ¶Õ¤Õ°Õ¡Õ¶Õ¸Ö‚Ö€ Õ½Õ¸ÖÕ«Õ¡Õ¬Õ¡Õ¯Õ¡Õ¶ Õ¾Õ¡Ö€Õ¯Õ¡Õ¶Õ«Õ·Õ¡ÕµÕ«Õ¶ Õ°Õ¡Õ´Õ¡Õ¯Õ¡Ö€Õ£Õ«: Nexus Gaja-Õ¶ Õ½Õ¸ÖÕ«Õ¡Õ¬Õ¡Õ¯Õ¡Õ¶ Õ¯Ö€Õ¥Õ¤Õ«Õ¿Õ¡ÕµÕ«Õ¶ Õ°Õ¡Õ´Õ¡Õ¯Õ¡Ö€Õ£ Õ¹Õ« Õ£Õ¸Ö€Õ®Õ¸Ö‚Õ´. Õ¹Õ¡ÖƒÕ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Õ¡Õ¶Õ¾Õ¿Õ¡Õ¶Õ£Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ°Õ¡Õ´Õ¡Ö€ Õ§, Õ¡ÕµÕ¬ Õ¸Õ¹ Õ©Õ¥ Õ¡Õ¶Õ±Õ« Õ¡Ö€ÕªÕ¥Ö„Õ¨ Õ£Õ¶Õ¡Õ°Õ¡Õ¿Õ¥Õ¬Õ¸Ö‚ Õ°Õ¡Õ´Õ¡Ö€:
 
-### 22. Մոդերացիոն AI-ն պետք է ստուգելի լինի
-Բոլոր համապատասխան ավտոմատացված որոշումները գրանցվում են (իրադարձության ID, կանոնի ID, վստահություն, մարդկային վերանայում և այլն)՝ ապահովելու հետագծելիությունը:
+### 22. Õ„Õ¸Õ¤Õ¥Ö€Õ¡ÖÕ«Õ¸Õ¶ AI-Õ¶ ÕºÕ¥Õ¿Ö„ Õ§ Õ½Õ¿Õ¸Ö‚Õ£Õ¥Õ¬Õ« Õ¬Õ«Õ¶Õ«
+Ô²Õ¸Õ¬Õ¸Ö€ Õ°Õ¡Õ´Õ¡ÕºÕ¡Õ¿Õ¡Õ½Õ­Õ¡Õ¶ Õ¡Õ¾Õ¿Õ¸Õ´Õ¡Õ¿Õ¡ÖÕ¾Õ¡Õ® Õ¸Ö€Õ¸Õ·Õ¸Ö‚Õ´Õ¶Õ¥Ö€Õ¨ Õ£Ö€Õ¡Õ¶ÖÕ¾Õ¸Ö‚Õ´ Õ¥Õ¶ (Õ«Ö€Õ¡Õ¤Õ¡Ö€Õ±Õ¸Ö‚Õ©ÕµÕ¡Õ¶ ID, Õ¯Õ¡Õ¶Õ¸Õ¶Õ« ID, Õ¾Õ½Õ¿Õ¡Õ°Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶, Õ´Õ¡Ö€Õ¤Õ¯Õ¡ÕµÕ«Õ¶ Õ¾Õ¥Ö€Õ¡Õ¶Õ¡ÕµÕ¸Ö‚Õ´ Ö‡ Õ¡ÕµÕ¬Õ¶)Õ Õ¡ÕºÕ¡Õ°Õ¸Õ¾Õ¥Õ¬Õ¸Ö‚ Õ°Õ¥Õ¿Õ¡Õ£Õ®Õ¥Õ¬Õ«Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨:
 
-### 23. Կեղծ դրական, կեղծ բացասական և որակի չափումներ
-Սխալների տեսակները վերահսկվում են: Վահանակի վահանակը չափում է ճշգրտությունը, հետկանչումը և հատկապես **Բողոքարկման հակադարձման տոկոսադրույքը** (հաջող բողոքարկումների թիվը): 
+### 23. Ô¿Õ¥Õ²Õ® Õ¤Ö€Õ¡Õ¯Õ¡Õ¶, Õ¯Õ¥Õ²Õ® Õ¢Õ¡ÖÕ¡Õ½Õ¡Õ¯Õ¡Õ¶ Ö‡ Õ¸Ö€Õ¡Õ¯Õ« Õ¹Õ¡ÖƒÕ¸Ö‚Õ´Õ¶Õ¥Ö€
+ÕÕ­Õ¡Õ¬Õ¶Õ¥Ö€Õ« Õ¿Õ¥Õ½Õ¡Õ¯Õ¶Õ¥Ö€Õ¨ Õ¾Õ¥Ö€Õ¡Õ°Õ½Õ¯Õ¾Õ¸Ö‚Õ´ Õ¥Õ¶: ÕŽÕ¡Õ°Õ¡Õ¶Õ¡Õ¯Õ« Õ¾Õ¡Õ°Õ¡Õ¶Õ¡Õ¯Õ¨ Õ¹Õ¡ÖƒÕ¸Ö‚Õ´ Õ§ Õ³Õ·Õ£Ö€Õ¿Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨, Õ°Õ¥Õ¿Õ¯Õ¡Õ¶Õ¹Õ¸Ö‚Õ´Õ¨ Ö‡ Õ°Õ¡Õ¿Õ¯Õ¡ÕºÕ¥Õ½ **Ô²Õ¸Õ²Õ¸Ö„Õ¡Ö€Õ¯Õ´Õ¡Õ¶ Õ°Õ¡Õ¯Õ¡Õ¤Õ¡Ö€Õ±Õ´Õ¡Õ¶ Õ¿Õ¸Õ¯Õ¸Õ½Õ¡Õ¤Ö€Õ¸Ö‚ÕµÖ„Õ¨** (Õ°Õ¡Õ»Õ¸Õ² Õ¢Õ¸Õ²Õ¸Ö„Õ¡Ö€Õ¯Õ¸Ö‚Õ´Õ¶Õ¥Ö€Õ« Õ©Õ«Õ¾Õ¨): 
 
-### 24. Լեզվի արդարություն և թարգմանական կողմնակալություն
-Չափավորման որակը պետք է համադրելի լինի բոլոր աջակցվող լեզուներով (Բազմալեզու չափավորության չափանիշ): Եթե ​​չափավորության արդյունքները տարբերվում են բնօրինակի և թարգմանության միջև (թարգմանության հակասություն), դա պետք է ստուգվի առանձին:
+### 24. Ô¼Õ¥Õ¦Õ¾Õ« Õ¡Ö€Õ¤Õ¡Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ Ö‡ Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¡Õ¯Õ¡Õ¶ Õ¯Õ¸Õ²Õ´Õ¶Õ¡Õ¯Õ¡Õ¬Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶
+Õ‰Õ¡ÖƒÕ¡Õ¾Õ¸Ö€Õ´Õ¡Õ¶ Õ¸Ö€Õ¡Õ¯Õ¨ ÕºÕ¥Õ¿Ö„ Õ§ Õ°Õ¡Õ´Õ¡Õ¤Ö€Õ¥Õ¬Õ« Õ¬Õ«Õ¶Õ« Õ¢Õ¸Õ¬Õ¸Ö€ Õ¡Õ»Õ¡Õ¯ÖÕ¾Õ¸Õ² Õ¬Õ¥Õ¦Õ¸Ö‚Õ¶Õ¥Ö€Õ¸Õ¾ (Ô²Õ¡Õ¦Õ´Õ¡Õ¬Õ¥Õ¦Õ¸Ö‚ Õ¹Õ¡ÖƒÕ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¹Õ¡ÖƒÕ¡Õ¶Õ«Õ·): ÔµÕ©Õ¥ â€‹â€‹Õ¹Õ¡ÖƒÕ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¡Ö€Õ¤ÕµÕ¸Ö‚Õ¶Ö„Õ¶Õ¥Ö€Õ¨ Õ¿Õ¡Ö€Õ¢Õ¥Ö€Õ¾Õ¸Ö‚Õ´ Õ¥Õ¶ Õ¢Õ¶Ö…Ö€Õ«Õ¶Õ¡Õ¯Õ« Ö‡ Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ´Õ«Õ»Ö‡ (Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ°Õ¡Õ¯Õ¡Õ½Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶), Õ¤Õ¡ ÕºÕ¥Õ¿Ö„ Õ§ Õ½Õ¿Õ¸Ö‚Õ£Õ¾Õ« Õ¡Õ¼Õ¡Õ¶Õ±Õ«Õ¶:
 
 ### 25. Architecture Proposal & Policy Engine
-Կանոնները (քաղաքականության շարժիչը) կոշտ կոդավորված չեն AI մոդելներում: AI-ն տրամադրում է պատկերացումներ, քաղաքականության շարժիչը որոշումներ է կայացնում՝ հիմնվելով ընթացիկ կանոնների վրա: Սա թույլ է տալիս **մոդելի փոփոխություն՝ առանց կանոնները փոխելու**։
+Ô¿Õ¡Õ¶Õ¸Õ¶Õ¶Õ¥Ö€Õ¨ (Ö„Õ¡Õ²Õ¡Ö„Õ¡Õ¯Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ·Õ¡Ö€ÕªÕ«Õ¹Õ¨) Õ¯Õ¸Õ·Õ¿ Õ¯Õ¸Õ¤Õ¡Õ¾Õ¸Ö€Õ¾Õ¡Õ® Õ¹Õ¥Õ¶ AI Õ´Õ¸Õ¤Õ¥Õ¬Õ¶Õ¥Ö€Õ¸Ö‚Õ´: AI-Õ¶ Õ¿Ö€Õ¡Õ´Õ¡Õ¤Ö€Õ¸Ö‚Õ´ Õ§ ÕºÕ¡Õ¿Õ¯Õ¥Ö€Õ¡ÖÕ¸Ö‚Õ´Õ¶Õ¥Ö€, Ö„Õ¡Õ²Õ¡Ö„Õ¡Õ¯Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ·Õ¡Ö€ÕªÕ«Õ¹Õ¨ Õ¸Ö€Õ¸Õ·Õ¸Ö‚Õ´Õ¶Õ¥Ö€ Õ§ Õ¯Õ¡ÕµÕ¡ÖÕ¶Õ¸Ö‚Õ´Õ Õ°Õ«Õ´Õ¶Õ¾Õ¥Õ¬Õ¸Õ¾ Õ¨Õ¶Õ©Õ¡ÖÕ«Õ¯ Õ¯Õ¡Õ¶Õ¸Õ¶Õ¶Õ¥Ö€Õ« Õ¾Ö€Õ¡: ÕÕ¡ Õ©Õ¸Ö‚ÕµÕ¬ Õ§ Õ¿Õ¡Õ¬Õ«Õ½ **Õ´Õ¸Õ¤Õ¥Õ¬Õ« ÖƒÕ¸ÖƒÕ¸Õ­Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ Õ¡Õ¼Õ¡Õ¶Ö Õ¯Õ¡Õ¶Õ¸Õ¶Õ¶Õ¥Ö€Õ¨ ÖƒÕ¸Õ­Õ¥Õ¬Õ¸Ö‚**Ö‰
 
-### 26. Մարդիկ մնում են վերջնական իշխանությունը
-- **NG-AI-MOD-001**. AI-ն աջակցում է հայտնաբերմանը և դասակարգմանը, բայց չի փոխարինում մարդու վերանայումը լուրջ որոշումներ կայացնելիս:
-- **NG-AI-MOD-002**. Ավտոմատացված հսկողության որոշումները պետք է լինեն հետագծելի, գրանցելի և ստուգելի:
+### 26. Õ„Õ¡Ö€Õ¤Õ«Õ¯ Õ´Õ¶Õ¸Ö‚Õ´ Õ¥Õ¶ Õ¾Õ¥Ö€Õ»Õ¶Õ¡Õ¯Õ¡Õ¶ Õ«Õ·Õ­Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨
+- **NG-AI-MOD-001**. AI-Õ¶ Õ¡Õ»Õ¡Õ¯ÖÕ¸Ö‚Õ´ Õ§ Õ°Õ¡ÕµÕ¿Õ¶Õ¡Õ¢Õ¥Ö€Õ´Õ¡Õ¶Õ¨ Ö‡ Õ¤Õ¡Õ½Õ¡Õ¯Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¨, Õ¢Õ¡ÕµÖ Õ¹Õ« ÖƒÕ¸Õ­Õ¡Ö€Õ«Õ¶Õ¸Ö‚Õ´ Õ´Õ¡Ö€Õ¤Õ¸Ö‚ Õ¾Õ¥Ö€Õ¡Õ¶Õ¡ÕµÕ¸Ö‚Õ´Õ¨ Õ¬Õ¸Ö‚Ö€Õ» Õ¸Ö€Õ¸Õ·Õ¸Ö‚Õ´Õ¶Õ¥Ö€ Õ¯Õ¡ÕµÕ¡ÖÕ¶Õ¥Õ¬Õ«Õ½:
+- **NG-AI-MOD-002**. Ô±Õ¾Õ¿Õ¸Õ´Õ¡Õ¿Õ¡ÖÕ¾Õ¡Õ® Õ°Õ½Õ¯Õ¸Õ²Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¸Ö€Õ¸Õ·Õ¸Ö‚Õ´Õ¶Õ¥Ö€Õ¨ ÕºÕ¥Õ¿Ö„ Õ§ Õ¬Õ«Õ¶Õ¥Õ¶ Õ°Õ¥Õ¿Õ¡Õ£Õ®Õ¥Õ¬Õ«, Õ£Ö€Õ¡Õ¶ÖÕ¥Õ¬Õ« Ö‡ Õ½Õ¿Õ¸Ö‚Õ£Õ¥Õ¬Õ«:
 
-**Ամփոփում**. Մենք կառուցում ենք չորս մակարդակի համակարգ՝ AI հայտնաբերում, համատեքստի և ռիսկերի վերլուծություն, քաղաքականության շարժիչ և մարդկային կառավարում: Սա թույլ է տալիս ուժեղ ավտոմատացում՝ առանց ստեղծելու վտանգավոր «AI որպես դատավոր» ճարտարապետություն:
+**Ô±Õ´ÖƒÕ¸ÖƒÕ¸Ö‚Õ´**. Õ„Õ¥Õ¶Ö„ Õ¯Õ¡Õ¼Õ¸Ö‚ÖÕ¸Ö‚Õ´ Õ¥Õ¶Ö„ Õ¹Õ¸Ö€Õ½ Õ´Õ¡Õ¯Õ¡Ö€Õ¤Õ¡Õ¯Õ« Õ°Õ¡Õ´Õ¡Õ¯Õ¡Ö€Õ£Õ AI Õ°Õ¡ÕµÕ¿Õ¶Õ¡Õ¢Õ¥Ö€Õ¸Ö‚Õ´, Õ°Õ¡Õ´Õ¡Õ¿Õ¥Ö„Õ½Õ¿Õ« Ö‡ Õ¼Õ«Õ½Õ¯Õ¥Ö€Õ« Õ¾Õ¥Ö€Õ¬Õ¸Ö‚Õ®Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶, Ö„Õ¡Õ²Õ¡Ö„Õ¡Õ¯Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ·Õ¡Ö€ÕªÕ«Õ¹ Ö‡ Õ´Õ¡Ö€Õ¤Õ¯Õ¡ÕµÕ«Õ¶ Õ¯Õ¡Õ¼Õ¡Õ¾Õ¡Ö€Õ¸Ö‚Õ´: ÕÕ¡ Õ©Õ¸Ö‚ÕµÕ¬ Õ§ Õ¿Õ¡Õ¬Õ«Õ½ Õ¸Ö‚ÕªÕ¥Õ² Õ¡Õ¾Õ¿Õ¸Õ´Õ¡Õ¿Õ¡ÖÕ¸Ö‚Õ´Õ Õ¡Õ¼Õ¡Õ¶Ö Õ½Õ¿Õ¥Õ²Õ®Õ¥Õ¬Õ¸Ö‚ Õ¾Õ¿Õ¡Õ¶Õ£Õ¡Õ¾Õ¸Ö€ Â«AI Õ¸Ö€ÕºÕ¥Õ½ Õ¤Õ¡Õ¿Õ¡Õ¾Õ¸Ö€Â» Õ³Õ¡Ö€Õ¿Õ¡Ö€Õ¡ÕºÕ¥Õ¿Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶:
 
-## Ֆինանսավորման սկզբունքներ և եկամուտների մոդել (WP 1.10.1)
+## Õ–Õ«Õ¶Õ¡Õ¶Õ½Õ¡Õ¾Õ¸Ö€Õ´Õ¡Õ¶ Õ½Õ¯Õ¦Õ¢Õ¸Ö‚Õ¶Ö„Õ¶Õ¥Ö€ Ö‡ Õ¥Õ¯Õ¡Õ´Õ¸Ö‚Õ¿Õ¶Õ¥Ö€Õ« Õ´Õ¸Õ¤Õ¥Õ¬ (WP 1.10.1)
 
 ![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
-Nexus Gaja-ի համար կիրառվում է շատ կարևոր հիմնական տնտեսական սկզբունք. **Պլատֆորմում դասական գովազդ չկա:**
-Դրանով Nexus Gaja-ն կոնցեպտուալ կերպով տարբերվում է այսօրվա շատ սոցիալական ցանցերից: Բայց դա չի նշանակում, որ Nexus Gaja-ն չպետք է կոմերցիոն բնույթ ունենա: Ընդհակառակը. հարթակը պետք է լինի տնտեսապես կենսունակ, որպեսզի դրա սոցիալական նպատակը շարունակի գոյություն ունենալ երկարաժամկետ հեռանկարում: Այսպիսով, տնտեսական գործունեությունը նպատակին հասնելու միջոց է, այլ ոչ թե հարթակի իրական նպատակը:
+Nexus Gaja-Õ« Õ°Õ¡Õ´Õ¡Ö€ Õ¯Õ«Ö€Õ¡Õ¼Õ¾Õ¸Ö‚Õ´ Õ§ Õ·Õ¡Õ¿ Õ¯Õ¡Ö€Ö‡Õ¸Ö€ Õ°Õ«Õ´Õ¶Õ¡Õ¯Õ¡Õ¶ Õ¿Õ¶Õ¿Õ¥Õ½Õ¡Õ¯Õ¡Õ¶ Õ½Õ¯Õ¦Õ¢Õ¸Ö‚Õ¶Ö„. **ÕŠÕ¬Õ¡Õ¿Ö†Õ¸Ö€Õ´Õ¸Ö‚Õ´ Õ¤Õ¡Õ½Õ¡Õ¯Õ¡Õ¶ Õ£Õ¸Õ¾Õ¡Õ¦Õ¤ Õ¹Õ¯Õ¡:**
+Ô´Ö€Õ¡Õ¶Õ¸Õ¾ Nexus Gaja-Õ¶ Õ¯Õ¸Õ¶ÖÕ¥ÕºÕ¿Õ¸Ö‚Õ¡Õ¬ Õ¯Õ¥Ö€ÕºÕ¸Õ¾ Õ¿Õ¡Ö€Õ¢Õ¥Ö€Õ¾Õ¸Ö‚Õ´ Õ§ Õ¡ÕµÕ½Ö…Ö€Õ¾Õ¡ Õ·Õ¡Õ¿ Õ½Õ¸ÖÕ«Õ¡Õ¬Õ¡Õ¯Õ¡Õ¶ ÖÕ¡Õ¶ÖÕ¥Ö€Õ«Ö: Ô²Õ¡ÕµÖ Õ¤Õ¡ Õ¹Õ« Õ¶Õ·Õ¡Õ¶Õ¡Õ¯Õ¸Ö‚Õ´, Õ¸Ö€ Nexus Gaja-Õ¶ Õ¹ÕºÕ¥Õ¿Ö„ Õ§ Õ¯Õ¸Õ´Õ¥Ö€ÖÕ«Õ¸Õ¶ Õ¢Õ¶Õ¸Ö‚ÕµÕ© Õ¸Ö‚Õ¶Õ¥Õ¶Õ¡: Ô¸Õ¶Õ¤Õ°Õ¡Õ¯Õ¡Õ¼Õ¡Õ¯Õ¨. Õ°Õ¡Ö€Õ©Õ¡Õ¯Õ¨ ÕºÕ¥Õ¿Ö„ Õ§ Õ¬Õ«Õ¶Õ« Õ¿Õ¶Õ¿Õ¥Õ½Õ¡ÕºÕ¥Õ½ Õ¯Õ¥Õ¶Õ½Õ¸Ö‚Õ¶Õ¡Õ¯, Õ¸Ö€ÕºÕ¥Õ½Õ¦Õ« Õ¤Ö€Õ¡ Õ½Õ¸ÖÕ«Õ¡Õ¬Õ¡Õ¯Õ¡Õ¶ Õ¶ÕºÕ¡Õ¿Õ¡Õ¯Õ¨ Õ·Õ¡Ö€Õ¸Ö‚Õ¶Õ¡Õ¯Õ« Õ£Õ¸ÕµÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ Õ¸Ö‚Õ¶Õ¥Õ¶Õ¡Õ¬ Õ¥Ö€Õ¯Õ¡Ö€Õ¡ÕªÕ¡Õ´Õ¯Õ¥Õ¿ Õ°Õ¥Õ¼Õ¡Õ¶Õ¯Õ¡Ö€Õ¸Ö‚Õ´: Ô±ÕµÕ½ÕºÕ«Õ½Õ¸Õ¾, Õ¿Õ¶Õ¿Õ¥Õ½Õ¡Õ¯Õ¡Õ¶ Õ£Õ¸Ö€Õ®Õ¸Ö‚Õ¶Õ¥Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Õ¶ÕºÕ¡Õ¿Õ¡Õ¯Õ«Õ¶ Õ°Õ¡Õ½Õ¶Õ¥Õ¬Õ¸Ö‚ Õ´Õ«Õ»Õ¸Ö Õ§, Õ¡ÕµÕ¬ Õ¸Õ¹ Õ©Õ¥ Õ°Õ¡Ö€Õ©Õ¡Õ¯Õ« Õ«Ö€Õ¡Õ¯Õ¡Õ¶ Õ¶ÕºÕ¡Õ¿Õ¡Õ¯Õ¨:
 
-### 1. Սկզբունք NG-FIN-001
-Nexus Gaja-ն ֆինանսավորում է իր գործունեությունը թափանցիկ եկամուտների հոսքերի միջոցով, որոնք առանձնացված են օգտատերերի շահերից և ոչ թե իր օգտատերերի ուշադրության կամ անձնական տվյալների շուկայավարման միջոցով:
+### 1. ÕÕ¯Õ¦Õ¢Õ¸Ö‚Õ¶Ö„ NG-FIN-001
+Nexus Gaja-Õ¶ Ö†Õ«Õ¶Õ¡Õ¶Õ½Õ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ´ Õ§ Õ«Ö€ Õ£Õ¸Ö€Õ®Õ¸Ö‚Õ¶Õ¥Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Õ©Õ¡ÖƒÕ¡Õ¶ÖÕ«Õ¯ Õ¥Õ¯Õ¡Õ´Õ¸Ö‚Õ¿Õ¶Õ¥Ö€Õ« Õ°Õ¸Õ½Ö„Õ¥Ö€Õ« Õ´Õ«Õ»Õ¸ÖÕ¸Õ¾, Õ¸Ö€Õ¸Õ¶Ö„ Õ¡Õ¼Õ¡Õ¶Õ±Õ¶Õ¡ÖÕ¾Õ¡Õ® Õ¥Õ¶ Ö…Õ£Õ¿Õ¡Õ¿Õ¥Ö€Õ¥Ö€Õ« Õ·Õ¡Õ°Õ¥Ö€Õ«Ö Ö‡ Õ¸Õ¹ Õ©Õ¥ Õ«Ö€ Ö…Õ£Õ¿Õ¡Õ¿Õ¥Ö€Õ¥Ö€Õ« Õ¸Ö‚Õ·Õ¡Õ¤Ö€Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¯Õ¡Õ´ Õ¡Õ¶Õ±Õ¶Õ¡Õ¯Õ¡Õ¶ Õ¿Õ¾ÕµÕ¡Õ¬Õ¶Õ¥Ö€Õ« Õ·Õ¸Ö‚Õ¯Õ¡ÕµÕ¡Õ¾Õ¡Ö€Õ´Õ¡Õ¶ Õ´Õ«Õ»Õ¸ÖÕ¸Õ¾:
 
-### 2. Դասական գովազդ չկա
-Մասնավորապես, չի թույլատրվի հետևյալը.
-- Բաններային գովազդ
-- թռուցիկ գովազդ
-- Ավտոմատ կերպով նվագարկվող գովազդային տեսանյութեր
-- հովանավորվող հաղորդագրություններ նորմալ հոսքում
-- անհատականացված գովազդային պրոֆիլներ
-- Օգտագործողի պրոֆիլների վաճառք
-- Անձնական տվյալների վաճառք
-- Մասնավոր զրույցներից բխող գովազդ.
+### 2. Ô´Õ¡Õ½Õ¡Õ¯Õ¡Õ¶ Õ£Õ¸Õ¾Õ¡Õ¦Õ¤ Õ¹Õ¯Õ¡
+Õ„Õ¡Õ½Õ¶Õ¡Õ¾Õ¸Ö€Õ¡ÕºÕ¥Õ½, Õ¹Õ« Õ©Õ¸Ö‚ÕµÕ¬Õ¡Õ¿Ö€Õ¾Õ« Õ°Õ¥Õ¿Ö‡ÕµÕ¡Õ¬Õ¨.
+- Ô²Õ¡Õ¶Õ¶Õ¥Ö€Õ¡ÕµÕ«Õ¶ Õ£Õ¸Õ¾Õ¡Õ¦Õ¤
+- Õ©Õ¼Õ¸Ö‚ÖÕ«Õ¯ Õ£Õ¸Õ¾Õ¡Õ¦Õ¤
+- Ô±Õ¾Õ¿Õ¸Õ´Õ¡Õ¿ Õ¯Õ¥Ö€ÕºÕ¸Õ¾ Õ¶Õ¾Õ¡Õ£Õ¡Ö€Õ¯Õ¾Õ¸Õ² Õ£Õ¸Õ¾Õ¡Õ¦Õ¤Õ¡ÕµÕ«Õ¶ Õ¿Õ¥Õ½Õ¡Õ¶ÕµÕ¸Ö‚Õ©Õ¥Ö€
+- Õ°Õ¸Õ¾Õ¡Õ¶Õ¡Õ¾Õ¸Ö€Õ¾Õ¸Õ² Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ£Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€ Õ¶Õ¸Ö€Õ´Õ¡Õ¬ Õ°Õ¸Õ½Ö„Õ¸Ö‚Õ´
+- Õ¡Õ¶Õ°Õ¡Õ¿Õ¡Õ¯Õ¡Õ¶Õ¡ÖÕ¾Õ¡Õ® Õ£Õ¸Õ¾Õ¡Õ¦Õ¤Õ¡ÕµÕ«Õ¶ ÕºÖ€Õ¸Ö†Õ«Õ¬Õ¶Õ¥Ö€
+- Õ•Õ£Õ¿Õ¡Õ£Õ¸Ö€Õ®Õ¸Õ²Õ« ÕºÖ€Õ¸Ö†Õ«Õ¬Õ¶Õ¥Ö€Õ« Õ¾Õ¡Õ³Õ¡Õ¼Ö„
+- Ô±Õ¶Õ±Õ¶Õ¡Õ¯Õ¡Õ¶ Õ¿Õ¾ÕµÕ¡Õ¬Õ¶Õ¥Ö€Õ« Õ¾Õ¡Õ³Õ¡Õ¼Ö„
+- Õ„Õ¡Õ½Õ¶Õ¡Õ¾Õ¸Ö€ Õ¦Ö€Õ¸Ö‚ÕµÖÕ¶Õ¥Ö€Õ«Ö Õ¢Õ­Õ¸Õ² Õ£Õ¸Õ¾Õ¡Õ¦Õ¤.
 
-Սա թողնում է հաղորդակցման տարածքը. **Գովազդային տարածքի փոխարեն հաղորդակցման տարածք:**
+ÕÕ¡ Õ©Õ¸Õ²Õ¶Õ¸Ö‚Õ´ Õ§ Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ´Õ¡Õ¶ Õ¿Õ¡Ö€Õ¡Õ®Ö„Õ¨. **Ô³Õ¸Õ¾Õ¡Õ¦Õ¤Õ¡ÕµÕ«Õ¶ Õ¿Õ¡Ö€Õ¡Õ®Ö„Õ« ÖƒÕ¸Õ­Õ¡Ö€Õ¥Õ¶ Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ´Õ¡Õ¶ Õ¿Õ¡Ö€Õ¡Õ®Ö„:**
 
-### 3. Ֆինանսավորում առանց գովազդի
-Փոխարենը, մեր ֆինանսավորումը կարող է բաղկացած լինել մի քանի հենասյուներից։ Մենք նախ առաջարկում ենք վեց սյուներ.
-`` տեքստ
+### 3. Õ–Õ«Õ¶Õ¡Õ¶Õ½Õ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ´ Õ¡Õ¼Õ¡Õ¶Ö Õ£Õ¸Õ¾Õ¡Õ¦Õ¤Õ«
+Õ“Õ¸Õ­Õ¡Ö€Õ¥Õ¶Õ¨, Õ´Õ¥Ö€ Ö†Õ«Õ¶Õ¡Õ¶Õ½Õ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ´Õ¨ Õ¯Õ¡Ö€Õ¸Õ² Õ§ Õ¢Õ¡Õ²Õ¯Õ¡ÖÕ¡Õ® Õ¬Õ«Õ¶Õ¥Õ¬ Õ´Õ« Ö„Õ¡Õ¶Õ« Õ°Õ¥Õ¶Õ¡Õ½ÕµÕ¸Ö‚Õ¶Õ¥Ö€Õ«ÖÖ‰ Õ„Õ¥Õ¶Ö„ Õ¶Õ¡Õ­ Õ¡Õ¼Õ¡Õ»Õ¡Ö€Õ¯Õ¸Ö‚Õ´ Õ¥Õ¶Ö„ Õ¾Õ¥Ö Õ½ÕµÕ¸Ö‚Õ¶Õ¥Ö€.
+`` Õ¿Õ¥Ö„Õ½Õ¿
                  NEXUS GAJA
-                     │
-       ┌─────────────┼───────────-
-       ▼ ▼ ▼
-   ՊՐԵՄԻՈՒՄ ԿԱԶՄԱԿԵՐՊՈՒԹՅՈՒՆ ՆՎԻՐԱՏԻՐ
-       │ │ │
-       ├─────────────┼──────────────
-       ▼ ▼ ▼
-   ԳՈՐԾԸՆԿԵՐԱԿԱՆ ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐԻ ԽԹԱՆՈՒՄ
+                     â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€-
+       â–¼ â–¼ â–¼
+   ÕŠÕÔµÕ„Ô»ÕˆÕ’Õ„ Ô¿Ô±Ô¶Õ„Ô±Ô¿ÔµÕÕŠÕˆÕ’Ô¹Õ…ÕˆÕ’Õ† Õ†ÕŽÔ»ÕÔ±ÕÔ»Õ
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+       â–¼ â–¼ â–¼
+   Ô³ÕˆÕÔ¾Ô¸Õ†Ô¿ÔµÕÔ±Ô¿Ô±Õ† Ô¾Ô±ÕŒÔ±Õ…ÕˆÕ’Ô¹Õ…ÕˆÕ’Õ†Õ†ÔµÕÔ» Ô½Ô¹Ô±Õ†ÕˆÕ’Õ„
 ```
 
-#### Սյուն 1 – Անվճար հիմնական անդամակցություն
-**Nexus Gaja Free:** Միջազգային փոխըմբռնմանը հիմնական մասնակցությունը չպետք է կախված լինի նրանից, թե ինչ-որ մեկը փող ունի: Հետևյալները հնարավոր են անվճար՝ անձնական պրոֆիլ, միջազգային հաղորդակցություն, ներդրումներ, մեկնաբանություններ, հիմնական թարգմանություն, համայնքներ, զրույցներ, հիմնական լրատվամիջոցների գործառույթներ:
+#### ÕÕµÕ¸Ö‚Õ¶ 1 â€“ Ô±Õ¶Õ¾Õ³Õ¡Ö€ Õ°Õ«Õ´Õ¶Õ¡Õ¯Õ¡Õ¶ Õ¡Õ¶Õ¤Õ¡Õ´Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶
+**Nexus Gaja Free:** Õ„Õ«Õ»Õ¡Õ¦Õ£Õ¡ÕµÕ«Õ¶ ÖƒÕ¸Õ­Õ¨Õ´Õ¢Õ¼Õ¶Õ´Õ¡Õ¶Õ¨ Õ°Õ«Õ´Õ¶Õ¡Õ¯Õ¡Õ¶ Õ´Õ¡Õ½Õ¶Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Õ¹ÕºÕ¥Õ¿Ö„ Õ§ Õ¯Õ¡Õ­Õ¾Õ¡Õ® Õ¬Õ«Õ¶Õ« Õ¶Ö€Õ¡Õ¶Õ«Ö, Õ©Õ¥ Õ«Õ¶Õ¹-Õ¸Ö€ Õ´Õ¥Õ¯Õ¨ ÖƒÕ¸Õ² Õ¸Ö‚Õ¶Õ«: Õ€Õ¥Õ¿Ö‡ÕµÕ¡Õ¬Õ¶Õ¥Ö€Õ¨ Õ°Õ¶Õ¡Ö€Õ¡Õ¾Õ¸Ö€ Õ¥Õ¶ Õ¡Õ¶Õ¾Õ³Õ¡Ö€Õ Õ¡Õ¶Õ±Õ¶Õ¡Õ¯Õ¡Õ¶ ÕºÖ€Õ¸Ö†Õ«Õ¬, Õ´Õ«Õ»Õ¡Õ¦Õ£Õ¡ÕµÕ«Õ¶ Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶, Õ¶Õ¥Ö€Õ¤Ö€Õ¸Ö‚Õ´Õ¶Õ¥Ö€, Õ´Õ¥Õ¯Õ¶Õ¡Õ¢Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€, Õ°Õ«Õ´Õ¶Õ¡Õ¯Õ¡Õ¶ Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶, Õ°Õ¡Õ´Õ¡ÕµÕ¶Ö„Õ¶Õ¥Ö€, Õ¦Ö€Õ¸Ö‚ÕµÖÕ¶Õ¥Ö€, Õ°Õ«Õ´Õ¶Õ¡Õ¯Õ¡Õ¶ Õ¬Ö€Õ¡Õ¿Õ¾Õ¡Õ´Õ«Õ»Õ¸ÖÕ¶Õ¥Ö€Õ« Õ£Õ¸Ö€Õ®Õ¡Õ¼Õ¸Ö‚ÕµÕ©Õ¶Õ¥Ö€:
 
-#### Սյունակ 2 – Պրեմիում առաջարկներ
-Կամավոր վճարովի առաջարկներ (**Nexus Gaja Plus**): Հնարավոր առավելություններ՝ պահեստավորման ավելի մեծ սահմանաչափեր, մեդիայի ավելի բարձր որակ, ավելի երկար տեսանյութերի փոխանցում, ընդլայնված թարգմանչական գործառույթներ, ավելի մեծ համայնքներ, լրացուցիչ կազմակերպչական գործառույթներ, ավելի բարձր AI քվոտաներ:
-**Freemium – բայց ոչ «Dark Freemium»:** Անվճար տարբերակը կարող է խելամտորեն օգտագործվել; Պրեմիումը ընդլայնում է այն:
+#### ÕÕµÕ¸Ö‚Õ¶Õ¡Õ¯ 2 â€“ ÕŠÖ€Õ¥Õ´Õ«Õ¸Ö‚Õ´ Õ¡Õ¼Õ¡Õ»Õ¡Ö€Õ¯Õ¶Õ¥Ö€
+Ô¿Õ¡Õ´Õ¡Õ¾Õ¸Ö€ Õ¾Õ³Õ¡Ö€Õ¸Õ¾Õ« Õ¡Õ¼Õ¡Õ»Õ¡Ö€Õ¯Õ¶Õ¥Ö€ (**Nexus Gaja Plus**): Õ€Õ¶Õ¡Ö€Õ¡Õ¾Õ¸Ö€ Õ¡Õ¼Õ¡Õ¾Õ¥Õ¬Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ ÕºÕ¡Õ°Õ¥Õ½Õ¿Õ¡Õ¾Õ¸Ö€Õ´Õ¡Õ¶ Õ¡Õ¾Õ¥Õ¬Õ« Õ´Õ¥Õ® Õ½Õ¡Õ°Õ´Õ¡Õ¶Õ¡Õ¹Õ¡ÖƒÕ¥Ö€, Õ´Õ¥Õ¤Õ«Õ¡ÕµÕ« Õ¡Õ¾Õ¥Õ¬Õ« Õ¢Õ¡Ö€Õ±Ö€ Õ¸Ö€Õ¡Õ¯, Õ¡Õ¾Õ¥Õ¬Õ« Õ¥Ö€Õ¯Õ¡Ö€ Õ¿Õ¥Õ½Õ¡Õ¶ÕµÕ¸Ö‚Õ©Õ¥Ö€Õ« ÖƒÕ¸Õ­Õ¡Õ¶ÖÕ¸Ö‚Õ´, Õ¨Õ¶Õ¤Õ¬Õ¡ÕµÕ¶Õ¾Õ¡Õ® Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¹Õ¡Õ¯Õ¡Õ¶ Õ£Õ¸Ö€Õ®Õ¡Õ¼Õ¸Ö‚ÕµÕ©Õ¶Õ¥Ö€, Õ¡Õ¾Õ¥Õ¬Õ« Õ´Õ¥Õ® Õ°Õ¡Õ´Õ¡ÕµÕ¶Ö„Õ¶Õ¥Ö€, Õ¬Ö€Õ¡ÖÕ¸Ö‚ÖÕ«Õ¹ Õ¯Õ¡Õ¦Õ´Õ¡Õ¯Õ¥Ö€ÕºÕ¹Õ¡Õ¯Õ¡Õ¶ Õ£Õ¸Ö€Õ®Õ¡Õ¼Õ¸Ö‚ÕµÕ©Õ¶Õ¥Ö€, Õ¡Õ¾Õ¥Õ¬Õ« Õ¢Õ¡Ö€Õ±Ö€ AI Ö„Õ¾Õ¸Õ¿Õ¡Õ¶Õ¥Ö€:
+**Freemium â€“ Õ¢Õ¡ÕµÖ Õ¸Õ¹ Â«Dark FreemiumÂ»:** Ô±Õ¶Õ¾Õ³Õ¡Ö€ Õ¿Õ¡Ö€Õ¢Õ¥Ö€Õ¡Õ¯Õ¨ Õ¯Õ¡Ö€Õ¸Õ² Õ§ Õ­Õ¥Õ¬Õ¡Õ´Õ¿Õ¸Ö€Õ¥Õ¶ Ö…Õ£Õ¿Õ¡Õ£Õ¸Ö€Õ®Õ¾Õ¥Õ¬; ÕŠÖ€Õ¥Õ´Õ«Õ¸Ö‚Õ´Õ¨ Õ¨Õ¶Õ¤Õ¬Õ¡ÕµÕ¶Õ¸Ö‚Õ´ Õ§ Õ¡ÕµÕ¶:
 
-#### Սյուն 3 – Կազմակերպություններ
-**Nexus Gaja Կազմակերպություն.** Հատուկ հաշիվներ դպրոցների, համալսարանների, ակումբների, ՀԿ-ների, ընկերությունների, քաղաքապետարանների և այլնի համար՝ կենտրոնական կազմակերպչական հաշվի, անդամների կառավարման և ադմինիստրատորի գործառույթներով: (Օրինակ. Դպրոցը ստանում է ուսանողների մուտքը անվճար կամ ինստիտուցիոնալ սակագնի միջոցով):
+#### ÕÕµÕ¸Ö‚Õ¶ 3 â€“ Ô¿Õ¡Õ¦Õ´Õ¡Õ¯Õ¥Ö€ÕºÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€
+**Nexus Gaja Ô¿Õ¡Õ¦Õ´Õ¡Õ¯Õ¥Ö€ÕºÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶.** Õ€Õ¡Õ¿Õ¸Ö‚Õ¯ Õ°Õ¡Õ·Õ«Õ¾Õ¶Õ¥Ö€ Õ¤ÕºÖ€Õ¸ÖÕ¶Õ¥Ö€Õ«, Õ°Õ¡Õ´Õ¡Õ¬Õ½Õ¡Ö€Õ¡Õ¶Õ¶Õ¥Ö€Õ«, Õ¡Õ¯Õ¸Ö‚Õ´Õ¢Õ¶Õ¥Ö€Õ«, Õ€Ô¿-Õ¶Õ¥Ö€Õ«, Õ¨Õ¶Õ¯Õ¥Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ«, Ö„Õ¡Õ²Õ¡Ö„Õ¡ÕºÕ¥Õ¿Õ¡Ö€Õ¡Õ¶Õ¶Õ¥Ö€Õ« Ö‡ Õ¡ÕµÕ¬Õ¶Õ« Õ°Õ¡Õ´Õ¡Ö€Õ Õ¯Õ¥Õ¶Õ¿Ö€Õ¸Õ¶Õ¡Õ¯Õ¡Õ¶ Õ¯Õ¡Õ¦Õ´Õ¡Õ¯Õ¥Ö€ÕºÕ¹Õ¡Õ¯Õ¡Õ¶ Õ°Õ¡Õ·Õ¾Õ«, Õ¡Õ¶Õ¤Õ¡Õ´Õ¶Õ¥Ö€Õ« Õ¯Õ¡Õ¼Õ¡Õ¾Õ¡Ö€Õ´Õ¡Õ¶ Ö‡ Õ¡Õ¤Õ´Õ«Õ¶Õ«Õ½Õ¿Ö€Õ¡Õ¿Õ¸Ö€Õ« Õ£Õ¸Ö€Õ®Õ¡Õ¼Õ¸Ö‚ÕµÕ©Õ¶Õ¥Ö€Õ¸Õ¾: (Õ•Ö€Õ«Õ¶Õ¡Õ¯. Ô´ÕºÖ€Õ¸ÖÕ¨ Õ½Õ¿Õ¡Õ¶Õ¸Ö‚Õ´ Õ§ Õ¸Ö‚Õ½Õ¡Õ¶Õ¸Õ²Õ¶Õ¥Ö€Õ« Õ´Õ¸Ö‚Õ¿Ö„Õ¨ Õ¡Õ¶Õ¾Õ³Õ¡Ö€ Õ¯Õ¡Õ´ Õ«Õ¶Õ½Õ¿Õ«Õ¿Õ¸Ö‚ÖÕ«Õ¸Õ¶Õ¡Õ¬ Õ½Õ¡Õ¯Õ¡Õ£Õ¶Õ« Õ´Õ«Õ»Õ¸ÖÕ¸Õ¾):
 
-#### Սյուն 4 – Նվիրատվություններ
-**Nexus Gaja ֆինանսավորման հիմնադրամ.** Դոնորները կարող են կամավոր կերպով գումար տրամադրել (ընդհանուր կամ նպատակային նվիրատվություններ): 
-**Ֆինանսական լողավազան և տոմբոլա.** Անվճար կամ զեղչված օգտագործումը ֆինանսավորվում է նվիրատվության ֆոնդից: Ֆոնդերի բաշխման մատյանն ապահովում է հատկացումները:
-`` տեքստ
-ՆՎԻՐԱՏՎՈՒԹՅՈՒՆՆԵՐ → ՆՊԱՏԱԿԱՅԻՆ ՖՈՆԴ → ՊԱՏՐԱՍՏՎՈՒԹՅԱՆ ՇԱՐԺԻՉ → Անվճար մուտք / Զեղչ / Քվոտա
+#### ÕÕµÕ¸Ö‚Õ¶ 4 â€“ Õ†Õ¾Õ«Ö€Õ¡Õ¿Õ¾Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€
+**Nexus Gaja Ö†Õ«Õ¶Õ¡Õ¶Õ½Õ¡Õ¾Õ¸Ö€Õ´Õ¡Õ¶ Õ°Õ«Õ´Õ¶Õ¡Õ¤Ö€Õ¡Õ´.** Ô´Õ¸Õ¶Õ¸Ö€Õ¶Õ¥Ö€Õ¨ Õ¯Õ¡Ö€Õ¸Õ² Õ¥Õ¶ Õ¯Õ¡Õ´Õ¡Õ¾Õ¸Ö€ Õ¯Õ¥Ö€ÕºÕ¸Õ¾ Õ£Õ¸Ö‚Õ´Õ¡Ö€ Õ¿Ö€Õ¡Õ´Õ¡Õ¤Ö€Õ¥Õ¬ (Õ¨Õ¶Õ¤Õ°Õ¡Õ¶Õ¸Ö‚Ö€ Õ¯Õ¡Õ´ Õ¶ÕºÕ¡Õ¿Õ¡Õ¯Õ¡ÕµÕ«Õ¶ Õ¶Õ¾Õ«Ö€Õ¡Õ¿Õ¾Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€): 
+**Õ–Õ«Õ¶Õ¡Õ¶Õ½Õ¡Õ¯Õ¡Õ¶ Õ¬Õ¸Õ²Õ¡Õ¾Õ¡Õ¦Õ¡Õ¶ Ö‡ Õ¿Õ¸Õ´Õ¢Õ¸Õ¬Õ¡.** Ô±Õ¶Õ¾Õ³Õ¡Ö€ Õ¯Õ¡Õ´ Õ¦Õ¥Õ²Õ¹Õ¾Õ¡Õ® Ö…Õ£Õ¿Õ¡Õ£Õ¸Ö€Õ®Õ¸Ö‚Õ´Õ¨ Ö†Õ«Õ¶Õ¡Õ¶Õ½Õ¡Õ¾Õ¸Ö€Õ¾Õ¸Ö‚Õ´ Õ§ Õ¶Õ¾Õ«Ö€Õ¡Õ¿Õ¾Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Ö†Õ¸Õ¶Õ¤Õ«Ö: Õ–Õ¸Õ¶Õ¤Õ¥Ö€Õ« Õ¢Õ¡Õ·Õ­Õ´Õ¡Õ¶ Õ´Õ¡Õ¿ÕµÕ¡Õ¶Õ¶ Õ¡ÕºÕ¡Õ°Õ¸Õ¾Õ¸Ö‚Õ´ Õ§ Õ°Õ¡Õ¿Õ¯Õ¡ÖÕ¸Ö‚Õ´Õ¶Õ¥Ö€Õ¨:
+`` Õ¿Õ¥Ö„Õ½Õ¿
+Õ†ÕŽÔ»ÕÔ±ÕÕŽÕˆÕ’Ô¹Õ…ÕˆÕ’Õ†Õ†ÔµÕ â†’ Õ†ÕŠÔ±ÕÔ±Ô¿Ô±Õ…Ô»Õ† Õ–ÕˆÕ†Ô´ â†’ ÕŠÔ±ÕÕÔ±ÕÕÕŽÕˆÕ’Ô¹Õ…Ô±Õ† Õ‡Ô±ÕÔºÔ»Õ‰ â†’ Ô±Õ¶Õ¾Õ³Õ¡Ö€ Õ´Õ¸Ö‚Õ¿Ö„ / Ô¶Õ¥Õ²Õ¹ / Õ”Õ¾Õ¸Õ¿Õ¡
 ```
 
-#### Հենասյուն 5 – Ինստիտուցիոնալ աջակցություն
-Հովանավորներ՝ հիմնադրամներ, մշակութային ֆինանսավորման ծրագրեր, պետական ֆինանսավորման ծրագրեր։
-**NG-FIN-002 (Անկախություն).** Ֆինանսավորումը չի կարող գնել Nexus Gaja-ի խմբագրական կամ տեխնիկական վերահսկողություն:
+#### Õ€Õ¥Õ¶Õ¡Õ½ÕµÕ¸Ö‚Õ¶ 5 â€“ Ô»Õ¶Õ½Õ¿Õ«Õ¿Õ¸Ö‚ÖÕ«Õ¸Õ¶Õ¡Õ¬ Õ¡Õ»Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶
+Õ€Õ¸Õ¾Õ¡Õ¶Õ¡Õ¾Õ¸Ö€Õ¶Õ¥Ö€Õ Õ°Õ«Õ´Õ¶Õ¡Õ¤Ö€Õ¡Õ´Õ¶Õ¥Ö€, Õ´Õ·Õ¡Õ¯Õ¸Ö‚Õ©Õ¡ÕµÕ«Õ¶ Ö†Õ«Õ¶Õ¡Õ¶Õ½Õ¡Õ¾Õ¸Ö€Õ´Õ¡Õ¶ Õ®Ö€Õ¡Õ£Ö€Õ¥Ö€, ÕºÕ¥Õ¿Õ¡Õ¯Õ¡Õ¶ Ö†Õ«Õ¶Õ¡Õ¶Õ½Õ¡Õ¾Õ¸Ö€Õ´Õ¡Õ¶ Õ®Ö€Õ¡Õ£Ö€Õ¥Ö€Ö‰
+**NG-FIN-002 (Ô±Õ¶Õ¯Õ¡Õ­Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶).** Õ–Õ«Õ¶Õ¡Õ¶Õ½Õ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ´Õ¨ Õ¹Õ« Õ¯Õ¡Ö€Õ¸Õ² Õ£Õ¶Õ¥Õ¬ Nexus Gaja-Õ« Õ­Õ´Õ¢Õ¡Õ£Ö€Õ¡Õ¯Õ¡Õ¶ Õ¯Õ¡Õ´ Õ¿Õ¥Õ­Õ¶Õ«Õ¯Õ¡Õ¯Õ¡Õ¶ Õ¾Õ¥Ö€Õ¡Õ°Õ½Õ¯Õ¸Õ²Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶:
 
-#### Սյուն 6 – Առևտրային ծառայություններ
-Nexus Gaja-ն կարող է առաջարկել B2B ծառայություններ, ինչպիսիք են **Թարգմանությունը որպես ծառայություն (API)**, պրոֆեսիոնալ թարգմանություն, կազմակերպչական հաղորդակցություն կամ միջազգային կոնֆերանս սենյակներ՝ չծանրաբեռնելով սովորական օգտատերերի հոսքը գովազդով:
+#### ÕÕµÕ¸Ö‚Õ¶ 6 â€“ Ô±Õ¼Ö‡Õ¿Ö€Õ¡ÕµÕ«Õ¶ Õ®Õ¡Õ¼Õ¡ÕµÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€
+Nexus Gaja-Õ¶ Õ¯Õ¡Ö€Õ¸Õ² Õ§ Õ¡Õ¼Õ¡Õ»Õ¡Ö€Õ¯Õ¥Õ¬ B2B Õ®Õ¡Õ¼Õ¡ÕµÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€, Õ«Õ¶Õ¹ÕºÕ«Õ½Õ«Ö„ Õ¥Õ¶ **Ô¹Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Õ¸Ö€ÕºÕ¥Õ½ Õ®Õ¡Õ¼Õ¡ÕµÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ (API)**, ÕºÖ€Õ¸Ö†Õ¥Õ½Õ«Õ¸Õ¶Õ¡Õ¬ Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶, Õ¯Õ¡Õ¦Õ´Õ¡Õ¯Õ¥Ö€ÕºÕ¹Õ¡Õ¯Õ¡Õ¶ Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ Õ¯Õ¡Õ´ Õ´Õ«Õ»Õ¡Õ¦Õ£Õ¡ÕµÕ«Õ¶ Õ¯Õ¸Õ¶Ö†Õ¥Ö€Õ¡Õ¶Õ½ Õ½Õ¥Õ¶ÕµÕ¡Õ¯Õ¶Õ¥Ö€Õ Õ¹Õ®Õ¡Õ¶Ö€Õ¡Õ¢Õ¥Õ¼Õ¶Õ¥Õ¬Õ¸Õ¾ Õ½Õ¸Õ¾Õ¸Ö€Õ¡Õ¯Õ¡Õ¶ Ö…Õ£Õ¿Õ¡Õ¿Õ¥Ö€Õ¥Ö€Õ« Õ°Õ¸Õ½Ö„Õ¨ Õ£Õ¸Õ¾Õ¡Õ¦Õ¤Õ¸Õ¾:
 
-### 4. Առանց տվյալների շուկայավարման և առանց «հսկողության տնտեսության»
-**NG-FIN-003:** Օգտատիրոջ անձնական տվյալները Nexus Gaja-ի ապրանքը չեն: (Պրոֆիլների, պատմությունների, ինքնության տվյալների վաճառք չկա): 
-Nexus Gaja-ն նպատակ չունի օգուտ քաղել այն բանից, որ իր օգտատերերը հնարավորինս մշտադիտարկվեն և հնարավորինս ճշգրիտ դասակարգվեն հոգեբանորեն:
+### 4. Ô±Õ¼Õ¡Õ¶Ö Õ¿Õ¾ÕµÕ¡Õ¬Õ¶Õ¥Ö€Õ« Õ·Õ¸Ö‚Õ¯Õ¡ÕµÕ¡Õ¾Õ¡Ö€Õ´Õ¡Õ¶ Ö‡ Õ¡Õ¼Õ¡Õ¶Ö Â«Õ°Õ½Õ¯Õ¸Õ²Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¿Õ¶Õ¿Õ¥Õ½Õ¸Ö‚Õ©ÕµÕ¡Õ¶Â»
+**NG-FIN-003:** Õ•Õ£Õ¿Õ¡Õ¿Õ«Ö€Õ¸Õ» Õ¡Õ¶Õ±Õ¶Õ¡Õ¯Õ¡Õ¶ Õ¿Õ¾ÕµÕ¡Õ¬Õ¶Õ¥Ö€Õ¨ Nexus Gaja-Õ« Õ¡ÕºÖ€Õ¡Õ¶Ö„Õ¨ Õ¹Õ¥Õ¶: (ÕŠÖ€Õ¸Ö†Õ«Õ¬Õ¶Õ¥Ö€Õ«, ÕºÕ¡Õ¿Õ´Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ«, Õ«Õ¶Ö„Õ¶Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¿Õ¾ÕµÕ¡Õ¬Õ¶Õ¥Ö€Õ« Õ¾Õ¡Õ³Õ¡Õ¼Ö„ Õ¹Õ¯Õ¡): 
+Nexus Gaja-Õ¶ Õ¶ÕºÕ¡Õ¿Õ¡Õ¯ Õ¹Õ¸Ö‚Õ¶Õ« Ö…Õ£Õ¸Ö‚Õ¿ Ö„Õ¡Õ²Õ¥Õ¬ Õ¡ÕµÕ¶ Õ¢Õ¡Õ¶Õ«Ö, Õ¸Ö€ Õ«Ö€ Ö…Õ£Õ¿Õ¡Õ¿Õ¥Ö€Õ¥Ö€Õ¨ Õ°Õ¶Õ¡Ö€Õ¡Õ¾Õ¸Ö€Õ«Õ¶Õ½ Õ´Õ·Õ¿Õ¡Õ¤Õ«Õ¿Õ¡Ö€Õ¯Õ¾Õ¥Õ¶ Ö‡ Õ°Õ¶Õ¡Ö€Õ¡Õ¾Õ¸Ö€Õ«Õ¶Õ½ Õ³Õ·Õ£Ö€Õ«Õ¿ Õ¤Õ¡Õ½Õ¡Õ¯Õ¡Ö€Õ£Õ¾Õ¥Õ¶ Õ°Õ¸Õ£Õ¥Õ¢Õ¡Õ¶Õ¸Ö€Õ¥Õ¶:
 
-### 5. Ֆինանսական թափանցիկություն
-Nexus Gaja ֆինանսական թափանցիկություն. եկամուտը կարող է հրապարակվել ըստ կատեգորիաների, նվիրատվության ծավալի, գործառնական ծախսերի և այլն: 
-**Ֆինանսավորման մատյան.** Հատուկ նպատակի համար նախատեսված նվիրատվությունները գրանցվում են հասկանալի հաշվապահական եղանակով (Նվիրատվություն → Ֆոնդի ID → Նպատակ → Հասանելի մնացորդ → Հատկացում): Չկա խաչաձև սուբսիդավորում առանց թափանցիկության.
+### 5. Õ–Õ«Õ¶Õ¡Õ¶Õ½Õ¡Õ¯Õ¡Õ¶ Õ©Õ¡ÖƒÕ¡Õ¶ÖÕ«Õ¯Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶
+Nexus Gaja Ö†Õ«Õ¶Õ¡Õ¶Õ½Õ¡Õ¯Õ¡Õ¶ Õ©Õ¡ÖƒÕ¡Õ¶ÖÕ«Õ¯Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶. Õ¥Õ¯Õ¡Õ´Õ¸Ö‚Õ¿Õ¨ Õ¯Õ¡Ö€Õ¸Õ² Õ§ Õ°Ö€Õ¡ÕºÕ¡Ö€Õ¡Õ¯Õ¾Õ¥Õ¬ Õ¨Õ½Õ¿ Õ¯Õ¡Õ¿Õ¥Õ£Õ¸Ö€Õ«Õ¡Õ¶Õ¥Ö€Õ«, Õ¶Õ¾Õ«Ö€Õ¡Õ¿Õ¾Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ®Õ¡Õ¾Õ¡Õ¬Õ«, Õ£Õ¸Ö€Õ®Õ¡Õ¼Õ¶Õ¡Õ¯Õ¡Õ¶ Õ®Õ¡Õ­Õ½Õ¥Ö€Õ« Ö‡ Õ¡ÕµÕ¬Õ¶: 
+**Õ–Õ«Õ¶Õ¡Õ¶Õ½Õ¡Õ¾Õ¸Ö€Õ´Õ¡Õ¶ Õ´Õ¡Õ¿ÕµÕ¡Õ¶.** Õ€Õ¡Õ¿Õ¸Ö‚Õ¯ Õ¶ÕºÕ¡Õ¿Õ¡Õ¯Õ« Õ°Õ¡Õ´Õ¡Ö€ Õ¶Õ¡Õ­Õ¡Õ¿Õ¥Õ½Õ¾Õ¡Õ® Õ¶Õ¾Õ«Ö€Õ¡Õ¿Õ¾Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¨ Õ£Ö€Õ¡Õ¶ÖÕ¾Õ¸Ö‚Õ´ Õ¥Õ¶ Õ°Õ¡Õ½Õ¯Õ¡Õ¶Õ¡Õ¬Õ« Õ°Õ¡Õ·Õ¾Õ¡ÕºÕ¡Õ°Õ¡Õ¯Õ¡Õ¶ Õ¥Õ²Õ¡Õ¶Õ¡Õ¯Õ¸Õ¾ (Õ†Õ¾Õ«Ö€Õ¡Õ¿Õ¾Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ â†’ Õ–Õ¸Õ¶Õ¤Õ« ID â†’ Õ†ÕºÕ¡Õ¿Õ¡Õ¯ â†’ Õ€Õ¡Õ½Õ¡Õ¶Õ¥Õ¬Õ« Õ´Õ¶Õ¡ÖÕ¸Ö€Õ¤ â†’ Õ€Õ¡Õ¿Õ¯Õ¡ÖÕ¸Ö‚Õ´): Õ‰Õ¯Õ¡ Õ­Õ¡Õ¹Õ¡Õ±Ö‡ Õ½Õ¸Ö‚Õ¢Õ½Õ«Õ¤Õ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ´ Õ¡Õ¼Õ¡Õ¶Ö Õ©Õ¡ÖƒÕ¡Õ¶ÖÕ«Õ¯Õ¸Ö‚Õ©ÕµÕ¡Õ¶.
 
-### 6. Գնագոյացման և համերաշխության ֆինանսավորման մոդել
-Գները հիմնված են ծախսային կողմնորոշման, արդարության և համերաշխության վրա:
-**Solidarity Premium.** Պրեմիում օգտատերը կարող է կամավոր ընտրել. «Ես ֆինանսավորում եմ մեկ այլ օգտատիրոջ մուտքի մի մասը»: Բացառվում է հարկադիր համերաշխությունը կամ պրեմիում դասի հասարակությունը (ավելի քիչ հարգանք կամ ավելի վատ չափավորություն անվճար օգտվողների համար):
+### 6. Ô³Õ¶Õ¡Õ£Õ¸ÕµÕ¡ÖÕ´Õ¡Õ¶ Ö‡ Õ°Õ¡Õ´Õ¥Ö€Õ¡Õ·Õ­Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Ö†Õ«Õ¶Õ¡Õ¶Õ½Õ¡Õ¾Õ¸Ö€Õ´Õ¡Õ¶ Õ´Õ¸Õ¤Õ¥Õ¬
+Ô³Õ¶Õ¥Ö€Õ¨ Õ°Õ«Õ´Õ¶Õ¾Õ¡Õ® Õ¥Õ¶ Õ®Õ¡Õ­Õ½Õ¡ÕµÕ«Õ¶ Õ¯Õ¸Õ²Õ´Õ¶Õ¸Ö€Õ¸Õ·Õ´Õ¡Õ¶, Õ¡Ö€Õ¤Õ¡Ö€Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Ö‡ Õ°Õ¡Õ´Õ¥Ö€Õ¡Õ·Õ­Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¾Ö€Õ¡:
+**Solidarity Premium.** ÕŠÖ€Õ¥Õ´Õ«Õ¸Ö‚Õ´ Ö…Õ£Õ¿Õ¡Õ¿Õ¥Ö€Õ¨ Õ¯Õ¡Ö€Õ¸Õ² Õ§ Õ¯Õ¡Õ´Õ¡Õ¾Õ¸Ö€ Õ¨Õ¶Õ¿Ö€Õ¥Õ¬. Â«ÔµÕ½ Ö†Õ«Õ¶Õ¡Õ¶Õ½Õ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ´ Õ¥Õ´ Õ´Õ¥Õ¯ Õ¡ÕµÕ¬ Ö…Õ£Õ¿Õ¡Õ¿Õ«Ö€Õ¸Õ» Õ´Õ¸Ö‚Õ¿Ö„Õ« Õ´Õ« Õ´Õ¡Õ½Õ¨Â»: Ô²Õ¡ÖÕ¡Õ¼Õ¾Õ¸Ö‚Õ´ Õ§ Õ°Õ¡Ö€Õ¯Õ¡Õ¤Õ«Ö€ Õ°Õ¡Õ´Õ¥Ö€Õ¡Õ·Õ­Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Õ¯Õ¡Õ´ ÕºÖ€Õ¥Õ´Õ«Õ¸Ö‚Õ´ Õ¤Õ¡Õ½Õ« Õ°Õ¡Õ½Õ¡Ö€Õ¡Õ¯Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ (Õ¡Õ¾Õ¥Õ¬Õ« Ö„Õ«Õ¹ Õ°Õ¡Ö€Õ£Õ¡Õ¶Ö„ Õ¯Õ¡Õ´ Õ¡Õ¾Õ¥Õ¬Õ« Õ¾Õ¡Õ¿ Õ¹Õ¡ÖƒÕ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ Õ¡Õ¶Õ¾Õ³Õ¡Ö€ Ö…Õ£Õ¿Õ¾Õ¸Õ²Õ¶Õ¥Ö€Õ« Õ°Õ¡Õ´Õ¡Ö€):
 
-### 7. Տնտեսական KPI
-Մենք կախված չենք անվերջ առցանց ժամանակից (առանց մանիպուլյատիվ ներգրավվածության տնտեսության): Մեր KPI-ները.
-- **Հաղորդակցության գլոբալ ինդեքս (GCI):** Քանի՞ հաջող հաղորդակցական հարաբերություններ են առաջանում լեզվական կամ մշակութային տարբեր տարածաշրջանների մարդկանց միջև:
-- **Պլատֆորմի կայունության հարաբերակցությունը (PSR).** պարբերական եկամուտներ / պարբերական գործառնական ծախսեր (նպատակը՝ PSR ≥ 1):
+### 7. ÕÕ¶Õ¿Õ¥Õ½Õ¡Õ¯Õ¡Õ¶ KPI
+Õ„Õ¥Õ¶Ö„ Õ¯Õ¡Õ­Õ¾Õ¡Õ® Õ¹Õ¥Õ¶Ö„ Õ¡Õ¶Õ¾Õ¥Ö€Õ» Õ¡Õ¼ÖÕ¡Õ¶Ö ÕªÕ¡Õ´Õ¡Õ¶Õ¡Õ¯Õ«Ö (Õ¡Õ¼Õ¡Õ¶Ö Õ´Õ¡Õ¶Õ«ÕºÕ¸Ö‚Õ¬ÕµÕ¡Õ¿Õ«Õ¾ Õ¶Õ¥Ö€Õ£Ö€Õ¡Õ¾Õ¾Õ¡Õ®Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¿Õ¶Õ¿Õ¥Õ½Õ¸Ö‚Õ©ÕµÕ¡Õ¶): Õ„Õ¥Ö€ KPI-Õ¶Õ¥Ö€Õ¨.
+- **Õ€Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ£Õ¬Õ¸Õ¢Õ¡Õ¬ Õ«Õ¶Õ¤Õ¥Ö„Õ½ (GCI):** Õ”Õ¡Õ¶Õ«Õž Õ°Õ¡Õ»Õ¸Õ² Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ¡Õ¯Õ¡Õ¶ Õ°Õ¡Ö€Õ¡Õ¢Õ¥Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€ Õ¥Õ¶ Õ¡Õ¼Õ¡Õ»Õ¡Õ¶Õ¸Ö‚Õ´ Õ¬Õ¥Õ¦Õ¾Õ¡Õ¯Õ¡Õ¶ Õ¯Õ¡Õ´ Õ´Õ·Õ¡Õ¯Õ¸Ö‚Õ©Õ¡ÕµÕ«Õ¶ Õ¿Õ¡Ö€Õ¢Õ¥Ö€ Õ¿Õ¡Ö€Õ¡Õ®Õ¡Õ·Ö€Õ»Õ¡Õ¶Õ¶Õ¥Ö€Õ« Õ´Õ¡Ö€Õ¤Õ¯Õ¡Õ¶Ö Õ´Õ«Õ»Ö‡:
+- **ÕŠÕ¬Õ¡Õ¿Ö†Õ¸Ö€Õ´Õ« Õ¯Õ¡ÕµÕ¸Ö‚Õ¶Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ°Õ¡Ö€Õ¡Õ¢Õ¥Ö€Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ (PSR).** ÕºÕ¡Ö€Õ¢Õ¥Ö€Õ¡Õ¯Õ¡Õ¶ Õ¥Õ¯Õ¡Õ´Õ¸Ö‚Õ¿Õ¶Õ¥Ö€ / ÕºÕ¡Ö€Õ¢Õ¥Ö€Õ¡Õ¯Õ¡Õ¶ Õ£Õ¸Ö€Õ®Õ¡Õ¼Õ¶Õ¡Õ¯Õ¡Õ¶ Õ®Õ¡Õ­Õ½Õ¥Ö€ (Õ¶ÕºÕ¡Õ¿Õ¡Õ¯Õ¨Õ PSR â‰¥ 1):
 
-### 8. Այն, ինչ մենք բացահայտորեն չենք ուզում
-Nexus Gaja-ն չի ֆինանսավորվում՝
-❌ Անձնական տեղեկատվության վաճառք
-❌ անհատականացված դասական գովազդ
-❌ Գովազդային նպատակներով օգտագործողի վարքագծի մոնիտորինգ
-❌ Անձնական կապի տվյալների վաճառք
-❌ թաքնված AI տվյալների օգտագործումը
-❌ Պրեմիում մանիպուլյատիվ կողպեքներ
-❌ Արհեստական հասանելիության սահմանափակում դրամայնացման համար
-❌ վճարովի քաղաքական ազդեցություն
-❌ Արտոնյալ չափավոր որոշումների գնում:
+### 8. Ô±ÕµÕ¶, Õ«Õ¶Õ¹ Õ´Õ¥Õ¶Ö„ Õ¢Õ¡ÖÕ¡Õ°Õ¡ÕµÕ¿Õ¸Ö€Õ¥Õ¶ Õ¹Õ¥Õ¶Ö„ Õ¸Ö‚Õ¦Õ¸Ö‚Õ´
+Nexus Gaja-Õ¶ Õ¹Õ« Ö†Õ«Õ¶Õ¡Õ¶Õ½Õ¡Õ¾Õ¸Ö€Õ¾Õ¸Ö‚Õ´Õ
+âŒ Ô±Õ¶Õ±Õ¶Õ¡Õ¯Õ¡Õ¶ Õ¿Õ¥Õ²Õ¥Õ¯Õ¡Õ¿Õ¾Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¾Õ¡Õ³Õ¡Õ¼Ö„
+âŒ Õ¡Õ¶Õ°Õ¡Õ¿Õ¡Õ¯Õ¡Õ¶Õ¡ÖÕ¾Õ¡Õ® Õ¤Õ¡Õ½Õ¡Õ¯Õ¡Õ¶ Õ£Õ¸Õ¾Õ¡Õ¦Õ¤
+âŒ Ô³Õ¸Õ¾Õ¡Õ¦Õ¤Õ¡ÕµÕ«Õ¶ Õ¶ÕºÕ¡Õ¿Õ¡Õ¯Õ¶Õ¥Ö€Õ¸Õ¾ Ö…Õ£Õ¿Õ¡Õ£Õ¸Ö€Õ®Õ¸Õ²Õ« Õ¾Õ¡Ö€Ö„Õ¡Õ£Õ®Õ« Õ´Õ¸Õ¶Õ«Õ¿Õ¸Ö€Õ«Õ¶Õ£
+âŒ Ô±Õ¶Õ±Õ¶Õ¡Õ¯Õ¡Õ¶ Õ¯Õ¡ÕºÕ« Õ¿Õ¾ÕµÕ¡Õ¬Õ¶Õ¥Ö€Õ« Õ¾Õ¡Õ³Õ¡Õ¼Ö„
+âŒ Õ©Õ¡Ö„Õ¶Õ¾Õ¡Õ® AI Õ¿Õ¾ÕµÕ¡Õ¬Õ¶Õ¥Ö€Õ« Ö…Õ£Õ¿Õ¡Õ£Õ¸Ö€Õ®Õ¸Ö‚Õ´Õ¨
+âŒ ÕŠÖ€Õ¥Õ´Õ«Õ¸Ö‚Õ´ Õ´Õ¡Õ¶Õ«ÕºÕ¸Ö‚Õ¬ÕµÕ¡Õ¿Õ«Õ¾ Õ¯Õ¸Õ²ÕºÕ¥Ö„Õ¶Õ¥Ö€
+âŒ Ô±Ö€Õ°Õ¥Õ½Õ¿Õ¡Õ¯Õ¡Õ¶ Õ°Õ¡Õ½Õ¡Õ¶Õ¥Õ¬Õ«Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ½Õ¡Õ°Õ´Õ¡Õ¶Õ¡ÖƒÕ¡Õ¯Õ¸Ö‚Õ´ Õ¤Ö€Õ¡Õ´Õ¡ÕµÕ¶Õ¡ÖÕ´Õ¡Õ¶ Õ°Õ¡Õ´Õ¡Ö€
+âŒ Õ¾Õ³Õ¡Ö€Õ¸Õ¾Õ« Ö„Õ¡Õ²Õ¡Ö„Õ¡Õ¯Õ¡Õ¶ Õ¡Õ¦Õ¤Õ¥ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶
+âŒ Ô±Ö€Õ¿Õ¸Õ¶ÕµÕ¡Õ¬ Õ¹Õ¡ÖƒÕ¡Õ¾Õ¸Ö€ Õ¸Ö€Õ¸Õ·Õ¸Ö‚Õ´Õ¶Õ¥Ö€Õ« Õ£Õ¶Õ¸Ö‚Õ´:
 
-### 9. Նախնական ճարտարապետություն
-`` տեքստ
+### 9. Õ†Õ¡Õ­Õ¶Õ¡Õ¯Õ¡Õ¶ Õ³Õ¡Ö€Õ¿Õ¡Ö€Õ¡ÕºÕ¥Õ¿Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶
+`` Õ¿Õ¥Ö„Õ½Õ¿
                          NEXUS GAJA
-                              │
-             ┌────────────────┼─────
-             │ │ │
-             ▼ ▼ ▼
-          ՕԳՏԱԳՈՐԾՆԵՐ ԿԱԶՄԱԿԵՐՊՈՒԹՅՈՒՆՆԵՐ ՁԵՌՆԱՐԿՈՒԹՅՈՒՆ
-             │ │ │
-             └────────────────┼─────
-                              │
-                       ՀԱՐԹԱԿԱՅԻՆ ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐ
-                              │
-          ┌─────────────────── ┼───────────────────┐
-          ▼ ▼ ▼
+                              â”‚
+             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€
+             â”‚ â”‚ â”‚
+             â–¼ â–¼ â–¼
+          Õ•Ô³ÕÔ±Ô³ÕˆÕÔ¾Õ†ÔµÕ Ô¿Ô±Ô¶Õ„Ô±Ô¿ÔµÕÕŠÕˆÕ’Ô¹Õ…ÕˆÕ’Õ†Õ†ÔµÕ ÕÔµÕŒÕ†Ô±ÕÔ¿ÕˆÕ’Ô¹Õ…ÕˆÕ’Õ†
+             â”‚ â”‚ â”‚
+             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€
+                              â”‚
+                       Õ€Ô±ÕÔ¹Ô±Ô¿Ô±Õ…Ô»Õ† Ô¾Ô±ÕŒÔ±Õ…ÕˆÕ’Ô¹Õ…ÕˆÕ’Õ†Õ†ÔµÕ
+                              â”‚
+          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+          â–¼ â–¼ â–¼
        PREMIUM DONATIONS API
-                              │
-                    ┌─────────┴─────────┐
-                    ▼ ▼
-               ԸՆԴՀԱՆՈՒՐ ՖՈՆԴԻ ՍԱՀՄԱՆԱՓԱԿՎԱԾ ՄԻՋՈՑՆԵՐ
-                                        │
-                                        ▼
-                                  ՍՈՑԻԱԼԱԿԱՆ ՆՊԱՏԱԿ
+                              â”‚
+                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+                    â–¼ â–¼
+               Ô¸Õ†Ô´Õ€Ô±Õ†ÕˆÕ’Õ Õ–ÕˆÕ†Ô´Ô» ÕÔ±Õ€Õ„Ô±Õ†Ô±Õ“Ô±Ô¿ÕŽÔ±Ô¾ Õ„Ô»Õ‹ÕˆÕ‘Õ†ÔµÕ
+                                        â”‚
+                                        â–¼
+                                  ÕÕˆÕ‘Ô»Ô±Ô¼Ô±Ô¿Ô±Õ† Õ†ÕŠÔ±ÕÔ±Ô¿
 ```
 
-### Ամփոփում. Ֆինանսավորման սկզբունքներ (NG-FIN)
-- **NG-FIN-001:** Nexus Gaja-ն չի ֆինանսավորվում ավանդական գովազդով:
-- **NG-FIN-002:** Ֆինանսական աջակցությունը չի կարող ազդեցություն ունենալ չափավորության կամ կառավարման վրա:
-- **NG-FIN-003:** Օգտվողի անձնական տվյալները ապրանք չեն:
-- **NG-FIN-004:** Միջազգային հաղորդակցության հիմնական գործառույթը պետք է հասանելի մնա առանց վճարման:
-- **NG-FIN-005:** Պրեմիում առաջարկներն ընդլայնում են ծառայությունների շրջանակը, սակայն չպետք է նսեմացնեն անվճար օգտատերերի արժանապատվությունը և հաղորդակցման հիմնական տարբերակները:
-- **NG-FIN-006:** Նշանակված միջոցները կառավարվում են որոշակի նպատակով:
-- **NG-FIN-007:** Նվիրատվությունները և ֆինանսավորումը կառավարվում են թափանցիկ և հասկանալի:
-- **NG-FIN-008:** Առևտրային ծառայությունները չպետք է ազդեն հարթակի անկախության վրա:
-- **NG-FIN-009:** Nexus Gaja-ի տնտեսական զարգացումը պետք է ուղղված լինի երկարաժամկետ կայունությանը և ոչ թե օգտագործողների առավելագույն դրամայնացմանը:
-- **NG-FIN-010:** Տնտեսական կառուցվածքը պետք է մշտապես հնարավորություն տա սոցիալական նպատակին` միջազգային փոխըմբռնմանը, միջազգային հաղորդակցությանը և ժողովուրդների միջև բարեկամությանը:
+### Ô±Õ´ÖƒÕ¸ÖƒÕ¸Ö‚Õ´. Õ–Õ«Õ¶Õ¡Õ¶Õ½Õ¡Õ¾Õ¸Ö€Õ´Õ¡Õ¶ Õ½Õ¯Õ¦Õ¢Õ¸Ö‚Õ¶Ö„Õ¶Õ¥Ö€ (NG-FIN)
+- **NG-FIN-001:** Nexus Gaja-Õ¶ Õ¹Õ« Ö†Õ«Õ¶Õ¡Õ¶Õ½Õ¡Õ¾Õ¸Ö€Õ¾Õ¸Ö‚Õ´ Õ¡Õ¾Õ¡Õ¶Õ¤Õ¡Õ¯Õ¡Õ¶ Õ£Õ¸Õ¾Õ¡Õ¦Õ¤Õ¸Õ¾:
+- **NG-FIN-002:** Õ–Õ«Õ¶Õ¡Õ¶Õ½Õ¡Õ¯Õ¡Õ¶ Õ¡Õ»Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Õ¹Õ« Õ¯Õ¡Ö€Õ¸Õ² Õ¡Õ¦Õ¤Õ¥ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ Õ¸Ö‚Õ¶Õ¥Õ¶Õ¡Õ¬ Õ¹Õ¡ÖƒÕ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¯Õ¡Õ´ Õ¯Õ¡Õ¼Õ¡Õ¾Õ¡Ö€Õ´Õ¡Õ¶ Õ¾Ö€Õ¡:
+- **NG-FIN-003:** Õ•Õ£Õ¿Õ¾Õ¸Õ²Õ« Õ¡Õ¶Õ±Õ¶Õ¡Õ¯Õ¡Õ¶ Õ¿Õ¾ÕµÕ¡Õ¬Õ¶Õ¥Ö€Õ¨ Õ¡ÕºÖ€Õ¡Õ¶Ö„ Õ¹Õ¥Õ¶:
+- **NG-FIN-004:** Õ„Õ«Õ»Õ¡Õ¦Õ£Õ¡ÕµÕ«Õ¶ Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ°Õ«Õ´Õ¶Õ¡Õ¯Õ¡Õ¶ Õ£Õ¸Ö€Õ®Õ¡Õ¼Õ¸Ö‚ÕµÕ©Õ¨ ÕºÕ¥Õ¿Ö„ Õ§ Õ°Õ¡Õ½Õ¡Õ¶Õ¥Õ¬Õ« Õ´Õ¶Õ¡ Õ¡Õ¼Õ¡Õ¶Ö Õ¾Õ³Õ¡Ö€Õ´Õ¡Õ¶:
+- **NG-FIN-005:** ÕŠÖ€Õ¥Õ´Õ«Õ¸Ö‚Õ´ Õ¡Õ¼Õ¡Õ»Õ¡Ö€Õ¯Õ¶Õ¥Ö€Õ¶ Õ¨Õ¶Õ¤Õ¬Õ¡ÕµÕ¶Õ¸Ö‚Õ´ Õ¥Õ¶ Õ®Õ¡Õ¼Õ¡ÕµÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ« Õ·Ö€Õ»Õ¡Õ¶Õ¡Õ¯Õ¨, Õ½Õ¡Õ¯Õ¡ÕµÕ¶ Õ¹ÕºÕ¥Õ¿Ö„ Õ§ Õ¶Õ½Õ¥Õ´Õ¡ÖÕ¶Õ¥Õ¶ Õ¡Õ¶Õ¾Õ³Õ¡Ö€ Ö…Õ£Õ¿Õ¡Õ¿Õ¥Ö€Õ¥Ö€Õ« Õ¡Ö€ÕªÕ¡Õ¶Õ¡ÕºÕ¡Õ¿Õ¾Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Ö‡ Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ´Õ¡Õ¶ Õ°Õ«Õ´Õ¶Õ¡Õ¯Õ¡Õ¶ Õ¿Õ¡Ö€Õ¢Õ¥Ö€Õ¡Õ¯Õ¶Õ¥Ö€Õ¨:
+- **NG-FIN-006:** Õ†Õ·Õ¡Õ¶Õ¡Õ¯Õ¾Õ¡Õ® Õ´Õ«Õ»Õ¸ÖÕ¶Õ¥Ö€Õ¨ Õ¯Õ¡Õ¼Õ¡Õ¾Õ¡Ö€Õ¾Õ¸Ö‚Õ´ Õ¥Õ¶ Õ¸Ö€Õ¸Õ·Õ¡Õ¯Õ« Õ¶ÕºÕ¡Õ¿Õ¡Õ¯Õ¸Õ¾:
+- **NG-FIN-007:** Õ†Õ¾Õ«Ö€Õ¡Õ¿Õ¾Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¨ Ö‡ Ö†Õ«Õ¶Õ¡Õ¶Õ½Õ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ´Õ¨ Õ¯Õ¡Õ¼Õ¡Õ¾Õ¡Ö€Õ¾Õ¸Ö‚Õ´ Õ¥Õ¶ Õ©Õ¡ÖƒÕ¡Õ¶ÖÕ«Õ¯ Ö‡ Õ°Õ¡Õ½Õ¯Õ¡Õ¶Õ¡Õ¬Õ«:
+- **NG-FIN-008:** Ô±Õ¼Ö‡Õ¿Ö€Õ¡ÕµÕ«Õ¶ Õ®Õ¡Õ¼Õ¡ÕµÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¨ Õ¹ÕºÕ¥Õ¿Ö„ Õ§ Õ¡Õ¦Õ¤Õ¥Õ¶ Õ°Õ¡Ö€Õ©Õ¡Õ¯Õ« Õ¡Õ¶Õ¯Õ¡Õ­Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¾Ö€Õ¡:
+- **NG-FIN-009:** Nexus Gaja-Õ« Õ¿Õ¶Õ¿Õ¥Õ½Õ¡Õ¯Õ¡Õ¶ Õ¦Õ¡Ö€Õ£Õ¡ÖÕ¸Ö‚Õ´Õ¨ ÕºÕ¥Õ¿Ö„ Õ§ Õ¸Ö‚Õ²Õ²Õ¾Õ¡Õ® Õ¬Õ«Õ¶Õ« Õ¥Ö€Õ¯Õ¡Ö€Õ¡ÕªÕ¡Õ´Õ¯Õ¥Õ¿ Õ¯Õ¡ÕµÕ¸Ö‚Õ¶Õ¸Ö‚Õ©ÕµÕ¡Õ¶Õ¨ Ö‡ Õ¸Õ¹ Õ©Õ¥ Ö…Õ£Õ¿Õ¡Õ£Õ¸Ö€Õ®Õ¸Õ²Õ¶Õ¥Ö€Õ« Õ¡Õ¼Õ¡Õ¾Õ¥Õ¬Õ¡Õ£Õ¸Ö‚ÕµÕ¶ Õ¤Ö€Õ¡Õ´Õ¡ÕµÕ¶Õ¡ÖÕ´Õ¡Õ¶Õ¨:
+- **NG-FIN-010:** ÕÕ¶Õ¿Õ¥Õ½Õ¡Õ¯Õ¡Õ¶ Õ¯Õ¡Õ¼Õ¸Ö‚ÖÕ¾Õ¡Õ®Ö„Õ¨ ÕºÕ¥Õ¿Ö„ Õ§ Õ´Õ·Õ¿Õ¡ÕºÕ¥Õ½ Õ°Õ¶Õ¡Ö€Õ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ Õ¿Õ¡ Õ½Õ¸ÖÕ«Õ¡Õ¬Õ¡Õ¯Õ¡Õ¶ Õ¶ÕºÕ¡Õ¿Õ¡Õ¯Õ«Õ¶` Õ´Õ«Õ»Õ¡Õ¦Õ£Õ¡ÕµÕ«Õ¶ ÖƒÕ¸Õ­Õ¨Õ´Õ¢Õ¼Õ¶Õ´Õ¡Õ¶Õ¨, Õ´Õ«Õ»Õ¡Õ¦Õ£Õ¡ÕµÕ«Õ¶ Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¡Õ¶Õ¨ Ö‡ ÕªÕ¸Õ²Õ¸Õ¾Õ¸Ö‚Ö€Õ¤Õ¶Õ¥Ö€Õ« Õ´Õ«Õ»Ö‡ Õ¢Õ¡Ö€Õ¥Õ¯Õ¡Õ´Õ¸Ö‚Õ©ÕµÕ¡Õ¶Õ¨:
 
-## API, ինտերֆեյս և հաղորդակցության ճարտարապետություն (WP 1.11.3)
+## API, Õ«Õ¶Õ¿Õ¥Ö€Ö†Õ¥ÕµÕ½ Ö‡ Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ³Õ¡Ö€Õ¿Õ¡Ö€Õ¡ÕºÕ¥Õ¿Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ (WP 1.11.3)
 
-Համակարգի կայունությունը, անվտանգությունը և մասշտաբայնությունը ապահովելու համար Nexus Gaja-ն հետևում է խիստ API-ի վրա հիմնված և իրադարձությունների վրա հիմնված ճարտարապետությանը:
+Õ€Õ¡Õ´Õ¡Õ¯Õ¡Ö€Õ£Õ« Õ¯Õ¡ÕµÕ¸Ö‚Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨, Õ¡Õ¶Õ¾Õ¿Õ¡Õ¶Õ£Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Ö‡ Õ´Õ¡Õ½Õ·Õ¿Õ¡Õ¢Õ¡ÕµÕ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Õ¡ÕºÕ¡Õ°Õ¸Õ¾Õ¥Õ¬Õ¸Ö‚ Õ°Õ¡Õ´Õ¡Ö€ Nexus Gaja-Õ¶ Õ°Õ¥Õ¿Ö‡Õ¸Ö‚Õ´ Õ§ Õ­Õ«Õ½Õ¿ API-Õ« Õ¾Ö€Õ¡ Õ°Õ«Õ´Õ¶Õ¾Õ¡Õ® Ö‡ Õ«Ö€Õ¡Õ¤Õ¡Ö€Õ±Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ« Õ¾Ö€Õ¡ Õ°Õ«Õ´Õ¶Õ¾Õ¡Õ® Õ³Õ¡Ö€Õ¿Õ¡Ö€Õ¡ÕºÕ¥Õ¿Õ¸Ö‚Õ©ÕµÕ¡Õ¶Õ¨:
 
-### Հիմնական սկզբունքներ
-- **Տվյալների բազայի ուղղակի հասանելիություն չկա.** Բաղադրիչները հաղորդակցվում են բացառապես սահմանված ինտերֆեյսների միջոցով (API-ներ կամ իրադարձություններ), երբեք այլ ծառայություններից ստացված տվյալների բազայի ուղղակի հարցումների միջոցով:
-- **API Gateway. ** Բոլոր արտաքին հաճախորդի հարցումներն անցնում են API Gateway-ով, որը կարգավորում է նույնականացումը, երթուղավորումը և տոկոսադրույքի սահմանափակումը:
-- **Մատակարարի վերացականում.** Արտաքին ծառայությունները (AI մոդելներ, վճարումների մատակարարներ, թարգմանչական շարժիչներ) ինտեգրված են վերացական շերտերի միջոցով: Սա կանխում է կոշտ լարերի կախվածությունը և թույլ է տալիս ճկուն մատակարարի միացում:
+### Õ€Õ«Õ´Õ¶Õ¡Õ¯Õ¡Õ¶ Õ½Õ¯Õ¦Õ¢Õ¸Ö‚Õ¶Ö„Õ¶Õ¥Ö€
+- **ÕÕ¾ÕµÕ¡Õ¬Õ¶Õ¥Ö€Õ« Õ¢Õ¡Õ¦Õ¡ÕµÕ« Õ¸Ö‚Õ²Õ²Õ¡Õ¯Õ« Õ°Õ¡Õ½Õ¡Õ¶Õ¥Õ¬Õ«Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ Õ¹Õ¯Õ¡.** Ô²Õ¡Õ²Õ¡Õ¤Ö€Õ«Õ¹Õ¶Õ¥Ö€Õ¨ Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ¾Õ¸Ö‚Õ´ Õ¥Õ¶ Õ¢Õ¡ÖÕ¡Õ¼Õ¡ÕºÕ¥Õ½ Õ½Õ¡Õ°Õ´Õ¡Õ¶Õ¾Õ¡Õ® Õ«Õ¶Õ¿Õ¥Ö€Ö†Õ¥ÕµÕ½Õ¶Õ¥Ö€Õ« Õ´Õ«Õ»Õ¸ÖÕ¸Õ¾ (API-Õ¶Õ¥Ö€ Õ¯Õ¡Õ´ Õ«Ö€Õ¡Õ¤Õ¡Ö€Õ±Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€), Õ¥Ö€Õ¢Õ¥Ö„ Õ¡ÕµÕ¬ Õ®Õ¡Õ¼Õ¡ÕµÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ«Ö Õ½Õ¿Õ¡ÖÕ¾Õ¡Õ® Õ¿Õ¾ÕµÕ¡Õ¬Õ¶Õ¥Ö€Õ« Õ¢Õ¡Õ¦Õ¡ÕµÕ« Õ¸Ö‚Õ²Õ²Õ¡Õ¯Õ« Õ°Õ¡Ö€ÖÕ¸Ö‚Õ´Õ¶Õ¥Ö€Õ« Õ´Õ«Õ»Õ¸ÖÕ¸Õ¾:
+- **API Gateway. ** Ô²Õ¸Õ¬Õ¸Ö€ Õ¡Ö€Õ¿Õ¡Ö„Õ«Õ¶ Õ°Õ¡Õ³Õ¡Õ­Õ¸Ö€Õ¤Õ« Õ°Õ¡Ö€ÖÕ¸Ö‚Õ´Õ¶Õ¥Ö€Õ¶ Õ¡Õ¶ÖÕ¶Õ¸Ö‚Õ´ Õ¥Õ¶ API Gateway-Õ¸Õ¾, Õ¸Ö€Õ¨ Õ¯Õ¡Ö€Õ£Õ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ´ Õ§ Õ¶Õ¸Ö‚ÕµÕ¶Õ¡Õ¯Õ¡Õ¶Õ¡ÖÕ¸Ö‚Õ´Õ¨, Õ¥Ö€Õ©Õ¸Ö‚Õ²Õ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ´Õ¨ Ö‡ Õ¿Õ¸Õ¯Õ¸Õ½Õ¡Õ¤Ö€Õ¸Ö‚ÕµÖ„Õ« Õ½Õ¡Õ°Õ´Õ¡Õ¶Õ¡ÖƒÕ¡Õ¯Õ¸Ö‚Õ´Õ¨:
+- **Õ„Õ¡Õ¿Õ¡Õ¯Õ¡Ö€Õ¡Ö€Õ« Õ¾Õ¥Ö€Õ¡ÖÕ¡Õ¯Õ¡Õ¶Õ¸Ö‚Õ´.** Ô±Ö€Õ¿Õ¡Ö„Õ«Õ¶ Õ®Õ¡Õ¼Õ¡ÕµÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¨ (AI Õ´Õ¸Õ¤Õ¥Õ¬Õ¶Õ¥Ö€, Õ¾Õ³Õ¡Ö€Õ¸Ö‚Õ´Õ¶Õ¥Ö€Õ« Õ´Õ¡Õ¿Õ¡Õ¯Õ¡Ö€Õ¡Ö€Õ¶Õ¥Ö€, Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¹Õ¡Õ¯Õ¡Õ¶ Õ·Õ¡Ö€ÕªÕ«Õ¹Õ¶Õ¥Ö€) Õ«Õ¶Õ¿Õ¥Õ£Ö€Õ¾Õ¡Õ® Õ¥Õ¶ Õ¾Õ¥Ö€Õ¡ÖÕ¡Õ¯Õ¡Õ¶ Õ·Õ¥Ö€Õ¿Õ¥Ö€Õ« Õ´Õ«Õ»Õ¸ÖÕ¸Õ¾: ÕÕ¡ Õ¯Õ¡Õ¶Õ­Õ¸Ö‚Õ´ Õ§ Õ¯Õ¸Õ·Õ¿ Õ¬Õ¡Ö€Õ¥Ö€Õ« Õ¯Õ¡Õ­Õ¾Õ¡Õ®Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Ö‡ Õ©Õ¸Ö‚ÕµÕ¬ Õ§ Õ¿Õ¡Õ¬Õ«Õ½ Õ³Õ¯Õ¸Ö‚Õ¶ Õ´Õ¡Õ¿Õ¡Õ¯Õ¡Ö€Õ¡Ö€Õ« Õ´Õ«Õ¡ÖÕ¸Ö‚Õ´:
 
-### Հաղորդակցման օրինաչափություններ
-- **Սինխրոն API-ներ (REST/HTTPS):** Օգտագործվում է անհապաղ հարցումների համար, ինչպիսիք են մուտքը, պրոֆիլի կարգավորումները կամ ուղղակի թարգմանությունները:
-- **Ասինխրոն իրադարձություններ (Իրադարձությունների ավտոբուս).** Nexus Gaja-ի կենտրոնական նյարդային համակարգը անջատված գործընթացների համար (օրինակ՝ «Message.Created»-ը գործարկում է չափավորություն, թարգմանություն և ծանուցում ասինխրոն կերպով):
-- **Իրական ժամանակում (WebSocket):** Նվիրված ալիքներ ուղիղ զրույցի և մուտքագրման կարգավիճակի համար:
+### Õ€Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ´Õ¡Õ¶ Ö…Ö€Õ«Õ¶Õ¡Õ¹Õ¡ÖƒÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€
+- **ÕÕ«Õ¶Õ­Ö€Õ¸Õ¶ API-Õ¶Õ¥Ö€ (REST/HTTPS):** Õ•Õ£Õ¿Õ¡Õ£Õ¸Ö€Õ®Õ¾Õ¸Ö‚Õ´ Õ§ Õ¡Õ¶Õ°Õ¡ÕºÕ¡Õ² Õ°Õ¡Ö€ÖÕ¸Ö‚Õ´Õ¶Õ¥Ö€Õ« Õ°Õ¡Õ´Õ¡Ö€, Õ«Õ¶Õ¹ÕºÕ«Õ½Õ«Ö„ Õ¥Õ¶ Õ´Õ¸Ö‚Õ¿Ö„Õ¨, ÕºÖ€Õ¸Ö†Õ«Õ¬Õ« Õ¯Õ¡Ö€Õ£Õ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ´Õ¶Õ¥Ö€Õ¨ Õ¯Õ¡Õ´ Õ¸Ö‚Õ²Õ²Õ¡Õ¯Õ« Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¨:
+- **Ô±Õ½Õ«Õ¶Õ­Ö€Õ¸Õ¶ Õ«Ö€Õ¡Õ¤Õ¡Ö€Õ±Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€ (Ô»Ö€Õ¡Õ¤Õ¡Ö€Õ±Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ« Õ¡Õ¾Õ¿Õ¸Õ¢Õ¸Ö‚Õ½).** Nexus Gaja-Õ« Õ¯Õ¥Õ¶Õ¿Ö€Õ¸Õ¶Õ¡Õ¯Õ¡Õ¶ Õ¶ÕµÕ¡Ö€Õ¤Õ¡ÕµÕ«Õ¶ Õ°Õ¡Õ´Õ¡Õ¯Õ¡Ö€Õ£Õ¨ Õ¡Õ¶Õ»Õ¡Õ¿Õ¾Õ¡Õ® Õ£Õ¸Ö€Õ®Õ¨Õ¶Õ©Õ¡ÖÕ¶Õ¥Ö€Õ« Õ°Õ¡Õ´Õ¡Ö€ (Ö…Ö€Õ«Õ¶Õ¡Õ¯Õ Â«Message.CreatedÂ»-Õ¨ Õ£Õ¸Ö€Õ®Õ¡Ö€Õ¯Õ¸Ö‚Õ´ Õ§ Õ¹Õ¡ÖƒÕ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶, Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ Ö‡ Õ®Õ¡Õ¶Õ¸Ö‚ÖÕ¸Ö‚Õ´ Õ¡Õ½Õ«Õ¶Õ­Ö€Õ¸Õ¶ Õ¯Õ¥Ö€ÕºÕ¸Õ¾):
+- **Ô»Ö€Õ¡Õ¯Õ¡Õ¶ ÕªÕ¡Õ´Õ¡Õ¶Õ¡Õ¯Õ¸Ö‚Õ´ (WebSocket):** Õ†Õ¾Õ«Ö€Õ¾Õ¡Õ® Õ¡Õ¬Õ«Ö„Õ¶Õ¥Ö€ Õ¸Ö‚Õ²Õ«Õ² Õ¦Ö€Õ¸Ö‚ÕµÖÕ« Ö‡ Õ´Õ¸Ö‚Õ¿Ö„Õ¡Õ£Ö€Õ´Õ¡Õ¶ Õ¯Õ¡Ö€Õ£Õ¡Õ¾Õ«Õ³Õ¡Õ¯Õ« Õ°Õ¡Õ´Õ¡Ö€:
 
-### Անվտանգություն և հուսալիություն
-- **Զրոյական վստահության մոդել.** Ներքին ցանցի տրաֆիկը ավտոմատ կերպով վստահված չէ; զգայուն ծառայությունից ծառայություն հաղորդակցությունը պահանջում է նույնականացում:
-- **Idempotence և Outbox Pattern.** Կարևորագույն գործողությունները (օրինակ՝ նվիրատվությունները կամ հաղորդագրությունները) նախագծված են որպես անզոր՝ կանխելու բազմակի մշակումը և օգտագործելու ելքային արկղը՝ ապահովելու համար, որ իրադարձությունները չկորչեն նույնիսկ տվյալների բազայի գործարքներում:
+### Ô±Õ¶Õ¾Õ¿Õ¡Õ¶Õ£Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ Ö‡ Õ°Õ¸Ö‚Õ½Õ¡Õ¬Õ«Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶
+- **Ô¶Ö€Õ¸ÕµÕ¡Õ¯Õ¡Õ¶ Õ¾Õ½Õ¿Õ¡Õ°Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ´Õ¸Õ¤Õ¥Õ¬.** Õ†Õ¥Ö€Ö„Õ«Õ¶ ÖÕ¡Õ¶ÖÕ« Õ¿Ö€Õ¡Ö†Õ«Õ¯Õ¨ Õ¡Õ¾Õ¿Õ¸Õ´Õ¡Õ¿ Õ¯Õ¥Ö€ÕºÕ¸Õ¾ Õ¾Õ½Õ¿Õ¡Õ°Õ¾Õ¡Õ® Õ¹Õ§; Õ¦Õ£Õ¡ÕµÕ¸Ö‚Õ¶ Õ®Õ¡Õ¼Õ¡ÕµÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ«Ö Õ®Õ¡Õ¼Õ¡ÕµÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ ÕºÕ¡Õ°Õ¡Õ¶Õ»Õ¸Ö‚Õ´ Õ§ Õ¶Õ¸Ö‚ÕµÕ¶Õ¡Õ¯Õ¡Õ¶Õ¡ÖÕ¸Ö‚Õ´:
+- **Idempotence Ö‡ Outbox Pattern.** Ô¿Õ¡Ö€Ö‡Õ¸Ö€Õ¡Õ£Õ¸Ö‚ÕµÕ¶ Õ£Õ¸Ö€Õ®Õ¸Õ²Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¨ (Ö…Ö€Õ«Õ¶Õ¡Õ¯Õ Õ¶Õ¾Õ«Ö€Õ¡Õ¿Õ¾Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¨ Õ¯Õ¡Õ´ Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ£Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¨) Õ¶Õ¡Õ­Õ¡Õ£Õ®Õ¾Õ¡Õ® Õ¥Õ¶ Õ¸Ö€ÕºÕ¥Õ½ Õ¡Õ¶Õ¦Õ¸Ö€Õ Õ¯Õ¡Õ¶Õ­Õ¥Õ¬Õ¸Ö‚ Õ¢Õ¡Õ¦Õ´Õ¡Õ¯Õ« Õ´Õ·Õ¡Õ¯Õ¸Ö‚Õ´Õ¨ Ö‡ Ö…Õ£Õ¿Õ¡Õ£Õ¸Ö€Õ®Õ¥Õ¬Õ¸Ö‚ Õ¥Õ¬Ö„Õ¡ÕµÕ«Õ¶ Õ¡Ö€Õ¯Õ²Õ¨Õ Õ¡ÕºÕ¡Õ°Õ¸Õ¾Õ¥Õ¬Õ¸Ö‚ Õ°Õ¡Õ´Õ¡Ö€, Õ¸Ö€ Õ«Ö€Õ¡Õ¤Õ¡Ö€Õ±Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¨ Õ¹Õ¯Õ¸Ö€Õ¹Õ¥Õ¶ Õ¶Õ¸Ö‚ÕµÕ¶Õ«Õ½Õ¯ Õ¿Õ¾ÕµÕ¡Õ¬Õ¶Õ¥Ö€Õ« Õ¢Õ¡Õ¦Õ¡ÕµÕ« Õ£Õ¸Ö€Õ®Õ¡Ö€Ö„Õ¶Õ¥Ö€Õ¸Ö‚Õ´:
 
-## MVP տիրույթի մոդել (WP 1.12)
+## MVP Õ¿Õ«Ö€Õ¸Ö‚ÕµÕ©Õ« Õ´Õ¸Õ¤Õ¥Õ¬ (WP 1.12)
 
-![Nexus Gaja մոդուլային մոնոլիտ](assets/img/nexus_architecture.jpg)
+![Nexus Gaja Õ´Õ¸Õ¤Õ¸Ö‚Õ¬Õ¡ÕµÕ«Õ¶ Õ´Õ¸Õ¶Õ¸Õ¬Õ«Õ¿](assets/img/nexus_architecture.jpg)
 
-Nexus Gaja-ն օգտագործում է խիստ տիրույթի վրա հիմնված MVP ճարտարապետություն (ADR-025), որը նախագծված է որպես մոդուլային մոնոլիտ՝ հստակ տիրույթի սահմաններով: Այս կառուցվածքը կանխում է վաղ միկրոսպասարկման բարդությունը՝ միաժամանակ պահպանելով ճկունությունը՝ ավելի ուշ որոշակի տիրույթներ փոխանցելու համար:
+Nexus Gaja-Õ¶ Ö…Õ£Õ¿Õ¡Õ£Õ¸Ö€Õ®Õ¸Ö‚Õ´ Õ§ Õ­Õ«Õ½Õ¿ Õ¿Õ«Ö€Õ¸Ö‚ÕµÕ©Õ« Õ¾Ö€Õ¡ Õ°Õ«Õ´Õ¶Õ¾Õ¡Õ® MVP Õ³Õ¡Ö€Õ¿Õ¡Ö€Õ¡ÕºÕ¥Õ¿Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ (ADR-025), Õ¸Ö€Õ¨ Õ¶Õ¡Õ­Õ¡Õ£Õ®Õ¾Õ¡Õ® Õ§ Õ¸Ö€ÕºÕ¥Õ½ Õ´Õ¸Õ¤Õ¸Ö‚Õ¬Õ¡ÕµÕ«Õ¶ Õ´Õ¸Õ¶Õ¸Õ¬Õ«Õ¿Õ Õ°Õ½Õ¿Õ¡Õ¯ Õ¿Õ«Ö€Õ¸Ö‚ÕµÕ©Õ« Õ½Õ¡Õ°Õ´Õ¡Õ¶Õ¶Õ¥Ö€Õ¸Õ¾: Ô±ÕµÕ½ Õ¯Õ¡Õ¼Õ¸Ö‚ÖÕ¾Õ¡Õ®Ö„Õ¨ Õ¯Õ¡Õ¶Õ­Õ¸Ö‚Õ´ Õ§ Õ¾Õ¡Õ² Õ´Õ«Õ¯Ö€Õ¸Õ½ÕºÕ¡Õ½Õ¡Ö€Õ¯Õ´Õ¡Õ¶ Õ¢Õ¡Ö€Õ¤Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨Õ Õ´Õ«Õ¡ÕªÕ¡Õ´Õ¡Õ¶Õ¡Õ¯ ÕºÕ¡Õ°ÕºÕ¡Õ¶Õ¥Õ¬Õ¸Õ¾ Õ³Õ¯Õ¸Ö‚Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨Õ Õ¡Õ¾Õ¥Õ¬Õ« Õ¸Ö‚Õ· Õ¸Ö€Õ¸Õ·Õ¡Õ¯Õ« Õ¿Õ«Ö€Õ¸Ö‚ÕµÕ©Õ¶Õ¥Ö€ ÖƒÕ¸Õ­Õ¡Õ¶ÖÕ¥Õ¬Õ¸Ö‚ Õ°Õ¡Õ´Õ¡Ö€:
 
-### Տեխնիկական հիմնական սուբյեկտներ
-Ճարտարապետությունը խստորեն առանձնացնում է հասկացությունները՝ ապահովելու տվյալների ամբողջականությունը և խուսափելու այնպիսի սխալներից, ինչպիսիք են «օգտվողի անուն = մարդ»:
-- **Ինքնությունը և հաշիվները.** «Անձ» ≠ «Օգտվողի հաշիվ» ≠ «Ինքնության ստուգում»: Ստուգված անձը մասնակցում է մեկ հաշվի միջոցով, բայց սուբյեկտները մնում են առանձին:
-- **Հաղորդակցություն.** «Հաղորդագրություն» ≠ «Թարգմանություն»: Բնօրինակ հաղորդագրությունը անփոփոխ է. Թարգմանությունները կապված սուբյեկտներ են:
-- **Մոդերացիա.** «Զեկույց» ≠ «Մոդերացիոն որոշում»: Հաղորդագրությունը պարզապես ցուցում է. հետաքննությունը վարում է մոդերատորը։
-- **Ֆինանսներ.** «Նվիրատվություն» ≠ «Ֆոնդի մնացորդ»: Վճարումները անփոփոխ կերպով հաշվառվում են ֆոնդում՝ հաշվապահական հաշվառման (կանխիկ գրքի) միջոցով:
+### ÕÕ¥Õ­Õ¶Õ«Õ¯Õ¡Õ¯Õ¡Õ¶ Õ°Õ«Õ´Õ¶Õ¡Õ¯Õ¡Õ¶ Õ½Õ¸Ö‚Õ¢ÕµÕ¥Õ¯Õ¿Õ¶Õ¥Ö€
+ÕƒÕ¡Ö€Õ¿Õ¡Ö€Õ¡ÕºÕ¥Õ¿Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Õ­Õ½Õ¿Õ¸Ö€Õ¥Õ¶ Õ¡Õ¼Õ¡Õ¶Õ±Õ¶Õ¡ÖÕ¶Õ¸Ö‚Õ´ Õ§ Õ°Õ¡Õ½Õ¯Õ¡ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¨Õ Õ¡ÕºÕ¡Õ°Õ¸Õ¾Õ¥Õ¬Õ¸Ö‚ Õ¿Õ¾ÕµÕ¡Õ¬Õ¶Õ¥Ö€Õ« Õ¡Õ´Õ¢Õ¸Õ²Õ»Õ¡Õ¯Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Ö‡ Õ­Õ¸Ö‚Õ½Õ¡ÖƒÕ¥Õ¬Õ¸Ö‚ Õ¡ÕµÕ¶ÕºÕ«Õ½Õ« Õ½Õ­Õ¡Õ¬Õ¶Õ¥Ö€Õ«Ö, Õ«Õ¶Õ¹ÕºÕ«Õ½Õ«Ö„ Õ¥Õ¶ Â«Ö…Õ£Õ¿Õ¾Õ¸Õ²Õ« Õ¡Õ¶Õ¸Ö‚Õ¶ = Õ´Õ¡Ö€Õ¤Â»:
+- **Ô»Õ¶Ö„Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Ö‡ Õ°Õ¡Õ·Õ«Õ¾Õ¶Õ¥Ö€Õ¨.** Â«Ô±Õ¶Õ±Â» â‰  Â«Õ•Õ£Õ¿Õ¾Õ¸Õ²Õ« Õ°Õ¡Õ·Õ«Õ¾Â» â‰  Â«Ô»Õ¶Ö„Õ¶Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ½Õ¿Õ¸Ö‚Õ£Õ¸Ö‚Õ´Â»: ÕÕ¿Õ¸Ö‚Õ£Õ¾Õ¡Õ® Õ¡Õ¶Õ±Õ¨ Õ´Õ¡Õ½Õ¶Õ¡Õ¯ÖÕ¸Ö‚Õ´ Õ§ Õ´Õ¥Õ¯ Õ°Õ¡Õ·Õ¾Õ« Õ´Õ«Õ»Õ¸ÖÕ¸Õ¾, Õ¢Õ¡ÕµÖ Õ½Õ¸Ö‚Õ¢ÕµÕ¥Õ¯Õ¿Õ¶Õ¥Ö€Õ¨ Õ´Õ¶Õ¸Ö‚Õ´ Õ¥Õ¶ Õ¡Õ¼Õ¡Õ¶Õ±Õ«Õ¶:
+- **Õ€Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶.** Â«Õ€Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ£Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Â» â‰  Â«Ô¹Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Â»: Ô²Õ¶Ö…Ö€Õ«Õ¶Õ¡Õ¯ Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ£Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Õ¡Õ¶ÖƒÕ¸ÖƒÕ¸Õ­ Õ§. Ô¹Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¨ Õ¯Õ¡ÕºÕ¾Õ¡Õ® Õ½Õ¸Ö‚Õ¢ÕµÕ¥Õ¯Õ¿Õ¶Õ¥Ö€ Õ¥Õ¶:
+- **Õ„Õ¸Õ¤Õ¥Ö€Õ¡ÖÕ«Õ¡.** Â«Ô¶Õ¥Õ¯Õ¸Ö‚ÕµÖÂ» â‰  Â«Õ„Õ¸Õ¤Õ¥Ö€Õ¡ÖÕ«Õ¸Õ¶ Õ¸Ö€Õ¸Õ·Õ¸Ö‚Õ´Â»: Õ€Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ£Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ ÕºÕ¡Ö€Õ¦Õ¡ÕºÕ¥Õ½ ÖÕ¸Ö‚ÖÕ¸Ö‚Õ´ Õ§. Õ°Õ¥Õ¿Õ¡Ö„Õ¶Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Õ¾Õ¡Ö€Õ¸Ö‚Õ´ Õ§ Õ´Õ¸Õ¤Õ¥Ö€Õ¡Õ¿Õ¸Ö€Õ¨Ö‰
+- **Õ–Õ«Õ¶Õ¡Õ¶Õ½Õ¶Õ¥Ö€.** Â«Õ†Õ¾Õ«Ö€Õ¡Õ¿Õ¾Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Â» â‰  Â«Õ–Õ¸Õ¶Õ¤Õ« Õ´Õ¶Õ¡ÖÕ¸Ö€Õ¤Â»: ÕŽÕ³Õ¡Ö€Õ¸Ö‚Õ´Õ¶Õ¥Ö€Õ¨ Õ¡Õ¶ÖƒÕ¸ÖƒÕ¸Õ­ Õ¯Õ¥Ö€ÕºÕ¸Õ¾ Õ°Õ¡Õ·Õ¾Õ¡Õ¼Õ¾Õ¸Ö‚Õ´ Õ¥Õ¶ Ö†Õ¸Õ¶Õ¤Õ¸Ö‚Õ´Õ Õ°Õ¡Õ·Õ¾Õ¡ÕºÕ¡Õ°Õ¡Õ¯Õ¡Õ¶ Õ°Õ¡Õ·Õ¾Õ¡Õ¼Õ´Õ¡Õ¶ (Õ¯Õ¡Õ¶Õ­Õ«Õ¯ Õ£Ö€Ö„Õ«) Õ´Õ«Õ»Õ¸ÖÕ¸Õ¾:
 
-### Կապակցված առարկայական տիրույթներ
-Համակարգը բաժանված է տրամաբանական տիրույթների (սահմանափակ համատեքստեր)՝ ինքնություն, հաշիվ, կազմակերպություն, հաղորդակցություն, համայնք, լեզու, վարում, ծանուցում, ֆինանսներ և կառավարում: Նրանք ներկայացնում են ողջ շղթան՝ սկսած իրական դերակատարներից (օգտատերեր, դպրոցներ, ՀԿ-ներ) մինչև իրենց թվային փոխազդեցությունները:
+### Ô¿Õ¡ÕºÕ¡Õ¯ÖÕ¾Õ¡Õ® Õ¡Õ¼Õ¡Ö€Õ¯Õ¡ÕµÕ¡Õ¯Õ¡Õ¶ Õ¿Õ«Ö€Õ¸Ö‚ÕµÕ©Õ¶Õ¥Ö€
+Õ€Õ¡Õ´Õ¡Õ¯Õ¡Ö€Õ£Õ¨ Õ¢Õ¡ÕªÕ¡Õ¶Õ¾Õ¡Õ® Õ§ Õ¿Ö€Õ¡Õ´Õ¡Õ¢Õ¡Õ¶Õ¡Õ¯Õ¡Õ¶ Õ¿Õ«Ö€Õ¸Ö‚ÕµÕ©Õ¶Õ¥Ö€Õ« (Õ½Õ¡Õ°Õ´Õ¡Õ¶Õ¡ÖƒÕ¡Õ¯ Õ°Õ¡Õ´Õ¡Õ¿Õ¥Ö„Õ½Õ¿Õ¥Ö€)Õ Õ«Õ¶Ö„Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶, Õ°Õ¡Õ·Õ«Õ¾, Õ¯Õ¡Õ¦Õ´Õ¡Õ¯Õ¥Ö€ÕºÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶, Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶, Õ°Õ¡Õ´Õ¡ÕµÕ¶Ö„, Õ¬Õ¥Õ¦Õ¸Ö‚, Õ¾Õ¡Ö€Õ¸Ö‚Õ´, Õ®Õ¡Õ¶Õ¸Ö‚ÖÕ¸Ö‚Õ´, Ö†Õ«Õ¶Õ¡Õ¶Õ½Õ¶Õ¥Ö€ Ö‡ Õ¯Õ¡Õ¼Õ¡Õ¾Õ¡Ö€Õ¸Ö‚Õ´: Õ†Ö€Õ¡Õ¶Ö„ Õ¶Õ¥Ö€Õ¯Õ¡ÕµÕ¡ÖÕ¶Õ¸Ö‚Õ´ Õ¥Õ¶ Õ¸Õ²Õ» Õ·Õ²Õ©Õ¡Õ¶Õ Õ½Õ¯Õ½Õ¡Õ® Õ«Ö€Õ¡Õ¯Õ¡Õ¶ Õ¤Õ¥Ö€Õ¡Õ¯Õ¡Õ¿Õ¡Ö€Õ¶Õ¥Ö€Õ«Ö (Ö…Õ£Õ¿Õ¡Õ¿Õ¥Ö€Õ¥Ö€, Õ¤ÕºÖ€Õ¸ÖÕ¶Õ¥Ö€, Õ€Ô¿-Õ¶Õ¥Ö€) Õ´Õ«Õ¶Õ¹Ö‡ Õ«Ö€Õ¥Õ¶Ö Õ©Õ¾Õ¡ÕµÕ«Õ¶ ÖƒÕ¸Õ­Õ¡Õ¦Õ¤Õ¥ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¨:
 
-## Ծրագրի կարգավիճակը
-Ծրագիրը գտնվում է ակտիվ ճարտարապետության և պլանավորման փուլում:
-Ընթացիկ ճարտարապետական ​​որոշումները փաստաթղթավորված են «/docs» պանակում:
+## Ô¾Ö€Õ¡Õ£Ö€Õ« Õ¯Õ¡Ö€Õ£Õ¡Õ¾Õ«Õ³Õ¡Õ¯Õ¨
+Ô¾Ö€Õ¡Õ£Õ«Ö€Õ¨ Õ£Õ¿Õ¶Õ¾Õ¸Ö‚Õ´ Õ§ Õ¡Õ¯Õ¿Õ«Õ¾ Õ³Õ¡Ö€Õ¿Õ¡Ö€Õ¡ÕºÕ¥Õ¿Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Ö‡ ÕºÕ¬Õ¡Õ¶Õ¡Õ¾Õ¸Ö€Õ´Õ¡Õ¶ ÖƒÕ¸Ö‚Õ¬Õ¸Ö‚Õ´:
+Ô¸Õ¶Õ©Õ¡ÖÕ«Õ¯ Õ³Õ¡Ö€Õ¿Õ¡Ö€Õ¡ÕºÕ¥Õ¿Õ¡Õ¯Õ¡Õ¶ â€‹â€‹Õ¸Ö€Õ¸Õ·Õ¸Ö‚Õ´Õ¶Õ¥Ö€Õ¨ ÖƒÕ¡Õ½Õ¿Õ¡Õ©Õ²Õ©Õ¡Õ¾Õ¸Ö€Õ¾Õ¡Õ® Õ¥Õ¶ Â«/docsÂ» ÕºÕ¡Õ¶Õ¡Õ¯Õ¸Ö‚Õ´:
 
 ---
 
-## Լիցենզիա և մտավոր սեփականություն
+## Ô¼Õ«ÖÕ¥Õ¶Õ¦Õ«Õ¡ Ö‡ Õ´Õ¿Õ¡Õ¾Õ¸Ö€ Õ½Õ¥ÖƒÕ¡Õ¯Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶
 
-> **© 2024-2026 SonnerStudio - Յան Ֆրիսկե SonnerStudio-ի հիմնադիր, սեփականատեր, տնօրեն և գլխավոր դիզայներ — Բոլոր իրավունքները պաշտպանված են:**
+> **Â© 2024-2026 SonnerStudio - Õ…Õ¡Õ¶ Õ–Ö€Õ«Õ½Õ¯Õ¥ SonnerStudio-Õ« Õ°Õ«Õ´Õ¶Õ¡Õ¤Õ«Ö€, Õ½Õ¥ÖƒÕ¡Õ¯Õ¡Õ¶Õ¡Õ¿Õ¥Ö€, Õ¿Õ¶Ö…Ö€Õ¥Õ¶ Ö‡ Õ£Õ¬Õ­Õ¡Õ¾Õ¸Ö€ Õ¤Õ«Õ¦Õ¡ÕµÕ¶Õ¥Ö€ â€” Ô²Õ¸Õ¬Õ¸Ö€ Õ«Ö€Õ¡Õ¾Õ¸Ö‚Õ¶Ö„Õ¶Õ¥Ö€Õ¨ ÕºÕ¡Õ·Õ¿ÕºÕ¡Õ¶Õ¾Õ¡Õ® Õ¥Õ¶:**
 
-**Nexus Gaja**-ը **Jan Friske**-ի բացառիկ մտավոր սեփականությունն է, որը գործում է **SonnerStudio**-ի ներքո:
+**Nexus Gaja**-Õ¨ **Jan Friske**-Õ« Õ¢Õ¡ÖÕ¡Õ¼Õ«Õ¯ Õ´Õ¿Õ¡Õ¾Õ¸Ö€ Õ½Õ¥ÖƒÕ¡Õ¯Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶ Õ§, Õ¸Ö€Õ¨ Õ£Õ¸Ö€Õ®Õ¸Ö‚Õ´ Õ§ **SonnerStudio**-Õ« Õ¶Õ¥Ö€Ö„Õ¸:
 
-Յան Ֆրիսկեն Nexus Gaja-ի միակ ստեղծողն է, ճարտարապետը և սեփականատերը՝ ներառյալ բոլոր հայեցակարգերը, ճարտարապետությունները, տիրույթի մոդելները, ապրանքանիշի ինքնությունը և հարակից փաստաթղթերը:
+Õ…Õ¡Õ¶ Õ–Ö€Õ«Õ½Õ¯Õ¥Õ¶ Nexus Gaja-Õ« Õ´Õ«Õ¡Õ¯ Õ½Õ¿Õ¥Õ²Õ®Õ¸Õ²Õ¶ Õ§, Õ³Õ¡Ö€Õ¿Õ¡Ö€Õ¡ÕºÕ¥Õ¿Õ¨ Ö‡ Õ½Õ¥ÖƒÕ¡Õ¯Õ¡Õ¶Õ¡Õ¿Õ¥Ö€Õ¨Õ Õ¶Õ¥Ö€Õ¡Õ¼ÕµÕ¡Õ¬ Õ¢Õ¸Õ¬Õ¸Ö€ Õ°Õ¡ÕµÕ¥ÖÕ¡Õ¯Õ¡Ö€Õ£Õ¥Ö€Õ¨, Õ³Õ¡Ö€Õ¿Õ¡Ö€Õ¡ÕºÕ¥Õ¿Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¨, Õ¿Õ«Ö€Õ¸Ö‚ÕµÕ©Õ« Õ´Õ¸Õ¤Õ¥Õ¬Õ¶Õ¥Ö€Õ¨, Õ¡ÕºÖ€Õ¡Õ¶Ö„Õ¡Õ¶Õ«Õ·Õ« Õ«Õ¶Ö„Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¨ Ö‡ Õ°Õ¡Ö€Õ¡Õ¯Õ«Ö ÖƒÕ¡Õ½Õ¿Õ¡Õ©Õ²Õ©Õ¥Ö€Õ¨:
 
-**Ոչ մի իրավունք, լիցենզիա կամ սեփականության շահեր տրված չեն որևէ երրորդ կողմի**` անկախ նրանց չափից, շուկայական դիրքից կամ տեխնոլոգիական ոլորտում ազդեցությունից:
+**ÕˆÕ¹ Õ´Õ« Õ«Ö€Õ¡Õ¾Õ¸Ö‚Õ¶Ö„, Õ¬Õ«ÖÕ¥Õ¶Õ¦Õ«Õ¡ Õ¯Õ¡Õ´ Õ½Õ¥ÖƒÕ¡Õ¯Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ·Õ¡Õ°Õ¥Ö€ Õ¿Ö€Õ¾Õ¡Õ® Õ¹Õ¥Õ¶ Õ¸Ö€Ö‡Õ§ Õ¥Ö€Ö€Õ¸Ö€Õ¤ Õ¯Õ¸Õ²Õ´Õ«**` Õ¡Õ¶Õ¯Õ¡Õ­ Õ¶Ö€Õ¡Õ¶Ö Õ¹Õ¡ÖƒÕ«Ö, Õ·Õ¸Ö‚Õ¯Õ¡ÕµÕ¡Õ¯Õ¡Õ¶ Õ¤Õ«Ö€Ö„Õ«Ö Õ¯Õ¡Õ´ Õ¿Õ¥Õ­Õ¶Õ¸Õ¬Õ¸Õ£Õ«Õ¡Õ¯Õ¡Õ¶ Õ¸Õ¬Õ¸Ö€Õ¿Õ¸Ö‚Õ´ Õ¡Õ¦Õ¤Õ¥ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ«Ö:
 
-### Ինչը չի թույլատրվում առանց հստակ գրավոր համաձայնության.
-- ❌ Պատճենեք, վերարտադրեք կամ տարածեք այս ծրագրաշարը կամ դրա փաստաթղթերը
-- ❌ Փոփոխել, հարմարեցնել կամ ստեղծել ածանցյալ ստեղծագործություններ
-- ❌ Nexus Gaja-ի ցանկացած մասի կոմերցիոն օգտագործում
-- ❌ Պահեստի բովանդակության օգտագործումը որպես **ուսուցման տվյալներ AI/LLM համակարգերի համար**
-- ❌ Ենթալիցենզավորում կամ իրավունքների փոխանցում երրորդ անձանց
+### Ô»Õ¶Õ¹Õ¨ Õ¹Õ« Õ©Õ¸Ö‚ÕµÕ¬Õ¡Õ¿Ö€Õ¾Õ¸Ö‚Õ´ Õ¡Õ¼Õ¡Õ¶Ö Õ°Õ½Õ¿Õ¡Õ¯ Õ£Ö€Õ¡Õ¾Õ¸Ö€ Õ°Õ¡Õ´Õ¡Õ±Õ¡ÕµÕ¶Õ¸Ö‚Õ©ÕµÕ¡Õ¶.
+- âŒ ÕŠÕ¡Õ¿Õ³Õ¥Õ¶Õ¥Ö„, Õ¾Õ¥Ö€Õ¡Ö€Õ¿Õ¡Õ¤Ö€Õ¥Ö„ Õ¯Õ¡Õ´ Õ¿Õ¡Ö€Õ¡Õ®Õ¥Ö„ Õ¡ÕµÕ½ Õ®Ö€Õ¡Õ£Ö€Õ¡Õ·Õ¡Ö€Õ¨ Õ¯Õ¡Õ´ Õ¤Ö€Õ¡ ÖƒÕ¡Õ½Õ¿Õ¡Õ©Õ²Õ©Õ¥Ö€Õ¨
+- âŒ Õ“Õ¸ÖƒÕ¸Õ­Õ¥Õ¬, Õ°Õ¡Ö€Õ´Õ¡Ö€Õ¥ÖÕ¶Õ¥Õ¬ Õ¯Õ¡Õ´ Õ½Õ¿Õ¥Õ²Õ®Õ¥Õ¬ Õ¡Õ®Õ¡Õ¶ÖÕµÕ¡Õ¬ Õ½Õ¿Õ¥Õ²Õ®Õ¡Õ£Õ¸Ö€Õ®Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€
+- âŒ Nexus Gaja-Õ« ÖÕ¡Õ¶Õ¯Õ¡ÖÕ¡Õ® Õ´Õ¡Õ½Õ« Õ¯Õ¸Õ´Õ¥Ö€ÖÕ«Õ¸Õ¶ Ö…Õ£Õ¿Õ¡Õ£Õ¸Ö€Õ®Õ¸Ö‚Õ´
+- âŒ ÕŠÕ¡Õ°Õ¥Õ½Õ¿Õ« Õ¢Õ¸Õ¾Õ¡Õ¶Õ¤Õ¡Õ¯Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Ö…Õ£Õ¿Õ¡Õ£Õ¸Ö€Õ®Õ¸Ö‚Õ´Õ¨ Õ¸Ö€ÕºÕ¥Õ½ **Õ¸Ö‚Õ½Õ¸Ö‚ÖÕ´Õ¡Õ¶ Õ¿Õ¾ÕµÕ¡Õ¬Õ¶Õ¥Ö€ AI/LLM Õ°Õ¡Õ´Õ¡Õ¯Õ¡Ö€Õ£Õ¥Ö€Õ« Õ°Õ¡Õ´Õ¡Ö€**
+- âŒ ÔµÕ¶Õ©Õ¡Õ¬Õ«ÖÕ¥Õ¶Õ¦Õ¡Õ¾Õ¸Ö€Õ¸Ö‚Õ´ Õ¯Õ¡Õ´ Õ«Ö€Õ¡Õ¾Õ¸Ö‚Õ¶Ö„Õ¶Õ¥Ö€Õ« ÖƒÕ¸Õ­Õ¡Õ¶ÖÕ¸Ö‚Õ´ Õ¥Ö€Ö€Õ¸Ö€Õ¤ Õ¡Õ¶Õ±Õ¡Õ¶Ö
 
-### Պաշտպանված մտավոր սեփականություն
-Հետևյալ բնօրինակ հասկացությունները պաշտպանված են որպես Յան Ֆրիսկեի առևտրային գաղտնիքներ և սեփականություն.
-- Բազմաշերտ հաղորդակցման մոդել *(Բնօրինակ / Իմաստաբանական մեկնաբանություն / Թարգմանված հրատարակություն)*
-- Ինքնության բաժանման սկզբունքը *(անձ ≠ օգտվողի հաշիվ ≠ ինքնության ստուգում)*
-- Հաղորդագրությունների թարգմանության անջատման մոդելը *(հաղորդագրություն ≠ թարգմանություն)*
-- AI-ի չափավոր կառավարման շրջանակը
+### ÕŠÕ¡Õ·Õ¿ÕºÕ¡Õ¶Õ¾Õ¡Õ® Õ´Õ¿Õ¡Õ¾Õ¸Ö€ Õ½Õ¥ÖƒÕ¡Õ¯Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶
+Õ€Õ¥Õ¿Ö‡ÕµÕ¡Õ¬ Õ¢Õ¶Ö…Ö€Õ«Õ¶Õ¡Õ¯ Õ°Õ¡Õ½Õ¯Õ¡ÖÕ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ¨ ÕºÕ¡Õ·Õ¿ÕºÕ¡Õ¶Õ¾Õ¡Õ® Õ¥Õ¶ Õ¸Ö€ÕºÕ¥Õ½ Õ…Õ¡Õ¶ Õ–Ö€Õ«Õ½Õ¯Õ¥Õ« Õ¡Õ¼Ö‡Õ¿Ö€Õ¡ÕµÕ«Õ¶ Õ£Õ¡Õ²Õ¿Õ¶Õ«Ö„Õ¶Õ¥Ö€ Ö‡ Õ½Õ¥ÖƒÕ¡Õ¯Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶.
+- Ô²Õ¡Õ¦Õ´Õ¡Õ·Õ¥Ö€Õ¿ Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ¯ÖÕ´Õ¡Õ¶ Õ´Õ¸Õ¤Õ¥Õ¬ *(Ô²Õ¶Ö…Ö€Õ«Õ¶Õ¡Õ¯ / Ô»Õ´Õ¡Õ½Õ¿Õ¡Õ¢Õ¡Õ¶Õ¡Õ¯Õ¡Õ¶ Õ´Õ¥Õ¯Õ¶Õ¡Õ¢Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ / Ô¹Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¾Õ¡Õ® Õ°Ö€Õ¡Õ¿Õ¡Ö€Õ¡Õ¯Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶)*
+- Ô»Õ¶Ö„Õ¶Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¢Õ¡ÕªÕ¡Õ¶Õ´Õ¡Õ¶ Õ½Õ¯Õ¦Õ¢Õ¸Ö‚Õ¶Ö„Õ¨ *(Õ¡Õ¶Õ± â‰  Ö…Õ£Õ¿Õ¾Õ¸Õ²Õ« Õ°Õ¡Õ·Õ«Õ¾ â‰  Õ«Õ¶Ö„Õ¶Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ½Õ¿Õ¸Ö‚Õ£Õ¸Ö‚Õ´)*
+- Õ€Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ£Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶Õ¶Õ¥Ö€Õ« Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¡Õ¶ Õ¡Õ¶Õ»Õ¡Õ¿Õ´Õ¡Õ¶ Õ´Õ¸Õ¤Õ¥Õ¬Õ¨ *(Õ°Õ¡Õ²Õ¸Ö€Õ¤Õ¡Õ£Ö€Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶ â‰  Õ©Õ¡Ö€Õ£Õ´Õ¡Õ¶Õ¸Ö‚Õ©ÕµÕ¸Ö‚Õ¶)*
+- AI-Õ« Õ¹Õ¡ÖƒÕ¡Õ¾Õ¸Ö€ Õ¯Õ¡Õ¼Õ¡Õ¾Õ¡Ö€Õ´Õ¡Õ¶ Õ·Ö€Õ»Õ¡Õ¶Õ¡Õ¯Õ¨
 
-### Կապ
-Լիցենզիայի հարցումների համար՝ [github.com/SonnerStudio](https://github.com/SonnerStudio)
+### Ô¿Õ¡Õº
+Ô¼Õ«ÖÕ¥Õ¶Õ¦Õ«Õ¡ÕµÕ« Õ°Õ¡Ö€ÖÕ¸Ö‚Õ´Õ¶Õ¥Ö€Õ« Õ°Õ¡Õ´Õ¡Ö€Õ [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-*«Nexus Gaja»-ն և Nexus Gaja լոգոն Յան Ֆրիսկեի ապրանքանիշերն են: Անվան կամ ապրանքանիշի չարտոնված օգտագործումն արգելվում է։*
+*Â«Nexus GajaÂ»-Õ¶ Ö‡ Nexus Gaja Õ¬Õ¸Õ£Õ¸Õ¶ Õ…Õ¡Õ¶ Õ–Ö€Õ«Õ½Õ¯Õ¥Õ« Õ¡ÕºÖ€Õ¡Õ¶Ö„Õ¡Õ¶Õ«Õ·Õ¥Ö€Õ¶ Õ¥Õ¶: Ô±Õ¶Õ¾Õ¡Õ¶ Õ¯Õ¡Õ´ Õ¡ÕºÖ€Õ¡Õ¶Ö„Õ¡Õ¶Õ«Õ·Õ« Õ¹Õ¡Ö€Õ¿Õ¸Õ¶Õ¾Õ¡Õ® Ö…Õ£Õ¿Õ¡Õ£Õ¸Ö€Õ®Õ¸Ö‚Õ´Õ¶ Õ¡Ö€Õ£Õ¥Õ¬Õ¾Õ¸Ö‚Õ´ Õ§Ö‰*
 
-➡️ Լիցենզիայի ամբողջական պայմանները [LICENSE]-ում (Լիցենզիա)
+âž¡ï¸ Ô¼Õ«ÖÕ¥Õ¶Õ¦Õ«Õ¡ÕµÕ« Õ¡Õ´Õ¢Õ¸Õ²Õ»Õ¡Õ¯Õ¡Õ¶ ÕºÕ¡ÕµÕ´Õ¡Õ¶Õ¶Õ¥Ö€Õ¨ [LICENSE]-Õ¸Ö‚Õ´ (Ô¼Õ«ÖÕ¥Õ¶Õ¦Õ«Õ¡)

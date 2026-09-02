@@ -1,186 +1,188 @@
-# Nexus Gaja
+﻿# Nexus Gaja
 
-> *För global fred och ömsesidig förståelse*
+> *FÃ¶r global fred och Ã¶msesidig fÃ¶rstÃ¥else*
 
 
 ![Nexus Gaja Logo](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
 
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 
-**Nexus Gaja** är ett intelligent, sammanhangskänsligt kommunikationsnätverk designat för att revolutionera global kommunikation.
+**Nexus Gaja** Ã¤r ett intelligent, sammanhangskÃ¤nsligt kommunikationsnÃ¤tverk designat fÃ¶r att revolutionera global kommunikation.
 
 ## Syfte och vision
 
 ![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
 
-I en globaliserad värld är språket ofta den största barriären. Huvudmålet med Nexus Gaja är att möjliggöra sömlös, barriärfri och kontextuellt korrekt kommunikation mellan människor – oavsett om de talar ett gemensamt språk.
+I en globaliserad vÃ¤rld Ã¤r sprÃ¥ket ofta den stÃ¶rsta barriÃ¤ren. HuvudmÃ¥let med Nexus Gaja Ã¤r att mÃ¶jliggÃ¶ra sÃ¶mlÃ¶s, barriÃ¤rfri och kontextuellt korrekt kommunikation mellan mÃ¤nniskor â€“ oavsett om de talar ett gemensamt sprÃ¥k.
 
-Det handlar inte bara om att stelbent översätta ord, utan om att **överföra betydelse**. Nexus Gaja förbinder människor på en djupare nivå genom att förstå kulturella, regionala och kontextuella nyanser, vilket möjliggör genuina, autentiska konversationer.
+Det handlar inte bara om att stelbent Ã¶versÃ¤tta ord, utan om att **Ã¶verfÃ¶ra betydelse**. Nexus Gaja fÃ¶rbinder mÃ¤nniskor pÃ¥ en djupare nivÃ¥ genom att fÃ¶rstÃ¥ kulturella, regionala och kontextuella nyanser, vilket mÃ¶jliggÃ¶r genuina, autentiska konversationer.
 
-## Möjligheter och funktioner
-- **Multimediakommunikation**: Systemet bearbetar inte bara text utan även bild, ljud och video. Detta möjliggör helt uppslukande konversationer (t.ex. videosamtal eller röstmeddelanden) i realtid över språkbarriärer.
-- **Kontextkänslighet**: Erkännande av ironi, idiom, jargong och regionala dialekter som ofta missförstås av konventionella översättare.
-- **Cross-Platform Network**: Fungerar som en grund för privata chattar, forumtrådar (inlägg med kommentarer) och globala gemenskapsinteraktioner.
+## MÃ¶jligheter och funktioner
+- **Multimediakommunikation**: Systemet bearbetar inte bara text utan Ã¤ven bild, ljud och video. Detta mÃ¶jliggÃ¶r helt uppslukande konversationer (t.ex. videosamtal eller rÃ¶stmeddelanden) i realtid Ã¶ver sprÃ¥kbarriÃ¤rer.
+- **KontextkÃ¤nslighet**: ErkÃ¤nnande av ironi, idiom, jargong och regionala dialekter som ofta missfÃ¶rstÃ¥s av konventionella Ã¶versÃ¤ttare.
+- **Cross-Platform Network**: Fungerar som en grund fÃ¶r privata chattar, forumtrÃ¥dar (inlÃ¤gg med kommentarer) och globala gemenskapsinteraktioner.
 
 ---
 
-## Teknisk arkitektur (kärnkoncept)
+## Teknisk arkitektur (kÃ¤rnkoncept)
 
 ![Nexus Gaja Translation Concept](assets/img/nexus_translation.jpg)
 
-Den tekniska kärnan i Nexus Gaja är en specialbyggd kommunikationsmodell som är strikt uppdelad i tre lager:
+Den tekniska kÃ¤rnan i Nexus Gaja Ã¤r en specialbyggd kommunikationsmodell som Ã¤r strikt uppdelad i tre lager:
 
-1. **Original**: Kommunikationsobjektet (meddelandet) skapat av avsändaren förblir alltid oföränderligt.
+1. **Original**: Kommunikationsobjektet (meddelandet) skapat av avsÃ¤ndaren fÃ¶rblir alltid ofÃ¶rÃ¤nderligt.
 2. **Semantisk tolkning**: Systemet analyserar inte bara orden, utan den faktiska betydelsen.
-3. **Representation av målspråk**: AI:n skapar bara en tillfällig eller cachad representation av originalet för respektive mottagare baserat på deras föredragna språk. Översättningar skriver aldrig över det ursprungliga meddelandet.
+3. **Representation av mÃ¥lsprÃ¥k**: AI:n skapar bara en tillfÃ¤llig eller cachad representation av originalet fÃ¶r respektive mottagare baserat pÃ¥ deras fÃ¶redragna sprÃ¥k. Ã–versÃ¤ttningar skriver aldrig Ã¶ver det ursprungliga meddelandet.
 
 ### Kontextberoende
-Översättningar i Nexus Gaja ser aldrig meddelanden isolerat. Motorn tar hänsyn till hela hierarkin:
-`Meddelande` → `Tidigare meddelanden` → `Trådkontext` → `Community Context` → `Språk/region` → `Användarinställningar`
+Ã–versÃ¤ttningar i Nexus Gaja ser aldrig meddelanden isolerat. Motorn tar hÃ¤nsyn till hela hierarkin:
+`Meddelande` â†’ `Tidigare meddelanden` â†’ `TrÃ¥dkontext` â†’ `Community Context` â†’ `SprÃ¥k/region` â†’ `AnvÃ¤ndarinstÃ¤llningar`
 
-### Effektivitet genom översättning på begäran
-Översättning sker resurseffektivt endast **på begäran** (On-Demand). När en användare begär innehåll översätts det till deras förinställda språk. När en översättning för ett specifikt språk har genererats, lagras den permanent (cache) för att drastiskt påskynda framtida förfrågningar.
+### Effektivitet genom Ã¶versÃ¤ttning pÃ¥ begÃ¤ran
+Ã–versÃ¤ttning sker resurseffektivt endast **pÃ¥ begÃ¤ran** (On-Demand). NÃ¤r en anvÃ¤ndare begÃ¤r innehÃ¥ll Ã¶versÃ¤tts det till deras fÃ¶rinstÃ¤llda sprÃ¥k. NÃ¤r en Ã¶versÃ¤ttning fÃ¶r ett specifikt sprÃ¥k har genererats, lagras den permanent (cache) fÃ¶r att drastiskt pÃ¥skynda framtida fÃ¶rfrÃ¥gningar.
 
 ## AI-assisterad moderering (WP 1.8.4)
 
 ![Nexus Gaja AI Moderering](assets/img/nexus_moderation.jpg)
 
-Med AI-assisterad moderering tar vi ett betydande steg från produktidé till teknisk arkitektur, med hänsyn tagen till gällande EU-förordningar (transparenskrav i EU:s AI-lag enligt art. 50; Digital Services Act med begripliga motiveringar och överklagandemöjligheter).
+Med AI-assisterad moderering tar vi ett betydande steg frÃ¥n produktidÃ© till teknisk arkitektur, med hÃ¤nsyn tagen till gÃ¤llande EU-fÃ¶rordningar (transparenskrav i EU:s AI-lag enligt art. 50; Digital Services Act med begripliga motiveringar och Ã¶verklagandemÃ¶jligheter).
 
 ### 1. Grundprincip
-Den viktigaste meningen för arkitekturen är: **Moderationen AI är ett granskningssystem, inte ett autonomt härskarsystem.**
-Den är utformad för att hjälpa människor med måtta, inte för att själv avgöra vilka åsikter som tillåts finnas på Nexus Gaja.
-Vi skiljer på tre nivåer:
-- **Detektering:** "Det kan finnas ett regelbrott här."
-- **Utvärdering:** "Sannolikheten för ett regelbrott är till exempel 94 %."
-- **Beslut:** "Vilka åtgärder vidtas egentligen?"
-Den tredje nivån måste kontrolleras av en människa i allvarliga fall.
+Den viktigaste meningen fÃ¶r arkitekturen Ã¤r: **Moderationen AI Ã¤r ett granskningssystem, inte ett autonomt hÃ¤rskarsystem.**
+Den Ã¤r utformad fÃ¶r att hjÃ¤lpa mÃ¤nniskor med mÃ¥tta, inte fÃ¶r att sjÃ¤lv avgÃ¶ra vilka Ã¥sikter som tillÃ¥ts finnas pÃ¥ Nexus Gaja.
+Vi skiljer pÃ¥ tre nivÃ¥er:
+- **Detektering:** "Det kan finnas ett regelbrott hÃ¤r."
+- **UtvÃ¤rdering:** "Sannolikheten fÃ¶r ett regelbrott Ã¤r till exempel 94 %."
+- **Beslut:** "Vilka Ã¥tgÃ¤rder vidtas egentligen?"
+Den tredje nivÃ¥n mÃ¥ste kontrolleras av en mÃ¤nniska i allvarliga fall.
 
 ### 2. Modererings-AI som ett delsystem
-Istället för en enda AI etableras ett robust delsystem:
+IstÃ¤llet fÃ¶r en enda AI etableras ett robust delsystem:
 ```text
                  NEXUS GAJA AI MODERATION
-                          │
-       ┌──────────────────┼────────────────
-       │ │ │
-  Språk AI Säkerhet AI Bedrägeri AI
-       │ │ │
-       ├──────────────┬───┴────────────────
-       │ │ │
- Översättningsbeteendeidentitet
+                          â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+       â”‚ â”‚ â”‚
+  SprÃ¥k AI SÃ¤kerhet AI BedrÃ¤geri AI
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+       â”‚ â”‚ â”‚
+ Ã–versÃ¤ttningsbeteendeidentitet
  Analys Analyssignaler
-       │ │ │
-       └──────────────┼────────────────
-                      ▼
-               Riskbedömning
-                      │
-                      ▼
-               Mänsklig recension
+       â”‚ â”‚ â”‚
+       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+                      â–¼
+               RiskbedÃ¶mning
+                      â”‚
+                      â–¼
+               MÃ¤nsklig recension
 ```
 
 ### 3. De viktigaste AI-modulerna
-Nexus Gaja använder nio specialiserade analysområden:
-- **M1 – Språkförståelse**: Upptäcker språk, dialekt, slang, ironiindikatorer, översättningsproblem.
-- **M2 – Detektering av toxicitet/missbruk**: Upptäcker förolämpningar, personangrepp, trakasserier.
-- **M3 – Hotdetektion**: Upptäcker potentiella hot, utpressning, meddelanden om våld.
-- **M4 – Detektering av hat/avhumanisering**: Upptäcker riktade attacker mot människor baserat på specifika tillhörigheter.
-- **M5 – Spam / Manipulation Detection**: Upptäcker spam, botbeteende, koordinerad manipulation.
-- **M6 – Bedrägeriupptäckt**: Upptäcker misstänkta bedrägeriförsök, nätfiske, social ingenjörskonst.
-- **M7 – Identitetsintegritet**: Kontrollerar signaler om kontoövertaganden, flera konton, förbudsflykt.
-- **M8 – Mediasäkerhet**: Analyserar bilder, ljud, video, dokument.
-- **M9 – Context Engine**: Den viktigaste modulen. Det slår samman de individuella fynden.
+Nexus Gaja anvÃ¤nder nio specialiserade analysomrÃ¥den:
+- **M1 â€“ SprÃ¥kfÃ¶rstÃ¥else**: UpptÃ¤cker sprÃ¥k, dialekt, slang, ironiindikatorer, Ã¶versÃ¤ttningsproblem.
+- **M2 â€“ Detektering av toxicitet/missbruk**: UpptÃ¤cker fÃ¶rolÃ¤mpningar, personangrepp, trakasserier.
+- **M3 â€“ Hotdetektion**: UpptÃ¤cker potentiella hot, utpressning, meddelanden om vÃ¥ld.
+- **M4 â€“ Detektering av hat/avhumanisering**: UpptÃ¤cker riktade attacker mot mÃ¤nniskor baserat pÃ¥ specifika tillhÃ¶righeter.
+- **M5 â€“ Spam / Manipulation Detection**: UpptÃ¤cker spam, botbeteende, koordinerad manipulation.
+- **M6 â€“ BedrÃ¤geriupptÃ¤ckt**: UpptÃ¤cker misstÃ¤nkta bedrÃ¤gerifÃ¶rsÃ¶k, nÃ¤tfiske, social ingenjÃ¶rskonst.
+- **M7 â€“ Identitetsintegritet**: Kontrollerar signaler om kontoÃ¶vertaganden, flera konton, fÃ¶rbudsflykt.
+- **M8 â€“ MediasÃ¤kerhet**: Analyserar bilder, ljud, video, dokument.
+- **M9 â€“ Context Engine**: Den viktigaste modulen. Det slÃ¥r samman de individuella fynden.
 
-### 4. Varför Context Engine är avgörande
-En ren nyckelordssökning skulle vara otillräcklig. "Jag skulle kunna döda honom av att skratta" innehåller semantiskt våld men är ett tal. "I morgon kl 20 skjuter jag honom framför hans hus" är en helt annan situation. AI:n måste förstå vad uttalandet betyder i sitt specifika sammanhang.
+### 4. VarfÃ¶r Context Engine Ã¤r avgÃ¶rande
+En ren nyckelordssÃ¶kning skulle vara otillrÃ¤cklig. "Jag skulle kunna dÃ¶da honom av att skratta" innehÃ¥ller semantiskt vÃ¥ld men Ã¤r ett tal. "I morgon kl 20 skjuter jag honom framfÃ¶r hans hus" Ã¤r en helt annan situation. AI:n mÃ¥ste fÃ¶rstÃ¥ vad uttalandet betyder i sitt specifika sammanhang.
 
-### 5. Flerspråkig moderering
-Måttlighet kan inte bara jämföra ord. Den måste analysera den semantiska nivån (t.ex. tyska idiom vs. japanska idiom vs. regionala uttryck).
+### 5. FlersprÃ¥kig moderering
+MÃ¥ttlighet kan inte bara jÃ¤mfÃ¶ra ord. Den mÃ¥ste analysera den semantiska nivÃ¥n (t.ex. tyska idiom vs. japanska idiom vs. regionala uttryck).
 
-### 6. Originalspråk + översättning
-Original och översättning analyseras separat. Först därefter sker "Combined Moderation Assessment". Detta gör att Nexus Gaja kan avgöra om översättningen i sig kan ha eskalerat eller ändrat fakta.
+### 6. OriginalsprÃ¥k + Ã¶versÃ¤ttning
+Original och Ã¶versÃ¤ttning analyseras separat. FÃ¶rst dÃ¤refter sker "Combined Moderation Assessment". Detta gÃ¶r att Nexus Gaja kan avgÃ¶ra om Ã¶versÃ¤ttningen i sig kan ha eskalerat eller Ã¤ndrat fakta.
 
-### 7. Förtroendepoäng
-Varje AI-utvärdering får ett konfidenspoäng (t.ex. Hotsannolikhet: 0,96). Men: **Förtroendepoäng ≠ Sanning.** En poäng på 96% betyder bara att modellen är mycket säker på sin klassificering, inte nödvändigtvis att användaren är skyldig.
+### 7. FÃ¶rtroendepoÃ¤ng
+Varje AI-utvÃ¤rdering fÃ¥r ett konfidenspoÃ¤ng (t.ex. Hotsannolikhet: 0,96). Men: **FÃ¶rtroendepoÃ¤ng â‰  Sanning.** En poÃ¤ng pÃ¥ 96% betyder bara att modellen Ã¤r mycket sÃ¤ker pÃ¥ sin klassificering, inte nÃ¶dvÃ¤ndigtvis att anvÃ¤ndaren Ã¤r skyldig.
 
-### 8. Osäkerhet blir en signal i sig
-Om AI:n är osäker (t.ex. Hot: 0,62, Satir: 0,54), får den inte bara genomdriva hårda regler. Istället byggs osäkerheten in direkt i arkitekturen: **Human Review Required**.
+### 8. OsÃ¤kerhet blir en signal i sig
+Om AI:n Ã¤r osÃ¤ker (t.ex. Hot: 0,62, Satir: 0,54), fÃ¥r den inte bara genomdriva hÃ¥rda regler. IstÃ¤llet byggs osÃ¤kerheten in direkt i arkitekturen: **Human Review Required**.
 
 ### 9. Fyra beslutszoner
-- **GRÖN**: Högst sannolikt kompatibel. → ingen åtgärd.
-- 🟡 **GUL**: Möjlig överträdelse. → övervaka / ge en varning vid behov.
-- **ORANGE**: Trolig överträdelse. → moderationsgranskning.
-- 🔴 **RÖD**: Allvarlig möjlig överträdelse. → omedelbar skyddsåtgärd + mänsklig granskning.
+- **GRÃ–N**: HÃ¶gst sannolikt kompatibel. â†’ ingen Ã¥tgÃ¤rd.
+- ðŸŸ¡ **GUL**: MÃ¶jlig Ã¶vertrÃ¤delse. â†’ Ã¶vervaka / ge en varning vid behov.
+- **ORANGE**: Trolig Ã¶vertrÃ¤delse. â†’ moderationsgranskning.
+- ðŸ”´ **RÃ–D**: Allvarlig mÃ¶jlig Ã¶vertrÃ¤delse. â†’ omedelbar skyddsÃ¥tgÃ¤rd + mÃ¤nsklig granskning.
 
 ### 10. Inget "AI-straff"
-**AI:n inför inga slutgiltiga sanktioner.** Det kan utlösa tekniska omedelbara åtgärder (t.ex. tillfälligt hålla tillbaka ett meddelande) för allvarliga säkerhetsproblem, men det slutliga beslutet förblir verifierbart.
+**AI:n infÃ¶r inga slutgiltiga sanktioner.** Det kan utlÃ¶sa tekniska omedelbara Ã¥tgÃ¤rder (t.ex. tillfÃ¤lligt hÃ¥lla tillbaka ett meddelande) fÃ¶r allvarliga sÃ¤kerhetsproblem, men det slutliga beslutet fÃ¶rblir verifierbart.
 
-### 11. Skyddsåtgärder kan ske automatiskt
-I händelse av ett konkret hot (Hot upptäckt → Högt förtroende → Tillfällig begränsning → Mänsklig granskning → Beslut) skyddar vi den hotade användaren utan att förvandla AI:n till en domare.
+### 11. SkyddsÃ¥tgÃ¤rder kan ske automatiskt
+I hÃ¤ndelse av ett konkret hot (Hot upptÃ¤ckt â†’ HÃ¶gt fÃ¶rtroende â†’ TillfÃ¤llig begrÃ¤nsning â†’ MÃ¤nsklig granskning â†’ Beslut) skyddar vi den hotade anvÃ¤ndaren utan att fÃ¶rvandla AI:n till en domare.
 
-### 12. AI:n måste kunna motivera sina beslut
-DSA kräver tydliga och specifika skäl. AI:n ger strukturerade resonemang: Regel (NG-CONDUCT-004), Upptäckt (potentiellt konkret hot), Förtroende (0,94), Relevant sammanhang (Tidigare 4 meddelanden), Rekommenderad åtgärd (Humanöversyn).
+### 12. AI:n mÃ¥ste kunna motivera sina beslut
+DSA krÃ¤ver tydliga och specifika skÃ¤l. AI:n ger strukturerade resonemang: Regel (NG-CONDUCT-004), UpptÃ¤ckt (potentiellt konkret hot), FÃ¶rtroende (0,94), Relevant sammanhang (Tidigare 4 meddelanden), Rekommenderad Ã¥tgÃ¤rd (HumanÃ¶versyn).
 
-### 13. AI får inte ändra innehåll i hemlighet
-**Moderation AI får aldrig ändra det ursprungliga innehållet obemärkt.** Under automatisk korrigering, översättning eller sammanfattning bevaras originalet alltid.
+### 13. AI fÃ¥r inte Ã¤ndra innehÃ¥ll i hemlighet
+**Moderation AI fÃ¥r aldrig Ã¤ndra det ursprungliga innehÃ¥llet obemÃ¤rkt.** Under automatisk korrigering, Ã¶versÃ¤ttning eller sammanfattning bevaras originalet alltid.
 
-### 14. AI-genererat innehåll
-Vi skiljer på: Människoskapad, AI-assisterad, AI-genererad och AI-manipulerad. Detta kommer att bli en del av innehållets metadata.
+### 14. AI-genererat innehÃ¥ll
+Vi skiljer pÃ¥: MÃ¤nniskoskapad, AI-assisterad, AI-genererad och AI-manipulerad. Detta kommer att bli en del av innehÃ¥llets metadata.
 
 ### 15. Labeling of AI Content & AI Provenance Layer
 According to the transparency rules of the EU AI Act (effective August 2026), AI-generated content must be identifiable. We provide an AI Provenance Layer that stores metadata (AI-Origin, Model, Timestamp, Human Review).
 
 ### 16. Deepfake Detection
-Arkitekturen syftar till att upptäcka syntetiska bilder, klonade röster och deepfakes. Detektering är dock inte automatiskt bevis.
+Arkitekturen syftar till att upptÃ¤cka syntetiska bilder, klonade rÃ¶ster och deepfakes. Detektering Ã¤r dock inte automatiskt bevis.
 
-### 17. Ingen automatisk "Sanningsmaskin" (Moderation ≠ Faktakontroll)
-Ett system kontrollerar: "Bretter innehållet mot reglerna?" (Innehållsmoderering), en annan ger: "Vilken information och källor finns tillgängliga?" (Informationshjälp). Åsikter raderas inte bara för att de är "fel".
+### 17. Ingen automatisk "Sanningsmaskin" (Moderation â‰  Faktakontroll)
+Ett system kontrollerar: "Bretter innehÃ¥llet mot reglerna?" (InnehÃ¥llsmoderering), en annan ger: "Vilken information och kÃ¤llor finns tillgÃ¤ngliga?" (InformationshjÃ¤lp). Ã…sikter raderas inte bara fÃ¶r att de Ã¤r "fel".
 
 ### 18. Skydd mot kulturell misstolkning
-AI kräver **Cultural Context Models** för att förhindra att kommunikationsnormerna i ett land antas vara en global standard.
+AI krÃ¤ver **Cultural Context Models** fÃ¶r att fÃ¶rhindra att kommunikationsnormerna i ett land antas vara en global standard.
 
 ### 19. Ironi, satir och humor
-AI:n använder sammanhang, emojis, konversationshistorik och kända ironistrukturer, men måste tillåta osäkerhet när betydelser är tvetydiga.
+AI:n anvÃ¤nder sammanhang, emojis, konversationshistorik och kÃ¤nda ironistrukturer, men mÃ¥ste tillÃ¥ta osÃ¤kerhet nÃ¤r betydelser Ã¤r tvetydiga.
 
-### 20. Inget straff baserat på en enda AI-poäng
-Inget allvarligt modereringsingrepp får baseras enbart på ett enda automatiskt klassificeringsresultat (Text + Kontext + Beteende + Språk + Media + Regelmotor = Riskbedömning).
+### 20. Inget straff baserat pÃ¥ en enda AI-poÃ¤ng
+Inget allvarligt modereringsingrepp fÃ¥r baseras enbart pÃ¥ ett enda automatiskt klassificeringsresultat (Text + Kontext + Beteende + SprÃ¥k + Media + Regelmotor = RiskbedÃ¶mning).
 
-### 21. Signaler för användarbeteende och inget socialt kreditsystem
-Detta gäller tekniska missbrukssignaler (t.ex. masspublicering av spam), inte ett allmänt socialt klassificeringssystem. Nexus Gaja har inget socialt kreditsystem – måttfullhet tjänar trygghet, inte bedömningen av en persons värde.
+### 21. Signaler fÃ¶r anvÃ¤ndarbeteende och inget socialt kreditsystem
+Detta gÃ¤ller tekniska missbrukssignaler (t.ex. masspublicering av spam), inte ett allmÃ¤nt socialt klassificeringssystem. Nexus Gaja har inget socialt kreditsystem â€“ mÃ¥ttfullhet tjÃ¤nar trygghet, inte bedÃ¶mningen av en persons vÃ¤rde.
 
-### 22. Moderering AI måste kunna granskas
-Alla relevanta automatiserade beslut loggas (Event-ID, Rule-ID, Confidence, Human-Review, etc.) för att säkerställa spårbarhet.
+### 22. Moderering AI mÃ¥ste kunna granskas
+Alla relevanta automatiserade beslut loggas (Event-ID, Rule-ID, Confidence, Human-Review, etc.) fÃ¶r att sÃ¤kerstÃ¤lla spÃ¥rbarhet.
 
-### 23. Falska positiva, falska negativa och kvalitetsmått
-Feltyper övervakas. En instrumentbräda mäter precision, återkallelse och särskilt **frekvens för överklagande** (antal lyckade överklaganden).
+### 23. Falska positiva, falska negativa och kvalitetsmÃ¥tt
+Feltyper Ã¶vervakas. En instrumentbrÃ¤da mÃ¤ter precision, Ã¥terkallelse och sÃ¤rskilt **frekvens fÃ¶r Ã¶verklagande** (antal lyckade Ã¶verklaganden).
 
-### 24. Språkjämlikhet och översättningsbias
-Modereringskvaliteten måste vara jämförbar på alla språk som stöds (Multilingual Modereringsbenchmark). Om modereringsresultaten skiljer sig mellan originalet och översättningen (Översättningskonflikt), måste detta granskas specifikt.
+### 24. SprÃ¥kjÃ¤mlikhet och Ã¶versÃ¤ttningsbias
+Modereringskvaliteten mÃ¥ste vara jÃ¤mfÃ¶rbar pÃ¥ alla sprÃ¥k som stÃ¶ds (Multilingual Modereringsbenchmark). Om modereringsresultaten skiljer sig mellan originalet och Ã¶versÃ¤ttningen (Ã–versÃ¤ttningskonflikt), mÃ¥ste detta granskas specifikt.
 
-### 25. Arkitekturförslag och policymotor
-Regler (Policy Engine) är inte hårdkodade i AI-modellerna. AI ger resultat; Policymotorn bestämmer utifrån gällande regler. Detta möjliggör **modelländringar utan regeländringar**.
+### 25. ArkitekturfÃ¶rslag och policymotor
+Regler (Policy Engine) Ã¤r inte hÃ¥rdkodade i AI-modellerna. AI ger resultat; Policymotorn bestÃ¤mmer utifrÃ¥n gÃ¤llande regler. Detta mÃ¶jliggÃ¶r **modellÃ¤ndringar utan regelÃ¤ndringar**.
 
-### 26. Människan förblir den slutliga auktoriteten
-- **NG-AI-MOD-001**: AI:n hjälper till med upptäckt och klassificering, men ersätter inte mänsklig granskning vid allvarliga beslut.
-- **NG-AI-MOD-002**: Automatiserade modereringsbeslut måste vara spårbara, loggbara och verifierbara.
+### 26. MÃ¤nniskan fÃ¶rblir den slutliga auktoriteten
+- **NG-AI-MOD-001**: AI:n hjÃ¤lper till med upptÃ¤ckt och klassificering, men ersÃ¤tter inte mÃ¤nsklig granskning vid allvarliga beslut.
+- **NG-AI-MOD-002**: Automatiserade modereringsbeslut mÃ¥ste vara spÃ¥rbara, loggbara och verifierbara.
 
-**Sammanfattning**: Vi bygger ett system i fyra steg: AI-detektion, kontext- och riskanalys, policymotor och mänsklig styrning. Detta möjliggör stark automatisering utan att skapa en farlig "AI as Judge"-arkitektur.
+**Sammanfattning**: Vi bygger ett system i fyra steg: AI-detektion, kontext- och riskanalys, policymotor och mÃ¤nsklig styrning. Detta mÃ¶jliggÃ¶r stark automatisering utan att skapa en farlig "AI as Judge"-arkitektur.
 
-## Finansieringsprinciper och intäktsmodell (WP 1.10.1)
+## Finansieringsprinciper och intÃ¤ktsmodell (WP 1.10.1)
 
 ![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
-För Nexus Gaja gäller en mycket viktig ekonomisk princip: **Ingen traditionell reklam inom plattformen.**
-Detta skiljer Nexus Gaja i grunden från många av dagens sociala nätverk. Det betyder dock inte att Nexus Gaja inte kan ha en kommersiell karaktär. Tvärtom måste plattformen vara ekonomiskt gångbar så att dess sociala syfte kan bestå. Ekonomisk aktivitet är ett medel för att uppnå ett mål, inte det primära syftet med plattformen.
+FÃ¶r Nexus Gaja gÃ¤ller en mycket viktig ekonomisk princip: **Ingen traditionell reklam inom plattformen.**
+Detta skiljer Nexus Gaja i grunden frÃ¥n mÃ¥nga av dagens sociala nÃ¤tverk. Det betyder dock inte att Nexus Gaja inte kan ha en kommersiell karaktÃ¤r. TvÃ¤rtom mÃ¥ste plattformen vara ekonomiskt gÃ¥ngbar sÃ¥ att dess sociala syfte kan bestÃ¥. Ekonomisk aktivitet Ã¤r ett medel fÃ¶r att uppnÃ¥ ett mÃ¥l, inte det primÃ¤ra syftet med plattformen.
 
 ### 1. Princip NG-FIN-001
-Nexus Gaja finansierar sin verksamhet genom transparenta intäktsströmmar separerade från användarintressen, och inte genom att tjäna pengar på användarnas uppmärksamhet eller personliga data.
+Nexus Gaja finansierar sin verksamhet genom transparenta intÃ¤ktsstrÃ¶mmar separerade frÃ¥n anvÃ¤ndarintressen, och inte genom att tjÃ¤na pengar pÃ¥ anvÃ¤ndarnas uppmÃ¤rksamhet eller personliga data.
 
 ### 2. No Traditional Advertising
 Specifically prohibited are:
@@ -192,177 +194,177 @@ Specifically prohibited are:
 - Sale of user profiles or personal data
 - Advertising derived from private conversations.
 
-Nexus Gaja förblir ett **kommunikationsutrymme snarare än ett reklamutrymme**.
+Nexus Gaja fÃ¶rblir ett **kommunikationsutrymme snarare Ã¤n ett reklamutrymme**.
 
 ### 3. Finansiering utan reklam (de 6 pelarna)
-Finansieringen bygger på sex pelare:
+Finansieringen bygger pÃ¥ sex pelare:
 ```text
                  NEXUS GAJA
-                     │
-       ┌─────────────┼─────────────┐
-       ▼ ▼ ▼
+                     â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â–¼ â–¼ â–¼
    PREMIUM ORGANISATION DONATIONER
-       │ │ │
-       ├─────────────┼─────────────┤
-       ▼ ▼ ▼
-    BIDRAR PARTNERSKAP TJÄNSTER
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+       â–¼ â–¼ â–¼
+    BIDRAR PARTNERSKAP TJÃ„NSTER
 ```
 
-#### Pelare 1 – Gratis grundläggande medlemskap
-**Nexus Gaja Free** möjliggör grundläggande internationell förståelse för alla (profiler, internationell kommunikation, inlägg, gemenskaper, chattar, grundläggande översättning) utan kostnad.
+#### Pelare 1 â€“ Gratis grundlÃ¤ggande medlemskap
+**Nexus Gaja Free** mÃ¶jliggÃ¶r grundlÃ¤ggande internationell fÃ¶rstÃ¥else fÃ¶r alla (profiler, internationell kommunikation, inlÃ¤gg, gemenskaper, chattar, grundlÃ¤ggande Ã¶versÃ¤ttning) utan kostnad.
 
-#### Pelare 2 – Premiumerbjudanden
-Frivilliga betalda erbjudanden (**Nexus Gaja Plus**) som ger större lagringsgränser, högre mediekvalitet, utökade AI-kvoter och organisatoriska funktioner.
-**Viktigt (Freemium istället för Dark Freemium):** Grundläggande kommunikation får aldrig försämras på konstgjord väg.
+#### Pelare 2 â€“ Premiumerbjudanden
+Frivilliga betalda erbjudanden (**Nexus Gaja Plus**) som ger stÃ¶rre lagringsgrÃ¤nser, hÃ¶gre mediekvalitet, utÃ¶kade AI-kvoter och organisatoriska funktioner.
+**Viktigt (Freemium istÃ¤llet fÃ¶r Dark Freemium):** GrundlÃ¤ggande kommunikation fÃ¥r aldrig fÃ¶rsÃ¤mras pÃ¥ konstgjord vÃ¤g.
 
-#### Pelare 3 – Organisationer
-Särskilda konton för skolor, universitet, icke-statliga organisationer, företag och kommuner (**Nexus Gaja Organization**). Skolor kan få stöd via institutionella priser som multiplikatorer av internationell förståelse.
+#### Pelare 3 â€“ Organisationer
+SÃ¤rskilda konton fÃ¶r skolor, universitet, icke-statliga organisationer, fÃ¶retag och kommuner (**Nexus Gaja Organization**). Skolor kan fÃ¥ stÃ¶d via institutionella priser som multiplikatorer av internationell fÃ¶rstÃ¥else.
 
-#### Pelare 4 – Donationer
-**Nexus Gaja Funding Pool** tar emot allmänna och öronmärkta donationer (t.ex. "för internationell ungdomskommunikation"). En **Fondsallokeringsreskontra** säkerställer en transparent allokering av medel.
-**Purpose Fund & Tombola:** En del av donationerna matar en pool för gratis/rabatterad användning. En lotteri-/tombolamekanism kan fördela dessa medel på ett transparent och auditibelt sätt.
+#### Pelare 4 â€“ Donationer
+**Nexus Gaja Funding Pool** tar emot allmÃ¤nna och Ã¶ronmÃ¤rkta donationer (t.ex. "fÃ¶r internationell ungdomskommunikation"). En **Fondsallokeringsreskontra** sÃ¤kerstÃ¤ller en transparent allokering av medel.
+**Purpose Fund & Tombola:** En del av donationerna matar en pool fÃ¶r gratis/rabatterad anvÃ¤ndning. En lotteri-/tombolamekanism kan fÃ¶rdela dessa medel pÃ¥ ett transparent och auditibelt sÃ¤tt.
 
-#### Pelare 5 – Institutionell finansiering
+#### Pelare 5 â€“ Institutionell finansiering
 Stiftelser, kulturfinansieringsprogram eller statliga program.
-**NG-FIN-002:** Ekonomiskt stöd köper inte redaktionell eller teknisk kontroll (Oberoende).
+**NG-FIN-002:** Ekonomiskt stÃ¶d kÃ¶per inte redaktionell eller teknisk kontroll (Oberoende).
 
-#### Pelare 6 – Kommersiella tjänster
-B2B-tjänster som **Translation-as-a-Service** (API), organisationskommunikation eller internationella konferensrum, utan att belasta standardanvändarflödet.
+#### Pelare 6 â€“ Kommersiella tjÃ¤nster
+B2B-tjÃ¤nster som **Translation-as-a-Service** (API), organisationskommunikation eller internationella konferensrum, utan att belasta standardanvÃ¤ndarflÃ¶det.
 
-### 4. Ingen datainkomst och övervakningsekonomi
-**NG-FIN-003:** Personlig användardata är inte en handelsvara. Ingen försäljning av listor, profiler eller historier. Nexus Gaja tjänar inte på psykologisk övervakning (Surveillance Economy).
+### 4. Ingen datainkomst och Ã¶vervakningsekonomi
+**NG-FIN-003:** Personlig anvÃ¤ndardata Ã¤r inte en handelsvara. Ingen fÃ¶rsÃ¤ljning av listor, profiler eller historier. Nexus Gaja tjÃ¤nar inte pÃ¥ psykologisk Ã¶vervakning (Surveillance Economy).
 
 ### 5. Finansiell insyn och fondbok
-**Nexus Gaja Financial Transparency:** Publicering av aggregerade finansiella strukturer. Öronmärkta donationer får teknisk redovisning (Fond-ID → Syfte → Saldo → Allokering). Ingen korssubventionering av sociala ändamål till företagsmarknadsföring.
+**Nexus Gaja Financial Transparency:** Publicering av aggregerade finansiella strukturer. Ã–ronmÃ¤rkta donationer fÃ¥r teknisk redovisning (Fond-ID â†’ Syfte â†’ Saldo â†’ Allokering). Ingen korssubventionering av sociala Ã¤ndamÃ¥l till fÃ¶retagsmarknadsfÃ¶ring.
 
 ### 6. Solidaritetsbaserad finansieringsmodell
-Prissättningen baseras på kostnadsorientering, rättvisa och solidaritet.
-**Solidarity Premium:** Ett frivilligt alternativ för Premium-användare att finansiera en del av en annan användares åtkomst. Påtvingad solidaritet eller ett premiumklasssamhälle (mindre respekt/måttfullhet för fria användare) är strängt förbjudet.
+PrissÃ¤ttningen baseras pÃ¥ kostnadsorientering, rÃ¤ttvisa och solidaritet.
+**Solidarity Premium:** Ett frivilligt alternativ fÃ¶r Premium-anvÃ¤ndare att finansiera en del av en annan anvÃ¤ndares Ã¥tkomst. PÃ¥tvingad solidaritet eller ett premiumklasssamhÃ¤lle (mindre respekt/mÃ¥ttfullhet fÃ¶r fria anvÃ¤ndare) Ã¤r strÃ¤ngt fÃ¶rbjudet.
 
-### 7. Ekonomiska nyckeltal istället för engagemangsekonomi
-Inget beroende av att hålla användarna "online så länge som möjligt" (ingen ragebait, oändliga flöden).
-Istället använder vi statistik som:
-- **Global Communication Index (GCI):** Framgångsrika kommunikationsrelationer mellan människor från olika språkliga/kulturella regioner.
-- **Platform Sustainability Ratio (PSR):** Återkommande intäkter / återkommande driftskostnader (Mål ≥ 1).
+### 7. Ekonomiska nyckeltal istÃ¤llet fÃ¶r engagemangsekonomi
+Inget beroende av att hÃ¥lla anvÃ¤ndarna "online sÃ¥ lÃ¤nge som mÃ¶jligt" (ingen ragebait, oÃ¤ndliga flÃ¶den).
+IstÃ¤llet anvÃ¤nder vi statistik som:
+- **Global Communication Index (GCI):** FramgÃ¥ngsrika kommunikationsrelationer mellan mÃ¤nniskor frÃ¥n olika sprÃ¥kliga/kulturella regioner.
+- **Platform Sustainability Ratio (PSR):** Ã…terkommande intÃ¤kter / Ã¥terkommande driftskostnader (MÃ¥l â‰¥ 1).
 
 ### 8. Vad vi uttryckligen inte vill ha (negativ lista)
 Nexus Gaja finansieras **inte** av:
-❌ Försäljning av personuppgifter
-❌ Personlig traditionell reklam
-❌ Övervaka användarbeteende i reklamsyfte
-❌ Försäljning av privat kommunikationsdata
-❌ Dold AI-dataanvändning
-❌ Manipulativa Premium-betalväggar
-❌ Artificiell räckviddsbegränsning för intäktsgenerering
-❌ Betalt politiskt inflytande
-❌ Köp av privilegierade modereringsbeslut.
+âŒ FÃ¶rsÃ¤ljning av personuppgifter
+âŒ Personlig traditionell reklam
+âŒ Ã–vervaka anvÃ¤ndarbeteende i reklamsyfte
+âŒ FÃ¶rsÃ¤ljning av privat kommunikationsdata
+âŒ Dold AI-dataanvÃ¤ndning
+âŒ Manipulativa Premium-betalvÃ¤ggar
+âŒ Artificiell rÃ¤ckviddsbegrÃ¤nsning fÃ¶r intÃ¤ktsgenerering
+âŒ Betalt politiskt inflytande
+âŒ KÃ¶p av privilegierade modereringsbeslut.
 
-### 9. Preliminär finansiell arkitektur
+### 9. PreliminÃ¤r finansiell arkitektur
 ```text
                          NEXUS GAJA
-                              │
-             ┌────────────────┼──────────────
-             │ │ │
-             ▼ ▼ ▼
-          ANVÄNDARORGANISATIONER FÖRETAG
-             │ │ │
-             └────────────────┼──────────────
-                              │
-                       PLATTFORMTJÄNSTER
-                              │
-          ┌─────────────────── ┼───────────────────┐
-          ▼ ▼ ▼
+                              â”‚
+             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+             â”‚ â”‚ â”‚
+             â–¼ â–¼ â–¼
+          ANVÃ„NDARORGANISATIONER FÃ–RETAG
+             â”‚ â”‚ â”‚
+             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+                              â”‚
+                       PLATTFORMTJÃ„NSTER
+                              â”‚
+          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+          â–¼ â–¼ â–¼
        PREMIUM DONATIONS API
-                              │
-                    ┌─────────┴─────────┐
-                    ▼ ▼
-               ALLMÄNNA FONDBEGRÄNSADE MEDEL
-                                        │
-                                        ▼
+                              â”‚
+                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+                    â–¼ â–¼
+               ALLMÃ„NNA FONDBEGRÃ„NSADE MEDEL
+                                        â”‚
+                                        â–¼
                                   SOCIALT SYFTE
 ```
 
 ### Sammanfattning av finansieringsprinciper (NG-FIN)
 - **NG-FIN-001:** Ingen finansiering genom traditionell reklam.
-- **NG-FIN-002:** Ingen redaktionell/teknisk kontroll genom ekonomiskt stöd.
-- **NG-FIN-003:** Personuppgifter är inte en handelsvara.
-- **NG-FIN-004:** Grundläggande kommunikation förblir tillgänglig utan betalning.
-- **NG-FIN-005:** Premiumerbjudanden får inte försämra gratisanvändare.
-- **NG-FIN-006:** Öronmärkta medel förvaltas enligt deras syfte.
+- **NG-FIN-002:** Ingen redaktionell/teknisk kontroll genom ekonomiskt stÃ¶d.
+- **NG-FIN-003:** Personuppgifter Ã¤r inte en handelsvara.
+- **NG-FIN-004:** GrundlÃ¤ggande kommunikation fÃ¶rblir tillgÃ¤nglig utan betalning.
+- **NG-FIN-005:** Premiumerbjudanden fÃ¥r inte fÃ¶rsÃ¤mra gratisanvÃ¤ndare.
+- **NG-FIN-006:** Ã–ronmÃ¤rkta medel fÃ¶rvaltas enligt deras syfte.
 - **NG-FIN-007:** Transparent hantering av donationer och bidrag.
-- **NG-FIN-008:** Kommersiella B2B-tjänster äventyrar inte oberoendet.
-- **NG-FIN-009:** Fokusera på hållbarhet snarare än maximal intäktsgenerering.
-- **NG-FIN-010:** Strukturen säkrar permanent det sociala syftet.
+- **NG-FIN-008:** Kommersiella B2B-tjÃ¤nster Ã¤ventyrar inte oberoendet.
+- **NG-FIN-009:** Fokusera pÃ¥ hÃ¥llbarhet snarare Ã¤n maximal intÃ¤ktsgenerering.
+- **NG-FIN-010:** Strukturen sÃ¤krar permanent det sociala syftet.
 
-## API, gränssnitt och kommunikationsarkitektur (WP 1.11.3)
+## API, grÃ¤nssnitt och kommunikationsarkitektur (WP 1.11.3)
 
-För att säkerställa systemstabilitet, säkerhet och skalbarhet följer Nexus Gaja en strikt API-först och händelsedriven arkitektur.
+FÃ¶r att sÃ¤kerstÃ¤lla systemstabilitet, sÃ¤kerhet och skalbarhet fÃ¶ljer Nexus Gaja en strikt API-fÃ¶rst och hÃ¤ndelsedriven arkitektur.
 
-### Kärnprinciper
-- **Ingen direkt databasåtkomst:** Komponenter kommunicerar uteslutande via definierade gränssnitt (API eller händelser), aldrig genom direkta databasfrågor från andra tjänster.
-- **API-gateway:** Alla externa klientförfrågningar dirigeras genom en API-gateway som hanterar autentisering, routing och hastighetsbegränsning.
-- **Provider Abstraction:** Externa tjänster (AI-modeller, betalningsleverantörer, översättningsmotorer) är integrerade via abstraktionslager, vilket undviker hårdkodade beroenden och möjliggör flexibelt leverantörsbyte.
+### KÃ¤rnprinciper
+- **Ingen direkt databasÃ¥tkomst:** Komponenter kommunicerar uteslutande via definierade grÃ¤nssnitt (API eller hÃ¤ndelser), aldrig genom direkta databasfrÃ¥gor frÃ¥n andra tjÃ¤nster.
+- **API-gateway:** Alla externa klientfÃ¶rfrÃ¥gningar dirigeras genom en API-gateway som hanterar autentisering, routing och hastighetsbegrÃ¤nsning.
+- **Provider Abstraction:** Externa tjÃ¤nster (AI-modeller, betalningsleverantÃ¶rer, Ã¶versÃ¤ttningsmotorer) Ã¤r integrerade via abstraktionslager, vilket undviker hÃ¥rdkodade beroenden och mÃ¶jliggÃ¶r flexibelt leverantÃ¶rsbyte.
 
-### Kommunikationsmönster
-- **Synchronous APIs (REST/HTTPS):** Används för omedelbara förfrågningar som inloggning, profilinställningar eller direkta översättningar.
-- **Asynkrona händelser (Event Bus):** Nexus Gajas centrala nervsystem för fördröjd, frikopplad bearbetning (t.ex. "Message.Created" som utlöser moderering, översättning och avisering asynkront).
-- **Realtid (WebSocket):** Dedikerade kanaler för livechatt och skrivindikatorer.
+### KommunikationsmÃ¶nster
+- **Synchronous APIs (REST/HTTPS):** AnvÃ¤nds fÃ¶r omedelbara fÃ¶rfrÃ¥gningar som inloggning, profilinstÃ¤llningar eller direkta Ã¶versÃ¤ttningar.
+- **Asynkrona hÃ¤ndelser (Event Bus):** Nexus Gajas centrala nervsystem fÃ¶r fÃ¶rdrÃ¶jd, frikopplad bearbetning (t.ex. "Message.Created" som utlÃ¶ser moderering, Ã¶versÃ¤ttning och avisering asynkront).
+- **Realtid (WebSocket):** Dedikerade kanaler fÃ¶r livechatt och skrivindikatorer.
 
-### Säkerhet och tillförlitlighet
-- **Zero-Trust Model:** Intern nätverkstrafik är inte automatiskt betrodd; känslig tjänst-till-tjänst-kommunikation kräver autentisering.
-- **Idempotens och utkorgsmönster:** Kritiska operationer (som donationer eller meddelanden) är utformade för att vara idempotenta för att förhindra dubbelbearbetning, genom att använda utkorgsmönstret för att säkerställa att händelser aldrig går förlorade även under databastransaktioner.
+### SÃ¤kerhet och tillfÃ¶rlitlighet
+- **Zero-Trust Model:** Intern nÃ¤tverkstrafik Ã¤r inte automatiskt betrodd; kÃ¤nslig tjÃ¤nst-till-tjÃ¤nst-kommunikation krÃ¤ver autentisering.
+- **Idempotens och utkorgsmÃ¶nster:** Kritiska operationer (som donationer eller meddelanden) Ã¤r utformade fÃ¶r att vara idempotenta fÃ¶r att fÃ¶rhindra dubbelbearbetning, genom att anvÃ¤nda utkorgsmÃ¶nstret fÃ¶r att sÃ¤kerstÃ¤lla att hÃ¤ndelser aldrig gÃ¥r fÃ¶rlorade Ã¤ven under databastransaktioner.
 
-## MVP-domänmodell (WP 1.12)
+## MVP-domÃ¤nmodell (WP 1.12)
 
 ![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
 
-Nexus Gaja använder en strikt domändriven MVP-arkitektur (ADR-025), designad som en modulär monolit med tydliga domängränser. Denna struktur förhindrar för tidig mikrotjänstkomplexitet samtidigt som den behåller flexibiliteten att dela upp specifika domäner senare.
+Nexus Gaja anvÃ¤nder en strikt domÃ¤ndriven MVP-arkitektur (ADR-025), designad som en modulÃ¤r monolit med tydliga domÃ¤ngrÃ¤nser. Denna struktur fÃ¶rhindrar fÃ¶r tidig mikrotjÃ¤nstkomplexitet samtidigt som den behÃ¥ller flexibiliteten att dela upp specifika domÃ¤ner senare.
 
-### Kärndomänenheter
-Arkitekturen separerar uttryckligen distinkta koncept för att säkerställa dataintegritet och undvika strukturella fallgropar som "Användarnamn = Människan":
-- **Identitet och konton:** `Person` ≠ `Användarkonto` ≠ `Identitetsverifiering`. En verifierad person deltar via ett konto, men enheterna förblir separata.
-- **Kommunikation:** `Meddelande` ≠ `Översättning`. Det ursprungliga meddelandet förblir oföränderligt; översättningar är länkade enheter.
-- **Moderering:** `Rapport` ≠ `Modereringsbeslut`. En rapport är bara ett påstående; ett moderationsärende genomför utredningen.
-- **Ekonomi:** `Donation` ≠ `Fondsaldo`. Betalningar bokförs via en oföränderlig reskontra till en fond, vilket säkerställer finansiell transparens.
+### KÃ¤rndomÃ¤nenheter
+Arkitekturen separerar uttryckligen distinkta koncept fÃ¶r att sÃ¤kerstÃ¤lla dataintegritet och undvika strukturella fallgropar som "AnvÃ¤ndarnamn = MÃ¤nniskan":
+- **Identitet och konton:** `Person` â‰  `AnvÃ¤ndarkonto` â‰  `Identitetsverifiering`. En verifierad person deltar via ett konto, men enheterna fÃ¶rblir separata.
+- **Kommunikation:** `Meddelande` â‰  `Ã–versÃ¤ttning`. Det ursprungliga meddelandet fÃ¶rblir ofÃ¶rÃ¤nderligt; Ã¶versÃ¤ttningar Ã¤r lÃ¤nkade enheter.
+- **Moderering:** `Rapport` â‰  `Modereringsbeslut`. En rapport Ã¤r bara ett pÃ¥stÃ¥ende; ett moderationsÃ¤rende genomfÃ¶r utredningen.
+- **Ekonomi:** `Donation` â‰  `Fondsaldo`. Betalningar bokfÃ¶rs via en ofÃ¶rÃ¤nderlig reskontra till en fond, vilket sÃ¤kerstÃ¤ller finansiell transparens.
 
-### Sammankopplade domäner
-Systemet är uppdelat i tydliga logiska domäner (Bounded Contexts): Identitet, Konto, Organisation, Kommunikation, Gemenskap, Språk, Moderering, Notifiering, Ekonomi och Styrning. Dessa domäner kartlägger hela resan från verkliga enheter (användare, skolor, icke-statliga organisationer) till deras digitala interaktioner och relaterade styrning.
+### Sammankopplade domÃ¤ner
+Systemet Ã¤r uppdelat i tydliga logiska domÃ¤ner (Bounded Contexts): Identitet, Konto, Organisation, Kommunikation, Gemenskap, SprÃ¥k, Moderering, Notifiering, Ekonomi och Styrning. Dessa domÃ¤ner kartlÃ¤gger hela resan frÃ¥n verkliga enheter (anvÃ¤ndare, skolor, icke-statliga organisationer) till deras digitala interaktioner och relaterade styrning.
 
 ## Projektstatus
-Projektet befinner sig för närvarande i den aktiva arkitektur- och planeringsfasen.
-Pågående arkitekturbeslut dokumenteras i mappen `/docs`.
+Projektet befinner sig fÃ¶r nÃ¤rvarande i den aktiva arkitektur- och planeringsfasen.
+PÃ¥gÃ¥ende arkitekturbeslut dokumenteras i mappen `/docs`.
 
 ---
 
 ---
 
-## Licens och immateriella rättigheter
+## Licens och immateriella rÃ¤ttigheter
 
-> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — Alla rättigheter reserverade.**
+> **Â© 2024â€“2026 SonnerStudio - Jan Friske GrÃ¼nder, Inhaber, Direktor und Chefdesigner von SonnerStudio â€” Alla rÃ¤ttigheter reserverade.**
 
-**Nexus Gaja** är den exklusiva immateriella egendomen som tillhör **Jan Friske**, som verkar under **SonnerStudio**.
+**Nexus Gaja** Ã¤r den exklusiva immateriella egendomen som tillhÃ¶r **Jan Friske**, som verkar under **SonnerStudio**.
 
-Jan Friske är den enda skaparen, arkitekten och ägaren av Nexus Gaja – inklusive alla koncept, arkitektur, domänmodeller, varumärkesidentitet och tillhörande dokumentation.
+Jan Friske Ã¤r den enda skaparen, arkitekten och Ã¤garen av Nexus Gaja â€“ inklusive alla koncept, arkitektur, domÃ¤nmodeller, varumÃ¤rkesidentitet och tillhÃ¶rande dokumentation.
 
-**Inga rättigheter, licenser eller ägarintressen innehas av någon tredje part**, oavsett deras storlek, marknadsposition eller inflytande inom teknikindustrin.
+**Inga rÃ¤ttigheter, licenser eller Ã¤garintressen innehas av nÃ¥gon tredje part**, oavsett deras storlek, marknadsposition eller inflytande inom teknikindustrin.
 
-### Vad som INTE är tillåtet utan uttryckligt skriftligt medgivande:
+### Vad som INTE Ã¤r tillÃ¥tet utan uttryckligt skriftligt medgivande:
 - Kopiera, reproducera eller distribuera denna programvara eller dess dokumentation
-- Modifiera, anpassa eller skapa härledda verk
-- Kommersiell användning av någon del av Nexus Gaja
-- Använda innehållet i detta förråd som träningsdata för AI- eller LLM-system
-- Underlicensiering eller överföring av rättigheter till tredje part
+- Modifiera, anpassa eller skapa hÃ¤rledda verk
+- Kommersiell anvÃ¤ndning av nÃ¥gon del av Nexus Gaja
+- AnvÃ¤nda innehÃ¥llet i detta fÃ¶rrÃ¥d som trÃ¤ningsdata fÃ¶r AI- eller LLM-system
+- Underlicensiering eller Ã¶verfÃ¶ring av rÃ¤ttigheter till tredje part
 
 ### Skyddad immateriell egendom
-Följande originalkoncept är skyddade som affärshemligheter och patentskyddade skapelser av Jan Friske:
-- Den skiktade kommunikationsmodellen (original, semantisk tolkning, översatt utdata)
-- Identitetsseparationsprincipen (Person är inte konto är inte identitetsverifiering)
-- Avkopplingsmodellen för meddelande-översättning (Meddelande är inte översättning)
-- Styrningsramverket för AI-moderering
+FÃ¶ljande originalkoncept Ã¤r skyddade som affÃ¤rshemligheter och patentskyddade skapelser av Jan Friske:
+- Den skiktade kommunikationsmodellen (original, semantisk tolkning, Ã¶versatt utdata)
+- Identitetsseparationsprincipen (Person Ã¤r inte konto Ã¤r inte identitetsverifiering)
+- Avkopplingsmodellen fÃ¶r meddelande-Ã¶versÃ¤ttning (Meddelande Ã¤r inte Ã¶versÃ¤ttning)
+- Styrningsramverket fÃ¶r AI-moderering
 
 ### Kontakt
-För licensförfrågningar: https://github.com/SonnerStudio
+FÃ¶r licensfÃ¶rfrÃ¥gningar: https://github.com/SonnerStudio
 
-Nexus Gaja och Nexus Gaja-logotypen är varumärken som tillhör Jan Friske. Otillåten användning av namnet eller varumärket är förbjudet.
+Nexus Gaja och Nexus Gaja-logotypen Ã¤r varumÃ¤rken som tillhÃ¶r Jan Friske. OtillÃ¥ten anvÃ¤ndning av namnet eller varumÃ¤rket Ã¤r fÃ¶rbjudet.
 
-Se fullständiga licensvillkor i LICENS-filen.
+Se fullstÃ¤ndiga licensvillkor i LICENS-filen.

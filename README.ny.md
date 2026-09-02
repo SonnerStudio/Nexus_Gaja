@@ -1,4 +1,4 @@
-# Nexus Gaja
+﻿# Nexus Gaja
 
 > *Pofuna mtendere wapadziko lonse lapansi komanso kumvetsetsana kwapadziko lonse lapansi*
 
@@ -6,17 +6,19 @@
 ![ Nexus Gaja Logo](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
 
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 
@@ -26,7 +28,7 @@
 
 ![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
 
-M’dziko logwirizana kwambiri, chinenero ndicho chopinga chachikulu kwambiri. Cholinga chachikulu cha Nexus Gaja ndikupangitsa kuti anthu azilankhulana mopanda msoko, opezeka komanso olondola pamitu - mosasamala kanthu kuti amalankhula chilankhulo chofala kapena ayi. 
+Mâ€™dziko logwirizana kwambiri, chinenero ndicho chopinga chachikulu kwambiri. Cholinga chachikulu cha Nexus Gaja ndikupangitsa kuti anthu azilankhulana mopanda msoko, opezeka komanso olondola pamitu - mosasamala kanthu kuti amalankhula chilankhulo chofala kapena ayi. 
 
 Sikuti kungomasulira mawu mouma khosi, koma ndi **kutumiza tanthauzo**. Nexus Gaja imalumikiza anthu mozama pomvetsetsa zikhalidwe, madera ndi zochitika, kuthandizira zokambirana zenizeni, zenizeni.
 
@@ -45,11 +47,11 @@ Pakatikati mwaukadaulo wa Nexus Gaja ndi njira yolumikizirana yodzipangira yokha
 
 1. **Choyambirira**: Chinthu choyankhulirana (uthenga) chopangidwa ndi wotumiza nthawi zonse chimakhala chosasinthika.
 2. **Kutanthauzira Kwamawu**: Dongosolo limasanthula osati mawu okha, koma tanthauzo lenileni.
-3. **Chiyimiliro cha chilankhulo chomwe akulowera**: The AI ​​​​imangopanga chifaniziro chakanthawi kapena chosungidwa chaomwe akuwalandira kutengera chilankhulo chomwe amakonda. Zomasulira sizimachotsa uthenga woyambirira.
+3. **Chiyimiliro cha chilankhulo chomwe akulowera**: The AI â€‹â€‹â€‹â€‹imangopanga chifaniziro chakanthawi kapena chosungidwa chaomwe akuwalandira kutengera chilankhulo chomwe amakonda. Zomasulira sizimachotsa uthenga woyambirira.
 
 ### Kudalira kwazinthu
 Zomasulira sizimayang'ana nkhani mu Nexus Gaja payokha. Injini imaganizira za utsogoleri wonse:
-`Uthenga` → `Mauthenga Akale` → `Mawu Amithenga` → `Makhalidwe Adera` → `Chinenero / Chigawo` → `Zokonda Zogwiritsa Ntchito`
+`Uthenga` â†’ `Mauthenga Akale` â†’ `Mawu Amithenga` â†’ `Makhalidwe Adera` â†’ `Chinenero / Chigawo` â†’ `Zokonda Zogwiritsa Ntchito`
 
 ### Kuchita bwino pakumasulira komwe mukufuna
 Kumasulira kumangochitika **pamene kutchedwa** (pofuna) m'njira yopulumutsa. Wogwiritsa ntchito akapempha zomwe zili, zimamasuliridwa m'chilankhulo chawo chosasinthika. Zomasulira za chilankhulo china zimasungidwa kwamuyaya (caching) kuti mafunso amtsogolo afulumizitse.
@@ -66,28 +68,28 @@ Cholinga chake ndi kuthandiza anthu mwachikatikati, osati kudziwa maganizo omwe 
 Choncho timasiyanitsa zinthu zitatu:
 - ** Dziwani: ** "Pakhoza kukhala kuswa lamulo pano."
 - **Mlingo:** "Mwachitsanzo, mwayi wophwanya lamulo ndi 94%."
-- **Sankhani:** “Kodi kwenikweni chitanipo kanthu?”
+- **Sankhani:** â€œKodi kwenikweni chitanipo kanthu?â€
 Gawo lachitatu liyenera kuwongoleredwa mwaumunthu pamilandu yayikulu.
 
 ### 2. The moderation AI idzakhala yakeyake
 M'malo mwa AI imodzi, dongosolo lolimba limakhazikitsidwa:
 ``` mawu
                  NEXUS GAJA AI MODERATION
-                          │
-       ┌───────────────── ┼─────────────────┐
-       │ │ │
+                          â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â”‚ â”‚ â”‚
   Language AI Safety AI Chinyengo AI
-       │ │ │
-       ├─────────────┬─── ┴─────────────┬───┤
-       │ │ │
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€ â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”¤
+       â”‚ â”‚ â”‚
  Chizindikiritso cha Khalidwe Lomasulira
  Analysis Analysis Signals
-       │ │ │
-       └────────────┼────────────────────
-                      ▼
+       â”‚ â”‚ â”‚
+       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+                      â–¼
                Kuwunika zoopsa
-                      │
-                      ▼
+                      â”‚
+                      â–¼
                Ndemanga ya Anthu
 ````
 
@@ -104,7 +106,7 @@ Pali madera asanu ndi anayi owunikira apadera a Nexus Gaja:
 - **M9 - Context Engine **: Gawo lofunika kwambiri. Zimabweretsa pamodzi zomwe wapeza.
 
 ### 4. Chifukwa chiyani Context Engine ndi yofunika kwambiri
-Kusaka kwa mawu osakira sikungakhale kokwanira. "Ndikhoza kumupha iye akuseka" liri ndi chiwawa cha semantic, koma ndi mawu ophiphiritsa. “Mawa pa 8 p.m. ndidzamuwombera kutsogolo kwa nyumba yake” ndi mkhalidwe wosiyana kotheratu. AI iyenera kumvetsetsa zomwe mawuwo akutanthauza pankhaniyi.
+Kusaka kwa mawu osakira sikungakhale kokwanira. "Ndikhoza kumupha iye akuseka" liri ndi chiwawa cha semantic, koma ndi mawu ophiphiritsa. â€œMawa pa 8 p.m. ndidzamuwombera kutsogolo kwa nyumba yakeâ€ ndi mkhalidwe wosiyana kotheratu. AI iyenera kumvetsetsa zomwe mawuwo akutanthauza pankhaniyi.
 
 ### 5. Kuwongolera zinenero zambiri
 Kudziletsa sikungangoyerekeza mawu. Iyenera kusanthula mulingo wa matanthauzo (monga miyambi yachijeremani motsutsana ndi miyambi yachijapani motsutsana ndi mawu achigawo).
@@ -113,22 +115,22 @@ Kudziletsa sikungangoyerekeza mawu. Iyenera kusanthula mulingo wa matanthauzo (m
 Zoyambirira ndi zomasulira zimawunikidwa mosiyana. Pokhapokha m'pamene "Combined Moderation Assessment" ikuchitika. Mwanjira iyi, Nexus Gaja imatha kudziwa ngati kumasulira komweko kungakhale kokulirapo kapena kusintha zinthu.
 
 ### 7. Chikhulupiriro chambiri
-Kuwunika kulikonse kwa AI kumalandira mtengo wodalirika (mwachitsanzo, Kuwopsa: 0.96). Koma: **Chikhulupiriro Score ≠ Choonadi.** Kuchuluka kwa 96% kumangotanthauza kuti chitsanzocho chili ndi chidaliro kwambiri pamagulu ake, osati kuti wogwiritsa ntchitoyo ndi wolakwa.
+Kuwunika kulikonse kwa AI kumalandira mtengo wodalirika (mwachitsanzo, Kuwopsa: 0.96). Koma: **Chikhulupiriro Score â‰  Choonadi.** Kuchuluka kwa 96% kumangotanthauza kuti chitsanzocho chili ndi chidaliro kwambiri pamagulu ake, osati kuti wogwiritsa ntchitoyo ndi wolakwa.
 
 ### 8. Kusatsimikizika pakokha kumakhala chizindikiro
 Ngati AI ndi yosatsimikizika (mwachitsanzo Kuopseza: 0.62, Satire: 0.54), sikungangochitapo kanthu mwankhanza. M'malo mwake, kusatsimikizika kumamangidwa mwachindunji muzomangamanga: **Kuwunika Kwaumunthu Kofunikira **.
 
 ### 9. Magawo anayi azisankho
-- 🟢 **GREEN**: Zoyenera kutsatira. → palibe chochita.
-- 🟡 **YELOW**: Kuphwanya komwe kungachitike. → onani / zindikirani ngati kuli kofunikira.
-- 🟠 **ORANGE**: Mwina kuphwanya. → cheke chowongolera.
-- 🔴 **KUFIIRA**: Kuphwanya kwakukulu komwe kungatheke. → muyeso wachangu wachitetezo + kuyesa kwa anthu.
+- ðŸŸ¢ **GREEN**: Zoyenera kutsatira. â†’ palibe chochita.
+- ðŸŸ¡ **YELOW**: Kuphwanya komwe kungachitike. â†’ onani / zindikirani ngati kuli kofunikira.
+- ðŸŸ  **ORANGE**: Mwina kuphwanya. â†’ cheke chowongolera.
+- ðŸ”´ **KUFIIRA**: Kuphwanya kwakukulu komwe kungatheke. â†’ muyeso wachangu wachitetezo + kuyesa kwa anthu.
 
 ### 10. Palibe "AI chilango"
 **AI siyimaika zilango zomaliza.** Ikhoza kuyambitsa njira zaukadaulo zadzidzidzi (monga kusagwira uthenga) pakakhala vuto lalikulu lachitetezo, koma chigamulo chomaliza chikhala chotsimikizika.
 
 ### 11. Njira zodzitetezera zitha kukhala zokha
-Ngati pali chiwopsezo chapadera (Chiwopsezo chapezeka → Kudalira kwakukulu → Kuletsa kwakanthawi → Ndemanga ya anthu → Chigamulo), timateteza wogwiritsa ntchito yemwe akuwopsezedwa popanda kupanga AI kukhala woweruza.
+Ngati pali chiwopsezo chapadera (Chiwopsezo chapezeka â†’ Kudalira kwakukulu â†’ Kuletsa kwakanthawi â†’ Ndemanga ya anthu â†’ Chigamulo), timateteza wogwiritsa ntchito yemwe akuwopsezedwa popanda kupanga AI kukhala woweruza.
 
 ### 12. AI iyenera kutsimikizira chisankho chake
 DSA imafuna zifukwa zomveka komanso zenizeni. Zifukwa za AI m'njira yokhazikika: Rule (NG-CONDUCT-004), Kuzindikiridwa (Kuwopseza konkriti), Chidaliro (0.94), Zoyenerana (Mauthenga 4 apitawa), Zochita zolimbikitsidwa (Kuwunika kwaumunthu).
@@ -145,7 +147,7 @@ Malinga ndi malamulo a EU AI Act (kuyambira Ogasiti 2026), zomwe zimapangidwa nd
 ### 16. Kuzindikira kozama
 Zomangamangazo zimapangidwira kuti zizindikire zithunzi zopangidwa, mawu olimbikitsa komanso zozama. Koma kuzindikira si umboni wokha.
 
-### 17. Palibe “makina owona” (moderation ≠ kuwona zenizeni)
+### 17. Palibe â€œmakina owonaâ€ (moderation â‰  kuwona zenizeni)
 Dongosolo limafufuza: "Kodi zomwe zili zikuphwanya malamulo aliwonse?" (Content Moderation), ina ikupereka: "Ndi chidziwitso ndi magwero otani?" (Thandizo la Information). Malingaliro samangochotsedwa ngati "olakwika".
 
 ### 18. Chitetezo ku kutanthauzira kolakwika kwa chikhalidwe
@@ -205,13 +207,13 @@ Izi zimasiya malo olumikizirana: **malo olumikizirana m'malo motsatsa malonda.**
 M'malo mwake, ndalama zathu zimatha kukhala ndi zipilala zingapo. Choyamba timapereka zipilala zisanu ndi chimodzi:
 ``` mawu
                  NEXUS GAJA
-                     │
-       ┌─────────────┼─────────────┐
-       ▼ ▼ ▼
+                     â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â–¼ â–¼ â–¼
    PREMIUM ORGANIZATION PEREKA
-       │ │ │
-       ├──────────────────────────┤
-       ▼ ▼ ▼
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+       â–¼ â–¼ â–¼
    KUKHALITSA NTCHITO ZA NTCHITO
 ````
 
@@ -229,10 +231,10 @@ Zopereka zolipiridwa mwaufulu (**Nexus Gaja Plus**). Zopindulitsa zomwe zingathe
 **Thumba landalama la Nexus Gaja:** Opereka ndalama atha kupereka ndalama modzifunira (zopereka zonse kapena zokhazikika). 
 **Dwilo landalama ndi tombola:** Kugwiritsa ntchito kwaulere kapena kuchotsera kumalipidwa ndi dziwe la zopereka. Chikalata chogawa ndalama chimatsimikizira kuyika chizindikiro.
 ``` mawu
-ZOPEREKA → NDALAMA YA CHOLINGA → ELIGIBILITY ENGINE → Kupeza kwaulere / Kuchotsera / Gawo
+ZOPEREKA â†’ NDALAMA YA CHOLINGA â†’ ELIGIBILITY ENGINE â†’ Kupeza kwaulere / Kuchotsera / Gawo
 ````
 
-#### Msanamira 5 – Thandizo la mabungwe
+#### Msanamira 5 â€“ Thandizo la mabungwe
 Othandizira: Maziko, mapulogalamu a ndalama zachikhalidwe, mapulogalamu a ndalama za boma.
 **NG-FIN-002 (Kudziimira):** Ndalama sizingagule zowongolera kapena luso laukadaulo pa Nexus Gaja.
 
@@ -245,7 +247,7 @@ Nexus Gaja sichinapangidwe kuti ipindule ndi ogwiritsa ntchito ake kuyang'anirid
 
 ### 5. Kuwonekera pazachuma
 Nexus Gaja Financial Transparency: Ndalama zitha kusindikizidwa malinga ndi magulu, kuchuluka kwa zopereka, ndalama zogwirira ntchito, ndi zina zambiri. 
-**Kalozera wandalama:** Zopereka zoperekedwa pazifukwa zina zimalembedwa m'njira yomveka bwino yowerengera ndalama (Zopereka → ID ya Ndalama → Cholinga → Ndalama Zomwe Zilipo → Kugawa). Palibe chithandizo chamtanda popanda kuwonekera.
+**Kalozera wandalama:** Zopereka zoperekedwa pazifukwa zina zimalembedwa m'njira yomveka bwino yowerengera ndalama (Zopereka â†’ ID ya Ndalama â†’ Cholinga â†’ Ndalama Zomwe Zilipo â†’ Kugawa). Palibe chithandizo chamtanda popanda kuwonekera.
 
 ### 6. Mitengo ndi mgwirizano wandalama wogwirizana
 Mitengoyi imachokera pa: kutsata mtengo, chilungamo ndi mgwirizano.
@@ -254,42 +256,42 @@ Mitengoyi imachokera pa: kutsata mtengo, chilungamo ndi mgwirizano.
 ### 7. Economic KPI
 Sitidalira nthawi yosatha yapaintaneti (palibe chuma chachinyengo). Ma KPI athu:
 - **Global Communication Index (GCI):** Ndi maubwenzi angati opambana a kulumikizana pakati pa anthu ochokera kumadera osiyanasiyana azilankhulo kapena azikhalidwe?
-- ** Platform Sustainability Ratio (PSR): ** ndalama zobwerezabwereza / ndalama zogwiritsira ntchito mobwerezabwereza (chandamale: PSR ≥ 1).
+- ** Platform Sustainability Ratio (PSR): ** ndalama zobwerezabwereza / ndalama zogwiritsira ntchito mobwerezabwereza (chandamale: PSR â‰¥ 1).
 
 ### 8. Zomwe sitikufuna kwenikweni
 Nexus Gaja sichirikizidwa ndi:
-❌ Kugulitsa zambiri zanu
-❌ kutsatsa kwamakonda kwanu
-❌ Kuyang'anira machitidwe a ogwiritsa ntchito pazolinga zotsatsa
-❌ Kugulitsa mauthenga achinsinsi
-❌ kugwiritsa ntchito deta ya AI yobisika
-❌ maloko opangira ma premium
-❌ Kuchepetsa kufikika mwakupanga pakupanga ndalama
-❌ anapatsa mphamvu zandale
-❌ Kugula zisankho zamwayi.
+âŒ Kugulitsa zambiri zanu
+âŒ kutsatsa kwamakonda kwanu
+âŒ Kuyang'anira machitidwe a ogwiritsa ntchito pazolinga zotsatsa
+âŒ Kugulitsa mauthenga achinsinsi
+âŒ kugwiritsa ntchito deta ya AI yobisika
+âŒ maloko opangira ma premium
+âŒ Kuchepetsa kufikika mwakupanga pakupanga ndalama
+âŒ anapatsa mphamvu zandale
+âŒ Kugula zisankho zamwayi.
 
 ### 9. Zomangamanga Zoyambirira
 ``` mawu
                          NEXUS GAJA
-                              │
-             ┌───────────────┼───────────────────────
-             │ │ │
-             ▼ ▼ ▼
+                              â”‚
+             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+             â”‚ â”‚ â”‚
+             â–¼ â–¼ â–¼
           USERS ORGANIZATIONS ENTERPRISE
-             │ │ │
-             └──────────────┼──────────────────
-                              │
+             â”‚ â”‚ â”‚
+             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+                              â”‚
                        PLATFORM SERVICES
-                              │
-          ┌────────────────── ┼──────────────────┐
-          ▼ ▼ ▼
+                              â”‚
+          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+          â–¼ â–¼ â–¼
        PREMIUM DONATIONS API
-                              │
-                    ┌──────────────────┐
-                    ▼ ▼
+                              â”‚
+                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+                    â–¼ â–¼
                GENERAL FUND RESTRICTED NDALAMA
-                                        │
-                                        ▼
+                                        â”‚
+                                        â–¼
                                   CHOLINGA CHA ANTHU
 ````
 
@@ -331,10 +333,10 @@ Nexus Gaja imagwiritsa ntchito zomangamanga za MVP zoyendetsedwa ndi domeni (ADR
 
 ### Zofunikira zaukadaulo
 Zomangamanga zimalekanitsa malingaliro kuti zitsimikizire kukhulupirika kwa data ndikupewa zolakwika monga "username = human":
-- **Identity & Accounts:** `Munthu` ≠ `Akaunti Yogwiritsa` ≠ `Kutsimikizira Identity`. Munthu wotsimikizika amatenga nawo gawo kudzera muakaunti imodzi, koma mabungwe amakhala osiyana.
-- **Kulankhulana:** `Uthenga` ≠ `Kumasulira`. Uthenga wapachiyambi ndi wosasinthika; Zomasulira ndi mabungwe olumikizidwa.
-- **Moderation:** `Ripoti` ≠ `Sankhani Moderation`. Uthenga ndi chisonyezo chabe; woyang'anira amafufuza.
-- **Ndalama:** `Zopereka` ≠ `Ndalama zandalama`. Malipiro amatumizidwa mosasinthika ku thumba kudzera pa ledger (cash book).
+- **Identity & Accounts:** `Munthu` â‰  `Akaunti Yogwiritsa` â‰  `Kutsimikizira Identity`. Munthu wotsimikizika amatenga nawo gawo kudzera muakaunti imodzi, koma mabungwe amakhala osiyana.
+- **Kulankhulana:** `Uthenga` â‰  `Kumasulira`. Uthenga wapachiyambi ndi wosasinthika; Zomasulira ndi mabungwe olumikizidwa.
+- **Moderation:** `Ripoti` â‰  `Sankhani Moderation`. Uthenga ndi chisonyezo chabe; woyang'anira amafufuza.
+- **Ndalama:** `Zopereka` â‰  `Ndalama zandalama`. Malipiro amatumizidwa mosasinthika ku thumba kudzera pa ledger (cash book).
 
 ### Mitu yolumikizidwa
 Dongosololi limagawidwa m'magawo omveka (magawo okhala ndi malire): Chidziwitso, Akaunti, Gulu, Kulumikizana, Community, Chinenero, Moderation, Notification, Finance ndi Governance. Amayimira unyolo wonse kuchokera kwa ochita zenizeni (ogwiritsa ntchito, masukulu, NGOs) kupita kuzinthu zawo zama digito.
@@ -347,7 +349,7 @@ Zosankha zomwe zikupitilira zalembedwa mu chikwatu cha `/docs`.
 
 ## License & Intellectual Property
 
-> **© 2024-2026 SonnerStudio - Woyambitsa Jan Friske, Mwini, Mtsogoleri ndi Wopanga Wamkulu wa SonnerStudio - Ufulu wonse ndi wotetezedwa.**
+> **Â© 2024-2026 SonnerStudio - Woyambitsa Jan Friske, Mwini, Mtsogoleri ndi Wopanga Wamkulu wa SonnerStudio - Ufulu wonse ndi wotetezedwa.**
 
 **Nexus Gaja** ndi nzeru zapadera za **Jan Friske**, zomwe zimagwira ntchito pansi pa **SonnerStudio**.
 
@@ -356,17 +358,17 @@ Jan Friske ndiye yekhayo amene adapanga, mmisiri wa zomangamanga komanso mwini w
 **Palibe maufulu, zilolezo kapena zokonda za eni zomwe zimaperekedwa kwa wina aliyense ** mosasamala kanthu za kukula kwake, malo amsika kapena chikoka pazaukadaulo.
 
 ### Zomwe siziloledwa popanda chilolezo cholembedwa:
-- ❌ Koperani, tulutsaninso kapena gawirani pulogalamuyo kapena zolemba zake
-- ❌ Sinthani, sinthani kapena pangani ntchito zotumphukira
-- ❌ Kugwiritsa ntchito malonda mbali iliyonse ya Nexus Gaja
-- ❌ Kugwiritsa ntchito zomwe zili m'nkhokwe monga ** data yophunzitsira ya machitidwe a AI/LLM **
-- ❌ Kupereka chilolezo kapena kusamutsa ufulu kwa anthu ena
+- âŒ Koperani, tulutsaninso kapena gawirani pulogalamuyo kapena zolemba zake
+- âŒ Sinthani, sinthani kapena pangani ntchito zotumphukira
+- âŒ Kugwiritsa ntchito malonda mbali iliyonse ya Nexus Gaja
+- âŒ Kugwiritsa ntchito zomwe zili m'nkhokwe monga ** data yophunzitsira ya machitidwe a AI/LLM **
+- âŒ Kupereka chilolezo kapena kusamutsa ufulu kwa anthu ena
 
 ### Kutetezedwa kwanzeru
 Malingaliro oyambira awa amatetezedwa ngati zinsinsi zamalonda ndi zolengedwa za Jan Friske:
 - Njira yoyankhulirana yokhala ndi magawo angapo *(Kutanthauzira Koyambirira / Kutanthauzira kwa Semantic / Kumasulira Komasulira)*
-- Mfundo yolekanitsa zidziwitso *(munthu ≠ akaunti ya ogwiritsa ≠ chitsimikizo cha identity)*
-- Njira yochotsera uthenga-(uthenga ≠ kumasulira)*
+- Mfundo yolekanitsa zidziwitso *(munthu â‰  akaunti ya ogwiritsa â‰  chitsimikizo cha identity)*
+- Njira yochotsera uthenga-(uthenga â‰  kumasulira)*
 - Ndondomeko yoyendetsera kayendetsedwe ka AI
 
 ### Contact
@@ -374,4 +376,4 @@ Pamafunso a laisensi: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
 *"Nexus Gaja" ndi logo ya Nexus Gaja ndi zizindikilo za Jan Friske. Kugwiritsa ntchito dzina kapena chizindikiro mosaloledwa ndikoletsedwa.*
 
-➡️ Malayisensi athunthu mu [LICENSE](LICENSE)
+âž¡ï¸ Malayisensi athunthu mu [LICENSE](LICENSE)

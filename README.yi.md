@@ -1,377 +1,379 @@
-# נעקסוס גאַדזשאַ
+﻿# × ×¢×§×¡×•×¡ ×’×Ö·×“×–×©×Ö·
 
-> *פֿאַר אינטערנאַציאָנאַלע שלום און אינטערנאַציאָנאַלע פארשטאנד*
+> *×¤Ö¿×Ö·×¨ ××™× ×˜×¢×¨× ×Ö·×¦×™×Ö¸× ×Ö·×œ×¢ ×©×œ×•× ××•×Ÿ ××™× ×˜×¢×¨× ×Ö·×¦×™×Ö¸× ×Ö·×œ×¢ ×¤××¨×©×˜×× ×“*
 
 
 ![Nexus Gaja Logo](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
 
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 
-**Nexus Gaja** איז אַן ינטעליגענט, קאָנטעקסט-אַווער קאָמוניקאַציע נעץ דיזיינד צו רעוואַלושאַנייז גלאבאלע קאָמוניקאַציע.
+**Nexus Gaja** ××™×– ×Ö·×Ÿ ×™× ×˜×¢×œ×™×’×¢× ×˜, ×§×Ö¸× ×˜×¢×§×¡×˜-×Ö·×•×•×¢×¨ ×§×Ö¸×ž×•× ×™×§×Ö·×¦×™×¢ × ×¢×¥ ×“×™×–×™×™× ×“ ×¦×• ×¨×¢×•×•×Ö·×œ×•×©×Ö·× ×™×™×– ×’×œ××‘××œ×¢ ×§×Ö¸×ž×•× ×™×§×Ö·×¦×™×¢.
 
-# # ציל און זעאונג
+# # ×¦×™×œ ××•×Ÿ ×–×¢××•× ×’
 
 ![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
 
-אין אַ גלאָובאַלייזד וועלט, שפּראַך איז אָפט די ביגאַסט שלאַבאַן. דער הויפּט ציל פון Nexus Gaja איז צו געבן סימלאַס, צוטריטלעך און קאָנטעקסט-פּינטלעך קאָמוניקאַציע צווישן מענטשן - ראַגאַרדלאַס פון צי זיי רעדן אַ פּראָסט שפּראַך אָדער נישט. 
+××™×Ÿ ×Ö· ×’×œ×Ö¸×•×‘×Ö·×œ×™×™×–×“ ×•×•×¢×œ×˜, ×©×¤Ö¼×¨×Ö·×š ××™×– ×Ö¸×¤×˜ ×“×™ ×‘×™×’×Ö·×¡×˜ ×©×œ×Ö·×‘×Ö·×Ÿ. ×“×¢×¨ ×”×•×™×¤Ö¼×˜ ×¦×™×œ ×¤×•×Ÿ Nexus Gaja ××™×– ×¦×• ×’×¢×‘×Ÿ ×¡×™×ž×œ×Ö·×¡, ×¦×•×˜×¨×™×˜×œ×¢×š ××•×Ÿ ×§×Ö¸× ×˜×¢×§×¡×˜-×¤Ö¼×™× ×˜×œ×¢×š ×§×Ö¸×ž×•× ×™×§×Ö·×¦×™×¢ ×¦×•×•×™×©×Ÿ ×ž×¢× ×˜×©×Ÿ - ×¨×Ö·×’×Ö·×¨×“×œ×Ö·×¡ ×¤×•×Ÿ ×¦×™ ×–×™×™ ×¨×¢×“×Ÿ ×Ö· ×¤Ö¼×¨×Ö¸×¡×˜ ×©×¤Ö¼×¨×Ö·×š ×Ö¸×“×¢×¨ × ×™×©×˜. 
 
-עס איז ניט נאָר וועגן עקשנותדיק איבערזעצן ווערטער, אָבער וועגן **טראַנספערינג טייַטש**. Nexus Gaja קאַנעקץ מענטשן אויף אַ דיפּער מדרגה דורך פארשטאנד קולטור, רעגיאָנאַל און קאָנטעקסטואַל נואַנסיז, געבן פאַקטיש, עכט שמועסן.
+×¢×¡ ××™×– × ×™×˜ × ×Ö¸×¨ ×•×•×¢×’×Ÿ ×¢×§×©× ×•×ª×“×™×§ ××™×‘×¢×¨×–×¢×¦×Ÿ ×•×•×¢×¨×˜×¢×¨, ×Ö¸×‘×¢×¨ ×•×•×¢×’×Ÿ **×˜×¨×Ö·× ×¡×¤×¢×¨×™× ×’ ×˜×™×™Ö·×˜×©**. Nexus Gaja ×§×Ö·× ×¢×§×¥ ×ž×¢× ×˜×©×Ÿ ××•×™×£ ×Ö· ×“×™×¤Ö¼×¢×¨ ×ž×“×¨×’×” ×“×•×¨×š ×¤××¨×©×˜×× ×“ ×§×•×œ×˜×•×¨, ×¨×¢×’×™×Ö¸× ×Ö·×œ ××•×Ÿ ×§×Ö¸× ×˜×¢×§×¡×˜×•×Ö·×œ × ×•×Ö·× ×¡×™×–, ×’×¢×‘×Ÿ ×¤×Ö·×§×˜×™×©, ×¢×›×˜ ×©×ž×•×¢×¡×Ÿ.
 
-## פּאַסאַבילאַטיז און פֿעיִקייטן
-- ** מולטימעדיאַ קאָמוניקאַציע **: די סיסטעם פּראַסעסאַז ניט בלויז טעקסט, אָבער אויך בילדער, אַודיאָ און ווידעא. דאָס אַלאַוז גאָר יממערסיווע שמועסן (למשל ווידעא קאַללס אָדער קול אַרטיקלען) אין פאַקטיש צייט אַריבער שפּראַך באַונדריז.
-- ** קאָנטעקסט סענסיטיוויטי **: דיטעקשאַן פון איראָניע, ידיאַמז, זשאַרגאָן און רעגיאָנאַל דייאַלעקץ וואָס זענען אָפט מיסאַנדערסטוד דורך טראדיציאנעלן איבערזעצער.
-- ** קרייַז-פּלאַטפאָרמע נעץ **: סערוועס ווי די יקער פֿאַר פּריוואַט טשאַץ, פאָרום פֿעדעם (הודעות מיט באַמערקונגען) און גלאבאלע קהל ינטעראַקשאַנז.
+## ×¤Ö¼×Ö·×¡×Ö·×‘×™×œ×Ö·×˜×™×– ××•×Ÿ ×¤Ö¿×¢×™Ö´×§×™×™×˜×Ÿ
+- ** ×ž×•×œ×˜×™×ž×¢×“×™×Ö· ×§×Ö¸×ž×•× ×™×§×Ö·×¦×™×¢ **: ×“×™ ×¡×™×¡×˜×¢× ×¤Ö¼×¨×Ö·×¡×¢×¡×Ö·×– × ×™×˜ ×‘×œ×•×™×– ×˜×¢×§×¡×˜, ×Ö¸×‘×¢×¨ ××•×™×š ×‘×™×œ×“×¢×¨, ×Ö·×•×“×™×Ö¸ ××•×Ÿ ×•×•×™×“×¢×. ×“×Ö¸×¡ ×Ö·×œ×Ö·×•×– ×’×Ö¸×¨ ×™×ž×ž×¢×¨×¡×™×•×•×¢ ×©×ž×•×¢×¡×Ÿ (×œ×ž×©×œ ×•×•×™×“×¢× ×§×Ö·×œ×œ×¡ ×Ö¸×“×¢×¨ ×§×•×œ ×Ö·×¨×˜×™×§×œ×¢×Ÿ) ××™×Ÿ ×¤×Ö·×§×˜×™×© ×¦×™×™×˜ ×Ö·×¨×™×‘×¢×¨ ×©×¤Ö¼×¨×Ö·×š ×‘×Ö·×•× ×“×¨×™×–.
+- ** ×§×Ö¸× ×˜×¢×§×¡×˜ ×¡×¢× ×¡×™×˜×™×•×•×™×˜×™ **: ×“×™×˜×¢×§×©×Ö·×Ÿ ×¤×•×Ÿ ××™×¨×Ö¸× ×™×¢, ×™×“×™×Ö·×ž×–, ×–×©×Ö·×¨×’×Ö¸×Ÿ ××•×Ÿ ×¨×¢×’×™×Ö¸× ×Ö·×œ ×“×™×™×Ö·×œ×¢×§×¥ ×•×•×Ö¸×¡ ×–×¢× ×¢×Ÿ ×Ö¸×¤×˜ ×ž×™×¡×Ö·× ×“×¢×¨×¡×˜×•×“ ×“×•×¨×š ×˜×¨××“×™×¦×™×× ×¢×œ×Ÿ ××™×‘×¢×¨×–×¢×¦×¢×¨.
+- ** ×§×¨×™×™Ö·×–-×¤Ö¼×œ×Ö·×˜×¤×Ö¸×¨×ž×¢ × ×¢×¥ **: ×¡×¢×¨×•×•×¢×¡ ×•×•×™ ×“×™ ×™×§×¢×¨ ×¤Ö¿×Ö·×¨ ×¤Ö¼×¨×™×•×•×Ö·×˜ ×˜×©×Ö·×¥, ×¤×Ö¸×¨×•× ×¤Ö¿×¢×“×¢× (×”×•×“×¢×•×ª ×ž×™×˜ ×‘×Ö·×ž×¢×¨×§×•× ×’×¢×Ÿ) ××•×Ÿ ×’×œ××‘××œ×¢ ×§×”×œ ×™× ×˜×¢×¨×Ö·×§×©×Ö·× ×–.
 
 ---
 
-## טעכניש אַרקאַטעקטשער (האַרץ באַגריף)
+## ×˜×¢×›× ×™×© ×Ö·×¨×§×Ö·×˜×¢×§×˜×©×¢×¨ (×”×Ö·×¨×¥ ×‘×Ö·×’×¨×™×£)
 
 ![Nexus Gaja Translation Concept](assets/img/nexus_translation.jpg)
 
-די טעכניש האַרץ פון Nexus Gaja איז אַ זיך-דעוועלאָפּעד קאָמוניקאַציע מאָדעל, וואָס איז שטרענג צעטיילט אין דרייַ לייַערס:
+×“×™ ×˜×¢×›× ×™×© ×”×Ö·×¨×¥ ×¤×•×Ÿ Nexus Gaja ××™×– ×Ö· ×–×™×š-×“×¢×•×•×¢×œ×Ö¸×¤Ö¼×¢×“ ×§×Ö¸×ž×•× ×™×§×Ö·×¦×™×¢ ×ž×Ö¸×“×¢×œ, ×•×•×Ö¸×¡ ××™×– ×©×˜×¨×¢× ×’ ×¦×¢×˜×™×™×œ×˜ ××™×Ÿ ×“×¨×™×™Ö· ×œ×™×™Ö·×¢×¨×¡:
 
-1. **אָריגינעל**: די קאָמוניקאַציע כייפעץ (אָנזאָג) באשאפן דורך די אָפּשיקער בלייבט שטענדיק אַנטשיינדזשאַבאַל.
-2. **סעמאַנטיק ינטערפּריטיישאַן**: די סיסטעם אַנאַליזירט ניט בלויז די ווערטער, אָבער די פאַקטיש טייַטש.
-3. ** ציל שפּראַך פאַרטרעטונג **: די AI בלויז קריייץ אַ צייַטווייַליק אָדער קאַשט פאַרטרעטונג פון דער אָריגינעל פֿאַר די ריספּעקטיוו באַקומער באזירט אויף זייער בילכער שפּראַך. איבערזעצונגען קיינמאָל אָווועררייט די אָריגינעל אָנזאָג.
+1. **×Ö¸×¨×™×’×™× ×¢×œ**: ×“×™ ×§×Ö¸×ž×•× ×™×§×Ö·×¦×™×¢ ×›×™×™×¤×¢×¥ (×Ö¸× ×–×Ö¸×’) ×‘××©××¤×Ÿ ×“×•×¨×š ×“×™ ×Ö¸×¤Ö¼×©×™×§×¢×¨ ×‘×œ×™×™×‘×˜ ×©×˜×¢× ×“×™×§ ×Ö·× ×˜×©×™×™× ×“×–×©×Ö·×‘×Ö·×œ.
+2. **×¡×¢×ž×Ö·× ×˜×™×§ ×™× ×˜×¢×¨×¤Ö¼×¨×™×˜×™×™×©×Ö·×Ÿ**: ×“×™ ×¡×™×¡×˜×¢× ×Ö·× ×Ö·×œ×™×–×™×¨×˜ × ×™×˜ ×‘×œ×•×™×– ×“×™ ×•×•×¢×¨×˜×¢×¨, ×Ö¸×‘×¢×¨ ×“×™ ×¤×Ö·×§×˜×™×© ×˜×™×™Ö·×˜×©.
+3. ** ×¦×™×œ ×©×¤Ö¼×¨×Ö·×š ×¤×Ö·×¨×˜×¨×¢×˜×•× ×’ **: ×“×™ AI ×‘×œ×•×™×– ×§×¨×™×™×™×¥ ×Ö· ×¦×™×™Ö·×˜×•×•×™×™Ö·×œ×™×§ ×Ö¸×“×¢×¨ ×§×Ö·×©×˜ ×¤×Ö·×¨×˜×¨×¢×˜×•× ×’ ×¤×•×Ÿ ×“×¢×¨ ×Ö¸×¨×™×’×™× ×¢×œ ×¤Ö¿×Ö·×¨ ×“×™ ×¨×™×¡×¤Ö¼×¢×§×˜×™×•×• ×‘×Ö·×§×•×ž×¢×¨ ×‘××–×™×¨×˜ ××•×™×£ ×–×™×™×¢×¨ ×‘×™×œ×›×¢×¨ ×©×¤Ö¼×¨×Ö·×š. ××™×‘×¢×¨×–×¢×¦×•× ×’×¢×Ÿ ×§×™×™× ×ž×Ö¸×œ ×Ö¸×•×•×•×¢×¨×¨×™×™×˜ ×“×™ ×Ö¸×¨×™×’×™× ×¢×œ ×Ö¸× ×–×Ö¸×’.
 
-### קאָנטעקסט אָפענגיקייַט
-איבערזעצונגען קיינמאָל קוקן אויף נייַעס אין Nexus Gaja אין אפגעזונדערטקייט. דער מאָטאָר נעמט די גאנצע כייעראַרקי אין חשבון:
-`אָנזאָג` → `פרייַערדיקע אַרטיקלען` → `פאָדעם קאָנטעקסט` → `קהילה קאָנטעקסט` → `שפּראַך / געגנט` → `באַניצער פּרעפֿערענצן`
+### ×§×Ö¸× ×˜×¢×§×¡×˜ ×Ö¸×¤×¢× ×’×™×§×™×™Ö·×˜
+××™×‘×¢×¨×–×¢×¦×•× ×’×¢×Ÿ ×§×™×™× ×ž×Ö¸×œ ×§×•×§×Ÿ ××•×™×£ × ×™×™Ö·×¢×¡ ××™×Ÿ Nexus Gaja ××™×Ÿ ××¤×’×¢×–×•× ×“×¢×¨×˜×§×™×™×˜. ×“×¢×¨ ×ž×Ö¸×˜×Ö¸×¨ × ×¢×ž×˜ ×“×™ ×’×× ×¦×¢ ×›×™×™×¢×¨×Ö·×¨×§×™ ××™×Ÿ ×—×©×‘×•×Ÿ:
+`×Ö¸× ×–×Ö¸×’` â†’ `×¤×¨×™×™Ö·×¢×¨×“×™×§×¢ ×Ö·×¨×˜×™×§×œ×¢×Ÿ` â†’ `×¤×Ö¸×“×¢× ×§×Ö¸× ×˜×¢×§×¡×˜` â†’ `×§×”×™×œ×” ×§×Ö¸× ×˜×¢×§×¡×˜` â†’ `×©×¤Ö¼×¨×Ö·×š / ×’×¢×’× ×˜` â†’ `×‘×Ö·× ×™×¦×¢×¨ ×¤Ö¼×¨×¢×¤Ö¿×¢×¨×¢× ×¦×Ÿ`
 
-### עפעקטיווקייַט דורך איבערזעצונג אויף פאָדערונג
-די איבערזעצונג נעמט אָרט בלויז **ווען גערופן** (אויף-פאָדערונג) אין אַ מיטל-שפּאָרן שטייגער. ווען אַ באַניצער ריקוועס אינהאַלט, עס איז איבערגעזעצט אין זייער פעליקייַט שפּראַך. איבערזעצונגען פֿאַר אַ ספּעציפיש שפּראַך זענען סטאָרד פּערמאַנאַנטלי (קאַטשינג) צו דראַמאַטיקלי פאַרגיכערן שפּעטער פֿראגן.
+### ×¢×¤×¢×§×˜×™×•×•×§×™×™Ö·×˜ ×“×•×¨×š ××™×‘×¢×¨×–×¢×¦×•× ×’ ××•×™×£ ×¤×Ö¸×“×¢×¨×•× ×’
+×“×™ ××™×‘×¢×¨×–×¢×¦×•× ×’ × ×¢×ž×˜ ×Ö¸×¨×˜ ×‘×œ×•×™×– **×•×•×¢×Ÿ ×’×¢×¨×•×¤×Ÿ** (××•×™×£-×¤×Ö¸×“×¢×¨×•× ×’) ××™×Ÿ ×Ö· ×ž×™×˜×œ-×©×¤Ö¼×Ö¸×¨×Ÿ ×©×˜×™×™×’×¢×¨. ×•×•×¢×Ÿ ×Ö· ×‘×Ö·× ×™×¦×¢×¨ ×¨×™×§×•×•×¢×¡ ××™× ×”×Ö·×œ×˜, ×¢×¡ ××™×– ××™×‘×¢×¨×’×¢×–×¢×¦×˜ ××™×Ÿ ×–×™×™×¢×¨ ×¤×¢×œ×™×§×™×™Ö·×˜ ×©×¤Ö¼×¨×Ö·×š. ××™×‘×¢×¨×–×¢×¦×•× ×’×¢×Ÿ ×¤Ö¿×Ö·×¨ ×Ö· ×¡×¤Ö¼×¢×¦×™×¤×™×© ×©×¤Ö¼×¨×Ö·×š ×–×¢× ×¢×Ÿ ×¡×˜×Ö¸×¨×“ ×¤Ö¼×¢×¨×ž×Ö·× ×Ö·× ×˜×œ×™ (×§×Ö·×˜×©×™× ×’) ×¦×• ×“×¨×Ö·×ž×Ö·×˜×™×§×œ×™ ×¤×Ö·×¨×’×™×›×¢×¨×Ÿ ×©×¤Ö¼×¢×˜×¢×¨ ×¤Ö¿×¨××’×Ÿ.
 
-## AI-Powered מאַדעריישאַן (WP 1.8.4)
+## AI-Powered ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ (WP 1.8.4)
 
 ![Nexus Gaja AI Moderation](assets/img/nexus_moderation.jpg)
 
-מיט אַי-געשטיצט מאַדעריישאַן, מיר נעמען אַ גרויס שריט פון די פּראָדוקט געדאַנק צו די טעכניש אַרקאַטעקטשער און נעמען אין חשבון קראַנט אי.יו. רעגיאַליישאַנז ( דורכזעיקייַט אַבלאַגיישאַנז פון די אי.
+×ž×™×˜ ×Ö·×™-×’×¢×©×˜×™×¦×˜ ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ, ×ž×™×¨ × ×¢×ž×¢×Ÿ ×Ö· ×’×¨×•×™×¡ ×©×¨×™×˜ ×¤×•×Ÿ ×“×™ ×¤Ö¼×¨×Ö¸×“×•×§×˜ ×’×¢×“×Ö·× ×§ ×¦×• ×“×™ ×˜×¢×›× ×™×© ×Ö·×¨×§×Ö·×˜×¢×§×˜×©×¢×¨ ××•×Ÿ × ×¢×ž×¢×Ÿ ××™×Ÿ ×—×©×‘×•×Ÿ ×§×¨×Ö·× ×˜ ××™.×™×•. ×¨×¢×’×™×Ö·×œ×™×™×©×Ö·× ×– ( ×“×•×¨×›×–×¢×™×§×™×™Ö·×˜ ×Ö·×‘×œ×Ö·×’×™×™×©×Ö·× ×– ×¤×•×Ÿ ×“×™ ××™.
 
-### 1. גרונט פּרינציפּ
-די מערסט וויכטיק זאַץ פֿאַר די אַרקאַטעקטשער איז: ** מאַדעריישאַן אַי איז אַ קאָנטראָל סיסטעם און נישט אַן אָטאַנאַמאַס פּסאַק סיסטעם.**
-עס איז בדעה צו שטיצן מענטשן אין מאַדעריישאַן, נישט צו באַשליסן וואָס מיינונגען זענען ערלויבט צו עקסיסטירן אויף Nexus Gaja.
-אַזוי מיר אונטערשיידן צווישן דרייַ זאכן:
-- ** דעטעקט: ** "עס קען זיין אַ רעגולירן דאָ."
-- ** קורס: ** "למשל, די מאַשמאָעס פון אַ הערשן הילעל איז 94%."
-- ** באַשליסן: ** "וואָס אַקציע וועט אַקשלי זיין גענומען?"
-די דריט מדרגה מוזן זיין קאַנטראָולד מענטשלי אין ערנסט קאַסעס.
+### 1. ×’×¨×•× ×˜ ×¤Ö¼×¨×™× ×¦×™×¤Ö¼
+×“×™ ×ž×¢×¨×¡×˜ ×•×•×™×›×˜×™×§ ×–×Ö·×¥ ×¤Ö¿×Ö·×¨ ×“×™ ×Ö·×¨×§×Ö·×˜×¢×§×˜×©×¢×¨ ××™×–: ** ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ ×Ö·×™ ××™×– ×Ö· ×§×Ö¸× ×˜×¨×Ö¸×œ ×¡×™×¡×˜×¢× ××•×Ÿ × ×™×©×˜ ×Ö·×Ÿ ×Ö¸×˜×Ö·× ×Ö·×ž×Ö·×¡ ×¤Ö¼×¡×Ö·×§ ×¡×™×¡×˜×¢×.**
+×¢×¡ ××™×– ×‘×“×¢×” ×¦×• ×©×˜×™×¦×Ÿ ×ž×¢× ×˜×©×Ÿ ××™×Ÿ ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ, × ×™×©×˜ ×¦×• ×‘×Ö·×©×œ×™×¡×Ÿ ×•×•×Ö¸×¡ ×ž×™×™× ×•× ×’×¢×Ÿ ×–×¢× ×¢×Ÿ ×¢×¨×œ×•×™×‘×˜ ×¦×• ×¢×§×¡×™×¡×˜×™×¨×Ÿ ××•×™×£ Nexus Gaja.
+×Ö·×–×•×™ ×ž×™×¨ ××•× ×˜×¢×¨×©×™×™×“×Ÿ ×¦×•×•×™×©×Ÿ ×“×¨×™×™Ö· ×–××›×Ÿ:
+- ** ×“×¢×˜×¢×§×˜: ** "×¢×¡ ×§×¢×Ÿ ×–×™×™×Ÿ ×Ö· ×¨×¢×’×•×œ×™×¨×Ÿ ×“×Ö¸."
+- ** ×§×•×¨×¡: ** "×œ×ž×©×œ, ×“×™ ×ž×Ö·×©×ž×Ö¸×¢×¡ ×¤×•×Ÿ ×Ö· ×”×¢×¨×©×Ÿ ×”×™×œ×¢×œ ××™×– 94%."
+- ** ×‘×Ö·×©×œ×™×¡×Ÿ: ** "×•×•×Ö¸×¡ ×Ö·×§×¦×™×¢ ×•×•×¢×˜ ×Ö·×§×©×œ×™ ×–×™×™×Ÿ ×’×¢× ×•×ž×¢×Ÿ?"
+×“×™ ×“×¨×™×˜ ×ž×“×¨×’×” ×ž×•×–×Ÿ ×–×™×™×Ÿ ×§×Ö·× ×˜×¨×Ö¸×•×œ×“ ×ž×¢× ×˜×©×œ×™ ××™×Ÿ ×¢×¨× ×¡×˜ ×§×Ö·×¡×¢×¡.
 
-### 2. די מאַדעריישאַן אַי וועט זיין זיין אייגענע סאַבסיסטאַם
-אַנשטאָט אַ איין אַי, אַ געזונט סאַבסיסטאַם איז געגרינדעט:
-``` טעקסט
-                 NEXUS GAJA AI מאַדעריישאַן
-                          │
-       ┌────────────────── ┼──────────────────┐
-       │ │ │
-  שפּראַך אַי סאַפעטי אַי פראָד אַי
-       │ │ │
-       ├──────────────┬─── ┴──────────────┬───┤
-       │ │ │
- איבערזעצונג נאַטור אידענטיטעט
- אַנאַליסיס אַנאַליסיס סיגנאַלז
-       │ │ │
-       └──────────────┼────────────────
-                      ▼
-               ריזיקירן אַסעסמאַנט
-                      │
-                      ▼
-               מענטש רעצענזיע
+### 2. ×“×™ ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ ×Ö·×™ ×•×•×¢×˜ ×–×™×™×Ÿ ×–×™×™×Ÿ ××™×™×’×¢× ×¢ ×¡×Ö·×‘×¡×™×¡×˜×Ö·×
+×Ö·× ×©×˜×Ö¸×˜ ×Ö· ××™×™×Ÿ ×Ö·×™, ×Ö· ×’×¢×–×•× ×˜ ×¡×Ö·×‘×¡×™×¡×˜×Ö·× ××™×– ×’×¢×’×¨×™× ×“×¢×˜:
+``` ×˜×¢×§×¡×˜
+                 NEXUS GAJA AI ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ
+                          â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â”‚ â”‚ â”‚
+  ×©×¤Ö¼×¨×Ö·×š ×Ö·×™ ×¡×Ö·×¤×¢×˜×™ ×Ö·×™ ×¤×¨×Ö¸×“ ×Ö·×™
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€ â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”¤
+       â”‚ â”‚ â”‚
+ ××™×‘×¢×¨×–×¢×¦×•× ×’ × ×Ö·×˜×•×¨ ××™×“×¢× ×˜×™×˜×¢×˜
+ ×Ö·× ×Ö·×œ×™×¡×™×¡ ×Ö·× ×Ö·×œ×™×¡×™×¡ ×¡×™×’× ×Ö·×œ×–
+       â”‚ â”‚ â”‚
+       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+                      â–¼
+               ×¨×™×–×™×§×™×¨×Ÿ ×Ö·×¡×¢×¡×ž×Ö·× ×˜
+                      â”‚
+                      â–¼
+               ×ž×¢× ×˜×© ×¨×¢×¦×¢× ×–×™×¢
 ```
 
-### 3. די מערסט וויכטיק אַי מאַדזשולז
-עס זענען נייַן ספּעשאַלייזד אַנאַליסיס געביטן פֿאַר Nexus Gaja:
-- **M1 - שפּראַך פארשטאנד **: דיטעקץ שפּראַך, דיאלעקט, סלענג, איראָניע ינדיקאַטאָרס, איבערזעצונג פּראָבלעמס.
-- **M2 - דעטעקשאַן פון טאַקסיסאַטי / זידלען**: דיטעקץ זילזולים, פערזענלעכע אנפאלן, כעראַסמאַנט.
-- **M3 - סאַקאָנע דעטעקשאַן**: דיטעקץ מעגלעך טרעץ, בלאַקמייל און טרעץ פון גוואַלד.
-- **M4 - האַס / דעהומאַניזאַטיאָן דעטעקשאַן **: דיטעקץ טאַרגעטעד אנפאלן אויף מענטשן באזירט אויף ספּעציפיש אַפילייישאַנז.
-- **M5 - ספּאַם / מאַניפּיאַליישאַן דעטעקשאַן **: דיטעקץ ספּאַם, באָט נאַטור, קאָואָרדאַנייטיד מאַניפּיאַליישאַן.
-- **M6 - שווינדל דעטעקשאַן**: דיטעקץ סאַספּישאַס שווינדל פרווון, פישינג, געזעלשאַפטלעך ינזשעניעריע.
-- **M7 - אידענטיטעט אָרנטלעכקייַט **: טשעקס סיגנאַלז וועגן אַקאַונץ נעמען, קייפל אַקאַונץ, פאַרשפּאַרן בייפּאַס.
-- **M8 - מעדיע זיכערקייַט **: אַנאַליזעס בילדער, אַודיאָ, ווידעא, דאָקומענטן.
-- **M9 - קאָנטעקסט מאָטאָר **: די מערסט וויכטיק מאָדולע. עס ברענגט צוזאַמען די יחיד פיינדינגז.
+### 3. ×“×™ ×ž×¢×¨×¡×˜ ×•×•×™×›×˜×™×§ ×Ö·×™ ×ž×Ö·×“×–×©×•×œ×–
+×¢×¡ ×–×¢× ×¢×Ÿ × ×™×™Ö·×Ÿ ×¡×¤Ö¼×¢×©×Ö·×œ×™×™×–×“ ×Ö·× ×Ö·×œ×™×¡×™×¡ ×’×¢×‘×™×˜×Ÿ ×¤Ö¿×Ö·×¨ Nexus Gaja:
+- **M1 - ×©×¤Ö¼×¨×Ö·×š ×¤××¨×©×˜×× ×“ **: ×“×™×˜×¢×§×¥ ×©×¤Ö¼×¨×Ö·×š, ×“×™××œ×¢×§×˜, ×¡×œ×¢× ×’, ××™×¨×Ö¸× ×™×¢ ×™× ×“×™×§×Ö·×˜×Ö¸×¨×¡, ××™×‘×¢×¨×–×¢×¦×•× ×’ ×¤Ö¼×¨×Ö¸×‘×œ×¢×ž×¡.
+- **M2 - ×“×¢×˜×¢×§×©×Ö·×Ÿ ×¤×•×Ÿ ×˜×Ö·×§×¡×™×¡×Ö·×˜×™ / ×–×™×“×œ×¢×Ÿ**: ×“×™×˜×¢×§×¥ ×–×™×œ×–×•×œ×™×, ×¤×¢×¨×–×¢× ×œ×¢×›×¢ ×× ×¤××œ×Ÿ, ×›×¢×¨×Ö·×¡×ž×Ö·× ×˜.
+- **M3 - ×¡×Ö·×§×Ö¸× ×¢ ×“×¢×˜×¢×§×©×Ö·×Ÿ**: ×“×™×˜×¢×§×¥ ×ž×¢×’×œ×¢×š ×˜×¨×¢×¥, ×‘×œ×Ö·×§×ž×™×™×œ ××•×Ÿ ×˜×¨×¢×¥ ×¤×•×Ÿ ×’×•×•×Ö·×œ×“.
+- **M4 - ×”×Ö·×¡ / ×“×¢×”×•×ž×Ö·× ×™×–×Ö·×˜×™×Ö¸×Ÿ ×“×¢×˜×¢×§×©×Ö·×Ÿ **: ×“×™×˜×¢×§×¥ ×˜×Ö·×¨×’×¢×˜×¢×“ ×× ×¤××œ×Ÿ ××•×™×£ ×ž×¢× ×˜×©×Ÿ ×‘××–×™×¨×˜ ××•×™×£ ×¡×¤Ö¼×¢×¦×™×¤×™×© ×Ö·×¤×™×œ×™×™×™×©×Ö·× ×–.
+- **M5 - ×¡×¤Ö¼×Ö·× / ×ž×Ö·× ×™×¤Ö¼×™×Ö·×œ×™×™×©×Ö·×Ÿ ×“×¢×˜×¢×§×©×Ö·×Ÿ **: ×“×™×˜×¢×§×¥ ×¡×¤Ö¼×Ö·×, ×‘×Ö¸×˜ × ×Ö·×˜×•×¨, ×§×Ö¸×•×Ö¸×¨×“×Ö·× ×™×™×˜×™×“ ×ž×Ö·× ×™×¤Ö¼×™×Ö·×œ×™×™×©×Ö·×Ÿ.
+- **M6 - ×©×•×•×™× ×“×œ ×“×¢×˜×¢×§×©×Ö·×Ÿ**: ×“×™×˜×¢×§×¥ ×¡×Ö·×¡×¤Ö¼×™×©×Ö·×¡ ×©×•×•×™× ×“×œ ×¤×¨×•×•×•×Ÿ, ×¤×™×©×™× ×’, ×’×¢×–×¢×œ×©×Ö·×¤×˜×œ×¢×š ×™× ×–×©×¢× ×™×¢×¨×™×¢.
+- **M7 - ××™×“×¢× ×˜×™×˜×¢×˜ ×Ö¸×¨× ×˜×œ×¢×›×§×™×™Ö·×˜ **: ×˜×©×¢×§×¡ ×¡×™×’× ×Ö·×œ×– ×•×•×¢×’×Ÿ ×Ö·×§×Ö·×•× ×¥ × ×¢×ž×¢×Ÿ, ×§×™×™×¤×œ ×Ö·×§×Ö·×•× ×¥, ×¤×Ö·×¨×©×¤Ö¼×Ö·×¨×Ÿ ×‘×™×™×¤Ö¼×Ö·×¡.
+- **M8 - ×ž×¢×“×™×¢ ×–×™×›×¢×¨×§×™×™Ö·×˜ **: ×Ö·× ×Ö·×œ×™×–×¢×¡ ×‘×™×œ×“×¢×¨, ×Ö·×•×“×™×Ö¸, ×•×•×™×“×¢×, ×“×Ö¸×§×•×ž×¢× ×˜×Ÿ.
+- **M9 - ×§×Ö¸× ×˜×¢×§×¡×˜ ×ž×Ö¸×˜×Ö¸×¨ **: ×“×™ ×ž×¢×¨×¡×˜ ×•×•×™×›×˜×™×§ ×ž×Ö¸×“×•×œ×¢. ×¢×¡ ×‘×¨×¢× ×’×˜ ×¦×•×–×Ö·×ž×¢×Ÿ ×“×™ ×™×—×™×“ ×¤×™×™× ×“×™× ×’×–.
 
-### 4. פארוואס די קאָנטעקסט ענגינע איז אַזוי וויכטיק
-א ריין קיווערד זוכן וואָלט זיין ניט גענוגיק. "איך קען טייטן אים לאַפינג" כּולל סעמאַנטיש גוואַלד, אָבער איז אַ פיגור פון רייד. "מאָרגן 20:00 איך וועל שיסן אים אין פראָנט פון זיין הויז" איז אַ גאָר אַנדערש סיטואַציע. די אַי מוזן פֿאַרשטיין וואָס די דערקלערונג מיטל אין דעם ספּעציפיש קאָנטעקסט.
+### 4. ×¤××¨×•×•××¡ ×“×™ ×§×Ö¸× ×˜×¢×§×¡×˜ ×¢× ×’×™× ×¢ ××™×– ×Ö·×–×•×™ ×•×•×™×›×˜×™×§
+× ×¨×™×™×Ÿ ×§×™×•×•×¢×¨×“ ×–×•×›×Ÿ ×•×•×Ö¸×œ×˜ ×–×™×™×Ÿ × ×™×˜ ×’×¢× ×•×’×™×§. "××™×š ×§×¢×Ÿ ×˜×™×™×˜×Ÿ ××™× ×œ×Ö·×¤×™× ×’" ×›Ö¼×•×œ×œ ×¡×¢×ž×Ö·× ×˜×™×© ×’×•×•×Ö·×œ×“, ×Ö¸×‘×¢×¨ ××™×– ×Ö· ×¤×™×’×•×¨ ×¤×•×Ÿ ×¨×™×™×“. "×ž×Ö¸×¨×’×Ÿ 20:00 ××™×š ×•×•×¢×œ ×©×™×¡×Ÿ ××™× ××™×Ÿ ×¤×¨×Ö¸× ×˜ ×¤×•×Ÿ ×–×™×™×Ÿ ×”×•×™×–" ××™×– ×Ö· ×’×Ö¸×¨ ×Ö·× ×“×¢×¨×© ×¡×™×˜×•×Ö·×¦×™×¢. ×“×™ ×Ö·×™ ×ž×•×–×Ÿ ×¤Ö¿×Ö·×¨×©×˜×™×™×Ÿ ×•×•×Ö¸×¡ ×“×™ ×“×¢×¨×§×œ×¢×¨×•× ×’ ×ž×™×˜×œ ××™×Ÿ ×“×¢× ×¡×¤Ö¼×¢×¦×™×¤×™×© ×§×Ö¸× ×˜×¢×§×¡×˜.
 
-### 5. מאַלטיילינגוואַל מאַדעריישאַן
-מאַדעריישאַן קען נישט פשוט פאַרגלייַכן ווערטער. עס מוזן פונאַנדערקלייַבן די מדרגה פון טייַטש (למשל דייַטש ידיאָמס ווס יאַפּאַניש ידיאַמז ווס רעגיאָנאַל אויסדרוקן).
+### 5. ×ž×Ö·×œ×˜×™×™×œ×™× ×’×•×•×Ö·×œ ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ
+×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ ×§×¢×Ÿ × ×™×©×˜ ×¤×©×•×˜ ×¤×Ö·×¨×’×œ×™×™Ö·×›×Ÿ ×•×•×¢×¨×˜×¢×¨. ×¢×¡ ×ž×•×–×Ÿ ×¤×•× ×Ö·× ×“×¢×¨×§×œ×™×™Ö·×‘×Ÿ ×“×™ ×ž×“×¨×’×” ×¤×•×Ÿ ×˜×™×™Ö·×˜×© (×œ×ž×©×œ ×“×™×™Ö·×˜×© ×™×“×™×Ö¸×ž×¡ ×•×•×¡ ×™×Ö·×¤Ö¼×Ö·× ×™×© ×™×“×™×Ö·×ž×– ×•×•×¡ ×¨×¢×’×™×Ö¸× ×Ö·×œ ××•×™×¡×“×¨×•×§×Ÿ).
 
-### 6. אָריגינעל שפּראַך + איבערזעצונג
-דער אָריגינעל און איבערזעצונג זענען אַנאַלייזד סעפּעראַטלי. בלויז דעמאָלט דער "קאַמביינד מאַדעריישאַן אַססעססמענט" נעמען אָרט. אין דעם וועג, Nexus Gaja קענען באַשטימען צי די איבערזעצונג זיך קען האָבן יגזאַסערייטיד אָדער געביטן די סיטואַציע.
+### 6. ×Ö¸×¨×™×’×™× ×¢×œ ×©×¤Ö¼×¨×Ö·×š + ××™×‘×¢×¨×–×¢×¦×•× ×’
+×“×¢×¨ ×Ö¸×¨×™×’×™× ×¢×œ ××•×Ÿ ××™×‘×¢×¨×–×¢×¦×•× ×’ ×–×¢× ×¢×Ÿ ×Ö·× ×Ö·×œ×™×™×–×“ ×¡×¢×¤Ö¼×¢×¨×Ö·×˜×œ×™. ×‘×œ×•×™×– ×“×¢×ž×Ö¸×œ×˜ ×“×¢×¨ "×§×Ö·×ž×‘×™×™× ×“ ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ ×Ö·×¡×¡×¢×¡×¡×ž×¢× ×˜" × ×¢×ž×¢×Ÿ ×Ö¸×¨×˜. ××™×Ÿ ×“×¢× ×•×•×¢×’, Nexus Gaja ×§×¢× ×¢×Ÿ ×‘×Ö·×©×˜×™×ž×¢×Ÿ ×¦×™ ×“×™ ××™×‘×¢×¨×–×¢×¦×•× ×’ ×–×™×š ×§×¢×Ÿ ×”×Ö¸×‘×Ÿ ×™×’×–×Ö·×¡×¢×¨×™×™×˜×™×“ ×Ö¸×“×¢×¨ ×’×¢×‘×™×˜×Ÿ ×“×™ ×¡×™×˜×•×Ö·×¦×™×¢.
 
-### 7. צוטרוי כעזשבן
-יעדער אַי אַססעססמענט נעמט אַ בטחון ווערט (למשל טרעט מאַשמאָעס: 0.96). אבער: ** צוטרוי כעזשבן ≠ אמת.** א כעזשבן פון 96% בלויז מיטל אַז דער מאָדעל איז זייער זיכער אין זיין קלאַסאַפאַקיישאַן, ניט דאַווקע אַז דער באַניצער איז שולדיק.
+### 7. ×¦×•×˜×¨×•×™ ×›×¢×–×©×‘×Ÿ
+×™×¢×“×¢×¨ ×Ö·×™ ×Ö·×¡×¡×¢×¡×¡×ž×¢× ×˜ × ×¢×ž×˜ ×Ö· ×‘×˜×—×•×Ÿ ×•×•×¢×¨×˜ (×œ×ž×©×œ ×˜×¨×¢×˜ ×ž×Ö·×©×ž×Ö¸×¢×¡: 0.96). ××‘×¢×¨: ** ×¦×•×˜×¨×•×™ ×›×¢×–×©×‘×Ÿ â‰  ××ž×ª.** × ×›×¢×–×©×‘×Ÿ ×¤×•×Ÿ 96% ×‘×œ×•×™×– ×ž×™×˜×œ ×Ö·×– ×“×¢×¨ ×ž×Ö¸×“×¢×œ ××™×– ×–×™×™×¢×¨ ×–×™×›×¢×¨ ××™×Ÿ ×–×™×™×Ÿ ×§×œ×Ö·×¡×Ö·×¤×Ö·×§×™×™×©×Ö·×Ÿ, × ×™×˜ ×“×Ö·×•×•×§×¢ ×Ö·×– ×“×¢×¨ ×‘×Ö·× ×™×¦×¢×¨ ××™×– ×©×•×œ×“×™×§.
 
-### 8. אומזיכערקייט אליין ווערט א סיגנאל
-אויב די אַי איז ומזיכער (למשל סאַקאָנע: 0.62, סאַטירע: 0.54), עס קען נישט נאָר נעמען האַרב קאַמף. אַנשטאָט, אַנסערטאַנטי איז געבויט גלייַך אין די אַרקאַטעקטשער: ** מענטש רעצענזיע פארלאנגט **.
+### 8. ××•×ž×–×™×›×¢×¨×§×™×™×˜ ××œ×™×™×Ÿ ×•×•×¢×¨×˜ × ×¡×™×’× ××œ
+××•×™×‘ ×“×™ ×Ö·×™ ××™×– ×•×ž×–×™×›×¢×¨ (×œ×ž×©×œ ×¡×Ö·×§×Ö¸× ×¢: 0.62, ×¡×Ö·×˜×™×¨×¢: 0.54), ×¢×¡ ×§×¢×Ÿ × ×™×©×˜ × ×Ö¸×¨ × ×¢×ž×¢×Ÿ ×”×Ö·×¨×‘ ×§×Ö·×ž×£. ×Ö·× ×©×˜×Ö¸×˜, ×Ö·× ×¡×¢×¨×˜×Ö·× ×˜×™ ××™×– ×’×¢×‘×•×™×˜ ×’×œ×™×™Ö·×š ××™×Ÿ ×“×™ ×Ö·×¨×§×Ö·×˜×¢×§×˜×©×¢×¨: ** ×ž×¢× ×˜×© ×¨×¢×¦×¢× ×–×™×¢ ×¤××¨×œ×× ×’×˜ **.
 
-# # # 9 . פיר באשלוס געגענטער
-- **גרין**: רובֿ מסתּמא געהאָרכיק. → קיין קאַמף.
-- 🟡 **געל**: מעגלעך הילעל. → אָבסערווירן / טאָן אויב נייטיק.
-- 🟠 **מאַראַנץ**: מסתּמא הילעל. → מאַדעריישאַן טשעק.
-- 🔴 **רויט**: הויפּט מעגלעך הילעל. → באַלדיק פּראַטעקטיוו מאָס + מענטש טעסטינג.
+# # # 9 . ×¤×™×¨ ×‘××©×œ×•×¡ ×’×¢×’×¢× ×˜×¢×¨
+- **×’×¨×™×Ÿ**: ×¨×•×‘Ö¿ ×ž×¡×ªÖ¼×ž× ×’×¢×”×Ö¸×¨×›×™×§. â†’ ×§×™×™×Ÿ ×§×Ö·×ž×£.
+- ðŸŸ¡ **×’×¢×œ**: ×ž×¢×’×œ×¢×š ×”×™×œ×¢×œ. â†’ ×Ö¸×‘×¡×¢×¨×•×•×™×¨×Ÿ / ×˜×Ö¸×Ÿ ××•×™×‘ × ×™×™×˜×™×§.
+- ðŸŸ  **×ž×Ö·×¨×Ö·× ×¥**: ×ž×¡×ªÖ¼×ž× ×”×™×œ×¢×œ. â†’ ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ ×˜×©×¢×§.
+- ðŸ”´ **×¨×•×™×˜**: ×”×•×™×¤Ö¼×˜ ×ž×¢×’×œ×¢×š ×”×™×œ×¢×œ. â†’ ×‘×Ö·×œ×“×™×§ ×¤Ö¼×¨×Ö·×˜×¢×§×˜×™×•×• ×ž×Ö¸×¡ + ×ž×¢× ×˜×© ×˜×¢×¡×˜×™× ×’.
 
-### 10. קיין "AI שטראָף"
-**די AI טוט נישט אָנטאָן לעצט סאַנגשאַנז.** עס קענען צינגל נויטפאַל טעכניש מיטלען (למשל אָפּהאַלטן אָנזאָג) אין פאַל פון ערנסט זיכערהייט קאַנסערנז, אָבער די לעצט באַשלוס בלייבט וועראַפייזאַבאַל.
+### 10. ×§×™×™×Ÿ "AI ×©×˜×¨×Ö¸×£"
+**×“×™ AI ×˜×•×˜ × ×™×©×˜ ×Ö¸× ×˜×Ö¸×Ÿ ×œ×¢×¦×˜ ×¡×Ö·× ×’×©×Ö·× ×–.** ×¢×¡ ×§×¢× ×¢×Ÿ ×¦×™× ×’×œ × ×•×™×˜×¤×Ö·×œ ×˜×¢×›× ×™×© ×ž×™×˜×œ×¢×Ÿ (×œ×ž×©×œ ×Ö¸×¤Ö¼×”×Ö·×œ×˜×Ÿ ×Ö¸× ×–×Ö¸×’) ××™×Ÿ ×¤×Ö·×œ ×¤×•×Ÿ ×¢×¨× ×¡×˜ ×–×™×›×¢×¨×”×™×™×˜ ×§×Ö·× ×¡×¢×¨× ×–, ×Ö¸×‘×¢×¨ ×“×™ ×œ×¢×¦×˜ ×‘×Ö·×©×œ×•×¡ ×‘×œ×™×™×‘×˜ ×•×•×¢×¨×Ö·×¤×™×™×–×Ö·×‘×Ö·×œ.
 
-### 11. שוץ מיטלען קענען זיין אָטאַמאַטיק
-אויב עס איז אַ ספּעציפיש סאַקאָנע (סאַקאָנע דיטעקטאַד → הויך בטחון → צייטווייליגע ריסטריקשאַן → מענטש אָפּשאַצונג → באַשלוס), מיר באַשיצן די טרעטאַנד באַניצער אָן מאכן די אַי דער ריכטער.
+### 11. ×©×•×¥ ×ž×™×˜×œ×¢×Ÿ ×§×¢× ×¢×Ÿ ×–×™×™×Ÿ ×Ö¸×˜×Ö·×ž×Ö·×˜×™×§
+××•×™×‘ ×¢×¡ ××™×– ×Ö· ×¡×¤Ö¼×¢×¦×™×¤×™×© ×¡×Ö·×§×Ö¸× ×¢ (×¡×Ö·×§×Ö¸× ×¢ ×“×™×˜×¢×§×˜×Ö·×“ â†’ ×”×•×™×š ×‘×˜×—×•×Ÿ â†’ ×¦×™×™×˜×•×•×™×™×œ×™×’×¢ ×¨×™×¡×˜×¨×™×§×©×Ö·×Ÿ â†’ ×ž×¢× ×˜×© ×Ö¸×¤Ö¼×©×Ö·×¦×•× ×’ â†’ ×‘×Ö·×©×œ×•×¡), ×ž×™×¨ ×‘×Ö·×©×™×¦×Ÿ ×“×™ ×˜×¨×¢×˜×Ö·× ×“ ×‘×Ö·× ×™×¦×¢×¨ ×Ö¸×Ÿ ×ž××›×Ÿ ×“×™ ×Ö·×™ ×“×¢×¨ ×¨×™×›×˜×¢×¨.
 
-### 12. דער א.י.איי מוז קענען בארעכטיקן איר באשלוס
-די DSA ריקווייערז קלאָר און ספּעציפיש סיבות. די AI ​​סיבות אין אַ סטראַקטשערד וועג: הערשן (NG-CONDUCT-004), דעטעקטעד (פּאָטענציעל באַטאָנען סאַקאָנע), בטחון (0.94), באַטייַטיק קאָנטעקסט (פרייַערדיק 4 אַרטיקלען), רעקאַמענדיד קאַמף (מענטש אָפּשאַצונג).
+### 12. ×“×¢×¨ ×.×™.××™×™ ×ž×•×– ×§×¢× ×¢×Ÿ ×‘××¨×¢×›×˜×™×§×Ÿ ××™×¨ ×‘××©×œ×•×¡
+×“×™ DSA ×¨×™×§×•×•×™×™×¢×¨×– ×§×œ×Ö¸×¨ ××•×Ÿ ×¡×¤Ö¼×¢×¦×™×¤×™×© ×¡×™×‘×•×ª. ×“×™ AI â€‹â€‹×¡×™×‘×•×ª ××™×Ÿ ×Ö· ×¡×˜×¨×Ö·×§×˜×©×¢×¨×“ ×•×•×¢×’: ×”×¢×¨×©×Ÿ (NG-CONDUCT-004), ×“×¢×˜×¢×§×˜×¢×“ (×¤Ö¼×Ö¸×˜×¢× ×¦×™×¢×œ ×‘×Ö·×˜×Ö¸× ×¢×Ÿ ×¡×Ö·×§×Ö¸× ×¢), ×‘×˜×—×•×Ÿ (0.94), ×‘×Ö·×˜×™×™Ö·×˜×™×§ ×§×Ö¸× ×˜×¢×§×¡×˜ (×¤×¨×™×™Ö·×¢×¨×“×™×§ 4 ×Ö·×¨×˜×™×§×œ×¢×Ÿ), ×¨×¢×§×Ö·×ž×¢× ×“×™×“ ×§×Ö·×ž×£ (×ž×¢× ×˜×© ×Ö¸×¤Ö¼×©×Ö·×¦×•× ×’).
 
-### 13. אַי איז נישט ערלויבט צו בעסאָד טוישן אינהאַלט
-** מאַדעריישאַן אַי מוזן קיינמאָל טוישן די אָריגינעל אינהאַלט אַננאָוטיסט.** אָטאַמאַטיק קערעקשאַנז, איבערזעצונגען אָדער סאַמערייזיז האַלטן די אָריגינעל אינהאַלט.
+### 13. ×Ö·×™ ××™×– × ×™×©×˜ ×¢×¨×œ×•×™×‘×˜ ×¦×• ×‘×¢×¡×Ö¸×“ ×˜×•×™×©×Ÿ ××™× ×”×Ö·×œ×˜
+** ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ ×Ö·×™ ×ž×•×–×Ÿ ×§×™×™× ×ž×Ö¸×œ ×˜×•×™×©×Ÿ ×“×™ ×Ö¸×¨×™×’×™× ×¢×œ ××™× ×”×Ö·×œ×˜ ×Ö·× × ×Ö¸×•×˜×™×¡×˜.** ×Ö¸×˜×Ö·×ž×Ö·×˜×™×§ ×§×¢×¨×¢×§×©×Ö·× ×–, ××™×‘×¢×¨×–×¢×¦×•× ×’×¢×Ÿ ×Ö¸×“×¢×¨ ×¡×Ö·×ž×¢×¨×™×™×–×™×– ×”×Ö·×œ×˜×Ÿ ×“×™ ×Ö¸×¨×™×’×™× ×¢×œ ××™× ×”×Ö·×œ×˜.
 
-### 14. אַי דזשענערייטאַד אינהאַלט
-מיר ויסטיילן צווישן: מענטש-באשאפן, אַי-אַססיסטעד, אַי-דזשענערייטאַד און אַי-מאַניפּיאַלייטיד. דעם ווערט טייל פון די אינהאַלט מעטאַדאַטאַ.
+### 14. ×Ö·×™ ×“×–×©×¢× ×¢×¨×™×™×˜×Ö·×“ ××™× ×”×Ö·×œ×˜
+×ž×™×¨ ×•×™×¡×˜×™×™×œ×Ÿ ×¦×•×•×™×©×Ÿ: ×ž×¢× ×˜×©-×‘××©××¤×Ÿ, ×Ö·×™-×Ö·×¡×¡×™×¡×˜×¢×“, ×Ö·×™-×“×–×©×¢× ×¢×¨×™×™×˜×Ö·×“ ××•×Ÿ ×Ö·×™-×ž×Ö·× ×™×¤Ö¼×™×Ö·×œ×™×™×˜×™×“. ×“×¢× ×•×•×¢×¨×˜ ×˜×™×™×œ ×¤×•×Ÿ ×“×™ ××™× ×”×Ö·×œ×˜ ×ž×¢×˜×Ö·×“×Ö·×˜×Ö·.
 
-### 15. אַי אינהאַלט לאַבעלינג & אַי פּראָווענאַנס שיכטע
-לויט די דורכזעיקייַט כּללים פון די EU אַי אקט (זינט אויגוסט 2026), אַי-דזשענערייטאַד אינהאַלט מוזן זיין רעקאַגנייזאַבאַל. מיר ווייזן אַן אַי פּראָווענאַנסע שיכטע וואָס סטאָרז מעטאַדאַטאַ (AI אָריגין, מאָדעל, צייט סטאַמפּ, מענטש אָפּשאַצונג).
+### 15. ×Ö·×™ ××™× ×”×Ö·×œ×˜ ×œ×Ö·×‘×¢×œ×™× ×’ & ×Ö·×™ ×¤Ö¼×¨×Ö¸×•×•×¢× ×Ö·× ×¡ ×©×™×›×˜×¢
+×œ×•×™×˜ ×“×™ ×“×•×¨×›×–×¢×™×§×™×™Ö·×˜ ×›Ö¼×œ×œ×™× ×¤×•×Ÿ ×“×™ EU ×Ö·×™ ××§×˜ (×–×™× ×˜ ××•×™×’×•×¡×˜ 2026), ×Ö·×™-×“×–×©×¢× ×¢×¨×™×™×˜×Ö·×“ ××™× ×”×Ö·×œ×˜ ×ž×•×–×Ÿ ×–×™×™×Ÿ ×¨×¢×§×Ö·×’× ×™×™×–×Ö·×‘×Ö·×œ. ×ž×™×¨ ×•×•×™×™×–×Ÿ ×Ö·×Ÿ ×Ö·×™ ×¤Ö¼×¨×Ö¸×•×•×¢× ×Ö·× ×¡×¢ ×©×™×›×˜×¢ ×•×•×Ö¸×¡ ×¡×˜×Ö¸×¨×– ×ž×¢×˜×Ö·×“×Ö·×˜×Ö· (AI ×Ö¸×¨×™×’×™×Ÿ, ×ž×Ö¸×“×¢×œ, ×¦×™×™×˜ ×¡×˜×Ö·×ž×¤Ö¼, ×ž×¢× ×˜×© ×Ö¸×¤Ö¼×©×Ö·×¦×•× ×’).
 
-### 16. דעעפּפאַקע דיטעקשאַן
-די אַרקאַטעקטשער איז בדעה צו דעטעקט סינטעטיש בילדער, סטימיאַלייטאַד קולות און דעעפּפאַקעס. אבער דערקענונג איז נישט אויטאָמאַטיש דערווייַז.
+### 16. ×“×¢×¢×¤Ö¼×¤×Ö·×§×¢ ×“×™×˜×¢×§×©×Ö·×Ÿ
+×“×™ ×Ö·×¨×§×Ö·×˜×¢×§×˜×©×¢×¨ ××™×– ×‘×“×¢×” ×¦×• ×“×¢×˜×¢×§×˜ ×¡×™× ×˜×¢×˜×™×© ×‘×™×œ×“×¢×¨, ×¡×˜×™×ž×™×Ö·×œ×™×™×˜×Ö·×“ ×§×•×œ×•×ª ××•×Ÿ ×“×¢×¢×¤Ö¼×¤×Ö·×§×¢×¡. ××‘×¢×¨ ×“×¢×¨×§×¢× ×•× ×’ ××™×– × ×™×©×˜ ××•×™×˜×Ö¸×ž×Ö·×˜×™×© ×“×¢×¨×•×•×™×™Ö·×–.
 
-### 17. קיין אָטאַמאַטיק "אמת מאַשין" (מאַדעריישאַן ≠ פאַקט קאָנטראָלירונג)
-א סיסטעם טשעקס: "צי דער אינהאַלט אָנרירן קיין כּללים?" (אינהאַלט מאַדעריישאַן), אן אנדער גיט: "וואָס אינפֿאָרמאַציע און מקורים זענען דאָרט?" (אינפארמאציע הילף). מיינונגען זענען נישט פשוט אויסגעמעקט ווי "פאַלש".
+### 17. ×§×™×™×Ÿ ×Ö¸×˜×Ö·×ž×Ö·×˜×™×§ "××ž×ª ×ž×Ö·×©×™×Ÿ" (×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ â‰  ×¤×Ö·×§×˜ ×§×Ö¸× ×˜×¨×Ö¸×œ×™×¨×•× ×’)
+× ×¡×™×¡×˜×¢× ×˜×©×¢×§×¡: "×¦×™ ×“×¢×¨ ××™× ×”×Ö·×œ×˜ ×Ö¸× ×¨×™×¨×Ÿ ×§×™×™×Ÿ ×›Ö¼×œ×œ×™×?" (××™× ×”×Ö·×œ×˜ ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ), ××Ÿ ×× ×“×¢×¨ ×’×™×˜: "×•×•×Ö¸×¡ ××™× ×¤Ö¿×Ö¸×¨×ž×Ö·×¦×™×¢ ××•×Ÿ ×ž×§×•×¨×™× ×–×¢× ×¢×Ÿ ×“×Ö¸×¨×˜?" (××™× ×¤××¨×ž××¦×™×¢ ×”×™×œ×£). ×ž×™×™× ×•× ×’×¢×Ÿ ×–×¢× ×¢×Ÿ × ×™×©×˜ ×¤×©×•×˜ ××•×™×¡×’×¢×ž×¢×§×˜ ×•×•×™ "×¤×Ö·×œ×©".
 
-# # # 18 . שוץ קעגן קולטורעל מיסינטערפּרעטאציע
-AI ריקווייערז ** קולטור קאָנטעקסט מאָדעלס ** צו פאַרמייַדן די קאָמוניקאַציע נאָרמאַל פון איין מדינה צו זיין אנגענומען ווי אַ גלאבאלע נאָרמאַל.
+# # # 18 . ×©×•×¥ ×§×¢×’×Ÿ ×§×•×œ×˜×•×¨×¢×œ ×ž×™×¡×™× ×˜×¢×¨×¤Ö¼×¨×¢×˜××¦×™×¢
+AI ×¨×™×§×•×•×™×™×¢×¨×– ** ×§×•×œ×˜×•×¨ ×§×Ö¸× ×˜×¢×§×¡×˜ ×ž×Ö¸×“×¢×œ×¡ ** ×¦×• ×¤×Ö·×¨×ž×™×™Ö·×“×Ÿ ×“×™ ×§×Ö¸×ž×•× ×™×§×Ö·×¦×™×¢ × ×Ö¸×¨×ž×Ö·×œ ×¤×•×Ÿ ××™×™×Ÿ ×ž×“×™× ×” ×¦×• ×–×™×™×Ÿ ×× ×’×¢× ×•×ž×¢×Ÿ ×•×•×™ ×Ö· ×’×œ××‘××œ×¢ × ×Ö¸×¨×ž×Ö·×œ.
 
-### 19. איראָניע, סאַטירע און הומאָר
-די אַי ניצט קאָנטעקסט, עמאָדזשיס, שמועס פלאָוז און געזונט-באקאנט איראָניע סטראַקטשערז, אָבער מוזן לאָזן אַנסערטאַנטי ווען מינינגז זענען נישט קלאָר.
+### 19. ××™×¨×Ö¸× ×™×¢, ×¡×Ö·×˜×™×¨×¢ ××•×Ÿ ×”×•×ž×Ö¸×¨
+×“×™ ×Ö·×™ × ×™×¦×˜ ×§×Ö¸× ×˜×¢×§×¡×˜, ×¢×ž×Ö¸×“×–×©×™×¡, ×©×ž×•×¢×¡ ×¤×œ×Ö¸×•×– ××•×Ÿ ×’×¢×–×•× ×˜-×‘××§×× ×˜ ××™×¨×Ö¸× ×™×¢ ×¡×˜×¨×Ö·×§×˜×©×¢×¨×–, ×Ö¸×‘×¢×¨ ×ž×•×–×Ÿ ×œ×Ö¸×–×Ÿ ×Ö·× ×¡×¢×¨×˜×Ö·× ×˜×™ ×•×•×¢×Ÿ ×ž×™× ×™× ×’×– ×–×¢× ×¢×Ÿ × ×™×©×˜ ×§×œ×Ö¸×¨.
 
-### 20. קיין שטראָף באזירט אויף אַ איין אַי כעזשבן
-קיין ערנסט מאַדעריישאַן ינטערווענטיאָן קען זיין באזירט אויסשליסלעך אויף אַ איין אָטאַמייטיד קלאַסאַפאַקיישאַן רעזולטאַט (טעקסט + קאָנטעקסט + נאַטור + שפּראַך + מעדיע + הערשן מאָטאָר = ריזיקירן אַססעססמענט).
+### 20. ×§×™×™×Ÿ ×©×˜×¨×Ö¸×£ ×‘××–×™×¨×˜ ××•×™×£ ×Ö· ××™×™×Ÿ ×Ö·×™ ×›×¢×–×©×‘×Ÿ
+×§×™×™×Ÿ ×¢×¨× ×¡×˜ ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ ×™× ×˜×¢×¨×•×•×¢× ×˜×™×Ö¸×Ÿ ×§×¢×Ÿ ×–×™×™×Ÿ ×‘××–×™×¨×˜ ××•×™×¡×©×œ×™×¡×œ×¢×š ××•×™×£ ×Ö· ××™×™×Ÿ ×Ö¸×˜×Ö·×ž×™×™×˜×™×“ ×§×œ×Ö·×¡×Ö·×¤×Ö·×§×™×™×©×Ö·×Ÿ ×¨×¢×–×•×œ×˜×Ö·×˜ (×˜×¢×§×¡×˜ + ×§×Ö¸× ×˜×¢×§×¡×˜ + × ×Ö·×˜×•×¨ + ×©×¤Ö¼×¨×Ö·×š + ×ž×¢×“×™×¢ + ×”×¢×¨×©×Ÿ ×ž×Ö¸×˜×Ö¸×¨ = ×¨×™×–×™×§×™×¨×Ÿ ×Ö·×¡×¡×¢×¡×¡×ž×¢× ×˜).
 
-### 21. באַניצער נאַטור סיגנאַלז און קיין סאציאל קרעדיט סיסטעם
-עס איז וועגן טעכניש זידלען סיגנאַלז (למשל ספּאַם מאַסע פּאָסטינג), נישט אַ גענעראַל געזעלשאַפטלעך ראַנג סיסטעם. Nexus Gaja טוט נישט אַרבעטן אַ געזעלשאַפטלעך קרעדיט סיסטעם - מאַדעריישאַן איז פֿאַר זיכערהייט און נישט צו אַססעסס די ווערט פון אַ מענטש.
+### 21. ×‘×Ö·× ×™×¦×¢×¨ × ×Ö·×˜×•×¨ ×¡×™×’× ×Ö·×œ×– ××•×Ÿ ×§×™×™×Ÿ ×¡××¦×™××œ ×§×¨×¢×“×™×˜ ×¡×™×¡×˜×¢×
+×¢×¡ ××™×– ×•×•×¢×’×Ÿ ×˜×¢×›× ×™×© ×–×™×“×œ×¢×Ÿ ×¡×™×’× ×Ö·×œ×– (×œ×ž×©×œ ×¡×¤Ö¼×Ö·× ×ž×Ö·×¡×¢ ×¤Ö¼×Ö¸×¡×˜×™× ×’), × ×™×©×˜ ×Ö· ×’×¢× ×¢×¨×Ö·×œ ×’×¢×–×¢×œ×©×Ö·×¤×˜×œ×¢×š ×¨×Ö·× ×’ ×¡×™×¡×˜×¢×. Nexus Gaja ×˜×•×˜ × ×™×©×˜ ×Ö·×¨×‘×¢×˜×Ÿ ×Ö· ×’×¢×–×¢×œ×©×Ö·×¤×˜×œ×¢×š ×§×¨×¢×“×™×˜ ×¡×™×¡×˜×¢× - ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ ××™×– ×¤Ö¿×Ö·×¨ ×–×™×›×¢×¨×”×™×™×˜ ××•×Ÿ × ×™×©×˜ ×¦×• ×Ö·×¡×¡×¢×¡×¡ ×“×™ ×•×•×¢×¨×˜ ×¤×•×Ÿ ×Ö· ×ž×¢× ×˜×©.
 
-### 22. מאַדעריישאַן אַי מוזן זיין אַדאַטאַבאַל
-כל באַטייַטיק אָטאַמייטיד דיסיזשאַנז זענען לאָגד (געשעעניש שייַן, הערשן שייַן, בטחון, מענטש אָפּשאַצונג, אאז"ו ו) צו ענשור טרייסאַביליטי.
+### 22. ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ ×Ö·×™ ×ž×•×–×Ÿ ×–×™×™×Ÿ ×Ö·×“×Ö·×˜×Ö·×‘×Ö·×œ
+×›×œ ×‘×Ö·×˜×™×™Ö·×˜×™×§ ×Ö¸×˜×Ö·×ž×™×™×˜×™×“ ×“×™×¡×™×–×©×Ö·× ×– ×–×¢× ×¢×Ÿ ×œ×Ö¸×’×“ (×’×¢×©×¢×¢× ×™×© ×©×™×™Ö·×Ÿ, ×”×¢×¨×©×Ÿ ×©×™×™Ö·×Ÿ, ×‘×˜×—×•×Ÿ, ×ž×¢× ×˜×© ×Ö¸×¤Ö¼×©×Ö·×¦×•× ×’, ×××–"×• ×•) ×¦×• ×¢× ×©×•×¨ ×˜×¨×™×™×¡×Ö·×‘×™×œ×™×˜×™.
 
-### 23. פאלשע פאזיטיוון, פאלשע נעגאטיוון און קוואליטעט-מעטריק
-טעות טייפּס זענען מאָניטאָרעד. א דאַשבאָרד מעסטן פּינטלעכקייַט, צוריקרופן און ספּעציעל די ** אַפּעלירן ריווערסאַל קורס** (צאָל געראָטן אַפּילז). 
+### 23. ×¤××œ×©×¢ ×¤××–×™×˜×™×•×•×Ÿ, ×¤××œ×©×¢ × ×¢×’××˜×™×•×•×Ÿ ××•×Ÿ ×§×•×•××œ×™×˜×¢×˜-×ž×¢×˜×¨×™×§
+×˜×¢×•×ª ×˜×™×™×¤Ö¼×¡ ×–×¢× ×¢×Ÿ ×ž×Ö¸× ×™×˜×Ö¸×¨×¢×“. × ×“×Ö·×©×‘×Ö¸×¨×“ ×ž×¢×¡×˜×Ÿ ×¤Ö¼×™× ×˜×œ×¢×›×§×™×™Ö·×˜, ×¦×•×¨×™×§×¨×•×¤×Ÿ ××•×Ÿ ×¡×¤Ö¼×¢×¦×™×¢×œ ×“×™ ** ×Ö·×¤Ö¼×¢×œ×™×¨×Ÿ ×¨×™×•×•×¢×¨×¡×Ö·×œ ×§×•×¨×¡** (×¦×Ö¸×œ ×’×¢×¨×Ö¸×˜×Ÿ ×Ö·×¤Ö¼×™×œ×–). 
 
-### 24. שפּראַך יושר און איבערזעצונג פאָרורטייל
-די מאַדעריישאַן קוואַליטעט מוזן זיין פאַרגלייַכלעך אין אַלע געשטיצט שפראכן (מולטילינגואַל מאַדעריישאַן בענטשמאַרק). אויב מאַדעריישאַן רעזולטאַטן זענען אַנדערש צווישן דער אָריגינעל און די איבערזעצונג (איבערזעצונג קאָנפליקט), דאָס מוזן זיין אָפּגעשטעלט סעפּעראַטלי.
+### 24. ×©×¤Ö¼×¨×Ö·×š ×™×•×©×¨ ××•×Ÿ ××™×‘×¢×¨×–×¢×¦×•× ×’ ×¤×Ö¸×¨×•×¨×˜×™×™×œ
+×“×™ ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ ×§×•×•×Ö·×œ×™×˜×¢×˜ ×ž×•×–×Ÿ ×–×™×™×Ÿ ×¤×Ö·×¨×’×œ×™×™Ö·×›×œ×¢×š ××™×Ÿ ×Ö·×œ×¢ ×’×¢×©×˜×™×¦×˜ ×©×¤×¨××›×Ÿ (×ž×•×œ×˜×™×œ×™× ×’×•×Ö·×œ ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ ×‘×¢× ×˜×©×ž×Ö·×¨×§). ××•×™×‘ ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ ×¨×¢×–×•×œ×˜×Ö·×˜×Ÿ ×–×¢× ×¢×Ÿ ×Ö·× ×“×¢×¨×© ×¦×•×•×™×©×Ÿ ×“×¢×¨ ×Ö¸×¨×™×’×™× ×¢×œ ××•×Ÿ ×“×™ ××™×‘×¢×¨×–×¢×¦×•× ×’ (××™×‘×¢×¨×–×¢×¦×•× ×’ ×§×Ö¸× ×¤×œ×™×§×˜), ×“×Ö¸×¡ ×ž×•×–×Ÿ ×–×™×™×Ÿ ×Ö¸×¤Ö¼×’×¢×©×˜×¢×œ×˜ ×¡×¢×¤Ö¼×¢×¨×Ö·×˜×œ×™.
 
-### 25. אַרטשיטעקטורע פאָרשלאָג & פּאָליטיק מאָטאָר
-די כּללים (פּאָליטיק מאָטאָר) זענען נישט שווער קאָדעד אין די אַי מאָדעלס. די אַי גיט ינסייץ, די פּאָליטיק מאָטאָר מאכט דיסיזשאַנז באזירט אויף קראַנט כּללים. דאָס אַלאַוז **מאָדעל טוישן אָן טשאַנגינג די כּללים**.
+### 25. ×Ö·×¨×˜×©×™×˜×¢×§×˜×•×¨×¢ ×¤×Ö¸×¨×©×œ×Ö¸×’ & ×¤Ö¼×Ö¸×œ×™×˜×™×§ ×ž×Ö¸×˜×Ö¸×¨
+×“×™ ×›Ö¼×œ×œ×™× (×¤Ö¼×Ö¸×œ×™×˜×™×§ ×ž×Ö¸×˜×Ö¸×¨) ×–×¢× ×¢×Ÿ × ×™×©×˜ ×©×•×•×¢×¨ ×§×Ö¸×“×¢×“ ××™×Ÿ ×“×™ ×Ö·×™ ×ž×Ö¸×“×¢×œ×¡. ×“×™ ×Ö·×™ ×’×™×˜ ×™× ×¡×™×™×¥, ×“×™ ×¤Ö¼×Ö¸×œ×™×˜×™×§ ×ž×Ö¸×˜×Ö¸×¨ ×ž××›×˜ ×“×™×¡×™×–×©×Ö·× ×– ×‘××–×™×¨×˜ ××•×™×£ ×§×¨×Ö·× ×˜ ×›Ö¼×œ×œ×™×. ×“×Ö¸×¡ ×Ö·×œ×Ö·×•×– **×ž×Ö¸×“×¢×œ ×˜×•×™×©×Ÿ ×Ö¸×Ÿ ×˜×©×Ö·× ×’×™× ×’ ×“×™ ×›Ö¼×œ×œ×™×**.
 
-# # # 26 . מענשען בלייבן די לעצטע אויטאריטעט
-- **NG-AI-MOD-001**: די אַי שטיצט דיטעקשאַן און קלאַסאַפאַקיישאַן, אָבער טוט נישט פאַרבייַטן מענטש רעצענזיע ווען איר מאַכן ערנסט דיסיזשאַנז.
-- **NG-AI-MOD-002**: אָטאַמייטיד מאַדעריישאַן דיסיזשאַנז מוזן זיין טרייסאַבאַל, רעקאָרדאַבלע און וועראַפייאַבאַל.
+# # # 26 . ×ž×¢× ×©×¢×Ÿ ×‘×œ×™×™×‘×Ÿ ×“×™ ×œ×¢×¦×˜×¢ ××•×™×˜××¨×™×˜×¢×˜
+- **NG-AI-MOD-001**: ×“×™ ×Ö·×™ ×©×˜×™×¦×˜ ×“×™×˜×¢×§×©×Ö·×Ÿ ××•×Ÿ ×§×œ×Ö·×¡×Ö·×¤×Ö·×§×™×™×©×Ö·×Ÿ, ×Ö¸×‘×¢×¨ ×˜×•×˜ × ×™×©×˜ ×¤×Ö·×¨×‘×™×™Ö·×˜×Ÿ ×ž×¢× ×˜×© ×¨×¢×¦×¢× ×–×™×¢ ×•×•×¢×Ÿ ××™×¨ ×ž×Ö·×›×Ÿ ×¢×¨× ×¡×˜ ×“×™×¡×™×–×©×Ö·× ×–.
+- **NG-AI-MOD-002**: ×Ö¸×˜×Ö·×ž×™×™×˜×™×“ ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ ×“×™×¡×™×–×©×Ö·× ×– ×ž×•×–×Ÿ ×–×™×™×Ÿ ×˜×¨×™×™×¡×Ö·×‘×Ö·×œ, ×¨×¢×§×Ö¸×¨×“×Ö·×‘×œ×¢ ××•×Ÿ ×•×•×¢×¨×Ö·×¤×™×™×Ö·×‘×Ö·×œ.
 
-**קיצער **: מיר בויען אַ פיר-ריי סיסטעם: אַי דיטעקשאַן, קאָנטעקסט און ריזיקירן אַנאַליסיס, פּאָליטיק מאָטאָר און מענטש גאַווערנאַנס. דאָס ינייבאַלז שטאַרק אָטאַמיישאַן אָן קריייטינג אַ געפערלעך "AI ווי ריכטער" אַרקאַטעקטשער.
+**×§×™×¦×¢×¨ **: ×ž×™×¨ ×‘×•×™×¢×Ÿ ×Ö· ×¤×™×¨-×¨×™×™ ×¡×™×¡×˜×¢×: ×Ö·×™ ×“×™×˜×¢×§×©×Ö·×Ÿ, ×§×Ö¸× ×˜×¢×§×¡×˜ ××•×Ÿ ×¨×™×–×™×§×™×¨×Ÿ ×Ö·× ×Ö·×œ×™×¡×™×¡, ×¤Ö¼×Ö¸×œ×™×˜×™×§ ×ž×Ö¸×˜×Ö¸×¨ ××•×Ÿ ×ž×¢× ×˜×© ×’×Ö·×•×•×¢×¨× ×Ö·× ×¡. ×“×Ö¸×¡ ×™× ×™×™×‘×Ö·×œ×– ×©×˜×Ö·×¨×§ ×Ö¸×˜×Ö·×ž×™×™×©×Ö·×Ÿ ×Ö¸×Ÿ ×§×¨×™×™×™×˜×™× ×’ ×Ö· ×’×¢×¤×¢×¨×œ×¢×š "AI ×•×•×™ ×¨×™×›×˜×¢×¨" ×Ö·×¨×§×Ö·×˜×¢×§×˜×©×¢×¨.
 
-## פינאַנסינג פּרינסאַפּאַלז און רעוועך מאָדעל (WP 1.10.1)
+## ×¤×™× ×Ö·× ×¡×™× ×’ ×¤Ö¼×¨×™× ×¡×Ö·×¤Ö¼×Ö·×œ×– ××•×Ÿ ×¨×¢×•×•×¢×š ×ž×Ö¸×“×¢×œ (WP 1.10.1)
 
 ![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
-א זייער וויכטיק יקערדיק עקאָנאָמיש פּרינציפּ אַפּלייז צו Nexus Gaja: **קיין קלאַסיש גאַנצע אויף דער פּלאַטפאָרמע.**
-דאָס מאכט Nexus Gaja קאַנסעפּטשואַלי אַנדערש פון פילע פון הייַנט ס געזעלשאַפטלעך נעטוואָרקס. אָבער דאָס טוט נישט מיינען: Nexus Gaja מוזן נישט האָבן אַ געשעפט כאַראַקטער. פֿאַרקערט: די פּלאַטפאָרמס מוז זײַן עקאָנאָמיקלי ווייאַבאַל, כּדי זײַן געזעלשאַפֿטלעכע ציל זאָל קענען עקזיסטירן אויף לאַנג טערמין. ד י עקאנאמיש ע טעטיקײ ט אי ז דעריבע ר א מיטל , ניש ט דע ר אקטױו ע צװעק ן פו ן דע ר פלאטפארמע .
+× ×–×™×™×¢×¨ ×•×•×™×›×˜×™×§ ×™×§×¢×¨×“×™×§ ×¢×§×Ö¸× ×Ö¸×ž×™×© ×¤Ö¼×¨×™× ×¦×™×¤Ö¼ ×Ö·×¤Ö¼×œ×™×™×– ×¦×• Nexus Gaja: **×§×™×™×Ÿ ×§×œ×Ö·×¡×™×© ×’×Ö·× ×¦×¢ ××•×™×£ ×“×¢×¨ ×¤Ö¼×œ×Ö·×˜×¤×Ö¸×¨×ž×¢.**
+×“×Ö¸×¡ ×ž××›×˜ Nexus Gaja ×§×Ö·× ×¡×¢×¤Ö¼×˜×©×•×Ö·×œ×™ ×Ö·× ×“×¢×¨×© ×¤×•×Ÿ ×¤×™×œ×¢ ×¤×•×Ÿ ×”×™×™Ö·× ×˜ ×¡ ×’×¢×–×¢×œ×©×Ö·×¤×˜×œ×¢×š × ×¢×˜×•×•×Ö¸×¨×§×¡. ×Ö¸×‘×¢×¨ ×“×Ö¸×¡ ×˜×•×˜ × ×™×©×˜ ×ž×™×™× ×¢×Ÿ: Nexus Gaja ×ž×•×–×Ÿ × ×™×©×˜ ×”×Ö¸×‘×Ÿ ×Ö· ×’×¢×©×¢×¤×˜ ×›×Ö·×¨×Ö·×§×˜×¢×¨. ×¤Ö¿×Ö·×¨×§×¢×¨×˜: ×“×™ ×¤Ö¼×œ×Ö·×˜×¤×Ö¸×¨×ž×¡ ×ž×•×– ×–×²Ö·×Ÿ ×¢×§×Ö¸× ×Ö¸×ž×™×§×œ×™ ×•×•×™×™×Ö·×‘×Ö·×œ, ×›Ö¼×“×™ ×–×²Ö·×Ÿ ×’×¢×–×¢×œ×©×Ö·×¤Ö¿×˜×œ×¢×›×¢ ×¦×™×œ ×–×Ö¸×œ ×§×¢× ×¢×Ÿ ×¢×§×–×™×¡×˜×™×¨×Ÿ ××•×™×£ ×œ×Ö·× ×’ ×˜×¢×¨×ž×™×Ÿ. ×“ ×™ ×¢×§×× ××ž×™×© ×¢ ×˜×¢×˜×™×§×² ×˜ ××™ ×– ×“×¢×¨×™×‘×¢ ×¨ × ×ž×™×˜×œ , × ×™×© ×˜ ×“×¢ ×¨ ××§×˜×±×• ×¢ ×¦×°×¢×§ ×Ÿ ×¤×• ×Ÿ ×“×¢ ×¨ ×¤×œ××˜×¤××¨×ž×¢ .
 
-### 1. פּרינציפּ NG-FIN-001
-Nexus Gaja פינאַנצן זיין אַפּעריישאַנז דורך טראַנספּעראַנט רעוועך סטרימז באַזונדער פון באַניצער אינטערעסן און נישט דורך די פֿאַרקויף פון זיין יוזערז ופמערקזאַמקייט אָדער פערזענלעכע דאַטן.
+### 1. ×¤Ö¼×¨×™× ×¦×™×¤Ö¼ NG-FIN-001
+Nexus Gaja ×¤×™× ×Ö·× ×¦×Ÿ ×–×™×™×Ÿ ×Ö·×¤Ö¼×¢×¨×™×™×©×Ö·× ×– ×“×•×¨×š ×˜×¨×Ö·× ×¡×¤Ö¼×¢×¨×Ö·× ×˜ ×¨×¢×•×•×¢×š ×¡×˜×¨×™×ž×– ×‘×Ö·×–×•× ×“×¢×¨ ×¤×•×Ÿ ×‘×Ö·× ×™×¦×¢×¨ ××™× ×˜×¢×¨×¢×¡×Ÿ ××•×Ÿ × ×™×©×˜ ×“×•×¨×š ×“×™ ×¤Ö¿×Ö·×¨×§×•×™×£ ×¤×•×Ÿ ×–×™×™×Ÿ ×™×•×–×¢×¨×– ×•×¤×ž×¢×¨×§×–×Ö·×ž×§×™×™×˜ ×Ö¸×“×¢×¨ ×¤×¢×¨×–×¢× ×œ×¢×›×¢ ×“×Ö·×˜×Ÿ.
 
-### 2. קיין קלאַסיש גאַנצע
-אין באַזונדער, די פאלגענדע וואָלט נישט זיין דערלויבט:
-- באַנער גאַנצע
-- פּאָפּ-אַרויף גאַנצע
-- אָטאַמאַטיק פּלייַעד גאַנצע ווידיאס
-- באצאלטע הודעות אין דער נאָרמאַל פיטער
-- פערזענליכען גאַנצע פּראָופיילז
-- סעלינג באַניצער פּראָופיילז
-- פאַרקויף פון פּערזענלעך דאַטן
-- גאַנצע דערייווד פון פּריוואַט שמועסן.
+### 2. ×§×™×™×Ÿ ×§×œ×Ö·×¡×™×© ×’×Ö·× ×¦×¢
+××™×Ÿ ×‘×Ö·×–×•× ×“×¢×¨, ×“×™ ×¤××œ×’×¢× ×“×¢ ×•×•×Ö¸×œ×˜ × ×™×©×˜ ×–×™×™×Ÿ ×“×¢×¨×œ×•×™×‘×˜:
+- ×‘×Ö·× ×¢×¨ ×’×Ö·× ×¦×¢
+- ×¤Ö¼×Ö¸×¤Ö¼-×Ö·×¨×•×™×£ ×’×Ö·× ×¦×¢
+- ×Ö¸×˜×Ö·×ž×Ö·×˜×™×§ ×¤Ö¼×œ×™×™Ö·×¢×“ ×’×Ö·× ×¦×¢ ×•×•×™×“×™××¡
+- ×‘××¦××œ×˜×¢ ×”×•×“×¢×•×ª ××™×Ÿ ×“×¢×¨ × ×Ö¸×¨×ž×Ö·×œ ×¤×™×˜×¢×¨
+- ×¤×¢×¨×–×¢× ×œ×™×›×¢×Ÿ ×’×Ö·× ×¦×¢ ×¤Ö¼×¨×Ö¸×•×¤×™×™×œ×–
+- ×¡×¢×œ×™× ×’ ×‘×Ö·× ×™×¦×¢×¨ ×¤Ö¼×¨×Ö¸×•×¤×™×™×œ×–
+- ×¤×Ö·×¨×§×•×™×£ ×¤×•×Ÿ ×¤Ö¼×¢×¨×–×¢× ×œ×¢×š ×“×Ö·×˜×Ÿ
+- ×’×Ö·× ×¦×¢ ×“×¢×¨×™×™×•×•×“ ×¤×•×Ÿ ×¤Ö¼×¨×™×•×•×Ö·×˜ ×©×ž×•×¢×¡×Ÿ.
 
-דאָס לאָזט איבער דעם קאָמוניקאַציע פּלאַץ: **קאָמוניקאַציע פּלאַץ אַנשטאָט גאַנצע פּלאַץ.**
+×“×Ö¸×¡ ×œ×Ö¸×–×˜ ××™×‘×¢×¨ ×“×¢× ×§×Ö¸×ž×•× ×™×§×Ö·×¦×™×¢ ×¤Ö¼×œ×Ö·×¥: **×§×Ö¸×ž×•× ×™×§×Ö·×¦×™×¢ ×¤Ö¼×œ×Ö·×¥ ×Ö·× ×©×˜×Ö¸×˜ ×’×Ö·× ×¦×¢ ×¤Ö¼×œ×Ö·×¥.**
 
-### 3. פינאַנצן אָן גאַנצע
-אַנשטאָט, אונדזער פינאַנסינג קענען צונויפשטעלנ זיך פון עטלעכע פּילערז. מיר ערשטער פאָרשלאָגן זעקס פּילערז:
-``` טעקסט
+### 3. ×¤×™× ×Ö·× ×¦×Ÿ ×Ö¸×Ÿ ×’×Ö·× ×¦×¢
+×Ö·× ×©×˜×Ö¸×˜, ××•× ×“×–×¢×¨ ×¤×™× ×Ö·× ×¡×™× ×’ ×§×¢× ×¢×Ÿ ×¦×•× ×•×™×¤×©×˜×¢×œ×  ×–×™×š ×¤×•×Ÿ ×¢×˜×œ×¢×›×¢ ×¤Ö¼×™×œ×¢×¨×–. ×ž×™×¨ ×¢×¨×©×˜×¢×¨ ×¤×Ö¸×¨×©×œ×Ö¸×’×Ÿ ×–×¢×§×¡ ×¤Ö¼×™×œ×¢×¨×–:
+``` ×˜×¢×§×¡×˜
                  NEXUS GAJA
-                     │
-       ┌─────────────┼─────────────┐
-       ▼ ▼ ▼
-   פּרעמיע אָרגאַניזאַציע שענקען
-       │ │ │
-       ├─────────────┼─────────────┤
-       ▼ ▼ ▼
-   פּראַמאָוטינג פּאַרטנערשיפּ באַדינונגס
+                     â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â–¼ â–¼ â–¼
+   ×¤Ö¼×¨×¢×ž×™×¢ ×Ö¸×¨×’×Ö·× ×™×–×Ö·×¦×™×¢ ×©×¢× ×§×¢×Ÿ
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+       â–¼ â–¼ â–¼
+   ×¤Ö¼×¨×Ö·×ž×Ö¸×•×˜×™× ×’ ×¤Ö¼×Ö·×¨×˜× ×¢×¨×©×™×¤Ö¼ ×‘×Ö·×“×™× ×•× ×’×¡
 ```
 
-#### זייַל 1 - פריי יקערדיק מיטגלידערשאַפט
-**Nexus Gaja Free:** יקערדיק אָנטייל אין אינטערנאַציאָנאַלע פארשטאנד זאָל ניט אָפענגען אויף צי עמעצער האט געלט. די פאלגענדע זענען מעגלעך פריי: פערזענלעכע פּראָפיל, אינטערנאַציאָנאַלע קאָמוניקאַציע, קאַנטראַביושאַנז, באַמערקונגען, יקערדיק איבערזעצונג, קהילות, טשאַץ, יקערדיק מידיאַ פאַנגקשאַנז.
+#### ×–×™×™Ö·×œ 1 - ×¤×¨×™×™ ×™×§×¢×¨×“×™×§ ×ž×™×˜×’×œ×™×“×¢×¨×©×Ö·×¤×˜
+**Nexus Gaja Free:** ×™×§×¢×¨×“×™×§ ×Ö¸× ×˜×™×™×œ ××™×Ÿ ××™× ×˜×¢×¨× ×Ö·×¦×™×Ö¸× ×Ö·×œ×¢ ×¤××¨×©×˜×× ×“ ×–×Ö¸×œ × ×™×˜ ×Ö¸×¤×¢× ×’×¢×Ÿ ××•×™×£ ×¦×™ ×¢×ž×¢×¦×¢×¨ ×”××˜ ×’×¢×œ×˜. ×“×™ ×¤××œ×’×¢× ×“×¢ ×–×¢× ×¢×Ÿ ×ž×¢×’×œ×¢×š ×¤×¨×™×™: ×¤×¢×¨×–×¢× ×œ×¢×›×¢ ×¤Ö¼×¨×Ö¸×¤×™×œ, ××™× ×˜×¢×¨× ×Ö·×¦×™×Ö¸× ×Ö·×œ×¢ ×§×Ö¸×ž×•× ×™×§×Ö·×¦×™×¢, ×§×Ö·× ×˜×¨×Ö·×‘×™×•×©×Ö·× ×–, ×‘×Ö·×ž×¢×¨×§×•× ×’×¢×Ÿ, ×™×§×¢×¨×“×™×§ ××™×‘×¢×¨×–×¢×¦×•× ×’, ×§×”×™×œ×•×ª, ×˜×©×Ö·×¥, ×™×§×¢×¨×“×™×§ ×ž×™×“×™×Ö· ×¤×Ö·× ×’×§×©×Ö·× ×–.
 
-#### זייַל 2 - פּרעמיום אָפפערס
-וואַלאַנטערי באַצאָלט אָפפערס (** Nexus Gaja Plus**). מעגלעך בענעפיץ: גרעסערע סטאָרידזש לימאַץ, העכער מעדיע קוואַליטעט, מער ווידעא טראַנסמיסיע, יקספּאַנדיד איבערזעצונג פאַנגקשאַנז, גרעסערע קהילות, נאָך אָרגאַנאַזיישאַנאַל פאַנגקשאַנז, העכער אַי קוואָטעס.
-**Freemium - אָבער נישט "Dark Freemium": ** די פריי ווערסיע קענען זיין געוויינט מיט פיליקייַט; פּרעמיום יקספּאַנדז עס.
+#### ×–×™×™Ö·×œ 2 - ×¤Ö¼×¨×¢×ž×™×•× ×Ö¸×¤×¤×¢×¨×¡
+×•×•×Ö·×œ×Ö·× ×˜×¢×¨×™ ×‘×Ö·×¦×Ö¸×œ×˜ ×Ö¸×¤×¤×¢×¨×¡ (** Nexus Gaja Plus**). ×ž×¢×’×œ×¢×š ×‘×¢× ×¢×¤×™×¥: ×’×¨×¢×¡×¢×¨×¢ ×¡×˜×Ö¸×¨×™×“×–×© ×œ×™×ž×Ö·×¥, ×”×¢×›×¢×¨ ×ž×¢×“×™×¢ ×§×•×•×Ö·×œ×™×˜×¢×˜, ×ž×¢×¨ ×•×•×™×“×¢× ×˜×¨×Ö·× ×¡×ž×™×¡×™×¢, ×™×§×¡×¤Ö¼×Ö·× ×“×™×“ ××™×‘×¢×¨×–×¢×¦×•× ×’ ×¤×Ö·× ×’×§×©×Ö·× ×–, ×’×¨×¢×¡×¢×¨×¢ ×§×”×™×œ×•×ª, × ×Ö¸×š ×Ö¸×¨×’×Ö·× ×Ö·×–×™×™×©×Ö·× ×Ö·×œ ×¤×Ö·× ×’×§×©×Ö·× ×–, ×”×¢×›×¢×¨ ×Ö·×™ ×§×•×•×Ö¸×˜×¢×¡.
+**Freemium - ×Ö¸×‘×¢×¨ × ×™×©×˜ "Dark Freemium": ** ×“×™ ×¤×¨×™×™ ×•×•×¢×¨×¡×™×¢ ×§×¢× ×¢×Ÿ ×–×™×™×Ÿ ×’×¢×•×•×™×™× ×˜ ×ž×™×˜ ×¤×™×œ×™×§×™×™Ö·×˜; ×¤Ö¼×¨×¢×ž×™×•× ×™×§×¡×¤Ö¼×Ö·× ×“×– ×¢×¡.
 
-#### פּילער 3 - אָרגאַניזאַציעס
-** נעקסוס גאַדזשאַ אָרגאַניזאַציע: ** ספּעציעלע אַקאַונץ פֿאַר שולן, אוניווערסיטעטן, קלאַבז, גאָו, קאָמפּאַניעס, מיוניסאַפּאַליטיז, אאז"ו ו, מיט הויפט אָרגאַנאַזיישאַנאַל חשבון, מיטגליד פאַרוואַלטונג און אַדמיניסטראַטאָר פאַנגקשאַנז. (בייַשפּיל: א שולע באקומט תּלמיד צוטריט פריי פון אָפּצאָל אָדער דורך אַ ינסטיטושאַנאַל צאָל).
+#### ×¤Ö¼×™×œ×¢×¨ 3 - ×Ö¸×¨×’×Ö·× ×™×–×Ö·×¦×™×¢×¡
+** × ×¢×§×¡×•×¡ ×’×Ö·×“×–×©×Ö· ×Ö¸×¨×’×Ö·× ×™×–×Ö·×¦×™×¢: ** ×¡×¤Ö¼×¢×¦×™×¢×œ×¢ ×Ö·×§×Ö·×•× ×¥ ×¤Ö¿×Ö·×¨ ×©×•×œ×Ÿ, ××•× ×™×•×•×¢×¨×¡×™×˜×¢×˜×Ÿ, ×§×œ×Ö·×‘×–, ×’×Ö¸×•, ×§×Ö¸×ž×¤Ö¼×Ö·× ×™×¢×¡, ×ž×™×•× ×™×¡×Ö·×¤Ö¼×Ö·×œ×™×˜×™×–, ×××–"×• ×•, ×ž×™×˜ ×”×•×™×¤×˜ ×Ö¸×¨×’×Ö·× ×Ö·×–×™×™×©×Ö·× ×Ö·×œ ×—×©×‘×•×Ÿ, ×ž×™×˜×’×œ×™×“ ×¤×Ö·×¨×•×•×Ö·×œ×˜×•× ×’ ××•×Ÿ ×Ö·×“×ž×™× ×™×¡×˜×¨×Ö·×˜×Ö¸×¨ ×¤×Ö·× ×’×§×©×Ö·× ×–. (×‘×™×™Ö·×©×¤Ö¼×™×œ: × ×©×•×œ×¢ ×‘××§×•×ž×˜ ×ªÖ¼×œ×ž×™×“ ×¦×•×˜×¨×™×˜ ×¤×¨×™×™ ×¤×•×Ÿ ×Ö¸×¤Ö¼×¦×Ö¸×œ ×Ö¸×“×¢×¨ ×“×•×¨×š ×Ö· ×™× ×¡×˜×™×˜×•×©×Ö·× ×Ö·×œ ×¦×Ö¸×œ).
 
-#### זייַל 4 – נדבות
-** Nexus Gaja פאַנדינג פאָנד:** דאָנאָרס קענען צושטעלן געלט וואַלאַנטעראַלי (אַלגעמיינע אָדער ירמאַרקט דאָוניישאַנז). 
-** פאַנדינג בעקן און טאָמבאָלאַ: ** פריי אָדער דיסקאָונטעד נוצן איז פינאַנסט פֿון אַ צושטייַער בעקן. א פאָנד אַלאַקיישאַן לעדזשער ינשורז עאַרמאַרקינג.
-``` טעקסט
-דאָוניישאַנז → ציל פאָנד → בארעכטיגונג מאָטאָר → פריי אַקסעס / אַראָפּרעכענען / קוואָטע
+#### ×–×™×™Ö·×œ 4 â€“ × ×“×‘×•×ª
+** Nexus Gaja ×¤×Ö·× ×“×™× ×’ ×¤×Ö¸× ×“:** ×“×Ö¸× ×Ö¸×¨×¡ ×§×¢× ×¢×Ÿ ×¦×•×©×˜×¢×œ×Ÿ ×’×¢×œ×˜ ×•×•×Ö·×œ×Ö·× ×˜×¢×¨×Ö·×œ×™ (×Ö·×œ×’×¢×ž×™×™× ×¢ ×Ö¸×“×¢×¨ ×™×¨×ž×Ö·×¨×§×˜ ×“×Ö¸×•× ×™×™×©×Ö·× ×–). 
+** ×¤×Ö·× ×“×™× ×’ ×‘×¢×§×Ÿ ××•×Ÿ ×˜×Ö¸×ž×‘×Ö¸×œ×Ö·: ** ×¤×¨×™×™ ×Ö¸×“×¢×¨ ×“×™×¡×§×Ö¸×•× ×˜×¢×“ × ×•×¦×Ÿ ××™×– ×¤×™× ×Ö·× ×¡×˜ ×¤Ö¿×•×Ÿ ×Ö· ×¦×•×©×˜×™×™Ö·×¢×¨ ×‘×¢×§×Ÿ. × ×¤×Ö¸× ×“ ×Ö·×œ×Ö·×§×™×™×©×Ö·×Ÿ ×œ×¢×“×–×©×¢×¨ ×™× ×©×•×¨×– ×¢×Ö·×¨×ž×Ö·×¨×§×™× ×’.
+``` ×˜×¢×§×¡×˜
+×“×Ö¸×•× ×™×™×©×Ö·× ×– â†’ ×¦×™×œ ×¤×Ö¸× ×“ â†’ ×‘××¨×¢×›×˜×™×’×•× ×’ ×ž×Ö¸×˜×Ö¸×¨ â†’ ×¤×¨×™×™ ×Ö·×§×¡×¢×¡ / ×Ö·×¨×Ö¸×¤Ö¼×¨×¢×›×¢× ×¢×Ÿ / ×§×•×•×Ö¸×˜×¢
 ```
 
-#### פּילער 5 - ינסטיטושאַנאַל שטיצן
-ספּאָנסאָרס: יסודות, קולטור פאַנדינג מגילה, שטאַט פאַנדינג מגילה.
-**NG-FIN-002 (זעלבסטשטענדיקייט):** פאַנדינג קען נישט קויפן לייט אָדער טעכניש קאָנטראָל איבער Nexus Gaja.
+#### ×¤Ö¼×™×œ×¢×¨ 5 - ×™× ×¡×˜×™×˜×•×©×Ö·× ×Ö·×œ ×©×˜×™×¦×Ÿ
+×¡×¤Ö¼×Ö¸× ×¡×Ö¸×¨×¡: ×™×¡×•×“×•×ª, ×§×•×œ×˜×•×¨ ×¤×Ö·× ×“×™× ×’ ×ž×’×™×œ×”, ×©×˜×Ö·×˜ ×¤×Ö·× ×“×™× ×’ ×ž×’×™×œ×”.
+**NG-FIN-002 (×–×¢×œ×‘×¡×˜×©×˜×¢× ×“×™×§×™×™×˜):** ×¤×Ö·× ×“×™× ×’ ×§×¢×Ÿ × ×™×©×˜ ×§×•×™×¤×Ÿ ×œ×™×™×˜ ×Ö¸×“×¢×¨ ×˜×¢×›× ×™×© ×§×Ö¸× ×˜×¨×Ö¸×œ ××™×‘×¢×¨ Nexus Gaja.
 
-#### זייַל 6 – קאמערציאלע סערוויסעס
-Nexus Gaja קענען פאָרשלאָגן B2B באַדינונגס אַזאַ ווי **Translation-as-a-Service (API)**, פאַכמאַן איבערזעצונג, אָרגאַנאַזיישאַנאַל קאָמוניקאַציע אָדער אינטערנאַציאָנאַלע זיצונג רומז אָן בערדאַנד די נאָרמאַל באַניצער קאָרמען מיט גאַנצע.
+#### ×–×™×™Ö·×œ 6 â€“ ×§××ž×¢×¨×¦×™××œ×¢ ×¡×¢×¨×•×•×™×¡×¢×¡
+Nexus Gaja ×§×¢× ×¢×Ÿ ×¤×Ö¸×¨×©×œ×Ö¸×’×Ÿ B2B ×‘×Ö·×“×™× ×•× ×’×¡ ×Ö·×–×Ö· ×•×•×™ **Translation-as-a-Service (API)**, ×¤×Ö·×›×ž×Ö·×Ÿ ××™×‘×¢×¨×–×¢×¦×•× ×’, ×Ö¸×¨×’×Ö·× ×Ö·×–×™×™×©×Ö·× ×Ö·×œ ×§×Ö¸×ž×•× ×™×§×Ö·×¦×™×¢ ×Ö¸×“×¢×¨ ××™× ×˜×¢×¨× ×Ö·×¦×™×Ö¸× ×Ö·×œ×¢ ×–×™×¦×•× ×’ ×¨×•×ž×– ×Ö¸×Ÿ ×‘×¢×¨×“×Ö·× ×“ ×“×™ × ×Ö¸×¨×ž×Ö·×œ ×‘×Ö·× ×™×¦×¢×¨ ×§×Ö¸×¨×ž×¢×Ÿ ×ž×™×˜ ×’×Ö·× ×¦×¢.
 
-### 4. קיין דאַטן פֿאַרקויף און קיין "סערוויילאַנס עקאנאמיע"
-**NG-FIN-003:** פערזענלעכע באַניצער דאַטן זענען נישט אַ סכוירע פון נעקסוס גאַדזשאַ. (קיין פאַרקויף פון פּראָופיילז, היסטאָריעס, אידענטיטעט דאַטן). 
-Nexus Gaja איז נישט בדעה צו נוץ פון זיין יוזערז זענען מאָניטאָרעד ווי פיל ווי מעגלעך און קלאַסאַפייד סייקאַלאַדזשיקלי ווי פּונקט ווי מעגלעך.
+### 4. ×§×™×™×Ÿ ×“×Ö·×˜×Ÿ ×¤Ö¿×Ö·×¨×§×•×™×£ ××•×Ÿ ×§×™×™×Ÿ "×¡×¢×¨×•×•×™×™×œ×Ö·× ×¡ ×¢×§×× ××ž×™×¢"
+**NG-FIN-003:** ×¤×¢×¨×–×¢× ×œ×¢×›×¢ ×‘×Ö·× ×™×¦×¢×¨ ×“×Ö·×˜×Ÿ ×–×¢× ×¢×Ÿ × ×™×©×˜ ×Ö· ×¡×›×•×™×¨×¢ ×¤×•×Ÿ × ×¢×§×¡×•×¡ ×’×Ö·×“×–×©×Ö·. (×§×™×™×Ÿ ×¤×Ö·×¨×§×•×™×£ ×¤×•×Ÿ ×¤Ö¼×¨×Ö¸×•×¤×™×™×œ×–, ×”×™×¡×˜×Ö¸×¨×™×¢×¡, ××™×“×¢× ×˜×™×˜×¢×˜ ×“×Ö·×˜×Ÿ). 
+Nexus Gaja ××™×– × ×™×©×˜ ×‘×“×¢×” ×¦×• × ×•×¥ ×¤×•×Ÿ ×–×™×™×Ÿ ×™×•×–×¢×¨×– ×–×¢× ×¢×Ÿ ×ž×Ö¸× ×™×˜×Ö¸×¨×¢×“ ×•×•×™ ×¤×™×œ ×•×•×™ ×ž×¢×’×œ×¢×š ××•×Ÿ ×§×œ×Ö·×¡×Ö·×¤×™×™×“ ×¡×™×™×§×Ö·×œ×Ö·×“×–×©×™×§×œ×™ ×•×•×™ ×¤Ö¼×•× ×§×˜ ×•×•×™ ×ž×¢×’×œ×¢×š.
 
-### 5. פינאנציעלע דורכזעיקײט
-Nexus Gaja Financial Transparency: האַכנאָסע קענען זיין ארויס לויט קאַטעגאָריעס, דאָנאַטיאָן באַנד, אַפּערייטינג קאָס, עטק. 
-** פאַנדינג לעדזשער:** דאָוניישאַנז ירמאַרקט פֿאַר אַ ספּעציפיש ציל זענען רעקאָרדעד אין אַ קאַמפּריכענסאַבאַל אַקאַונטינג שטייגער (דאָנאַטיאָן → פאָנד שייַן → ציל → בנימצא באַלאַנס → אַלאַקיישאַן). עס איז קיין קרייַז-סובסידאַזיישאַן אָן דורכזעיקייַט.
+### 5. ×¤×™× ×× ×¦×™×¢×œ×¢ ×“×•×¨×›×–×¢×™×§×²×˜
+Nexus Gaja Financial Transparency: ×”×Ö·×›× ×Ö¸×¡×¢ ×§×¢× ×¢×Ÿ ×–×™×™×Ÿ ××¨×•×™×¡ ×œ×•×™×˜ ×§×Ö·×˜×¢×’×Ö¸×¨×™×¢×¡, ×“×Ö¸× ×Ö·×˜×™×Ö¸×Ÿ ×‘×Ö·× ×“, ×Ö·×¤Ö¼×¢×¨×™×™×˜×™× ×’ ×§×Ö¸×¡, ×¢×˜×§. 
+** ×¤×Ö·× ×“×™× ×’ ×œ×¢×“×–×©×¢×¨:** ×“×Ö¸×•× ×™×™×©×Ö·× ×– ×™×¨×ž×Ö·×¨×§×˜ ×¤Ö¿×Ö·×¨ ×Ö· ×¡×¤Ö¼×¢×¦×™×¤×™×© ×¦×™×œ ×–×¢× ×¢×Ÿ ×¨×¢×§×Ö¸×¨×“×¢×“ ××™×Ÿ ×Ö· ×§×Ö·×ž×¤Ö¼×¨×™×›×¢× ×¡×Ö·×‘×Ö·×œ ×Ö·×§×Ö·×•× ×˜×™× ×’ ×©×˜×™×™×’×¢×¨ (×“×Ö¸× ×Ö·×˜×™×Ö¸×Ÿ â†’ ×¤×Ö¸× ×“ ×©×™×™Ö·×Ÿ â†’ ×¦×™×œ â†’ ×‘× ×™×ž×¦× ×‘×Ö·×œ×Ö·× ×¡ â†’ ×Ö·×œ×Ö·×§×™×™×©×Ö·×Ÿ). ×¢×¡ ××™×– ×§×™×™×Ÿ ×§×¨×™×™Ö·×–-×¡×•×‘×¡×™×“×Ö·×–×™×™×©×Ö·×Ÿ ×Ö¸×Ÿ ×“×•×¨×›×–×¢×™×§×™×™Ö·×˜.
 
-### 6. פּרייסינג און סאָלידאַרישקייַט פינאַנסינג מאָדעל
-די פּרייסיז זענען באזירט אויף: פּרייַז אָריענטירונג, יוישער און סאָלידאַרישקייט.
-** סאָלידאַריטי פּרעמיום:** א פּרעמיע באַניצער קענען וואַלאַנטעראַלי קלייַבן: "איך פינאַנצן טייל פון אן אנדער באַניצער ס אַקסעס." געצווונגען סאָלידאַרישקייט אָדער אַ פּרעמיע קלאַס געזעלשאַפט (ווייניקער רעספּעקט אָדער ערגער מאַדעריישאַן פֿאַר פריי ניצערס) איז יקסקלודיד.
+### 6. ×¤Ö¼×¨×™×™×¡×™× ×’ ××•×Ÿ ×¡×Ö¸×œ×™×“×Ö·×¨×™×©×§×™×™Ö·×˜ ×¤×™× ×Ö·× ×¡×™× ×’ ×ž×Ö¸×“×¢×œ
+×“×™ ×¤Ö¼×¨×™×™×¡×™×– ×–×¢× ×¢×Ÿ ×‘××–×™×¨×˜ ××•×™×£: ×¤Ö¼×¨×™×™Ö·×– ×Ö¸×¨×™×¢× ×˜×™×¨×•× ×’, ×™×•×™×©×¢×¨ ××•×Ÿ ×¡×Ö¸×œ×™×“×Ö·×¨×™×©×§×™×™×˜.
+** ×¡×Ö¸×œ×™×“×Ö·×¨×™×˜×™ ×¤Ö¼×¨×¢×ž×™×•×:** × ×¤Ö¼×¨×¢×ž×™×¢ ×‘×Ö·× ×™×¦×¢×¨ ×§×¢× ×¢×Ÿ ×•×•×Ö·×œ×Ö·× ×˜×¢×¨×Ö·×œ×™ ×§×œ×™×™Ö·×‘×Ÿ: "××™×š ×¤×™× ×Ö·× ×¦×Ÿ ×˜×™×™×œ ×¤×•×Ÿ ××Ÿ ×× ×“×¢×¨ ×‘×Ö·× ×™×¦×¢×¨ ×¡ ×Ö·×§×¡×¢×¡." ×’×¢×¦×•×•×•× ×’×¢×Ÿ ×¡×Ö¸×œ×™×“×Ö·×¨×™×©×§×™×™×˜ ×Ö¸×“×¢×¨ ×Ö· ×¤Ö¼×¨×¢×ž×™×¢ ×§×œ×Ö·×¡ ×’×¢×–×¢×œ×©×Ö·×¤×˜ (×•×•×™×™× ×™×§×¢×¨ ×¨×¢×¡×¤Ö¼×¢×§×˜ ×Ö¸×“×¢×¨ ×¢×¨×’×¢×¨ ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ ×¤Ö¿×Ö·×¨ ×¤×¨×™×™ × ×™×¦×¢×¨×¡) ××™×– ×™×§×¡×§×œ×•×“×™×“.
 
-### 7. עקאָנאָמיש קפּי
-מיר זענען נישט אָפענגיק אויף סאָף אָנליין צייט (קיין מאַניפּולאַטיווע באַשטעלונג עקאנאמיע). אונדזער KPIs:
-- **גלאבאלע קאמיוניקאציע אינדעקס (GCI):** ווי פילע געראָטן קאָמוניקאַציע באַציונגען שטייען צווישן מענטשן פון פאַרשידענע לינגגוויסטיק אָדער קולטור מקומות?
-- **פּלאַטפאָרם סאַסטיינאַביליטי פאַרהעלטעניש (PSR):** ריקערינג רעוועך / ריקערינג אַפּערייטינג קאָס (ציל: PSR ≥ 1).
+### 7. ×¢×§×Ö¸× ×Ö¸×ž×™×© ×§×¤Ö¼×™
+×ž×™×¨ ×–×¢× ×¢×Ÿ × ×™×©×˜ ×Ö¸×¤×¢× ×’×™×§ ××•×™×£ ×¡×Ö¸×£ ×Ö¸× ×œ×™×™×Ÿ ×¦×™×™×˜ (×§×™×™×Ÿ ×ž×Ö·× ×™×¤Ö¼×•×œ×Ö·×˜×™×•×•×¢ ×‘×Ö·×©×˜×¢×œ×•× ×’ ×¢×§×× ××ž×™×¢). ××•× ×“×–×¢×¨ KPIs:
+- **×’×œ××‘××œ×¢ ×§××ž×™×•× ×™×§××¦×™×¢ ××™× ×“×¢×§×¡ (GCI):** ×•×•×™ ×¤×™×œ×¢ ×’×¢×¨×Ö¸×˜×Ÿ ×§×Ö¸×ž×•× ×™×§×Ö·×¦×™×¢ ×‘×Ö·×¦×™×•× ×’×¢×Ÿ ×©×˜×™×™×¢×Ÿ ×¦×•×•×™×©×Ÿ ×ž×¢× ×˜×©×Ÿ ×¤×•×Ÿ ×¤×Ö·×¨×©×™×“×¢× ×¢ ×œ×™× ×’×’×•×•×™×¡×˜×™×§ ×Ö¸×“×¢×¨ ×§×•×œ×˜×•×¨ ×ž×§×•×ž×•×ª?
+- **×¤Ö¼×œ×Ö·×˜×¤×Ö¸×¨× ×¡×Ö·×¡×˜×™×™× ×Ö·×‘×™×œ×™×˜×™ ×¤×Ö·×¨×”×¢×œ×˜×¢× ×™×© (PSR):** ×¨×™×§×¢×¨×™× ×’ ×¨×¢×•×•×¢×š / ×¨×™×§×¢×¨×™× ×’ ×Ö·×¤Ö¼×¢×¨×™×™×˜×™× ×’ ×§×Ö¸×¡ (×¦×™×œ: PSR â‰¥ 1).
 
-### 8. וואס מיר ווילן בפירוש נישט
-Nexus Gaja איז נישט פינאַנסט דורך:
-❌ פאַרקויף פון פערזענלעכע אינפֿאָרמאַציע
-❌ פערזענליכען קלאַסיש גאַנצע
-❌ מאָניטאָרינג באַניצער נאַטור פֿאַר גאַנצע צוועקן
-❌ סעלינג פּריוואַט קאָמוניקאַציע דאַטן
-❌ פאַרבאָרגן אַי דאַטן באַניץ
-❌ מאַניפּולאַטיווע פּרעמיע לאַקס
-❌ קינסטלעך דערגרייכן באַגרענעצונג פֿאַר מאָנעטיזאַטיאָן
-❌ באַצאָלט פּאָליטיש השפּעה
-❌ פּערטשאַסינג פּריוולידזשד מאַדעריישאַן דיסיזשאַנז.
+### 8. ×•×•××¡ ×ž×™×¨ ×•×•×™×œ×Ÿ ×‘×¤×™×¨×•×© × ×™×©×˜
+Nexus Gaja ××™×– × ×™×©×˜ ×¤×™× ×Ö·× ×¡×˜ ×“×•×¨×š:
+âŒ ×¤×Ö·×¨×§×•×™×£ ×¤×•×Ÿ ×¤×¢×¨×–×¢× ×œ×¢×›×¢ ××™× ×¤Ö¿×Ö¸×¨×ž×Ö·×¦×™×¢
+âŒ ×¤×¢×¨×–×¢× ×œ×™×›×¢×Ÿ ×§×œ×Ö·×¡×™×© ×’×Ö·× ×¦×¢
+âŒ ×ž×Ö¸× ×™×˜×Ö¸×¨×™× ×’ ×‘×Ö·× ×™×¦×¢×¨ × ×Ö·×˜×•×¨ ×¤Ö¿×Ö·×¨ ×’×Ö·× ×¦×¢ ×¦×•×•×¢×§×Ÿ
+âŒ ×¡×¢×œ×™× ×’ ×¤Ö¼×¨×™×•×•×Ö·×˜ ×§×Ö¸×ž×•× ×™×§×Ö·×¦×™×¢ ×“×Ö·×˜×Ÿ
+âŒ ×¤×Ö·×¨×‘×Ö¸×¨×’×Ÿ ×Ö·×™ ×“×Ö·×˜×Ÿ ×‘×Ö·× ×™×¥
+âŒ ×ž×Ö·× ×™×¤Ö¼×•×œ×Ö·×˜×™×•×•×¢ ×¤Ö¼×¨×¢×ž×™×¢ ×œ×Ö·×§×¡
+âŒ ×§×™× ×¡×˜×œ×¢×š ×“×¢×¨×’×¨×™×™×›×Ÿ ×‘×Ö·×’×¨×¢× ×¢×¦×•× ×’ ×¤Ö¿×Ö·×¨ ×ž×Ö¸× ×¢×˜×™×–×Ö·×˜×™×Ö¸×Ÿ
+âŒ ×‘×Ö·×¦×Ö¸×œ×˜ ×¤Ö¼×Ö¸×œ×™×˜×™×© ×”×©×¤Ö¼×¢×”
+âŒ ×¤Ö¼×¢×¨×˜×©×Ö·×¡×™× ×’ ×¤Ö¼×¨×™×•×•×œ×™×“×–×©×“ ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ ×“×™×¡×™×–×©×Ö·× ×–.
 
-### 9. פּרילימאַנערי אַרטשיטעקטורע
-``` טעקסט
+### 9. ×¤Ö¼×¨×™×œ×™×ž×Ö·× ×¢×¨×™ ×Ö·×¨×˜×©×™×˜×¢×§×˜×•×¨×¢
+``` ×˜×¢×§×¡×˜
                          NEXUS GAJA
-                              │
-             ┌────────────────┼──────────────
-             │ │ │
-             ▼ ▼ ▼
-          יוזערז אָרגאַנאַזיישאַנז פאַרנעמונג
-             │ │ │
-             └────────────────┼──────────────
-                              │
-                       פּלאַטפאָרם באַדינונגס
-                              │
-          ┌─────────────────── ┼───────────────────┐
-          ▼ ▼ ▼
-       פּרעמיע דאָוניישאַנז אַפּי
-                              │
-                    ┌─────────┴─────────┐
-                    ▼ ▼
-               אַלגעמיינע פאָנד ריסטריקטיד געלט
-                                        │
-                                        ▼
-                                  סאציאל ציל
+                              â”‚
+             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+             â”‚ â”‚ â”‚
+             â–¼ â–¼ â–¼
+          ×™×•×–×¢×¨×– ×Ö¸×¨×’×Ö·× ×Ö·×–×™×™×©×Ö·× ×– ×¤×Ö·×¨× ×¢×ž×•× ×’
+             â”‚ â”‚ â”‚
+             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+                              â”‚
+                       ×¤Ö¼×œ×Ö·×˜×¤×Ö¸×¨× ×‘×Ö·×“×™× ×•× ×’×¡
+                              â”‚
+          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+          â–¼ â–¼ â–¼
+       ×¤Ö¼×¨×¢×ž×™×¢ ×“×Ö¸×•× ×™×™×©×Ö·× ×– ×Ö·×¤Ö¼×™
+                              â”‚
+                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+                    â–¼ â–¼
+               ×Ö·×œ×’×¢×ž×™×™× ×¢ ×¤×Ö¸× ×“ ×¨×™×¡×˜×¨×™×§×˜×™×“ ×’×¢×œ×˜
+                                        â”‚
+                                        â–¼
+                                  ×¡××¦×™××œ ×¦×™×œ
 ```
 
-### קיצער: פינאַנסינג פּרינסאַפּאַלז (NG-FIN)
-- **NG-FIN-001:** נעקסוס גאַדזשאַ איז נישט פינאַנסט דורך טראדיציאנעלן גאַנצע.
-- **NG-FIN-002:** פינאַנציעל שטיצן איז נישט אַ השפּעה אויף מאַדעריישאַן אָדער גאַווערנאַנס.
-- **NG-FIN-003:** פערזענלעכע באַניצער דאַטן איז נישט אַ סכוירע.
-- **NG-FIN-004:** די גרונט אינטערנאציאנאלע קאָמוניקאַציע פֿונקציע זאָל בלייבן צוטריטלעך אָן צאָלונג.
-- **NG-FIN-005:** פּרעמיום אָפפערס יקספּאַנד די פאַרנעם פון סערוויסעס, אָבער מוזן נישט דיגרייד די כשיוועס און יקערדיק קאָמוניקאַציע אָפּציעס פון פריי ניצערס.
-- **NG-FIN-006:** עאַרמאַרקעד געלט זענען געראטן פֿאַר אַ ספּעציפיש ציל.
-- **NG-FIN-007:** דאָנאַטיאָנס און פאַנדינג זענען געראטן טראַנספּעראַנט און קאַמפּריכענסאַבלי.
-- **NG-FIN-008:** געשעפט סערוויסעס מוזן נישט ווירקן די זעלבסטשטענדיקייט פון דער פּלאַטפאָרמע.
-- **NG-FIN-009:** די עקאָנאָמיש אַנטוויקלונג פון Nexus Gaja זאָל זיין אַימעד צו לאַנג-טערמין סאַסטיינאַביליטי און נישט צו מאַקסימום באַניצער מאָנעטיזאַטיאָן.
-- **NG-FIN-010:** די עקאנאמישע סטרוקטור זאל שטענדיק דערמעגלעכן דעם סאציאלן ציל - אינטערנאציאנאלע פארשטאנד, אינטערנאציאנאלע קאמיוניקאציע און פרענדשאפט צווישן פעלקער.
+### ×§×™×¦×¢×¨: ×¤×™× ×Ö·× ×¡×™× ×’ ×¤Ö¼×¨×™× ×¡×Ö·×¤Ö¼×Ö·×œ×– (NG-FIN)
+- **NG-FIN-001:** × ×¢×§×¡×•×¡ ×’×Ö·×“×–×©×Ö· ××™×– × ×™×©×˜ ×¤×™× ×Ö·× ×¡×˜ ×“×•×¨×š ×˜×¨××“×™×¦×™×× ×¢×œ×Ÿ ×’×Ö·× ×¦×¢.
+- **NG-FIN-002:** ×¤×™× ×Ö·× ×¦×™×¢×œ ×©×˜×™×¦×Ÿ ××™×– × ×™×©×˜ ×Ö· ×”×©×¤Ö¼×¢×” ××•×™×£ ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ ×Ö¸×“×¢×¨ ×’×Ö·×•×•×¢×¨× ×Ö·× ×¡.
+- **NG-FIN-003:** ×¤×¢×¨×–×¢× ×œ×¢×›×¢ ×‘×Ö·× ×™×¦×¢×¨ ×“×Ö·×˜×Ÿ ××™×– × ×™×©×˜ ×Ö· ×¡×›×•×™×¨×¢.
+- **NG-FIN-004:** ×“×™ ×’×¨×•× ×˜ ××™× ×˜×¢×¨× ××¦×™×× ××œ×¢ ×§×Ö¸×ž×•× ×™×§×Ö·×¦×™×¢ ×¤Ö¿×•× ×§×¦×™×¢ ×–×Ö¸×œ ×‘×œ×™×™×‘×Ÿ ×¦×•×˜×¨×™×˜×œ×¢×š ×Ö¸×Ÿ ×¦×Ö¸×œ×•× ×’.
+- **NG-FIN-005:** ×¤Ö¼×¨×¢×ž×™×•× ×Ö¸×¤×¤×¢×¨×¡ ×™×§×¡×¤Ö¼×Ö·× ×“ ×“×™ ×¤×Ö·×¨× ×¢× ×¤×•×Ÿ ×¡×¢×¨×•×•×™×¡×¢×¡, ×Ö¸×‘×¢×¨ ×ž×•×–×Ÿ × ×™×©×˜ ×“×™×’×¨×™×™×“ ×“×™ ×›×©×™×•×•×¢×¡ ××•×Ÿ ×™×§×¢×¨×“×™×§ ×§×Ö¸×ž×•× ×™×§×Ö·×¦×™×¢ ×Ö¸×¤Ö¼×¦×™×¢×¡ ×¤×•×Ÿ ×¤×¨×™×™ × ×™×¦×¢×¨×¡.
+- **NG-FIN-006:** ×¢×Ö·×¨×ž×Ö·×¨×§×¢×“ ×’×¢×œ×˜ ×–×¢× ×¢×Ÿ ×’×¢×¨××˜×Ÿ ×¤Ö¿×Ö·×¨ ×Ö· ×¡×¤Ö¼×¢×¦×™×¤×™×© ×¦×™×œ.
+- **NG-FIN-007:** ×“×Ö¸× ×Ö·×˜×™×Ö¸× ×¡ ××•×Ÿ ×¤×Ö·× ×“×™× ×’ ×–×¢× ×¢×Ÿ ×’×¢×¨××˜×Ÿ ×˜×¨×Ö·× ×¡×¤Ö¼×¢×¨×Ö·× ×˜ ××•×Ÿ ×§×Ö·×ž×¤Ö¼×¨×™×›×¢× ×¡×Ö·×‘×œ×™.
+- **NG-FIN-008:** ×’×¢×©×¢×¤×˜ ×¡×¢×¨×•×•×™×¡×¢×¡ ×ž×•×–×Ÿ × ×™×©×˜ ×•×•×™×¨×§×Ÿ ×“×™ ×–×¢×œ×‘×¡×˜×©×˜×¢× ×“×™×§×™×™×˜ ×¤×•×Ÿ ×“×¢×¨ ×¤Ö¼×œ×Ö·×˜×¤×Ö¸×¨×ž×¢.
+- **NG-FIN-009:** ×“×™ ×¢×§×Ö¸× ×Ö¸×ž×™×© ×Ö·× ×˜×•×•×™×§×œ×•× ×’ ×¤×•×Ÿ Nexus Gaja ×–×Ö¸×œ ×–×™×™×Ÿ ×Ö·×™×ž×¢×“ ×¦×• ×œ×Ö·× ×’-×˜×¢×¨×ž×™×Ÿ ×¡×Ö·×¡×˜×™×™× ×Ö·×‘×™×œ×™×˜×™ ××•×Ÿ × ×™×©×˜ ×¦×• ×ž×Ö·×§×¡×™×ž×•× ×‘×Ö·× ×™×¦×¢×¨ ×ž×Ö¸× ×¢×˜×™×–×Ö·×˜×™×Ö¸×Ÿ.
+- **NG-FIN-010:** ×“×™ ×¢×§×× ××ž×™×©×¢ ×¡×˜×¨×•×§×˜×•×¨ ×–××œ ×©×˜×¢× ×“×™×§ ×“×¢×¨×ž×¢×’×œ×¢×›×Ÿ ×“×¢× ×¡××¦×™××œ×Ÿ ×¦×™×œ - ××™× ×˜×¢×¨× ××¦×™×× ××œ×¢ ×¤××¨×©×˜×× ×“, ××™× ×˜×¢×¨× ××¦×™×× ××œ×¢ ×§××ž×™×•× ×™×§××¦×™×¢ ××•×Ÿ ×¤×¨×¢× ×“×©××¤×˜ ×¦×•×•×™×©×Ÿ ×¤×¢×œ×§×¢×¨.
 
-## אַפּי, צובינד און קאָמוניקאַציע אַרקאַטעקטשער (WP 1.11.3)
+## ×Ö·×¤Ö¼×™, ×¦×•×‘×™× ×“ ××•×Ÿ ×§×Ö¸×ž×•× ×™×§×Ö·×¦×™×¢ ×Ö·×¨×§×Ö·×˜×¢×§×˜×©×¢×¨ (WP 1.11.3)
 
-צו ענשור סיסטעם פעסטקייַט, זיכערהייט און סקאַלאַביליטי, Nexus Gaja גייט אַ שטרענג אַפּי-באזירט און געשעעניש-געטריבן אַרקאַטעקטשער.
+×¦×• ×¢× ×©×•×¨ ×¡×™×¡×˜×¢× ×¤×¢×¡×˜×§×™×™Ö·×˜, ×–×™×›×¢×¨×”×™×™×˜ ××•×Ÿ ×¡×§×Ö·×œ×Ö·×‘×™×œ×™×˜×™, Nexus Gaja ×’×™×™×˜ ×Ö· ×©×˜×¨×¢× ×’ ×Ö·×¤Ö¼×™-×‘××–×™×¨×˜ ××•×Ÿ ×’×¢×©×¢×¢× ×™×©-×’×¢×˜×¨×™×‘×Ÿ ×Ö·×¨×§×Ö·×˜×¢×§×˜×©×¢×¨.
 
-### גרונט פּרינציפּן
-- ** קיין דירעקט דאַטאַבייס אַקסעס: ** קאַמפּאָונאַנץ יבערגעבן אויסשליסלעך דורך דיפיינד ינטערפייסיז (אַפּיס אָדער געשעענישן), קיינמאָל דורך דירעקט דאַטאַבייס פֿראגן פון אנדערע באַדינונגס.
-- **API Gateway:** כל פונדרויסנדיק קליענט ריקוועס גיין דורך אַן API Gateway וואָס כאַנדאַלז אָטענטאַקיישאַן, רוטינג און קורס לימיטינג.
-- ** פּראַוויידער אַבסטראַקציע: ** פונדרויסנדיק באַדינונגס (AI מאָדעלס, צאָלונג פּראַוויידערז, איבערזעצונג ענדזשאַנז) זענען ינאַגרייטיד דורך אַבסטראַקציע לייַערס. דאָס פּריווענץ שווער-ווייערד דיפּענדאַנסיז און אַלאַוז פלעקסאַבאַל שפּייַזער סוויטשינג.
+### ×’×¨×•× ×˜ ×¤Ö¼×¨×™× ×¦×™×¤Ö¼×Ÿ
+- ** ×§×™×™×Ÿ ×“×™×¨×¢×§×˜ ×“×Ö·×˜×Ö·×‘×™×™×¡ ×Ö·×§×¡×¢×¡: ** ×§×Ö·×ž×¤Ö¼×Ö¸×•× ×Ö·× ×¥ ×™×‘×¢×¨×’×¢×‘×Ÿ ××•×™×¡×©×œ×™×¡×œ×¢×š ×“×•×¨×š ×“×™×¤×™×™× ×“ ×™× ×˜×¢×¨×¤×™×™×¡×™×– (×Ö·×¤Ö¼×™×¡ ×Ö¸×“×¢×¨ ×’×¢×©×¢×¢× ×™×©×Ÿ), ×§×™×™× ×ž×Ö¸×œ ×“×•×¨×š ×“×™×¨×¢×§×˜ ×“×Ö·×˜×Ö·×‘×™×™×¡ ×¤Ö¿×¨××’×Ÿ ×¤×•×Ÿ ×× ×“×¢×¨×¢ ×‘×Ö·×“×™× ×•× ×’×¡.
+- **API Gateway:** ×›×œ ×¤×•× ×“×¨×•×™×¡× ×“×™×§ ×§×œ×™×¢× ×˜ ×¨×™×§×•×•×¢×¡ ×’×™×™×Ÿ ×“×•×¨×š ×Ö·×Ÿ API Gateway ×•×•×Ö¸×¡ ×›×Ö·× ×“×Ö·×œ×– ×Ö¸×˜×¢× ×˜×Ö·×§×™×™×©×Ö·×Ÿ, ×¨×•×˜×™× ×’ ××•×Ÿ ×§×•×¨×¡ ×œ×™×ž×™×˜×™× ×’.
+- ** ×¤Ö¼×¨×Ö·×•×•×™×™×“×¢×¨ ×Ö·×‘×¡×˜×¨×Ö·×§×¦×™×¢: ** ×¤×•× ×“×¨×•×™×¡× ×“×™×§ ×‘×Ö·×“×™× ×•× ×’×¡ (AI ×ž×Ö¸×“×¢×œ×¡, ×¦×Ö¸×œ×•× ×’ ×¤Ö¼×¨×Ö·×•×•×™×™×“×¢×¨×–, ××™×‘×¢×¨×–×¢×¦×•× ×’ ×¢× ×“×–×©×Ö·× ×–) ×–×¢× ×¢×Ÿ ×™× ×Ö·×’×¨×™×™×˜×™×“ ×“×•×¨×š ×Ö·×‘×¡×˜×¨×Ö·×§×¦×™×¢ ×œ×™×™Ö·×¢×¨×¡. ×“×Ö¸×¡ ×¤Ö¼×¨×™×•×•×¢× ×¥ ×©×•×•×¢×¨-×•×•×™×™×¢×¨×“ ×“×™×¤Ö¼×¢× ×“×Ö·× ×¡×™×– ××•×Ÿ ×Ö·×œ×Ö·×•×– ×¤×œ×¢×§×¡×Ö·×‘×Ö·×œ ×©×¤Ö¼×™×™Ö·×–×¢×¨ ×¡×•×•×™×˜×©×™× ×’.
 
-### קאָמוניקאַציע פּאַטערנז
-- ** סינטשראָנאָוס אַפּיס (REST / HTTPS): ** געוויינט פֿאַר באַלדיק ריקוועס אַזאַ ווי לאָגין, פּראָפיל סעטטינגס אָדער דירעקט איבערזעצונגען.
-- ** אַסינטשראָנאָוס events (עווענט ויטאָבוס): ** די הויפט נערוועז סיסטעם פון Nexus Gaja פֿאַר דיקאָופּאַלד פּראַסעסאַז (למשל, 'Message.Created' טריגערז מאַדעריישאַן, איבערזעצונג און אָנזאָג ייסינגקראַנאַסלי).
-- ** פאַקטיש-צייט (WebSocket): ** דעדאַקייטאַד טשאַנאַלז פֿאַר לעבן שמועסן און טייפּינג סטאַטוס.
+### ×§×Ö¸×ž×•× ×™×§×Ö·×¦×™×¢ ×¤Ö¼×Ö·×˜×¢×¨× ×–
+- ** ×¡×™× ×˜×©×¨×Ö¸× ×Ö¸×•×¡ ×Ö·×¤Ö¼×™×¡ (REST / HTTPS): ** ×’×¢×•×•×™×™× ×˜ ×¤Ö¿×Ö·×¨ ×‘×Ö·×œ×“×™×§ ×¨×™×§×•×•×¢×¡ ×Ö·×–×Ö· ×•×•×™ ×œ×Ö¸×’×™×Ÿ, ×¤Ö¼×¨×Ö¸×¤×™×œ ×¡×¢×˜×˜×™× ×’×¡ ×Ö¸×“×¢×¨ ×“×™×¨×¢×§×˜ ××™×‘×¢×¨×–×¢×¦×•× ×’×¢×Ÿ.
+- ** ×Ö·×¡×™× ×˜×©×¨×Ö¸× ×Ö¸×•×¡ events (×¢×•×•×¢× ×˜ ×•×™×˜×Ö¸×‘×•×¡): ** ×“×™ ×”×•×™×¤×˜ × ×¢×¨×•×•×¢×– ×¡×™×¡×˜×¢× ×¤×•×Ÿ Nexus Gaja ×¤Ö¿×Ö·×¨ ×“×™×§×Ö¸×•×¤Ö¼×Ö·×œ×“ ×¤Ö¼×¨×Ö·×¡×¢×¡×Ö·×– (×œ×ž×©×œ, 'Message.Created' ×˜×¨×™×’×¢×¨×– ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ, ××™×‘×¢×¨×–×¢×¦×•× ×’ ××•×Ÿ ×Ö¸× ×–×Ö¸×’ ×™×™×¡×™× ×’×§×¨×Ö·× ×Ö·×¡×œ×™).
+- ** ×¤×Ö·×§×˜×™×©-×¦×™×™×˜ (WebSocket): ** ×“×¢×“×Ö·×§×™×™×˜×Ö·×“ ×˜×©×Ö·× ×Ö·×œ×– ×¤Ö¿×Ö·×¨ ×œ×¢×‘×Ÿ ×©×ž×•×¢×¡×Ÿ ××•×Ÿ ×˜×™×™×¤Ö¼×™× ×’ ×¡×˜×Ö·×˜×•×¡.
 
-### זיכערהייט און רילייאַבילאַטי
-- ** נול טראַסט מאָדעל: ** אינערלעכער נעץ פאַרקער איז נישט אויטאָמאַטיש טראַסטיד; שפּירעוודיק דינסט-צו-דינסט קאָמוניקאַציע ריקווייערז אָטענטאַקיישאַן.
-- ** ידעמפּאָטענסע & אָוטבאָקס מוסטער: ** קריטיש אַפּעריישאַנז (אַזאַ ווי דאָוניישאַנז אָדער אַרטיקלען) זענען דיזיינד צו זיין יידעמפּאַטאַנט צו פאַרמייַדן קייפל פּראַסעסינג און נוצן די אָוטבאָקס מוסטער צו ענשור אַז געשעענישן זענען נישט פאַרפאַלן אפילו אין דייטאַבייס טראַנזאַקשאַנז.
+### ×–×™×›×¢×¨×”×™×™×˜ ××•×Ÿ ×¨×™×œ×™×™×Ö·×‘×™×œ×Ö·×˜×™
+- ** × ×•×œ ×˜×¨×Ö·×¡×˜ ×ž×Ö¸×“×¢×œ: ** ××™× ×¢×¨×œ×¢×›×¢×¨ × ×¢×¥ ×¤×Ö·×¨×§×¢×¨ ××™×– × ×™×©×˜ ××•×™×˜×Ö¸×ž×Ö·×˜×™×© ×˜×¨×Ö·×¡×˜×™×“; ×©×¤Ö¼×™×¨×¢×•×•×“×™×§ ×“×™× ×¡×˜-×¦×•-×“×™× ×¡×˜ ×§×Ö¸×ž×•× ×™×§×Ö·×¦×™×¢ ×¨×™×§×•×•×™×™×¢×¨×– ×Ö¸×˜×¢× ×˜×Ö·×§×™×™×©×Ö·×Ÿ.
+- ** ×™×“×¢×ž×¤Ö¼×Ö¸×˜×¢× ×¡×¢ & ×Ö¸×•×˜×‘×Ö¸×§×¡ ×ž×•×¡×˜×¢×¨: ** ×§×¨×™×˜×™×© ×Ö·×¤Ö¼×¢×¨×™×™×©×Ö·× ×– (×Ö·×–×Ö· ×•×•×™ ×“×Ö¸×•× ×™×™×©×Ö·× ×– ×Ö¸×“×¢×¨ ×Ö·×¨×˜×™×§×œ×¢×Ÿ) ×–×¢× ×¢×Ÿ ×“×™×–×™×™× ×“ ×¦×• ×–×™×™×Ÿ ×™×™×“×¢×ž×¤Ö¼×Ö·×˜×Ö·× ×˜ ×¦×• ×¤×Ö·×¨×ž×™×™Ö·×“×Ÿ ×§×™×™×¤×œ ×¤Ö¼×¨×Ö·×¡×¢×¡×™× ×’ ××•×Ÿ × ×•×¦×Ÿ ×“×™ ×Ö¸×•×˜×‘×Ö¸×§×¡ ×ž×•×¡×˜×¢×¨ ×¦×• ×¢× ×©×•×¨ ×Ö·×– ×’×¢×©×¢×¢× ×™×©×Ÿ ×–×¢× ×¢×Ÿ × ×™×©×˜ ×¤×Ö·×¨×¤×Ö·×œ×Ÿ ××¤×™×œ×• ××™×Ÿ ×“×™×™×˜×Ö·×‘×™×™×¡ ×˜×¨×Ö·× ×–×Ö·×§×©×Ö·× ×–.
 
-## MVP פעלד מאָדעל (WP 1.12)
+## MVP ×¤×¢×œ×“ ×ž×Ö¸×“×¢×œ (WP 1.12)
 
-![נעקסוס גאַדזשאַ מאָדולאַר מאָנאָליטה](assets/img/nexus_architecture.jpg)
+![× ×¢×§×¡×•×¡ ×’×Ö·×“×–×©×Ö· ×ž×Ö¸×“×•×œ×Ö·×¨ ×ž×Ö¸× ×Ö¸×œ×™×˜×”](assets/img/nexus_architecture.jpg)
 
-Nexus Gaja ניצט אַ שטרענג פעלד-געטריבן MVP אַרקאַטעקטשער (ADR-025), דיזיינד ווי אַ מאַדזשאַלער מאַנאַליט מיט קלאָר פעלד באַונדריז. די סטרוקטור פּריווענץ פרי קאַמפּלעקסיטי פון מיקראָסערוויס בשעת מיינטיינינג די בייגיקייט צו אַוצאָרס ספּעציפיש דאָומיינז שפּעטער.
+Nexus Gaja × ×™×¦×˜ ×Ö· ×©×˜×¨×¢× ×’ ×¤×¢×œ×“-×’×¢×˜×¨×™×‘×Ÿ MVP ×Ö·×¨×§×Ö·×˜×¢×§×˜×©×¢×¨ (ADR-025), ×“×™×–×™×™× ×“ ×•×•×™ ×Ö· ×ž×Ö·×“×–×©×Ö·×œ×¢×¨ ×ž×Ö·× ×Ö·×œ×™×˜ ×ž×™×˜ ×§×œ×Ö¸×¨ ×¤×¢×œ×“ ×‘×Ö·×•× ×“×¨×™×–. ×“×™ ×¡×˜×¨×•×§×˜×•×¨ ×¤Ö¼×¨×™×•×•×¢× ×¥ ×¤×¨×™ ×§×Ö·×ž×¤Ö¼×œ×¢×§×¡×™×˜×™ ×¤×•×Ÿ ×ž×™×§×¨×Ö¸×¡×¢×¨×•×•×™×¡ ×‘×©×¢×ª ×ž×™×™× ×˜×™×™× ×™× ×’ ×“×™ ×‘×™×™×’×™×§×™×™×˜ ×¦×• ×Ö·×•×¦×Ö¸×¨×¡ ×¡×¤Ö¼×¢×¦×™×¤×™×© ×“×Ö¸×•×ž×™×™× ×– ×©×¤Ö¼×¢×˜×¢×¨.
 
-### טעכניש האַרץ ענטיטיז
-די אַרקאַטעקטשער שטרענג סעפּערייץ קאַנסעפּס צו ענשור דאַטן אָרנטלעכקייַט און ויסמיידן ערראָרס אַזאַ ווי "באַניצער נאָמען = מענטש":
-- ** אידענטיטעט & אַקאַונץ:** 'מענטש' ≠ 'באַניצער אַקאַונט' ≠ 'אידענטיטעט וועראַפאַקיישאַן'. א וועראַפייד מענטש פּאַרטיסאַפּייץ דורך איין חשבון, אָבער די ענטיטיז בלייבן באַזונדער.
-- **קאָמוניקאַציע:** 'מעסעדזש' ≠ 'איבערזעצונג'. דער אָריגינעל אָנזאָג איז ימיוטאַבאַל; איבערזעצונגען זענען לינגקט ענטיטיז.
-- **מאַדעריישאַן:** `רעפּאָרט` ≠ `מאַדעריישאַן באַשלוס`. א אָנזאָג איז נאָר אַן אָנווייַז; א מאָדעראַטאָר פירט די ויספאָרשונג.
-- ** פינאַנצן:** `דאָנאַטיאָן` ≠ `פאָנד באַלאַנס`. פּיימאַנץ זענען אַנטשיינדזשד צו אַ פאָנד דורך אַ לעדזשער (געלט בוך).
+### ×˜×¢×›× ×™×© ×”×Ö·×¨×¥ ×¢× ×˜×™×˜×™×–
+×“×™ ×Ö·×¨×§×Ö·×˜×¢×§×˜×©×¢×¨ ×©×˜×¨×¢× ×’ ×¡×¢×¤Ö¼×¢×¨×™×™×¥ ×§×Ö·× ×¡×¢×¤Ö¼×¡ ×¦×• ×¢× ×©×•×¨ ×“×Ö·×˜×Ÿ ×Ö¸×¨× ×˜×œ×¢×›×§×™×™Ö·×˜ ××•×Ÿ ×•×™×¡×ž×™×™×“×Ÿ ×¢×¨×¨×Ö¸×¨×¡ ×Ö·×–×Ö· ×•×•×™ "×‘×Ö·× ×™×¦×¢×¨ × ×Ö¸×ž×¢×Ÿ = ×ž×¢× ×˜×©":
+- ** ××™×“×¢× ×˜×™×˜×¢×˜ & ×Ö·×§×Ö·×•× ×¥:** '×ž×¢× ×˜×©' â‰  '×‘×Ö·× ×™×¦×¢×¨ ×Ö·×§×Ö·×•× ×˜' â‰  '××™×“×¢× ×˜×™×˜×¢×˜ ×•×•×¢×¨×Ö·×¤×Ö·×§×™×™×©×Ö·×Ÿ'. × ×•×•×¢×¨×Ö·×¤×™×™×“ ×ž×¢× ×˜×© ×¤Ö¼×Ö·×¨×˜×™×¡×Ö·×¤Ö¼×™×™×¥ ×“×•×¨×š ××™×™×Ÿ ×—×©×‘×•×Ÿ, ×Ö¸×‘×¢×¨ ×“×™ ×¢× ×˜×™×˜×™×– ×‘×œ×™×™×‘×Ÿ ×‘×Ö·×–×•× ×“×¢×¨.
+- **×§×Ö¸×ž×•× ×™×§×Ö·×¦×™×¢:** '×ž×¢×¡×¢×“×–×©' â‰  '××™×‘×¢×¨×–×¢×¦×•× ×’'. ×“×¢×¨ ×Ö¸×¨×™×’×™× ×¢×œ ×Ö¸× ×–×Ö¸×’ ××™×– ×™×ž×™×•×˜×Ö·×‘×Ö·×œ; ××™×‘×¢×¨×–×¢×¦×•× ×’×¢×Ÿ ×–×¢× ×¢×Ÿ ×œ×™× ×’×§×˜ ×¢× ×˜×™×˜×™×–.
+- **×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ:** `×¨×¢×¤Ö¼×Ö¸×¨×˜` â‰  `×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ ×‘×Ö·×©×œ×•×¡`. × ×Ö¸× ×–×Ö¸×’ ××™×– × ×Ö¸×¨ ×Ö·×Ÿ ×Ö¸× ×•×•×™×™Ö·×–; × ×ž×Ö¸×“×¢×¨×Ö·×˜×Ö¸×¨ ×¤×™×¨×˜ ×“×™ ×•×™×¡×¤×Ö¸×¨×©×•× ×’.
+- ** ×¤×™× ×Ö·× ×¦×Ÿ:** `×“×Ö¸× ×Ö·×˜×™×Ö¸×Ÿ` â‰  `×¤×Ö¸× ×“ ×‘×Ö·×œ×Ö·× ×¡`. ×¤Ö¼×™×™×ž×Ö·× ×¥ ×–×¢× ×¢×Ÿ ×Ö·× ×˜×©×™×™× ×“×–×©×“ ×¦×• ×Ö· ×¤×Ö¸× ×“ ×“×•×¨×š ×Ö· ×œ×¢×“×–×©×¢×¨ (×’×¢×œ×˜ ×‘×•×š).
 
-### קאָננעקטעד ונטערטעניק דאָומיינז
-די סיסטעם איז צעטיילט אין לאַדזשיקאַל דאָומיינז (באַגראַנד קאַנטעקסץ): אידענטיטעט, אַקאַונט, אָרגאַניזאַציע, קאָמוניקאַציע, קאַמיוניטי, שפּראַך, מאַדעריישאַן, אָנזאָג, פינאַנצן און גאַווערנאַנס. זיי פאָרשטעלן די גאנצע קייט פון פאַקטיש אַקטערז (ניצערס, שולן, גאָוז) צו זייער דיגיטאַל ינטעראַקשאַנז.
+### ×§×Ö¸× × ×¢×§×˜×¢×“ ×•× ×˜×¢×¨×˜×¢× ×™×§ ×“×Ö¸×•×ž×™×™× ×–
+×“×™ ×¡×™×¡×˜×¢× ××™×– ×¦×¢×˜×™×™×œ×˜ ××™×Ÿ ×œ×Ö·×“×–×©×™×§×Ö·×œ ×“×Ö¸×•×ž×™×™× ×– (×‘×Ö·×’×¨×Ö·× ×“ ×§×Ö·× ×˜×¢×§×¡×¥): ××™×“×¢× ×˜×™×˜×¢×˜, ×Ö·×§×Ö·×•× ×˜, ×Ö¸×¨×’×Ö·× ×™×–×Ö·×¦×™×¢, ×§×Ö¸×ž×•× ×™×§×Ö·×¦×™×¢, ×§×Ö·×ž×™×•× ×™×˜×™, ×©×¤Ö¼×¨×Ö·×š, ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ, ×Ö¸× ×–×Ö¸×’, ×¤×™× ×Ö·× ×¦×Ÿ ××•×Ÿ ×’×Ö·×•×•×¢×¨× ×Ö·× ×¡. ×–×™×™ ×¤×Ö¸×¨×©×˜×¢×œ×Ÿ ×“×™ ×’×× ×¦×¢ ×§×™×™×˜ ×¤×•×Ÿ ×¤×Ö·×§×˜×™×© ×Ö·×§×˜×¢×¨×– (× ×™×¦×¢×¨×¡, ×©×•×œ×Ÿ, ×’×Ö¸×•×–) ×¦×• ×–×™×™×¢×¨ ×“×™×’×™×˜×Ö·×œ ×™× ×˜×¢×¨×Ö·×§×©×Ö·× ×–.
 
-## פּראָיעקט סטאַטוס
-די פּרויעקט איז אין די אַקטיוו אַרקאַטעקטשער און פּלאַנירונג פאַסע.
-אָנגאָינג אַרקאַטעקטשעראַל דיסיזשאַנז זענען דאַקיומענטאַד אין די `/ דאָקס` טעקע.
+## ×¤Ö¼×¨×Ö¸×™×¢×§×˜ ×¡×˜×Ö·×˜×•×¡
+×“×™ ×¤Ö¼×¨×•×™×¢×§×˜ ××™×– ××™×Ÿ ×“×™ ×Ö·×§×˜×™×•×• ×Ö·×¨×§×Ö·×˜×¢×§×˜×©×¢×¨ ××•×Ÿ ×¤Ö¼×œ×Ö·× ×™×¨×•× ×’ ×¤×Ö·×¡×¢.
+×Ö¸× ×’×Ö¸×™× ×’ ×Ö·×¨×§×Ö·×˜×¢×§×˜×©×¢×¨×Ö·×œ ×“×™×¡×™×–×©×Ö·× ×– ×–×¢× ×¢×Ÿ ×“×Ö·×§×™×•×ž×¢× ×˜×Ö·×“ ××™×Ÿ ×“×™ `/ ×“×Ö¸×§×¡` ×˜×¢×§×¢.
 
 ---
 
-## ליסענסע & אינטעלעקטואַל פאַרמאָג
+## ×œ×™×¡×¢× ×¡×¢ & ××™× ×˜×¢×œ×¢×§×˜×•×Ö·×œ ×¤×Ö·×¨×ž×Ö¸×’
 
-> **© 2024-2026 SonnerStudio - Jan Friske גרינדער, באַזיצער, דירעקטאָר און הויפּט דיזיינער פון SonnerStudio - כל רעכט רעזערווירט.**
+> **Â© 2024-2026 SonnerStudio - Jan Friske ×’×¨×™× ×“×¢×¨, ×‘×Ö·×–×™×¦×¢×¨, ×“×™×¨×¢×§×˜×Ö¸×¨ ××•×Ÿ ×”×•×™×¤Ö¼×˜ ×“×™×–×™×™× ×¢×¨ ×¤×•×Ÿ SonnerStudio - ×›×œ ×¨×¢×›×˜ ×¨×¢×–×¢×¨×•×•×™×¨×˜.**
 
-**Nexus Gaja** איז די ויסשליסיק אינטעלעקטואַל פאַרמאָג פון **Jan Friske**, אַפּערייטינג אונטער **SonnerStudio**.
+**Nexus Gaja** ××™×– ×“×™ ×•×™×¡×©×œ×™×¡×™×§ ××™× ×˜×¢×œ×¢×§×˜×•×Ö·×œ ×¤×Ö·×¨×ž×Ö¸×’ ×¤×•×Ÿ **Jan Friske**, ×Ö·×¤Ö¼×¢×¨×™×™×˜×™× ×’ ××•× ×˜×¢×¨ **SonnerStudio**.
 
-Jan Friske איז דער איינציקער שאַפֿער, אַרכיטעקט און באַזיצער פון Nexus Gaja - אַרייַנגערעכנט אַלע קאַנסעפּס, אַרקאַטעקטשערז, פעלד מאָדעלס, סאָרט אידענטיטעט און פֿאַרבונדענע דאַקיומענטיישאַן.
+Jan Friske ××™×– ×“×¢×¨ ××™×™× ×¦×™×§×¢×¨ ×©×Ö·×¤Ö¿×¢×¨, ×Ö·×¨×›×™×˜×¢×§×˜ ××•×Ÿ ×‘×Ö·×–×™×¦×¢×¨ ×¤×•×Ÿ Nexus Gaja - ×Ö·×¨×™×™Ö·× ×’×¢×¨×¢×›× ×˜ ×Ö·×œ×¢ ×§×Ö·× ×¡×¢×¤Ö¼×¡, ×Ö·×¨×§×Ö·×˜×¢×§×˜×©×¢×¨×–, ×¤×¢×œ×“ ×ž×Ö¸×“×¢×œ×¡, ×¡×Ö¸×¨×˜ ××™×“×¢× ×˜×™×˜×¢×˜ ××•×Ÿ ×¤Ö¿×Ö·×¨×‘×•× ×“×¢× ×¢ ×“×Ö·×§×™×•×ž×¢× ×˜×™×™×©×Ö·×Ÿ.
 
-** קיין רעכט, לייסאַנסיז אָדער פּראַפּרייאַטערי אינטערעסן זענען געגעבן צו קיין דריט פּאַרטיי** ראַגאַרדלאַס פון זייער גרייס, מאַרק שטעלע אָדער השפּעה אין די טעכנאָלאָגיע אינדוסטריע.
+** ×§×™×™×Ÿ ×¨×¢×›×˜, ×œ×™×™×¡×Ö·× ×¡×™×– ×Ö¸×“×¢×¨ ×¤Ö¼×¨×Ö·×¤Ö¼×¨×™×™×Ö·×˜×¢×¨×™ ××™× ×˜×¢×¨×¢×¡×Ÿ ×–×¢× ×¢×Ÿ ×’×¢×’×¢×‘×Ÿ ×¦×• ×§×™×™×Ÿ ×“×¨×™×˜ ×¤Ö¼×Ö·×¨×˜×™×™** ×¨×Ö·×’×Ö·×¨×“×œ×Ö·×¡ ×¤×•×Ÿ ×–×™×™×¢×¨ ×’×¨×™×™×¡, ×ž×Ö·×¨×§ ×©×˜×¢×œ×¢ ×Ö¸×“×¢×¨ ×”×©×¤Ö¼×¢×” ××™×Ÿ ×“×™ ×˜×¢×›× ×Ö¸×œ×Ö¸×’×™×¢ ××™× ×“×•×¡×˜×¨×™×¢.
 
-### וואָס איז ניט דערלויבט אָן אויסדריקן געשריבן צושטימען:
-- ❌ נאָכמאַכן, רעפּראָדוצירן אָדער פאַרשפּרייטן די ווייכווארג אָדער זייַן דאַקיומענטיישאַן
-- ❌ מאָדיפיצירן, אַדאַפּט אָדער שאַפֿן דעריוואַט ווערק
-- ❌ געשעפט נוצן פון קיין טייל פון Nexus Gaja
-- ❌ נוצן פון ריפּאַזאַטאָרי אינהאַלט ווי ** טריינינג דאַטן פֿאַר AI / LLM סיסטעמען**
-- ❌ סאַבליסענסע אָדער אַריבערפירן פון רעכט צו דריט פּאַרטיעס
+### ×•×•×Ö¸×¡ ××™×– × ×™×˜ ×“×¢×¨×œ×•×™×‘×˜ ×Ö¸×Ÿ ××•×™×¡×“×¨×™×§×Ÿ ×’×¢×©×¨×™×‘×Ÿ ×¦×•×©×˜×™×ž×¢×Ÿ:
+- âŒ × ×Ö¸×›×ž×Ö·×›×Ÿ, ×¨×¢×¤Ö¼×¨×Ö¸×“×•×¦×™×¨×Ÿ ×Ö¸×“×¢×¨ ×¤×Ö·×¨×©×¤Ö¼×¨×™×™×˜×Ÿ ×“×™ ×•×•×™×™×›×•×•××¨×’ ×Ö¸×“×¢×¨ ×–×™×™Ö·×Ÿ ×“×Ö·×§×™×•×ž×¢× ×˜×™×™×©×Ö·×Ÿ
+- âŒ ×ž×Ö¸×“×™×¤×™×¦×™×¨×Ÿ, ×Ö·×“×Ö·×¤Ö¼×˜ ×Ö¸×“×¢×¨ ×©×Ö·×¤Ö¿×Ÿ ×“×¢×¨×™×•×•×Ö·×˜ ×•×•×¢×¨×§
+- âŒ ×’×¢×©×¢×¤×˜ × ×•×¦×Ÿ ×¤×•×Ÿ ×§×™×™×Ÿ ×˜×™×™×œ ×¤×•×Ÿ Nexus Gaja
+- âŒ × ×•×¦×Ÿ ×¤×•×Ÿ ×¨×™×¤Ö¼×Ö·×–×Ö·×˜×Ö¸×¨×™ ××™× ×”×Ö·×œ×˜ ×•×•×™ ** ×˜×¨×™×™× ×™× ×’ ×“×Ö·×˜×Ÿ ×¤Ö¿×Ö·×¨ AI / LLM ×¡×™×¡×˜×¢×ž×¢×Ÿ**
+- âŒ ×¡×Ö·×‘×œ×™×¡×¢× ×¡×¢ ×Ö¸×“×¢×¨ ×Ö·×¨×™×‘×¢×¨×¤×™×¨×Ÿ ×¤×•×Ÿ ×¨×¢×›×˜ ×¦×• ×“×¨×™×˜ ×¤Ö¼×Ö·×¨×˜×™×¢×¡
 
-### באשיצטע אינטעלעקטועלע פארמעגן
-די פאלגענדע אָריגינעל קאַנסעפּס זענען פּראָטעקטעד ווי האַנדל סיקריץ און פּראַפּרייאַטערי קרייישאַנז פון Jan Friske:
-- די מולטי-לייערד קאָמוניקאַציע מאָדעל *(אָריגינעל / סעמאַנטיק ינטערפּרעטאַטיאָן / איבערגעזעצט אַדישאַן)*
-- דער פּרינציפּ פון אידענטיטעט צעשיידונג *(מענטש ≠ באַניצער חשבון ≠ אידענטיטעט וועראַפאַקיישאַן)*
-- די דעקאָופּלינג מאָדעל פון אָנזאָג-איבערזעצונג *(אָנזאָג ≠ איבערזעצונג)*
-- די AI מאַדעריישאַן גאַווערנאַנס פריימווערק
+### ×‘××©×™×¦×˜×¢ ××™× ×˜×¢×œ×¢×§×˜×•×¢×œ×¢ ×¤××¨×ž×¢×’×Ÿ
+×“×™ ×¤××œ×’×¢× ×“×¢ ×Ö¸×¨×™×’×™× ×¢×œ ×§×Ö·× ×¡×¢×¤Ö¼×¡ ×–×¢× ×¢×Ÿ ×¤Ö¼×¨×Ö¸×˜×¢×§×˜×¢×“ ×•×•×™ ×”×Ö·× ×“×œ ×¡×™×§×¨×™×¥ ××•×Ÿ ×¤Ö¼×¨×Ö·×¤Ö¼×¨×™×™×Ö·×˜×¢×¨×™ ×§×¨×™×™×™×©×Ö·× ×– ×¤×•×Ÿ Jan Friske:
+- ×“×™ ×ž×•×œ×˜×™-×œ×™×™×¢×¨×“ ×§×Ö¸×ž×•× ×™×§×Ö·×¦×™×¢ ×ž×Ö¸×“×¢×œ *(×Ö¸×¨×™×’×™× ×¢×œ / ×¡×¢×ž×Ö·× ×˜×™×§ ×™× ×˜×¢×¨×¤Ö¼×¨×¢×˜×Ö·×˜×™×Ö¸×Ÿ / ××™×‘×¢×¨×’×¢×–×¢×¦×˜ ×Ö·×“×™×©×Ö·×Ÿ)*
+- ×“×¢×¨ ×¤Ö¼×¨×™× ×¦×™×¤Ö¼ ×¤×•×Ÿ ××™×“×¢× ×˜×™×˜×¢×˜ ×¦×¢×©×™×™×“×•× ×’ *(×ž×¢× ×˜×© â‰  ×‘×Ö·× ×™×¦×¢×¨ ×—×©×‘×•×Ÿ â‰  ××™×“×¢× ×˜×™×˜×¢×˜ ×•×•×¢×¨×Ö·×¤×Ö·×§×™×™×©×Ö·×Ÿ)*
+- ×“×™ ×“×¢×§×Ö¸×•×¤Ö¼×œ×™× ×’ ×ž×Ö¸×“×¢×œ ×¤×•×Ÿ ×Ö¸× ×–×Ö¸×’-××™×‘×¢×¨×–×¢×¦×•× ×’ *(×Ö¸× ×–×Ö¸×’ â‰  ××™×‘×¢×¨×–×¢×¦×•× ×’)*
+- ×“×™ AI ×ž×Ö·×“×¢×¨×™×™×©×Ö·×Ÿ ×’×Ö·×•×•×¢×¨× ×Ö·× ×¡ ×¤×¨×™×™×ž×•×•×¢×¨×§
 
-### קאָנטאַקט
-פֿאַר דערלויבעניש ינקוועריז: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+### ×§×Ö¸× ×˜×Ö·×§×˜
+×¤Ö¿×Ö·×¨ ×“×¢×¨×œ×•×™×‘×¢× ×™×© ×™× ×§×•×•×¢×¨×™×–: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-* "Nexus Gaja" און די Nexus Gaja לאָגאָ זענען טריידמאַרקס פון Jan Friske. אַנאָטערייזד נוצן פון דעם נאָמען אָדער טריידמאַרק איז פּראָוכיבאַטאַד.*
+* "Nexus Gaja" ××•×Ÿ ×“×™ Nexus Gaja ×œ×Ö¸×’×Ö¸ ×–×¢× ×¢×Ÿ ×˜×¨×™×™×“×ž×Ö·×¨×§×¡ ×¤×•×Ÿ Jan Friske. ×Ö·× ×Ö¸×˜×¢×¨×™×™×–×“ × ×•×¦×Ÿ ×¤×•×Ÿ ×“×¢× × ×Ö¸×ž×¢×Ÿ ×Ö¸×“×¢×¨ ×˜×¨×™×™×“×ž×Ö·×¨×§ ××™×– ×¤Ö¼×¨×Ö¸×•×›×™×‘×Ö·×˜×Ö·×“.*
 
-➡️ גאַנץ דערלויבעניש טערמינען אין [ליסענסע] (ליסענסע)
+âž¡ï¸ ×’×Ö·× ×¥ ×“×¢×¨×œ×•×™×‘×¢× ×™×© ×˜×¢×¨×ž×™× ×¢×Ÿ ××™×Ÿ [×œ×™×¡×¢× ×¡×¢] (×œ×™×¡×¢× ×¡×¢)

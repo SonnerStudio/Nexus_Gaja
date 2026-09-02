@@ -1,4 +1,4 @@
-# Nexus Gaja
+﻿# Nexus Gaja
 
 > *Nazioarteko bakearen eta nazioarteko ulermenaren alde*
 
@@ -6,17 +6,19 @@
 ![Nexus Gaja Logotipoa](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
 
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 
@@ -28,7 +30,7 @@
 
 Mundu globalizatu batean, hizkuntza izaten da oztoporik handiena. Nexus Gaja-ren helburu nagusia pertsonen arteko komunikazio egokia, irisgarria eta testuinguru zehatza ahalbidetzea da, hizkuntza arrunt bat hitz egiten duten ala ez. 
 
-Ez da hitzak burugogorra itzultzea bakarrik, **esanahia transferitzea** baizik. Nexus Gaja-k jendea maila sakonago batean konektatzen du, kultura, eskualde eta testuinguruko ñabardurak ulertuz, elkarrizketa errealak eta benetakoak ahalbidetuz.
+Ez da hitzak burugogorra itzultzea bakarrik, **esanahia transferitzea** baizik. Nexus Gaja-k jendea maila sakonago batean konektatzen du, kultura, eskualde eta testuinguruko Ã±abardurak ulertuz, elkarrizketa errealak eta benetakoak ahalbidetuz.
 
 ## Aukerak eta ezaugarriak
 - **Multimedia komunikazioa**: sistemak testua ez ezik, irudiak, audioak eta bideoak ere prozesatzen ditu. Horrek guztiz murgiltzeko elkarrizketak ahalbidetzen ditu (adibidez, bideo-deiak edo ahots-mezuak) denbora errealean hizkuntza-mugetan zehar.
@@ -49,7 +51,7 @@ Nexus Gaja-ren muin teknikoa norberak garatutako komunikazio-eredu bat da, zorro
 
 ### Testuinguruaren menpekotasuna
 Itzulpenek ez dituzte inoiz Nexus Gajan albisteak modu isolatuan ikusten. Motorrak hierarkia osoa hartzen du kontuan:
-`Mezua` → `Aurreko mezuak` → `Hariaren testuingurua` → `Komunitatearen testuingurua` → `Hizkuntza / Eskualdea` → `Erabiltzaileen hobespenak`
+`Mezua` â†’ `Aurreko mezuak` â†’ `Hariaren testuingurua` â†’ `Komunitatearen testuingurua` â†’ `Hizkuntza / Eskualdea` â†’ `Erabiltzaileen hobespenak`
 
 ### Eraginkortasuna eskariaren araberako itzulpenaren bidez
 Itzulpena **deitzen denean** bakarrik egiten da (eskaeran) baliabideak aurrezteko moduan. Erabiltzaile batek edukia eskatzen duenean, bere hizkuntza lehenetsira itzultzen da. Hizkuntza zehatz baterako itzulpenak betirako gordetzen dira (caching) geroko kontsultak izugarri bizkortzeko.
@@ -73,38 +75,38 @@ Hirugarren maila gizatasunez kontrolatu behar da kasu larrietan.
 AI bakarraren ordez, azpisistema sendo bat ezartzen da:
 ```testua
                  NEXUS GAJA AI MODERAZIOA
-                          │
-       ┌────────────────── ┼──────────────────┐
-       │ │ │
+                          â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â”‚ â”‚ â”‚
   Language AI Safety AI Fraud AI
-       │ │ │
-       ├──────────────┬─── ┴──────────────┬───┤
-       │ │ │
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€ â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”¤
+       â”‚ â”‚ â”‚
  Itzulpen-jokabidearen identitatea
  Analisia Analisi Seinaleak
-       │ │ │
-       └──────────────┼────────────────────
-                      ▼
+       â”‚ â”‚ â”‚
+       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+                      â–¼
                Arriskuen ebaluazioa
-                      │
-                      ▼
+                      â”‚
+                      â–¼
                Giza Iritzia
 ```
 
 ### 3. AI modulu garrantzitsuenak
 Nexus Gaja-rako bederatzi analisi-eremu espezializatu daude:
-- **M1 – Hizkuntzaren ulermena**: hizkuntza, dialektoa, argota, ironia adierazleak, itzulpen arazoak detektatzen ditu.
-- **M2 – Toxikotasuna / Tratu txarren detekzioa**: irainak, eraso pertsonalak, jazarpena detektatzen ditu.
-- **M3 – Mehatxuak hautematea**: mehatxuak, xantaiak eta indarkeria-mehatxuak antzematen ditu.
-- **M4 – Gorrotoa / Deshumanizazioaren detekzioa**: afiliazio zehatzetan oinarritutako pertsonen aurkako eraso zuzenduak detektatzen ditu.
-- **M5 – Spam/Manipulazioa hautematea**: spam-a, bot jokabidea, manipulazio koordinatua detektatzen ditu.
-- **M6 – Iruzurren detekzioa**: iruzur saiakera susmagarriak, phishing, ingeniaritza soziala detektatzen ditu.
+- **M1 â€“ Hizkuntzaren ulermena**: hizkuntza, dialektoa, argota, ironia adierazleak, itzulpen arazoak detektatzen ditu.
+- **M2 â€“ Toxikotasuna / Tratu txarren detekzioa**: irainak, eraso pertsonalak, jazarpena detektatzen ditu.
+- **M3 â€“ Mehatxuak hautematea**: mehatxuak, xantaiak eta indarkeria-mehatxuak antzematen ditu.
+- **M4 â€“ Gorrotoa / Deshumanizazioaren detekzioa**: afiliazio zehatzetan oinarritutako pertsonen aurkako eraso zuzenduak detektatzen ditu.
+- **M5 â€“ Spam/Manipulazioa hautematea**: spam-a, bot jokabidea, manipulazio koordinatua detektatzen ditu.
+- **M6 â€“ Iruzurren detekzioa**: iruzur saiakera susmagarriak, phishing, ingeniaritza soziala detektatzen ditu.
 - **M7 - Identity Integrity**: kontua hartzeari buruzko seinaleak egiaztatzen ditu, hainbat kontu, blokeen saihespena.
-- **M8 – Media Safety**: irudiak, audioak, bideoak, dokumentuak aztertzen ditu.
-- **M9 – Context Engine**: Modulu garrantzitsuena. Banakako aurkikuntzak biltzen ditu.
+- **M8 â€“ Media Safety**: irudiak, audioak, bideoak, dokumentuak aztertzen ditu.
+- **M9 â€“ Context Engine**: Modulu garrantzitsuena. Banakako aurkikuntzak biltzen ditu.
 
 ### 4. Zergatik da hain garrantzitsua Context Engine-a
-Hitz gakoen bilaketa hutsa ez litzateke nahikoa izango. “Barrez hil nezakeen” indarkeria semantikoa dakar, baina hitzezko figura bat da. "Bihar 20:00etan tiro egingo diot bere etxe aurrean" egoera guztiz ezberdina da. AIk ulertu behar du zer esan nahi duen adierazpenak testuinguru zehatz honetan.
+Hitz gakoen bilaketa hutsa ez litzateke nahikoa izango. â€œBarrez hil nezakeenâ€ indarkeria semantikoa dakar, baina hitzezko figura bat da. "Bihar 20:00etan tiro egingo diot bere etxe aurrean" egoera guztiz ezberdina da. AIk ulertu behar du zer esan nahi duen adierazpenak testuinguru zehatz honetan.
 
 ### 5. Moderazio eleanitza
 Moderazioak ezin ditu hitzak konparatu besterik gabe. Esanahi maila aztertu behar du (adibidez, alemaniar hizkerak vs japoniar hizkerak vs eskualdeko esamoldeak).
@@ -113,22 +115,22 @@ Moderazioak ezin ditu hitzak konparatu besterik gabe. Esanahi maila aztertu beha
 Jatorrizkoa eta itzulpena bereizita aztertzen dira. Orduan bakarrik egiten da "Moderazioaren Ebaluazio Konbinatua". Horrela, Nexus Gajak itzulpenak berak egoera larriagotu edo aldatu ote duen zehaztu dezake.
 
 ### 7. Konfiantza puntuazioa
-AI ebaluazio bakoitzak konfiantza-balio bat jasotzen du (adibidez, Mehatxu probabilitatea: 0,96). Baina: **Konfiantza puntuazioa ≠ Egia.** % 96ko puntuazioak ereduak bere sailkapenean oso konfiantza duela esan nahi du, ez zertan erabiltzailea erruduna denik.
+AI ebaluazio bakoitzak konfiantza-balio bat jasotzen du (adibidez, Mehatxu probabilitatea: 0,96). Baina: **Konfiantza puntuazioa â‰  Egia.** % 96ko puntuazioak ereduak bere sailkapenean oso konfiantza duela esan nahi du, ez zertan erabiltzailea erruduna denik.
 
 ### 8. Ziurgabetasuna bera seinale bihurtzen da
 AI ziurra ez bada (adibidez, Mehatxua: 0.62, Satira: 0.54), ezin du neurri gogorrak hartu. Horren ordez, ziurgabetasuna zuzenean sartzen da arkitekturan: **Giza berrikuspena behar da**.
 
 ### 9. Lau erabaki-eremu
-- 🟢 **BERDEA**: ziurrenik betetzen duena. → ekintzarik ez.
-- 🟡 **HORIA**: Baliteke urraketa. → behatu / ohartu behar izanez gero.
-- 🟠 **LARANJA**: Litekeena den urraketa. → Moderazioaren egiaztapena.
-- 🔴 **GORRIA**: Baliteke urraketa handia. → berehalako babes-neurria + giza proba.
+- ðŸŸ¢ **BERDEA**: ziurrenik betetzen duena. â†’ ekintzarik ez.
+- ðŸŸ¡ **HORIA**: Baliteke urraketa. â†’ behatu / ohartu behar izanez gero.
+- ðŸŸ  **LARANJA**: Litekeena den urraketa. â†’ Moderazioaren egiaztapena.
+- ðŸ”´ **GORRIA**: Baliteke urraketa handia. â†’ berehalako babes-neurria + giza proba.
 
 ### 10. Ez dago "AI zigorra"
 **AIk ez du behin betiko zigorrik ezartzen.** Larrialdiko neurri teknikoak abiaraz ditzake (adibidez, mezua gordetzea) segurtasun arazo larria izanez gero, baina azken erabakia egiaztagarria izaten jarraitzen du.
 
 ### 11. Babes neurriak automatikoak izan daitezke
-Mehatxu zehatz bat badago (Mehatxua hauteman da → Konfiantza handia → Aldi baterako murrizketa → Giza berrikuspena → Erabakia), mehatxatutako erabiltzailea babesten dugu AI-a epaile bihurtu gabe.
+Mehatxu zehatz bat badago (Mehatxua hauteman da â†’ Konfiantza handia â†’ Aldi baterako murrizketa â†’ Giza berrikuspena â†’ Erabakia), mehatxatutako erabiltzailea babesten dugu AI-a epaile bihurtu gabe.
 
 ### 12. AIak bere erabakia justifikatzeko gai izan behar du
 DSAk arrazoi argi eta zehatzak eskatzen ditu. AI arrazoiak modu egituratuan: Araua (NG-CONDUCT-004), Detektatua (mehatxu konkretu potentziala), Konfiantza (0.94), Testuinguru garrantzitsua (Aurreko 4 mezuak), Gomendatutako ekintza (Giza berrikuspena).
@@ -145,7 +147,7 @@ EBko AI Legearen gardentasun-arauen arabera (2026ko abuztutik), AI-k sortutako e
 ### 16. Deepfake detekzioa
 Arkitekturak irudi sintetikoak, ahots estimulatuak eta deepfakeak detektatzeko asmoa du. Baina aitorpena ez da automatikoki froga.
 
-### 17. Ez dago "egia-makina" automatikorik (moderazioa ≠ gertakarien egiaztapena)
+### 17. Ez dago "egia-makina" automatikorik (moderazioa â‰  gertakarien egiaztapena)
 Sistema batek egiaztatzen du: "Edukiak araurik urratzen al du?" (Edukien moderazioa), beste batek honako hau dio: "Zein informazio eta iturri daude?" (Informazio Laguntza). Iritziak ez dira "oker" gisa ezabatzen.
 
 ### 18. Kulturaren interpretazio okerraren aurkako babesa
@@ -205,13 +207,13 @@ Honek komunikazio espazioa uzten du: **Komunikazio espazioa publizitate espazioa
 Horren ordez, gure finantzaketa hainbat zutabe izan daiteke. Lehenik eta behin, sei zutabe proposatzen ditugu:
 ```testua
                  NEXUS GAJA
-                     │
-       ┌─────────────┼─────────────┐
-       ▼ ▼ ▼
+                     â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â–¼ â–¼ â–¼
    PREMIUM ERAKUNDEA DOHAINTZUA
-       │ │ │
-       ├─────────────┼─────────────┤
-       ▼ ▼ ▼
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+       â–¼ â–¼ â–¼
    LANKIDETZA ZERBITZUAK SUSTATZEA
 ```
 
@@ -220,23 +222,23 @@ Horren ordez, gure finantzaketa hainbat zutabe izan daiteke. Lehenik eta behin, 
 
 #### 2. zutabea - Premium eskaintzak
 Borondatezko ordaindutako eskaintzak (**Nexus Gaja Plus**). Abantail posibleak: biltegiratze-muga handiagoak, multimedia-kalitate handiagoa, bideo transmisio luzeagoak, itzulpen-funtzio hedatuak, komunitate handiagoak, antolakuntza-funtzio osagarriak, AI kuota handiagoak.
-**Freemium – baina ez “Dark Freemium”:** Doako bertsioa zentzuz erabil daiteke; Premiumek zabaltzen du.
+**Freemium â€“ baina ez â€œDark Freemiumâ€:** Doako bertsioa zentzuz erabil daiteke; Premiumek zabaltzen du.
 
-#### 3. zutabea – Erakundeak
+#### 3. zutabea â€“ Erakundeak
 **Nexus Gaja Erakundea:** Ikastetxe, unibertsitate, klub, GKE, enpresa, udal eta abarrentzako kontu bereziak, antolakuntza-kontu zentrala, kideen kudeaketa eta administrazio funtzioekin. (Adibidez: Ikastetxe batek ikasleen sarbidea doan edo instituzio-tarifa baten bidez jasotzen du).
 
-#### 4. zutabea – Dohaintzak
+#### 4. zutabea â€“ Dohaintzak
 **Nexus Gaja finantzaketa-funtsa:** Emaileek borondatez eman dezakete dirua (dohaintza orokorrak edo zehaztutakoak). 
 **Finantzazioa igerilekua eta tonbola:** Dohaintza edo deskontua erabilera dohaintza igerileku batetik finantzatzen da. Funtsen esleipen-liburu batek esleipena bermatzen du.
 ```testua
-DOAINTZAK → HELBURUKO FUNDA → HAUTABILTASUN MOTORRA → Sarbide librea / Deskontua / Kupoa
+DOAINTZAK â†’ HELBURUKO FUNDA â†’ HAUTABILTASUN MOTORRA â†’ Sarbide librea / Deskontua / Kupoa
 ```
 
-#### 5. zutabea – Erakundeen laguntza
+#### 5. zutabea â€“ Erakundeen laguntza
 Babesleak: Fundazioak, kultur finantzaketa programak, Estatuko finantzaketa programak.
 **NG-FIN-002 (Independentzia):** Finantzaketak ezin du erosi Nexus Gaja-ren gaineko kontrol editorial edo teknikoa.
 
-#### 6. zutabea – Zerbitzu komertzialak
+#### 6. zutabea â€“ Zerbitzu komertzialak
 Nexus Gaja-k B2B zerbitzuak eskain ditzake, hala nola **Translation-as-a-Service (API)**, itzulpen profesionala, erakundeen komunikazioa edo nazioarteko hitzaldi-aretoak, erabiltzaileen jario arrunta publizitatez zamatu gabe.
 
 ### 4. Ez da datuen marketinarik eta ez "zaintza-ekonomia"rik
@@ -245,7 +247,7 @@ Nexus Gaja-k ez du bere erabiltzaileei ahalik eta gehien kontrolatu eta psikolog
 
 ### 5. Finantza gardentasuna
 Nexus Gaja Finantza Gardentasuna: Diru-sarrerak kategorien, dohaintzaren bolumenaren, operazio-kostuen eta abarren arabera argitaratu daitezke. 
-**Finantziazio-liburua:** Xede zehatz baterako bideratutako dohaintzak kontabilitate modu ulergarrian erregistratzen dira (Dohaintza → Funtsaren ID → Xedea → Saldo erabilgarria → Esleipena). Gardentasunik gabe ez dago diru-laguntza gurutzaturik.
+**Finantziazio-liburua:** Xede zehatz baterako bideratutako dohaintzak kontabilitate modu ulergarrian erregistratzen dira (Dohaintza â†’ Funtsaren ID â†’ Xedea â†’ Saldo erabilgarria â†’ Esleipena). Gardentasunik gabe ez dago diru-laguntza gurutzaturik.
 
 ### 6. Prezioen eta finantzaketa solidarioaren eredua
 Prezioak honako hauetan oinarritzen dira: kostuen orientazioa, zuzentasuna eta elkartasuna.
@@ -254,42 +256,42 @@ Prezioak honako hauetan oinarritzen dira: kostuen orientazioa, zuzentasuna eta e
 ### 7. KPI ekonomikoa
 Ez gaude sareko denbora amaigabearen menpe (konpromisoaren ekonomia manipulatzailerik ez). Gure KPIak:
 - **Global Communication Index (GCI):** Zenbat komunikazio-harreman arrakastatsu sortzen dira eskualde linguistiko edo kultural ezberdinetako pertsonen artean?
-- **Platformen jasangarritasun-ratioa (PSR):** diru-sarrera errepikariak / ustiapen-kostu errepikariak (helburua: PSR ≥ 1).
+- **Platformen jasangarritasun-ratioa (PSR):** diru-sarrera errepikariak / ustiapen-kostu errepikariak (helburua: PSR â‰¥ 1).
 
 ### 8. Espresuki nahi ez duguna
 Nexus Gaja ez da honako hauek finantzatzen:
-❌ Informazio pertsonalaren salmenta
-❌ publizitate klasiko pertsonalizatua
-❌ Erabiltzaileen portaeraren jarraipena publizitate helburuetarako
-❌ Komunikazio pribatuko datuak saltzea
-❌ ezkutuko AI datuen erabilera
-❌ premium sarrailak manipulatiboak
-❌ Dirua irabazteko irismen artifizialaren muga
-❌ eragin politikoa ordaindua
-❌ Moderazio-erabaki pribilegiatuak erostea.
+âŒ Informazio pertsonalaren salmenta
+âŒ publizitate klasiko pertsonalizatua
+âŒ Erabiltzaileen portaeraren jarraipena publizitate helburuetarako
+âŒ Komunikazio pribatuko datuak saltzea
+âŒ ezkutuko AI datuen erabilera
+âŒ premium sarrailak manipulatiboak
+âŒ Dirua irabazteko irismen artifizialaren muga
+âŒ eragin politikoa ordaindua
+âŒ Moderazio-erabaki pribilegiatuak erostea.
 
 ### 9. Aurretiazko arkitektura
 ```testua
                          NEXUS GAJA
-                              │
-             ┌────────────────┼─────────────────
-             │ │ │
-             ▼ ▼ ▼
+                              â”‚
+             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+             â”‚ â”‚ â”‚
+             â–¼ â–¼ â–¼
           ERABILTZAILEEN ERAKUNDEAK ENPRESA
-             │ │ │
-             └────────────────┼──────────────────
-                              │
+             â”‚ â”‚ â”‚
+             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+                              â”‚
                        PLATAFORMA ZERBITZUAK
-                              │
-          ┌─────────────────── ┼───────────────────┐
-          ▼ ▼ ▼
+                              â”‚
+          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+          â–¼ â–¼ â–¼
        PREMIUM DOAZIOAK API
-                              │
-                    ┌─────────┴─────────┐
-                    ▼ ▼
+                              â”‚
+                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+                    â–¼ â–¼
                FONDO OROKORRA FONDO MUGATUAK
-                                        │
-                                        ▼
+                                        â”‚
+                                        â–¼
                                   HELBURU SOZIALA
 ```
 
@@ -331,10 +333,10 @@ Nexus Gaja-k zorrozki domeinuak gidatutako MVP arkitektura (ADR-025) erabiltzen 
 
 ### Oinarrizko entitate teknikoak
 Arkitekturak zorrozki bereizten ditu kontzeptuak datuen osotasuna bermatzeko eta "erabiltzaile izena = giza" bezalako akatsak saihesteko:
-- **Identitatea eta kontuak:** `Pertsona` ≠ `Erabiltzaile-kontua` ≠ `Identitatea egiaztatzea`. Egiaztatutako pertsona batek kontu baten bidez parte hartzen du, baina entitateek bereizita jarraitzen dute.
-- **Komunikazioa:** `Mezua` ≠ `Itzulpena`. Jatorrizko mezua aldaezina da; Itzulpenak loturiko entitateak dira.
-- **Moderazioa:** `Txostena` ≠ `Moderazio Erabakia`. Mezu bat zantzu bat besterik ez da; moderatzaile batek egiten du ikerketa.
-- **Finantza:** `Dohaintza` ≠ `Funtsaren Saldoa`. Ordainketak aldaezina den fondo batean argitaratzen dira liburu-liburu baten bidez (kutxa liburua).
+- **Identitatea eta kontuak:** `Pertsona` â‰  `Erabiltzaile-kontua` â‰  `Identitatea egiaztatzea`. Egiaztatutako pertsona batek kontu baten bidez parte hartzen du, baina entitateek bereizita jarraitzen dute.
+- **Komunikazioa:** `Mezua` â‰  `Itzulpena`. Jatorrizko mezua aldaezina da; Itzulpenak loturiko entitateak dira.
+- **Moderazioa:** `Txostena` â‰  `Moderazio Erabakia`. Mezu bat zantzu bat besterik ez da; moderatzaile batek egiten du ikerketa.
+- **Finantza:** `Dohaintza` â‰  `Funtsaren Saldoa`. Ordainketak aldaezina den fondo batean argitaratzen dira liburu-liburu baten bidez (kutxa liburua).
 
 ### Konektatutako gai-domeinuak
 Sistema domeinu logikoetan banatzen da (testuinguru mugatuak): Identitatea, Kontua, Antolaketa, Komunikazioa, Komunitatea, Hizkuntza, Moderazioa, Jakinarazpena, Finantza eta Gobernantza. Benetako eragileetatik (erabiltzaileak, eskolak, GKEak) kate osoa ordezkatzen dute euren interakzio digitaletaraino.
@@ -347,7 +349,7 @@ Etengabeko erabaki arkitektonikoak `/docs` karpetan dokumentatzen dira.
 
 ## Lizentzia eta Jabetza Intelektuala
 
-> **© 2024-2026 SonnerStudio - Jan Friske SonnerStudio-ren sortzailea, jabea, zuzendaria eta diseinatzaile nagusia — Eskubide guztiak erreserbatuta.**
+> **Â© 2024-2026 SonnerStudio - Jan Friske SonnerStudio-ren sortzailea, jabea, zuzendaria eta diseinatzaile nagusia â€” Eskubide guztiak erreserbatuta.**
 
 **Nexus Gaja** **Jan Friske**-ren jabetza intelektual esklusiboa da, **SonnerStudio** pean dihardu.
 
@@ -356,22 +358,22 @@ Jan Friske Nexus Gaja-ren sortzaile, arkitekto eta jabe bakarra da, kontzeptu, a
 **Ez zaio inolako eskubiderik, lizentziarik edo jabetza-interesik ematen hirugarren bati** edozein dela ere bere tamaina, merkatu-posizioa edo teknologia-industrian eragina.
 
 ### Zer EZ dago baimenduta idatzizko baimenik gabe:
-- ❌ Kopiatu, erreproduzitu edo banatu software hau edo haren dokumentazioa
-- ❌ Lan eratorriak aldatu, egokitu edo sortu
-- ❌ Nexus Gaja-ren edozein zatiren erabilera komertziala
-- ❌ Biltegiko edukia erabiltzea **AI/LLM sistemetarako prestakuntza-datu gisa**
-- ❌ Azpilizentzia edo eskubideak hirugarrenei lagatzea
+- âŒ Kopiatu, erreproduzitu edo banatu software hau edo haren dokumentazioa
+- âŒ Lan eratorriak aldatu, egokitu edo sortu
+- âŒ Nexus Gaja-ren edozein zatiren erabilera komertziala
+- âŒ Biltegiko edukia erabiltzea **AI/LLM sistemetarako prestakuntza-datu gisa**
+- âŒ Azpilizentzia edo eskubideak hirugarrenei lagatzea
 
 ### Jabetza intelektual babestua
 Jatorrizko kontzeptu hauek Jan Friskeren sekretu komertzial eta jabedun sorkuntza gisa babestuta daude:
 - Geruza anitzeko komunikazio eredua *(Jatorrizkoa / Interpretazio semantikoa / Edizio itzulia)*
-- Identitatea bereizteko printzipioa *(pertsona ≠ erabiltzaile-kontua ≠ identitate-egiaztapena)*
-- Mezu-itzulpena desakoplatzeko eredua *(mezua ≠ itzulpena)*
+- Identitatea bereizteko printzipioa *(pertsona â‰  erabiltzaile-kontua â‰  identitate-egiaztapena)*
+- Mezu-itzulpena desakoplatzeko eredua *(mezua â‰  itzulpena)*
 - AI moderazioaren gobernu-esparrua
 
 ### Harremanetarako
 Lizentzia kontsultak egiteko: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-*“Nexus Gaja” eta Nexus Gaja logotipoa Jan Friskeren marka komertzialak dira. Debekatuta dago izena edo marka erregistratua baimenik gabe erabiltzea.*
+*â€œNexus Gajaâ€ eta Nexus Gaja logotipoa Jan Friskeren marka komertzialak dira. Debekatuta dago izena edo marka erregistratua baimenik gabe erabiltzea.*
 
-➡️ Lizentziaren baldintza osoak [LIZENTZIA](LIZENTZIA) atalean
+âž¡ï¸ Lizentziaren baldintza osoak [LIZENTZIA](LIZENTZIA) atalean

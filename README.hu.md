@@ -1,170 +1,172 @@
-# Nexus Gaja
+﻿# Nexus Gaja
 
-> *A globális békéért és a kölcsönös megértésért*
+> *A globÃ¡lis bÃ©kÃ©Ã©rt Ã©s a kÃ¶lcsÃ¶nÃ¶s megÃ©rtÃ©sÃ©rt*
 
 
-![Nexus Gaja embléma](assets/logo.jpg)
+![Nexus Gaja emblÃ©ma](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
 
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 
-A **Nexus Gaja** egy intelligens, környezetérzékeny kommunikációs hálózat, amelyet a globális kommunikáció forradalmasítására terveztek.
+A **Nexus Gaja** egy intelligens, kÃ¶rnyezetÃ©rzÃ©keny kommunikÃ¡ciÃ³s hÃ¡lÃ³zat, amelyet a globÃ¡lis kommunikÃ¡ciÃ³ forradalmasÃ­tÃ¡sÃ¡ra terveztek.
 
 ## Purpose and Vision
 
 ![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
 
-A globalizált világban gyakran a nyelv jelenti a legnagyobb akadályt. A Nexus Gaja fő célja, hogy zökkenőmentes, akadálymentes és kontextus szerint pontos kommunikációt tegyen lehetővé az emberek között – függetlenül attól, hogy egy közös nyelvet beszélnek-e.
+A globalizÃ¡lt vilÃ¡gban gyakran a nyelv jelenti a legnagyobb akadÃ¡lyt. A Nexus Gaja fÅ‘ cÃ©lja, hogy zÃ¶kkenÅ‘mentes, akadÃ¡lymentes Ã©s kontextus szerint pontos kommunikÃ¡ciÃ³t tegyen lehetÅ‘vÃ© az emberek kÃ¶zÃ¶tt â€“ fÃ¼ggetlenÃ¼l attÃ³l, hogy egy kÃ¶zÃ¶s nyelvet beszÃ©lnek-e.
 
-Nem csak a szavak merev fordításáról van szó, hanem a **jelentés átadásáról**. A Nexus Gaja mélyebb szinten köti össze az embereket azáltal, hogy megérti a kulturális, regionális és kontextuális árnyalatokat, és ezáltal valódi, hiteles beszélgetéseket tesz lehetővé.
+Nem csak a szavak merev fordÃ­tÃ¡sÃ¡rÃ³l van szÃ³, hanem a **jelentÃ©s Ã¡tadÃ¡sÃ¡rÃ³l**. A Nexus Gaja mÃ©lyebb szinten kÃ¶ti Ã¶ssze az embereket azÃ¡ltal, hogy megÃ©rti a kulturÃ¡lis, regionÃ¡lis Ã©s kontextuÃ¡lis Ã¡rnyalatokat, Ã©s ezÃ¡ltal valÃ³di, hiteles beszÃ©lgetÃ©seket tesz lehetÅ‘vÃ©.
 
-## Lehetőségek és funkciók
-- **Multimédia kommunikáció**: A rendszer nemcsak szöveget, hanem képeket, hangot és videót is feldolgoz. Ez lehetővé teszi a teljes mértékben magával ragadó beszélgetéseket (például videohívásokat vagy hangüzeneteket) valós időben, a nyelvi korlátok között.
-- **Kontextusérzékenység**: Az irónia, az idiómák, a zsargon és a regionális nyelvjárások felismerése, amelyeket a hagyományos fordítók gyakran félreértenek.
-- **Platformos hálózat**: Privát csevegések, fórumszálak (megjegyzéseket tartalmazó bejegyzések) és globális közösségi interakciók alapjául szolgál.
+## LehetÅ‘sÃ©gek Ã©s funkciÃ³k
+- **MultimÃ©dia kommunikÃ¡ciÃ³**: A rendszer nemcsak szÃ¶veget, hanem kÃ©peket, hangot Ã©s videÃ³t is feldolgoz. Ez lehetÅ‘vÃ© teszi a teljes mÃ©rtÃ©kben magÃ¡val ragadÃ³ beszÃ©lgetÃ©seket (pÃ©ldÃ¡ul videohÃ­vÃ¡sokat vagy hangÃ¼zeneteket) valÃ³s idÅ‘ben, a nyelvi korlÃ¡tok kÃ¶zÃ¶tt.
+- **KontextusÃ©rzÃ©kenysÃ©g**: Az irÃ³nia, az idiÃ³mÃ¡k, a zsargon Ã©s a regionÃ¡lis nyelvjÃ¡rÃ¡sok felismerÃ©se, amelyeket a hagyomÃ¡nyos fordÃ­tÃ³k gyakran fÃ©lreÃ©rtenek.
+- **Platformos hÃ¡lÃ³zat**: PrivÃ¡t csevegÃ©sek, fÃ³rumszÃ¡lak (megjegyzÃ©seket tartalmazÃ³ bejegyzÃ©sek) Ã©s globÃ¡lis kÃ¶zÃ¶ssÃ©gi interakciÃ³k alapjÃ¡ul szolgÃ¡l.
 
 ---
 
-## Műszaki architektúra (alapkoncepció)
+## MÅ±szaki architektÃºra (alapkoncepciÃ³)
 
-![Nexus Gaja fordítási koncepció](assets/img/nexus_translation.jpg)
+![Nexus Gaja fordÃ­tÃ¡si koncepciÃ³](assets/img/nexus_translation.jpg)
 
-A Nexus Gaja műszaki magja egy egyedi tervezésű kommunikációs modell, amely szigorúan három rétegre oszlik:
+A Nexus Gaja mÅ±szaki magja egy egyedi tervezÃ©sÅ± kommunikÃ¡ciÃ³s modell, amely szigorÃºan hÃ¡rom rÃ©tegre oszlik:
 
-1. **Eredeti**: A feladó által létrehozott kommunikációs objektum (üzenet) mindig változtathatatlan marad.
-2. **Szemantikai értelmezés**: A rendszer nem csak a szavakat elemzi, hanem a tényleges jelentést is.
-3. **Célnyelvi megjelenítés**: Az AI csupán ideiglenes vagy gyorsítótárazott reprezentációt hoz létre az eredetiről az adott címzett számára a preferált nyelv alapján. A fordítások soha nem írják felül az eredeti üzenetet.
+1. **Eredeti**: A feladÃ³ Ã¡ltal lÃ©trehozott kommunikÃ¡ciÃ³s objektum (Ã¼zenet) mindig vÃ¡ltoztathatatlan marad.
+2. **Szemantikai Ã©rtelmezÃ©s**: A rendszer nem csak a szavakat elemzi, hanem a tÃ©nyleges jelentÃ©st is.
+3. **CÃ©lnyelvi megjelenÃ­tÃ©s**: Az AI csupÃ¡n ideiglenes vagy gyorsÃ­tÃ³tÃ¡razott reprezentÃ¡ciÃ³t hoz lÃ©tre az eredetirÅ‘l az adott cÃ­mzett szÃ¡mÃ¡ra a preferÃ¡lt nyelv alapjÃ¡n. A fordÃ­tÃ¡sok soha nem Ã­rjÃ¡k felÃ¼l az eredeti Ã¼zenetet.
 
-### Kontextusfüggőség
-A Nexus Gaja fordításai soha nem tekintik az üzeneteket elszigetelten. A motor figyelembe veszi a teljes hierarchiát:
-"Üzenet" → "Korábbi üzenetek" → "Szálkörnyezet" → "Közösségi kontextus" → "Nyelv/régió" → "Felhasználói beállítások"
+### KontextusfÃ¼ggÅ‘sÃ©g
+A Nexus Gaja fordÃ­tÃ¡sai soha nem tekintik az Ã¼zeneteket elszigetelten. A motor figyelembe veszi a teljes hierarchiÃ¡t:
+"Ãœzenet" â†’ "KorÃ¡bbi Ã¼zenetek" â†’ "SzÃ¡lkÃ¶rnyezet" â†’ "KÃ¶zÃ¶ssÃ©gi kontextus" â†’ "Nyelv/rÃ©giÃ³" â†’ "FelhasznÃ¡lÃ³i beÃ¡llÃ­tÃ¡sok"
 
-### Hatékonyság igény szerinti fordítással
-A fordítás csak **kérésre** (igény szerint) történik erőforrás-hatékonyan. Amikor egy felhasználó tartalmat kér, azt lefordítják az előre beállított nyelvére. Amint egy adott nyelvre egy fordítást generált, azt véglegesen tárolja (gyorsítótárban), hogy drasztikusan felgyorsítsa a jövőbeni kéréseket.
+### HatÃ©konysÃ¡g igÃ©ny szerinti fordÃ­tÃ¡ssal
+A fordÃ­tÃ¡s csak **kÃ©rÃ©sre** (igÃ©ny szerint) tÃ¶rtÃ©nik erÅ‘forrÃ¡s-hatÃ©konyan. Amikor egy felhasznÃ¡lÃ³ tartalmat kÃ©r, azt lefordÃ­tjÃ¡k az elÅ‘re beÃ¡llÃ­tott nyelvÃ©re. Amint egy adott nyelvre egy fordÃ­tÃ¡st generÃ¡lt, azt vÃ©glegesen tÃ¡rolja (gyorsÃ­tÃ³tÃ¡rban), hogy drasztikusan felgyorsÃ­tsa a jÃ¶vÅ‘beni kÃ©rÃ©seket.
 
-## AI-asszisztált moderálás (WP 1.8.4)
+## AI-asszisztÃ¡lt moderÃ¡lÃ¡s (WP 1.8.4)
 
-![Nexus Gaja AI moderálás](assets/img/nexus_moderation.jpg)
+![Nexus Gaja AI moderÃ¡lÃ¡s](assets/img/nexus_moderation.jpg)
 
-Az AI-asszisztált moderációval jelentős lépést teszünk a termékötlettől a műszaki architektúráig, figyelembe véve a jelenlegi EU-szabályozást (az EU AI törvény 50. cikk szerinti átláthatósági követelményei; digitális szolgáltatásokról szóló törvény érthető indoklással és fellebbezési lehetőségekkel).
+Az AI-asszisztÃ¡lt moderÃ¡ciÃ³val jelentÅ‘s lÃ©pÃ©st teszÃ¼nk a termÃ©kÃ¶tlettÅ‘l a mÅ±szaki architektÃºrÃ¡ig, figyelembe vÃ©ve a jelenlegi EU-szabÃ¡lyozÃ¡st (az EU AI tÃ¶rvÃ©ny 50. cikk szerinti Ã¡tlÃ¡thatÃ³sÃ¡gi kÃ¶vetelmÃ©nyei; digitÃ¡lis szolgÃ¡ltatÃ¡sokrÃ³l szÃ³lÃ³ tÃ¶rvÃ©ny Ã©rthetÅ‘ indoklÃ¡ssal Ã©s fellebbezÃ©si lehetÅ‘sÃ©gekkel).
 
 ### 1. Alapelv
-Az architektúra legfontosabb mondata: **A moderációs AI egy felülvizsgálati rendszer, nem pedig egy autonóm uralkodó rendszer.**
-Úgy tervezték, hogy mértékkel segítse az embereket, nem pedig saját maga határozza meg, mely vélemények létezhetnek a Nexus Gaján.
-Három szintet különböztetünk meg:
-- ** Észlelés:** "Itt szabálysértés történt."
-- **Kiértékelés:** "A szabálysértés valószínűsége például 94%.
-- **Döntés:** "Mi a tényleges intézkedés?"
-A harmadik szintet súlyos esetekben embernek kell irányítania.
+Az architektÃºra legfontosabb mondata: **A moderÃ¡ciÃ³s AI egy felÃ¼lvizsgÃ¡lati rendszer, nem pedig egy autonÃ³m uralkodÃ³ rendszer.**
+Ãšgy terveztÃ©k, hogy mÃ©rtÃ©kkel segÃ­tse az embereket, nem pedig sajÃ¡t maga hatÃ¡rozza meg, mely vÃ©lemÃ©nyek lÃ©tezhetnek a Nexus GajÃ¡n.
+HÃ¡rom szintet kÃ¼lÃ¶nbÃ¶ztetÃ¼nk meg:
+- ** Ã‰szlelÃ©s:** "Itt szabÃ¡lysÃ©rtÃ©s tÃ¶rtÃ©nt."
+- **KiÃ©rtÃ©kelÃ©s:** "A szabÃ¡lysÃ©rtÃ©s valÃ³szÃ­nÅ±sÃ©ge pÃ©ldÃ¡ul 94%.
+- **DÃ¶ntÃ©s:** "Mi a tÃ©nyleges intÃ©zkedÃ©s?"
+A harmadik szintet sÃºlyos esetekben embernek kell irÃ¡nyÃ­tania.
 
-### 2. A moderációs AI mint alrendszer
-Egyetlen mesterséges intelligencia helyett egy robusztus alrendszer jön létre:
-``` szöveg
-                 NEXUS GAJA AI MODERÁCIÓ
-                          │
-       ┌─────────────────┼──────────────-
-       │ │ │
-  Nyelv AI biztonság AI csalás AI
-       │ │ │
-       ├-
-       │ │ │
- Fordítási Viselkedés Identitás
- Elemzés Elemzési jelek
-       │ │ │
-       └──────────────┼───────────────────
-                      ▼
-               Kockázatértékelés
-                      │
-                      ▼
+### 2. A moderÃ¡ciÃ³s AI mint alrendszer
+Egyetlen mestersÃ©ges intelligencia helyett egy robusztus alrendszer jÃ¶n lÃ©tre:
+``` szÃ¶veg
+                 NEXUS GAJA AI MODERÃCIÃ“
+                          â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€-
+       â”‚ â”‚ â”‚
+  Nyelv AI biztonsÃ¡g AI csalÃ¡s AI
+       â”‚ â”‚ â”‚
+       â”œ-
+       â”‚ â”‚ â”‚
+ FordÃ­tÃ¡si ViselkedÃ©s IdentitÃ¡s
+ ElemzÃ©s ElemzÃ©si jelek
+       â”‚ â”‚ â”‚
+       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+                      â–¼
+               KockÃ¡zatÃ©rtÃ©kelÃ©s
+                      â”‚
+                      â–¼
                Human Review
 ```
 
 ### 3. A legfontosabb AI-modulok
-A Nexus Gaja kilenc speciális elemzési területet használ:
-- **M1 – Nyelvértés**: Felismeri a nyelvet, a dialektust, a szlenget, az iróniát, a fordítási problémákat.
-- **M2 – Toxicitás/visszaélés észlelése**: Érzékeli a sértéseket, személyes támadásokat, zaklatást.
-- **M3 – Fenyegetés észlelése**: észleli a potenciális fenyegetéseket, zsarolásokat, erőszakos bejelentéseket.
-- **M4 – Gyűlölet/dehumanizáció észlelése**: Érzékeli az emberek elleni célzott támadásokat meghatározott hovatartozás alapján.
-- **M5 – Spam/Manipulation Detection**: Érzékeli a spamet, a bot viselkedését és az összehangolt manipulációt.
-- **M6 – Csalásészlelés**: Felderíti a gyanús csalási kísérleteket, adathalászatot, közösségi manipulációt.
-- **M7 – Identity Integrity**: Ellenőrzi a fiókok átvételére, több fiókra és a kitiltásra vonatkozó jelzéseket.
-- **M8 – Médiabiztonság**: Képek, hang, videó, dokumentumok elemzése.
-- **M9 – Context Engine**: A legfontosabb modul. Összevonja az egyes leleteket.
+A Nexus Gaja kilenc speciÃ¡lis elemzÃ©si terÃ¼letet hasznÃ¡l:
+- **M1 â€“ NyelvÃ©rtÃ©s**: Felismeri a nyelvet, a dialektust, a szlenget, az irÃ³niÃ¡t, a fordÃ­tÃ¡si problÃ©mÃ¡kat.
+- **M2 â€“ ToxicitÃ¡s/visszaÃ©lÃ©s Ã©szlelÃ©se**: Ã‰rzÃ©keli a sÃ©rtÃ©seket, szemÃ©lyes tÃ¡madÃ¡sokat, zaklatÃ¡st.
+- **M3 â€“ FenyegetÃ©s Ã©szlelÃ©se**: Ã©szleli a potenciÃ¡lis fenyegetÃ©seket, zsarolÃ¡sokat, erÅ‘szakos bejelentÃ©seket.
+- **M4 â€“ GyÅ±lÃ¶let/dehumanizÃ¡ciÃ³ Ã©szlelÃ©se**: Ã‰rzÃ©keli az emberek elleni cÃ©lzott tÃ¡madÃ¡sokat meghatÃ¡rozott hovatartozÃ¡s alapjÃ¡n.
+- **M5 â€“ Spam/Manipulation Detection**: Ã‰rzÃ©keli a spamet, a bot viselkedÃ©sÃ©t Ã©s az Ã¶sszehangolt manipulÃ¡ciÃ³t.
+- **M6 â€“ CsalÃ¡sÃ©szlelÃ©s**: FelderÃ­ti a gyanÃºs csalÃ¡si kÃ­sÃ©rleteket, adathalÃ¡szatot, kÃ¶zÃ¶ssÃ©gi manipulÃ¡ciÃ³t.
+- **M7 â€“ Identity Integrity**: EllenÅ‘rzi a fiÃ³kok Ã¡tvÃ©telÃ©re, tÃ¶bb fiÃ³kra Ã©s a kitiltÃ¡sra vonatkozÃ³ jelzÃ©seket.
+- **M8 â€“ MÃ©diabiztonsÃ¡g**: KÃ©pek, hang, videÃ³, dokumentumok elemzÃ©se.
+- **M9 â€“ Context Engine**: A legfontosabb modul. Ã–sszevonja az egyes leleteket.
 
-### 4. Miért fontos a Context Engine?
-A puszta kulcsszavas keresés nem lenne elegendő. „Megölhetném őt a nevetéstől” szemantikailag erőszakot tartalmaz, de csak beszéd. "Holnap este 8-kor lelövöm a háza előtt" teljesen más helyzet. Az AI-nak meg kell értenie, mit jelent az állítás a sajátos kontextusában.
+### 4. MiÃ©rt fontos a Context Engine?
+A puszta kulcsszavas keresÃ©s nem lenne elegendÅ‘. â€žMegÃ¶lhetnÃ©m Å‘t a nevetÃ©stÅ‘lâ€ szemantikailag erÅ‘szakot tartalmaz, de csak beszÃ©d. "Holnap este 8-kor lelÃ¶vÃ¶m a hÃ¡za elÅ‘tt" teljesen mÃ¡s helyzet. Az AI-nak meg kell Ã©rtenie, mit jelent az Ã¡llÃ­tÃ¡s a sajÃ¡tos kontextusÃ¡ban.
 
-### 5. Többnyelvű moderálás
-A mértékkel nem lehet egyszerűen összehasonlítani a szavakat. Elemeznie kell a szemantikai szintet (pl. német idiómák kontra japán kifejezések vs. regionális kifejezések).
+### 5. TÃ¶bbnyelvÅ± moderÃ¡lÃ¡s
+A mÃ©rtÃ©kkel nem lehet egyszerÅ±en Ã¶sszehasonlÃ­tani a szavakat. Elemeznie kell a szemantikai szintet (pl. nÃ©met idiÃ³mÃ¡k kontra japÃ¡n kifejezÃ©sek vs. regionÃ¡lis kifejezÃ©sek).
 
-### 6. Eredeti nyelv + fordítás
-Az eredetit és a fordítást külön elemezzük. Csak ezután kerül sor a „Kombinált moderációs értékelésre”. Ez lehetővé teszi a Nexus Gaja számára, hogy megállapítsa, hogy maga a fordítás fokozhatta-e vagy megváltoztatta-e a tényeket.
+### 6. Eredeti nyelv + fordÃ­tÃ¡s
+Az eredetit Ã©s a fordÃ­tÃ¡st kÃ¼lÃ¶n elemezzÃ¼k. Csak ezutÃ¡n kerÃ¼l sor a â€žKombinÃ¡lt moderÃ¡ciÃ³s Ã©rtÃ©kelÃ©sreâ€. Ez lehetÅ‘vÃ© teszi a Nexus Gaja szÃ¡mÃ¡ra, hogy megÃ¡llapÃ­tsa, hogy maga a fordÃ­tÃ¡s fokozhatta-e vagy megvÃ¡ltoztatta-e a tÃ©nyeket.
 
-### 7. Magabiztossági pontszám
-Minden mesterséges intelligencia értékelés megbízhatósági pontszámot kap (pl. fenyegetés valószínűsége: 0,96). Azonban: **Magabiztossági pontszám ≠ Igazság.** A 96%-os pontszám csak azt jelenti, hogy a modell nagyon biztos a besorolásában, nem feltétlenül azt, hogy a felhasználó bűnös.
+### 7. MagabiztossÃ¡gi pontszÃ¡m
+Minden mestersÃ©ges intelligencia Ã©rtÃ©kelÃ©s megbÃ­zhatÃ³sÃ¡gi pontszÃ¡mot kap (pl. fenyegetÃ©s valÃ³szÃ­nÅ±sÃ©ge: 0,96). Azonban: **MagabiztossÃ¡gi pontszÃ¡m â‰  IgazsÃ¡g.** A 96%-os pontszÃ¡m csak azt jelenti, hogy a modell nagyon biztos a besorolÃ¡sÃ¡ban, nem feltÃ©tlenÃ¼l azt, hogy a felhasznÃ¡lÃ³ bÅ±nÃ¶s.
 
-### 8. A bizonytalanság önmagában is jelzé válik
-Ha a mesterséges intelligencia bizonytalan (pl. fenyegetés: 0,62, szatíra: 0,54), nem szabad egyszerűen szigorú szabályokat érvényesíteni. Ehelyett a bizonytalanság közvetlenül beépül az architektúrába: **Emberi felülvizsgálat szükséges**.
+### 8. A bizonytalansÃ¡g Ã¶nmagÃ¡ban is jelzÃ© vÃ¡lik
+Ha a mestersÃ©ges intelligencia bizonytalan (pl. fenyegetÃ©s: 0,62, szatÃ­ra: 0,54), nem szabad egyszerÅ±en szigorÃº szabÃ¡lyokat Ã©rvÃ©nyesÃ­teni. Ehelyett a bizonytalansÃ¡g kÃ¶zvetlenÃ¼l beÃ©pÃ¼l az architektÃºrÃ¡ba: **Emberi felÃ¼lvizsgÃ¡lat szÃ¼ksÃ©ges**.
 
-### 9. Négy döntési zóna
-- 🟢 **ZÖLD**: Nagy valószínűséggel kompatibilis. → nincs művelet.
-- 🟡 **SÁRGA**: Lehetséges jogsértés. → figyelje / szükség esetén adjon figyelmeztetést.
-- 🟠 **NARANCS**: Valószínű jogsértés. → moderálási áttekintés.
-- 🔴 **PIROS**: Súlyos lehetséges szabálysértés. → azonnali védőintézkedés + emberi felülvizsgálat.
+### 9. NÃ©gy dÃ¶ntÃ©si zÃ³na
+- ðŸŸ¢ **ZÃ–LD**: Nagy valÃ³szÃ­nÅ±sÃ©ggel kompatibilis. â†’ nincs mÅ±velet.
+- ðŸŸ¡ **SÃRGA**: LehetsÃ©ges jogsÃ©rtÃ©s. â†’ figyelje / szÃ¼ksÃ©g esetÃ©n adjon figyelmeztetÃ©st.
+- ðŸŸ  **NARANCS**: ValÃ³szÃ­nÅ± jogsÃ©rtÃ©s. â†’ moderÃ¡lÃ¡si Ã¡ttekintÃ©s.
+- ðŸ”´ **PIROS**: SÃºlyos lehetsÃ©ges szabÃ¡lysÃ©rtÃ©s. â†’ azonnali vÃ©dÅ‘intÃ©zkedÃ©s + emberi felÃ¼lvizsgÃ¡lat.
 
-### 10. Nincs "AI-büntetés"
-**Az AI nem szab ki végső szankciókat.** Súlyos biztonsági aggályok esetén azonnali technikai intézkedéseket indíthat el (például ideiglenesen visszatarthatja az üzenetet), de a végső döntés ellenőrizhető marad.
+### 10. Nincs "AI-bÃ¼ntetÃ©s"
+**Az AI nem szab ki vÃ©gsÅ‘ szankciÃ³kat.** SÃºlyos biztonsÃ¡gi aggÃ¡lyok esetÃ©n azonnali technikai intÃ©zkedÃ©seket indÃ­that el (pÃ©ldÃ¡ul ideiglenesen visszatarthatja az Ã¼zenetet), de a vÃ©gsÅ‘ dÃ¶ntÃ©s ellenÅ‘rizhetÅ‘ marad.
 
-### 11. A védőintézkedések automatikusan megtörténhetnek
-Konkrét fenyegetés esetén (Fenyegetés észlelve → Magas bizalom → Ideiglenes korlátozás → Emberi felülvizsgálat → Döntés) megvédjük a fenyegetett felhasználót anélkül, hogy az AI-t bíróvá alakítanánk.
+### 11. A vÃ©dÅ‘intÃ©zkedÃ©sek automatikusan megtÃ¶rtÃ©nhetnek
+KonkrÃ©t fenyegetÃ©s esetÃ©n (FenyegetÃ©s Ã©szlelve â†’ Magas bizalom â†’ Ideiglenes korlÃ¡tozÃ¡s â†’ Emberi felÃ¼lvizsgÃ¡lat â†’ DÃ¶ntÃ©s) megvÃ©djÃ¼k a fenyegetett felhasznÃ¡lÃ³t anÃ©lkÃ¼l, hogy az AI-t bÃ­rÃ³vÃ¡ alakÃ­tanÃ¡nk.
 
 ### 12. The AI Must Be Able to Justify Its Decisions
 The DSA requires clear and specific reasons. The AI provides structured reasoning: Rule (NG-CONDUCT-004), Detected (Potential concrete threat), Confidence (0.94), Relevant context (Previous 4 messages), Recommended action (Human review).
 
-### 13. Az AI nem változtathatja meg titokban a tartalmat
-**A moderációs AI soha nem változtathatja meg észrevétlenül az eredeti tartalmat.** Az automatikus javítás, fordítás vagy összegzés során az eredetit mindig megőrzi.
+### 13. Az AI nem vÃ¡ltoztathatja meg titokban a tartalmat
+**A moderÃ¡ciÃ³s AI soha nem vÃ¡ltoztathatja meg Ã©szrevÃ©tlenÃ¼l az eredeti tartalmat.** Az automatikus javÃ­tÃ¡s, fordÃ­tÃ¡s vagy Ã¶sszegzÃ©s sorÃ¡n az eredetit mindig megÅ‘rzi.
 
-### 14. AI által generált tartalom
-Megkülönböztetünk: ember által létrehozott, mesterséges intelligencia által támogatott, mesterséges intelligencia által generált és mesterséges intelligencia által manipulált. Ez a tartalom metaadatainak részévé válik.
+### 14. AI Ã¡ltal generÃ¡lt tartalom
+MegkÃ¼lÃ¶nbÃ¶ztetÃ¼nk: ember Ã¡ltal lÃ©trehozott, mestersÃ©ges intelligencia Ã¡ltal tÃ¡mogatott, mestersÃ©ges intelligencia Ã¡ltal generÃ¡lt Ã©s mestersÃ©ges intelligencia Ã¡ltal manipulÃ¡lt. Ez a tartalom metaadatainak rÃ©szÃ©vÃ© vÃ¡lik.
 
-### 15. Az AI-tartalom és az AI származási réteg címkézése
-Az EU AI-törvényének (2026 augusztusától hatályos) átláthatósági szabályai szerint az AI által generált tartalomnak azonosíthatónak kell lennie. Olyan mesterséges intelligencia származási réteget biztosítunk, amely metaadatokat tárol (AI-eredet, modell, időbélyeg, emberi áttekintés).
+### 15. Az AI-tartalom Ã©s az AI szÃ¡rmazÃ¡si rÃ©teg cÃ­mkÃ©zÃ©se
+Az EU AI-tÃ¶rvÃ©nyÃ©nek (2026 augusztusÃ¡tÃ³l hatÃ¡lyos) Ã¡tlÃ¡thatÃ³sÃ¡gi szabÃ¡lyai szerint az AI Ã¡ltal generÃ¡lt tartalomnak azonosÃ­thatÃ³nak kell lennie. Olyan mestersÃ©ges intelligencia szÃ¡rmazÃ¡si rÃ©teget biztosÃ­tunk, amely metaadatokat tÃ¡rol (AI-eredet, modell, idÅ‘bÃ©lyeg, emberi Ã¡ttekintÃ©s).
 
-### 16. Mélyhamisítás észlelése
-Az architektúra célja szintetikus képek, klónozott hangok és mélyhamisítások észlelése. Az észlelés azonban nem automatikusan bizonyítja.
+### 16. MÃ©lyhamisÃ­tÃ¡s Ã©szlelÃ©se
+Az architektÃºra cÃ©lja szintetikus kÃ©pek, klÃ³nozott hangok Ã©s mÃ©lyhamisÃ­tÃ¡sok Ã©szlelÃ©se. Az Ã©szlelÃ©s azonban nem automatikusan bizonyÃ­tja.
 
-### 17. Nincs automatikus "igazsággép" (Moderálás ≠ Tényellenőrzés)
-Az egyik rendszer ellenőrzi: "A tartalom sérti a szabályokat?" (Tartalom moderálása), egy másik a következőket tartalmazza: "Milyen információk és források állnak rendelkezésre?" (Információs segítségnyújtás). A véleményeket nem egyszerűen azért töröljük, mert „tévednek”.
+### 17. Nincs automatikus "igazsÃ¡ggÃ©p" (ModerÃ¡lÃ¡s â‰  TÃ©nyellenÅ‘rzÃ©s)
+Az egyik rendszer ellenÅ‘rzi: "A tartalom sÃ©rti a szabÃ¡lyokat?" (Tartalom moderÃ¡lÃ¡sa), egy mÃ¡sik a kÃ¶vetkezÅ‘ket tartalmazza: "Milyen informÃ¡ciÃ³k Ã©s forrÃ¡sok Ã¡llnak rendelkezÃ©sre?" (InformÃ¡ciÃ³s segÃ­tsÃ©gnyÃºjtÃ¡s). A vÃ©lemÃ©nyeket nem egyszerÅ±en azÃ©rt tÃ¶rÃ¶ljÃ¼k, mert â€žtÃ©vednekâ€.
 
-### 18. Védelem a kulturális félreértelmezés ellen
-A mesterséges intelligencia **kulturális kontextusmodelleket** igényel, hogy megakadályozzák, hogy egy ország kommunikációs normáit globális szabványnak tekintsék.
+### 18. VÃ©delem a kulturÃ¡lis fÃ©lreÃ©rtelmezÃ©s ellen
+A mestersÃ©ges intelligencia **kulturÃ¡lis kontextusmodelleket** igÃ©nyel, hogy megakadÃ¡lyozzÃ¡k, hogy egy orszÃ¡g kommunikÃ¡ciÃ³s normÃ¡it globÃ¡lis szabvÃ¡nynak tekintsÃ©k.
 
-### 19. Irónia, szatíra és humor
-Az AI kontextust, hangulatjeleket, beszélgetési előzményeket és ismert iróniastruktúrákat használ, de lehetővé kell tennie a bizonytalanságot, ha a jelentések nem egyértelműek.
+### 19. IrÃ³nia, szatÃ­ra Ã©s humor
+Az AI kontextust, hangulatjeleket, beszÃ©lgetÃ©si elÅ‘zmÃ©nyeket Ã©s ismert irÃ³niastruktÃºrÃ¡kat hasznÃ¡l, de lehetÅ‘vÃ© kell tennie a bizonytalansÃ¡got, ha a jelentÃ©sek nem egyÃ©rtelmÅ±ek.
 
-### 20. Nincs büntetés egyetlen AI-pontszám alapján
-Semmilyen súlyos moderálási beavatkozás nem alapulhat kizárólag egyetlen automatizált besorolási eredményen (Szöveg + Kontextus + Viselkedés + Nyelv + Média + Szabálymotor = Kockázatértékelés).
+### 20. Nincs bÃ¼ntetÃ©s egyetlen AI-pontszÃ¡m alapjÃ¡n
+Semmilyen sÃºlyos moderÃ¡lÃ¡si beavatkozÃ¡s nem alapulhat kizÃ¡rÃ³lag egyetlen automatizÃ¡lt besorolÃ¡si eredmÃ©nyen (SzÃ¶veg + Kontextus + ViselkedÃ©s + Nyelv + MÃ©dia + SzabÃ¡lymotor = KockÃ¡zatÃ©rtÃ©kelÃ©s).
 
-### 21. Felhasználói viselkedési jelzések és nincs szociális kreditrendszer
-Ez a technikai visszaélésekre utaló jelekre (pl. tömeges spamküldésre) vonatkozik, nem pedig egy általános közösségi minősítési rendszerre. A Nexus Gaja nem tart fenn társadalmi kreditrendszert – a mértékletesség a biztonságot szolgálja, nem pedig az ember értékének felmérését.
+### 21. FelhasznÃ¡lÃ³i viselkedÃ©si jelzÃ©sek Ã©s nincs szociÃ¡lis kreditrendszer
+Ez a technikai visszaÃ©lÃ©sekre utalÃ³ jelekre (pl. tÃ¶meges spamkÃ¼ldÃ©sre) vonatkozik, nem pedig egy Ã¡ltalÃ¡nos kÃ¶zÃ¶ssÃ©gi minÅ‘sÃ­tÃ©si rendszerre. A Nexus Gaja nem tart fenn tÃ¡rsadalmi kreditrendszert â€“ a mÃ©rtÃ©kletessÃ©g a biztonsÃ¡got szolgÃ¡lja, nem pedig az ember Ã©rtÃ©kÃ©nek felmÃ©rÃ©sÃ©t.
 
-### 22. A moderált mesterséges intelligencia auditálhatónak kell lennie
-A nyomon követhetőség biztosítása érdekében minden releváns automatizált döntés naplózásra kerül (Eseményazonosító, Szabályazonosító, Bizalom, Human-Review stb.).
+### 22. A moderÃ¡lt mestersÃ©ges intelligencia auditÃ¡lhatÃ³nak kell lennie
+A nyomon kÃ¶vethetÅ‘sÃ©g biztosÃ­tÃ¡sa Ã©rdekÃ©ben minden relevÃ¡ns automatizÃ¡lt dÃ¶ntÃ©s naplÃ³zÃ¡sra kerÃ¼l (EsemÃ©nyazonosÃ­tÃ³, SzabÃ¡lyazonosÃ­tÃ³, Bizalom, Human-Review stb.).
 
-### 23. Hamis pozitívumok, hamis negatívumok és minőségi mutatók
-A hibatípusokat figyelik. Az irányítópult a pontosságot, a visszahívást és különösen a **fellebbezés visszavonási arányát** (a sikeres fellebbezések számát) méri.
+### 23. Hamis pozitÃ­vumok, hamis negatÃ­vumok Ã©s minÅ‘sÃ©gi mutatÃ³k
+A hibatÃ­pusokat figyelik. Az irÃ¡nyÃ­tÃ³pult a pontossÃ¡got, a visszahÃ­vÃ¡st Ã©s kÃ¼lÃ¶nÃ¶sen a **fellebbezÃ©s visszavonÃ¡si arÃ¡nyÃ¡t** (a sikeres fellebbezÃ©sek szÃ¡mÃ¡t) mÃ©ri.
 
 ### 24. Language Equity & Translation Bias
-A moderálás minőségének összehasonlíthatónak kell lennie az összes támogatott nyelven (Multilingual Moderation Benchmark). Ha a moderálás eredménye eltér az eredeti és a fordítás között (fordítási konfliktus), akkor ezt külön felül kell vizsgálni.
+A moderÃ¡lÃ¡s minÅ‘sÃ©gÃ©nek Ã¶sszehasonlÃ­thatÃ³nak kell lennie az Ã¶sszes tÃ¡mogatott nyelven (Multilingual Moderation Benchmark). Ha a moderÃ¡lÃ¡s eredmÃ©nye eltÃ©r az eredeti Ã©s a fordÃ­tÃ¡s kÃ¶zÃ¶tt (fordÃ­tÃ¡si konfliktus), akkor ezt kÃ¼lÃ¶n felÃ¼l kell vizsgÃ¡lni.
 
 ### 25. Architecture Proposal & Policy Engine
-A szabályok (Policy Engine) nincsenek bekódolva az AI modellekbe. Az MI eredményeket nyújt; a Policy Engine a jelenlegi szabályok alapján dönt. Ez lehetővé teszi a **modellváltoztatást szabálymódosítások nélkül**.
+A szabÃ¡lyok (Policy Engine) nincsenek bekÃ³dolva az AI modellekbe. Az MI eredmÃ©nyeket nyÃºjt; a Policy Engine a jelenlegi szabÃ¡lyok alapjÃ¡n dÃ¶nt. Ez lehetÅ‘vÃ© teszi a **modellvÃ¡ltoztatÃ¡st szabÃ¡lymÃ³dosÃ­tÃ¡sok nÃ©lkÃ¼l**.
 
 ### 26. The Human Remains the Final Authority
 - **NG-AI-MOD-001**: The AI assists in detection and classification, but does not replace human review in severe decisions.
@@ -172,186 +174,186 @@ A szabályok (Policy Engine) nincsenek bekódolva az AI modellekbe. Az MI eredm�
 
 **Summary**: We are building a four-stage system: AI Detection, Context and Risk Analysis, Policy Engine, and Human Governance. This enables strong automation without creating a dangerous "AI as Judge" architecture.
 
-## Finanszírozási elvek és bevételi modell (WP 1.10.1)
+## FinanszÃ­rozÃ¡si elvek Ã©s bevÃ©teli modell (WP 1.10.1)
 
-![Nexus Gaja pénzügyi modell](assets/img/nexus_finance.jpg)
+![Nexus Gaja pÃ©nzÃ¼gyi modell](assets/img/nexus_finance.jpg)
 
-A Nexus Gaja esetében egy rendkívül fontos gazdasági elv érvényesül: **A platformon belül nincs hagyományos hirdetés.**
-Ez alapjaiban különbözteti meg a Nexus Gaját számos mai közösségi hálózattól. Ez azonban nem jelenti azt, hogy a Nexus Gaja ne lehetne kereskedelmi jellegű. Éppen ellenkezőleg, a platformnak gazdaságilag életképesnek kell lennie, hogy társadalmi célja fennmaradhasson. A gazdasági tevékenység a cél elérésének eszköze, nem pedig a platform elsődleges célja.
+A Nexus Gaja esetÃ©ben egy rendkÃ­vÃ¼l fontos gazdasÃ¡gi elv Ã©rvÃ©nyesÃ¼l: **A platformon belÃ¼l nincs hagyomÃ¡nyos hirdetÃ©s.**
+Ez alapjaiban kÃ¼lÃ¶nbÃ¶zteti meg a Nexus GajÃ¡t szÃ¡mos mai kÃ¶zÃ¶ssÃ©gi hÃ¡lÃ³zattÃ³l. Ez azonban nem jelenti azt, hogy a Nexus Gaja ne lehetne kereskedelmi jellegÅ±. Ã‰ppen ellenkezÅ‘leg, a platformnak gazdasÃ¡gilag Ã©letkÃ©pesnek kell lennie, hogy tÃ¡rsadalmi cÃ©lja fennmaradhasson. A gazdasÃ¡gi tevÃ©kenysÃ©g a cÃ©l elÃ©rÃ©sÃ©nek eszkÃ¶ze, nem pedig a platform elsÅ‘dleges cÃ©lja.
 
 ### 1. NG-FIN-001 alapelv
-A Nexus Gaja működését a felhasználói érdekektől elkülönített, átlátható bevételi forrásokból finanszírozza, nem pedig a felhasználók figyelmének vagy személyes adatainak bevételszerzésén keresztül.
+A Nexus Gaja mÅ±kÃ¶dÃ©sÃ©t a felhasznÃ¡lÃ³i Ã©rdekektÅ‘l elkÃ¼lÃ¶nÃ­tett, Ã¡tlÃ¡thatÃ³ bevÃ©teli forrÃ¡sokbÃ³l finanszÃ­rozza, nem pedig a felhasznÃ¡lÃ³k figyelmÃ©nek vagy szemÃ©lyes adatainak bevÃ©telszerzÃ©sÃ©n keresztÃ¼l.
 
-### 2. Nincs hagyományos reklám
+### 2. Nincs hagyomÃ¡nyos reklÃ¡m
 Kifejezetten tilos:
-- Banner hirdetések
-- Pop-up hirdetések
-- Automatikusan lejátszott videohirdetések
-- Szponzorált bejegyzések a standard feedben
-- Személyre szabott hirdetési profilok
-- Felhasználói profilok vagy személyes adatok értékesítése
-- Magánbeszélgetésekből származó reklámok.
+- Banner hirdetÃ©sek
+- Pop-up hirdetÃ©sek
+- Automatikusan lejÃ¡tszott videohirdetÃ©sek
+- SzponzorÃ¡lt bejegyzÃ©sek a standard feedben
+- SzemÃ©lyre szabott hirdetÃ©si profilok
+- FelhasznÃ¡lÃ³i profilok vagy szemÃ©lyes adatok Ã©rtÃ©kesÃ­tÃ©se
+- MagÃ¡nbeszÃ©lgetÃ©sekbÅ‘l szÃ¡rmazÃ³ reklÃ¡mok.
 
-A Nexus Gaja továbbra is inkább **kommunikációs felület, mintsem reklámfelület**.
+A Nexus Gaja tovÃ¡bbra is inkÃ¡bb **kommunikÃ¡ciÃ³s felÃ¼let, mintsem reklÃ¡mfelÃ¼let**.
 
-### 3. Finanszírozás reklám nélkül (a 6 pillér)
-A finanszírozás hat pillérre épül:
-``` szöveg
+### 3. FinanszÃ­rozÃ¡s reklÃ¡m nÃ©lkÃ¼l (a 6 pillÃ©r)
+A finanszÃ­rozÃ¡s hat pillÃ©rre Ã©pÃ¼l:
+``` szÃ¶veg
                  NEXUS GAJA
-                     │
-       ┌─────────────┼──────────────
-       ▼ ▼ ▼
-   PREMIUM SZERVEZETI ADOMÁNYOK
-       │ │ │
-       ├─────────────┼─────────────┤
-       ▼ ▼ ▼
-    PARTNERSÉGI SZOLGÁLTATÁSOKAT NYÚJT
+                     â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+       â–¼ â–¼ â–¼
+   PREMIUM SZERVEZETI ADOMÃNYOK
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+       â–¼ â–¼ â–¼
+    PARTNERSÃ‰GI SZOLGÃLTATÃSOKAT NYÃšJT
 ```
 
-#### 1. pillér – Ingyenes alaptagság
-A **Nexus Gaja Free** lehetővé teszi az alapvető nemzetközi megértést mindenki számára (profil, nemzetközi kommunikáció, bejegyzések, közösségek, csevegés, alapvető fordítás) ingyenesen.
+#### 1. pillÃ©r â€“ Ingyenes alaptagsÃ¡g
+A **Nexus Gaja Free** lehetÅ‘vÃ© teszi az alapvetÅ‘ nemzetkÃ¶zi megÃ©rtÃ©st mindenki szÃ¡mÃ¡ra (profil, nemzetkÃ¶zi kommunikÃ¡ciÃ³, bejegyzÃ©sek, kÃ¶zÃ¶ssÃ©gek, csevegÃ©s, alapvetÅ‘ fordÃ­tÃ¡s) ingyenesen.
 
-#### 2. pillér – Prémium ajánlatok
-Önkéntes fizetős ajánlatok (**Nexus Gaja Plus**), amelyek nagyobb tárhelykorlátokat, jobb médiaminőséget, kiterjesztett mesterséges intelligencia-kvótákat és szervezeti funkciókat biztosítanak.
-**Fontos (Freemium a Dark Freemium helyett):** Az alapvető kommunikációt soha nem szabad mesterségesen lerontani.
+#### 2. pillÃ©r â€“ PrÃ©mium ajÃ¡nlatok
+Ã–nkÃ©ntes fizetÅ‘s ajÃ¡nlatok (**Nexus Gaja Plus**), amelyek nagyobb tÃ¡rhelykorlÃ¡tokat, jobb mÃ©diaminÅ‘sÃ©get, kiterjesztett mestersÃ©ges intelligencia-kvÃ³tÃ¡kat Ã©s szervezeti funkciÃ³kat biztosÃ­tanak.
+**Fontos (Freemium a Dark Freemium helyett):** Az alapvetÅ‘ kommunikÃ¡ciÃ³t soha nem szabad mestersÃ©gesen lerontani.
 
-#### 3. pillér – Szervezetek
-Speciális fiókok iskoláknak, egyetemeknek, civil szervezeteknek, vállalkozásoknak és önkormányzatoknak (**Nexus Gaja szervezet**). Az iskolák a nemzetközi megértés multiplikátoraiként intézményi díjakkal támogathatók.
+#### 3. pillÃ©r â€“ Szervezetek
+SpeciÃ¡lis fiÃ³kok iskolÃ¡knak, egyetemeknek, civil szervezeteknek, vÃ¡llalkozÃ¡soknak Ã©s Ã¶nkormÃ¡nyzatoknak (**Nexus Gaja szervezet**). Az iskolÃ¡k a nemzetkÃ¶zi megÃ©rtÃ©s multiplikÃ¡toraikÃ©nt intÃ©zmÃ©nyi dÃ­jakkal tÃ¡mogathatÃ³k.
 
-#### 4. pillér – Adományok
-A **Nexus Gaja Funding Pool** általános és célzott adományokat fogad (pl. „nemzetközi ifjúsági kommunikációra”). A **Fund Allokációs Főkönyv** biztosítja a források átlátható allokációját.
-**Célalap és Tombola:** Az adományok egy része ingyenes/kedvezményes felhasználásra szolgál. A lottó/tombola mechanizmus átláthatóan és ellenőrizhetően oszthatja fel ezeket a pénzeszközöket.
+#### 4. pillÃ©r â€“ AdomÃ¡nyok
+A **Nexus Gaja Funding Pool** Ã¡ltalÃ¡nos Ã©s cÃ©lzott adomÃ¡nyokat fogad (pl. â€žnemzetkÃ¶zi ifjÃºsÃ¡gi kommunikÃ¡ciÃ³raâ€). A **Fund AllokÃ¡ciÃ³s FÅ‘kÃ¶nyv** biztosÃ­tja a forrÃ¡sok Ã¡tlÃ¡thatÃ³ allokÃ¡ciÃ³jÃ¡t.
+**CÃ©lalap Ã©s Tombola:** Az adomÃ¡nyok egy rÃ©sze ingyenes/kedvezmÃ©nyes felhasznÃ¡lÃ¡sra szolgÃ¡l. A lottÃ³/tombola mechanizmus Ã¡tlÃ¡thatÃ³an Ã©s ellenÅ‘rizhetÅ‘en oszthatja fel ezeket a pÃ©nzeszkÃ¶zÃ¶ket.
 
-#### 5. pillér – Intézményfinanszírozás
-Alapítványok, kulturális finanszírozási programok vagy állami programok.
-**NG-FIN-002:** A pénzügyi támogatás nem vásárol szerkesztői vagy technikai ellenőrzést (Függetlenség).
+#### 5. pillÃ©r â€“ IntÃ©zmÃ©nyfinanszÃ­rozÃ¡s
+AlapÃ­tvÃ¡nyok, kulturÃ¡lis finanszÃ­rozÃ¡si programok vagy Ã¡llami programok.
+**NG-FIN-002:** A pÃ©nzÃ¼gyi tÃ¡mogatÃ¡s nem vÃ¡sÃ¡rol szerkesztÅ‘i vagy technikai ellenÅ‘rzÃ©st (FÃ¼ggetlensÃ©g).
 
-#### 6. pillér – Kereskedelmi szolgáltatások
-B2B szolgáltatások, mint például a **Szolgáltatásként fordítás** (API), a szervezeti kommunikáció vagy a nemzetközi konferenciatermek, anélkül, hogy megterhelnék a szokásos felhasználói feedet.
+#### 6. pillÃ©r â€“ Kereskedelmi szolgÃ¡ltatÃ¡sok
+B2B szolgÃ¡ltatÃ¡sok, mint pÃ©ldÃ¡ul a **SzolgÃ¡ltatÃ¡skÃ©nt fordÃ­tÃ¡s** (API), a szervezeti kommunikÃ¡ciÃ³ vagy a nemzetkÃ¶zi konferenciatermek, anÃ©lkÃ¼l, hogy megterhelnÃ©k a szokÃ¡sos felhasznÃ¡lÃ³i feedet.
 
-### 4. Nincs adatbevételezés és felügyeleti gazdaság
-**NG-FIN-003:** A személyes felhasználói adatok nem áruk. Listák, profilok vagy előzmények értékesítése tilos. A Nexus Gaja nem profitál a pszichológiai megfigyelésből (Surveillance Economy).
+### 4. Nincs adatbevÃ©telezÃ©s Ã©s felÃ¼gyeleti gazdasÃ¡g
+**NG-FIN-003:** A szemÃ©lyes felhasznÃ¡lÃ³i adatok nem Ã¡ruk. ListÃ¡k, profilok vagy elÅ‘zmÃ©nyek Ã©rtÃ©kesÃ­tÃ©se tilos. A Nexus Gaja nem profitÃ¡l a pszicholÃ³giai megfigyelÃ©sbÅ‘l (Surveillance Economy).
 
-### 5. Pénzügyi átláthatóság és alapkönyv
-**Nexus Gaja pénzügyi átláthatósága:** Összesített pénzügyi struktúrák közzététele. A célhoz kötött adományok technikai elszámolást kapnak (Alapazonosító → Cél → Egyenleg → Kiosztás). Nincs társadalmi célok kereszttámogatása a vállalati marketingben.
+### 5. PÃ©nzÃ¼gyi Ã¡tlÃ¡thatÃ³sÃ¡g Ã©s alapkÃ¶nyv
+**Nexus Gaja pÃ©nzÃ¼gyi Ã¡tlÃ¡thatÃ³sÃ¡ga:** Ã–sszesÃ­tett pÃ©nzÃ¼gyi struktÃºrÃ¡k kÃ¶zzÃ©tÃ©tele. A cÃ©lhoz kÃ¶tÃ¶tt adomÃ¡nyok technikai elszÃ¡molÃ¡st kapnak (AlapazonosÃ­tÃ³ â†’ CÃ©l â†’ Egyenleg â†’ KiosztÃ¡s). Nincs tÃ¡rsadalmi cÃ©lok kereszttÃ¡mogatÃ¡sa a vÃ¡llalati marketingben.
 
-### 6. Szolidaritás alapú finanszírozási modell
-Az árképzés a költségorientáción, a méltányosságon és a szolidaritáson alapul.
-**Szolidaritási prémium:** Önkéntes lehetőség a prémium felhasználók számára, hogy finanszírozzák egy másik felhasználó hozzáférésének egy részét. Szigorúan tilos a kényszerszolidaritás vagy a prémium osztálytársadalom (kevesebb tisztelet/mérték az ingyenes felhasználók számára).
+### 6. SzolidaritÃ¡s alapÃº finanszÃ­rozÃ¡si modell
+Az Ã¡rkÃ©pzÃ©s a kÃ¶ltsÃ©gorientÃ¡ciÃ³n, a mÃ©ltÃ¡nyossÃ¡gon Ã©s a szolidaritÃ¡son alapul.
+**SzolidaritÃ¡si prÃ©mium:** Ã–nkÃ©ntes lehetÅ‘sÃ©g a prÃ©mium felhasznÃ¡lÃ³k szÃ¡mÃ¡ra, hogy finanszÃ­rozzÃ¡k egy mÃ¡sik felhasznÃ¡lÃ³ hozzÃ¡fÃ©rÃ©sÃ©nek egy rÃ©szÃ©t. SzigorÃºan tilos a kÃ©nyszerszolidaritÃ¡s vagy a prÃ©mium osztÃ¡lytÃ¡rsadalom (kevesebb tisztelet/mÃ©rtÃ©k az ingyenes felhasznÃ¡lÃ³k szÃ¡mÃ¡ra).
 
-### 7. Gazdasági teljesítménymutatók az elkötelezettség gazdaságossága helyett
-Nincs függés attól, hogy a felhasználókat "online állapotban tartsák, ameddig csak lehetséges" (nincs ragebait, végtelen hírfolyam).
-Ehelyett olyan mutatókat használunk, mint:
-- **Globális kommunikációs index (GCI):** Sikeres kommunikációs kapcsolatok a különböző nyelvi/kulturális régiókból származó emberek között.
-- **Platform fenntarthatósági arány (PSR):** Ismétlődő bevétel / ismétlődő működési költségek (Cél ≥ 1).
+### 7. GazdasÃ¡gi teljesÃ­tmÃ©nymutatÃ³k az elkÃ¶telezettsÃ©g gazdasÃ¡gossÃ¡ga helyett
+Nincs fÃ¼ggÃ©s attÃ³l, hogy a felhasznÃ¡lÃ³kat "online Ã¡llapotban tartsÃ¡k, ameddig csak lehetsÃ©ges" (nincs ragebait, vÃ©gtelen hÃ­rfolyam).
+Ehelyett olyan mutatÃ³kat hasznÃ¡lunk, mint:
+- **GlobÃ¡lis kommunikÃ¡ciÃ³s index (GCI):** Sikeres kommunikÃ¡ciÃ³s kapcsolatok a kÃ¼lÃ¶nbÃ¶zÅ‘ nyelvi/kulturÃ¡lis rÃ©giÃ³kbÃ³l szÃ¡rmazÃ³ emberek kÃ¶zÃ¶tt.
+- **Platform fenntarthatÃ³sÃ¡gi arÃ¡ny (PSR):** IsmÃ©tlÅ‘dÅ‘ bevÃ©tel / ismÃ©tlÅ‘dÅ‘ mÅ±kÃ¶dÃ©si kÃ¶ltsÃ©gek (CÃ©l â‰¥ 1).
 
-### 8. Amit kifejezetten nem akarunk (negatív lista)
-A Nexus Gaját **nem** finanszírozza:
-❌ Személyes adatok értékesítése
-❌ Személyre szabott hagyományos reklámozás
-❌ A felhasználói viselkedés figyelése hirdetési célból
-❌ Privát kommunikációs adatok értékesítése
-❌ Rejtett AI adathasználat
-❌ Manipulatív prémium fizetőfalak
-❌ Mesterséges elérési korlátozás a bevételszerzéshez
-❌ Fizetett politikai befolyás
-❌ Kiemelt moderációs döntések vásárlása.
+### 8. Amit kifejezetten nem akarunk (negatÃ­v lista)
+A Nexus GajÃ¡t **nem** finanszÃ­rozza:
+âŒ SzemÃ©lyes adatok Ã©rtÃ©kesÃ­tÃ©se
+âŒ SzemÃ©lyre szabott hagyomÃ¡nyos reklÃ¡mozÃ¡s
+âŒ A felhasznÃ¡lÃ³i viselkedÃ©s figyelÃ©se hirdetÃ©si cÃ©lbÃ³l
+âŒ PrivÃ¡t kommunikÃ¡ciÃ³s adatok Ã©rtÃ©kesÃ­tÃ©se
+âŒ Rejtett AI adathasznÃ¡lat
+âŒ ManipulatÃ­v prÃ©mium fizetÅ‘falak
+âŒ MestersÃ©ges elÃ©rÃ©si korlÃ¡tozÃ¡s a bevÃ©telszerzÃ©shez
+âŒ Fizetett politikai befolyÃ¡s
+âŒ Kiemelt moderÃ¡ciÃ³s dÃ¶ntÃ©sek vÃ¡sÃ¡rlÃ¡sa.
 
-### 9. Előzetes pénzügyi architektúra
-``` szöveg
+### 9. ElÅ‘zetes pÃ©nzÃ¼gyi architektÃºra
+``` szÃ¶veg
                          NEXUS GAJA
-                              │
-             ┌────────────────┼──────────────
-             │ │ │
-             ▼ ▼ ▼
-          FELHASZNÁLÓI SZERVEZETEK VÁLLALAT
-             │ │ │
-             └────────────────┼─────────────────
-                              │
-                       PLATFORMSZOLGÁLTATÁSOK
-                              │
-          ┌─────────────────── ┼───────────────────┐
-          ▼ ▼ ▼
+                              â”‚
+             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+             â”‚ â”‚ â”‚
+             â–¼ â–¼ â–¼
+          FELHASZNÃLÃ“I SZERVEZETEK VÃLLALAT
+             â”‚ â”‚ â”‚
+             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+                              â”‚
+                       PLATFORMSZOLGÃLTATÃSOK
+                              â”‚
+          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+          â–¼ â–¼ â–¼
        PREMIUM DONATIONS API
-                              │
-                    ┌─────────┴─────────┐
-                    ▼ ▼
-               ÁLTALÁNOS ALAP KORLÁTOZOTT ALAPOK
-                                        │
-                                        ▼
-                                  SZOCIÁLIS CÉL
+                              â”‚
+                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+                    â–¼ â–¼
+               ÃLTALÃNOS ALAP KORLÃTOZOTT ALAPOK
+                                        â”‚
+                                        â–¼
+                                  SZOCIÃLIS CÃ‰L
 ```
 
-### A finanszírozási elvek összefoglalása (NG-FIN)
-- **NG-FIN-001:** Nincs finanszírozás hagyományos hirdetésen keresztül.
-- **NG-FIN-002:** Nincs szerkesztői/műszaki ellenőrzés pénzügyi támogatáson keresztül.
-- **NG-FIN-003:** A személyes adatok nem áruk.
-- **NG-FIN-004:** Az alapvető kommunikáció fizetés nélkül is elérhető.
-- **NG-FIN-005:** A prémium ajánlatok nem ronthatják le az ingyenes felhasználókat.
-- **NG-FIN-006:** A célhoz kötött alapokat céljuk szerint kezelik.
-- **NG-FIN-007:** Az adományok és támogatások átlátható kezelése.
-- **NG-FIN-008:** A kereskedelmi B2B szolgáltatások nem veszélyeztetik a függetlenséget.
-- **NG-FIN-009:** A maximális bevételszerzés helyett a fenntarthatóságra összpontosítson.
-- **NG-FIN-010:** A szerkezet tartósan biztosítja a társadalmi célt.
+### A finanszÃ­rozÃ¡si elvek Ã¶sszefoglalÃ¡sa (NG-FIN)
+- **NG-FIN-001:** Nincs finanszÃ­rozÃ¡s hagyomÃ¡nyos hirdetÃ©sen keresztÃ¼l.
+- **NG-FIN-002:** Nincs szerkesztÅ‘i/mÅ±szaki ellenÅ‘rzÃ©s pÃ©nzÃ¼gyi tÃ¡mogatÃ¡son keresztÃ¼l.
+- **NG-FIN-003:** A szemÃ©lyes adatok nem Ã¡ruk.
+- **NG-FIN-004:** Az alapvetÅ‘ kommunikÃ¡ciÃ³ fizetÃ©s nÃ©lkÃ¼l is elÃ©rhetÅ‘.
+- **NG-FIN-005:** A prÃ©mium ajÃ¡nlatok nem ronthatjÃ¡k le az ingyenes felhasznÃ¡lÃ³kat.
+- **NG-FIN-006:** A cÃ©lhoz kÃ¶tÃ¶tt alapokat cÃ©ljuk szerint kezelik.
+- **NG-FIN-007:** Az adomÃ¡nyok Ã©s tÃ¡mogatÃ¡sok Ã¡tlÃ¡thatÃ³ kezelÃ©se.
+- **NG-FIN-008:** A kereskedelmi B2B szolgÃ¡ltatÃ¡sok nem veszÃ©lyeztetik a fÃ¼ggetlensÃ©get.
+- **NG-FIN-009:** A maximÃ¡lis bevÃ©telszerzÃ©s helyett a fenntarthatÃ³sÃ¡gra Ã¶sszpontosÃ­tson.
+- **NG-FIN-010:** A szerkezet tartÃ³san biztosÃ­tja a tÃ¡rsadalmi cÃ©lt.
 
-## API, interfészek és kommunikációs architektúra (WP 1.11.3)
+## API, interfÃ©szek Ã©s kommunikÃ¡ciÃ³s architektÃºra (WP 1.11.3)
 
-A rendszer stabilitásának, biztonságának és méretezhetőségének biztosítása érdekében a Nexus Gaja szigorúan API-első és eseményvezérelt architektúrát követ.
+A rendszer stabilitÃ¡sÃ¡nak, biztonsÃ¡gÃ¡nak Ã©s mÃ©retezhetÅ‘sÃ©gÃ©nek biztosÃ­tÃ¡sa Ã©rdekÃ©ben a Nexus Gaja szigorÃºan API-elsÅ‘ Ã©s esemÃ©nyvezÃ©relt architektÃºrÃ¡t kÃ¶vet.
 
 ### Alapelvek
-- **Nincs közvetlen adatbázis-hozzáférés:** Az összetevők kizárólag meghatározott interfészeken (API-k vagy események) keresztül kommunikálnak, soha nem más szolgáltatások közvetlen adatbázis-lekérdezésein keresztül.
-- **API-átjáró:** Minden külső ügyfélkérelem egy API-átjárón keresztül halad át, amely a hitelesítést, az útválasztást és a sebességkorlátozást kezeli.
-- **Szolgáltatói absztrakció:** A külső szolgáltatások (AI modellek, fizetési szolgáltatók, fordítómotorok) absztrakciós rétegeken keresztül integrálva vannak, elkerülve a merev kódolt függőséget, és lehetővé téve a rugalmas szolgáltatócserét.
+- **Nincs kÃ¶zvetlen adatbÃ¡zis-hozzÃ¡fÃ©rÃ©s:** Az Ã¶sszetevÅ‘k kizÃ¡rÃ³lag meghatÃ¡rozott interfÃ©szeken (API-k vagy esemÃ©nyek) keresztÃ¼l kommunikÃ¡lnak, soha nem mÃ¡s szolgÃ¡ltatÃ¡sok kÃ¶zvetlen adatbÃ¡zis-lekÃ©rdezÃ©sein keresztÃ¼l.
+- **API-Ã¡tjÃ¡rÃ³:** Minden kÃ¼lsÅ‘ Ã¼gyfÃ©lkÃ©relem egy API-Ã¡tjÃ¡rÃ³n keresztÃ¼l halad Ã¡t, amely a hitelesÃ­tÃ©st, az ÃºtvÃ¡lasztÃ¡st Ã©s a sebessÃ©gkorlÃ¡tozÃ¡st kezeli.
+- **SzolgÃ¡ltatÃ³i absztrakciÃ³:** A kÃ¼lsÅ‘ szolgÃ¡ltatÃ¡sok (AI modellek, fizetÃ©si szolgÃ¡ltatÃ³k, fordÃ­tÃ³motorok) absztrakciÃ³s rÃ©tegeken keresztÃ¼l integrÃ¡lva vannak, elkerÃ¼lve a merev kÃ³dolt fÃ¼ggÅ‘sÃ©get, Ã©s lehetÅ‘vÃ© tÃ©ve a rugalmas szolgÃ¡ltatÃ³cserÃ©t.
 
-### Kommunikációs minták
-- **Szinkron API-k (REST/HTTPS):** Azonnali kérésekhez (például bejelentkezés, profilbeállítások vagy közvetlen fordítás) használható.
-- **Aszinkron események (Eseménybusz):** A Nexus Gaja központi idegrendszere a késleltetett, szétválasztott feldolgozáshoz (pl. "Üzenet. Létrehozva", amely aszinkron módon indítja el a moderálást, a fordítást és az értesítést).
-- **Valós idejű (WebSocket):** Dedikált csatornák élő csevegéshez és gépelési jelzőkhöz.
+### KommunikÃ¡ciÃ³s mintÃ¡k
+- **Szinkron API-k (REST/HTTPS):** Azonnali kÃ©rÃ©sekhez (pÃ©ldÃ¡ul bejelentkezÃ©s, profilbeÃ¡llÃ­tÃ¡sok vagy kÃ¶zvetlen fordÃ­tÃ¡s) hasznÃ¡lhatÃ³.
+- **Aszinkron esemÃ©nyek (EsemÃ©nybusz):** A Nexus Gaja kÃ¶zponti idegrendszere a kÃ©sleltetett, szÃ©tvÃ¡lasztott feldolgozÃ¡shoz (pl. "Ãœzenet. LÃ©trehozva", amely aszinkron mÃ³don indÃ­tja el a moderÃ¡lÃ¡st, a fordÃ­tÃ¡st Ã©s az Ã©rtesÃ­tÃ©st).
+- **ValÃ³s idejÅ± (WebSocket):** DedikÃ¡lt csatornÃ¡k Ã©lÅ‘ csevegÃ©shez Ã©s gÃ©pelÃ©si jelzÅ‘khÃ¶z.
 
-### Biztonság és megbízhatóság
-- **Zero-Trust Model:** A belső hálózati forgalom nem automatikusan megbízható; a szolgáltatások közötti érzékeny kommunikáció hitelesítést igényel.
-- **Idempotency & Outbox Pattern:** A kritikus műveleteket (például adományozást vagy üzenetküldést) úgy tervezték meg, hogy idempotensek legyenek, hogy megakadályozzák a párhuzamos feldolgozást, a Kimenő minta használatával biztosítva, hogy az események soha ne vesszenek el még az adatbázis-tranzakciók során sem.
+### BiztonsÃ¡g Ã©s megbÃ­zhatÃ³sÃ¡g
+- **Zero-Trust Model:** A belsÅ‘ hÃ¡lÃ³zati forgalom nem automatikusan megbÃ­zhatÃ³; a szolgÃ¡ltatÃ¡sok kÃ¶zÃ¶tti Ã©rzÃ©keny kommunikÃ¡ciÃ³ hitelesÃ­tÃ©st igÃ©nyel.
+- **Idempotency & Outbox Pattern:** A kritikus mÅ±veleteket (pÃ©ldÃ¡ul adomÃ¡nyozÃ¡st vagy Ã¼zenetkÃ¼ldÃ©st) Ãºgy terveztÃ©k meg, hogy idempotensek legyenek, hogy megakadÃ¡lyozzÃ¡k a pÃ¡rhuzamos feldolgozÃ¡st, a KimenÅ‘ minta hasznÃ¡latÃ¡val biztosÃ­tva, hogy az esemÃ©nyek soha ne vesszenek el mÃ©g az adatbÃ¡zis-tranzakciÃ³k sorÃ¡n sem.
 
-## MVP tartománymodell (WP 1.12)
+## MVP tartomÃ¡nymodell (WP 1.12)
 
 ![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
 
 Nexus Gaja employs a strictly Domain-Driven MVP Architecture (ADR-025), designed as a modular monolith with clear domain boundaries. This structure prevents premature microservice complexity while retaining the flexibility to split out specific domains later.
 
-### Alapdomain entitások
-Az architektúra kifejezetten elválasztja a különálló fogalmakat, hogy biztosítsa az adatok integritását és elkerülje az olyan szerkezeti buktatókat, mint a „Felhasználónév = Ember”:
-- **Identitás és fiókok:** "Személy" ≠ "Felhasználói fiók" ≠ "Identity Verification". Az ellenőrzött személy fiókon keresztül vesz részt, de az entitások külön maradnak.
-- **Kommunikáció:** "Üzenet" ≠ "Fordítás". Az eredeti üzenet változatlan marad; a fordítások kapcsolt entitások.
-- **Moderálás:** "Jelentés" ≠ "Moderálási döntés". A jelentés csupán követelés; moderációs ügy folytatja le a vizsgálatot.
-- **Pénzügyek:** "Adományozás" ≠ "Alapegyenleg". A kifizetéseket egy változtathatatlan főkönyvön keresztül könyvelik egy alapba, biztosítva a pénzügyi átláthatóságot.
+### Alapdomain entitÃ¡sok
+Az architektÃºra kifejezetten elvÃ¡lasztja a kÃ¼lÃ¶nÃ¡llÃ³ fogalmakat, hogy biztosÃ­tsa az adatok integritÃ¡sÃ¡t Ã©s elkerÃ¼lje az olyan szerkezeti buktatÃ³kat, mint a â€žFelhasznÃ¡lÃ³nÃ©v = Emberâ€:
+- **IdentitÃ¡s Ã©s fiÃ³kok:** "SzemÃ©ly" â‰  "FelhasznÃ¡lÃ³i fiÃ³k" â‰  "Identity Verification". Az ellenÅ‘rzÃ¶tt szemÃ©ly fiÃ³kon keresztÃ¼l vesz rÃ©szt, de az entitÃ¡sok kÃ¼lÃ¶n maradnak.
+- **KommunikÃ¡ciÃ³:** "Ãœzenet" â‰  "FordÃ­tÃ¡s". Az eredeti Ã¼zenet vÃ¡ltozatlan marad; a fordÃ­tÃ¡sok kapcsolt entitÃ¡sok.
+- **ModerÃ¡lÃ¡s:** "JelentÃ©s" â‰  "ModerÃ¡lÃ¡si dÃ¶ntÃ©s". A jelentÃ©s csupÃ¡n kÃ¶vetelÃ©s; moderÃ¡ciÃ³s Ã¼gy folytatja le a vizsgÃ¡latot.
+- **PÃ©nzÃ¼gyek:** "AdomÃ¡nyozÃ¡s" â‰  "Alapegyenleg". A kifizetÃ©seket egy vÃ¡ltoztathatatlan fÅ‘kÃ¶nyvÃ¶n keresztÃ¼l kÃ¶nyvelik egy alapba, biztosÃ­tva a pÃ©nzÃ¼gyi Ã¡tlÃ¡thatÃ³sÃ¡got.
 
-### Összekapcsolt tartományok
-A rendszer világos logikai tartományokra (Bounded Contexts) van felosztva: identitás, fiók, szervezet, kommunikáció, közösség, nyelv, moderálás, értesítés, pénzügy és irányítás. Ezek a tartományok leképezik a teljes utat a valós entitásoktól (Felhasználók, Iskolák, NGO-k) a digitális interakcióikig és a kapcsolódó kormányzásig.
+### Ã–sszekapcsolt tartomÃ¡nyok
+A rendszer vilÃ¡gos logikai tartomÃ¡nyokra (Bounded Contexts) van felosztva: identitÃ¡s, fiÃ³k, szervezet, kommunikÃ¡ciÃ³, kÃ¶zÃ¶ssÃ©g, nyelv, moderÃ¡lÃ¡s, Ã©rtesÃ­tÃ©s, pÃ©nzÃ¼gy Ã©s irÃ¡nyÃ­tÃ¡s. Ezek a tartomÃ¡nyok lekÃ©pezik a teljes utat a valÃ³s entitÃ¡soktÃ³l (FelhasznÃ¡lÃ³k, IskolÃ¡k, NGO-k) a digitÃ¡lis interakciÃ³ikig Ã©s a kapcsolÃ³dÃ³ kormÃ¡nyzÃ¡sig.
 
-## Projekt állapota
-A projekt jelenleg az aktív építészeti és tervezési fázisban van.
-A folyamatban lévő építészeti döntések a „/docs” mappában vannak dokumentálva.---
+## Projekt Ã¡llapota
+A projekt jelenleg az aktÃ­v Ã©pÃ­tÃ©szeti Ã©s tervezÃ©si fÃ¡zisban van.
+A folyamatban lÃ©vÅ‘ Ã©pÃ­tÃ©szeti dÃ¶ntÃ©sek a â€ž/docsâ€ mappÃ¡ban vannak dokumentÃ¡lva.---
 
-## Licenc és szellemi tulajdon
+## Licenc Ã©s szellemi tulajdon
 
-> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — Minden jog fenntartva.**
+> **Â© 2024â€“2026 SonnerStudio - Jan Friske GrÃ¼nder, Inhaber, Direktor und Chefdesigner von SonnerStudio â€” Minden jog fenntartva.**
 
-**A Nexus Gaja** a **SonnerStudio** keretében működő **Jan Friske** kizárólagos szellemi tulajdona.
+**A Nexus Gaja** a **SonnerStudio** keretÃ©ben mÅ±kÃ¶dÅ‘ **Jan Friske** kizÃ¡rÃ³lagos szellemi tulajdona.
 
-Jan Friske a Nexus Gaja egyedüli alkotója, tervezője és tulajdonosa — beleértve az összes koncepciót, architektúrát, domain modellt, márkaazonosságot és a kapcsolódó dokumentációt.
+Jan Friske a Nexus Gaja egyedÃ¼li alkotÃ³ja, tervezÅ‘je Ã©s tulajdonosa â€” beleÃ©rtve az Ã¶sszes koncepciÃ³t, architektÃºrÃ¡t, domain modellt, mÃ¡rkaazonossÃ¡got Ã©s a kapcsolÃ³dÃ³ dokumentÃ¡ciÃ³t.
 
-**Semmilyen jog, licenc vagy tulajdoni érdek nem illeti meg harmadik feleket**, tekintet nélkül méretükre, piaci pozíciójukra vagy technológiai iparban betöltött befolyásukra.
+**Semmilyen jog, licenc vagy tulajdoni Ã©rdek nem illeti meg harmadik feleket**, tekintet nÃ©lkÃ¼l mÃ©retÃ¼kre, piaci pozÃ­ciÃ³jukra vagy technolÃ³giai iparban betÃ¶ltÃ¶tt befolyÃ¡sukra.
 
-### Mi NEM megengedett kifejezett írásbeli hozzájárulás nélkül:
-- ❌ A szoftver vagy dokumentációjának másolása, sokszorosítása vagy terjesztése
-- ❌ Módosítás, adaptálás vagy származékos művek létrehozása
-- ❌ A Nexus Gaja bármely részének kereskedelmi felhasználása
-- ❌ A repozitórium tartalmának AI vagy LLM rendszerek betanítási adatként való felhasználása
-- ❌ Jogok allicencelése vagy átruházása harmadik felekre
+### Mi NEM megengedett kifejezett Ã­rÃ¡sbeli hozzÃ¡jÃ¡rulÃ¡s nÃ©lkÃ¼l:
+- âŒ A szoftver vagy dokumentÃ¡ciÃ³jÃ¡nak mÃ¡solÃ¡sa, sokszorosÃ­tÃ¡sa vagy terjesztÃ©se
+- âŒ MÃ³dosÃ­tÃ¡s, adaptÃ¡lÃ¡s vagy szÃ¡rmazÃ©kos mÅ±vek lÃ©trehozÃ¡sa
+- âŒ A Nexus Gaja bÃ¡rmely rÃ©szÃ©nek kereskedelmi felhasznÃ¡lÃ¡sa
+- âŒ A repozitÃ³rium tartalmÃ¡nak AI vagy LLM rendszerek betanÃ­tÃ¡si adatkÃ©nt valÃ³ felhasznÃ¡lÃ¡sa
+- âŒ Jogok allicencelÃ©se vagy Ã¡truhÃ¡zÃ¡sa harmadik felekre
 
 ### Kapcsolat
-Licenc-kérdések esetén: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+Licenc-kÃ©rdÃ©sek esetÃ©n: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-*A „Nexus Gaja" és a Nexus Gaja logó Jan Friske védjegyei. A név vagy márka jogosulatlan használata tilos.*
+*A â€žNexus Gaja" Ã©s a Nexus Gaja logÃ³ Jan Friske vÃ©djegyei. A nÃ©v vagy mÃ¡rka jogosulatlan hasznÃ¡lata tilos.*
 
-➡️ A teljes licencfeltételeket a [LICENSE](LICENSE) fájlban találja
+âž¡ï¸ A teljes licencfeltÃ©teleket a [LICENSE](LICENSE) fÃ¡jlban talÃ¡lja

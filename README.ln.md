@@ -1,4 +1,8 @@
-# Nexus Gaja ezali
+﻿# Nexus Gaja ezali
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
+
+
 
 > *Mpo na kimia ya mokili mobimba mpe bososoli ya mokili mobimba*
 

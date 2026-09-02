@@ -1,4 +1,4 @@
-# Nexus Gaja
+﻿# Nexus Gaja
 
 > *Kwa amani ya ulimwengu na uelewa wa pamoja*
 
@@ -6,11 +6,13 @@
 ![Nexus Gaja Logo](assets/logo.jpg)
 
 ![Nexus Gaja Shujaa](assets/img/nexus_hero.jpg)
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
 
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 
@@ -20,7 +22,7 @@
 
 ![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
 
-Katika ulimwengu wa utandawazi, lugha ndio kikwazo kikubwa zaidi. Lengo kuu la Nexus Gaja ni kuwezesha mawasiliano ya watu bila vikwazo, bila vikwazo, na kimuktadha—bila kujali kama wanazungumza lugha ya kawaida.
+Katika ulimwengu wa utandawazi, lugha ndio kikwazo kikubwa zaidi. Lengo kuu la Nexus Gaja ni kuwezesha mawasiliano ya watu bila vikwazo, bila vikwazo, na kimuktadhaâ€”bila kujali kama wanazungumza lugha ya kawaida.
 
 Siyo tu kuhusu kutafsiri maneno kwa ukali, lakini kuhusu **kuhamisha maana**. Nexus Gaja huunganisha watu kwa undani zaidi kwa kuelewa nuances za kitamaduni, kimaeneo, na kimuktadha, hivyo basi kuwezesha mazungumzo ya kweli na ya kweli.
 
@@ -43,7 +45,7 @@ Msingi wa kiufundi wa Nexus Gaja ni modeli ya mawasiliano iliyoundwa maalum amba
 
 ### Utegemezi wa Muktadha
 Tafsiri katika Nexus Gaja kamwe hazioni ujumbe kwa kutengwa. Injini inazingatia uongozi mzima:
-`Ujumbe` → `Ujumbe Uliotangulia` → `Muktadha wa Mazungumzo` → `Muktadha wa Jumuiya` → `Lugha / Eneo` → `Mapendeleo ya Mtumiaji`
+`Ujumbe` â†’ `Ujumbe Uliotangulia` â†’ `Muktadha wa Mazungumzo` â†’ `Muktadha wa Jumuiya` â†’ `Lugha / Eneo` â†’ `Mapendeleo ya Mtumiaji`
 
 ### Ufanisi kupitia Tafsiri Unapohitaji
 Tafsiri hutokea kwa ufanisi wa rasilimali tu **kwa ombi** (Inapohitajika). Mtumiaji anapoomba maudhui, hutafsiriwa katika lugha yao iliyowekwa awali. Mara tafsiri ya lugha mahususi inapotolewa, huhifadhiwa kabisa (caching) ili kuharakisha maombi ya siku zijazo.
@@ -67,34 +69,34 @@ Ngazi ya tatu lazima kudhibitiwa na binadamu katika kesi kali.
 Badala ya AI moja, mfumo mdogo wa nguvu unaanzishwa:
 ``` maandishi
                  NEXUS GAJA AI MODERATION
-                          │
-       ┌─────────────────┼───────────────────
-       │ │ │
+                          â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+       â”‚ â”‚ â”‚
   Lugha AI Usalama AI Ulaghai AI
-       │ │ │
-       ├────────────┬───┴───────────────────
-       │ │ │
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+       â”‚ â”‚ â”‚
  Utambulisho wa Tabia ya Tafsiri
  Ishara za Uchambuzi
-       │ │ │
-       └─────────────┼───────────────────
-                      ▼
+       â”‚ â”‚ â”‚
+       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+                      â–¼
                Tathmini ya Hatari
-                      │
-                      ▼
+                      â”‚
+                      â–¼
                Uhakiki wa Binadamu
 ```
 
 ### 3. Moduli Muhimu Zaidi za AI
 Nexus Gaja hutumia maeneo tisa maalum ya uchanganuzi:
-- **M1 – Uelewa wa Lugha**: Hutambua lugha, lahaja, misimu, viashirio vya kejeli, masuala ya tafsiri.
+- **M1 â€“ Uelewa wa Lugha**: Hutambua lugha, lahaja, misimu, viashirio vya kejeli, masuala ya tafsiri.
 - **M2 - Utambuzi wa sumu / Unyanyasaji**: Hugundua matusi, mashambulizi ya kibinafsi, unyanyasaji.
 - **M3 - Utambuzi wa Tishio**: Hugundua vitisho vinavyoweza kutokea, usaliti, matangazo ya vurugu.
-- **M4 – Utambuzi wa Chuki / Udhalilishaji**: Hugundua mashambulizi yanayolengwa dhidi ya watu kulingana na uhusiano mahususi.
+- **M4 â€“ Utambuzi wa Chuki / Udhalilishaji**: Hugundua mashambulizi yanayolengwa dhidi ya watu kulingana na uhusiano mahususi.
 - **M5 - Utambuzi wa Taka / Udanganyifu**: Hugundua barua taka, tabia ya roboti, upotoshaji ulioratibiwa.
-- **M6 – Utambuzi wa Ulaghai**: Hugundua majaribio ya ulaghai yanayoshukiwa, wizi wa data binafsi, uhandisi wa kijamii.
-- **M7 – Uadilifu wa Utambulisho**: Hukagua ishara kuhusu uchukuaji wa akaunti, akaunti nyingi, kupiga marufuku ukwepaji.
-- **M8 – Usalama wa Vyombo vya Habari**: Huchanganua picha, sauti, video, hati.
+- **M6 â€“ Utambuzi wa Ulaghai**: Hugundua majaribio ya ulaghai yanayoshukiwa, wizi wa data binafsi, uhandisi wa kijamii.
+- **M7 â€“ Uadilifu wa Utambulisho**: Hukagua ishara kuhusu uchukuaji wa akaunti, akaunti nyingi, kupiga marufuku ukwepaji.
+- **M8 â€“ Usalama wa Vyombo vya Habari**: Huchanganua picha, sauti, video, hati.
 - **M9 - Injini ya Muktadha**: Moduli muhimu zaidi. Inaunganisha matokeo ya mtu binafsi.
 
 ### 4. Kwa nini Injini ya Muktadha ni Muhimu
@@ -107,22 +109,22 @@ Kiasi haiwezi tu kulinganisha maneno. Ni lazima ichanganue kiwango cha kisemanti
 Asili na tafsiri huchanganuliwa kando. Hapo ndipo "Tathmini ya Usanifu wa Pamoja" hufanyika. Hii inaruhusu Nexus Gaja kubaini ikiwa tafsiri yenyewe inaweza kuwa imeongezeka au kubadilisha ukweli.
 
 ### 7. Alama ya Kujiamini
-Kila tathmini ya AI hupokea alama ya kujiamini (k.m., uwezekano wa Tishio: 0.96). Hata hivyo: **Alama ya Kujiamini ≠ Ukweli.** Alama ya 96% inamaanisha tu kwamba muundo una uhakika mkubwa wa uainishaji wake, si lazima kwamba mtumiaji ana hatia.
+Kila tathmini ya AI hupokea alama ya kujiamini (k.m., uwezekano wa Tishio: 0.96). Hata hivyo: **Alama ya Kujiamini â‰  Ukweli.** Alama ya 96% inamaanisha tu kwamba muundo una uhakika mkubwa wa uainishaji wake, si lazima kwamba mtumiaji ana hatia.
 
 ### 8. Kutokuwa na uhakika Kunakuwa Ishara Yenyewe
 Ikiwa AI haina uhakika (k.m., Tishio: 0.62, Satire: 0.54), lazima isitekeleze tu sheria kali. Badala yake, kutokuwa na uhakika kunajengwa moja kwa moja kwenye usanifu: **Uhakiki wa Kibinadamu Unahitajika**.
 
 ### 9. Kanda Nne za Maamuzi
-- 🟢 **KIJANI**: Kuna uwezekano mkubwa wa kutii. → hakuna hatua.
-- 🟡 **MANJANO**: Ukiukaji unaowezekana. → kufuatilia / kutoa onyo ikiwa ni lazima.
-- 🟠 **CHUNGWA**: Ukiukaji unaowezekana. → ukaguzi wa wastani.
-- 🔴 **RED**: Ukiukaji mkubwa unaowezekana. → kipimo cha kinga cha haraka + mapitio ya binadamu.
+- ðŸŸ¢ **KIJANI**: Kuna uwezekano mkubwa wa kutii. â†’ hakuna hatua.
+- ðŸŸ¡ **MANJANO**: Ukiukaji unaowezekana. â†’ kufuatilia / kutoa onyo ikiwa ni lazima.
+- ðŸŸ  **CHUNGWA**: Ukiukaji unaowezekana. â†’ ukaguzi wa wastani.
+- ðŸ”´ **RED**: Ukiukaji mkubwa unaowezekana. â†’ kipimo cha kinga cha haraka + mapitio ya binadamu.
 
 ### 10. Hapana "Adhabu ya AI"
 **AI haitoi vikwazo vya mwisho.** Inaweza kuanzisha hatua za haraka za kiufundi (k.m., kusimamisha ujumbe kwa muda) kwa matatizo makubwa ya usalama, lakini uamuzi wa mwisho bado unaweza kuthibitishwa.
 
 ### 11. Hatua za Kinga Inaweza Kutokea Kiotomatiki
-Katika tukio la tishio halisi (Tishio limegunduliwa → Kujiamini kwa juu → Kizuizi cha muda → Mapitio ya kibinadamu → Uamuzi), tunalinda mtumiaji aliyetishiwa bila kugeuza AI kuwa hakimu.
+Katika tukio la tishio halisi (Tishio limegunduliwa â†’ Kujiamini kwa juu â†’ Kizuizi cha muda â†’ Mapitio ya kibinadamu â†’ Uamuzi), tunalinda mtumiaji aliyetishiwa bila kugeuza AI kuwa hakimu.
 
 ### 12. AI Lazima Iweze Kuhalalisha Maamuzi Yake
 DSA inahitaji sababu zilizo wazi na mahususi. AI hutoa hoja zilizopangwa: Kanuni (NG-CONDUCT-004), Imegunduliwa (Tishio halisi linalowezekana), Kujiamini (0.94), Muktadha husika (Ujumbe 4 Zilizotangulia), Hatua inayopendekezwa (Uhakiki wa kibinadamu).
@@ -139,7 +141,7 @@ Kulingana na sheria za uwazi za Sheria ya EU AI (kuanzia Agosti 2026), maudhui y
 ### 16. Utambuzi wa kina
 Usanifu unalenga kugundua picha za sintetiki, sauti zilizoundwa na za kina. Walakini, kugundua sio uthibitisho wa kiotomatiki.
 
-### 17. Hakuna "Mashine ya Ukweli" ya Kiotomatiki (Moderation ≠ Kukagua Ukweli)
+### 17. Hakuna "Mashine ya Ukweli" ya Kiotomatiki (Moderation â‰  Kukagua Ukweli)
 Mfumo mmoja hukagua: "Je, maudhui yanakiuka sheria?" (Ukadiriaji wa Maudhui), mwingine hutoa: "Ni taarifa na vyanzo gani vinavyopatikana?" (Msaada wa Taarifa). Maoni hayafutwi tu kwa kuwa "makosa."
 
 ### 18. Kinga Dhidi ya Tafsiri Potofu ya Kitamaduni
@@ -152,7 +154,7 @@ AI hutumia muktadha, emoji, historia ya mazungumzo, na miundo ya kejeli inayojul
 No severe moderation intervention may be based solely on a single automated classification result (Text + Context + Behaviour + Language + Media + Rule Engine = Risk Assessment).
 
 ### 21. User Behaviour Signals & No Social Credit System
-This relates to technical abuse signals (e.g., mass spam posting), not a general social rating system. Nexus Gaja does not maintain a Social Credit System – moderation serves security, not the assessment of a person's worth.
+This relates to technical abuse signals (e.g., mass spam posting), not a general social rating system. Nexus Gaja does not maintain a Social Credit System â€“ moderation serves security, not the assessment of a person's worth.
 
 ### 22. Moderation AI Must Be Auditable
 All relevant automated decisions are logged (Event-ID, Rule-ID, Confidence, Human-Review, etc.) to ensure traceability.
@@ -198,31 +200,31 @@ Nexus Gaja inasalia kuwa **nafasi ya mawasiliano badala ya nafasi ya matangazo**
 Ufadhili umejengwa juu ya nguzo sita:
 ``` maandishi
                  NEXUS GAJA
-                     │
-       ┌────────────┼────────────┐
-       ▼ ▼ ▼
+                     â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â–¼ â–¼ â–¼
    MICHANGO YA PREMIUM ORGANIZATION
-       │ │ │
-       ├──────────────────────────┤
-       ▼ ▼ ▼
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+       â–¼ â–¼ â–¼
     HUDUMA ZA USHIRIKI WA RUZUKU
 ```
 
 #### Nguzo ya 1 - Uanachama wa Msingi Bila Malipo
 **Nexus Gaja Isiyolipishwa** huwezesha uelewa wa kimsingi wa kimataifa kwa kila mtu (wasifu, mawasiliano ya kimataifa, machapisho, jumuiya, gumzo, tafsiri msingi) bila gharama.
 
-#### Nguzo ya 2 – Matoleo ya Kulipiwa
+#### Nguzo ya 2 â€“ Matoleo ya Kulipiwa
 Matoleo yanayolipishwa ya hiari (**Nexus Gaja Plus**) yanayotoa viwango vikubwa zaidi vya hifadhi, ubora wa juu wa maudhui, viwango vilivyopanuliwa vya AI na vipengele vya shirika.
 **Muhimu (Freemium badala ya Freemium Nyeusi):** Mawasiliano ya kimsingi hayapaswi kuharibiwa kamwe.
 
-#### Nguzo ya 3 – Mashirika
+#### Nguzo ya 3 â€“ Mashirika
 Akaunti maalum za shule, vyuo vikuu, mashirika yasiyo ya kiserikali, biashara na manispaa (**Shirika la Nexus Gaja**). Shule zinaweza kusaidiwa kupitia viwango vya kitaasisi kama vizidishi vya uelewa wa kimataifa.
 
-#### Nguzo ya 4 – Michango
+#### Nguzo ya 4 â€“ Michango
 **Njia ya Ufadhili ya Nexus Gaja** inakubali michango ya jumla na iliyotengwa (k.m., "kwa mawasiliano ya kimataifa ya vijana"). **Leja ya Ugawaji wa Fedha** inahakikisha ugawaji wa fedha kwa uwazi.
 **Mfuko wa Kusudi na Tombola:** Sehemu ya michango hulisha bwawa kwa matumizi bila malipo/punguzo. Utaratibu wa bahati nasibu/tombola unaweza kutenga fedha hizi kwa uwazi na ukaguzi.
 
-#### Nguzo ya 5 – Ufadhili wa Taasisi
+#### Nguzo ya 5 â€“ Ufadhili wa Taasisi
 Misingi, programu za ufadhili wa kitamaduni, au programu za serikali.
 **NG-FIN-002:** Usaidizi wa kifedha haununui udhibiti wa uhariri au kiufundi (Uhuru).
 
@@ -233,7 +235,7 @@ Huduma za B2B kama vile **Translation-as-a-Service** (API), mawasiliano ya shiri
 **NG-FIN-003:** Data ya kibinafsi ya mtumiaji si bidhaa. Hakuna uuzaji wa orodha, wasifu, au historia. Nexus Gaja hainufaiki kutokana na ufuatiliaji wa kisaikolojia (Uchumi wa Ufuatiliaji).
 
 ### 5. Financial Transparency & Fund Ledger
-**Nexus Gaja Financial Transparency:** Publication of aggregated financial structures. Earmarked donations receive technical accounting (Fund ID → Purpose → Balance → Allocation). No cross-subsidization of social purposes into corporate marketing.
+**Nexus Gaja Financial Transparency:** Publication of aggregated financial structures. Earmarked donations receive technical accounting (Fund ID â†’ Purpose â†’ Balance â†’ Allocation). No cross-subsidization of social purposes into corporate marketing.
 
 ### 6. Solidarity-Based Financing Model
 Pricing is based on cost-orientation, fairness, and solidarity.
@@ -243,42 +245,42 @@ Pricing is based on cost-orientation, fairness, and solidarity.
 Hakuna utegemezi wa kuweka watumiaji "mtandaoni kwa muda mrefu iwezekanavyo" (hakuna ragebait, milisho isiyo na kikomo).
 Badala yake, tunatumia vipimo kama vile:
 - **Kielezo cha Mawasiliano Ulimwenguni (GCI):** Uhusiano wenye mafanikio wa mawasiliano kati ya watu kutoka maeneo mbalimbali ya lugha/utamaduni.
-- **Uwiano Endelevu wa Mfumo (PSR):** Mapato ya mara kwa mara / gharama za uendeshaji zinazorudiwa (Lengo ≥ 1).
+- **Uwiano Endelevu wa Mfumo (PSR):** Mapato ya mara kwa mara / gharama za uendeshaji zinazorudiwa (Lengo â‰¥ 1).
 
 ### 8. Kile Tusichokitaka kwa Dhahiri (Orodha Hasi)
 Nexus Gaja **haifadhiliwi na:
-❌ Uuzaji wa data ya kibinafsi
-❌ Utangazaji wa kitamaduni uliobinafsishwa
-❌ Kufuatilia tabia ya mtumiaji kwa madhumuni ya utangazaji
-❌ Uuzaji wa data ya mawasiliano ya kibinafsi
-❌ Utumiaji wa data wa AI uliofichwa
-❌ Ukuta wa malipo wa Ujanja wa Premium
-❌ Masharti ya ufikiaji Bandia wa uchumaji wa mapato
-❌ Ushawishi wa kisiasa unaolipwa
-❌ Ununuzi wa maamuzi ya upendeleo ya udhibiti.
+âŒ Uuzaji wa data ya kibinafsi
+âŒ Utangazaji wa kitamaduni uliobinafsishwa
+âŒ Kufuatilia tabia ya mtumiaji kwa madhumuni ya utangazaji
+âŒ Uuzaji wa data ya mawasiliano ya kibinafsi
+âŒ Utumiaji wa data wa AI uliofichwa
+âŒ Ukuta wa malipo wa Ujanja wa Premium
+âŒ Masharti ya ufikiaji Bandia wa uchumaji wa mapato
+âŒ Ushawishi wa kisiasa unaolipwa
+âŒ Ununuzi wa maamuzi ya upendeleo ya udhibiti.
 
 ### 9. Usanifu wa Awali wa Fedha
 ``` maandishi
                          NEXUS GAJA
-                              │
-             ┌───────────────┼─────────────────────
-             │ │ │
-             ▼ ▼ ▼
+                              â”‚
+             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+             â”‚ â”‚ â”‚
+             â–¼ â–¼ â–¼
           USERS ORGANIZATIONS ENTERPRISE
-             │ │ │
-             └───────────────┼──────────────────
-                              │
+             â”‚ â”‚ â”‚
+             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+                              â”‚
                        HUDUMA ZA JUKWAA
-                              │
-          ┌────────────────── ┼──────────────────┐
-          ▼ ▼ ▼
+                              â”‚
+          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+          â–¼ â–¼ â–¼
        API YA PREMIUM DONATIONS
-                              │
-                    ┌─────────┴─────────┐
-                    ▼ ▼
+                              â”‚
+                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+                    â–¼ â–¼
                FEDHA ZINAZOZUIA MFUKO MKUU
-                                        │
-                                        ▼
+                                        â”‚
+                                        â–¼
                                   KUSUDI LA KIJAMII
 ```
 
@@ -320,10 +322,10 @@ Nexus Gaja inaajiri Usanifu wa MVP Unaoendeshwa na Kikoa (ADR-025), iliyoundwa k
 
 ### Huluki Muhimu za Kikoa
 Usanifu hutenganisha kwa uwazi dhana tofauti ili kuhakikisha uadilifu wa data na kuepuka mitego ya kimuundo kama "Jina la mtumiaji = Binadamu":
-- **Kitambulisho na Akaunti:** `Mtu` ≠ `Akaunti ya Mtumiaji` ≠ `Uthibitishaji wa Kitambulisho`. Mtu aliyeidhinishwa anashiriki kupitia akaunti, lakini huluki hubaki tofauti.
-- **Mawasiliano:** `Ujumbe` ≠ `Tafsiri`. Ujumbe asilia haubadiliki; tafsiri ni vyombo vilivyounganishwa.
-- **Ukadiriaji:** `Ripoti` ≠ `Uamuzi wa Kudhibiti`. Ripoti ni madai tu; kesi ya wastani hufanya uchunguzi.
-- **Fedha:** `Mchango` ≠ `Salio la Mfuko`. Malipo yamewekwa kupitia leja isiyobadilika kwa hazina, kuhakikisha uwazi wa kifedha.
+- **Kitambulisho na Akaunti:** `Mtu` â‰  `Akaunti ya Mtumiaji` â‰  `Uthibitishaji wa Kitambulisho`. Mtu aliyeidhinishwa anashiriki kupitia akaunti, lakini huluki hubaki tofauti.
+- **Mawasiliano:** `Ujumbe` â‰  `Tafsiri`. Ujumbe asilia haubadiliki; tafsiri ni vyombo vilivyounganishwa.
+- **Ukadiriaji:** `Ripoti` â‰  `Uamuzi wa Kudhibiti`. Ripoti ni madai tu; kesi ya wastani hufanya uchunguzi.
+- **Fedha:** `Mchango` â‰  `Salio la Mfuko`. Malipo yamewekwa kupitia leja isiyobadilika kwa hazina, kuhakikisha uwazi wa kifedha.
 
 ### Vikoa Vilivyounganishwa
 Mfumo umegawanywa katika vikoa vya kimantiki vilivyo wazi (Miktadha Iliyounganishwa): Utambulisho, Akaunti, Shirika, Mawasiliano, Jumuiya, Lugha, Usaidizi, Arifa, Fedha, na Utawala. Vikoa hivi hupanga safari nzima kutoka kwa vyombo vya ulimwengu halisi (Watumiaji, Shule, Mashirika Yasiyo ya Kiserikali) hadi mwingiliano wao wa kidijitali na utawala unaohusiana.
@@ -338,7 +340,7 @@ Maamuzi yanayoendelea ya usanifu yameandikwa kwenye folda ya `/hati`.
 
 ## Leseni na Miliki Bunifu
 
-> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — Haki zote zimehifadhiwa.**
+> **Â© 2024â€“2026 SonnerStudio - Jan Friske GrÃ¼nder, Inhaber, Direktor und Chefdesigner von SonnerStudio â€” Haki zote zimehifadhiwa.**
 
 **Nexus Gaja** ni mali ya kiakili ya kipekee ya **Jan Friske**, inayofanya kazi chini ya **SonnerStudio**.
 

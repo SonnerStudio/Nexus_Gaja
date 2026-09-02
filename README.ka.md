@@ -1,22 +1,24 @@
-# Nexus Gaja
+﻿# Nexus Gaja
 
-> *Für Völkerfrieden und Völkerverständigung*
+> *FÃ¼r VÃ¶lkerfrieden und VÃ¶lkerverstÃ¤ndigung*
 
 
 ![Nexus Gaja Logo](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
 
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 
@@ -26,14 +28,14 @@
 
 ![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
 
-In einer globalisierten Welt ist Sprache oft die größte Barriere. Das Hauptziel von Nexus Gaja ist es, eine nahtlose, barrierefreie und kontextgenaue Kommunikation zwischen Menschen zu ermöglichen – unabhängig davon, ob sie eine gemeinsame Sprache sprechen oder nicht. 
+In einer globalisierten Welt ist Sprache oft die grÃ¶ÃŸte Barriere. Das Hauptziel von Nexus Gaja ist es, eine nahtlose, barrierefreie und kontextgenaue Kommunikation zwischen Menschen zu ermÃ¶glichen â€“ unabhÃ¤ngig davon, ob sie eine gemeinsame Sprache sprechen oder nicht. 
 
-Es geht nicht nur um das sture Übersetzen von Wörtern, sondern um das **Übertragen von Bedeutung**. Nexus Gaja verbindet Menschen auf einer tieferen Ebene, indem es kulturelle, regionale und kontextuelle Feinheiten versteht und so echte, authentische Unterhaltungen ermöglicht.
+Es geht nicht nur um das sture Ãœbersetzen von WÃ¶rtern, sondern um das **Ãœbertragen von Bedeutung**. Nexus Gaja verbindet Menschen auf einer tieferen Ebene, indem es kulturelle, regionale und kontextuelle Feinheiten versteht und so echte, authentische Unterhaltungen ermÃ¶glicht.
 
-## Möglichkeiten und Features
-- **Multimediale Kommunikation**: Das System verarbeitet nicht nur Text, sondern auch Bild, Audio und Video. Dies erlaubt vollständig immersive Unterhaltungen (z. B. Videotelefonie oder Sprachnachrichten) in Echtzeit über Sprachgrenzen hinweg.
-- **Kontextsensibilität**: Erkennung von Ironie, Redewendungen, Fachjargon und regionalen Dialekten, die von herkömmlichen Übersetzern oftmals missverstanden werden.
-- **Plattformübergreifendes Netzwerk**: Dient als Basis für private Chats, Foren-Threads (Beiträge mit Kommentaren) und globale Community-Interaktionen.
+## MÃ¶glichkeiten und Features
+- **Multimediale Kommunikation**: Das System verarbeitet nicht nur Text, sondern auch Bild, Audio und Video. Dies erlaubt vollstÃ¤ndig immersive Unterhaltungen (z. B. Videotelefonie oder Sprachnachrichten) in Echtzeit Ã¼ber Sprachgrenzen hinweg.
+- **KontextsensibilitÃ¤t**: Erkennung von Ironie, Redewendungen, Fachjargon und regionalen Dialekten, die von herkÃ¶mmlichen Ãœbersetzern oftmals missverstanden werden.
+- **PlattformÃ¼bergreifendes Netzwerk**: Dient als Basis fÃ¼r private Chats, Foren-Threads (BeitrÃ¤ge mit Kommentaren) und globale Community-Interaktionen.
 
 ---
 
@@ -43,337 +45,337 @@ Es geht nicht nur um das sture Übersetzen von Wörtern, sondern um das **Übert
 
 Der technische Kern von Nexus Gaja ist ein selbstentwickeltes Kommunikationsmodell, das strikt in drei Schichten unterteilt ist:
 
-1. **Original**: Das vom Absender erstellte Kommunikations-Objekt (Nachricht) bleibt stets unveränderlich.
-2. **Semantische Interpretation**: Das System analysiert nicht nur die Worte, sondern die tatsächliche Bedeutung.
-3. **Zielsprachliche Darstellung**: Die KI erzeugt lediglich eine temporäre oder gecachte Darstellung des Originals für den jeweiligen Empfänger basierend auf dessen bevorzugter Sprache. Übersetzungen überschreiben niemals die ursprüngliche Nachricht.
+1. **Original**: Das vom Absender erstellte Kommunikations-Objekt (Nachricht) bleibt stets unverÃ¤nderlich.
+2. **Semantische Interpretation**: Das System analysiert nicht nur die Worte, sondern die tatsÃ¤chliche Bedeutung.
+3. **Zielsprachliche Darstellung**: Die KI erzeugt lediglich eine temporÃ¤re oder gecachte Darstellung des Originals fÃ¼r den jeweiligen EmpfÃ¤nger basierend auf dessen bevorzugter Sprache. Ãœbersetzungen Ã¼berschreiben niemals die ursprÃ¼ngliche Nachricht.
 
-### Kontextabhängigkeit
-Übersetzungen betrachten Nachrichten in Nexus Gaja nie isoliert. Die Engine berücksichtigt die gesamte Hierarchie:
-`Message` → `Previous Messages` → `Thread Context` → `Community Context` → `Language / Region` → `User Preferences`
+### KontextabhÃ¤ngigkeit
+Ãœbersetzungen betrachten Nachrichten in Nexus Gaja nie isoliert. Die Engine berÃ¼cksichtigt die gesamte Hierarchie:
+`Message` â†’ `Previous Messages` â†’ `Thread Context` â†’ `Community Context` â†’ `Language / Region` â†’ `User Preferences`
 
-### Effizienz durch On-Demand Übersetzung
-Die Übersetzung erfolgt ressourcenschonend erst **beim Aufruf** (On-Demand). Wenn ein Nutzer Inhalte anfordert, werden diese in seine voreingestellte Sprache übersetzt. Einmal geleistete Übersetzungen für eine spezifische Sprache werden dauerhaft gespeichert (Caching), um spätere Abfragen drastisch zu beschleunigen.
+### Effizienz durch On-Demand Ãœbersetzung
+Die Ãœbersetzung erfolgt ressourcenschonend erst **beim Aufruf** (On-Demand). Wenn ein Nutzer Inhalte anfordert, werden diese in seine voreingestellte Sprache Ã¼bersetzt. Einmal geleistete Ãœbersetzungen fÃ¼r eine spezifische Sprache werden dauerhaft gespeichert (Caching), um spÃ¤tere Abfragen drastisch zu beschleunigen.
 
-## KI-gestützte Moderation (WP 1.8.4)
+## KI-gestÃ¼tzte Moderation (WP 1.8.4)
 
 ![Nexus Gaja AI Moderation](assets/img/nexus_moderation.jpg)
 
-Mit der KI-gestützten Moderation gehen wir einen großen Schritt von der Produktidee zur technischen Architektur und berücksichtigen dabei aktuelle EU-Verordnungen (Transparenzpflichten des EU AI Act nach Art. 50; Digital Services Act mit nachvollziehbaren Begründungen und Einspruchsmöglichkeiten).
+Mit der KI-gestÃ¼tzten Moderation gehen wir einen groÃŸen Schritt von der Produktidee zur technischen Architektur und berÃ¼cksichtigen dabei aktuelle EU-Verordnungen (Transparenzpflichten des EU AI Act nach Art. 50; Digital Services Act mit nachvollziehbaren BegrÃ¼ndungen und EinspruchsmÃ¶glichkeiten).
 
 ### 1. Grundprinzip
-Der wichtigste Satz für die Architektur lautet: **Die Moderations-KI ist ein Prüfsystem und kein autonomes Herrschaftssystem.**
-Sie soll Menschen bei der Moderation unterstützen, nicht selbst darüber bestimmen, welche Meinungen auf Nexus Gaja existieren dürfen.
+Der wichtigste Satz fÃ¼r die Architektur lautet: **Die Moderations-KI ist ein PrÃ¼fsystem und kein autonomes Herrschaftssystem.**
+Sie soll Menschen bei der Moderation unterstÃ¼tzen, nicht selbst darÃ¼ber bestimmen, welche Meinungen auf Nexus Gaja existieren dÃ¼rfen.
 Damit unterscheiden wir drei Dinge:
-- **Erkennen:** „Hier könnte ein Regelverstoß vorliegen.“
-- **Bewerten:** „Die Wahrscheinlichkeit eines Regelverstoßes beträgt beispielsweise 94 %.“
-- **Entscheiden:** „Welche Maßnahme wird tatsächlich ergriffen?“
-Die dritte Ebene muss bei schwerwiegenden Fällen menschlich kontrolliert werden.
+- **Erkennen:** â€žHier kÃ¶nnte ein RegelverstoÃŸ vorliegen.â€œ
+- **Bewerten:** â€žDie Wahrscheinlichkeit eines RegelverstoÃŸes betrÃ¤gt beispielsweise 94 %.â€œ
+- **Entscheiden:** â€žWelche MaÃŸnahme wird tatsÃ¤chlich ergriffen?â€œ
+Die dritte Ebene muss bei schwerwiegenden FÃ¤llen menschlich kontrolliert werden.
 
 
 
-### 2. მოდერაციის AI იქნება მისი საკუთარი ქვესისტემა
-ერთი AI-ის ნაცვლად, შეიქმნა ძლიერი ქვესისტემა:
-``ტექსტი
+### 2. áƒ›áƒáƒ“áƒ”áƒ áƒáƒªáƒ˜áƒ˜áƒ¡ AI áƒ˜áƒ¥áƒœáƒ”áƒ‘áƒ áƒ›áƒ˜áƒ¡áƒ˜ áƒ¡áƒáƒ™áƒ£áƒ—áƒáƒ áƒ˜ áƒ¥áƒ•áƒ”áƒ¡áƒ˜áƒ¡áƒ¢áƒ”áƒ›áƒ
+áƒ”áƒ áƒ—áƒ˜ AI-áƒ˜áƒ¡ áƒœáƒáƒªáƒ•áƒšáƒáƒ“, áƒ¨áƒ”áƒ˜áƒ¥áƒ›áƒœáƒ áƒ«áƒšáƒ˜áƒ”áƒ áƒ˜ áƒ¥áƒ•áƒ”áƒ¡áƒ˜áƒ¡áƒ¢áƒ”áƒ›áƒ:
+``áƒ¢áƒ”áƒ¥áƒ¡áƒ¢áƒ˜
                  NEXUS GAJA AI MODERATION
-                          │
-       ┌────────────────── ┼──────────────────┐
-       │ │ │
-  ენა AI Safety AI თაღლითობა AI
-       │ │ │
-       ├──────────────┬─── ┴──────────────┬───┤
-       │ │ │
- თარგმანის ქცევის იდენტურობა
- ანალიზის ანალიზის სიგნალები
-       │ │ │
-       └──────────────┼──
-                      ▼
-               რისკის შეფასება
-                      │
-                      ▼
-               ადამიანის მიმოხილვა
+                          â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â”‚ â”‚ â”‚
+  áƒ”áƒœáƒ AI Safety AI áƒ—áƒáƒ¦áƒšáƒ˜áƒ—áƒáƒ‘áƒ AI
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€ â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”¤
+       â”‚ â”‚ â”‚
+ áƒ—áƒáƒ áƒ’áƒ›áƒáƒœáƒ˜áƒ¡ áƒ¥áƒªáƒ”áƒ•áƒ˜áƒ¡ áƒ˜áƒ“áƒ”áƒœáƒ¢áƒ£áƒ áƒáƒ‘áƒ
+ áƒáƒœáƒáƒšáƒ˜áƒ–áƒ˜áƒ¡ áƒáƒœáƒáƒšáƒ˜áƒ–áƒ˜áƒ¡ áƒ¡áƒ˜áƒ’áƒœáƒáƒšáƒ”áƒ‘áƒ˜
+       â”‚ â”‚ â”‚
+       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€
+                      â–¼
+               áƒ áƒ˜áƒ¡áƒ™áƒ˜áƒ¡ áƒ¨áƒ”áƒ¤áƒáƒ¡áƒ”áƒ‘áƒ
+                      â”‚
+                      â–¼
+               áƒáƒ“áƒáƒ›áƒ˜áƒáƒœáƒ˜áƒ¡ áƒ›áƒ˜áƒ›áƒáƒ®áƒ˜áƒšáƒ•áƒ
 ```
 
-### 3. ყველაზე მნიშვნელოვანი AI მოდულები
-Nexus Gaja-სთვის არის ცხრა სპეციალიზებული ანალიზის სფერო:
-- **M1 – ენის გაგება**: ამოიცნობს ენას, დიალექტს, ჟარგონს, ირონიის ინდიკატორებს, თარგმანის პრობლემებს.
-- **M2 – ტოქსიკურობის / ბოროტად გამოყენების გამოვლენა **: აღმოაჩენს შეურაცხყოფას, პირად თავდასხმებს, შევიწროებას.
-- **M3 – Threat Detection**: აღმოაჩენს შესაძლო მუქარას, შანტაჟს და ძალადობის მუქარას.
-- **M4 - სიძულვილის / დეჰუმანიზაციის გამოვლენა **: აღმოაჩენს მიზანმიმართულ თავდასხმებს ადამიანებზე კონკრეტული კუთვნილების საფუძველზე.
-- **M5 – სპამი / მანიპულაციის აღმოჩენა **: აღმოაჩენს სპამს, ბოტის ქცევას, კოორდინირებულ მანიპულირებას.
-- **M6 – თაღლითობის გამოვლენა**: აღმოაჩენს თაღლითობის საეჭვო მცდელობებს, ფიშინგს, სოციალურ ინჟინერიას.
-- **M7 – პირადობის მთლიანობა**: ამოწმებს სიგნალებს ანგარიშის აღებასთან, მრავალ ანგარიშთან, დაბლოკვის შემოვლით.
-- **M8 – მედია უსაფრთხოება**: აანალიზებს სურათებს, აუდიოს, ვიდეოს, დოკუმენტებს.
-- **M9 – Context Engine **: ყველაზე მნიშვნელოვანი მოდული. იგი აერთიანებს ინდივიდუალურ დასკვნებს.
+### 3. áƒ§áƒ•áƒ”áƒšáƒáƒ–áƒ” áƒ›áƒœáƒ˜áƒ¨áƒ•áƒœáƒ”áƒšáƒáƒ•áƒáƒœáƒ˜ AI áƒ›áƒáƒ“áƒ£áƒšáƒ”áƒ‘áƒ˜
+Nexus Gaja-áƒ¡áƒ—áƒ•áƒ˜áƒ¡ áƒáƒ áƒ˜áƒ¡ áƒªáƒ®áƒ áƒ áƒ¡áƒžáƒ”áƒªáƒ˜áƒáƒšáƒ˜áƒ–áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒáƒœáƒáƒšáƒ˜áƒ–áƒ˜áƒ¡ áƒ¡áƒ¤áƒ”áƒ áƒ:
+- **M1 â€“ áƒ”áƒœáƒ˜áƒ¡ áƒ’áƒáƒ’áƒ”áƒ‘áƒ**: áƒáƒ›áƒáƒ˜áƒªáƒœáƒáƒ‘áƒ¡ áƒ”áƒœáƒáƒ¡, áƒ“áƒ˜áƒáƒšáƒ”áƒ¥áƒ¢áƒ¡, áƒŸáƒáƒ áƒ’áƒáƒœáƒ¡, áƒ˜áƒ áƒáƒœáƒ˜áƒ˜áƒ¡ áƒ˜áƒœáƒ“áƒ˜áƒ™áƒáƒ¢áƒáƒ áƒ”áƒ‘áƒ¡, áƒ—áƒáƒ áƒ’áƒ›áƒáƒœáƒ˜áƒ¡ áƒžáƒ áƒáƒ‘áƒšáƒ”áƒ›áƒ”áƒ‘áƒ¡.
+- **M2 â€“ áƒ¢áƒáƒ¥áƒ¡áƒ˜áƒ™áƒ£áƒ áƒáƒ‘áƒ˜áƒ¡ / áƒ‘áƒáƒ áƒáƒ¢áƒáƒ“ áƒ’áƒáƒ›áƒáƒ§áƒ”áƒœáƒ”áƒ‘áƒ˜áƒ¡ áƒ’áƒáƒ›áƒáƒ•áƒšáƒ”áƒœáƒ **: áƒáƒ¦áƒ›áƒáƒáƒ©áƒ”áƒœáƒ¡ áƒ¨áƒ”áƒ£áƒ áƒáƒªáƒ®áƒ§áƒáƒ¤áƒáƒ¡, áƒžáƒ˜áƒ áƒáƒ“ áƒ—áƒáƒ•áƒ“áƒáƒ¡áƒ®áƒ›áƒ”áƒ‘áƒ¡, áƒ¨áƒ”áƒ•áƒ˜áƒ¬áƒ áƒáƒ”áƒ‘áƒáƒ¡.
+- **M3 â€“ Threat Detection**: áƒáƒ¦áƒ›áƒáƒáƒ©áƒ”áƒœáƒ¡ áƒ¨áƒ”áƒ¡áƒáƒ«áƒšáƒ áƒ›áƒ£áƒ¥áƒáƒ áƒáƒ¡, áƒ¨áƒáƒœáƒ¢áƒáƒŸáƒ¡ áƒ“áƒ áƒ«áƒáƒšáƒáƒ“áƒáƒ‘áƒ˜áƒ¡ áƒ›áƒ£áƒ¥áƒáƒ áƒáƒ¡.
+- **M4 - áƒ¡áƒ˜áƒ«áƒ£áƒšáƒ•áƒ˜áƒšáƒ˜áƒ¡ / áƒ“áƒ”áƒ°áƒ£áƒ›áƒáƒœáƒ˜áƒ–áƒáƒªáƒ˜áƒ˜áƒ¡ áƒ’áƒáƒ›áƒáƒ•áƒšáƒ”áƒœáƒ **: áƒáƒ¦áƒ›áƒáƒáƒ©áƒ”áƒœáƒ¡ áƒ›áƒ˜áƒ–áƒáƒœáƒ›áƒ˜áƒ›áƒáƒ áƒ—áƒ£áƒš áƒ—áƒáƒ•áƒ“áƒáƒ¡áƒ®áƒ›áƒ”áƒ‘áƒ¡ áƒáƒ“áƒáƒ›áƒ˜áƒáƒœáƒ”áƒ‘áƒ–áƒ” áƒ™áƒáƒœáƒ™áƒ áƒ”áƒ¢áƒ£áƒšáƒ˜ áƒ™áƒ£áƒ—áƒ•áƒœáƒ˜áƒšáƒ”áƒ‘áƒ˜áƒ¡ áƒ¡áƒáƒ¤áƒ£áƒ«áƒ•áƒ”áƒšáƒ–áƒ”.
+- **M5 â€“ áƒ¡áƒžáƒáƒ›áƒ˜ / áƒ›áƒáƒœáƒ˜áƒžáƒ£áƒšáƒáƒªáƒ˜áƒ˜áƒ¡ áƒáƒ¦áƒ›áƒáƒ©áƒ”áƒœáƒ **: áƒáƒ¦áƒ›áƒáƒáƒ©áƒ”áƒœáƒ¡ áƒ¡áƒžáƒáƒ›áƒ¡, áƒ‘áƒáƒ¢áƒ˜áƒ¡ áƒ¥áƒªáƒ”áƒ•áƒáƒ¡, áƒ™áƒáƒáƒ áƒ“áƒ˜áƒœáƒ˜áƒ áƒ”áƒ‘áƒ£áƒš áƒ›áƒáƒœáƒ˜áƒžáƒ£áƒšáƒ˜áƒ áƒ”áƒ‘áƒáƒ¡.
+- **M6 â€“ áƒ—áƒáƒ¦áƒšáƒ˜áƒ—áƒáƒ‘áƒ˜áƒ¡ áƒ’áƒáƒ›áƒáƒ•áƒšáƒ”áƒœáƒ**: áƒáƒ¦áƒ›áƒáƒáƒ©áƒ”áƒœáƒ¡ áƒ—áƒáƒ¦áƒšáƒ˜áƒ—áƒáƒ‘áƒ˜áƒ¡ áƒ¡áƒáƒ”áƒ­áƒ•áƒ áƒ›áƒªáƒ“áƒ”áƒšáƒáƒ‘áƒ”áƒ‘áƒ¡, áƒ¤áƒ˜áƒ¨áƒ˜áƒœáƒ’áƒ¡, áƒ¡áƒáƒªáƒ˜áƒáƒšáƒ£áƒ  áƒ˜áƒœáƒŸáƒ˜áƒœáƒ”áƒ áƒ˜áƒáƒ¡.
+- **M7 â€“ áƒžáƒ˜áƒ áƒáƒ“áƒáƒ‘áƒ˜áƒ¡ áƒ›áƒ—áƒšáƒ˜áƒáƒœáƒáƒ‘áƒ**: áƒáƒ›áƒáƒ¬áƒ›áƒ”áƒ‘áƒ¡ áƒ¡áƒ˜áƒ’áƒœáƒáƒšáƒ”áƒ‘áƒ¡ áƒáƒœáƒ’áƒáƒ áƒ˜áƒ¨áƒ˜áƒ¡ áƒáƒ¦áƒ”áƒ‘áƒáƒ¡áƒ—áƒáƒœ, áƒ›áƒ áƒáƒ•áƒáƒš áƒáƒœáƒ’áƒáƒ áƒ˜áƒ¨áƒ—áƒáƒœ, áƒ“áƒáƒ‘áƒšáƒáƒ™áƒ•áƒ˜áƒ¡ áƒ¨áƒ”áƒ›áƒáƒ•áƒšáƒ˜áƒ—.
+- **M8 â€“ áƒ›áƒ”áƒ“áƒ˜áƒ áƒ£áƒ¡áƒáƒ¤áƒ áƒ—áƒ®áƒáƒ”áƒ‘áƒ**: áƒáƒáƒœáƒáƒšáƒ˜áƒ–áƒ”áƒ‘áƒ¡ áƒ¡áƒ£áƒ áƒáƒ—áƒ”áƒ‘áƒ¡, áƒáƒ£áƒ“áƒ˜áƒáƒ¡, áƒ•áƒ˜áƒ“áƒ”áƒáƒ¡, áƒ“áƒáƒ™áƒ£áƒ›áƒ”áƒœáƒ¢áƒ”áƒ‘áƒ¡.
+- **M9 â€“ Context Engine **: áƒ§áƒ•áƒ”áƒšáƒáƒ–áƒ” áƒ›áƒœáƒ˜áƒ¨áƒ•áƒœáƒ”áƒšáƒáƒ•áƒáƒœáƒ˜ áƒ›áƒáƒ“áƒ£áƒšáƒ˜. áƒ˜áƒ’áƒ˜ áƒáƒ”áƒ áƒ—áƒ˜áƒáƒœáƒ”áƒ‘áƒ¡ áƒ˜áƒœáƒ“áƒ˜áƒ•áƒ˜áƒ“áƒ£áƒáƒšáƒ£áƒ  áƒ“áƒáƒ¡áƒ™áƒ•áƒœáƒ”áƒ‘áƒ¡.
 
-### 4. რატომ არის კონტექსტური ძრავა ასე მნიშვნელოვანი
-სუფთა საკვანძო სიტყვის ძიება არასაკმარისი იქნება. „შემეძლო მისი მოკვლა სიცილით“ შეიცავს სემანტიკურ ძალადობას, მაგრამ არის მეტყველების ფიგურა. "ხვალ საღამოს 20.00-ზე მე მას ვესროლე მისი სახლის წინ" სულ სხვა სიტუაციაა. AI-მ უნდა გაიგოს, რას ნიშნავს განცხადება ამ კონკრეტულ კონტექსტში.
+### 4. áƒ áƒáƒ¢áƒáƒ› áƒáƒ áƒ˜áƒ¡ áƒ™áƒáƒœáƒ¢áƒ”áƒ¥áƒ¡áƒ¢áƒ£áƒ áƒ˜ áƒ«áƒ áƒáƒ•áƒ áƒáƒ¡áƒ” áƒ›áƒœáƒ˜áƒ¨áƒ•áƒœáƒ”áƒšáƒáƒ•áƒáƒœáƒ˜
+áƒ¡áƒ£áƒ¤áƒ—áƒ áƒ¡áƒáƒ™áƒ•áƒáƒœáƒ«áƒ áƒ¡áƒ˜áƒ¢áƒ§áƒ•áƒ˜áƒ¡ áƒ«áƒ˜áƒ”áƒ‘áƒ áƒáƒ áƒáƒ¡áƒáƒ™áƒ›áƒáƒ áƒ˜áƒ¡áƒ˜ áƒ˜áƒ¥áƒœáƒ”áƒ‘áƒ. â€žáƒ¨áƒ”áƒ›áƒ”áƒ«áƒšáƒ áƒ›áƒ˜áƒ¡áƒ˜ áƒ›áƒáƒ™áƒ•áƒšáƒ áƒ¡áƒ˜áƒªáƒ˜áƒšáƒ˜áƒ—â€œ áƒ¨áƒ”áƒ˜áƒªáƒáƒ•áƒ¡ áƒ¡áƒ”áƒ›áƒáƒœáƒ¢áƒ˜áƒ™áƒ£áƒ  áƒ«áƒáƒšáƒáƒ“áƒáƒ‘áƒáƒ¡, áƒ›áƒáƒ’áƒ áƒáƒ› áƒáƒ áƒ˜áƒ¡ áƒ›áƒ”áƒ¢áƒ§áƒ•áƒ”áƒšáƒ”áƒ‘áƒ˜áƒ¡ áƒ¤áƒ˜áƒ’áƒ£áƒ áƒ. "áƒ®áƒ•áƒáƒš áƒ¡áƒáƒ¦áƒáƒ›áƒáƒ¡ 20.00-áƒ–áƒ” áƒ›áƒ” áƒ›áƒáƒ¡ áƒ•áƒ”áƒ¡áƒ áƒáƒšáƒ” áƒ›áƒ˜áƒ¡áƒ˜ áƒ¡áƒáƒ®áƒšáƒ˜áƒ¡ áƒ¬áƒ˜áƒœ" áƒ¡áƒ£áƒš áƒ¡áƒ®áƒ•áƒ áƒ¡áƒ˜áƒ¢áƒ£áƒáƒªáƒ˜áƒáƒ. AI-áƒ› áƒ£áƒœáƒ“áƒ áƒ’áƒáƒ˜áƒ’áƒáƒ¡, áƒ áƒáƒ¡ áƒœáƒ˜áƒ¨áƒœáƒáƒ•áƒ¡ áƒ’áƒáƒœáƒªáƒ®áƒáƒ“áƒ”áƒ‘áƒ áƒáƒ› áƒ™áƒáƒœáƒ™áƒ áƒ”áƒ¢áƒ£áƒš áƒ™áƒáƒœáƒ¢áƒ”áƒ¥áƒ¡áƒ¢áƒ¨áƒ˜.
 
-### 5. მრავალენოვანი მოდერაცია
-ზომიერებას უბრალოდ სიტყვების შედარება არ შეუძლია. მან უნდა გააანალიზოს მნიშვნელობის დონე (მაგ. გერმანული იდიომები იაპონური იდიომების წინააღმდეგ რეგიონალური გამონათქვამების წინააღმდეგ).
+### 5. áƒ›áƒ áƒáƒ•áƒáƒšáƒ”áƒœáƒáƒ•áƒáƒœáƒ˜ áƒ›áƒáƒ“áƒ”áƒ áƒáƒªáƒ˜áƒ
+áƒ–áƒáƒ›áƒ˜áƒ”áƒ áƒ”áƒ‘áƒáƒ¡ áƒ£áƒ‘áƒ áƒáƒšáƒáƒ“ áƒ¡áƒ˜áƒ¢áƒ§áƒ•áƒ”áƒ‘áƒ˜áƒ¡ áƒ¨áƒ”áƒ“áƒáƒ áƒ”áƒ‘áƒ áƒáƒ  áƒ¨áƒ”áƒ£áƒ«áƒšáƒ˜áƒ. áƒ›áƒáƒœ áƒ£áƒœáƒ“áƒ áƒ’áƒáƒáƒáƒœáƒáƒšáƒ˜áƒ–áƒáƒ¡ áƒ›áƒœáƒ˜áƒ¨áƒ•áƒœáƒ”áƒšáƒáƒ‘áƒ˜áƒ¡ áƒ“áƒáƒœáƒ” (áƒ›áƒáƒ’. áƒ’áƒ”áƒ áƒ›áƒáƒœáƒ£áƒšáƒ˜ áƒ˜áƒ“áƒ˜áƒáƒ›áƒ”áƒ‘áƒ˜ áƒ˜áƒáƒžáƒáƒœáƒ£áƒ áƒ˜ áƒ˜áƒ“áƒ˜áƒáƒ›áƒ”áƒ‘áƒ˜áƒ¡ áƒ¬áƒ˜áƒœáƒáƒáƒ¦áƒ›áƒ“áƒ”áƒ’ áƒ áƒ”áƒ’áƒ˜áƒáƒœáƒáƒšáƒ£áƒ áƒ˜ áƒ’áƒáƒ›áƒáƒœáƒáƒ—áƒ¥áƒ•áƒáƒ›áƒ”áƒ‘áƒ˜áƒ¡ áƒ¬áƒ˜áƒœáƒáƒáƒ¦áƒ›áƒ“áƒ”áƒ’).
 
-### 6. ორიგინალური ენა + თარგმანი
-ორიგინალი და თარგმანი განიხილება ცალკე. მხოლოდ ამის შემდეგ ხდება "კომბინირებული მოდერაციის შეფასება". ამ გზით, Nexus Gaja-ს შეუძლია განსაზღვროს, შეიძლება თუ არა თავად თარგმანმა გააუარესა ან შეცვალა სიტუაცია.
+### 6. áƒáƒ áƒ˜áƒ’áƒ˜áƒœáƒáƒšáƒ£áƒ áƒ˜ áƒ”áƒœáƒ + áƒ—áƒáƒ áƒ’áƒ›áƒáƒœáƒ˜
+áƒáƒ áƒ˜áƒ’áƒ˜áƒœáƒáƒšáƒ˜ áƒ“áƒ áƒ—áƒáƒ áƒ’áƒ›áƒáƒœáƒ˜ áƒ’áƒáƒœáƒ˜áƒ®áƒ˜áƒšáƒ”áƒ‘áƒ áƒªáƒáƒšáƒ™áƒ”. áƒ›áƒ®áƒáƒšáƒáƒ“ áƒáƒ›áƒ˜áƒ¡ áƒ¨áƒ”áƒ›áƒ“áƒ”áƒ’ áƒ®áƒ“áƒ”áƒ‘áƒ "áƒ™áƒáƒ›áƒ‘áƒ˜áƒœáƒ˜áƒ áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒ›áƒáƒ“áƒ”áƒ áƒáƒªáƒ˜áƒ˜áƒ¡ áƒ¨áƒ”áƒ¤áƒáƒ¡áƒ”áƒ‘áƒ". áƒáƒ› áƒ’áƒ–áƒ˜áƒ—, Nexus Gaja-áƒ¡ áƒ¨áƒ”áƒ£áƒ«áƒšáƒ˜áƒ áƒ’áƒáƒœáƒ¡áƒáƒ–áƒ¦áƒ•áƒ áƒáƒ¡, áƒ¨áƒ”áƒ˜áƒ«áƒšáƒ”áƒ‘áƒ áƒ—áƒ£ áƒáƒ áƒ áƒ—áƒáƒ•áƒáƒ“ áƒ—áƒáƒ áƒ’áƒ›áƒáƒœáƒ›áƒ áƒ’áƒáƒáƒ£áƒáƒ áƒ”áƒ¡áƒ áƒáƒœ áƒ¨áƒ”áƒªáƒ•áƒáƒšáƒ áƒ¡áƒ˜áƒ¢áƒ£áƒáƒªáƒ˜áƒ.
 
-### 7. ნდობის ქულა
-ყოველი AI შეფასება იღებს ნდობის მნიშვნელობას (მაგ. საფრთხის ალბათობა: 0,96). მაგრამ: ** ნდობის ქულა ≠ სიმართლე.** 96% ქულა მხოლოდ იმას ნიშნავს, რომ მოდელი ძალიან დარწმუნებულია თავის კლასიფიკაციაში და არ არის აუცილებელი, რომ მომხმარებელი დამნაშავეა.
+### 7. áƒœáƒ“áƒáƒ‘áƒ˜áƒ¡ áƒ¥áƒ£áƒšáƒ
+áƒ§áƒáƒ•áƒ”áƒšáƒ˜ AI áƒ¨áƒ”áƒ¤áƒáƒ¡áƒ”áƒ‘áƒ áƒ˜áƒ¦áƒ”áƒ‘áƒ¡ áƒœáƒ“áƒáƒ‘áƒ˜áƒ¡ áƒ›áƒœáƒ˜áƒ¨áƒ•áƒœáƒ”áƒšáƒáƒ‘áƒáƒ¡ (áƒ›áƒáƒ’. áƒ¡áƒáƒ¤áƒ áƒ—áƒ®áƒ˜áƒ¡ áƒáƒšáƒ‘áƒáƒ—áƒáƒ‘áƒ: 0,96). áƒ›áƒáƒ’áƒ áƒáƒ›: ** áƒœáƒ“áƒáƒ‘áƒ˜áƒ¡ áƒ¥áƒ£áƒšáƒ â‰  áƒ¡áƒ˜áƒ›áƒáƒ áƒ—áƒšáƒ”.** 96% áƒ¥áƒ£áƒšáƒ áƒ›áƒ®áƒáƒšáƒáƒ“ áƒ˜áƒ›áƒáƒ¡ áƒœáƒ˜áƒ¨áƒœáƒáƒ•áƒ¡, áƒ áƒáƒ› áƒ›áƒáƒ“áƒ”áƒšáƒ˜ áƒ«áƒáƒšáƒ˜áƒáƒœ áƒ“áƒáƒ áƒ¬áƒ›áƒ£áƒœáƒ”áƒ‘áƒ£áƒšáƒ˜áƒ áƒ—áƒáƒ•áƒ˜áƒ¡ áƒ™áƒšáƒáƒ¡áƒ˜áƒ¤áƒ˜áƒ™áƒáƒªáƒ˜áƒáƒ¨áƒ˜ áƒ“áƒ áƒáƒ  áƒáƒ áƒ˜áƒ¡ áƒáƒ£áƒªáƒ˜áƒšáƒ”áƒ‘áƒ”áƒšáƒ˜, áƒ áƒáƒ› áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒ”áƒšáƒ˜ áƒ“áƒáƒ›áƒœáƒáƒ¨áƒáƒ•áƒ”áƒ.
 
-### 8. გაურკვევლობა თავად ხდება სიგნალი
-თუ ხელოვნური ინტელექტი გაურკვეველია (მაგ. მუქარა: 0,62, სატირა: 0,54), მას უბრალოდ არ შეუძლია მკაცრი ქმედებების განხორციელება. ამის ნაცვლად, გაურკვევლობა ჩაშენებულია უშუალოდ არქიტექტურაში: **საჭიროა ადამიანის მიმოხილვა**.
+### 8. áƒ’áƒáƒ£áƒ áƒ™áƒ•áƒ”áƒ•áƒšáƒáƒ‘áƒ áƒ—áƒáƒ•áƒáƒ“ áƒ®áƒ“áƒ”áƒ‘áƒ áƒ¡áƒ˜áƒ’áƒœáƒáƒšáƒ˜
+áƒ—áƒ£ áƒ®áƒ”áƒšáƒáƒ•áƒœáƒ£áƒ áƒ˜ áƒ˜áƒœáƒ¢áƒ”áƒšáƒ”áƒ¥áƒ¢áƒ˜ áƒ’áƒáƒ£áƒ áƒ™áƒ•áƒ”áƒ•áƒ”áƒšáƒ˜áƒ (áƒ›áƒáƒ’. áƒ›áƒ£áƒ¥áƒáƒ áƒ: 0,62, áƒ¡áƒáƒ¢áƒ˜áƒ áƒ: 0,54), áƒ›áƒáƒ¡ áƒ£áƒ‘áƒ áƒáƒšáƒáƒ“ áƒáƒ  áƒ¨áƒ”áƒ£áƒ«áƒšáƒ˜áƒ áƒ›áƒ™áƒáƒªáƒ áƒ˜ áƒ¥áƒ›áƒ”áƒ“áƒ”áƒ‘áƒ”áƒ‘áƒ˜áƒ¡ áƒ’áƒáƒœáƒ®áƒáƒ áƒªáƒ˜áƒ”áƒšáƒ”áƒ‘áƒ. áƒáƒ›áƒ˜áƒ¡ áƒœáƒáƒªáƒ•áƒšáƒáƒ“, áƒ’áƒáƒ£áƒ áƒ™áƒ•áƒ”áƒ•áƒšáƒáƒ‘áƒ áƒ©áƒáƒ¨áƒ”áƒœáƒ”áƒ‘áƒ£áƒšáƒ˜áƒ áƒ£áƒ¨áƒ£áƒáƒšáƒáƒ“ áƒáƒ áƒ¥áƒ˜áƒ¢áƒ”áƒ¥áƒ¢áƒ£áƒ áƒáƒ¨áƒ˜: **áƒ¡áƒáƒ­áƒ˜áƒ áƒáƒ áƒáƒ“áƒáƒ›áƒ˜áƒáƒœáƒ˜áƒ¡ áƒ›áƒ˜áƒ›áƒáƒ®áƒ˜áƒšáƒ•áƒ**.
 
-### 9. გადაწყვეტილების ოთხი სფერო
-- **მწვანე**: სავარაუდოდ შეესაბამება. → არანაირი მოქმედება.
-- **ყვითელი**: შესაძლო დარღვევა. → საჭიროების შემთხვევაში დააკვირდით / შენიშნეთ.
-- **ნარინჯისფერი**: სავარაუდო დარღვევა. → მოდერაციის შემოწმება.
-- 🔴 **RED**: ძირითადი შესაძლო დარღვევა. → დაუყოვნებელი დამცავი ღონისძიება + ადამიანის ტესტირება.
+### 9. áƒ’áƒáƒ“áƒáƒ¬áƒ§áƒ•áƒ”áƒ¢áƒ˜áƒšáƒ”áƒ‘áƒ˜áƒ¡ áƒáƒ—áƒ®áƒ˜ áƒ¡áƒ¤áƒ”áƒ áƒ
+- **áƒ›áƒ¬áƒ•áƒáƒœáƒ”**: áƒ¡áƒáƒ•áƒáƒ áƒáƒ£áƒ“áƒáƒ“ áƒ¨áƒ”áƒ”áƒ¡áƒáƒ‘áƒáƒ›áƒ”áƒ‘áƒ. â†’ áƒáƒ áƒáƒœáƒáƒ˜áƒ áƒ˜ áƒ›áƒáƒ¥áƒ›áƒ”áƒ“áƒ”áƒ‘áƒ.
+- **áƒ§áƒ•áƒ˜áƒ—áƒ”áƒšáƒ˜**: áƒ¨áƒ”áƒ¡áƒáƒ«áƒšáƒ áƒ“áƒáƒ áƒ¦áƒ•áƒ”áƒ•áƒ. â†’ áƒ¡áƒáƒ­áƒ˜áƒ áƒáƒ”áƒ‘áƒ˜áƒ¡ áƒ¨áƒ”áƒ›áƒ—áƒ®áƒ•áƒ”áƒ•áƒáƒ¨áƒ˜ áƒ“áƒáƒáƒ™áƒ•áƒ˜áƒ áƒ“áƒ˜áƒ— / áƒ¨áƒ”áƒœáƒ˜áƒ¨áƒœáƒ”áƒ—.
+- **áƒœáƒáƒ áƒ˜áƒœáƒ¯áƒ˜áƒ¡áƒ¤áƒ”áƒ áƒ˜**: áƒ¡áƒáƒ•áƒáƒ áƒáƒ£áƒ“áƒ áƒ“áƒáƒ áƒ¦áƒ•áƒ”áƒ•áƒ. â†’ áƒ›áƒáƒ“áƒ”áƒ áƒáƒªáƒ˜áƒ˜áƒ¡ áƒ¨áƒ”áƒ›áƒáƒ¬áƒ›áƒ”áƒ‘áƒ.
+- ðŸ”´ **RED**: áƒ«áƒ˜áƒ áƒ˜áƒ—áƒáƒ“áƒ˜ áƒ¨áƒ”áƒ¡áƒáƒ«áƒšáƒ áƒ“áƒáƒ áƒ¦áƒ•áƒ”áƒ•áƒ. â†’ áƒ“áƒáƒ£áƒ§áƒáƒ•áƒœáƒ”áƒ‘áƒ”áƒšáƒ˜ áƒ“áƒáƒ›áƒªáƒáƒ•áƒ˜ áƒ¦áƒáƒœáƒ˜áƒ¡áƒ«áƒ˜áƒ”áƒ‘áƒ + áƒáƒ“áƒáƒ›áƒ˜áƒáƒœáƒ˜áƒ¡ áƒ¢áƒ”áƒ¡áƒ¢áƒ˜áƒ áƒ”áƒ‘áƒ.
 
-### 10. არ არის "AI ჯარიმა"
-** AI არ აწესებს საბოლოო სანქციებს. ** მას შეუძლია გამოიწვიოს გადაუდებელი ტექნიკური ზომები (მაგ. შეტყობინების შეკავება) უსაფრთხოების სერიოზული პრობლემების შემთხვევაში, მაგრამ საბოლოო გადაწყვეტილება რჩება გადამოწმებად.
+### 10. áƒáƒ  áƒáƒ áƒ˜áƒ¡ "AI áƒ¯áƒáƒ áƒ˜áƒ›áƒ"
+** AI áƒáƒ  áƒáƒ¬áƒ”áƒ¡áƒ”áƒ‘áƒ¡ áƒ¡áƒáƒ‘áƒáƒšáƒáƒ áƒ¡áƒáƒœáƒ¥áƒªáƒ˜áƒ”áƒ‘áƒ¡. ** áƒ›áƒáƒ¡ áƒ¨áƒ”áƒ£áƒ«áƒšáƒ˜áƒ áƒ’áƒáƒ›áƒáƒ˜áƒ¬áƒ•áƒ˜áƒáƒ¡ áƒ’áƒáƒ“áƒáƒ£áƒ“áƒ”áƒ‘áƒ”áƒšáƒ˜ áƒ¢áƒ”áƒ¥áƒœáƒ˜áƒ™áƒ£áƒ áƒ˜ áƒ–áƒáƒ›áƒ”áƒ‘áƒ˜ (áƒ›áƒáƒ’. áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ˜áƒ¡ áƒ¨áƒ”áƒ™áƒáƒ•áƒ”áƒ‘áƒ) áƒ£áƒ¡áƒáƒ¤áƒ áƒ—áƒ®áƒáƒ”áƒ‘áƒ˜áƒ¡ áƒ¡áƒ”áƒ áƒ˜áƒáƒ–áƒ£áƒšáƒ˜ áƒžáƒ áƒáƒ‘áƒšáƒ”áƒ›áƒ”áƒ‘áƒ˜áƒ¡ áƒ¨áƒ”áƒ›áƒ—áƒ®áƒ•áƒ”áƒ•áƒáƒ¨áƒ˜, áƒ›áƒáƒ’áƒ áƒáƒ› áƒ¡áƒáƒ‘áƒáƒšáƒáƒ áƒ’áƒáƒ“áƒáƒ¬áƒ§áƒ•áƒ”áƒ¢áƒ˜áƒšáƒ”áƒ‘áƒ áƒ áƒ©áƒ”áƒ‘áƒ áƒ’áƒáƒ“áƒáƒ›áƒáƒ¬áƒ›áƒ”áƒ‘áƒáƒ“.
 
-### 11. დამცავი ზომები შეიძლება იყოს ავტომატური
-თუ არსებობს კონკრეტული საფრთხე (გამოვლენილი საშიშროება → მაღალი ნდობა → დროებითი შეზღუდვა → ადამიანის განხილვა → გადაწყვეტილება), ჩვენ ვიცავთ საფრთხის ქვეშ მყოფ მომხმარებელს AI მოსამართლის გარეშე.
+### 11. áƒ“áƒáƒ›áƒªáƒáƒ•áƒ˜ áƒ–áƒáƒ›áƒ”áƒ‘áƒ˜ áƒ¨áƒ”áƒ˜áƒ«áƒšáƒ”áƒ‘áƒ áƒ˜áƒ§áƒáƒ¡ áƒáƒ•áƒ¢áƒáƒ›áƒáƒ¢áƒ£áƒ áƒ˜
+áƒ—áƒ£ áƒáƒ áƒ¡áƒ”áƒ‘áƒáƒ‘áƒ¡ áƒ™áƒáƒœáƒ™áƒ áƒ”áƒ¢áƒ£áƒšáƒ˜ áƒ¡áƒáƒ¤áƒ áƒ—áƒ®áƒ” (áƒ’áƒáƒ›áƒáƒ•áƒšáƒ”áƒœáƒ˜áƒšáƒ˜ áƒ¡áƒáƒ¨áƒ˜áƒ¨áƒ áƒáƒ”áƒ‘áƒ â†’ áƒ›áƒáƒ¦áƒáƒšáƒ˜ áƒœáƒ“áƒáƒ‘áƒ â†’ áƒ“áƒ áƒáƒ”áƒ‘áƒ˜áƒ—áƒ˜ áƒ¨áƒ”áƒ–áƒ¦áƒ£áƒ“áƒ•áƒ â†’ áƒáƒ“áƒáƒ›áƒ˜áƒáƒœáƒ˜áƒ¡ áƒ’áƒáƒœáƒ®áƒ˜áƒšáƒ•áƒ â†’ áƒ’áƒáƒ“áƒáƒ¬áƒ§áƒ•áƒ”áƒ¢áƒ˜áƒšáƒ”áƒ‘áƒ), áƒ©áƒ•áƒ”áƒœ áƒ•áƒ˜áƒªáƒáƒ•áƒ— áƒ¡áƒáƒ¤áƒ áƒ—áƒ®áƒ˜áƒ¡ áƒ¥áƒ•áƒ”áƒ¨ áƒ›áƒ§áƒáƒ¤ áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒ”áƒšáƒ¡ AI áƒ›áƒáƒ¡áƒáƒ›áƒáƒ áƒ—áƒšáƒ˜áƒ¡ áƒ’áƒáƒ áƒ”áƒ¨áƒ”.
 
-### 12. AI-ს უნდა შეეძლოს თავისი გადაწყვეტილების დასაბუთება
-DSA მოითხოვს მკაფიო და კონკრეტულ მიზეზებს. ხელოვნური ინტელექტის მიზეზები სტრუქტურირებული გზით: წესი (NG-CONDUCT-004), აღმოჩენილი (პოტენციური კონკრეტული საფრთხე), ნდობა (0.94), შესაბამისი კონტექსტი (წინა 4 შეტყობინება), რეკომენდებული მოქმედება (ადამიანის მიმოხილვა).
+### 12. AI-áƒ¡ áƒ£áƒœáƒ“áƒ áƒ¨áƒ”áƒ”áƒ«áƒšáƒáƒ¡ áƒ—áƒáƒ•áƒ˜áƒ¡áƒ˜ áƒ’áƒáƒ“áƒáƒ¬áƒ§áƒ•áƒ”áƒ¢áƒ˜áƒšáƒ”áƒ‘áƒ˜áƒ¡ áƒ“áƒáƒ¡áƒáƒ‘áƒ£áƒ—áƒ”áƒ‘áƒ
+DSA áƒ›áƒáƒ˜áƒ—áƒ®áƒáƒ•áƒ¡ áƒ›áƒ™áƒáƒ¤áƒ˜áƒ áƒ“áƒ áƒ™áƒáƒœáƒ™áƒ áƒ”áƒ¢áƒ£áƒš áƒ›áƒ˜áƒ–áƒ”áƒ–áƒ”áƒ‘áƒ¡. áƒ®áƒ”áƒšáƒáƒ•áƒœáƒ£áƒ áƒ˜ áƒ˜áƒœáƒ¢áƒ”áƒšáƒ”áƒ¥áƒ¢áƒ˜áƒ¡ áƒ›áƒ˜áƒ–áƒ”áƒ–áƒ”áƒ‘áƒ˜ áƒ¡áƒ¢áƒ áƒ£áƒ¥áƒ¢áƒ£áƒ áƒ˜áƒ áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒ’áƒ–áƒ˜áƒ—: áƒ¬áƒ”áƒ¡áƒ˜ (NG-CONDUCT-004), áƒáƒ¦áƒ›áƒáƒ©áƒ”áƒœáƒ˜áƒšáƒ˜ (áƒžáƒáƒ¢áƒ”áƒœáƒªáƒ˜áƒ£áƒ áƒ˜ áƒ™áƒáƒœáƒ™áƒ áƒ”áƒ¢áƒ£áƒšáƒ˜ áƒ¡áƒáƒ¤áƒ áƒ—áƒ®áƒ”), áƒœáƒ“áƒáƒ‘áƒ (0.94), áƒ¨áƒ”áƒ¡áƒáƒ‘áƒáƒ›áƒ˜áƒ¡áƒ˜ áƒ™áƒáƒœáƒ¢áƒ”áƒ¥áƒ¡áƒ¢áƒ˜ (áƒ¬áƒ˜áƒœáƒ 4 áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ), áƒ áƒ”áƒ™áƒáƒ›áƒ”áƒœáƒ“áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒ›áƒáƒ¥áƒ›áƒ”áƒ“áƒ”áƒ‘áƒ (áƒáƒ“áƒáƒ›áƒ˜áƒáƒœáƒ˜áƒ¡ áƒ›áƒ˜áƒ›áƒáƒ®áƒ˜áƒšáƒ•áƒ).
 
-### 13. AI-ს არ აქვს უფლება ფარულად შეცვალოს შინაარსი
-** Moderation AI არასოდეს არ უნდა შეცვალოს ორიგინალური შინაარსი შეუმჩნევლად. ** ავტომატური შესწორებები, თარგმანი ან შეჯამება ინარჩუნებს ორიგინალურ შინაარსს.
+### 13. AI-áƒ¡ áƒáƒ  áƒáƒ¥áƒ•áƒ¡ áƒ£áƒ¤áƒšáƒ”áƒ‘áƒ áƒ¤áƒáƒ áƒ£áƒšáƒáƒ“ áƒ¨áƒ”áƒªáƒ•áƒáƒšáƒáƒ¡ áƒ¨áƒ˜áƒœáƒáƒáƒ áƒ¡áƒ˜
+** Moderation AI áƒáƒ áƒáƒ¡áƒáƒ“áƒ”áƒ¡ áƒáƒ  áƒ£áƒœáƒ“áƒ áƒ¨áƒ”áƒªáƒ•áƒáƒšáƒáƒ¡ áƒáƒ áƒ˜áƒ’áƒ˜áƒœáƒáƒšáƒ£áƒ áƒ˜ áƒ¨áƒ˜áƒœáƒáƒáƒ áƒ¡áƒ˜ áƒ¨áƒ”áƒ£áƒ›áƒ©áƒœáƒ”áƒ•áƒšáƒáƒ“. ** áƒáƒ•áƒ¢áƒáƒ›áƒáƒ¢áƒ£áƒ áƒ˜ áƒ¨áƒ”áƒ¡áƒ¬áƒáƒ áƒ”áƒ‘áƒ”áƒ‘áƒ˜, áƒ—áƒáƒ áƒ’áƒ›áƒáƒœáƒ˜ áƒáƒœ áƒ¨áƒ”áƒ¯áƒáƒ›áƒ”áƒ‘áƒ áƒ˜áƒœáƒáƒ áƒ©áƒ£áƒœáƒ”áƒ‘áƒ¡ áƒáƒ áƒ˜áƒ’áƒ˜áƒœáƒáƒšáƒ£áƒ  áƒ¨áƒ˜áƒœáƒáƒáƒ áƒ¡áƒ¡.
 
-### 14. ხელოვნური ინტელექტის გენერირებული კონტენტი
-ჩვენ განვასხვავებთ: ადამიანის მიერ შექმნილ, ხელოვნური ინტელექტის დახმარებით, ხელოვნური ინტელექტის გენერირებული და ხელოვნური ინტელექტის მანიპულირებულს შორის. ეს ხდება შინაარსის მეტამონაცემების ნაწილი.
+### 14. áƒ®áƒ”áƒšáƒáƒ•áƒœáƒ£áƒ áƒ˜ áƒ˜áƒœáƒ¢áƒ”áƒšáƒ”áƒ¥áƒ¢áƒ˜áƒ¡ áƒ’áƒ”áƒœáƒ”áƒ áƒ˜áƒ áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒ™áƒáƒœáƒ¢áƒ”áƒœáƒ¢áƒ˜
+áƒ©áƒ•áƒ”áƒœ áƒ’áƒáƒœáƒ•áƒáƒ¡áƒ®áƒ•áƒáƒ•áƒ”áƒ‘áƒ—: áƒáƒ“áƒáƒ›áƒ˜áƒáƒœáƒ˜áƒ¡ áƒ›áƒ˜áƒ”áƒ  áƒ¨áƒ”áƒ¥áƒ›áƒœáƒ˜áƒš, áƒ®áƒ”áƒšáƒáƒ•áƒœáƒ£áƒ áƒ˜ áƒ˜áƒœáƒ¢áƒ”áƒšáƒ”áƒ¥áƒ¢áƒ˜áƒ¡ áƒ“áƒáƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒ˜áƒ—, áƒ®áƒ”áƒšáƒáƒ•áƒœáƒ£áƒ áƒ˜ áƒ˜áƒœáƒ¢áƒ”áƒšáƒ”áƒ¥áƒ¢áƒ˜áƒ¡ áƒ’áƒ”áƒœáƒ”áƒ áƒ˜áƒ áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒ“áƒ áƒ®áƒ”áƒšáƒáƒ•áƒœáƒ£áƒ áƒ˜ áƒ˜áƒœáƒ¢áƒ”áƒšáƒ”áƒ¥áƒ¢áƒ˜áƒ¡ áƒ›áƒáƒœáƒ˜áƒžáƒ£áƒšáƒ˜áƒ áƒ”áƒ‘áƒ£áƒšáƒ¡ áƒ¨áƒáƒ áƒ˜áƒ¡. áƒ”áƒ¡ áƒ®áƒ“áƒ”áƒ‘áƒ áƒ¨áƒ˜áƒœáƒáƒáƒ áƒ¡áƒ˜áƒ¡ áƒ›áƒ”áƒ¢áƒáƒ›áƒáƒœáƒáƒªáƒ”áƒ›áƒ”áƒ‘áƒ˜áƒ¡ áƒœáƒáƒ¬áƒ˜áƒšáƒ˜.
 
-### 15. AI შინაარსის მარკირება და AI წარმოშობის ფენა
-ევროკავშირის AI აქტის გამჭვირვალობის წესების მიხედვით (2026 წლის აგვისტოდან) ხელოვნური ინტელექტის მიერ გენერირებული კონტენტი ცნობადი უნდა იყოს. ჩვენ ვგეგმავთ AI-ის წარმოშობის ფენას, რომელიც ინახავს მეტამონაცემებს (AI წარმოშობა, მოდელი, დროის ანაბეჭდი, ადამიანის მიმოხილვა).
+### 15. AI áƒ¨áƒ˜áƒœáƒáƒáƒ áƒ¡áƒ˜áƒ¡ áƒ›áƒáƒ áƒ™áƒ˜áƒ áƒ”áƒ‘áƒ áƒ“áƒ AI áƒ¬áƒáƒ áƒ›áƒáƒ¨áƒáƒ‘áƒ˜áƒ¡ áƒ¤áƒ”áƒœáƒ
+áƒ”áƒ•áƒ áƒáƒ™áƒáƒ•áƒ¨áƒ˜áƒ áƒ˜áƒ¡ AI áƒáƒ¥áƒ¢áƒ˜áƒ¡ áƒ’áƒáƒ›áƒ­áƒ•áƒ˜áƒ áƒ•áƒáƒšáƒáƒ‘áƒ˜áƒ¡ áƒ¬áƒ”áƒ¡áƒ”áƒ‘áƒ˜áƒ¡ áƒ›áƒ˜áƒ®áƒ”áƒ“áƒ•áƒ˜áƒ— (2026 áƒ¬áƒšáƒ˜áƒ¡ áƒáƒ’áƒ•áƒ˜áƒ¡áƒ¢áƒáƒ“áƒáƒœ) áƒ®áƒ”áƒšáƒáƒ•áƒœáƒ£áƒ áƒ˜ áƒ˜áƒœáƒ¢áƒ”áƒšáƒ”áƒ¥áƒ¢áƒ˜áƒ¡ áƒ›áƒ˜áƒ”áƒ  áƒ’áƒ”áƒœáƒ”áƒ áƒ˜áƒ áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒ™áƒáƒœáƒ¢áƒ”áƒœáƒ¢áƒ˜ áƒªáƒœáƒáƒ‘áƒáƒ“áƒ˜ áƒ£áƒœáƒ“áƒ áƒ˜áƒ§áƒáƒ¡. áƒ©áƒ•áƒ”áƒœ áƒ•áƒ’áƒ”áƒ’áƒ›áƒáƒ•áƒ— AI-áƒ˜áƒ¡ áƒ¬áƒáƒ áƒ›áƒáƒ¨áƒáƒ‘áƒ˜áƒ¡ áƒ¤áƒ”áƒœáƒáƒ¡, áƒ áƒáƒ›áƒ”áƒšáƒ˜áƒª áƒ˜áƒœáƒáƒ®áƒáƒ•áƒ¡ áƒ›áƒ”áƒ¢áƒáƒ›áƒáƒœáƒáƒªáƒ”áƒ›áƒ”áƒ‘áƒ¡ (AI áƒ¬áƒáƒ áƒ›áƒáƒ¨áƒáƒ‘áƒ, áƒ›áƒáƒ“áƒ”áƒšáƒ˜, áƒ“áƒ áƒáƒ˜áƒ¡ áƒáƒœáƒáƒ‘áƒ”áƒ­áƒ“áƒ˜, áƒáƒ“áƒáƒ›áƒ˜áƒáƒœáƒ˜áƒ¡ áƒ›áƒ˜áƒ›áƒáƒ®áƒ˜áƒšáƒ•áƒ).
 
-### 16. Deepfake გამოვლენა
-არქიტექტურა მიზნად ისახავს სინთეტიკური სურათების, სტიმულირებული ხმებისა და ღრმა ფეიქების აღმოსაჩენად. მაგრამ აღიარება არ არის ავტომატურად მტკიცებულება.
+### 16. Deepfake áƒ’áƒáƒ›áƒáƒ•áƒšáƒ”áƒœáƒ
+áƒáƒ áƒ¥áƒ˜áƒ¢áƒ”áƒ¥áƒ¢áƒ£áƒ áƒ áƒ›áƒ˜áƒ–áƒœáƒáƒ“ áƒ˜áƒ¡áƒáƒ®áƒáƒ•áƒ¡ áƒ¡áƒ˜áƒœáƒ—áƒ”áƒ¢áƒ˜áƒ™áƒ£áƒ áƒ˜ áƒ¡áƒ£áƒ áƒáƒ—áƒ”áƒ‘áƒ˜áƒ¡, áƒ¡áƒ¢áƒ˜áƒ›áƒ£áƒšáƒ˜áƒ áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒ®áƒ›áƒ”áƒ‘áƒ˜áƒ¡áƒ áƒ“áƒ áƒ¦áƒ áƒ›áƒ áƒ¤áƒ”áƒ˜áƒ¥áƒ”áƒ‘áƒ˜áƒ¡ áƒáƒ¦áƒ›áƒáƒ¡áƒáƒ©áƒ”áƒœáƒáƒ“. áƒ›áƒáƒ’áƒ áƒáƒ› áƒáƒ¦áƒ˜áƒáƒ áƒ”áƒ‘áƒ áƒáƒ  áƒáƒ áƒ˜áƒ¡ áƒáƒ•áƒ¢áƒáƒ›áƒáƒ¢áƒ£áƒ áƒáƒ“ áƒ›áƒ¢áƒ™áƒ˜áƒªáƒ”áƒ‘áƒ£áƒšáƒ”áƒ‘áƒ.
 
-### 17. არ არის ავტომატური „სიმართლის მანქანა“ (ზომიერება ≠ ფაქტის შემოწმება)
-სისტემა ამოწმებს: „კონტენტი არღვევს რაიმე წესს?“ (შინაარსის მოდერაცია), მეორეში მოცემულია: "რა ინფორმაცია და წყაროები არსებობს?" (საინფორმაციო დახმარება). მოსაზრებები უბრალოდ არ არის წაშლილი, როგორც "არასწორი".
+### 17. áƒáƒ  áƒáƒ áƒ˜áƒ¡ áƒáƒ•áƒ¢áƒáƒ›áƒáƒ¢áƒ£áƒ áƒ˜ â€žáƒ¡áƒ˜áƒ›áƒáƒ áƒ—áƒšáƒ˜áƒ¡ áƒ›áƒáƒœáƒ¥áƒáƒœáƒâ€œ (áƒ–áƒáƒ›áƒ˜áƒ”áƒ áƒ”áƒ‘áƒ â‰  áƒ¤áƒáƒ¥áƒ¢áƒ˜áƒ¡ áƒ¨áƒ”áƒ›áƒáƒ¬áƒ›áƒ”áƒ‘áƒ)
+áƒ¡áƒ˜áƒ¡áƒ¢áƒ”áƒ›áƒ áƒáƒ›áƒáƒ¬áƒ›áƒ”áƒ‘áƒ¡: â€žáƒ™áƒáƒœáƒ¢áƒ”áƒœáƒ¢áƒ˜ áƒáƒ áƒ¦áƒ•áƒ”áƒ•áƒ¡ áƒ áƒáƒ˜áƒ›áƒ” áƒ¬áƒ”áƒ¡áƒ¡?â€œ (áƒ¨áƒ˜áƒœáƒáƒáƒ áƒ¡áƒ˜áƒ¡ áƒ›áƒáƒ“áƒ”áƒ áƒáƒªáƒ˜áƒ), áƒ›áƒ”áƒáƒ áƒ”áƒ¨áƒ˜ áƒ›áƒáƒªáƒ”áƒ›áƒ£áƒšáƒ˜áƒ: "áƒ áƒ áƒ˜áƒœáƒ¤áƒáƒ áƒ›áƒáƒªáƒ˜áƒ áƒ“áƒ áƒ¬áƒ§áƒáƒ áƒáƒ”áƒ‘áƒ˜ áƒáƒ áƒ¡áƒ”áƒ‘áƒáƒ‘áƒ¡?" (áƒ¡áƒáƒ˜áƒœáƒ¤áƒáƒ áƒ›áƒáƒªáƒ˜áƒ áƒ“áƒáƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒ). áƒ›áƒáƒ¡áƒáƒ–áƒ áƒ”áƒ‘áƒ”áƒ‘áƒ˜ áƒ£áƒ‘áƒ áƒáƒšáƒáƒ“ áƒáƒ  áƒáƒ áƒ˜áƒ¡ áƒ¬áƒáƒ¨áƒšáƒ˜áƒšáƒ˜, áƒ áƒáƒ’áƒáƒ áƒª "áƒáƒ áƒáƒ¡áƒ¬áƒáƒ áƒ˜".
 
-### 18. დაცვა კულტურული არასწორი ინტერპრეტაციისგან
-ხელოვნური ინტელექტი მოითხოვს **კულტურული კონტექსტის მოდელებს**, რათა თავიდან აიცილონ ერთი ქვეყნის საკომუნიკაციო ნორმა გლობალურ სტანდარტად.
+### 18. áƒ“áƒáƒªáƒ•áƒ áƒ™áƒ£áƒšáƒ¢áƒ£áƒ áƒ£áƒšáƒ˜ áƒáƒ áƒáƒ¡áƒ¬áƒáƒ áƒ˜ áƒ˜áƒœáƒ¢áƒ”áƒ áƒžáƒ áƒ”áƒ¢áƒáƒªáƒ˜áƒ˜áƒ¡áƒ’áƒáƒœ
+áƒ®áƒ”áƒšáƒáƒ•áƒœáƒ£áƒ áƒ˜ áƒ˜áƒœáƒ¢áƒ”áƒšáƒ”áƒ¥áƒ¢áƒ˜ áƒ›áƒáƒ˜áƒ—áƒ®áƒáƒ•áƒ¡ **áƒ™áƒ£áƒšáƒ¢áƒ£áƒ áƒ£áƒšáƒ˜ áƒ™áƒáƒœáƒ¢áƒ”áƒ¥áƒ¡áƒ¢áƒ˜áƒ¡ áƒ›áƒáƒ“áƒ”áƒšáƒ”áƒ‘áƒ¡**, áƒ áƒáƒ—áƒ áƒ—áƒáƒ•áƒ˜áƒ“áƒáƒœ áƒáƒ˜áƒªáƒ˜áƒšáƒáƒœ áƒ”áƒ áƒ—áƒ˜ áƒ¥áƒ•áƒ”áƒ§áƒœáƒ˜áƒ¡ áƒ¡áƒáƒ™áƒáƒ›áƒ£áƒœáƒ˜áƒ™áƒáƒªáƒ˜áƒ áƒœáƒáƒ áƒ›áƒ áƒ’áƒšáƒáƒ‘áƒáƒšáƒ£áƒ  áƒ¡áƒ¢áƒáƒœáƒ“áƒáƒ áƒ¢áƒáƒ“.
 
-### 19. ირონია, სატირა და იუმორი
-ხელოვნური ინტელექტი იყენებს კონტექსტს, ემოციებს, საუბრის ნაკადს და ცნობილ ირონიულ სტრუქტურებს, მაგრამ უნდა დაუშვას გაურკვევლობა, როდესაც მნიშვნელობები არ არის ნათელი.
+### 19. áƒ˜áƒ áƒáƒœáƒ˜áƒ, áƒ¡áƒáƒ¢áƒ˜áƒ áƒ áƒ“áƒ áƒ˜áƒ£áƒ›áƒáƒ áƒ˜
+áƒ®áƒ”áƒšáƒáƒ•áƒœáƒ£áƒ áƒ˜ áƒ˜áƒœáƒ¢áƒ”áƒšáƒ”áƒ¥áƒ¢áƒ˜ áƒ˜áƒ§áƒ”áƒœáƒ”áƒ‘áƒ¡ áƒ™áƒáƒœáƒ¢áƒ”áƒ¥áƒ¡áƒ¢áƒ¡, áƒ”áƒ›áƒáƒªáƒ˜áƒ”áƒ‘áƒ¡, áƒ¡áƒáƒ£áƒ‘áƒ áƒ˜áƒ¡ áƒœáƒáƒ™áƒáƒ“áƒ¡ áƒ“áƒ áƒªáƒœáƒáƒ‘áƒ˜áƒš áƒ˜áƒ áƒáƒœáƒ˜áƒ£áƒš áƒ¡áƒ¢áƒ áƒ£áƒ¥áƒ¢áƒ£áƒ áƒ”áƒ‘áƒ¡, áƒ›áƒáƒ’áƒ áƒáƒ› áƒ£áƒœáƒ“áƒ áƒ“áƒáƒ£áƒ¨áƒ•áƒáƒ¡ áƒ’áƒáƒ£áƒ áƒ™áƒ•áƒ”áƒ•áƒšáƒáƒ‘áƒ, áƒ áƒáƒ“áƒ”áƒ¡áƒáƒª áƒ›áƒœáƒ˜áƒ¨áƒ•áƒœáƒ”áƒšáƒáƒ‘áƒ”áƒ‘áƒ˜ áƒáƒ  áƒáƒ áƒ˜áƒ¡ áƒœáƒáƒ—áƒ”áƒšáƒ˜.
 
-### 20. სასჯელი არ არის დაფუძნებული AI ქულის მიხედვით
-არავითარი სერიოზული მოდერაციის ჩარევა არ შეიძლება დაფუძნებული იყოს მხოლოდ ერთი ავტომატური კლასიფიკაციის შედეგზე (ტექსტი + კონტექსტი + ქცევა + ენა + მედია + წესების ძრავა = რისკის შეფასება).
+### 20. áƒ¡áƒáƒ¡áƒ¯áƒ”áƒšáƒ˜ áƒáƒ  áƒáƒ áƒ˜áƒ¡ áƒ“áƒáƒ¤áƒ£áƒ«áƒœáƒ”áƒ‘áƒ£áƒšáƒ˜ AI áƒ¥áƒ£áƒšáƒ˜áƒ¡ áƒ›áƒ˜áƒ®áƒ”áƒ“áƒ•áƒ˜áƒ—
+áƒáƒ áƒáƒ•áƒ˜áƒ—áƒáƒ áƒ˜ áƒ¡áƒ”áƒ áƒ˜áƒáƒ–áƒ£áƒšáƒ˜ áƒ›áƒáƒ“áƒ”áƒ áƒáƒªáƒ˜áƒ˜áƒ¡ áƒ©áƒáƒ áƒ”áƒ•áƒ áƒáƒ  áƒ¨áƒ”áƒ˜áƒ«áƒšáƒ”áƒ‘áƒ áƒ“áƒáƒ¤áƒ£áƒ«áƒœáƒ”áƒ‘áƒ£áƒšáƒ˜ áƒ˜áƒ§áƒáƒ¡ áƒ›áƒ®áƒáƒšáƒáƒ“ áƒ”áƒ áƒ—áƒ˜ áƒáƒ•áƒ¢áƒáƒ›áƒáƒ¢áƒ£áƒ áƒ˜ áƒ™áƒšáƒáƒ¡áƒ˜áƒ¤áƒ˜áƒ™áƒáƒªáƒ˜áƒ˜áƒ¡ áƒ¨áƒ”áƒ“áƒ”áƒ’áƒ–áƒ” (áƒ¢áƒ”áƒ¥áƒ¡áƒ¢áƒ˜ + áƒ™áƒáƒœáƒ¢áƒ”áƒ¥áƒ¡áƒ¢áƒ˜ + áƒ¥áƒªáƒ”áƒ•áƒ + áƒ”áƒœáƒ + áƒ›áƒ”áƒ“áƒ˜áƒ + áƒ¬áƒ”áƒ¡áƒ”áƒ‘áƒ˜áƒ¡ áƒ«áƒ áƒáƒ•áƒ = áƒ áƒ˜áƒ¡áƒ™áƒ˜áƒ¡ áƒ¨áƒ”áƒ¤áƒáƒ¡áƒ”áƒ‘áƒ).
 
-### 21. მომხმარებლის ქცევის სიგნალები და სოციალური საკრედიტო სისტემა
-საუბარია ტექნიკური ბოროტად გამოყენების სიგნალებზე (მაგ. სპამის მასობრივი გამოქვეყნება) და არა ზოგადი სოციალური შეფასების სისტემაზე. Nexus Gaja არ მოქმედებს სოციალური კრედიტის სისტემაზე - ზომიერება არის უსაფრთხოებისთვის და არა ადამიანის ღირსების შესაფასებლად.
+### 21. áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒšáƒ˜áƒ¡ áƒ¥áƒªáƒ”áƒ•áƒ˜áƒ¡ áƒ¡áƒ˜áƒ’áƒœáƒáƒšáƒ”áƒ‘áƒ˜ áƒ“áƒ áƒ¡áƒáƒªáƒ˜áƒáƒšáƒ£áƒ áƒ˜ áƒ¡áƒáƒ™áƒ áƒ”áƒ“áƒ˜áƒ¢áƒ áƒ¡áƒ˜áƒ¡áƒ¢áƒ”áƒ›áƒ
+áƒ¡áƒáƒ£áƒ‘áƒáƒ áƒ˜áƒ áƒ¢áƒ”áƒ¥áƒœáƒ˜áƒ™áƒ£áƒ áƒ˜ áƒ‘áƒáƒ áƒáƒ¢áƒáƒ“ áƒ’áƒáƒ›áƒáƒ§áƒ”áƒœáƒ”áƒ‘áƒ˜áƒ¡ áƒ¡áƒ˜áƒ’áƒœáƒáƒšáƒ”áƒ‘áƒ–áƒ” (áƒ›áƒáƒ’. áƒ¡áƒžáƒáƒ›áƒ˜áƒ¡ áƒ›áƒáƒ¡áƒáƒ‘áƒ áƒ˜áƒ•áƒ˜ áƒ’áƒáƒ›áƒáƒ¥áƒ•áƒ”áƒ§áƒœáƒ”áƒ‘áƒ) áƒ“áƒ áƒáƒ áƒ áƒ–áƒáƒ’áƒáƒ“áƒ˜ áƒ¡áƒáƒªáƒ˜áƒáƒšáƒ£áƒ áƒ˜ áƒ¨áƒ”áƒ¤áƒáƒ¡áƒ”áƒ‘áƒ˜áƒ¡ áƒ¡áƒ˜áƒ¡áƒ¢áƒ”áƒ›áƒáƒ–áƒ”. Nexus Gaja áƒáƒ  áƒ›áƒáƒ¥áƒ›áƒ”áƒ“áƒ”áƒ‘áƒ¡ áƒ¡áƒáƒªáƒ˜áƒáƒšáƒ£áƒ áƒ˜ áƒ™áƒ áƒ”áƒ“áƒ˜áƒ¢áƒ˜áƒ¡ áƒ¡áƒ˜áƒ¡áƒ¢áƒ”áƒ›áƒáƒ–áƒ” - áƒ–áƒáƒ›áƒ˜áƒ”áƒ áƒ”áƒ‘áƒ áƒáƒ áƒ˜áƒ¡ áƒ£áƒ¡áƒáƒ¤áƒ áƒ—áƒ®áƒáƒ”áƒ‘áƒ˜áƒ¡áƒ—áƒ•áƒ˜áƒ¡ áƒ“áƒ áƒáƒ áƒ áƒáƒ“áƒáƒ›áƒ˜áƒáƒœáƒ˜áƒ¡ áƒ¦áƒ˜áƒ áƒ¡áƒ”áƒ‘áƒ˜áƒ¡ áƒ¨áƒ”áƒ¡áƒáƒ¤áƒáƒ¡áƒ”áƒ‘áƒšáƒáƒ“.
 
-### 22. მოდერაციის AI უნდა იყოს აუდიტი
-ყველა შესაბამისი ავტომატური გადაწყვეტილება აღრიცხულია (მოვლენის ID, წესის ID, ნდობა, ადამიანის მიმოხილვა და ა.შ.) მიკვლევადობის უზრუნველსაყოფად.
+### 22. áƒ›áƒáƒ“áƒ”áƒ áƒáƒªáƒ˜áƒ˜áƒ¡ AI áƒ£áƒœáƒ“áƒ áƒ˜áƒ§áƒáƒ¡ áƒáƒ£áƒ“áƒ˜áƒ¢áƒ˜
+áƒ§áƒ•áƒ”áƒšáƒ áƒ¨áƒ”áƒ¡áƒáƒ‘áƒáƒ›áƒ˜áƒ¡áƒ˜ áƒáƒ•áƒ¢áƒáƒ›áƒáƒ¢áƒ£áƒ áƒ˜ áƒ’áƒáƒ“áƒáƒ¬áƒ§áƒ•áƒ”áƒ¢áƒ˜áƒšáƒ”áƒ‘áƒ áƒáƒ¦áƒ áƒ˜áƒªáƒ®áƒ£áƒšáƒ˜áƒ (áƒ›áƒáƒ•áƒšáƒ”áƒœáƒ˜áƒ¡ ID, áƒ¬áƒ”áƒ¡áƒ˜áƒ¡ ID, áƒœáƒ“áƒáƒ‘áƒ, áƒáƒ“áƒáƒ›áƒ˜áƒáƒœáƒ˜áƒ¡ áƒ›áƒ˜áƒ›áƒáƒ®áƒ˜áƒšáƒ•áƒ áƒ“áƒ áƒ.áƒ¨.) áƒ›áƒ˜áƒ™áƒ•áƒšáƒ”áƒ•áƒáƒ“áƒáƒ‘áƒ˜áƒ¡ áƒ£áƒ–áƒ áƒ£áƒœáƒ•áƒ”áƒšáƒ¡áƒáƒ§áƒáƒ¤áƒáƒ“.
 
-### 23. ცრუ დადებითი, ცრუ უარყოფითი და ხარისხის მეტრიკა
-შეცდომის ტიპების მონიტორინგი ხდება. საინფორმაციო დაფა ზომავს სიზუსტეს, გახსენებას და განსაკუთრებით **აპელაციის შებრუნების კოეფიციენტს** (წარმატებული აპელაციების რაოდენობა). 
+### 23. áƒªáƒ áƒ£ áƒ“áƒáƒ“áƒ”áƒ‘áƒ˜áƒ—áƒ˜, áƒªáƒ áƒ£ áƒ£áƒáƒ áƒ§áƒáƒ¤áƒ˜áƒ—áƒ˜ áƒ“áƒ áƒ®áƒáƒ áƒ˜áƒ¡áƒ®áƒ˜áƒ¡ áƒ›áƒ”áƒ¢áƒ áƒ˜áƒ™áƒ
+áƒ¨áƒ”áƒªáƒ“áƒáƒ›áƒ˜áƒ¡ áƒ¢áƒ˜áƒžáƒ”áƒ‘áƒ˜áƒ¡ áƒ›áƒáƒœáƒ˜áƒ¢áƒáƒ áƒ˜áƒœáƒ’áƒ˜ áƒ®áƒ“áƒ”áƒ‘áƒ. áƒ¡áƒáƒ˜áƒœáƒ¤áƒáƒ áƒ›áƒáƒªáƒ˜áƒ áƒ“áƒáƒ¤áƒ áƒ–áƒáƒ›áƒáƒ•áƒ¡ áƒ¡áƒ˜áƒ–áƒ£áƒ¡áƒ¢áƒ”áƒ¡, áƒ’áƒáƒ®áƒ¡áƒ”áƒœáƒ”áƒ‘áƒáƒ¡ áƒ“áƒ áƒ’áƒáƒœáƒ¡áƒáƒ™áƒ£áƒ—áƒ áƒ”áƒ‘áƒ˜áƒ— **áƒáƒžáƒ”áƒšáƒáƒªáƒ˜áƒ˜áƒ¡ áƒ¨áƒ”áƒ‘áƒ áƒ£áƒœáƒ”áƒ‘áƒ˜áƒ¡ áƒ™áƒáƒ”áƒ¤áƒ˜áƒªáƒ˜áƒ”áƒœáƒ¢áƒ¡** (áƒ¬áƒáƒ áƒ›áƒáƒ¢áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒáƒžáƒ”áƒšáƒáƒªáƒ˜áƒ”áƒ‘áƒ˜áƒ¡ áƒ áƒáƒáƒ“áƒ”áƒœáƒáƒ‘áƒ). 
 
-### 24. ენის სამართლიანობა და თარგმანის მიკერძოება
-მოდერაციის ხარისხი შედარებადი უნდა იყოს ყველა მხარდაჭერილ ენაზე (Multilingual Moderation Benchmark). თუ მოდერაციის შედეგები განსხვავდება ორიგინალსა და თარგმანს შორის (თარგმანის კონფლიქტი), ეს ცალკე უნდა შემოწმდეს.
+### 24. áƒ”áƒœáƒ˜áƒ¡ áƒ¡áƒáƒ›áƒáƒ áƒ—áƒšáƒ˜áƒáƒœáƒáƒ‘áƒ áƒ“áƒ áƒ—áƒáƒ áƒ’áƒ›áƒáƒœáƒ˜áƒ¡ áƒ›áƒ˜áƒ™áƒ”áƒ áƒ«áƒáƒ”áƒ‘áƒ
+áƒ›áƒáƒ“áƒ”áƒ áƒáƒªáƒ˜áƒ˜áƒ¡ áƒ®áƒáƒ áƒ˜áƒ¡áƒ®áƒ˜ áƒ¨áƒ”áƒ“áƒáƒ áƒ”áƒ‘áƒáƒ“áƒ˜ áƒ£áƒœáƒ“áƒ áƒ˜áƒ§áƒáƒ¡ áƒ§áƒ•áƒ”áƒšáƒ áƒ›áƒ®áƒáƒ áƒ“áƒáƒ­áƒ”áƒ áƒ˜áƒš áƒ”áƒœáƒáƒ–áƒ” (Multilingual Moderation Benchmark). áƒ—áƒ£ áƒ›áƒáƒ“áƒ”áƒ áƒáƒªáƒ˜áƒ˜áƒ¡ áƒ¨áƒ”áƒ“áƒ”áƒ’áƒ”áƒ‘áƒ˜ áƒ’áƒáƒœáƒ¡áƒ®áƒ•áƒáƒ•áƒ“áƒ”áƒ‘áƒ áƒáƒ áƒ˜áƒ’áƒ˜áƒœáƒáƒšáƒ¡áƒ áƒ“áƒ áƒ—áƒáƒ áƒ’áƒ›áƒáƒœáƒ¡ áƒ¨áƒáƒ áƒ˜áƒ¡ (áƒ—áƒáƒ áƒ’áƒ›áƒáƒœáƒ˜áƒ¡ áƒ™áƒáƒœáƒ¤áƒšáƒ˜áƒ¥áƒ¢áƒ˜), áƒ”áƒ¡ áƒªáƒáƒšáƒ™áƒ” áƒ£áƒœáƒ“áƒ áƒ¨áƒ”áƒ›áƒáƒ¬áƒ›áƒ“áƒ”áƒ¡.
 
-### 25. არქიტექტურის შეთავაზება და პოლიტიკის ძრავა
-წესები (პოლიტიკის ძრავა) არ არის მყარი კოდირებული AI მოდელებში. ხელოვნური ინტელექტი გვაწვდის ინფორმაციას, პოლიტიკის ძრავა იღებს გადაწყვეტილებებს მიმდინარე წესების საფუძველზე. ეს იძლევა ** მოდელის შეცვლას წესების შეცვლის გარეშე **.
+### 25. áƒáƒ áƒ¥áƒ˜áƒ¢áƒ”áƒ¥áƒ¢áƒ£áƒ áƒ˜áƒ¡ áƒ¨áƒ”áƒ—áƒáƒ•áƒáƒ–áƒ”áƒ‘áƒ áƒ“áƒ áƒžáƒáƒšáƒ˜áƒ¢áƒ˜áƒ™áƒ˜áƒ¡ áƒ«áƒ áƒáƒ•áƒ
+áƒ¬áƒ”áƒ¡áƒ”áƒ‘áƒ˜ (áƒžáƒáƒšáƒ˜áƒ¢áƒ˜áƒ™áƒ˜áƒ¡ áƒ«áƒ áƒáƒ•áƒ) áƒáƒ  áƒáƒ áƒ˜áƒ¡ áƒ›áƒ§áƒáƒ áƒ˜ áƒ™áƒáƒ“áƒ˜áƒ áƒ”áƒ‘áƒ£áƒšáƒ˜ AI áƒ›áƒáƒ“áƒ”áƒšáƒ”áƒ‘áƒ¨áƒ˜. áƒ®áƒ”áƒšáƒáƒ•áƒœáƒ£áƒ áƒ˜ áƒ˜áƒœáƒ¢áƒ”áƒšáƒ”áƒ¥áƒ¢áƒ˜ áƒ’áƒ•áƒáƒ¬áƒ•áƒ“áƒ˜áƒ¡ áƒ˜áƒœáƒ¤áƒáƒ áƒ›áƒáƒªáƒ˜áƒáƒ¡, áƒžáƒáƒšáƒ˜áƒ¢áƒ˜áƒ™áƒ˜áƒ¡ áƒ«áƒ áƒáƒ•áƒ áƒ˜áƒ¦áƒ”áƒ‘áƒ¡ áƒ’áƒáƒ“áƒáƒ¬áƒ§áƒ•áƒ”áƒ¢áƒ˜áƒšáƒ”áƒ‘áƒ”áƒ‘áƒ¡ áƒ›áƒ˜áƒ›áƒ“áƒ˜áƒœáƒáƒ áƒ” áƒ¬áƒ”áƒ¡áƒ”áƒ‘áƒ˜áƒ¡ áƒ¡áƒáƒ¤áƒ£áƒ«áƒ•áƒ”áƒšáƒ–áƒ”. áƒ”áƒ¡ áƒ˜áƒ«áƒšáƒ”áƒ•áƒ ** áƒ›áƒáƒ“áƒ”áƒšáƒ˜áƒ¡ áƒ¨áƒ”áƒªáƒ•áƒšáƒáƒ¡ áƒ¬áƒ”áƒ¡áƒ”áƒ‘áƒ˜áƒ¡ áƒ¨áƒ”áƒªáƒ•áƒšáƒ˜áƒ¡ áƒ’áƒáƒ áƒ”áƒ¨áƒ” **.
 
-### 26. ხალხი რჩება საბოლოო ავტორიტეტად
-- **NG-AI-MOD-001**: AI მხარს უჭერს გამოვლენას და კლასიფიკაციას, მაგრამ არ ცვლის ადამიანის მიმოხილვას სერიოზული გადაწყვეტილებების მიღებისას.
-- **NG-AI-MOD-002**: მოდერაციის ავტომატური გადაწყვეტილებები უნდა იყოს მიკვლევადი, ჩაწერადი და შემოწმებადი.
+### 26. áƒ®áƒáƒšáƒ®áƒ˜ áƒ áƒ©áƒ”áƒ‘áƒ áƒ¡áƒáƒ‘áƒáƒšáƒáƒ áƒáƒ•áƒ¢áƒáƒ áƒ˜áƒ¢áƒ”áƒ¢áƒáƒ“
+- **NG-AI-MOD-001**: AI áƒ›áƒ®áƒáƒ áƒ¡ áƒ£áƒ­áƒ”áƒ áƒ¡ áƒ’áƒáƒ›áƒáƒ•áƒšáƒ”áƒœáƒáƒ¡ áƒ“áƒ áƒ™áƒšáƒáƒ¡áƒ˜áƒ¤áƒ˜áƒ™áƒáƒªáƒ˜áƒáƒ¡, áƒ›áƒáƒ’áƒ áƒáƒ› áƒáƒ  áƒªáƒ•áƒšáƒ˜áƒ¡ áƒáƒ“áƒáƒ›áƒ˜áƒáƒœáƒ˜áƒ¡ áƒ›áƒ˜áƒ›áƒáƒ®áƒ˜áƒšáƒ•áƒáƒ¡ áƒ¡áƒ”áƒ áƒ˜áƒáƒ–áƒ£áƒšáƒ˜ áƒ’áƒáƒ“áƒáƒ¬áƒ§áƒ•áƒ”áƒ¢áƒ˜áƒšáƒ”áƒ‘áƒ”áƒ‘áƒ˜áƒ¡ áƒ›áƒ˜áƒ¦áƒ”áƒ‘áƒ˜áƒ¡áƒáƒ¡.
+- **NG-AI-MOD-002**: áƒ›áƒáƒ“áƒ”áƒ áƒáƒªáƒ˜áƒ˜áƒ¡ áƒáƒ•áƒ¢áƒáƒ›áƒáƒ¢áƒ£áƒ áƒ˜ áƒ’áƒáƒ“áƒáƒ¬áƒ§áƒ•áƒ”áƒ¢áƒ˜áƒšáƒ”áƒ‘áƒ”áƒ‘áƒ˜ áƒ£áƒœáƒ“áƒ áƒ˜áƒ§áƒáƒ¡ áƒ›áƒ˜áƒ™áƒ•áƒšáƒ”áƒ•áƒáƒ“áƒ˜, áƒ©áƒáƒ¬áƒ”áƒ áƒáƒ“áƒ˜ áƒ“áƒ áƒ¨áƒ”áƒ›áƒáƒ¬áƒ›áƒ”áƒ‘áƒáƒ“áƒ˜.
 
-**შეჯამება**: ჩვენ ვაშენებთ ოთხსაფეხურიან სისტემას: ხელოვნური ინტელექტის გამოვლენა, კონტექსტი და რისკის ანალიზი, პოლიტიკის ძრავა და ადამიანის მართვა. ეს იძლევა ძლიერ ავტომატიზაციას სახიფათო „AI როგორც მოსამართლე“ არქიტექტურის შექმნის გარეშე.
+**áƒ¨áƒ”áƒ¯áƒáƒ›áƒ”áƒ‘áƒ**: áƒ©áƒ•áƒ”áƒœ áƒ•áƒáƒ¨áƒ”áƒœáƒ”áƒ‘áƒ— áƒáƒ—áƒ®áƒ¡áƒáƒ¤áƒ”áƒ®áƒ£áƒ áƒ˜áƒáƒœ áƒ¡áƒ˜áƒ¡áƒ¢áƒ”áƒ›áƒáƒ¡: áƒ®áƒ”áƒšáƒáƒ•áƒœáƒ£áƒ áƒ˜ áƒ˜áƒœáƒ¢áƒ”áƒšáƒ”áƒ¥áƒ¢áƒ˜áƒ¡ áƒ’áƒáƒ›áƒáƒ•áƒšáƒ”áƒœáƒ, áƒ™áƒáƒœáƒ¢áƒ”áƒ¥áƒ¡áƒ¢áƒ˜ áƒ“áƒ áƒ áƒ˜áƒ¡áƒ™áƒ˜áƒ¡ áƒáƒœáƒáƒšáƒ˜áƒ–áƒ˜, áƒžáƒáƒšáƒ˜áƒ¢áƒ˜áƒ™áƒ˜áƒ¡ áƒ«áƒ áƒáƒ•áƒ áƒ“áƒ áƒáƒ“áƒáƒ›áƒ˜áƒáƒœáƒ˜áƒ¡ áƒ›áƒáƒ áƒ—áƒ•áƒ. áƒ”áƒ¡ áƒ˜áƒ«áƒšáƒ”áƒ•áƒ áƒ«áƒšáƒ˜áƒ”áƒ  áƒáƒ•áƒ¢áƒáƒ›áƒáƒ¢áƒ˜áƒ–áƒáƒªáƒ˜áƒáƒ¡ áƒ¡áƒáƒ®áƒ˜áƒ¤áƒáƒ—áƒ â€žAI áƒ áƒáƒ’áƒáƒ áƒª áƒ›áƒáƒ¡áƒáƒ›áƒáƒ áƒ—áƒšáƒ”â€œ áƒáƒ áƒ¥áƒ˜áƒ¢áƒ”áƒ¥áƒ¢áƒ£áƒ áƒ˜áƒ¡ áƒ¨áƒ”áƒ¥áƒ›áƒœáƒ˜áƒ¡ áƒ’áƒáƒ áƒ”áƒ¨áƒ”.
 
-## დაფინანსების პრინციპები და შემოსავლების მოდელი (WP 1.10.1)
+## áƒ“áƒáƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ”áƒ‘áƒ˜áƒ¡ áƒžáƒ áƒ˜áƒœáƒªáƒ˜áƒžáƒ”áƒ‘áƒ˜ áƒ“áƒ áƒ¨áƒ”áƒ›áƒáƒ¡áƒáƒ•áƒšáƒ”áƒ‘áƒ˜áƒ¡ áƒ›áƒáƒ“áƒ”áƒšáƒ˜ (WP 1.10.1)
 
 ![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
-Nexus Gaja-ზე მოქმედებს ძალიან მნიშვნელოვანი ძირითადი ეკონომიკური პრინციპი: **არ არის კლასიკური რეკლამა პლატფორმაში.**
-ეს განასხვავებს Nexus Gaja-ს კონცეპტუალურად ბევრი დღევანდელი სოციალური ქსელისგან. მაგრამ ეს არ ნიშნავს: Nexus Gaja-ს არ უნდა ჰქონდეს კომერციული ხასიათი. პირიქით: პლატფორმა უნდა იყოს ეკონომიკურად მომგებიანი, რათა მისმა სოციალურმა დანიშნულებამ გააგრძელოს არსებობა გრძელვადიან პერსპექტივაში. ამრიგად, ეკონომიკური აქტივობა არის მიზნის მიღწევის საშუალება და არა პლატფორმის რეალური მიზანი.
+Nexus Gaja-áƒ–áƒ” áƒ›áƒáƒ¥áƒ›áƒ”áƒ“áƒ”áƒ‘áƒ¡ áƒ«áƒáƒšáƒ˜áƒáƒœ áƒ›áƒœáƒ˜áƒ¨áƒ•áƒœáƒ”áƒšáƒáƒ•áƒáƒœáƒ˜ áƒ«áƒ˜áƒ áƒ˜áƒ—áƒáƒ“áƒ˜ áƒ”áƒ™áƒáƒœáƒáƒ›áƒ˜áƒ™áƒ£áƒ áƒ˜ áƒžáƒ áƒ˜áƒœáƒªáƒ˜áƒžáƒ˜: **áƒáƒ  áƒáƒ áƒ˜áƒ¡ áƒ™áƒšáƒáƒ¡áƒ˜áƒ™áƒ£áƒ áƒ˜ áƒ áƒ”áƒ™áƒšáƒáƒ›áƒ áƒžáƒšáƒáƒ¢áƒ¤áƒáƒ áƒ›áƒáƒ¨áƒ˜.**
+áƒ”áƒ¡ áƒ’áƒáƒœáƒáƒ¡áƒ®áƒ•áƒáƒ•áƒ”áƒ‘áƒ¡ Nexus Gaja-áƒ¡ áƒ™áƒáƒœáƒªáƒ”áƒžáƒ¢áƒ£áƒáƒšáƒ£áƒ áƒáƒ“ áƒ‘áƒ”áƒ•áƒ áƒ˜ áƒ“áƒ¦áƒ”áƒ•áƒáƒœáƒ“áƒ”áƒšáƒ˜ áƒ¡áƒáƒªáƒ˜áƒáƒšáƒ£áƒ áƒ˜ áƒ¥áƒ¡áƒ”áƒšáƒ˜áƒ¡áƒ’áƒáƒœ. áƒ›áƒáƒ’áƒ áƒáƒ› áƒ”áƒ¡ áƒáƒ  áƒœáƒ˜áƒ¨áƒœáƒáƒ•áƒ¡: Nexus Gaja-áƒ¡ áƒáƒ  áƒ£áƒœáƒ“áƒ áƒ°áƒ¥áƒáƒœáƒ“áƒ”áƒ¡ áƒ™áƒáƒ›áƒ”áƒ áƒªáƒ˜áƒ£áƒšáƒ˜ áƒ®áƒáƒ¡áƒ˜áƒáƒ—áƒ˜. áƒžáƒ˜áƒ áƒ˜áƒ¥áƒ˜áƒ—: áƒžáƒšáƒáƒ¢áƒ¤áƒáƒ áƒ›áƒ áƒ£áƒœáƒ“áƒ áƒ˜áƒ§áƒáƒ¡ áƒ”áƒ™áƒáƒœáƒáƒ›áƒ˜áƒ™áƒ£áƒ áƒáƒ“ áƒ›áƒáƒ›áƒ’áƒ”áƒ‘áƒ˜áƒáƒœáƒ˜, áƒ áƒáƒ—áƒ áƒ›áƒ˜áƒ¡áƒ›áƒ áƒ¡áƒáƒªáƒ˜áƒáƒšáƒ£áƒ áƒ›áƒ áƒ“áƒáƒœáƒ˜áƒ¨áƒœáƒ£áƒšáƒ”áƒ‘áƒáƒ› áƒ’áƒáƒáƒ’áƒ áƒ«áƒ”áƒšáƒáƒ¡ áƒáƒ áƒ¡áƒ”áƒ‘áƒáƒ‘áƒ áƒ’áƒ áƒ«áƒ”áƒšáƒ•áƒáƒ“áƒ˜áƒáƒœ áƒžáƒ”áƒ áƒ¡áƒžáƒ”áƒ¥áƒ¢áƒ˜áƒ•áƒáƒ¨áƒ˜. áƒáƒ›áƒ áƒ˜áƒ’áƒáƒ“, áƒ”áƒ™áƒáƒœáƒáƒ›áƒ˜áƒ™áƒ£áƒ áƒ˜ áƒáƒ¥áƒ¢áƒ˜áƒ•áƒáƒ‘áƒ áƒáƒ áƒ˜áƒ¡ áƒ›áƒ˜áƒ–áƒœáƒ˜áƒ¡ áƒ›áƒ˜áƒ¦áƒ¬áƒ”áƒ•áƒ˜áƒ¡ áƒ¡áƒáƒ¨áƒ£áƒáƒšáƒ”áƒ‘áƒ áƒ“áƒ áƒáƒ áƒ áƒžáƒšáƒáƒ¢áƒ¤áƒáƒ áƒ›áƒ˜áƒ¡ áƒ áƒ”áƒáƒšáƒ£áƒ áƒ˜ áƒ›áƒ˜áƒ–áƒáƒœáƒ˜.
 
-### 1. პრინციპი NG-FIN-001
-Nexus Gaja აფინანსებს თავის ოპერაციებს მომხმარებლის ინტერესებისგან განცალკევებული შემოსავლების გამჭვირვალე ნაკადების მეშვეობით და არა მისი მომხმარებლების ყურადღების ან პირადი მონაცემების მარკეტინგის გზით.
+### 1. áƒžáƒ áƒ˜áƒœáƒªáƒ˜áƒžáƒ˜ NG-FIN-001
+Nexus Gaja áƒáƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ”áƒ‘áƒ¡ áƒ—áƒáƒ•áƒ˜áƒ¡ áƒáƒžáƒ”áƒ áƒáƒªáƒ˜áƒ”áƒ‘áƒ¡ áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒšáƒ˜áƒ¡ áƒ˜áƒœáƒ¢áƒ”áƒ áƒ”áƒ¡áƒ”áƒ‘áƒ˜áƒ¡áƒ’áƒáƒœ áƒ’áƒáƒœáƒªáƒáƒšáƒ™áƒ”áƒ•áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒ¨áƒ”áƒ›áƒáƒ¡áƒáƒ•áƒšáƒ”áƒ‘áƒ˜áƒ¡ áƒ’áƒáƒ›áƒ­áƒ•áƒ˜áƒ áƒ•áƒáƒšáƒ” áƒœáƒáƒ™áƒáƒ“áƒ”áƒ‘áƒ˜áƒ¡ áƒ›áƒ”áƒ¨áƒ•áƒ”áƒáƒ‘áƒ˜áƒ— áƒ“áƒ áƒáƒ áƒ áƒ›áƒ˜áƒ¡áƒ˜ áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒšáƒ”áƒ‘áƒ˜áƒ¡ áƒ§áƒ£áƒ áƒáƒ“áƒ¦áƒ”áƒ‘áƒ˜áƒ¡ áƒáƒœ áƒžáƒ˜áƒ áƒáƒ“áƒ˜ áƒ›áƒáƒœáƒáƒªáƒ”áƒ›áƒ”áƒ‘áƒ˜áƒ¡ áƒ›áƒáƒ áƒ™áƒ”áƒ¢áƒ˜áƒœáƒ’áƒ˜áƒ¡ áƒ’áƒ–áƒ˜áƒ—.
 
-### 2. კლასიკური რეკლამა არ არის
-კერძოდ, დაუშვებელია შემდეგი:
-- სარეკლამო ბანერები
-- Pop-up რეკლამა
-- ავტომატურად ითამაშა სარეკლამო ვიდეოები
-- დაფინანსებული პოსტები ნორმალურ არხში
-- პერსონალიზებული სარეკლამო პროფილები
-- მომხმარებლის პროფილების გაყიდვა
-- პერსონალური მონაცემების გაყიდვა
-- პირადი საუბრებიდან მიღებული რეკლამა.
+### 2. áƒ™áƒšáƒáƒ¡áƒ˜áƒ™áƒ£áƒ áƒ˜ áƒ áƒ”áƒ™áƒšáƒáƒ›áƒ áƒáƒ  áƒáƒ áƒ˜áƒ¡
+áƒ™áƒ”áƒ áƒ«áƒáƒ“, áƒ“áƒáƒ£áƒ¨áƒ•áƒ”áƒ‘áƒ”áƒšáƒ˜áƒ áƒ¨áƒ”áƒ›áƒ“áƒ”áƒ’áƒ˜:
+- áƒ¡áƒáƒ áƒ”áƒ™áƒšáƒáƒ›áƒ áƒ‘áƒáƒœáƒ”áƒ áƒ”áƒ‘áƒ˜
+- Pop-up áƒ áƒ”áƒ™áƒšáƒáƒ›áƒ
+- áƒáƒ•áƒ¢áƒáƒ›áƒáƒ¢áƒ£áƒ áƒáƒ“ áƒ˜áƒ—áƒáƒ›áƒáƒ¨áƒ áƒ¡áƒáƒ áƒ”áƒ™áƒšáƒáƒ›áƒ áƒ•áƒ˜áƒ“áƒ”áƒáƒ”áƒ‘áƒ˜
+- áƒ“áƒáƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒžáƒáƒ¡áƒ¢áƒ”áƒ‘áƒ˜ áƒœáƒáƒ áƒ›áƒáƒšáƒ£áƒ  áƒáƒ áƒ®áƒ¨áƒ˜
+- áƒžáƒ”áƒ áƒ¡áƒáƒœáƒáƒšáƒ˜áƒ–áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒ¡áƒáƒ áƒ”áƒ™áƒšáƒáƒ›áƒ áƒžáƒ áƒáƒ¤áƒ˜áƒšáƒ”áƒ‘áƒ˜
+- áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒšáƒ˜áƒ¡ áƒžáƒ áƒáƒ¤áƒ˜áƒšáƒ”áƒ‘áƒ˜áƒ¡ áƒ’áƒáƒ§áƒ˜áƒ“áƒ•áƒ
+- áƒžáƒ”áƒ áƒ¡áƒáƒœáƒáƒšáƒ£áƒ áƒ˜ áƒ›áƒáƒœáƒáƒªáƒ”áƒ›áƒ”áƒ‘áƒ˜áƒ¡ áƒ’áƒáƒ§áƒ˜áƒ“áƒ•áƒ
+- áƒžáƒ˜áƒ áƒáƒ“áƒ˜ áƒ¡áƒáƒ£áƒ‘áƒ áƒ”áƒ‘áƒ˜áƒ“áƒáƒœ áƒ›áƒ˜áƒ¦áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒ áƒ”áƒ™áƒšáƒáƒ›áƒ.
 
-ეს ტოვებს საკომუნიკაციო სივრცეს: ** სარეკლამო სივრცის ნაცვლად საკომუნიკაციო სივრცე.**
+áƒ”áƒ¡ áƒ¢áƒáƒ•áƒ”áƒ‘áƒ¡ áƒ¡áƒáƒ™áƒáƒ›áƒ£áƒœáƒ˜áƒ™áƒáƒªáƒ˜áƒ áƒ¡áƒ˜áƒ•áƒ áƒªáƒ”áƒ¡: ** áƒ¡áƒáƒ áƒ”áƒ™áƒšáƒáƒ›áƒ áƒ¡áƒ˜áƒ•áƒ áƒªáƒ˜áƒ¡ áƒœáƒáƒªáƒ•áƒšáƒáƒ“ áƒ¡áƒáƒ™áƒáƒ›áƒ£áƒœáƒ˜áƒ™áƒáƒªáƒ˜áƒ áƒ¡áƒ˜áƒ•áƒ áƒªáƒ”.**
 
-### 3. დაფინანსება რეკლამის გარეშე
-ამის ნაცვლად, ჩვენი დაფინანსება შეიძლება შედგებოდეს რამდენიმე საყრდენისგან. ჩვენ პირველ რიგში გთავაზობთ ექვს საყრდენს:
-``ტექსტი
+### 3. áƒ“áƒáƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ”áƒ‘áƒ áƒ áƒ”áƒ™áƒšáƒáƒ›áƒ˜áƒ¡ áƒ’áƒáƒ áƒ”áƒ¨áƒ”
+áƒáƒ›áƒ˜áƒ¡ áƒœáƒáƒªáƒ•áƒšáƒáƒ“, áƒ©áƒ•áƒ”áƒœáƒ˜ áƒ“áƒáƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ”áƒ‘áƒ áƒ¨áƒ”áƒ˜áƒ«áƒšáƒ”áƒ‘áƒ áƒ¨áƒ”áƒ“áƒ’áƒ”áƒ‘áƒáƒ“áƒ”áƒ¡ áƒ áƒáƒ›áƒ“áƒ”áƒœáƒ˜áƒ›áƒ” áƒ¡áƒáƒ§áƒ áƒ“áƒ”áƒœáƒ˜áƒ¡áƒ’áƒáƒœ. áƒ©áƒ•áƒ”áƒœ áƒžáƒ˜áƒ áƒ•áƒ”áƒš áƒ áƒ˜áƒ’áƒ¨áƒ˜ áƒ’áƒ—áƒáƒ•áƒáƒ–áƒáƒ‘áƒ— áƒ”áƒ¥áƒ•áƒ¡ áƒ¡áƒáƒ§áƒ áƒ“áƒ”áƒœáƒ¡:
+``áƒ¢áƒ”áƒ¥áƒ¡áƒ¢áƒ˜
                  NEXUS GAJA
-                     │
-       ┌─────────────┼────────
-       ▼ ▼ ▼
-   პრემიუმ ორგანიზაცია შემოწირულობა
-       │ │ │
-       ├─────────────┼────────
-       ▼ ▼ ▼
-   პარტნიორობის სერვისების ხელშეწყობა
+                     â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€
+       â–¼ â–¼ â–¼
+   áƒžáƒ áƒ”áƒ›áƒ˜áƒ£áƒ› áƒáƒ áƒ’áƒáƒœáƒ˜áƒ–áƒáƒªáƒ˜áƒ áƒ¨áƒ”áƒ›áƒáƒ¬áƒ˜áƒ áƒ£áƒšáƒáƒ‘áƒ
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€
+       â–¼ â–¼ â–¼
+   áƒžáƒáƒ áƒ¢áƒœáƒ˜áƒáƒ áƒáƒ‘áƒ˜áƒ¡ áƒ¡áƒ”áƒ áƒ•áƒ˜áƒ¡áƒ”áƒ‘áƒ˜áƒ¡ áƒ®áƒ”áƒšáƒ¨áƒ”áƒ¬áƒ§áƒáƒ‘áƒ
 ```
 
-#### Pillar 1 – უფასო ძირითადი წევრობა
-**Nexus Gaja Free:** საერთაშორისო ურთიერთგაგებაში ძირითადი მონაწილეობა არ უნდა იყოს დამოკიდებული იმაზე, აქვს თუ არა ვინმეს ფული. უფასოა: პირადი პროფილი, საერთაშორისო კომუნიკაცია, წვლილი, კომენტარები, ძირითადი თარგმანი, თემები, ჩეთები, ძირითადი მედიის ფუნქციები.
+#### Pillar 1 â€“ áƒ£áƒ¤áƒáƒ¡áƒ áƒ«áƒ˜áƒ áƒ˜áƒ—áƒáƒ“áƒ˜ áƒ¬áƒ”áƒ•áƒ áƒáƒ‘áƒ
+**Nexus Gaja Free:** áƒ¡áƒáƒ”áƒ áƒ—áƒáƒ¨áƒáƒ áƒ˜áƒ¡áƒ áƒ£áƒ áƒ—áƒ˜áƒ”áƒ áƒ—áƒ’áƒáƒ’áƒ”áƒ‘áƒáƒ¨áƒ˜ áƒ«áƒ˜áƒ áƒ˜áƒ—áƒáƒ“áƒ˜ áƒ›áƒáƒœáƒáƒ¬áƒ˜áƒšáƒ”áƒáƒ‘áƒ áƒáƒ  áƒ£áƒœáƒ“áƒ áƒ˜áƒ§áƒáƒ¡ áƒ“áƒáƒ›áƒáƒ™áƒ˜áƒ“áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒ˜áƒ›áƒáƒ–áƒ”, áƒáƒ¥áƒ•áƒ¡ áƒ—áƒ£ áƒáƒ áƒ áƒ•áƒ˜áƒœáƒ›áƒ”áƒ¡ áƒ¤áƒ£áƒšáƒ˜. áƒ£áƒ¤áƒáƒ¡áƒáƒ: áƒžáƒ˜áƒ áƒáƒ“áƒ˜ áƒžáƒ áƒáƒ¤áƒ˜áƒšáƒ˜, áƒ¡áƒáƒ”áƒ áƒ—áƒáƒ¨áƒáƒ áƒ˜áƒ¡áƒ áƒ™áƒáƒ›áƒ£áƒœáƒ˜áƒ™áƒáƒªáƒ˜áƒ, áƒ¬áƒ•áƒšáƒ˜áƒšáƒ˜, áƒ™áƒáƒ›áƒ”áƒœáƒ¢áƒáƒ áƒ”áƒ‘áƒ˜, áƒ«áƒ˜áƒ áƒ˜áƒ—áƒáƒ“áƒ˜ áƒ—áƒáƒ áƒ’áƒ›áƒáƒœáƒ˜, áƒ—áƒ”áƒ›áƒ”áƒ‘áƒ˜, áƒ©áƒ”áƒ—áƒ”áƒ‘áƒ˜, áƒ«áƒ˜áƒ áƒ˜áƒ—áƒáƒ“áƒ˜ áƒ›áƒ”áƒ“áƒ˜áƒ˜áƒ¡ áƒ¤áƒ£áƒœáƒ¥áƒªáƒ˜áƒ”áƒ‘áƒ˜.
 
-#### Pillar 2 – პრემიუმ შეთავაზებები
-ნებაყოფლობითი ფასიანი შეთავაზებები (**Nexus Gaja Plus**). შესაძლო უპირატესობები: მეხსიერების უფრო დიდი ლიმიტები, მედიის უფრო მაღალი ხარისხი, უფრო გრძელი ვიდეო გადაცემა, გაფართოებული თარგმანის ფუნქციები, უფრო დიდი საზოგადოებები, დამატებითი ორგანიზაციული ფუნქციები, უფრო მაღალი AI კვოტები.
-**Freemium – მაგრამ არა „Dark Freemium“:** უფასო ვერსიის გამოყენება შესაძლებელია გონივრულად; Premium აფართოებს მას.
+#### Pillar 2 â€“ áƒžáƒ áƒ”áƒ›áƒ˜áƒ£áƒ› áƒ¨áƒ”áƒ—áƒáƒ•áƒáƒ–áƒ”áƒ‘áƒ”áƒ‘áƒ˜
+áƒœáƒ”áƒ‘áƒáƒ§áƒáƒ¤áƒšáƒáƒ‘áƒ˜áƒ—áƒ˜ áƒ¤áƒáƒ¡áƒ˜áƒáƒœáƒ˜ áƒ¨áƒ”áƒ—áƒáƒ•áƒáƒ–áƒ”áƒ‘áƒ”áƒ‘áƒ˜ (**Nexus Gaja Plus**). áƒ¨áƒ”áƒ¡áƒáƒ«áƒšáƒ áƒ£áƒžáƒ˜áƒ áƒáƒ¢áƒ”áƒ¡áƒáƒ‘áƒ”áƒ‘áƒ˜: áƒ›áƒ”áƒ®áƒ¡áƒ˜áƒ”áƒ áƒ”áƒ‘áƒ˜áƒ¡ áƒ£áƒ¤áƒ áƒ áƒ“áƒ˜áƒ“áƒ˜ áƒšáƒ˜áƒ›áƒ˜áƒ¢áƒ”áƒ‘áƒ˜, áƒ›áƒ”áƒ“áƒ˜áƒ˜áƒ¡ áƒ£áƒ¤áƒ áƒ áƒ›áƒáƒ¦áƒáƒšáƒ˜ áƒ®áƒáƒ áƒ˜áƒ¡áƒ®áƒ˜, áƒ£áƒ¤áƒ áƒ áƒ’áƒ áƒ«áƒ”áƒšáƒ˜ áƒ•áƒ˜áƒ“áƒ”áƒ áƒ’áƒáƒ“áƒáƒªáƒ”áƒ›áƒ, áƒ’áƒáƒ¤áƒáƒ áƒ—áƒáƒ”áƒ‘áƒ£áƒšáƒ˜ áƒ—áƒáƒ áƒ’áƒ›áƒáƒœáƒ˜áƒ¡ áƒ¤áƒ£áƒœáƒ¥áƒªáƒ˜áƒ”áƒ‘áƒ˜, áƒ£áƒ¤áƒ áƒ áƒ“áƒ˜áƒ“áƒ˜ áƒ¡áƒáƒ–áƒáƒ’áƒáƒ“áƒáƒ”áƒ‘áƒ”áƒ‘áƒ˜, áƒ“áƒáƒ›áƒáƒ¢áƒ”áƒ‘áƒ˜áƒ—áƒ˜ áƒáƒ áƒ’áƒáƒœáƒ˜áƒ–áƒáƒªáƒ˜áƒ£áƒšáƒ˜ áƒ¤áƒ£áƒœáƒ¥áƒªáƒ˜áƒ”áƒ‘áƒ˜, áƒ£áƒ¤áƒ áƒ áƒ›áƒáƒ¦áƒáƒšáƒ˜ AI áƒ™áƒ•áƒáƒ¢áƒ”áƒ‘áƒ˜.
+**Freemium â€“ áƒ›áƒáƒ’áƒ áƒáƒ› áƒáƒ áƒ â€žDark Freemiumâ€œ:** áƒ£áƒ¤áƒáƒ¡áƒ áƒ•áƒ”áƒ áƒ¡áƒ˜áƒ˜áƒ¡ áƒ’áƒáƒ›áƒáƒ§áƒ”áƒœáƒ”áƒ‘áƒ áƒ¨áƒ”áƒ¡áƒáƒ«áƒšáƒ”áƒ‘áƒ”áƒšáƒ˜áƒ áƒ’áƒáƒœáƒ˜áƒ•áƒ áƒ£áƒšáƒáƒ“; Premium áƒáƒ¤áƒáƒ áƒ—áƒáƒ”áƒ‘áƒ¡ áƒ›áƒáƒ¡.
 
-#### სვეტი 3 – ორგანიზაციები
-**Nexus Gaja ორგანიზაცია:** სპეციალური ანგარიშები სკოლებისთვის, უნივერსიტეტებისთვის, კლუბებისთვის, არასამთავრობო ორგანიზაციებისთვის, კომპანიებისთვის, მუნიციპალიტეტებისთვის და ა.შ. ცენტრალური ორგანიზაციული ანგარიშით, წევრების მენეჯმენტით და ადმინისტრაციული ფუნქციებით. (მაგალითი: სკოლა იღებს სტუდენტთა წვდომას უფასოდ ან ინსტიტუციური ტარიფით).
+#### áƒ¡áƒ•áƒ”áƒ¢áƒ˜ 3 â€“ áƒáƒ áƒ’áƒáƒœáƒ˜áƒ–áƒáƒªáƒ˜áƒ”áƒ‘áƒ˜
+**Nexus Gaja áƒáƒ áƒ’áƒáƒœáƒ˜áƒ–áƒáƒªáƒ˜áƒ:** áƒ¡áƒžáƒ”áƒªáƒ˜áƒáƒšáƒ£áƒ áƒ˜ áƒáƒœáƒ’áƒáƒ áƒ˜áƒ¨áƒ”áƒ‘áƒ˜ áƒ¡áƒ™áƒáƒšáƒ”áƒ‘áƒ˜áƒ¡áƒ—áƒ•áƒ˜áƒ¡, áƒ£áƒœáƒ˜áƒ•áƒ”áƒ áƒ¡áƒ˜áƒ¢áƒ”áƒ¢áƒ”áƒ‘áƒ˜áƒ¡áƒ—áƒ•áƒ˜áƒ¡, áƒ™áƒšáƒ£áƒ‘áƒ”áƒ‘áƒ˜áƒ¡áƒ—áƒ•áƒ˜áƒ¡, áƒáƒ áƒáƒ¡áƒáƒ›áƒ—áƒáƒ•áƒ áƒáƒ‘áƒ áƒáƒ áƒ’áƒáƒœáƒ˜áƒ–áƒáƒªáƒ˜áƒ”áƒ‘áƒ˜áƒ¡áƒ—áƒ•áƒ˜áƒ¡, áƒ™áƒáƒ›áƒžáƒáƒœáƒ˜áƒ”áƒ‘áƒ˜áƒ¡áƒ—áƒ•áƒ˜áƒ¡, áƒ›áƒ£áƒœáƒ˜áƒªáƒ˜áƒžáƒáƒšáƒ˜áƒ¢áƒ”áƒ¢áƒ”áƒ‘áƒ˜áƒ¡áƒ—áƒ•áƒ˜áƒ¡ áƒ“áƒ áƒ.áƒ¨. áƒªáƒ”áƒœáƒ¢áƒ áƒáƒšáƒ£áƒ áƒ˜ áƒáƒ áƒ’áƒáƒœáƒ˜áƒ–áƒáƒªáƒ˜áƒ£áƒšáƒ˜ áƒáƒœáƒ’áƒáƒ áƒ˜áƒ¨áƒ˜áƒ—, áƒ¬áƒ”áƒ•áƒ áƒ”áƒ‘áƒ˜áƒ¡ áƒ›áƒ”áƒœáƒ”áƒ¯áƒ›áƒ”áƒœáƒ¢áƒ˜áƒ— áƒ“áƒ áƒáƒ“áƒ›áƒ˜áƒœáƒ˜áƒ¡áƒ¢áƒ áƒáƒªáƒ˜áƒ£áƒšáƒ˜ áƒ¤áƒ£áƒœáƒ¥áƒªáƒ˜áƒ”áƒ‘áƒ˜áƒ—. (áƒ›áƒáƒ’áƒáƒšáƒ˜áƒ—áƒ˜: áƒ¡áƒ™áƒáƒšáƒ áƒ˜áƒ¦áƒ”áƒ‘áƒ¡ áƒ¡áƒ¢áƒ£áƒ“áƒ”áƒœáƒ¢áƒ—áƒ áƒ¬áƒ•áƒ“áƒáƒ›áƒáƒ¡ áƒ£áƒ¤áƒáƒ¡áƒáƒ“ áƒáƒœ áƒ˜áƒœáƒ¡áƒ¢áƒ˜áƒ¢áƒ£áƒªáƒ˜áƒ£áƒ áƒ˜ áƒ¢áƒáƒ áƒ˜áƒ¤áƒ˜áƒ—).
 
-#### სვეტი 4 – შემოწირულობები
-**Nexus Gaja-ს დაფინანსების ფონდი:** დონორებს შეუძლიათ ნებაყოფლობით უზრუნველყონ ფული (ზოგადი ან მიზნობრივი შემოწირულობები). 
-**დაფინანსების აუზი და ტომბოლა:** უფასო ან ფასდაკლებით გამოყენება ფინანსდება შემოწირულობის ფონდიდან. ფონდის განაწილების წიგნაკი უზრუნველყოფს მიზნობრიობას.
-``ტექსტი
-შემოწირულობები → მიზნობრივი ფონდი → უფლებამოსილების ძრავა → უფასო წვდომა / ფასდაკლება / კვოტა
+#### áƒ¡áƒ•áƒ”áƒ¢áƒ˜ 4 â€“ áƒ¨áƒ”áƒ›áƒáƒ¬áƒ˜áƒ áƒ£áƒšáƒáƒ‘áƒ”áƒ‘áƒ˜
+**Nexus Gaja-áƒ¡ áƒ“áƒáƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ”áƒ‘áƒ˜áƒ¡ áƒ¤áƒáƒœáƒ“áƒ˜:** áƒ“áƒáƒœáƒáƒ áƒ”áƒ‘áƒ¡ áƒ¨áƒ”áƒ£áƒ«áƒšáƒ˜áƒáƒ— áƒœáƒ”áƒ‘áƒáƒ§áƒáƒ¤áƒšáƒáƒ‘áƒ˜áƒ— áƒ£áƒ–áƒ áƒ£áƒœáƒ•áƒ”áƒšáƒ§áƒáƒœ áƒ¤áƒ£áƒšáƒ˜ (áƒ–áƒáƒ’áƒáƒ“áƒ˜ áƒáƒœ áƒ›áƒ˜áƒ–áƒœáƒáƒ‘áƒ áƒ˜áƒ•áƒ˜ áƒ¨áƒ”áƒ›áƒáƒ¬áƒ˜áƒ áƒ£áƒšáƒáƒ‘áƒ”áƒ‘áƒ˜). 
+**áƒ“áƒáƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ”áƒ‘áƒ˜áƒ¡ áƒáƒ£áƒ–áƒ˜ áƒ“áƒ áƒ¢áƒáƒ›áƒ‘áƒáƒšáƒ:** áƒ£áƒ¤áƒáƒ¡áƒ áƒáƒœ áƒ¤áƒáƒ¡áƒ“áƒáƒ™áƒšáƒ”áƒ‘áƒ˜áƒ— áƒ’áƒáƒ›áƒáƒ§áƒ”áƒœáƒ”áƒ‘áƒ áƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ“áƒ”áƒ‘áƒ áƒ¨áƒ”áƒ›áƒáƒ¬áƒ˜áƒ áƒ£áƒšáƒáƒ‘áƒ˜áƒ¡ áƒ¤áƒáƒœáƒ“áƒ˜áƒ“áƒáƒœ. áƒ¤áƒáƒœáƒ“áƒ˜áƒ¡ áƒ’áƒáƒœáƒáƒ¬áƒ˜áƒšáƒ”áƒ‘áƒ˜áƒ¡ áƒ¬áƒ˜áƒ’áƒœáƒáƒ™áƒ˜ áƒ£áƒ–áƒ áƒ£áƒœáƒ•áƒ”áƒšáƒ§áƒáƒ¤áƒ¡ áƒ›áƒ˜áƒ–áƒœáƒáƒ‘áƒ áƒ˜áƒáƒ‘áƒáƒ¡.
+``áƒ¢áƒ”áƒ¥áƒ¡áƒ¢áƒ˜
+áƒ¨áƒ”áƒ›áƒáƒ¬áƒ˜áƒ áƒ£áƒšáƒáƒ‘áƒ”áƒ‘áƒ˜ â†’ áƒ›áƒ˜áƒ–áƒœáƒáƒ‘áƒ áƒ˜áƒ•áƒ˜ áƒ¤áƒáƒœáƒ“áƒ˜ â†’ áƒ£áƒ¤áƒšáƒ”áƒ‘áƒáƒ›áƒáƒ¡áƒ˜áƒšáƒ”áƒ‘áƒ˜áƒ¡ áƒ«áƒ áƒáƒ•áƒ â†’ áƒ£áƒ¤áƒáƒ¡áƒ áƒ¬áƒ•áƒ“áƒáƒ›áƒ / áƒ¤áƒáƒ¡áƒ“áƒáƒ™áƒšáƒ”áƒ‘áƒ / áƒ™áƒ•áƒáƒ¢áƒ
 ```
 
-#### სვეტი 5 – ინსტიტუციური მხარდაჭერა
-სპონსორები: ფონდები, კულტურის დაფინანსების პროგრამები, სახელმწიფო დაფინანსების პროგრამები.
-**NG-FIN-002 (დამოუკიდებლობა):** დაფინანსებამ არ შეიძლება შეიძინოს სარედაქციო ან ტექნიკური კონტროლი Nexus Gaja-ზე.
+#### áƒ¡áƒ•áƒ”áƒ¢áƒ˜ 5 â€“ áƒ˜áƒœáƒ¡áƒ¢áƒ˜áƒ¢áƒ£áƒªáƒ˜áƒ£áƒ áƒ˜ áƒ›áƒ®áƒáƒ áƒ“áƒáƒ­áƒ”áƒ áƒ
+áƒ¡áƒžáƒáƒœáƒ¡áƒáƒ áƒ”áƒ‘áƒ˜: áƒ¤áƒáƒœáƒ“áƒ”áƒ‘áƒ˜, áƒ™áƒ£áƒšáƒ¢áƒ£áƒ áƒ˜áƒ¡ áƒ“áƒáƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ”áƒ‘áƒ˜áƒ¡ áƒžáƒ áƒáƒ’áƒ áƒáƒ›áƒ”áƒ‘áƒ˜, áƒ¡áƒáƒ®áƒ”áƒšáƒ›áƒ¬áƒ˜áƒ¤áƒ áƒ“áƒáƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ”áƒ‘áƒ˜áƒ¡ áƒžáƒ áƒáƒ’áƒ áƒáƒ›áƒ”áƒ‘áƒ˜.
+**NG-FIN-002 (áƒ“áƒáƒ›áƒáƒ£áƒ™áƒ˜áƒ“áƒ”áƒ‘áƒšáƒáƒ‘áƒ):** áƒ“áƒáƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ”áƒ‘áƒáƒ› áƒáƒ  áƒ¨áƒ”áƒ˜áƒ«áƒšáƒ”áƒ‘áƒ áƒ¨áƒ”áƒ˜áƒ«áƒ˜áƒœáƒáƒ¡ áƒ¡áƒáƒ áƒ”áƒ“áƒáƒ¥áƒªáƒ˜áƒ áƒáƒœ áƒ¢áƒ”áƒ¥áƒœáƒ˜áƒ™áƒ£áƒ áƒ˜ áƒ™áƒáƒœáƒ¢áƒ áƒáƒšáƒ˜ Nexus Gaja-áƒ–áƒ”.
 
-#### სვეტი 6 – კომერციული მომსახურება
-Nexus Gaja-ს შეუძლია შესთავაზოს B2B სერვისები, როგორიცაა **Translation-as-a-Service (API)**, პროფესიული თარგმანი, ორგანიზაციული კომუნიკაცია ან საერთაშორისო საკონფერენციო ოთახები, მომხმარებლის ნორმალური არხის რეკლამით დატვირთვის გარეშე.
+#### áƒ¡áƒ•áƒ”áƒ¢áƒ˜ 6 â€“ áƒ™áƒáƒ›áƒ”áƒ áƒªáƒ˜áƒ£áƒšáƒ˜ áƒ›áƒáƒ›áƒ¡áƒáƒ®áƒ£áƒ áƒ”áƒ‘áƒ
+Nexus Gaja-áƒ¡ áƒ¨áƒ”áƒ£áƒ«áƒšáƒ˜áƒ áƒ¨áƒ”áƒ¡áƒ—áƒáƒ•áƒáƒ–áƒáƒ¡ B2B áƒ¡áƒ”áƒ áƒ•áƒ˜áƒ¡áƒ”áƒ‘áƒ˜, áƒ áƒáƒ’áƒáƒ áƒ˜áƒªáƒáƒ **Translation-as-a-Service (API)**, áƒžáƒ áƒáƒ¤áƒ”áƒ¡áƒ˜áƒ£áƒšáƒ˜ áƒ—áƒáƒ áƒ’áƒ›áƒáƒœáƒ˜, áƒáƒ áƒ’áƒáƒœáƒ˜áƒ–áƒáƒªáƒ˜áƒ£áƒšáƒ˜ áƒ™áƒáƒ›áƒ£áƒœáƒ˜áƒ™áƒáƒªáƒ˜áƒ áƒáƒœ áƒ¡áƒáƒ”áƒ áƒ—áƒáƒ¨áƒáƒ áƒ˜áƒ¡áƒ áƒ¡áƒáƒ™áƒáƒœáƒ¤áƒ”áƒ áƒ”áƒœáƒªáƒ˜áƒ áƒáƒ—áƒáƒ®áƒ”áƒ‘áƒ˜, áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒšáƒ˜áƒ¡ áƒœáƒáƒ áƒ›áƒáƒšáƒ£áƒ áƒ˜ áƒáƒ áƒ®áƒ˜áƒ¡ áƒ áƒ”áƒ™áƒšáƒáƒ›áƒ˜áƒ— áƒ“áƒáƒ¢áƒ•áƒ˜áƒ áƒ—áƒ•áƒ˜áƒ¡ áƒ’áƒáƒ áƒ”áƒ¨áƒ”.
 
-### 4. არ არის მონაცემთა მარკეტინგი და არ არის „სათვალთვალო ეკონომიკა“
-**NG-FIN-003:** მომხმარებლის პერსონალური მონაცემები არ არის Nexus Gaja-ს საქონელი. (პროფილების, ისტორიების, პირადობის მონაცემების გაყიდვა არ არის). 
-Nexus Gaja არ არის გამიზნული, რომ ისარგებლოს მისი მომხმარებლების მაქსიმალური მონიტორინგით და რაც შეიძლება ზუსტად ფსიქოლოგიურად კლასიფიცირებული.
+### 4. áƒáƒ  áƒáƒ áƒ˜áƒ¡ áƒ›áƒáƒœáƒáƒªáƒ”áƒ›áƒ—áƒ áƒ›áƒáƒ áƒ™áƒ”áƒ¢áƒ˜áƒœáƒ’áƒ˜ áƒ“áƒ áƒáƒ  áƒáƒ áƒ˜áƒ¡ â€žáƒ¡áƒáƒ—áƒ•áƒáƒšáƒ—áƒ•áƒáƒšáƒ áƒ”áƒ™áƒáƒœáƒáƒ›áƒ˜áƒ™áƒâ€œ
+**NG-FIN-003:** áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒšáƒ˜áƒ¡ áƒžáƒ”áƒ áƒ¡áƒáƒœáƒáƒšáƒ£áƒ áƒ˜ áƒ›áƒáƒœáƒáƒªáƒ”áƒ›áƒ”áƒ‘áƒ˜ áƒáƒ  áƒáƒ áƒ˜áƒ¡ Nexus Gaja-áƒ¡ áƒ¡áƒáƒ¥áƒáƒœáƒ”áƒšáƒ˜. (áƒžáƒ áƒáƒ¤áƒ˜áƒšáƒ”áƒ‘áƒ˜áƒ¡, áƒ˜áƒ¡áƒ¢áƒáƒ áƒ˜áƒ”áƒ‘áƒ˜áƒ¡, áƒžáƒ˜áƒ áƒáƒ“áƒáƒ‘áƒ˜áƒ¡ áƒ›áƒáƒœáƒáƒªáƒ”áƒ›áƒ”áƒ‘áƒ˜áƒ¡ áƒ’áƒáƒ§áƒ˜áƒ“áƒ•áƒ áƒáƒ  áƒáƒ áƒ˜áƒ¡). 
+Nexus Gaja áƒáƒ  áƒáƒ áƒ˜áƒ¡ áƒ’áƒáƒ›áƒ˜áƒ–áƒœáƒ£áƒšáƒ˜, áƒ áƒáƒ› áƒ˜áƒ¡áƒáƒ áƒ’áƒ”áƒ‘áƒšáƒáƒ¡ áƒ›áƒ˜áƒ¡áƒ˜ áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒšáƒ”áƒ‘áƒ˜áƒ¡ áƒ›áƒáƒ¥áƒ¡áƒ˜áƒ›áƒáƒšáƒ£áƒ áƒ˜ áƒ›áƒáƒœáƒ˜áƒ¢áƒáƒ áƒ˜áƒœáƒ’áƒ˜áƒ— áƒ“áƒ áƒ áƒáƒª áƒ¨áƒ”áƒ˜áƒ«áƒšáƒ”áƒ‘áƒ áƒ–áƒ£áƒ¡áƒ¢áƒáƒ“ áƒ¤áƒ¡áƒ˜áƒ¥áƒáƒšáƒáƒ’áƒ˜áƒ£áƒ áƒáƒ“ áƒ™áƒšáƒáƒ¡áƒ˜áƒ¤áƒ˜áƒªáƒ˜áƒ áƒ”áƒ‘áƒ£áƒšáƒ˜.
 
-### 5. ფინანსური გამჭვირვალობა
-Nexus Gaja ფინანსური გამჭვირვალობა: შემოსავალი შეიძლება გამოქვეყნდეს კატეგორიების, შემოწირულობის მოცულობის, საოპერაციო ხარჯების და ა.შ. 
-**დაფინანსების წიგნი:** კონკრეტული მიზნისთვის განკუთვნილი შემოწირულობები აღირიცხება გასაგები აღრიცხვის წესით (დონაცია → ფონდის ID → მიზანი → ხელმისაწვდომი ნაშთი → გამოყოფა). არ არსებობს ჯვარედინი სუბსიდირება გამჭვირვალობის გარეშე.
+### 5. áƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ£áƒ áƒ˜ áƒ’áƒáƒ›áƒ­áƒ•áƒ˜áƒ áƒ•áƒáƒšáƒáƒ‘áƒ
+Nexus Gaja áƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ£áƒ áƒ˜ áƒ’áƒáƒ›áƒ­áƒ•áƒ˜áƒ áƒ•áƒáƒšáƒáƒ‘áƒ: áƒ¨áƒ”áƒ›áƒáƒ¡áƒáƒ•áƒáƒšáƒ˜ áƒ¨áƒ”áƒ˜áƒ«áƒšáƒ”áƒ‘áƒ áƒ’áƒáƒ›áƒáƒ¥áƒ•áƒ”áƒ§áƒœáƒ“áƒ”áƒ¡ áƒ™áƒáƒ¢áƒ”áƒ’áƒáƒ áƒ˜áƒ”áƒ‘áƒ˜áƒ¡, áƒ¨áƒ”áƒ›áƒáƒ¬áƒ˜áƒ áƒ£áƒšáƒáƒ‘áƒ˜áƒ¡ áƒ›áƒáƒªáƒ£áƒšáƒáƒ‘áƒ˜áƒ¡, áƒ¡áƒáƒáƒžáƒ”áƒ áƒáƒªáƒ˜áƒ áƒ®áƒáƒ áƒ¯áƒ”áƒ‘áƒ˜áƒ¡ áƒ“áƒ áƒ.áƒ¨. 
+**áƒ“áƒáƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ”áƒ‘áƒ˜áƒ¡ áƒ¬áƒ˜áƒ’áƒœáƒ˜:** áƒ™áƒáƒœáƒ™áƒ áƒ”áƒ¢áƒ£áƒšáƒ˜ áƒ›áƒ˜áƒ–áƒœáƒ˜áƒ¡áƒ—áƒ•áƒ˜áƒ¡ áƒ’áƒáƒœáƒ™áƒ£áƒ—áƒ•áƒœáƒ˜áƒšáƒ˜ áƒ¨áƒ”áƒ›áƒáƒ¬áƒ˜áƒ áƒ£áƒšáƒáƒ‘áƒ”áƒ‘áƒ˜ áƒáƒ¦áƒ˜áƒ áƒ˜áƒªáƒ®áƒ”áƒ‘áƒ áƒ’áƒáƒ¡áƒáƒ’áƒ”áƒ‘áƒ˜ áƒáƒ¦áƒ áƒ˜áƒªáƒ®áƒ•áƒ˜áƒ¡ áƒ¬áƒ”áƒ¡áƒ˜áƒ— (áƒ“áƒáƒœáƒáƒªáƒ˜áƒ â†’ áƒ¤áƒáƒœáƒ“áƒ˜áƒ¡ ID â†’ áƒ›áƒ˜áƒ–áƒáƒœáƒ˜ â†’ áƒ®áƒ”áƒšáƒ›áƒ˜áƒ¡áƒáƒ¬áƒ•áƒ“áƒáƒ›áƒ˜ áƒœáƒáƒ¨áƒ—áƒ˜ â†’ áƒ’áƒáƒ›áƒáƒ§áƒáƒ¤áƒ). áƒáƒ  áƒáƒ áƒ¡áƒ”áƒ‘áƒáƒ‘áƒ¡ áƒ¯áƒ•áƒáƒ áƒ”áƒ“áƒ˜áƒœáƒ˜ áƒ¡áƒ£áƒ‘áƒ¡áƒ˜áƒ“áƒ˜áƒ áƒ”áƒ‘áƒ áƒ’áƒáƒ›áƒ­áƒ•áƒ˜áƒ áƒ•áƒáƒšáƒáƒ‘áƒ˜áƒ¡ áƒ’áƒáƒ áƒ”áƒ¨áƒ”.
 
-### 6. ფასების და სოლიდარობის დაფინანსების მოდელი
-ფასები ეფუძნება: ხარჯზე ორიენტაციას, სამართლიანობასა და სოლიდარობას.
-** სოლიდარობის პრემია: ** პრემიუმ მომხმარებელს შეუძლია ნებაყოფლობით აირჩიოს: „მე ვაფინანსებ სხვა მომხმარებლის წვდომის ნაწილს“. იძულებითი სოლიდარობა ან პრემიუმ კლასის საზოგადოება (უფასო მომხმარებლებისთვის ნაკლები პატივისცემა ან უარესი ზომიერება) გამორიცხულია.
+### 6. áƒ¤áƒáƒ¡áƒ”áƒ‘áƒ˜áƒ¡ áƒ“áƒ áƒ¡áƒáƒšáƒ˜áƒ“áƒáƒ áƒáƒ‘áƒ˜áƒ¡ áƒ“áƒáƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ”áƒ‘áƒ˜áƒ¡ áƒ›áƒáƒ“áƒ”áƒšáƒ˜
+áƒ¤áƒáƒ¡áƒ”áƒ‘áƒ˜ áƒ”áƒ¤áƒ£áƒ«áƒœáƒ”áƒ‘áƒ: áƒ®áƒáƒ áƒ¯áƒ–áƒ” áƒáƒ áƒ˜áƒ”áƒœáƒ¢áƒáƒªáƒ˜áƒáƒ¡, áƒ¡áƒáƒ›áƒáƒ áƒ—áƒšáƒ˜áƒáƒœáƒáƒ‘áƒáƒ¡áƒ áƒ“áƒ áƒ¡áƒáƒšáƒ˜áƒ“áƒáƒ áƒáƒ‘áƒáƒ¡.
+** áƒ¡áƒáƒšáƒ˜áƒ“áƒáƒ áƒáƒ‘áƒ˜áƒ¡ áƒžáƒ áƒ”áƒ›áƒ˜áƒ: ** áƒžáƒ áƒ”áƒ›áƒ˜áƒ£áƒ› áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒ”áƒšáƒ¡ áƒ¨áƒ”áƒ£áƒ«áƒšáƒ˜áƒ áƒœáƒ”áƒ‘áƒáƒ§áƒáƒ¤áƒšáƒáƒ‘áƒ˜áƒ— áƒáƒ˜áƒ áƒ©áƒ˜áƒáƒ¡: â€žáƒ›áƒ” áƒ•áƒáƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ”áƒ‘ áƒ¡áƒ®áƒ•áƒ áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒšáƒ˜áƒ¡ áƒ¬áƒ•áƒ“áƒáƒ›áƒ˜áƒ¡ áƒœáƒáƒ¬áƒ˜áƒšáƒ¡â€œ. áƒ˜áƒ«áƒ£áƒšáƒ”áƒ‘áƒ˜áƒ—áƒ˜ áƒ¡áƒáƒšáƒ˜áƒ“áƒáƒ áƒáƒ‘áƒ áƒáƒœ áƒžáƒ áƒ”áƒ›áƒ˜áƒ£áƒ› áƒ™áƒšáƒáƒ¡áƒ˜áƒ¡ áƒ¡áƒáƒ–áƒáƒ’áƒáƒ“áƒáƒ”áƒ‘áƒ (áƒ£áƒ¤áƒáƒ¡áƒ áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒšáƒ”áƒ‘áƒ˜áƒ¡áƒ—áƒ•áƒ˜áƒ¡ áƒœáƒáƒ™áƒšáƒ”áƒ‘áƒ˜ áƒžáƒáƒ¢áƒ˜áƒ•áƒ˜áƒ¡áƒªáƒ”áƒ›áƒ áƒáƒœ áƒ£áƒáƒ áƒ”áƒ¡áƒ˜ áƒ–áƒáƒ›áƒ˜áƒ”áƒ áƒ”áƒ‘áƒ) áƒ’áƒáƒ›áƒáƒ áƒ˜áƒªáƒ®áƒ£áƒšáƒ˜áƒ.
 
-### 7. ეკონომიკური KPI
-ჩვენ არ ვართ დამოკიდებული გაუთავებელ ონლაინ დროზე (მანიპულაციური ჩართულობის ეკონომიკა არ არის). ჩვენი KPI-ები:
-- **გლობალური კომუნიკაციის ინდექსი (GCI):** რამდენი წარმატებული საკომუნიკაციო ურთიერთობა წარმოიქმნება სხვადასხვა ენობრივი თუ კულტურული რეგიონის ადამიანებს შორის?
-- **პლატფორმის მდგრადობის კოეფიციენტი (PSR): ** განმეორებადი შემოსავალი / განმეორებადი საოპერაციო ხარჯები (სამიზნე: PSR ≥ 1).
+### 7. áƒ”áƒ™áƒáƒœáƒáƒ›áƒ˜áƒ™áƒ£áƒ áƒ˜ KPI
+áƒ©áƒ•áƒ”áƒœ áƒáƒ  áƒ•áƒáƒ áƒ— áƒ“áƒáƒ›áƒáƒ™áƒ˜áƒ“áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒ’áƒáƒ£áƒ—áƒáƒ•áƒ”áƒ‘áƒ”áƒš áƒáƒœáƒšáƒáƒ˜áƒœ áƒ“áƒ áƒáƒ–áƒ” (áƒ›áƒáƒœáƒ˜áƒžáƒ£áƒšáƒáƒªáƒ˜áƒ£áƒ áƒ˜ áƒ©áƒáƒ áƒ—áƒ£áƒšáƒáƒ‘áƒ˜áƒ¡ áƒ”áƒ™áƒáƒœáƒáƒ›áƒ˜áƒ™áƒ áƒáƒ  áƒáƒ áƒ˜áƒ¡). áƒ©áƒ•áƒ”áƒœáƒ˜ KPI-áƒ”áƒ‘áƒ˜:
+- **áƒ’áƒšáƒáƒ‘áƒáƒšáƒ£áƒ áƒ˜ áƒ™áƒáƒ›áƒ£áƒœáƒ˜áƒ™áƒáƒªáƒ˜áƒ˜áƒ¡ áƒ˜áƒœáƒ“áƒ”áƒ¥áƒ¡áƒ˜ (GCI):** áƒ áƒáƒ›áƒ“áƒ”áƒœáƒ˜ áƒ¬áƒáƒ áƒ›áƒáƒ¢áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒ¡áƒáƒ™áƒáƒ›áƒ£áƒœáƒ˜áƒ™áƒáƒªáƒ˜áƒ áƒ£áƒ áƒ—áƒ˜áƒ”áƒ áƒ—áƒáƒ‘áƒ áƒ¬áƒáƒ áƒ›áƒáƒ˜áƒ¥áƒ›áƒœáƒ”áƒ‘áƒ áƒ¡áƒ®áƒ•áƒáƒ“áƒáƒ¡áƒ®áƒ•áƒ áƒ”áƒœáƒáƒ‘áƒ áƒ˜áƒ•áƒ˜ áƒ—áƒ£ áƒ™áƒ£áƒšáƒ¢áƒ£áƒ áƒ£áƒšáƒ˜ áƒ áƒ”áƒ’áƒ˜áƒáƒœáƒ˜áƒ¡ áƒáƒ“áƒáƒ›áƒ˜áƒáƒœáƒ”áƒ‘áƒ¡ áƒ¨áƒáƒ áƒ˜áƒ¡?
+- **áƒžáƒšáƒáƒ¢áƒ¤áƒáƒ áƒ›áƒ˜áƒ¡ áƒ›áƒ“áƒ’áƒ áƒáƒ“áƒáƒ‘áƒ˜áƒ¡ áƒ™áƒáƒ”áƒ¤áƒ˜áƒªáƒ˜áƒ”áƒœáƒ¢áƒ˜ (PSR): ** áƒ’áƒáƒœáƒ›áƒ”áƒáƒ áƒ”áƒ‘áƒáƒ“áƒ˜ áƒ¨áƒ”áƒ›áƒáƒ¡áƒáƒ•áƒáƒšáƒ˜ / áƒ’áƒáƒœáƒ›áƒ”áƒáƒ áƒ”áƒ‘áƒáƒ“áƒ˜ áƒ¡áƒáƒáƒžáƒ”áƒ áƒáƒªáƒ˜áƒ áƒ®áƒáƒ áƒ¯áƒ”áƒ‘áƒ˜ (áƒ¡áƒáƒ›áƒ˜áƒ–áƒœáƒ”: PSR â‰¥ 1).
 
-### 8. რაც ჩვენ პირდაპირ არ გვინდა
-Nexus Gaja არ ფინანსდება:
-❌ პირადი ინფორმაციის გაყიდვა
-❌ პერსონალიზებული კლასიკური რეკლამა
-❌ სარეკლამო მიზნებისთვის მომხმარებლის ქცევის მონიტორინგი
-❌ პირადი საკომუნიკაციო მონაცემების გაყიდვა
-❌ დამალული AI მონაცემთა გამოყენება
-❌ მანიპულაციური პრემიუმ საკეტები
-❌ ხელოვნური მიღწევის შეზღუდვა მონეტიზაციისთვის
-❌ ფასიანი პოლიტიკური გავლენა
-❌ პრივილეგირებული მოდერაციის გადაწყვეტილებების შეძენა.
+### 8. áƒ áƒáƒª áƒ©áƒ•áƒ”áƒœ áƒžáƒ˜áƒ áƒ“áƒáƒžáƒ˜áƒ  áƒáƒ  áƒ’áƒ•áƒ˜áƒœáƒ“áƒ
+Nexus Gaja áƒáƒ  áƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ“áƒ”áƒ‘áƒ:
+âŒ áƒžáƒ˜áƒ áƒáƒ“áƒ˜ áƒ˜áƒœáƒ¤áƒáƒ áƒ›áƒáƒªáƒ˜áƒ˜áƒ¡ áƒ’áƒáƒ§áƒ˜áƒ“áƒ•áƒ
+âŒ áƒžáƒ”áƒ áƒ¡áƒáƒœáƒáƒšáƒ˜áƒ–áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒ™áƒšáƒáƒ¡áƒ˜áƒ™áƒ£áƒ áƒ˜ áƒ áƒ”áƒ™áƒšáƒáƒ›áƒ
+âŒ áƒ¡áƒáƒ áƒ”áƒ™áƒšáƒáƒ›áƒ áƒ›áƒ˜áƒ–áƒœáƒ”áƒ‘áƒ˜áƒ¡áƒ—áƒ•áƒ˜áƒ¡ áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒšáƒ˜áƒ¡ áƒ¥áƒªáƒ”áƒ•áƒ˜áƒ¡ áƒ›áƒáƒœáƒ˜áƒ¢áƒáƒ áƒ˜áƒœáƒ’áƒ˜
+âŒ áƒžáƒ˜áƒ áƒáƒ“áƒ˜ áƒ¡áƒáƒ™áƒáƒ›áƒ£áƒœáƒ˜áƒ™áƒáƒªáƒ˜áƒ áƒ›áƒáƒœáƒáƒªáƒ”áƒ›áƒ”áƒ‘áƒ˜áƒ¡ áƒ’áƒáƒ§áƒ˜áƒ“áƒ•áƒ
+âŒ áƒ“áƒáƒ›áƒáƒšáƒ£áƒšáƒ˜ AI áƒ›áƒáƒœáƒáƒªáƒ”áƒ›áƒ—áƒ áƒ’áƒáƒ›áƒáƒ§áƒ”áƒœáƒ”áƒ‘áƒ
+âŒ áƒ›áƒáƒœáƒ˜áƒžáƒ£áƒšáƒáƒªáƒ˜áƒ£áƒ áƒ˜ áƒžáƒ áƒ”áƒ›áƒ˜áƒ£áƒ› áƒ¡áƒáƒ™áƒ”áƒ¢áƒ”áƒ‘áƒ˜
+âŒ áƒ®áƒ”áƒšáƒáƒ•áƒœáƒ£áƒ áƒ˜ áƒ›áƒ˜áƒ¦áƒ¬áƒ”áƒ•áƒ˜áƒ¡ áƒ¨áƒ”áƒ–áƒ¦áƒ£áƒ“áƒ•áƒ áƒ›áƒáƒœáƒ”áƒ¢áƒ˜áƒ–áƒáƒªáƒ˜áƒ˜áƒ¡áƒ—áƒ•áƒ˜áƒ¡
+âŒ áƒ¤áƒáƒ¡áƒ˜áƒáƒœáƒ˜ áƒžáƒáƒšáƒ˜áƒ¢áƒ˜áƒ™áƒ£áƒ áƒ˜ áƒ’áƒáƒ•áƒšáƒ”áƒœáƒ
+âŒ áƒžáƒ áƒ˜áƒ•áƒ˜áƒšáƒ”áƒ’áƒ˜áƒ áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒ›áƒáƒ“áƒ”áƒ áƒáƒªáƒ˜áƒ˜áƒ¡ áƒ’áƒáƒ“áƒáƒ¬áƒ§áƒ•áƒ”áƒ¢áƒ˜áƒšáƒ”áƒ‘áƒ”áƒ‘áƒ˜áƒ¡ áƒ¨áƒ”áƒ«áƒ”áƒœáƒ.
 
-### 9. წინასწარი არქიტექტურა
-``ტექსტი
+### 9. áƒ¬áƒ˜áƒœáƒáƒ¡áƒ¬áƒáƒ áƒ˜ áƒáƒ áƒ¥áƒ˜áƒ¢áƒ”áƒ¥áƒ¢áƒ£áƒ áƒ
+``áƒ¢áƒ”áƒ¥áƒ¡áƒ¢áƒ˜
                          NEXUS GAJA
-                              │
-             ┌────────────────┼───-
-             │ │ │
-             ▼ ▼ ▼
-          მომხმარებელთა ორგანიზაციები ENTERPRISE
-             │ │ │
-             └────────────────┼─-
-                              │
-                       პლატფორმის სერვისები
-                              │
-          ┌─────────────────── ┼───────────────────┐
-          ▼ ▼ ▼
+                              â”‚
+             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€-
+             â”‚ â”‚ â”‚
+             â–¼ â–¼ â–¼
+          áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒ”áƒšáƒ—áƒ áƒáƒ áƒ’áƒáƒœáƒ˜áƒ–áƒáƒªáƒ˜áƒ”áƒ‘áƒ˜ ENTERPRISE
+             â”‚ â”‚ â”‚
+             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€-
+                              â”‚
+                       áƒžáƒšáƒáƒ¢áƒ¤áƒáƒ áƒ›áƒ˜áƒ¡ áƒ¡áƒ”áƒ áƒ•áƒ˜áƒ¡áƒ”áƒ‘áƒ˜
+                              â”‚
+          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+          â–¼ â–¼ â–¼
        PREMIUM DONATIONS API
-                              │
-                    ┌─────────┴─────────┐
-                    ▼ ▼
+                              â”‚
+                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+                    â–¼ â–¼
                GENERAL FUND RESTRICTED FUNDS
-                                        │
-                                        ▼
-                                  სოციალური მიზანი
+                                        â”‚
+                                        â–¼
+                                  áƒ¡áƒáƒªáƒ˜áƒáƒšáƒ£áƒ áƒ˜ áƒ›áƒ˜áƒ–áƒáƒœáƒ˜
 ```
 
-### რეზიუმე: დაფინანსების პრინციპები (NG-FIN)
-- **NG-FIN-001:** Nexus Gaja არ ფინანსდება ტრადიციული რეკლამით.
-- **NG-FIN-002:** ფინანსური მხარდაჭერა არ წარმოადგენს გავლენას მოდერაციაზე ან მმართველობაზე.
-- **NG-FIN-003:** მომხმარებლის პერსონალური მონაცემები არ არის საქონელი.
-- **NG-FIN-004:** ძირითადი საერთაშორისო საკომუნიკაციო ფუნქცია ხელმისაწვდომი უნდა იყოს გადახდის გარეშე.
-- **NG-FIN-005:** პრემიუმ შეთავაზებები აფართოებს სერვისების ფარგლებს, მაგრამ არ უნდა შელახოს უფასო მომხმარებლების ღირსება და კომუნიკაციის ძირითადი პარამეტრები.
-- **NG-FIN-006:** მიზნობრივი სახსრები იმართება კონკრეტული მიზნისთვის.
-- **NG-FIN-007:** შემოწირულობები და დაფინანსება იმართება გამჭვირვალედ და გასაგებად.
-- **NG-FIN-008:** კომერციულმა სერვისებმა არ უნდა იმოქმედოს პლატფორმის დამოუკიდებლობაზე.
-- **NG-FIN-009:** Nexus Gaja-ს ეკონომიკური განვითარება მიმართული უნდა იყოს გრძელვადიან მდგრადობაზე და არა მომხმარებლის მაქსიმალურ მონეტიზაციაზე.
-- **NG-FIN-010:** ეკონომიკურმა სტრუქტურამ მუდმივად უნდა უზრუნველყოს სოციალური მიზანი - საერთაშორისო ურთიერთგაგება, საერთაშორისო კომუნიკაცია და ხალხებს შორის მეგობრობა.
+### áƒ áƒ”áƒ–áƒ˜áƒ£áƒ›áƒ”: áƒ“áƒáƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ”áƒ‘áƒ˜áƒ¡ áƒžáƒ áƒ˜áƒœáƒªáƒ˜áƒžáƒ”áƒ‘áƒ˜ (NG-FIN)
+- **NG-FIN-001:** Nexus Gaja áƒáƒ  áƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ“áƒ”áƒ‘áƒ áƒ¢áƒ áƒáƒ“áƒ˜áƒªáƒ˜áƒ£áƒšáƒ˜ áƒ áƒ”áƒ™áƒšáƒáƒ›áƒ˜áƒ—.
+- **NG-FIN-002:** áƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ£áƒ áƒ˜ áƒ›áƒ®áƒáƒ áƒ“áƒáƒ­áƒ”áƒ áƒ áƒáƒ  áƒ¬áƒáƒ áƒ›áƒáƒáƒ“áƒ’áƒ”áƒœáƒ¡ áƒ’áƒáƒ•áƒšáƒ”áƒœáƒáƒ¡ áƒ›áƒáƒ“áƒ”áƒ áƒáƒªáƒ˜áƒáƒ–áƒ” áƒáƒœ áƒ›áƒ›áƒáƒ áƒ—áƒ•áƒ”áƒšáƒáƒ‘áƒáƒ–áƒ”.
+- **NG-FIN-003:** áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒšáƒ˜áƒ¡ áƒžáƒ”áƒ áƒ¡áƒáƒœáƒáƒšáƒ£áƒ áƒ˜ áƒ›áƒáƒœáƒáƒªáƒ”áƒ›áƒ”áƒ‘áƒ˜ áƒáƒ  áƒáƒ áƒ˜áƒ¡ áƒ¡áƒáƒ¥áƒáƒœáƒ”áƒšáƒ˜.
+- **NG-FIN-004:** áƒ«áƒ˜áƒ áƒ˜áƒ—áƒáƒ“áƒ˜ áƒ¡áƒáƒ”áƒ áƒ—áƒáƒ¨áƒáƒ áƒ˜áƒ¡áƒ áƒ¡áƒáƒ™áƒáƒ›áƒ£áƒœáƒ˜áƒ™áƒáƒªáƒ˜áƒ áƒ¤áƒ£áƒœáƒ¥áƒªáƒ˜áƒ áƒ®áƒ”áƒšáƒ›áƒ˜áƒ¡áƒáƒ¬áƒ•áƒ“áƒáƒ›áƒ˜ áƒ£áƒœáƒ“áƒ áƒ˜áƒ§áƒáƒ¡ áƒ’áƒáƒ“áƒáƒ®áƒ“áƒ˜áƒ¡ áƒ’áƒáƒ áƒ”áƒ¨áƒ”.
+- **NG-FIN-005:** áƒžáƒ áƒ”áƒ›áƒ˜áƒ£áƒ› áƒ¨áƒ”áƒ—áƒáƒ•áƒáƒ–áƒ”áƒ‘áƒ”áƒ‘áƒ˜ áƒáƒ¤áƒáƒ áƒ—áƒáƒ”áƒ‘áƒ¡ áƒ¡áƒ”áƒ áƒ•áƒ˜áƒ¡áƒ”áƒ‘áƒ˜áƒ¡ áƒ¤áƒáƒ áƒ’áƒšáƒ”áƒ‘áƒ¡, áƒ›áƒáƒ’áƒ áƒáƒ› áƒáƒ  áƒ£áƒœáƒ“áƒ áƒ¨áƒ”áƒšáƒáƒ®áƒáƒ¡ áƒ£áƒ¤áƒáƒ¡áƒ áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒšáƒ”áƒ‘áƒ˜áƒ¡ áƒ¦áƒ˜áƒ áƒ¡áƒ”áƒ‘áƒ áƒ“áƒ áƒ™áƒáƒ›áƒ£áƒœáƒ˜áƒ™áƒáƒªáƒ˜áƒ˜áƒ¡ áƒ«áƒ˜áƒ áƒ˜áƒ—áƒáƒ“áƒ˜ áƒžáƒáƒ áƒáƒ›áƒ”áƒ¢áƒ áƒ”áƒ‘áƒ˜.
+- **NG-FIN-006:** áƒ›áƒ˜áƒ–áƒœáƒáƒ‘áƒ áƒ˜áƒ•áƒ˜ áƒ¡áƒáƒ®áƒ¡áƒ áƒ”áƒ‘áƒ˜ áƒ˜áƒ›áƒáƒ áƒ—áƒ”áƒ‘áƒ áƒ™áƒáƒœáƒ™áƒ áƒ”áƒ¢áƒ£áƒšáƒ˜ áƒ›áƒ˜áƒ–áƒœáƒ˜áƒ¡áƒ—áƒ•áƒ˜áƒ¡.
+- **NG-FIN-007:** áƒ¨áƒ”áƒ›áƒáƒ¬áƒ˜áƒ áƒ£áƒšáƒáƒ‘áƒ”áƒ‘áƒ˜ áƒ“áƒ áƒ“áƒáƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ”áƒ‘áƒ áƒ˜áƒ›áƒáƒ áƒ—áƒ”áƒ‘áƒ áƒ’áƒáƒ›áƒ­áƒ•áƒ˜áƒ áƒ•áƒáƒšáƒ”áƒ“ áƒ“áƒ áƒ’áƒáƒ¡áƒáƒ’áƒ”áƒ‘áƒáƒ“.
+- **NG-FIN-008:** áƒ™áƒáƒ›áƒ”áƒ áƒªáƒ˜áƒ£áƒšáƒ›áƒ áƒ¡áƒ”áƒ áƒ•áƒ˜áƒ¡áƒ”áƒ‘áƒ›áƒ áƒáƒ  áƒ£áƒœáƒ“áƒ áƒ˜áƒ›áƒáƒ¥áƒ›áƒ”áƒ“áƒáƒ¡ áƒžáƒšáƒáƒ¢áƒ¤áƒáƒ áƒ›áƒ˜áƒ¡ áƒ“áƒáƒ›áƒáƒ£áƒ™áƒ˜áƒ“áƒ”áƒ‘áƒšáƒáƒ‘áƒáƒ–áƒ”.
+- **NG-FIN-009:** Nexus Gaja-áƒ¡ áƒ”áƒ™áƒáƒœáƒáƒ›áƒ˜áƒ™áƒ£áƒ áƒ˜ áƒ’áƒáƒœáƒ•áƒ˜áƒ—áƒáƒ áƒ”áƒ‘áƒ áƒ›áƒ˜áƒ›áƒáƒ áƒ—áƒ£áƒšáƒ˜ áƒ£áƒœáƒ“áƒ áƒ˜áƒ§áƒáƒ¡ áƒ’áƒ áƒ«áƒ”áƒšáƒ•áƒáƒ“áƒ˜áƒáƒœ áƒ›áƒ“áƒ’áƒ áƒáƒ“áƒáƒ‘áƒáƒ–áƒ” áƒ“áƒ áƒáƒ áƒ áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒšáƒ˜áƒ¡ áƒ›áƒáƒ¥áƒ¡áƒ˜áƒ›áƒáƒšáƒ£áƒ  áƒ›áƒáƒœáƒ”áƒ¢áƒ˜áƒ–áƒáƒªáƒ˜áƒáƒ–áƒ”.
+- **NG-FIN-010:** áƒ”áƒ™áƒáƒœáƒáƒ›áƒ˜áƒ™áƒ£áƒ áƒ›áƒ áƒ¡áƒ¢áƒ áƒ£áƒ¥áƒ¢áƒ£áƒ áƒáƒ› áƒ›áƒ£áƒ“áƒ›áƒ˜áƒ•áƒáƒ“ áƒ£áƒœáƒ“áƒ áƒ£áƒ–áƒ áƒ£áƒœáƒ•áƒ”áƒšáƒ§áƒáƒ¡ áƒ¡áƒáƒªáƒ˜áƒáƒšáƒ£áƒ áƒ˜ áƒ›áƒ˜áƒ–áƒáƒœáƒ˜ - áƒ¡áƒáƒ”áƒ áƒ—áƒáƒ¨áƒáƒ áƒ˜áƒ¡áƒ áƒ£áƒ áƒ—áƒ˜áƒ”áƒ áƒ—áƒ’áƒáƒ’áƒ”áƒ‘áƒ, áƒ¡áƒáƒ”áƒ áƒ—áƒáƒ¨áƒáƒ áƒ˜áƒ¡áƒ áƒ™áƒáƒ›áƒ£áƒœáƒ˜áƒ™áƒáƒªáƒ˜áƒ áƒ“áƒ áƒ®áƒáƒšáƒ®áƒ”áƒ‘áƒ¡ áƒ¨áƒáƒ áƒ˜áƒ¡ áƒ›áƒ”áƒ’áƒáƒ‘áƒ áƒáƒ‘áƒ.
 
-## API, ინტერფეისი და კომუნიკაციის არქიტექტურა (WP 1.11.3)
+## API, áƒ˜áƒœáƒ¢áƒ”áƒ áƒ¤áƒ”áƒ˜áƒ¡áƒ˜ áƒ“áƒ áƒ™áƒáƒ›áƒ£áƒœáƒ˜áƒ™áƒáƒªáƒ˜áƒ˜áƒ¡ áƒáƒ áƒ¥áƒ˜áƒ¢áƒ”áƒ¥áƒ¢áƒ£áƒ áƒ (WP 1.11.3)
 
-სისტემის სტაბილურობის, უსაფრთხოებისა და მასშტაბურობის უზრუნველსაყოფად, Nexus Gaja მიჰყვება მკაცრად API-ზე დაფუძნებულ და მოვლენებზე ორიენტირებულ არქიტექტურას.
+áƒ¡áƒ˜áƒ¡áƒ¢áƒ”áƒ›áƒ˜áƒ¡ áƒ¡áƒ¢áƒáƒ‘áƒ˜áƒšáƒ£áƒ áƒáƒ‘áƒ˜áƒ¡, áƒ£áƒ¡áƒáƒ¤áƒ áƒ—áƒ®áƒáƒ”áƒ‘áƒ˜áƒ¡áƒ áƒ“áƒ áƒ›áƒáƒ¡áƒ¨áƒ¢áƒáƒ‘áƒ£áƒ áƒáƒ‘áƒ˜áƒ¡ áƒ£áƒ–áƒ áƒ£áƒœáƒ•áƒ”áƒšáƒ¡áƒáƒ§áƒáƒ¤áƒáƒ“, Nexus Gaja áƒ›áƒ˜áƒ°áƒ§áƒ•áƒ”áƒ‘áƒ áƒ›áƒ™áƒáƒªáƒ áƒáƒ“ API-áƒ–áƒ” áƒ“áƒáƒ¤áƒ£áƒ«áƒœáƒ”áƒ‘áƒ£áƒš áƒ“áƒ áƒ›áƒáƒ•áƒšáƒ”áƒœáƒ”áƒ‘áƒ–áƒ” áƒáƒ áƒ˜áƒ”áƒœáƒ¢áƒ˜áƒ áƒ”áƒ‘áƒ£áƒš áƒáƒ áƒ¥áƒ˜áƒ¢áƒ”áƒ¥áƒ¢áƒ£áƒ áƒáƒ¡.
 
-### ძირითადი პრინციპები
-- ** მონაცემთა ბაზაზე პირდაპირი წვდომა არ არის: ** კომპონენტები ურთიერთობენ ექსკლუზიურად განსაზღვრული ინტერფეისების (API-ების ან მოვლენების) მეშვეობით, არასდროს სხვა სერვისების მონაცემთა ბაზის პირდაპირი მოთხოვნების მეშვეობით.
-- **API Gateway:** ყველა გარე კლიენტის მოთხოვნა გადის API Gateway-ს, რომელიც ამუშავებს ავტორიზაციას, მარშრუტიზაციას და განაკვეთის შეზღუდვას.
-- **პროვაიდერის აბსტრაქცია:** გარე სერვისები (AI მოდელები, გადახდის პროვაიდერები, მთარგმნელობითი ძრავები) ინტეგრირებულია აბსტრაქციის ფენების მეშვეობით. ეს ხელს უშლის მყარ სადენებთან დამოკიდებულებებს და იძლევა მოქნილი პროვაიდერის გადართვის საშუალებას.
+### áƒ«áƒ˜áƒ áƒ˜áƒ—áƒáƒ“áƒ˜ áƒžáƒ áƒ˜áƒœáƒªáƒ˜áƒžáƒ”áƒ‘áƒ˜
+- ** áƒ›áƒáƒœáƒáƒªáƒ”áƒ›áƒ—áƒ áƒ‘áƒáƒ–áƒáƒ–áƒ” áƒžáƒ˜áƒ áƒ“áƒáƒžáƒ˜áƒ áƒ˜ áƒ¬áƒ•áƒ“áƒáƒ›áƒ áƒáƒ  áƒáƒ áƒ˜áƒ¡: ** áƒ™áƒáƒ›áƒžáƒáƒœáƒ”áƒœáƒ¢áƒ”áƒ‘áƒ˜ áƒ£áƒ áƒ—áƒ˜áƒ”áƒ áƒ—áƒáƒ‘áƒ”áƒœ áƒ”áƒ¥áƒ¡áƒ™áƒšáƒ£áƒ–áƒ˜áƒ£áƒ áƒáƒ“ áƒ’áƒáƒœáƒ¡áƒáƒ–áƒ¦áƒ•áƒ áƒ£áƒšáƒ˜ áƒ˜áƒœáƒ¢áƒ”áƒ áƒ¤áƒ”áƒ˜áƒ¡áƒ”áƒ‘áƒ˜áƒ¡ (API-áƒ”áƒ‘áƒ˜áƒ¡ áƒáƒœ áƒ›áƒáƒ•áƒšáƒ”áƒœáƒ”áƒ‘áƒ˜áƒ¡) áƒ›áƒ”áƒ¨áƒ•áƒ”áƒáƒ‘áƒ˜áƒ—, áƒáƒ áƒáƒ¡áƒ“áƒ áƒáƒ¡ áƒ¡áƒ®áƒ•áƒ áƒ¡áƒ”áƒ áƒ•áƒ˜áƒ¡áƒ”áƒ‘áƒ˜áƒ¡ áƒ›áƒáƒœáƒáƒªáƒ”áƒ›áƒ—áƒ áƒ‘áƒáƒ–áƒ˜áƒ¡ áƒžáƒ˜áƒ áƒ“áƒáƒžáƒ˜áƒ áƒ˜ áƒ›áƒáƒ—áƒ®áƒáƒ•áƒœáƒ”áƒ‘áƒ˜áƒ¡ áƒ›áƒ”áƒ¨áƒ•áƒ”áƒáƒ‘áƒ˜áƒ—.
+- **API Gateway:** áƒ§áƒ•áƒ”áƒšáƒ áƒ’áƒáƒ áƒ” áƒ™áƒšáƒ˜áƒ”áƒœáƒ¢áƒ˜áƒ¡ áƒ›áƒáƒ—áƒ®áƒáƒ•áƒœáƒ áƒ’áƒáƒ“áƒ˜áƒ¡ API Gateway-áƒ¡, áƒ áƒáƒ›áƒ”áƒšáƒ˜áƒª áƒáƒ›áƒ£áƒ¨áƒáƒ•áƒ”áƒ‘áƒ¡ áƒáƒ•áƒ¢áƒáƒ áƒ˜áƒ–áƒáƒªáƒ˜áƒáƒ¡, áƒ›áƒáƒ áƒ¨áƒ áƒ£áƒ¢áƒ˜áƒ–áƒáƒªáƒ˜áƒáƒ¡ áƒ“áƒ áƒ’áƒáƒœáƒáƒ™áƒ•áƒ”áƒ—áƒ˜áƒ¡ áƒ¨áƒ”áƒ–áƒ¦áƒ£áƒ“áƒ•áƒáƒ¡.
+- **áƒžáƒ áƒáƒ•áƒáƒ˜áƒ“áƒ”áƒ áƒ˜áƒ¡ áƒáƒ‘áƒ¡áƒ¢áƒ áƒáƒ¥áƒªáƒ˜áƒ:** áƒ’áƒáƒ áƒ” áƒ¡áƒ”áƒ áƒ•áƒ˜áƒ¡áƒ”áƒ‘áƒ˜ (AI áƒ›áƒáƒ“áƒ”áƒšáƒ”áƒ‘áƒ˜, áƒ’áƒáƒ“áƒáƒ®áƒ“áƒ˜áƒ¡ áƒžáƒ áƒáƒ•áƒáƒ˜áƒ“áƒ”áƒ áƒ”áƒ‘áƒ˜, áƒ›áƒ—áƒáƒ áƒ’áƒ›áƒœáƒ”áƒšáƒáƒ‘áƒ˜áƒ—áƒ˜ áƒ«áƒ áƒáƒ•áƒ”áƒ‘áƒ˜) áƒ˜áƒœáƒ¢áƒ”áƒ’áƒ áƒ˜áƒ áƒ”áƒ‘áƒ£áƒšáƒ˜áƒ áƒáƒ‘áƒ¡áƒ¢áƒ áƒáƒ¥áƒªáƒ˜áƒ˜áƒ¡ áƒ¤áƒ”áƒœáƒ”áƒ‘áƒ˜áƒ¡ áƒ›áƒ”áƒ¨áƒ•áƒ”áƒáƒ‘áƒ˜áƒ—. áƒ”áƒ¡ áƒ®áƒ”áƒšáƒ¡ áƒ£áƒ¨áƒšáƒ˜áƒ¡ áƒ›áƒ§áƒáƒ  áƒ¡áƒáƒ“áƒ”áƒœáƒ”áƒ‘áƒ—áƒáƒœ áƒ“áƒáƒ›áƒáƒ™áƒ˜áƒ“áƒ”áƒ‘áƒ£áƒšáƒ”áƒ‘áƒ”áƒ‘áƒ¡ áƒ“áƒ áƒ˜áƒ«áƒšáƒ”áƒ•áƒ áƒ›áƒáƒ¥áƒœáƒ˜áƒšáƒ˜ áƒžáƒ áƒáƒ•áƒáƒ˜áƒ“áƒ”áƒ áƒ˜áƒ¡ áƒ’áƒáƒ“áƒáƒ áƒ—áƒ•áƒ˜áƒ¡ áƒ¡áƒáƒ¨áƒ£áƒáƒšáƒ”áƒ‘áƒáƒ¡.
 
-### კომუნიკაციის ნიმუშები
-- **სინქრონული API (REST/HTTPS):** გამოიყენება მყისიერი მოთხოვნებისთვის, როგორიცაა შესვლა, პროფილის პარამეტრები ან პირდაპირი თარგმანი.
-- **ასინქრონული მოვლენები (მოვლენის ავტობუსი):** Nexus Gaja-ს ცენტრალური ნერვული სისტემა დაშლილი პროცესებისთვის (მაგ. `Message.Created` იწვევს ზომიერებას, თარგმნას და შეტყობინებას ასინქრონულად).
-- ** რეალურ დროში (WebSocket): ** გამოყოფილი არხები პირდაპირი ჩეთის და აკრეფის სტატუსისთვის.
+### áƒ™áƒáƒ›áƒ£áƒœáƒ˜áƒ™áƒáƒªáƒ˜áƒ˜áƒ¡ áƒœáƒ˜áƒ›áƒ£áƒ¨áƒ”áƒ‘áƒ˜
+- **áƒ¡áƒ˜áƒœáƒ¥áƒ áƒáƒœáƒ£áƒšáƒ˜ API (REST/HTTPS):** áƒ’áƒáƒ›áƒáƒ˜áƒ§áƒ”áƒœáƒ”áƒ‘áƒ áƒ›áƒ§áƒ˜áƒ¡áƒ˜áƒ”áƒ áƒ˜ áƒ›áƒáƒ—áƒ®áƒáƒ•áƒœáƒ”áƒ‘áƒ˜áƒ¡áƒ—áƒ•áƒ˜áƒ¡, áƒ áƒáƒ’áƒáƒ áƒ˜áƒªáƒáƒ áƒ¨áƒ”áƒ¡áƒ•áƒšáƒ, áƒžáƒ áƒáƒ¤áƒ˜áƒšáƒ˜áƒ¡ áƒžáƒáƒ áƒáƒ›áƒ”áƒ¢áƒ áƒ”áƒ‘áƒ˜ áƒáƒœ áƒžáƒ˜áƒ áƒ“áƒáƒžáƒ˜áƒ áƒ˜ áƒ—áƒáƒ áƒ’áƒ›áƒáƒœáƒ˜.
+- **áƒáƒ¡áƒ˜áƒœáƒ¥áƒ áƒáƒœáƒ£áƒšáƒ˜ áƒ›áƒáƒ•áƒšáƒ”áƒœáƒ”áƒ‘áƒ˜ (áƒ›áƒáƒ•áƒšáƒ”áƒœáƒ˜áƒ¡ áƒáƒ•áƒ¢áƒáƒ‘áƒ£áƒ¡áƒ˜):** Nexus Gaja-áƒ¡ áƒªáƒ”áƒœáƒ¢áƒ áƒáƒšáƒ£áƒ áƒ˜ áƒœáƒ”áƒ áƒ•áƒ£áƒšáƒ˜ áƒ¡áƒ˜áƒ¡áƒ¢áƒ”áƒ›áƒ áƒ“áƒáƒ¨áƒšáƒ˜áƒšáƒ˜ áƒžáƒ áƒáƒªáƒ”áƒ¡áƒ”áƒ‘áƒ˜áƒ¡áƒ—áƒ•áƒ˜áƒ¡ (áƒ›áƒáƒ’. `Message.Created` áƒ˜áƒ¬áƒ•áƒ”áƒ•áƒ¡ áƒ–áƒáƒ›áƒ˜áƒ”áƒ áƒ”áƒ‘áƒáƒ¡, áƒ—áƒáƒ áƒ’áƒ›áƒœáƒáƒ¡ áƒ“áƒ áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒáƒ¡ áƒáƒ¡áƒ˜áƒœáƒ¥áƒ áƒáƒœáƒ£áƒšáƒáƒ“).
+- ** áƒ áƒ”áƒáƒšáƒ£áƒ  áƒ“áƒ áƒáƒ¨áƒ˜ (WebSocket): ** áƒ’áƒáƒ›áƒáƒ§áƒáƒ¤áƒ˜áƒšáƒ˜ áƒáƒ áƒ®áƒ”áƒ‘áƒ˜ áƒžáƒ˜áƒ áƒ“áƒáƒžáƒ˜áƒ áƒ˜ áƒ©áƒ”áƒ—áƒ˜áƒ¡ áƒ“áƒ áƒáƒ™áƒ áƒ”áƒ¤áƒ˜áƒ¡ áƒ¡áƒ¢áƒáƒ¢áƒ£áƒ¡áƒ˜áƒ¡áƒ—áƒ•áƒ˜áƒ¡.
 
-### უსაფრთხოება და საიმედოობა
-- **Zero Trust Model:** შიდა ქსელის ტრაფიკი ავტომატურად არ არის სანდო; სენსიტიური სერვისი სერვისის კომუნიკაცია საჭიროებს ავთენტიფიკაციას.
-- **Idempotence & Outbox Pattern:** კრიტიკული ოპერაციები (როგორიცაა შემოწირულობები ან შეტყობინებები) შექმნილია იმისთვის, რომ იყოს უძლური, რათა თავიდან აიცილოს მრავალჯერადი დამუშავება და გამოიყენოს გამავალი შაბლონი, რათა დარწმუნდეს, რომ მოვლენები არ დაიკარგება მონაცემთა ბაზის ტრანზაქციებშიც კი.
+### áƒ£áƒ¡áƒáƒ¤áƒ áƒ—áƒ®áƒáƒ”áƒ‘áƒ áƒ“áƒ áƒ¡áƒáƒ˜áƒ›áƒ”áƒ“áƒáƒáƒ‘áƒ
+- **Zero Trust Model:** áƒ¨áƒ˜áƒ“áƒ áƒ¥áƒ¡áƒ”áƒšáƒ˜áƒ¡ áƒ¢áƒ áƒáƒ¤áƒ˜áƒ™áƒ˜ áƒáƒ•áƒ¢áƒáƒ›áƒáƒ¢áƒ£áƒ áƒáƒ“ áƒáƒ  áƒáƒ áƒ˜áƒ¡ áƒ¡áƒáƒœáƒ“áƒ; áƒ¡áƒ”áƒœáƒ¡áƒ˜áƒ¢áƒ˜áƒ£áƒ áƒ˜ áƒ¡áƒ”áƒ áƒ•áƒ˜áƒ¡áƒ˜ áƒ¡áƒ”áƒ áƒ•áƒ˜áƒ¡áƒ˜áƒ¡ áƒ™áƒáƒ›áƒ£áƒœáƒ˜áƒ™áƒáƒªáƒ˜áƒ áƒ¡áƒáƒ­áƒ˜áƒ áƒáƒ”áƒ‘áƒ¡ áƒáƒ•áƒ—áƒ”áƒœáƒ¢áƒ˜áƒ¤áƒ˜áƒ™áƒáƒªáƒ˜áƒáƒ¡.
+- **Idempotence & Outbox Pattern:** áƒ™áƒ áƒ˜áƒ¢áƒ˜áƒ™áƒ£áƒšáƒ˜ áƒáƒžáƒ”áƒ áƒáƒªáƒ˜áƒ”áƒ‘áƒ˜ (áƒ áƒáƒ’áƒáƒ áƒ˜áƒªáƒáƒ áƒ¨áƒ”áƒ›áƒáƒ¬áƒ˜áƒ áƒ£áƒšáƒáƒ‘áƒ”áƒ‘áƒ˜ áƒáƒœ áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ”áƒ‘áƒ˜) áƒ¨áƒ”áƒ¥áƒ›áƒœáƒ˜áƒšáƒ˜áƒ áƒ˜áƒ›áƒ˜áƒ¡áƒ—áƒ•áƒ˜áƒ¡, áƒ áƒáƒ› áƒ˜áƒ§áƒáƒ¡ áƒ£áƒ«áƒšáƒ£áƒ áƒ˜, áƒ áƒáƒ—áƒ áƒ—áƒáƒ•áƒ˜áƒ“áƒáƒœ áƒáƒ˜áƒªáƒ˜áƒšáƒáƒ¡ áƒ›áƒ áƒáƒ•áƒáƒšáƒ¯áƒ”áƒ áƒáƒ“áƒ˜ áƒ“áƒáƒ›áƒ£áƒ¨áƒáƒ•áƒ”áƒ‘áƒ áƒ“áƒ áƒ’áƒáƒ›áƒáƒ˜áƒ§áƒ”áƒœáƒáƒ¡ áƒ’áƒáƒ›áƒáƒ•áƒáƒšáƒ˜ áƒ¨áƒáƒ‘áƒšáƒáƒœáƒ˜, áƒ áƒáƒ—áƒ áƒ“áƒáƒ áƒ¬áƒ›áƒ£áƒœáƒ“áƒ”áƒ¡, áƒ áƒáƒ› áƒ›áƒáƒ•áƒšáƒ”áƒœáƒ”áƒ‘áƒ˜ áƒáƒ  áƒ“áƒáƒ˜áƒ™áƒáƒ áƒ’áƒ”áƒ‘áƒ áƒ›áƒáƒœáƒáƒªáƒ”áƒ›áƒ—áƒ áƒ‘áƒáƒ–áƒ˜áƒ¡ áƒ¢áƒ áƒáƒœáƒ–áƒáƒ¥áƒªáƒ˜áƒ”áƒ‘áƒ¨áƒ˜áƒª áƒ™áƒ˜.
 
-## MVP დომენის მოდელი (WP 1.12)
+## MVP áƒ“áƒáƒ›áƒ”áƒœáƒ˜áƒ¡ áƒ›áƒáƒ“áƒ”áƒšáƒ˜ (WP 1.12)
 
 ![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
 
-Nexus Gaja იყენებს მკაცრად დომენზე ორიენტირებულ MVP არქიტექტურას (ADR-025), შექმნილია როგორც მოდულური მონოლითი დომენის მკაფიო საზღვრებით. ეს სტრუქტურა ხელს უშლის ადრეული მიკროსერვისის სირთულეს, ხოლო შემდგომში კონკრეტული დომენების აუთსორსინგის მოქნილობას ინარჩუნებს.
+Nexus Gaja áƒ˜áƒ§áƒ”áƒœáƒ”áƒ‘áƒ¡ áƒ›áƒ™áƒáƒªáƒ áƒáƒ“ áƒ“áƒáƒ›áƒ”áƒœáƒ–áƒ” áƒáƒ áƒ˜áƒ”áƒœáƒ¢áƒ˜áƒ áƒ”áƒ‘áƒ£áƒš MVP áƒáƒ áƒ¥áƒ˜áƒ¢áƒ”áƒ¥áƒ¢áƒ£áƒ áƒáƒ¡ (ADR-025), áƒ¨áƒ”áƒ¥áƒ›áƒœáƒ˜áƒšáƒ˜áƒ áƒ áƒáƒ’áƒáƒ áƒª áƒ›áƒáƒ“áƒ£áƒšáƒ£áƒ áƒ˜ áƒ›áƒáƒœáƒáƒšáƒ˜áƒ—áƒ˜ áƒ“áƒáƒ›áƒ”áƒœáƒ˜áƒ¡ áƒ›áƒ™áƒáƒ¤áƒ˜áƒ áƒ¡áƒáƒ–áƒ¦áƒ•áƒ áƒ”áƒ‘áƒ˜áƒ—. áƒ”áƒ¡ áƒ¡áƒ¢áƒ áƒ£áƒ¥áƒ¢áƒ£áƒ áƒ áƒ®áƒ”áƒšáƒ¡ áƒ£áƒ¨áƒšáƒ˜áƒ¡ áƒáƒ“áƒ áƒ”áƒ£áƒšáƒ˜ áƒ›áƒ˜áƒ™áƒ áƒáƒ¡áƒ”áƒ áƒ•áƒ˜áƒ¡áƒ˜áƒ¡ áƒ¡áƒ˜áƒ áƒ—áƒ£áƒšáƒ”áƒ¡, áƒ®áƒáƒšáƒ áƒ¨áƒ”áƒ›áƒ“áƒ’áƒáƒ›áƒ¨áƒ˜ áƒ™áƒáƒœáƒ™áƒ áƒ”áƒ¢áƒ£áƒšáƒ˜ áƒ“áƒáƒ›áƒ”áƒœáƒ”áƒ‘áƒ˜áƒ¡ áƒáƒ£áƒ—áƒ¡áƒáƒ áƒ¡áƒ˜áƒœáƒ’áƒ˜áƒ¡ áƒ›áƒáƒ¥áƒœáƒ˜áƒšáƒáƒ‘áƒáƒ¡ áƒ˜áƒœáƒáƒ áƒ©áƒ£áƒœáƒ”áƒ‘áƒ¡.
 
-### ტექნიკური ძირითადი პირები
-არქიტექტურა მკაცრად გამოყოფს ცნებებს მონაცემთა მთლიანობის უზრუნველსაყოფად და ისეთი შეცდომების თავიდან ასაცილებლად, როგორიცაა „მომხმარებლის სახელი = ადამიანი“:
-- ** პირადობა და ანგარიშები: ** `პირი` ≠ `მომხმარებლის ანგარიში` ≠ `იდენტიფიკაციის დადასტურება`. ვერიფიცირებული პირი მონაწილეობს ერთი ანგარიშის მეშვეობით, მაგრამ სუბიექტები რჩება ცალკე.
-- **კომუნიკაცია:** `მესიჯი` ≠ `თარგმანი`. ორიგინალური შეტყობინება უცვლელია; თარგმანები არის დაკავშირებული ერთეულები.
-- **მოდერაცია:** `ანგარიში` ≠ `მოდერაციის გადაწყვეტილება`. შეტყობინება მხოლოდ მითითებაა; მოდერატორი აწარმოებს გამოძიებას.
-- **ფინანსები:** `დონაცია` ≠ `ფონდის ნაშთი`. გადახდები უცვლელად იგზავნება ფონდში წიგნში (ფულადი წიგნაკი).
+### áƒ¢áƒ”áƒ¥áƒœáƒ˜áƒ™áƒ£áƒ áƒ˜ áƒ«áƒ˜áƒ áƒ˜áƒ—áƒáƒ“áƒ˜ áƒžáƒ˜áƒ áƒ”áƒ‘áƒ˜
+áƒáƒ áƒ¥áƒ˜áƒ¢áƒ”áƒ¥áƒ¢áƒ£áƒ áƒ áƒ›áƒ™áƒáƒªáƒ áƒáƒ“ áƒ’áƒáƒ›áƒáƒ§áƒáƒ¤áƒ¡ áƒªáƒœáƒ”áƒ‘áƒ”áƒ‘áƒ¡ áƒ›áƒáƒœáƒáƒªáƒ”áƒ›áƒ—áƒ áƒ›áƒ—áƒšáƒ˜áƒáƒœáƒáƒ‘áƒ˜áƒ¡ áƒ£áƒ–áƒ áƒ£áƒœáƒ•áƒ”áƒšáƒ¡áƒáƒ§áƒáƒ¤áƒáƒ“ áƒ“áƒ áƒ˜áƒ¡áƒ”áƒ—áƒ˜ áƒ¨áƒ”áƒªáƒ“áƒáƒ›áƒ”áƒ‘áƒ˜áƒ¡ áƒ—áƒáƒ•áƒ˜áƒ“áƒáƒœ áƒáƒ¡áƒáƒªáƒ˜áƒšáƒ”áƒ‘áƒšáƒáƒ“, áƒ áƒáƒ’áƒáƒ áƒ˜áƒªáƒáƒ â€žáƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒšáƒ˜áƒ¡ áƒ¡áƒáƒ®áƒ”áƒšáƒ˜ = áƒáƒ“áƒáƒ›áƒ˜áƒáƒœáƒ˜â€œ:
+- ** áƒžáƒ˜áƒ áƒáƒ“áƒáƒ‘áƒ áƒ“áƒ áƒáƒœáƒ’áƒáƒ áƒ˜áƒ¨áƒ”áƒ‘áƒ˜: ** `áƒžáƒ˜áƒ áƒ˜` â‰  `áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒšáƒ˜áƒ¡ áƒáƒœáƒ’áƒáƒ áƒ˜áƒ¨áƒ˜` â‰  `áƒ˜áƒ“áƒ”áƒœáƒ¢áƒ˜áƒ¤áƒ˜áƒ™áƒáƒªáƒ˜áƒ˜áƒ¡ áƒ“áƒáƒ“áƒáƒ¡áƒ¢áƒ£áƒ áƒ”áƒ‘áƒ`. áƒ•áƒ”áƒ áƒ˜áƒ¤áƒ˜áƒªáƒ˜áƒ áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒžáƒ˜áƒ áƒ˜ áƒ›áƒáƒœáƒáƒ¬áƒ˜áƒšáƒ”áƒáƒ‘áƒ¡ áƒ”áƒ áƒ—áƒ˜ áƒáƒœáƒ’áƒáƒ áƒ˜áƒ¨áƒ˜áƒ¡ áƒ›áƒ”áƒ¨áƒ•áƒ”áƒáƒ‘áƒ˜áƒ—, áƒ›áƒáƒ’áƒ áƒáƒ› áƒ¡áƒ£áƒ‘áƒ˜áƒ”áƒ¥áƒ¢áƒ”áƒ‘áƒ˜ áƒ áƒ©áƒ”áƒ‘áƒ áƒªáƒáƒšáƒ™áƒ”.
+- **áƒ™áƒáƒ›áƒ£áƒœáƒ˜áƒ™áƒáƒªáƒ˜áƒ:** `áƒ›áƒ”áƒ¡áƒ˜áƒ¯áƒ˜` â‰  `áƒ—áƒáƒ áƒ’áƒ›áƒáƒœáƒ˜`. áƒáƒ áƒ˜áƒ’áƒ˜áƒœáƒáƒšáƒ£áƒ áƒ˜ áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ áƒ£áƒªáƒ•áƒšáƒ”áƒšáƒ˜áƒ; áƒ—áƒáƒ áƒ’áƒ›áƒáƒœáƒ”áƒ‘áƒ˜ áƒáƒ áƒ˜áƒ¡ áƒ“áƒáƒ™áƒáƒ•áƒ¨áƒ˜áƒ áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒ”áƒ áƒ—áƒ”áƒ£áƒšáƒ”áƒ‘áƒ˜.
+- **áƒ›áƒáƒ“áƒ”áƒ áƒáƒªáƒ˜áƒ:** `áƒáƒœáƒ’áƒáƒ áƒ˜áƒ¨áƒ˜` â‰  `áƒ›áƒáƒ“áƒ”áƒ áƒáƒªáƒ˜áƒ˜áƒ¡ áƒ’áƒáƒ“áƒáƒ¬áƒ§áƒ•áƒ”áƒ¢áƒ˜áƒšáƒ”áƒ‘áƒ`. áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ áƒ›áƒ®áƒáƒšáƒáƒ“ áƒ›áƒ˜áƒ—áƒ˜áƒ—áƒ”áƒ‘áƒáƒ; áƒ›áƒáƒ“áƒ”áƒ áƒáƒ¢áƒáƒ áƒ˜ áƒáƒ¬áƒáƒ áƒ›áƒáƒ”áƒ‘áƒ¡ áƒ’áƒáƒ›áƒáƒ«áƒ˜áƒ”áƒ‘áƒáƒ¡.
+- **áƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ”áƒ‘áƒ˜:** `áƒ“áƒáƒœáƒáƒªáƒ˜áƒ` â‰  `áƒ¤áƒáƒœáƒ“áƒ˜áƒ¡ áƒœáƒáƒ¨áƒ—áƒ˜`. áƒ’áƒáƒ“áƒáƒ®áƒ“áƒ”áƒ‘áƒ˜ áƒ£áƒªáƒ•áƒšáƒ”áƒšáƒáƒ“ áƒ˜áƒ’áƒ–áƒáƒ•áƒœáƒ”áƒ‘áƒ áƒ¤áƒáƒœáƒ“áƒ¨áƒ˜ áƒ¬áƒ˜áƒ’áƒœáƒ¨áƒ˜ (áƒ¤áƒ£áƒšáƒáƒ“áƒ˜ áƒ¬áƒ˜áƒ’áƒœáƒáƒ™áƒ˜).
 
-### დაკავშირებული საგნების დომენები
-სისტემა დაყოფილია ლოგიკურ დომენებად (შეზღუდული კონტექსტები): იდენტურობა, ანგარიში, ორგანიზაცია, კომუნიკაცია, საზოგადოება, ენა, მოდერაცია, შეტყობინება, ფინანსები და მმართველობა. ისინი წარმოადგენენ მთელ ჯაჭვს რეალური აქტორებიდან (მომხმარებლები, სკოლები, არასამთავრობო ორგანიზაციები) მათ ციფრულ ინტერაქციამდე.
+### áƒ“áƒáƒ™áƒáƒ•áƒ¨áƒ˜áƒ áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒ¡áƒáƒ’áƒœáƒ”áƒ‘áƒ˜áƒ¡ áƒ“áƒáƒ›áƒ”áƒœáƒ”áƒ‘áƒ˜
+áƒ¡áƒ˜áƒ¡áƒ¢áƒ”áƒ›áƒ áƒ“áƒáƒ§áƒáƒ¤áƒ˜áƒšáƒ˜áƒ áƒšáƒáƒ’áƒ˜áƒ™áƒ£áƒ  áƒ“áƒáƒ›áƒ”áƒœáƒ”áƒ‘áƒáƒ“ (áƒ¨áƒ”áƒ–áƒ¦áƒ£áƒ“áƒ£áƒšáƒ˜ áƒ™áƒáƒœáƒ¢áƒ”áƒ¥áƒ¡áƒ¢áƒ”áƒ‘áƒ˜): áƒ˜áƒ“áƒ”áƒœáƒ¢áƒ£áƒ áƒáƒ‘áƒ, áƒáƒœáƒ’áƒáƒ áƒ˜áƒ¨áƒ˜, áƒáƒ áƒ’áƒáƒœáƒ˜áƒ–áƒáƒªáƒ˜áƒ, áƒ™áƒáƒ›áƒ£áƒœáƒ˜áƒ™áƒáƒªáƒ˜áƒ, áƒ¡áƒáƒ–áƒáƒ’áƒáƒ“áƒáƒ”áƒ‘áƒ, áƒ”áƒœáƒ, áƒ›áƒáƒ“áƒ”áƒ áƒáƒªáƒ˜áƒ, áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ, áƒ¤áƒ˜áƒœáƒáƒœáƒ¡áƒ”áƒ‘áƒ˜ áƒ“áƒ áƒ›áƒ›áƒáƒ áƒ—áƒ•áƒ”áƒšáƒáƒ‘áƒ. áƒ˜áƒ¡áƒ˜áƒœáƒ˜ áƒ¬áƒáƒ áƒ›áƒáƒáƒ“áƒ’áƒ”áƒœáƒ”áƒœ áƒ›áƒ—áƒ”áƒš áƒ¯áƒáƒ­áƒ•áƒ¡ áƒ áƒ”áƒáƒšáƒ£áƒ áƒ˜ áƒáƒ¥áƒ¢áƒáƒ áƒ”áƒ‘áƒ˜áƒ“áƒáƒœ (áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒšáƒ”áƒ‘áƒ˜, áƒ¡áƒ™áƒáƒšáƒ”áƒ‘áƒ˜, áƒáƒ áƒáƒ¡áƒáƒ›áƒ—áƒáƒ•áƒ áƒáƒ‘áƒ áƒáƒ áƒ’áƒáƒœáƒ˜áƒ–áƒáƒªáƒ˜áƒ”áƒ‘áƒ˜) áƒ›áƒáƒ— áƒªáƒ˜áƒ¤áƒ áƒ£áƒš áƒ˜áƒœáƒ¢áƒ”áƒ áƒáƒ¥áƒªáƒ˜áƒáƒ›áƒ“áƒ”.
 
-## პროექტის სტატუსი
-პროექტი აქტიურ არქიტექტურისა და დაგეგმვის ფაზაშია.
-მიმდინარე არქიტექტურული გადაწყვეტილებები დოკუმენტირებულია `/docs` საქაღალდეში.
+## áƒžáƒ áƒáƒ”áƒ¥áƒ¢áƒ˜áƒ¡ áƒ¡áƒ¢áƒáƒ¢áƒ£áƒ¡áƒ˜
+áƒžáƒ áƒáƒ”áƒ¥áƒ¢áƒ˜ áƒáƒ¥áƒ¢áƒ˜áƒ£áƒ  áƒáƒ áƒ¥áƒ˜áƒ¢áƒ”áƒ¥áƒ¢áƒ£áƒ áƒ˜áƒ¡áƒ áƒ“áƒ áƒ“áƒáƒ’áƒ”áƒ’áƒ›áƒ•áƒ˜áƒ¡ áƒ¤áƒáƒ–áƒáƒ¨áƒ˜áƒ.
+áƒ›áƒ˜áƒ›áƒ“áƒ˜áƒœáƒáƒ áƒ” áƒáƒ áƒ¥áƒ˜áƒ¢áƒ”áƒ¥áƒ¢áƒ£áƒ áƒ£áƒšáƒ˜ áƒ’áƒáƒ“áƒáƒ¬áƒ§áƒ•áƒ”áƒ¢áƒ˜áƒšáƒ”áƒ‘áƒ”áƒ‘áƒ˜ áƒ“áƒáƒ™áƒ£áƒ›áƒ”áƒœáƒ¢áƒ˜áƒ áƒ”áƒ‘áƒ£áƒšáƒ˜áƒ `/docs` áƒ¡áƒáƒ¥áƒáƒ¦áƒáƒšáƒ“áƒ”áƒ¨áƒ˜.
 
 ---
 
-## ლიცენზია და ინტელექტუალური საკუთრება
+## áƒšáƒ˜áƒªáƒ”áƒœáƒ–áƒ˜áƒ áƒ“áƒ áƒ˜áƒœáƒ¢áƒ”áƒšáƒ”áƒ¥áƒ¢áƒ£áƒáƒšáƒ£áƒ áƒ˜ áƒ¡áƒáƒ™áƒ£áƒ—áƒ áƒ”áƒ‘áƒ
 
-> **© 2024-2026 SonnerStudio - იან ფრისკე SonnerStudio-ს დამფუძნებელი, მფლობელი, დირექტორი და მთავარი დიზაინერი — ყველა უფლება დაცულია.**
+> **Â© 2024-2026 SonnerStudio - áƒ˜áƒáƒœ áƒ¤áƒ áƒ˜áƒ¡áƒ™áƒ” SonnerStudio-áƒ¡ áƒ“áƒáƒ›áƒ¤áƒ£áƒ«áƒœáƒ”áƒ‘áƒ”áƒšáƒ˜, áƒ›áƒ¤áƒšáƒáƒ‘áƒ”áƒšáƒ˜, áƒ“áƒ˜áƒ áƒ”áƒ¥áƒ¢áƒáƒ áƒ˜ áƒ“áƒ áƒ›áƒ—áƒáƒ•áƒáƒ áƒ˜ áƒ“áƒ˜áƒ–áƒáƒ˜áƒœáƒ”áƒ áƒ˜ â€” áƒ§áƒ•áƒ”áƒšáƒ áƒ£áƒ¤áƒšáƒ”áƒ‘áƒ áƒ“áƒáƒªáƒ£áƒšáƒ˜áƒ.**
 
-**Nexus Gaja** არის **Jan Friske**-ის ექსკლუზიური ინტელექტუალური საკუთრება, რომელიც მუშაობს **SonnerStudio**-ის ქვეშ.
+**Nexus Gaja** áƒáƒ áƒ˜áƒ¡ **Jan Friske**-áƒ˜áƒ¡ áƒ”áƒ¥áƒ¡áƒ™áƒšáƒ£áƒ–áƒ˜áƒ£áƒ áƒ˜ áƒ˜áƒœáƒ¢áƒ”áƒšáƒ”áƒ¥áƒ¢áƒ£áƒáƒšáƒ£áƒ áƒ˜ áƒ¡áƒáƒ™áƒ£áƒ—áƒ áƒ”áƒ‘áƒ, áƒ áƒáƒ›áƒ”áƒšáƒ˜áƒª áƒ›áƒ£áƒ¨áƒáƒáƒ‘áƒ¡ **SonnerStudio**-áƒ˜áƒ¡ áƒ¥áƒ•áƒ”áƒ¨.
 
-იან ფრისკე არის Nexus Gaja-ს ერთადერთი შემქმნელი, არქიტექტორი და მფლობელი - ყველა კონცეფციის, არქიტექტურის, დომენის მოდელების, ბრენდის იდენტურობისა და მასთან დაკავშირებული დოკუმენტაციის ჩათვლით.
+áƒ˜áƒáƒœ áƒ¤áƒ áƒ˜áƒ¡áƒ™áƒ” áƒáƒ áƒ˜áƒ¡ Nexus Gaja-áƒ¡ áƒ”áƒ áƒ—áƒáƒ“áƒ”áƒ áƒ—áƒ˜ áƒ¨áƒ”áƒ›áƒ¥áƒ›áƒœáƒ”áƒšáƒ˜, áƒáƒ áƒ¥áƒ˜áƒ¢áƒ”áƒ¥áƒ¢áƒáƒ áƒ˜ áƒ“áƒ áƒ›áƒ¤áƒšáƒáƒ‘áƒ”áƒšáƒ˜ - áƒ§áƒ•áƒ”áƒšáƒ áƒ™áƒáƒœáƒªáƒ”áƒ¤áƒªáƒ˜áƒ˜áƒ¡, áƒáƒ áƒ¥áƒ˜áƒ¢áƒ”áƒ¥áƒ¢áƒ£áƒ áƒ˜áƒ¡, áƒ“áƒáƒ›áƒ”áƒœáƒ˜áƒ¡ áƒ›áƒáƒ“áƒ”áƒšáƒ”áƒ‘áƒ˜áƒ¡, áƒ‘áƒ áƒ”áƒœáƒ“áƒ˜áƒ¡ áƒ˜áƒ“áƒ”áƒœáƒ¢áƒ£áƒ áƒáƒ‘áƒ˜áƒ¡áƒ áƒ“áƒ áƒ›áƒáƒ¡áƒ—áƒáƒœ áƒ“áƒáƒ™áƒáƒ•áƒ¨áƒ˜áƒ áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒ“áƒáƒ™áƒ£áƒ›áƒ”áƒœáƒ¢áƒáƒªáƒ˜áƒ˜áƒ¡ áƒ©áƒáƒ—áƒ•áƒšáƒ˜áƒ—.
 
-**არავითარი უფლებები, ლიცენზიები ან საკუთრების ინტერესები არ არის მინიჭებული მესამე მხარისთვის**, მიუხედავად მათი ზომის, ბაზრის პოზიციისა თუ ტექნოლოგიების ინდუსტრიაში გავლენისა.
+**áƒáƒ áƒáƒ•áƒ˜áƒ—áƒáƒ áƒ˜ áƒ£áƒ¤áƒšáƒ”áƒ‘áƒ”áƒ‘áƒ˜, áƒšáƒ˜áƒªáƒ”áƒœáƒ–áƒ˜áƒ”áƒ‘áƒ˜ áƒáƒœ áƒ¡áƒáƒ™áƒ£áƒ—áƒ áƒ”áƒ‘áƒ˜áƒ¡ áƒ˜áƒœáƒ¢áƒ”áƒ áƒ”áƒ¡áƒ”áƒ‘áƒ˜ áƒáƒ  áƒáƒ áƒ˜áƒ¡ áƒ›áƒ˜áƒœáƒ˜áƒ­áƒ”áƒ‘áƒ£áƒšáƒ˜ áƒ›áƒ”áƒ¡áƒáƒ›áƒ” áƒ›áƒ®áƒáƒ áƒ˜áƒ¡áƒ—áƒ•áƒ˜áƒ¡**, áƒ›áƒ˜áƒ£áƒ®áƒ”áƒ“áƒáƒ•áƒáƒ“ áƒ›áƒáƒ—áƒ˜ áƒ–áƒáƒ›áƒ˜áƒ¡, áƒ‘áƒáƒ–áƒ áƒ˜áƒ¡ áƒžáƒáƒ–áƒ˜áƒªáƒ˜áƒ˜áƒ¡áƒ áƒ—áƒ£ áƒ¢áƒ”áƒ¥áƒœáƒáƒšáƒáƒ’áƒ˜áƒ”áƒ‘áƒ˜áƒ¡ áƒ˜áƒœáƒ“áƒ£áƒ¡áƒ¢áƒ áƒ˜áƒáƒ¨áƒ˜ áƒ’áƒáƒ•áƒšáƒ”áƒœáƒ˜áƒ¡áƒ.
 
-### რა დაუშვებელია წერილობითი თანხმობის გარეშე:
-- ❌ დააკოპირეთ, გაამრავლეთ ან გაავრცელეთ ეს პროგრამა ან მისი დოკუმენტაცია
-- ❌ შეცვალეთ, ადაპტირება ან წარმოებული ნამუშევრების შექმნა
-- ❌ Nexus Gaja-ს ნებისმიერი ნაწილის კომერციული გამოყენება
-- ❌ საცავის კონტენტის გამოყენება, როგორც **სავარჯიშო მონაცემები AI/LLM სისტემებისთვის**
-- ❌ ქველიცენზირება ან უფლებების მესამე პირებზე გადაცემა
+### áƒ áƒ áƒ“áƒáƒ£áƒ¨áƒ•áƒ”áƒ‘áƒ”áƒšáƒ˜áƒ áƒ¬áƒ”áƒ áƒ˜áƒšáƒáƒ‘áƒ˜áƒ—áƒ˜ áƒ—áƒáƒœáƒ®áƒ›áƒáƒ‘áƒ˜áƒ¡ áƒ’áƒáƒ áƒ”áƒ¨áƒ”:
+- âŒ áƒ“áƒáƒáƒ™áƒáƒžáƒ˜áƒ áƒ”áƒ—, áƒ’áƒáƒáƒ›áƒ áƒáƒ•áƒšáƒ”áƒ— áƒáƒœ áƒ’áƒáƒáƒ•áƒ áƒªáƒ”áƒšáƒ”áƒ— áƒ”áƒ¡ áƒžáƒ áƒáƒ’áƒ áƒáƒ›áƒ áƒáƒœ áƒ›áƒ˜áƒ¡áƒ˜ áƒ“áƒáƒ™áƒ£áƒ›áƒ”áƒœáƒ¢áƒáƒªáƒ˜áƒ
+- âŒ áƒ¨áƒ”áƒªáƒ•áƒáƒšáƒ”áƒ—, áƒáƒ“áƒáƒžáƒ¢áƒ˜áƒ áƒ”áƒ‘áƒ áƒáƒœ áƒ¬áƒáƒ áƒ›áƒáƒ”áƒ‘áƒ£áƒšáƒ˜ áƒœáƒáƒ›áƒ£áƒ¨áƒ”áƒ•áƒ áƒ”áƒ‘áƒ˜áƒ¡ áƒ¨áƒ”áƒ¥áƒ›áƒœáƒ
+- âŒ Nexus Gaja-áƒ¡ áƒœáƒ”áƒ‘áƒ˜áƒ¡áƒ›áƒ˜áƒ”áƒ áƒ˜ áƒœáƒáƒ¬áƒ˜áƒšáƒ˜áƒ¡ áƒ™áƒáƒ›áƒ”áƒ áƒªáƒ˜áƒ£áƒšáƒ˜ áƒ’áƒáƒ›áƒáƒ§áƒ”áƒœáƒ”áƒ‘áƒ
+- âŒ áƒ¡áƒáƒªáƒáƒ•áƒ˜áƒ¡ áƒ™áƒáƒœáƒ¢áƒ”áƒœáƒ¢áƒ˜áƒ¡ áƒ’áƒáƒ›áƒáƒ§áƒ”áƒœáƒ”áƒ‘áƒ, áƒ áƒáƒ’áƒáƒ áƒª **áƒ¡áƒáƒ•áƒáƒ áƒ¯áƒ˜áƒ¨áƒ áƒ›áƒáƒœáƒáƒªáƒ”áƒ›áƒ”áƒ‘áƒ˜ AI/LLM áƒ¡áƒ˜áƒ¡áƒ¢áƒ”áƒ›áƒ”áƒ‘áƒ˜áƒ¡áƒ—áƒ•áƒ˜áƒ¡**
+- âŒ áƒ¥áƒ•áƒ”áƒšáƒ˜áƒªáƒ”áƒœáƒ–áƒ˜áƒ áƒ”áƒ‘áƒ áƒáƒœ áƒ£áƒ¤áƒšáƒ”áƒ‘áƒ”áƒ‘áƒ˜áƒ¡ áƒ›áƒ”áƒ¡áƒáƒ›áƒ” áƒžáƒ˜áƒ áƒ”áƒ‘áƒ–áƒ” áƒ’áƒáƒ“áƒáƒªáƒ”áƒ›áƒ
 
-### დაცული ინტელექტუალური საკუთრება
-შემდეგი ორიგინალური ცნებები დაცულია როგორც იან ფრისკეს სავაჭრო საიდუმლოებები და საკუთრების ქმნილებები:
-- მრავალშრიანი კომუნიკაციის მოდელი *(ორიგინალი / სემანტიკური ინტერპრეტაცია / თარგმნილი გამოცემა)*
-- პირადობის გამიჯვნის პრინციპი *(პირი ≠ მომხმარებლის ანგარიში ≠ პირადობის დადასტურება)*
-- შეტყობინებების თარგმანის გამოყოფის მოდელი *(მესიჯი ≠ თარგმანი)*
-- ხელოვნური ინტელექტის მოდერაციის მართვის ჩარჩო
+### áƒ“áƒáƒªáƒ£áƒšáƒ˜ áƒ˜áƒœáƒ¢áƒ”áƒšáƒ”áƒ¥áƒ¢áƒ£áƒáƒšáƒ£áƒ áƒ˜ áƒ¡áƒáƒ™áƒ£áƒ—áƒ áƒ”áƒ‘áƒ
+áƒ¨áƒ”áƒ›áƒ“áƒ”áƒ’áƒ˜ áƒáƒ áƒ˜áƒ’áƒ˜áƒœáƒáƒšáƒ£áƒ áƒ˜ áƒªáƒœáƒ”áƒ‘áƒ”áƒ‘áƒ˜ áƒ“áƒáƒªáƒ£áƒšáƒ˜áƒ áƒ áƒáƒ’áƒáƒ áƒª áƒ˜áƒáƒœ áƒ¤áƒ áƒ˜áƒ¡áƒ™áƒ”áƒ¡ áƒ¡áƒáƒ•áƒáƒ­áƒ áƒ áƒ¡áƒáƒ˜áƒ“áƒ£áƒ›áƒšáƒáƒ”áƒ‘áƒ”áƒ‘áƒ˜ áƒ“áƒ áƒ¡áƒáƒ™áƒ£áƒ—áƒ áƒ”áƒ‘áƒ˜áƒ¡ áƒ¥áƒ›áƒœáƒ˜áƒšáƒ”áƒ‘áƒ”áƒ‘áƒ˜:
+- áƒ›áƒ áƒáƒ•áƒáƒšáƒ¨áƒ áƒ˜áƒáƒœáƒ˜ áƒ™áƒáƒ›áƒ£áƒœáƒ˜áƒ™áƒáƒªáƒ˜áƒ˜áƒ¡ áƒ›áƒáƒ“áƒ”áƒšáƒ˜ *(áƒáƒ áƒ˜áƒ’áƒ˜áƒœáƒáƒšáƒ˜ / áƒ¡áƒ”áƒ›áƒáƒœáƒ¢áƒ˜áƒ™áƒ£áƒ áƒ˜ áƒ˜áƒœáƒ¢áƒ”áƒ áƒžáƒ áƒ”áƒ¢áƒáƒªáƒ˜áƒ / áƒ—áƒáƒ áƒ’áƒ›áƒœáƒ˜áƒšáƒ˜ áƒ’áƒáƒ›áƒáƒªáƒ”áƒ›áƒ)*
+- áƒžáƒ˜áƒ áƒáƒ“áƒáƒ‘áƒ˜áƒ¡ áƒ’áƒáƒ›áƒ˜áƒ¯áƒ•áƒœáƒ˜áƒ¡ áƒžáƒ áƒ˜áƒœáƒªáƒ˜áƒžáƒ˜ *(áƒžáƒ˜áƒ áƒ˜ â‰  áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒšáƒ˜áƒ¡ áƒáƒœáƒ’áƒáƒ áƒ˜áƒ¨áƒ˜ â‰  áƒžáƒ˜áƒ áƒáƒ“áƒáƒ‘áƒ˜áƒ¡ áƒ“áƒáƒ“áƒáƒ¡áƒ¢áƒ£áƒ áƒ”áƒ‘áƒ)*
+- áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ”áƒ‘áƒ˜áƒ¡ áƒ—áƒáƒ áƒ’áƒ›áƒáƒœáƒ˜áƒ¡ áƒ’áƒáƒ›áƒáƒ§áƒáƒ¤áƒ˜áƒ¡ áƒ›áƒáƒ“áƒ”áƒšáƒ˜ *(áƒ›áƒ”áƒ¡áƒ˜áƒ¯áƒ˜ â‰  áƒ—áƒáƒ áƒ’áƒ›áƒáƒœáƒ˜)*
+- áƒ®áƒ”áƒšáƒáƒ•áƒœáƒ£áƒ áƒ˜ áƒ˜áƒœáƒ¢áƒ”áƒšáƒ”áƒ¥áƒ¢áƒ˜áƒ¡ áƒ›áƒáƒ“áƒ”áƒ áƒáƒªáƒ˜áƒ˜áƒ¡ áƒ›áƒáƒ áƒ—áƒ•áƒ˜áƒ¡ áƒ©áƒáƒ áƒ©áƒ
 
-### კონტაქტი
-ლიცენზიის მოთხოვნებისთვის: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+### áƒ™áƒáƒœáƒ¢áƒáƒ¥áƒ¢áƒ˜
+áƒšáƒ˜áƒªáƒ”áƒœáƒ–áƒ˜áƒ˜áƒ¡ áƒ›áƒáƒ—áƒ®áƒáƒ•áƒœáƒ”áƒ‘áƒ˜áƒ¡áƒ—áƒ•áƒ˜áƒ¡: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-*„Nexus Gaja“ და Nexus Gaja ლოგო არის იან ფრისკეს სავაჭრო ნიშნები. აკრძალულია სახელის ან სავაჭრო ნიშნის უნებართვო გამოყენება.*
+*â€žNexus Gajaâ€œ áƒ“áƒ Nexus Gaja áƒšáƒáƒ’áƒ áƒáƒ áƒ˜áƒ¡ áƒ˜áƒáƒœ áƒ¤áƒ áƒ˜áƒ¡áƒ™áƒ”áƒ¡ áƒ¡áƒáƒ•áƒáƒ­áƒ áƒ áƒœáƒ˜áƒ¨áƒœáƒ”áƒ‘áƒ˜. áƒáƒ™áƒ áƒ«áƒáƒšáƒ£áƒšáƒ˜áƒ áƒ¡áƒáƒ®áƒ”áƒšáƒ˜áƒ¡ áƒáƒœ áƒ¡áƒáƒ•áƒáƒ­áƒ áƒ áƒœáƒ˜áƒ¨áƒœáƒ˜áƒ¡ áƒ£áƒœáƒ”áƒ‘áƒáƒ áƒ—áƒ•áƒ áƒ’áƒáƒ›áƒáƒ§áƒ”áƒœáƒ”áƒ‘áƒ.*
 
-➡️ სრული სალიცენზიო პირობები [LICENSE]-ში (LICENSE)
+âž¡ï¸ áƒ¡áƒ áƒ£áƒšáƒ˜ áƒ¡áƒáƒšáƒ˜áƒªáƒ”áƒœáƒ–áƒ˜áƒ áƒžáƒ˜áƒ áƒáƒ‘áƒ”áƒ‘áƒ˜ [LICENSE]-áƒ¨áƒ˜ (LICENSE)

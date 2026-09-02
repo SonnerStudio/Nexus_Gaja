@@ -1,377 +1,379 @@
-# Nexus Gaja
+﻿# Nexus Gaja
 
-> *د نړیوالې سولې او بین الافغاني تفاهم لپاره*
+> *Ø¯ Ù†Ú“ÛŒÙˆØ§Ù„Û Ø³ÙˆÙ„Û Ø§Ùˆ Ø¨ÛŒÙ† Ø§Ù„Ø§ÙØºØ§Ù†ÙŠ ØªÙØ§Ù‡Ù… Ù„Ù¾Ø§Ø±Ù‡*
 
 
 ![Nexus Gaja Logo](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
 
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 
-** Nexus Gaja** یو هوښیار، د شرایطو څخه خبرتیا مخابراتي شبکه ده چې د نړیوالو اړیکو د انقلاب لپاره ډیزاین شوې.
+** Nexus Gaja** ÛŒÙˆ Ù‡ÙˆÚšÛŒØ§Ø±ØŒ Ø¯ Ø´Ø±Ø§ÛŒØ·Ùˆ Ú…Ø®Ù‡ Ø®Ø¨Ø±ØªÛŒØ§ Ù…Ø®Ø§Ø¨Ø±Ø§ØªÙŠ Ø´Ø¨Ú©Ù‡ Ø¯Ù‡ Ú†Û Ø¯ Ù†Ú“ÛŒÙˆØ§Ù„Ùˆ Ø§Ú“ÛŒÚ©Ùˆ Ø¯ Ø§Ù†Ù‚Ù„Ø§Ø¨ Ù„Ù¾Ø§Ø±Ù‡ Ú‰ÛŒØ²Ø§ÛŒÙ† Ø´ÙˆÛ.
 
-## هدف او لید
+## Ù‡Ø¯Ù Ø§Ùˆ Ù„ÛŒØ¯
 
 ![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
 
-په نړیواله شوې نړۍ کې، ژبه اکثرا ترټولو لوی خنډ دی. د Nexus Gaja اصلي هدف دا دی چې د خلکو تر مینځ بې سیمه، د لاسرسي وړ او د شرایطو سره سم اړیکه فعاله کړي - پرته له دې چې دوی په ګډه ژبه خبرې کوي یا نه. 
+Ù¾Ù‡ Ù†Ú“ÛŒÙˆØ§Ù„Ù‡ Ø´ÙˆÛ Ù†Ú“Û Ú©ÛØŒ Ú˜Ø¨Ù‡ Ø§Ú©Ø«Ø±Ø§ ØªØ±Ù¼ÙˆÙ„Ùˆ Ù„ÙˆÛŒ Ø®Ù†Ú‰ Ø¯ÛŒ. Ø¯ Nexus Gaja Ø§ØµÙ„ÙŠ Ù‡Ø¯Ù Ø¯Ø§ Ø¯ÛŒ Ú†Û Ø¯ Ø®Ù„Ú©Ùˆ ØªØ± Ù…ÛŒÙ†Ú Ø¨Û Ø³ÛŒÙ…Ù‡ØŒ Ø¯ Ù„Ø§Ø³Ø±Ø³ÙŠ ÙˆÚ“ Ø§Ùˆ Ø¯ Ø´Ø±Ø§ÛŒØ·Ùˆ Ø³Ø±Ù‡ Ø³Ù… Ø§Ú“ÛŒÚ©Ù‡ ÙØ¹Ø§Ù„Ù‡ Ú©Ú“ÙŠ - Ù¾Ø±ØªÙ‡ Ù„Ù‡ Ø¯Û Ú†Û Ø¯ÙˆÛŒ Ù¾Ù‡ Ú«Ú‰Ù‡ Ú˜Ø¨Ù‡ Ø®Ø¨Ø±Û Ú©ÙˆÙŠ ÛŒØ§ Ù†Ù‡. 
 
-دا یوازې د سختو ټکو ژباړلو په اړه ندي، مګر د ** د معنی لیږد ** په اړه. Nexus Gaja خلک په ژوره کچه د کلتوري، سیمه ایزو او اړونده باریکیو په پوهیدو سره، د ریښتینې، مستند خبرو اترو وړولو سره نښلوي.
+Ø¯Ø§ ÛŒÙˆØ§Ø²Û Ø¯ Ø³Ø®ØªÙˆ Ù¼Ú©Ùˆ Ú˜Ø¨Ø§Ú“Ù„Ùˆ Ù¾Ù‡ Ø§Ú“Ù‡ Ù†Ø¯ÙŠØŒ Ù…Ú«Ø± Ø¯ ** Ø¯ Ù…Ø¹Ù†ÛŒ Ù„ÛŒÚ–Ø¯ ** Ù¾Ù‡ Ø§Ú“Ù‡. Nexus Gaja Ø®Ù„Ú© Ù¾Ù‡ Ú˜ÙˆØ±Ù‡ Ú©Ú†Ù‡ Ø¯ Ú©Ù„ØªÙˆØ±ÙŠØŒ Ø³ÛŒÙ…Ù‡ Ø§ÛŒØ²Ùˆ Ø§Ùˆ Ø§Ú“ÙˆÙ†Ø¯Ù‡ Ø¨Ø§Ø±ÛŒÚ©ÛŒÙˆ Ù¾Ù‡ Ù¾ÙˆÙ‡ÛŒØ¯Ùˆ Ø³Ø±Ù‡ØŒ Ø¯ Ø±ÛŒÚšØªÛŒÙ†ÛØŒ Ù…Ø³ØªÙ†Ø¯ Ø®Ø¨Ø±Ùˆ Ø§ØªØ±Ùˆ ÙˆÚ“ÙˆÙ„Ùˆ Ø³Ø±Ù‡ Ù†ÚšÙ„ÙˆÙŠ.
 
-## امکانات او ځانګړتیاوې
-- **ملټي میډیا اړیکه**: سیسټم نه یوازې متن ، بلکه عکسونه ، آډیو او ویډیو هم پروسس کوي. دا په ریښتیني وخت کې د ژبې د حدودو په اوږدو کې په بشپړ ډول ناڅاپي خبرو اترو ته اجازه ورکوي (د مثال په توګه ویډیو زنګونه یا غږیز پیغامونه).
-- **د شرایطو حساسیت**: د طنز، محاورې، لغتونو او سیمه ایزو ژبو کشف چې ډیری وختونه د دودیزو ژباړونکو لخوا غلط فهم کیږي.
-- **د کراس پلیټ فارم شبکه**: د شخصي چیټونو، د فورم موضوعاتو (د نظرونو سره پوسټونه) او د نړیوالې ټولنې متقابل عمل لپاره د اساس په توګه کار کوي.
+## Ø§Ù…Ú©Ø§Ù†Ø§Øª Ø§Ùˆ ÚØ§Ù†Ú«Ú“ØªÛŒØ§ÙˆÛ
+- **Ù…Ù„Ù¼ÙŠ Ù…ÛŒÚ‰ÛŒØ§ Ø§Ú“ÛŒÚ©Ù‡**: Ø³ÛŒØ³Ù¼Ù… Ù†Ù‡ ÛŒÙˆØ§Ø²Û Ù…ØªÙ† ØŒ Ø¨Ù„Ú©Ù‡ Ø¹Ú©Ø³ÙˆÙ†Ù‡ ØŒ Ø¢Ú‰ÛŒÙˆ Ø§Ùˆ ÙˆÛŒÚ‰ÛŒÙˆ Ù‡Ù… Ù¾Ø±ÙˆØ³Ø³ Ú©ÙˆÙŠ. Ø¯Ø§ Ù¾Ù‡ Ø±ÛŒÚšØªÛŒÙ†ÙŠ ÙˆØ®Øª Ú©Û Ø¯ Ú˜Ø¨Û Ø¯ Ø­Ø¯ÙˆØ¯Ùˆ Ù¾Ù‡ Ø§ÙˆÚ–Ø¯Ùˆ Ú©Û Ù¾Ù‡ Ø¨Ø´Ù¾Ú“ Ú‰ÙˆÙ„ Ù†Ø§Ú…Ø§Ù¾ÙŠ Ø®Ø¨Ø±Ùˆ Ø§ØªØ±Ùˆ ØªÙ‡ Ø§Ø¬Ø§Ø²Ù‡ ÙˆØ±Ú©ÙˆÙŠ (Ø¯ Ù…Ø«Ø§Ù„ Ù¾Ù‡ ØªÙˆÚ«Ù‡ ÙˆÛŒÚ‰ÛŒÙˆ Ø²Ù†Ú«ÙˆÙ†Ù‡ ÛŒØ§ ØºÚ–ÛŒØ² Ù¾ÛŒØºØ§Ù…ÙˆÙ†Ù‡).
+- **Ø¯ Ø´Ø±Ø§ÛŒØ·Ùˆ Ø­Ø³Ø§Ø³ÛŒØª**: Ø¯ Ø·Ù†Ø²ØŒ Ù…Ø­Ø§ÙˆØ±ÛØŒ Ù„ØºØªÙˆÙ†Ùˆ Ø§Ùˆ Ø³ÛŒÙ…Ù‡ Ø§ÛŒØ²Ùˆ Ú˜Ø¨Ùˆ Ú©Ø´Ù Ú†Û Ú‰ÛŒØ±ÛŒ ÙˆØ®ØªÙˆÙ†Ù‡ Ø¯ Ø¯ÙˆØ¯ÛŒØ²Ùˆ Ú˜Ø¨Ø§Ú“ÙˆÙ†Ú©Ùˆ Ù„Ø®ÙˆØ§ ØºÙ„Ø· ÙÙ‡Ù… Ú©ÛŒÚ–ÙŠ.
+- **Ø¯ Ú©Ø±Ø§Ø³ Ù¾Ù„ÛŒÙ¼ ÙØ§Ø±Ù… Ø´Ø¨Ú©Ù‡**: Ø¯ Ø´Ø®ØµÙŠ Ú†ÛŒÙ¼ÙˆÙ†ÙˆØŒ Ø¯ ÙÙˆØ±Ù… Ù…ÙˆØ¶ÙˆØ¹Ø§ØªÙˆ (Ø¯ Ù†Ø¸Ø±ÙˆÙ†Ùˆ Ø³Ø±Ù‡ Ù¾ÙˆØ³Ù¼ÙˆÙ†Ù‡) Ø§Ùˆ Ø¯ Ù†Ú“ÛŒÙˆØ§Ù„Û Ù¼ÙˆÙ„Ù†Û Ù…ØªÙ‚Ø§Ø¨Ù„ Ø¹Ù…Ù„ Ù„Ù¾Ø§Ø±Ù‡ Ø¯ Ø§Ø³Ø§Ø³ Ù¾Ù‡ ØªÙˆÚ«Ù‡ Ú©Ø§Ø± Ú©ÙˆÙŠ.
 
 ---
 
-## تخنیکي جوړښت (اصلي مفهوم)
+## ØªØ®Ù†ÛŒÚ©ÙŠ Ø¬ÙˆÚ“ÚšØª (Ø§ØµÙ„ÙŠ Ù…ÙÙ‡ÙˆÙ…)
 
-![Nexus Gaja د ژباړې مفهوم](assets/img/nexus_translation.jpg)
+![Nexus Gaja Ø¯ Ú˜Ø¨Ø§Ú“Û Ù…ÙÙ‡ÙˆÙ…](assets/img/nexus_translation.jpg)
 
-د Nexus Gaja تخنیکي بنسټ د ځان پرمختللی مخابراتي ماډل دی، کوم چې په کلکه په دریو پرتونو ویشل شوی دی:
+Ø¯ Nexus Gaja ØªØ®Ù†ÛŒÚ©ÙŠ Ø¨Ù†Ø³Ù¼ Ø¯ ÚØ§Ù† Ù¾Ø±Ù…Ø®ØªÙ„Ù„ÛŒ Ù…Ø®Ø§Ø¨Ø±Ø§ØªÙŠ Ù…Ø§Ú‰Ù„ Ø¯ÛŒØŒ Ú©ÙˆÙ… Ú†Û Ù¾Ù‡ Ú©Ù„Ú©Ù‡ Ù¾Ù‡ Ø¯Ø±ÛŒÙˆ Ù¾Ø±ØªÙˆÙ†Ùˆ ÙˆÛŒØ´Ù„ Ø´ÙˆÛŒ Ø¯ÛŒ:
 
-1. **اصلي**: د ارتباط څیز (پیغام) د لیږونکي لخوا رامینځته شوی تل د بدلون وړ پاتې کیږي.
-2. **Semantic تفسیر**: سیسټم نه یوازې د کلمو تحلیل کوي، بلکې حقیقي معنی.
-3. **د هدف ژبې نمایندګي**: AI یوازې د اړوند ترلاسه کونکي لپاره د دوی د خوښې ژبې پراساس د اصلي لنډمهاله یا زیرمه شوي نمایش رامینځته کوي. ژباړه هیڅکله اصلي پیغام نه لیکي.
+1. **Ø§ØµÙ„ÙŠ**: Ø¯ Ø§Ø±ØªØ¨Ø§Ø· Ú…ÛŒØ² (Ù¾ÛŒØºØ§Ù…) Ø¯ Ù„ÛŒÚ–ÙˆÙ†Ú©ÙŠ Ù„Ø®ÙˆØ§ Ø±Ø§Ù…ÛŒÙ†ÚØªÙ‡ Ø´ÙˆÛŒ ØªÙ„ Ø¯ Ø¨Ø¯Ù„ÙˆÙ† ÙˆÚ“ Ù¾Ø§ØªÛ Ú©ÛŒÚ–ÙŠ.
+2. **Semantic ØªÙØ³ÛŒØ±**: Ø³ÛŒØ³Ù¼Ù… Ù†Ù‡ ÛŒÙˆØ§Ø²Û Ø¯ Ú©Ù„Ù…Ùˆ ØªØ­Ù„ÛŒÙ„ Ú©ÙˆÙŠØŒ Ø¨Ù„Ú©Û Ø­Ù‚ÛŒÙ‚ÙŠ Ù…Ø¹Ù†ÛŒ.
+3. **Ø¯ Ù‡Ø¯Ù Ú˜Ø¨Û Ù†Ù…Ø§ÛŒÙ†Ø¯Ú«ÙŠ**: AI ÛŒÙˆØ§Ø²Û Ø¯ Ø§Ú“ÙˆÙ†Ø¯ ØªØ±Ù„Ø§Ø³Ù‡ Ú©ÙˆÙ†Ú©ÙŠ Ù„Ù¾Ø§Ø±Ù‡ Ø¯ Ø¯ÙˆÛŒ Ø¯ Ø®ÙˆÚšÛ Ú˜Ø¨Û Ù¾Ø±Ø§Ø³Ø§Ø³ Ø¯ Ø§ØµÙ„ÙŠ Ù„Ù†Ú‰Ù…Ù‡Ø§Ù„Ù‡ ÛŒØ§ Ø²ÛŒØ±Ù…Ù‡ Ø´ÙˆÙŠ Ù†Ù…Ø§ÛŒØ´ Ø±Ø§Ù…ÛŒÙ†ÚØªÙ‡ Ú©ÙˆÙŠ. Ú˜Ø¨Ø§Ú“Ù‡ Ù‡ÛŒÚ…Ú©Ù„Ù‡ Ø§ØµÙ„ÙŠ Ù¾ÛŒØºØ§Ù… Ù†Ù‡ Ù„ÛŒÚ©ÙŠ.
 
-### د شرایطو انحصار
-ژباړې هیڅکله د Nexus Gaja خبرونو ته په انزوا کې نه ګوري. انجن ټول درجه بندي په پام کې نیسي:
-`پیغام` → `مخکینی پیغامونه` → `د موضوع موضوع` → `د ټولنې شرایط` → `ژبه / سیمه` → `د کارونکي غوره توبونه`
+### Ø¯ Ø´Ø±Ø§ÛŒØ·Ùˆ Ø§Ù†Ø­ØµØ§Ø±
+Ú˜Ø¨Ø§Ú“Û Ù‡ÛŒÚ…Ú©Ù„Ù‡ Ø¯ Nexus Gaja Ø®Ø¨Ø±ÙˆÙ†Ùˆ ØªÙ‡ Ù¾Ù‡ Ø§Ù†Ø²ÙˆØ§ Ú©Û Ù†Ù‡ Ú«ÙˆØ±ÙŠ. Ø§Ù†Ø¬Ù† Ù¼ÙˆÙ„ Ø¯Ø±Ø¬Ù‡ Ø¨Ù†Ø¯ÙŠ Ù¾Ù‡ Ù¾Ø§Ù… Ú©Û Ù†ÛŒØ³ÙŠ:
+`Ù¾ÛŒØºØ§Ù…` â†’ `Ù…Ø®Ú©ÛŒÙ†ÛŒ Ù¾ÛŒØºØ§Ù…ÙˆÙ†Ù‡` â†’ `Ø¯ Ù…ÙˆØ¶ÙˆØ¹ Ù…ÙˆØ¶ÙˆØ¹` â†’ `Ø¯ Ù¼ÙˆÙ„Ù†Û Ø´Ø±Ø§ÛŒØ·` â†’ `Ú˜Ø¨Ù‡ / Ø³ÛŒÙ…Ù‡` â†’ `Ø¯ Ú©Ø§Ø±ÙˆÙ†Ú©ÙŠ ØºÙˆØ±Ù‡ ØªÙˆØ¨ÙˆÙ†Ù‡`
 
-### د غوښتنې پر بنسټ ژباړې له لارې موثریت
-ژباړه یوازې هغه وخت ترسره کیږي **کله چې ویل کیږي** (په غوښتنه) د سرچینې خوندي کولو طریقه. کله چې یو کاروونکي د منځپانګې غوښتنه کوي، دا د دوی په ډیفالټ ژبه ژباړل کیږي. د یوې ځانګړې ژبې لپاره ژباړې په دوامداره توګه ساتل کیږي (کیچنګ) ترڅو په ډراماتیک ډول وروسته پوښتنو ته چټکتیا ورکړي.
+### Ø¯ ØºÙˆÚšØªÙ†Û Ù¾Ø± Ø¨Ù†Ø³Ù¼ Ú˜Ø¨Ø§Ú“Û Ù„Ù‡ Ù„Ø§Ø±Û Ù…ÙˆØ«Ø±ÛŒØª
+Ú˜Ø¨Ø§Ú“Ù‡ ÛŒÙˆØ§Ø²Û Ù‡ØºÙ‡ ÙˆØ®Øª ØªØ±Ø³Ø±Ù‡ Ú©ÛŒÚ–ÙŠ **Ú©Ù„Ù‡ Ú†Û ÙˆÛŒÙ„ Ú©ÛŒÚ–ÙŠ** (Ù¾Ù‡ ØºÙˆÚšØªÙ†Ù‡) Ø¯ Ø³Ø±Ú†ÛŒÙ†Û Ø®ÙˆÙ†Ø¯ÙŠ Ú©ÙˆÙ„Ùˆ Ø·Ø±ÛŒÙ‚Ù‡. Ú©Ù„Ù‡ Ú†Û ÛŒÙˆ Ú©Ø§Ø±ÙˆÙˆÙ†Ú©ÙŠ Ø¯ Ù…Ù†ÚÙ¾Ø§Ù†Ú«Û ØºÙˆÚšØªÙ†Ù‡ Ú©ÙˆÙŠØŒ Ø¯Ø§ Ø¯ Ø¯ÙˆÛŒ Ù¾Ù‡ Ú‰ÛŒÙØ§Ù„Ù¼ Ú˜Ø¨Ù‡ Ú˜Ø¨Ø§Ú“Ù„ Ú©ÛŒÚ–ÙŠ. Ø¯ ÛŒÙˆÛ ÚØ§Ù†Ú«Ú“Û Ú˜Ø¨Û Ù„Ù¾Ø§Ø±Ù‡ Ú˜Ø¨Ø§Ú“Û Ù¾Ù‡ Ø¯ÙˆØ§Ù…Ø¯Ø§Ø±Ù‡ ØªÙˆÚ«Ù‡ Ø³Ø§ØªÙ„ Ú©ÛŒÚ–ÙŠ (Ú©ÛŒÚ†Ù†Ú«) ØªØ±Ú…Ùˆ Ù¾Ù‡ Ú‰Ø±Ø§Ù…Ø§ØªÛŒÚ© Ú‰ÙˆÙ„ ÙˆØ±ÙˆØ³ØªÙ‡ Ù¾ÙˆÚšØªÙ†Ùˆ ØªÙ‡ Ú†Ù¼Ú©ØªÛŒØ§ ÙˆØ±Ú©Ú“ÙŠ.
 
-## د AI په وسیله اعتدال (WP 1.8.4)
+## Ø¯ AI Ù¾Ù‡ ÙˆØ³ÛŒÙ„Ù‡ Ø§Ø¹ØªØ¯Ø§Ù„ (WP 1.8.4)
 
-![Nexus Gaja AI اعتدال](assets/img/nexus_moderation.jpg)
+![Nexus Gaja AI Ø§Ø¹ØªØ¯Ø§Ù„](assets/img/nexus_moderation.jpg)
 
-د AI ملاتړ شوي اعتدال سره، موږ د محصول مفکورې څخه تخنیکي جوړښت ته یو لوی ګام اخلو او د EU اوسني مقررات په پام کې نیسو (د EU AI قانون روڼتیا مکلفیتونه د مادې 50 مطابق؛ د ډیجیټل خدماتو قانون د پوهیدو وړ توجیهاتو او د اعتراض لپاره اختیارونو سره).
+Ø¯ AI Ù…Ù„Ø§ØªÚ“ Ø´ÙˆÙŠ Ø§Ø¹ØªØ¯Ø§Ù„ Ø³Ø±Ù‡ØŒ Ù…ÙˆÚ– Ø¯ Ù…Ø­ØµÙˆÙ„ Ù…ÙÚ©ÙˆØ±Û Ú…Ø®Ù‡ ØªØ®Ù†ÛŒÚ©ÙŠ Ø¬ÙˆÚ“ÚšØª ØªÙ‡ ÛŒÙˆ Ù„ÙˆÛŒ Ú«Ø§Ù… Ø§Ø®Ù„Ùˆ Ø§Ùˆ Ø¯ EU Ø§ÙˆØ³Ù†ÙŠ Ù…Ù‚Ø±Ø±Ø§Øª Ù¾Ù‡ Ù¾Ø§Ù… Ú©Û Ù†ÛŒØ³Ùˆ (Ø¯ EU AI Ù‚Ø§Ù†ÙˆÙ† Ø±ÙˆÚ¼ØªÛŒØ§ Ù…Ú©Ù„ÙÛŒØªÙˆÙ†Ù‡ Ø¯ Ù…Ø§Ø¯Û 50 Ù…Ø·Ø§Ø¨Ù‚Ø› Ø¯ Ú‰ÛŒØ¬ÛŒÙ¼Ù„ Ø®Ø¯Ù…Ø§ØªÙˆ Ù‚Ø§Ù†ÙˆÙ† Ø¯ Ù¾ÙˆÙ‡ÛŒØ¯Ùˆ ÙˆÚ“ ØªÙˆØ¬ÛŒÙ‡Ø§ØªÙˆ Ø§Ùˆ Ø¯ Ø§Ø¹ØªØ±Ø§Ø¶ Ù„Ù¾Ø§Ø±Ù‡ Ø§Ø®ØªÛŒØ§Ø±ÙˆÙ†Ùˆ Ø³Ø±Ù‡).
 
-### 1. اساسي اصول
-د معمارۍ لپاره ترټولو مهمه جمله دا ده: ** اعتدال AI د چک کولو سیسټم دی نه یو خپلواک حاکم سیسټم.**
-دا په اعتدال کې د خلکو ملاتړ کول دي، نه دا چې دا معلومه کړي چې په Nexus Gaja کې کوم نظرونه شتون لري.
-په دې توګه موږ د دریو شیانو ترمنځ توپیر کوو:
-- ** کشف:** "دلته د قواعدو سرغړونه کیدی شي."
-- ** شرح:** "د مثال په توګه، د قواعدو سرغړونې احتمال 94٪ دی."
-- **پریکړه وکړئ:** "په حقیقت کې به څه اقدام وشي؟"
-دریمه کچه باید په جدي قضیو کې په انساني ډول کنټرول شي.
+### 1. Ø§Ø³Ø§Ø³ÙŠ Ø§ØµÙˆÙ„
+Ø¯ Ù…Ø¹Ù…Ø§Ø±Û Ù„Ù¾Ø§Ø±Ù‡ ØªØ±Ù¼ÙˆÙ„Ùˆ Ù…Ù‡Ù…Ù‡ Ø¬Ù…Ù„Ù‡ Ø¯Ø§ Ø¯Ù‡: ** Ø§Ø¹ØªØ¯Ø§Ù„ AI Ø¯ Ú†Ú© Ú©ÙˆÙ„Ùˆ Ø³ÛŒØ³Ù¼Ù… Ø¯ÛŒ Ù†Ù‡ ÛŒÙˆ Ø®Ù¾Ù„ÙˆØ§Ú© Ø­Ø§Ú©Ù… Ø³ÛŒØ³Ù¼Ù….**
+Ø¯Ø§ Ù¾Ù‡ Ø§Ø¹ØªØ¯Ø§Ù„ Ú©Û Ø¯ Ø®Ù„Ú©Ùˆ Ù…Ù„Ø§ØªÚ“ Ú©ÙˆÙ„ Ø¯ÙŠØŒ Ù†Ù‡ Ø¯Ø§ Ú†Û Ø¯Ø§ Ù…Ø¹Ù„ÙˆÙ…Ù‡ Ú©Ú“ÙŠ Ú†Û Ù¾Ù‡ Nexus Gaja Ú©Û Ú©ÙˆÙ… Ù†Ø¸Ø±ÙˆÙ†Ù‡ Ø´ØªÙˆÙ† Ù„Ø±ÙŠ.
+Ù¾Ù‡ Ø¯Û ØªÙˆÚ«Ù‡ Ù…ÙˆÚ– Ø¯ Ø¯Ø±ÛŒÙˆ Ø´ÛŒØ§Ù†Ùˆ ØªØ±Ù…Ù†Ú ØªÙˆÙ¾ÛŒØ± Ú©ÙˆÙˆ:
+- ** Ú©Ø´Ù:** "Ø¯Ù„ØªÙ‡ Ø¯ Ù‚ÙˆØ§Ø¹Ø¯Ùˆ Ø³Ø±ØºÚ“ÙˆÙ†Ù‡ Ú©ÛŒØ¯ÛŒ Ø´ÙŠ."
+- ** Ø´Ø±Ø­:** "Ø¯ Ù…Ø«Ø§Ù„ Ù¾Ù‡ ØªÙˆÚ«Ù‡ØŒ Ø¯ Ù‚ÙˆØ§Ø¹Ø¯Ùˆ Ø³Ø±ØºÚ“ÙˆÙ†Û Ø§Ø­ØªÙ…Ø§Ù„ 94Ùª Ø¯ÛŒ."
+- **Ù¾Ø±ÛŒÚ©Ú“Ù‡ ÙˆÚ©Ú“Ø¦:** "Ù¾Ù‡ Ø­Ù‚ÛŒÙ‚Øª Ú©Û Ø¨Ù‡ Ú…Ù‡ Ø§Ù‚Ø¯Ø§Ù… ÙˆØ´ÙŠØŸ"
+Ø¯Ø±ÛŒÙ…Ù‡ Ú©Ú†Ù‡ Ø¨Ø§ÛŒØ¯ Ù¾Ù‡ Ø¬Ø¯ÙŠ Ù‚Ø¶ÛŒÙˆ Ú©Û Ù¾Ù‡ Ø§Ù†Ø³Ø§Ù†ÙŠ Ú‰ÙˆÙ„ Ú©Ù†Ù¼Ø±ÙˆÙ„ Ø´ÙŠ.
 
-### 2. اعتدال AI به خپل فرعي سیسټم وي
-د یو واحد AI پرځای، یو پیاوړی فرعي سیسټم رامینځته شوی:
-متن
-                 NEXUS GAJA AI اعتدال
-                          │
-       ┌────────────────── ┼──────────────────┐
-       │ │ │
-  د ژبې AI خوندیتوب AI درغلۍ AI
-       │ │ │
-       ├──────────────┬─── ┴──────────────┬───┤
-       │ │ │
- د ژباړې چلند پیژندنه
- د تحلیل تحلیل نښې
-       │ │ │
-       └──────────────┼────────────────────
-                      ▼
-               د خطر ارزونه
-                      │
-                      ▼
-               د انسان بیاکتنه
+### 2. Ø§Ø¹ØªØ¯Ø§Ù„ AI Ø¨Ù‡ Ø®Ù¾Ù„ ÙØ±Ø¹ÙŠ Ø³ÛŒØ³Ù¼Ù… ÙˆÙŠ
+Ø¯ ÛŒÙˆ ÙˆØ§Ø­Ø¯ AI Ù¾Ø±ÚØ§ÛŒØŒ ÛŒÙˆ Ù¾ÛŒØ§ÙˆÚ“ÛŒ ÙØ±Ø¹ÙŠ Ø³ÛŒØ³Ù¼Ù… Ø±Ø§Ù…ÛŒÙ†ÚØªÙ‡ Ø´ÙˆÛŒ:
+Ù…ØªÙ†
+                 NEXUS GAJA AI Ø§Ø¹ØªØ¯Ø§Ù„
+                          â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â”‚ â”‚ â”‚
+  Ø¯ Ú˜Ø¨Û AI Ø®ÙˆÙ†Ø¯ÛŒØªÙˆØ¨ AI Ø¯Ø±ØºÙ„Û AI
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€ â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”¤
+       â”‚ â”‚ â”‚
+ Ø¯ Ú˜Ø¨Ø§Ú“Û Ú†Ù„Ù†Ø¯ Ù¾ÛŒÚ˜Ù†Ø¯Ù†Ù‡
+ Ø¯ ØªØ­Ù„ÛŒÙ„ ØªØ­Ù„ÛŒÙ„ Ù†ÚšÛ
+       â”‚ â”‚ â”‚
+       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+                      â–¼
+               Ø¯ Ø®Ø·Ø± Ø§Ø±Ø²ÙˆÙ†Ù‡
+                      â”‚
+                      â–¼
+               Ø¯ Ø§Ù†Ø³Ø§Ù† Ø¨ÛŒØ§Ú©ØªÙ†Ù‡
 ``
 
-### 3. د AI خورا مهم ماډلونه
-د Nexus Gaja لپاره نهه ځانګړي تحلیلي ساحې شتون لري:
-- **M1 - د ژبې پوهاوی**: ژبه، ژبپوهنه، سلینګ، د ستړیا شاخصونه، د ژباړې ستونزې کشف کوي.
-- **M2 - زهرجن / ناوړه ګټه اخیستنه **: سپکاوی، شخصي بریدونه، ځورونې کشف کوي.
-- **M3 - د ګواښ کشف**: احتمالي ګواښونه، تورونه، او د تاوتریخوالي ګواښونه کشف کوي.
-- **M4 - د نفرت / غیر انساني کولو کشف**: د ځانګړو تړاوونو پراساس په خلکو باندې هدفي بریدونه کشف کوي.
-- **M5 - سپیم / د لاسوهنې کشف**: سپیم کشف کوي، د بوټ چلند، همغږي شوي لاسوهنه.
-- **M6 - د درغلۍ کشف**: د شکمنو درغلۍ هڅې، فشینګ، ټولنیز انجینري کشف کوي.
-- **M7 - د هویت بشپړتیا**: د حساب اخیستلو ، ډیری حسابونو ، بلاک بای پاس په اړه سیګنالونه چیک کوي.
-- **M8 - د رسنیو خوندیتوب**: عکسونه، آډیو، ویډیو، اسناد تحلیلوي.
-- **M9 - د مقالو انجن**: ترټولو مهم ماډل. دا انفرادي موندنې یوځای راوړي.
+### 3. Ø¯ AI Ø®ÙˆØ±Ø§ Ù…Ù‡Ù… Ù…Ø§Ú‰Ù„ÙˆÙ†Ù‡
+Ø¯ Nexus Gaja Ù„Ù¾Ø§Ø±Ù‡ Ù†Ù‡Ù‡ ÚØ§Ù†Ú«Ú“ÙŠ ØªØ­Ù„ÛŒÙ„ÙŠ Ø³Ø§Ø­Û Ø´ØªÙˆÙ† Ù„Ø±ÙŠ:
+- **M1 - Ø¯ Ú˜Ø¨Û Ù¾ÙˆÙ‡Ø§ÙˆÛŒ**: Ú˜Ø¨Ù‡ØŒ Ú˜Ø¨Ù¾ÙˆÙ‡Ù†Ù‡ØŒ Ø³Ù„ÛŒÙ†Ú«ØŒ Ø¯ Ø³ØªÚ“ÛŒØ§ Ø´Ø§Ø®ØµÙˆÙ†Ù‡ØŒ Ø¯ Ú˜Ø¨Ø§Ú“Û Ø³ØªÙˆÙ†Ø²Û Ú©Ø´Ù Ú©ÙˆÙŠ.
+- **M2 - Ø²Ù‡Ø±Ø¬Ù† / Ù†Ø§ÙˆÚ“Ù‡ Ú«Ù¼Ù‡ Ø§Ø®ÛŒØ³ØªÙ†Ù‡ **: Ø³Ù¾Ú©Ø§ÙˆÛŒØŒ Ø´Ø®ØµÙŠ Ø¨Ø±ÛŒØ¯ÙˆÙ†Ù‡ØŒ ÚÙˆØ±ÙˆÙ†Û Ú©Ø´Ù Ú©ÙˆÙŠ.
+- **M3 - Ø¯ Ú«ÙˆØ§Úš Ú©Ø´Ù**: Ø§Ø­ØªÙ…Ø§Ù„ÙŠ Ú«ÙˆØ§ÚšÙˆÙ†Ù‡ØŒ ØªÙˆØ±ÙˆÙ†Ù‡ØŒ Ø§Ùˆ Ø¯ ØªØ§ÙˆØªØ±ÛŒØ®ÙˆØ§Ù„ÙŠ Ú«ÙˆØ§ÚšÙˆÙ†Ù‡ Ú©Ø´Ù Ú©ÙˆÙŠ.
+- **M4 - Ø¯ Ù†ÙØ±Øª / ØºÛŒØ± Ø§Ù†Ø³Ø§Ù†ÙŠ Ú©ÙˆÙ„Ùˆ Ú©Ø´Ù**: Ø¯ ÚØ§Ù†Ú«Ú“Ùˆ ØªÚ“Ø§ÙˆÙˆÙ†Ùˆ Ù¾Ø±Ø§Ø³Ø§Ø³ Ù¾Ù‡ Ø®Ù„Ú©Ùˆ Ø¨Ø§Ù†Ø¯Û Ù‡Ø¯ÙÙŠ Ø¨Ø±ÛŒØ¯ÙˆÙ†Ù‡ Ú©Ø´Ù Ú©ÙˆÙŠ.
+- **M5 - Ø³Ù¾ÛŒÙ… / Ø¯ Ù„Ø§Ø³ÙˆÙ‡Ù†Û Ú©Ø´Ù**: Ø³Ù¾ÛŒÙ… Ú©Ø´Ù Ú©ÙˆÙŠØŒ Ø¯ Ø¨ÙˆÙ¼ Ú†Ù„Ù†Ø¯ØŒ Ù‡Ù…ØºÚ–ÙŠ Ø´ÙˆÙŠ Ù„Ø§Ø³ÙˆÙ‡Ù†Ù‡.
+- **M6 - Ø¯ Ø¯Ø±ØºÙ„Û Ú©Ø´Ù**: Ø¯ Ø´Ú©Ù…Ù†Ùˆ Ø¯Ø±ØºÙ„Û Ù‡Ú…ÛØŒ ÙØ´ÛŒÙ†Ú«ØŒ Ù¼ÙˆÙ„Ù†ÛŒØ² Ø§Ù†Ø¬ÛŒÙ†Ø±ÙŠ Ú©Ø´Ù Ú©ÙˆÙŠ.
+- **M7 - Ø¯ Ù‡ÙˆÛŒØª Ø¨Ø´Ù¾Ú“ØªÛŒØ§**: Ø¯ Ø­Ø³Ø§Ø¨ Ø§Ø®ÛŒØ³ØªÙ„Ùˆ ØŒ Ú‰ÛŒØ±ÛŒ Ø­Ø³Ø§Ø¨ÙˆÙ†Ùˆ ØŒ Ø¨Ù„Ø§Ú© Ø¨Ø§ÛŒ Ù¾Ø§Ø³ Ù¾Ù‡ Ø§Ú“Ù‡ Ø³ÛŒÚ«Ù†Ø§Ù„ÙˆÙ†Ù‡ Ú†ÛŒÚ© Ú©ÙˆÙŠ.
+- **M8 - Ø¯ Ø±Ø³Ù†ÛŒÙˆ Ø®ÙˆÙ†Ø¯ÛŒØªÙˆØ¨**: Ø¹Ú©Ø³ÙˆÙ†Ù‡ØŒ Ø¢Ú‰ÛŒÙˆØŒ ÙˆÛŒÚ‰ÛŒÙˆØŒ Ø§Ø³Ù†Ø§Ø¯ ØªØ­Ù„ÛŒÙ„ÙˆÙŠ.
+- **M9 - Ø¯ Ù…Ù‚Ø§Ù„Ùˆ Ø§Ù†Ø¬Ù†**: ØªØ±Ù¼ÙˆÙ„Ùˆ Ù…Ù‡Ù… Ù…Ø§Ú‰Ù„. Ø¯Ø§ Ø§Ù†ÙØ±Ø§Ø¯ÙŠ Ù…ÙˆÙ†Ø¯Ù†Û ÛŒÙˆÚØ§ÛŒ Ø±Ø§ÙˆÚ“ÙŠ.
 
-### 4. ولې د متن انجن خورا مهم دی
-د خالص کلیدي لټون به کافي نه وي. "زه کولی شم هغه په ​​خندا ووژنم" معنی تاوتریخوالی لري، مګر د وینا بڼه ده. "سبا به د ماسپښین په 8 بجو زه به هغه د هغه د کور مخې ته ډزې وکړم" یو بشپړ توپیر لري. AI باید پوه شي چې بیان پدې ځانګړي شرایطو کې څه معنی لري.
+### 4. ÙˆÙ„Û Ø¯ Ù…ØªÙ† Ø§Ù†Ø¬Ù† Ø®ÙˆØ±Ø§ Ù…Ù‡Ù… Ø¯ÛŒ
+Ø¯ Ø®Ø§Ù„Øµ Ú©Ù„ÛŒØ¯ÙŠ Ù„Ù¼ÙˆÙ† Ø¨Ù‡ Ú©Ø§ÙÙŠ Ù†Ù‡ ÙˆÙŠ. "Ø²Ù‡ Ú©ÙˆÙ„ÛŒ Ø´Ù… Ù‡ØºÙ‡ Ù¾Ù‡ â€‹â€‹Ø®Ù†Ø¯Ø§ ÙˆÙˆÚ˜Ù†Ù…" Ù…Ø¹Ù†ÛŒ ØªØ§ÙˆØªØ±ÛŒØ®ÙˆØ§Ù„ÛŒ Ù„Ø±ÙŠØŒ Ù…Ú«Ø± Ø¯ ÙˆÛŒÙ†Ø§ Ø¨Ú¼Ù‡ Ø¯Ù‡. "Ø³Ø¨Ø§ Ø¨Ù‡ Ø¯ Ù…Ø§Ø³Ù¾ÚšÛŒÙ† Ù¾Ù‡ 8 Ø¨Ø¬Ùˆ Ø²Ù‡ Ø¨Ù‡ Ù‡ØºÙ‡ Ø¯ Ù‡ØºÙ‡ Ø¯ Ú©ÙˆØ± Ù…Ø®Û ØªÙ‡ Ú‰Ø²Û ÙˆÚ©Ú“Ù…" ÛŒÙˆ Ø¨Ø´Ù¾Ú“ ØªÙˆÙ¾ÛŒØ± Ù„Ø±ÙŠ. AI Ø¨Ø§ÛŒØ¯ Ù¾ÙˆÙ‡ Ø´ÙŠ Ú†Û Ø¨ÛŒØ§Ù† Ù¾Ø¯Û ÚØ§Ù†Ú«Ú“ÙŠ Ø´Ø±Ø§ÛŒØ·Ùˆ Ú©Û Ú…Ù‡ Ù…Ø¹Ù†ÛŒ Ù„Ø±ÙŠ.
 
-### 5. څو ژبی اعتدال
-اعتدال په ساده ډول د کلمو پرتله نشي کولی. دا باید د معنی کچه تحلیل کړي (د مثال په توګه د آلمان محاورې په مقابل کې د جاپاني محاورې په مقابل کې سیمه ایز بیانونه).
+### 5. Ú…Ùˆ Ú˜Ø¨ÛŒ Ø§Ø¹ØªØ¯Ø§Ù„
+Ø§Ø¹ØªØ¯Ø§Ù„ Ù¾Ù‡ Ø³Ø§Ø¯Ù‡ Ú‰ÙˆÙ„ Ø¯ Ú©Ù„Ù…Ùˆ Ù¾Ø±ØªÙ„Ù‡ Ù†Ø´ÙŠ Ú©ÙˆÙ„ÛŒ. Ø¯Ø§ Ø¨Ø§ÛŒØ¯ Ø¯ Ù…Ø¹Ù†ÛŒ Ú©Ú†Ù‡ ØªØ­Ù„ÛŒÙ„ Ú©Ú“ÙŠ (Ø¯ Ù…Ø«Ø§Ù„ Ù¾Ù‡ ØªÙˆÚ«Ù‡ Ø¯ Ø¢Ù„Ù…Ø§Ù† Ù…Ø­Ø§ÙˆØ±Û Ù¾Ù‡ Ù…Ù‚Ø§Ø¨Ù„ Ú©Û Ø¯ Ø¬Ø§Ù¾Ø§Ù†ÙŠ Ù…Ø­Ø§ÙˆØ±Û Ù¾Ù‡ Ù…Ù‚Ø§Ø¨Ù„ Ú©Û Ø³ÛŒÙ…Ù‡ Ø§ÛŒØ² Ø¨ÛŒØ§Ù†ÙˆÙ†Ù‡).
 
-### 6. اصلي ژبه + ژباړه
-اصلي او ژباړه په جلا توګه تحلیل شوي. یوازې بیا "د اعتدال ګډه ارزونه" ترسره کیږي. په دې توګه، Nexus Gaja کولی شي معلومه کړي چې آیا ژباړې پخپله وضعیت خراب کړی یا بدل کړی دی.
+### 6. Ø§ØµÙ„ÙŠ Ú˜Ø¨Ù‡ + Ú˜Ø¨Ø§Ú“Ù‡
+Ø§ØµÙ„ÙŠ Ø§Ùˆ Ú˜Ø¨Ø§Ú“Ù‡ Ù¾Ù‡ Ø¬Ù„Ø§ ØªÙˆÚ«Ù‡ ØªØ­Ù„ÛŒÙ„ Ø´ÙˆÙŠ. ÛŒÙˆØ§Ø²Û Ø¨ÛŒØ§ "Ø¯ Ø§Ø¹ØªØ¯Ø§Ù„ Ú«Ú‰Ù‡ Ø§Ø±Ø²ÙˆÙ†Ù‡" ØªØ±Ø³Ø±Ù‡ Ú©ÛŒÚ–ÙŠ. Ù¾Ù‡ Ø¯Û ØªÙˆÚ«Ù‡ØŒ Nexus Gaja Ú©ÙˆÙ„ÛŒ Ø´ÙŠ Ù…Ø¹Ù„ÙˆÙ…Ù‡ Ú©Ú“ÙŠ Ú†Û Ø¢ÛŒØ§ Ú˜Ø¨Ø§Ú“Û Ù¾Ø®Ù¾Ù„Ù‡ ÙˆØ¶Ø¹ÛŒØª Ø®Ø±Ø§Ø¨ Ú©Ú“ÛŒ ÛŒØ§ Ø¨Ø¯Ù„ Ú©Ú“ÛŒ Ø¯ÛŒ.
 
-### 7. د باور نمرې
-د AI هر ارزونه د باور ارزښت ترلاسه کوي (د مثال په توګه د ګواښ احتمال: 0.96). مګر: ** د باور نمرې ≠ حقیقت.** د 96٪ نمرې یوازې دا معنی لري چې ماډل په خپل درجه بندي کې خورا باوري دی، دا اړینه نه ده چې کاروونکي مجرم وي.
+### 7. Ø¯ Ø¨Ø§ÙˆØ± Ù†Ù…Ø±Û
+Ø¯ AI Ù‡Ø± Ø§Ø±Ø²ÙˆÙ†Ù‡ Ø¯ Ø¨Ø§ÙˆØ± Ø§Ø±Ø²ÚšØª ØªØ±Ù„Ø§Ø³Ù‡ Ú©ÙˆÙŠ (Ø¯ Ù…Ø«Ø§Ù„ Ù¾Ù‡ ØªÙˆÚ«Ù‡ Ø¯ Ú«ÙˆØ§Úš Ø§Ø­ØªÙ…Ø§Ù„: 0.96). Ù…Ú«Ø±: ** Ø¯ Ø¨Ø§ÙˆØ± Ù†Ù…Ø±Û â‰  Ø­Ù‚ÛŒÙ‚Øª.** Ø¯ 96Ùª Ù†Ù…Ø±Û ÛŒÙˆØ§Ø²Û Ø¯Ø§ Ù…Ø¹Ù†ÛŒ Ù„Ø±ÙŠ Ú†Û Ù…Ø§Ú‰Ù„ Ù¾Ù‡ Ø®Ù¾Ù„ Ø¯Ø±Ø¬Ù‡ Ø¨Ù†Ø¯ÙŠ Ú©Û Ø®ÙˆØ±Ø§ Ø¨Ø§ÙˆØ±ÙŠ Ø¯ÛŒØŒ Ø¯Ø§ Ø§Ú“ÛŒÙ†Ù‡ Ù†Ù‡ Ø¯Ù‡ Ú†Û Ú©Ø§Ø±ÙˆÙˆÙ†Ú©ÙŠ Ù…Ø¬Ø±Ù… ÙˆÙŠ.
 
-### 8. ناڅرګندتیا پخپله یو سیګنال کیږي
-که AI ناڅرګنده وي (د مثال په توګه ګواښ: 0.62، طنز: 0.54)، دا نشي کولی په ساده ډول سخت اقدام وکړي. پرځای یې، ناڅرګندتیا په مستقیم ډول په جوړښت کې رامینځته کیږي: **د انسان بیاکتنې ته اړتیا ده**.
+### 8. Ù†Ø§Ú…Ø±Ú«Ù†Ø¯ØªÛŒØ§ Ù¾Ø®Ù¾Ù„Ù‡ ÛŒÙˆ Ø³ÛŒÚ«Ù†Ø§Ù„ Ú©ÛŒÚ–ÙŠ
+Ú©Ù‡ AI Ù†Ø§Ú…Ø±Ú«Ù†Ø¯Ù‡ ÙˆÙŠ (Ø¯ Ù…Ø«Ø§Ù„ Ù¾Ù‡ ØªÙˆÚ«Ù‡ Ú«ÙˆØ§Úš: 0.62ØŒ Ø·Ù†Ø²: 0.54)ØŒ Ø¯Ø§ Ù†Ø´ÙŠ Ú©ÙˆÙ„ÛŒ Ù¾Ù‡ Ø³Ø§Ø¯Ù‡ Ú‰ÙˆÙ„ Ø³Ø®Øª Ø§Ù‚Ø¯Ø§Ù… ÙˆÚ©Ú“ÙŠ. Ù¾Ø±ÚØ§ÛŒ ÛŒÛØŒ Ù†Ø§Ú…Ø±Ú«Ù†Ø¯ØªÛŒØ§ Ù¾Ù‡ Ù…Ø³ØªÙ‚ÛŒÙ… Ú‰ÙˆÙ„ Ù¾Ù‡ Ø¬ÙˆÚ“ÚšØª Ú©Û Ø±Ø§Ù…ÛŒÙ†ÚØªÙ‡ Ú©ÛŒÚ–ÙŠ: **Ø¯ Ø§Ù†Ø³Ø§Ù† Ø¨ÛŒØ§Ú©ØªÙ†Û ØªÙ‡ Ø§Ú“ØªÛŒØ§ Ø¯Ù‡**.
 
-### 9. څلور پریکړې ساحې
-- 🟢 **شنه**: ډیری احتمال سره مطابقت لري. → هیڅ عمل نشته.
-- 🟡 **ژېړ**: احتمالي سرغړونه. ← د اړتیا په صورت کې مشاهده/یادونه وکړئ.
-- 🟠 **نارنج**: احتمالي سرغړونه. ← اعتدال چک.
-- 🔴 **ریډ**: لوی احتمالي سرغړونه. → سمدستي محافظتي اندازه + د انسان ازموینه.
+### 9. Ú…Ù„ÙˆØ± Ù¾Ø±ÛŒÚ©Ú“Û Ø³Ø§Ø­Û
+- ðŸŸ¢ **Ø´Ù†Ù‡**: Ú‰ÛŒØ±ÛŒ Ø§Ø­ØªÙ…Ø§Ù„ Ø³Ø±Ù‡ Ù…Ø·Ø§Ø¨Ù‚Øª Ù„Ø±ÙŠ. â†’ Ù‡ÛŒÚ… Ø¹Ù…Ù„ Ù†Ø´ØªÙ‡.
+- ðŸŸ¡ **Ú˜ÛÚ“**: Ø§Ø­ØªÙ…Ø§Ù„ÙŠ Ø³Ø±ØºÚ“ÙˆÙ†Ù‡. â† Ø¯ Ø§Ú“ØªÛŒØ§ Ù¾Ù‡ ØµÙˆØ±Øª Ú©Û Ù…Ø´Ø§Ù‡Ø¯Ù‡/ÛŒØ§Ø¯ÙˆÙ†Ù‡ ÙˆÚ©Ú“Ø¦.
+- ðŸŸ  **Ù†Ø§Ø±Ù†Ø¬**: Ø§Ø­ØªÙ…Ø§Ù„ÙŠ Ø³Ø±ØºÚ“ÙˆÙ†Ù‡. â† Ø§Ø¹ØªØ¯Ø§Ù„ Ú†Ú©.
+- ðŸ”´ **Ø±ÛŒÚ‰**: Ù„ÙˆÛŒ Ø§Ø­ØªÙ…Ø§Ù„ÙŠ Ø³Ø±ØºÚ“ÙˆÙ†Ù‡. â†’ Ø³Ù…Ø¯Ø³ØªÙŠ Ù…Ø­Ø§ÙØ¸ØªÙŠ Ø§Ù†Ø¯Ø§Ø²Ù‡ + Ø¯ Ø§Ù†Ø³Ø§Ù† Ø§Ø²Ù…ÙˆÛŒÙ†Ù‡.
 
-### 10. نه "AI جریمه"
-**AI وروستی بندیزونه نه لګوي.** دا کولی شي د جدي امنیتي اندیښنو په صورت کې بیړني تخنیکي اقدامات پیل کړي (د بیلګې په توګه د پیغام مخه ونیسي)، مګر وروستۍ پریکړه د تایید وړ پاتې کیږي.
+### 10. Ù†Ù‡ "AI Ø¬Ø±ÛŒÙ…Ù‡"
+**AI ÙˆØ±ÙˆØ³ØªÛŒ Ø¨Ù†Ø¯ÛŒØ²ÙˆÙ†Ù‡ Ù†Ù‡ Ù„Ú«ÙˆÙŠ.** Ø¯Ø§ Ú©ÙˆÙ„ÛŒ Ø´ÙŠ Ø¯ Ø¬Ø¯ÙŠ Ø§Ù…Ù†ÛŒØªÙŠ Ø§Ù†Ø¯ÛŒÚšÙ†Ùˆ Ù¾Ù‡ ØµÙˆØ±Øª Ú©Û Ø¨ÛŒÚ“Ù†ÙŠ ØªØ®Ù†ÛŒÚ©ÙŠ Ø§Ù‚Ø¯Ø§Ù…Ø§Øª Ù¾ÛŒÙ„ Ú©Ú“ÙŠ (Ø¯ Ø¨ÛŒÙ„Ú«Û Ù¾Ù‡ ØªÙˆÚ«Ù‡ Ø¯ Ù¾ÛŒØºØ§Ù… Ù…Ø®Ù‡ ÙˆÙ†ÛŒØ³ÙŠ)ØŒ Ù…Ú«Ø± ÙˆØ±ÙˆØ³ØªÛ Ù¾Ø±ÛŒÚ©Ú“Ù‡ Ø¯ ØªØ§ÛŒÛŒØ¯ ÙˆÚ“ Ù¾Ø§ØªÛ Ú©ÛŒÚ–ÙŠ.
 
-### 11. محافظتي تدابیر کیدای شي اتوماتیک وي
-که چیرې یو ځانګړی ګواښ شتون ولري (ګواښ کشف شوی → لوړ باور → لنډمهاله محدودیت → بشري بیاکتنه → پریکړه) ، موږ د ګواښونکي کارونکي محافظت کوو پرته لدې چې AI قضاوت وکړي.
+### 11. Ù…Ø­Ø§ÙØ¸ØªÙŠ ØªØ¯Ø§Ø¨ÛŒØ± Ú©ÛŒØ¯Ø§ÛŒ Ø´ÙŠ Ø§ØªÙˆÙ…Ø§ØªÛŒÚ© ÙˆÙŠ
+Ú©Ù‡ Ú†ÛŒØ±Û ÛŒÙˆ ÚØ§Ù†Ú«Ú“ÛŒ Ú«ÙˆØ§Úš Ø´ØªÙˆÙ† ÙˆÙ„Ø±ÙŠ (Ú«ÙˆØ§Úš Ú©Ø´Ù Ø´ÙˆÛŒ â†’ Ù„ÙˆÚ“ Ø¨Ø§ÙˆØ± â†’ Ù„Ù†Ú‰Ù…Ù‡Ø§Ù„Ù‡ Ù…Ø­Ø¯ÙˆØ¯ÛŒØª â†’ Ø¨Ø´Ø±ÙŠ Ø¨ÛŒØ§Ú©ØªÙ†Ù‡ â†’ Ù¾Ø±ÛŒÚ©Ú“Ù‡) ØŒ Ù…ÙˆÚ– Ø¯ Ú«ÙˆØ§ÚšÙˆÙ†Ú©ÙŠ Ú©Ø§Ø±ÙˆÙ†Ú©ÙŠ Ù…Ø­Ø§ÙØ¸Øª Ú©ÙˆÙˆ Ù¾Ø±ØªÙ‡ Ù„Ø¯Û Ú†Û AI Ù‚Ø¶Ø§ÙˆØª ÙˆÚ©Ú“ÙŠ.
 
-### 12. AI باید وکوالی شي خپله پریکړه توجیه کړي
-DSA روښانه او مشخصو دلایلو ته اړتیا لري. د AI لاملونه په جوړښتي ډول دي: قاعده (NG-CONDUCT-004)، کشف شوی (احتمالي کانکریټ ګواښ)، باور (0.94)، اړوند شرایط (پخواني 4 پیغامونه)، وړاندیز شوی عمل (د انسان بیاکتنه).
+### 12. AI Ø¨Ø§ÛŒØ¯ ÙˆÚ©ÙˆØ§Ù„ÛŒ Ø´ÙŠ Ø®Ù¾Ù„Ù‡ Ù¾Ø±ÛŒÚ©Ú“Ù‡ ØªÙˆØ¬ÛŒÙ‡ Ú©Ú“ÙŠ
+DSA Ø±ÙˆÚšØ§Ù†Ù‡ Ø§Ùˆ Ù…Ø´Ø®ØµÙˆ Ø¯Ù„Ø§ÛŒÙ„Ùˆ ØªÙ‡ Ø§Ú“ØªÛŒØ§ Ù„Ø±ÙŠ. Ø¯ AI Ù„Ø§Ù…Ù„ÙˆÙ†Ù‡ Ù¾Ù‡ Ø¬ÙˆÚ“ÚšØªÙŠ Ú‰ÙˆÙ„ Ø¯ÙŠ: Ù‚Ø§Ø¹Ø¯Ù‡ (NG-CONDUCT-004)ØŒ Ú©Ø´Ù Ø´ÙˆÛŒ (Ø§Ø­ØªÙ…Ø§Ù„ÙŠ Ú©Ø§Ù†Ú©Ø±ÛŒÙ¼ Ú«ÙˆØ§Úš)ØŒ Ø¨Ø§ÙˆØ± (0.94)ØŒ Ø§Ú“ÙˆÙ†Ø¯ Ø´Ø±Ø§ÛŒØ· (Ù¾Ø®ÙˆØ§Ù†ÙŠ 4 Ù¾ÛŒØºØ§Ù…ÙˆÙ†Ù‡)ØŒ ÙˆÚ“Ø§Ù†Ø¯ÛŒØ² Ø´ÙˆÛŒ Ø¹Ù…Ù„ (Ø¯ Ø§Ù†Ø³Ø§Ù† Ø¨ÛŒØ§Ú©ØªÙ†Ù‡).
 
-### 13. AI اجازه نلري چې په پټه توګه مینځپانګې بدل کړي
-** اعتدال AI باید هیڅکله اصلي مینځپانګه بدله نه کړي. ** اتوماتیک سمونونه ، ژباړې یا لنډیزونه اصلي مینځپانګه ساتي.
+### 13. AI Ø§Ø¬Ø§Ø²Ù‡ Ù†Ù„Ø±ÙŠ Ú†Û Ù¾Ù‡ Ù¾Ù¼Ù‡ ØªÙˆÚ«Ù‡ Ù…ÛŒÙ†ÚÙ¾Ø§Ù†Ú«Û Ø¨Ø¯Ù„ Ú©Ú“ÙŠ
+** Ø§Ø¹ØªØ¯Ø§Ù„ AI Ø¨Ø§ÛŒØ¯ Ù‡ÛŒÚ…Ú©Ù„Ù‡ Ø§ØµÙ„ÙŠ Ù…ÛŒÙ†ÚÙ¾Ø§Ù†Ú«Ù‡ Ø¨Ø¯Ù„Ù‡ Ù†Ù‡ Ú©Ú“ÙŠ. ** Ø§ØªÙˆÙ…Ø§ØªÛŒÚ© Ø³Ù…ÙˆÙ†ÙˆÙ†Ù‡ ØŒ Ú˜Ø¨Ø§Ú“Û ÛŒØ§ Ù„Ù†Ú‰ÛŒØ²ÙˆÙ†Ù‡ Ø§ØµÙ„ÙŠ Ù…ÛŒÙ†ÚÙ¾Ø§Ù†Ú«Ù‡ Ø³Ø§ØªÙŠ.
 
-### 14. د AI تولید شوي مینځپانګې
-موږ تر منځ توپیر کوو: د انسان لخوا جوړ شوی، د AI په مرسته، د AI لخوا تولید شوی او د AI لخوا جوړ شوی. دا د مینځپانګې میټاډاټا برخه کیږي.
+### 14. Ø¯ AI ØªÙˆÙ„ÛŒØ¯ Ø´ÙˆÙŠ Ù…ÛŒÙ†ÚÙ¾Ø§Ù†Ú«Û
+Ù…ÙˆÚ– ØªØ± Ù…Ù†Ú ØªÙˆÙ¾ÛŒØ± Ú©ÙˆÙˆ: Ø¯ Ø§Ù†Ø³Ø§Ù† Ù„Ø®ÙˆØ§ Ø¬ÙˆÚ“ Ø´ÙˆÛŒØŒ Ø¯ AI Ù¾Ù‡ Ù…Ø±Ø³ØªÙ‡ØŒ Ø¯ AI Ù„Ø®ÙˆØ§ ØªÙˆÙ„ÛŒØ¯ Ø´ÙˆÛŒ Ø§Ùˆ Ø¯ AI Ù„Ø®ÙˆØ§ Ø¬ÙˆÚ“ Ø´ÙˆÛŒ. Ø¯Ø§ Ø¯ Ù…ÛŒÙ†ÚÙ¾Ø§Ù†Ú«Û Ù…ÛŒÙ¼Ø§Ú‰Ø§Ù¼Ø§ Ø¨Ø±Ø®Ù‡ Ú©ÛŒÚ–ÙŠ.
 
-### 15. د AI منځپانګې لیبل کول او د AI ثابت پرت
-د EU AI قانون د روڼتیا قواعدو سره سم (د اګست له 2026 راهیسې) ، د AI لخوا رامینځته شوي مینځپانګې باید د پیژندلو وړ وي. موږ د AI پرووینس پرت تصور کوو چې میټاډاټا ذخیره کوي (د AI اصل، ماډل، مهال ویش، انساني بیاکتنه).
+### 15. Ø¯ AI Ù…Ù†ÚÙ¾Ø§Ù†Ú«Û Ù„ÛŒØ¨Ù„ Ú©ÙˆÙ„ Ø§Ùˆ Ø¯ AI Ø«Ø§Ø¨Øª Ù¾Ø±Øª
+Ø¯ EU AI Ù‚Ø§Ù†ÙˆÙ† Ø¯ Ø±ÙˆÚ¼ØªÛŒØ§ Ù‚ÙˆØ§Ø¹Ø¯Ùˆ Ø³Ø±Ù‡ Ø³Ù… (Ø¯ Ø§Ú«Ø³Øª Ù„Ù‡ 2026 Ø±Ø§Ù‡ÛŒØ³Û) ØŒ Ø¯ AI Ù„Ø®ÙˆØ§ Ø±Ø§Ù…ÛŒÙ†ÚØªÙ‡ Ø´ÙˆÙŠ Ù…ÛŒÙ†ÚÙ¾Ø§Ù†Ú«Û Ø¨Ø§ÛŒØ¯ Ø¯ Ù¾ÛŒÚ˜Ù†Ø¯Ù„Ùˆ ÙˆÚ“ ÙˆÙŠ. Ù…ÙˆÚ– Ø¯ AI Ù¾Ø±ÙˆÙˆÛŒÙ†Ø³ Ù¾Ø±Øª ØªØµÙˆØ± Ú©ÙˆÙˆ Ú†Û Ù…ÛŒÙ¼Ø§Ú‰Ø§Ù¼Ø§ Ø°Ø®ÛŒØ±Ù‡ Ú©ÙˆÙŠ (Ø¯ AI Ø§ØµÙ„ØŒ Ù…Ø§Ú‰Ù„ØŒ Ù…Ù‡Ø§Ù„ ÙˆÛŒØ´ØŒ Ø§Ù†Ø³Ø§Ù†ÙŠ Ø¨ÛŒØ§Ú©ØªÙ†Ù‡).
 
-### 16. د ډیپ فیک کشف
-جوړښت د مصنوعي عکسونو ، محرک غږونو او ژورو عکسونو کشف کولو لپاره دی. مګر پیژندنه په اتوماتيک ډول ثبوت نه دی.
+### 16. Ø¯ Ú‰ÛŒÙ¾ ÙÛŒÚ© Ú©Ø´Ù
+Ø¬ÙˆÚ“ÚšØª Ø¯ Ù…ØµÙ†ÙˆØ¹ÙŠ Ø¹Ú©Ø³ÙˆÙ†Ùˆ ØŒ Ù…Ø­Ø±Ú© ØºÚ–ÙˆÙ†Ùˆ Ø§Ùˆ Ú˜ÙˆØ±Ùˆ Ø¹Ú©Ø³ÙˆÙ†Ùˆ Ú©Ø´Ù Ú©ÙˆÙ„Ùˆ Ù„Ù¾Ø§Ø±Ù‡ Ø¯ÛŒ. Ù…Ú«Ø± Ù¾ÛŒÚ˜Ù†Ø¯Ù†Ù‡ Ù¾Ù‡ Ø§ØªÙˆÙ…Ø§ØªÙŠÚ© Ú‰ÙˆÙ„ Ø«Ø¨ÙˆØª Ù†Ù‡ Ø¯ÛŒ.
 
-### 17. هیڅ اتوماتیک "حقیقت ماشین" نشته (اعتدال ≠ د حقیقت چک کول)
-یو سیسټم معاینه کوي: "ایا مینځپانګه کوم مقررات سرغړونه کوي؟" (د منځپانګې منځپانګه)، بل وړاندې کوي: "کوم معلومات او سرچینې شتون لري؟" (معلوماتي مرسته). نظرونه په ساده ډول د "غلط" په توګه نه حذف کیږي.
+### 17. Ù‡ÛŒÚ… Ø§ØªÙˆÙ…Ø§ØªÛŒÚ© "Ø­Ù‚ÛŒÙ‚Øª Ù…Ø§Ø´ÛŒÙ†" Ù†Ø´ØªÙ‡ (Ø§Ø¹ØªØ¯Ø§Ù„ â‰  Ø¯ Ø­Ù‚ÛŒÙ‚Øª Ú†Ú© Ú©ÙˆÙ„)
+ÛŒÙˆ Ø³ÛŒØ³Ù¼Ù… Ù…Ø¹Ø§ÛŒÙ†Ù‡ Ú©ÙˆÙŠ: "Ø§ÛŒØ§ Ù…ÛŒÙ†ÚÙ¾Ø§Ù†Ú«Ù‡ Ú©ÙˆÙ… Ù…Ù‚Ø±Ø±Ø§Øª Ø³Ø±ØºÚ“ÙˆÙ†Ù‡ Ú©ÙˆÙŠØŸ" (Ø¯ Ù…Ù†ÚÙ¾Ø§Ù†Ú«Û Ù…Ù†ÚÙ¾Ø§Ù†Ú«Ù‡)ØŒ Ø¨Ù„ ÙˆÚ“Ø§Ù†Ø¯Û Ú©ÙˆÙŠ: "Ú©ÙˆÙ… Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø§Ùˆ Ø³Ø±Ú†ÛŒÙ†Û Ø´ØªÙˆÙ† Ù„Ø±ÙŠØŸ" (Ù…Ø¹Ù„ÙˆÙ…Ø§ØªÙŠ Ù…Ø±Ø³ØªÙ‡). Ù†Ø¸Ø±ÙˆÙ†Ù‡ Ù¾Ù‡ Ø³Ø§Ø¯Ù‡ Ú‰ÙˆÙ„ Ø¯ "ØºÙ„Ø·" Ù¾Ù‡ ØªÙˆÚ«Ù‡ Ù†Ù‡ Ø­Ø°Ù Ú©ÛŒÚ–ÙŠ.
 
-### 18. د کلتوري غلط تفسیر په وړاندې ساتنه
-AI د **کلتوري شرایطو ماډل** ته اړتیا لري ترڅو د یو هیواد د مخابراتو نورم د نړیوال معیار په توګه د منلو مخه ونیسي.
+### 18. Ø¯ Ú©Ù„ØªÙˆØ±ÙŠ ØºÙ„Ø· ØªÙØ³ÛŒØ± Ù¾Ù‡ ÙˆÚ“Ø§Ù†Ø¯Û Ø³Ø§ØªÙ†Ù‡
+AI Ø¯ **Ú©Ù„ØªÙˆØ±ÙŠ Ø´Ø±Ø§ÛŒØ·Ùˆ Ù…Ø§Ú‰Ù„** ØªÙ‡ Ø§Ú“ØªÛŒØ§ Ù„Ø±ÙŠ ØªØ±Ú…Ùˆ Ø¯ ÛŒÙˆ Ù‡ÛŒÙˆØ§Ø¯ Ø¯ Ù…Ø®Ø§Ø¨Ø±Ø§ØªÙˆ Ù†ÙˆØ±Ù… Ø¯ Ù†Ú“ÛŒÙˆØ§Ù„ Ù…Ø¹ÛŒØ§Ø± Ù¾Ù‡ ØªÙˆÚ«Ù‡ Ø¯ Ù…Ù†Ù„Ùˆ Ù…Ø®Ù‡ ÙˆÙ†ÛŒØ³ÙŠ.
 
-### 19. طنز، طنز او طنز
-AI شرایط، emojis، د خبرو اترو جریان او پیژندل شوي ستومانه جوړښتونه کاروي، مګر باید د ناڅرګندتیا لپاره اجازه ورکړي کله چې معنی روښانه نه وي.
+### 19. Ø·Ù†Ø²ØŒ Ø·Ù†Ø² Ø§Ùˆ Ø·Ù†Ø²
+AI Ø´Ø±Ø§ÛŒØ·ØŒ emojisØŒ Ø¯ Ø®Ø¨Ø±Ùˆ Ø§ØªØ±Ùˆ Ø¬Ø±ÛŒØ§Ù† Ø§Ùˆ Ù¾ÛŒÚ˜Ù†Ø¯Ù„ Ø´ÙˆÙŠ Ø³ØªÙˆÙ…Ø§Ù†Ù‡ Ø¬ÙˆÚ“ÚšØªÙˆÙ†Ù‡ Ú©Ø§Ø±ÙˆÙŠØŒ Ù…Ú«Ø± Ø¨Ø§ÛŒØ¯ Ø¯ Ù†Ø§Ú…Ø±Ú«Ù†Ø¯ØªÛŒØ§ Ù„Ù¾Ø§Ø±Ù‡ Ø§Ø¬Ø§Ø²Ù‡ ÙˆØ±Ú©Ú“ÙŠ Ú©Ù„Ù‡ Ú†Û Ù…Ø¹Ù†ÛŒ Ø±ÙˆÚšØ§Ù†Ù‡ Ù†Ù‡ ÙˆÙŠ.
 
-### 20. د یوې واحد AI نمرې پراساس هیڅ سزا نشته
-د اعتدال هیڅ جدي مداخله ممکن په ځانګړي ډول د یو واحد اتوماتیک طبقه بندي پایلې پراساس نه وي (متن + شرایط + چلند + ژبه + میډیا + د قاعدې انجن = د خطر ارزونه).
+### 20. Ø¯ ÛŒÙˆÛ ÙˆØ§Ø­Ø¯ AI Ù†Ù…Ø±Û Ù¾Ø±Ø§Ø³Ø§Ø³ Ù‡ÛŒÚ… Ø³Ø²Ø§ Ù†Ø´ØªÙ‡
+Ø¯ Ø§Ø¹ØªØ¯Ø§Ù„ Ù‡ÛŒÚ… Ø¬Ø¯ÙŠ Ù…Ø¯Ø§Ø®Ù„Ù‡ Ù…Ù…Ú©Ù† Ù¾Ù‡ ÚØ§Ù†Ú«Ú“ÙŠ Ú‰ÙˆÙ„ Ø¯ ÛŒÙˆ ÙˆØ§Ø­Ø¯ Ø§ØªÙˆÙ…Ø§ØªÛŒÚ© Ø·Ø¨Ù‚Ù‡ Ø¨Ù†Ø¯ÙŠ Ù¾Ø§ÛŒÙ„Û Ù¾Ø±Ø§Ø³Ø§Ø³ Ù†Ù‡ ÙˆÙŠ (Ù…ØªÙ† + Ø´Ø±Ø§ÛŒØ· + Ú†Ù„Ù†Ø¯ + Ú˜Ø¨Ù‡ + Ù…ÛŒÚ‰ÛŒØ§ + Ø¯ Ù‚Ø§Ø¹Ø¯Û Ø§Ù†Ø¬Ù† = Ø¯ Ø®Ø·Ø± Ø§Ø±Ø²ÙˆÙ†Ù‡).
 
-### 21. د کارونکي چلند نښې او د ټولنیز کریډیټ سیسټم نشته
-دا د تخنیکي ناوړه ګټه اخیستنې نښې نښانې دي (د بیلګې په توګه د سپیم ډله ایز پوسټ کول)، نه د عمومي ټولنیز درجه بندي سیسټم. Nexus Gaja د ټولنیز کریډیټ سیسټم نه چلوي - اعتدال د امنیت لپاره دی نه د یو شخص ارزښت ارزولو لپاره.
+### 21. Ø¯ Ú©Ø§Ø±ÙˆÙ†Ú©ÙŠ Ú†Ù„Ù†Ø¯ Ù†ÚšÛ Ø§Ùˆ Ø¯ Ù¼ÙˆÙ„Ù†ÛŒØ² Ú©Ø±ÛŒÚ‰ÛŒÙ¼ Ø³ÛŒØ³Ù¼Ù… Ù†Ø´ØªÙ‡
+Ø¯Ø§ Ø¯ ØªØ®Ù†ÛŒÚ©ÙŠ Ù†Ø§ÙˆÚ“Ù‡ Ú«Ù¼Ù‡ Ø§Ø®ÛŒØ³ØªÙ†Û Ù†ÚšÛ Ù†ÚšØ§Ù†Û Ø¯ÙŠ (Ø¯ Ø¨ÛŒÙ„Ú«Û Ù¾Ù‡ ØªÙˆÚ«Ù‡ Ø¯ Ø³Ù¾ÛŒÙ… Ú‰Ù„Ù‡ Ø§ÛŒØ² Ù¾ÙˆØ³Ù¼ Ú©ÙˆÙ„)ØŒ Ù†Ù‡ Ø¯ Ø¹Ù…ÙˆÙ…ÙŠ Ù¼ÙˆÙ„Ù†ÛŒØ² Ø¯Ø±Ø¬Ù‡ Ø¨Ù†Ø¯ÙŠ Ø³ÛŒØ³Ù¼Ù…. Nexus Gaja Ø¯ Ù¼ÙˆÙ„Ù†ÛŒØ² Ú©Ø±ÛŒÚ‰ÛŒÙ¼ Ø³ÛŒØ³Ù¼Ù… Ù†Ù‡ Ú†Ù„ÙˆÙŠ - Ø§Ø¹ØªØ¯Ø§Ù„ Ø¯ Ø§Ù…Ù†ÛŒØª Ù„Ù¾Ø§Ø±Ù‡ Ø¯ÛŒ Ù†Ù‡ Ø¯ ÛŒÙˆ Ø´Ø®Øµ Ø§Ø±Ø²ÚšØª Ø§Ø±Ø²ÙˆÙ„Ùˆ Ù„Ù¾Ø§Ø±Ù‡.
 
-### 22. اعتدال AI باید د پلټنې وړ وي
-ټول اړونده اتوماتیک پریکړې د تعقیب کیدو ډاډ ترلاسه کولو لپاره ثبت شوي (د پیښې ID ، د قاعدې ID ، باور ، انساني بیاکتنه ، او نور).
+### 22. Ø§Ø¹ØªØ¯Ø§Ù„ AI Ø¨Ø§ÛŒØ¯ Ø¯ Ù¾Ù„Ù¼Ù†Û ÙˆÚ“ ÙˆÙŠ
+Ù¼ÙˆÙ„ Ø§Ú“ÙˆÙ†Ø¯Ù‡ Ø§ØªÙˆÙ…Ø§ØªÛŒÚ© Ù¾Ø±ÛŒÚ©Ú“Û Ø¯ ØªØ¹Ù‚ÛŒØ¨ Ú©ÛŒØ¯Ùˆ Ú‰Ø§Ú‰ ØªØ±Ù„Ø§Ø³Ù‡ Ú©ÙˆÙ„Ùˆ Ù„Ù¾Ø§Ø±Ù‡ Ø«Ø¨Øª Ø´ÙˆÙŠ (Ø¯ Ù¾ÛŒÚšÛ ID ØŒ Ø¯ Ù‚Ø§Ø¹Ø¯Û ID ØŒ Ø¨Ø§ÙˆØ± ØŒ Ø§Ù†Ø³Ø§Ù†ÙŠ Ø¨ÛŒØ§Ú©ØªÙ†Ù‡ ØŒ Ø§Ùˆ Ù†ÙˆØ±).
 
-### 23. غلط مثبت، غلط منفي او د کیفیت میټریکونه
-د خطا ډولونه څارل کیږي. ډشبورډ دقت، یادولو او په ځانګړې توګه د **د اپیل د بیرته راګرځیدو کچه** (د بریالي اپیلونو شمیر) اندازه کوي. 
+### 23. ØºÙ„Ø· Ù…Ø«Ø¨ØªØŒ ØºÙ„Ø· Ù…Ù†ÙÙŠ Ø§Ùˆ Ø¯ Ú©ÛŒÙÛŒØª Ù…ÛŒÙ¼Ø±ÛŒÚ©ÙˆÙ†Ù‡
+Ø¯ Ø®Ø·Ø§ Ú‰ÙˆÙ„ÙˆÙ†Ù‡ Ú…Ø§Ø±Ù„ Ú©ÛŒÚ–ÙŠ. Ú‰Ø´Ø¨ÙˆØ±Ú‰ Ø¯Ù‚ØªØŒ ÛŒØ§Ø¯ÙˆÙ„Ùˆ Ø§Ùˆ Ù¾Ù‡ ÚØ§Ù†Ú«Ú“Û ØªÙˆÚ«Ù‡ Ø¯ **Ø¯ Ø§Ù¾ÛŒÙ„ Ø¯ Ø¨ÛŒØ±ØªÙ‡ Ø±Ø§Ú«Ø±ÚÛŒØ¯Ùˆ Ú©Ú†Ù‡** (Ø¯ Ø¨Ø±ÛŒØ§Ù„ÙŠ Ø§Ù¾ÛŒÙ„ÙˆÙ†Ùˆ Ø´Ù…ÛŒØ±) Ø§Ù†Ø¯Ø§Ø²Ù‡ Ú©ÙˆÙŠ. 
 
-### 24. د ژبې انصاف او د ژباړې تعصب
-د اعتدال کیفیت باید په ټولو ملاتړ شویو ژبو کې د پرتله کولو وړ وي (د څو ژبو اعتدال بنچمارک). که د اعتدال پایلې د اصلي او ژباړې (د ژباړې شخړه) ترمنځ توپیر ولري، دا باید په جلا توګه وڅیړل شي.
+### 24. Ø¯ Ú˜Ø¨Û Ø§Ù†ØµØ§Ù Ø§Ùˆ Ø¯ Ú˜Ø¨Ø§Ú“Û ØªØ¹ØµØ¨
+Ø¯ Ø§Ø¹ØªØ¯Ø§Ù„ Ú©ÛŒÙÛŒØª Ø¨Ø§ÛŒØ¯ Ù¾Ù‡ Ù¼ÙˆÙ„Ùˆ Ù…Ù„Ø§ØªÚ“ Ø´ÙˆÛŒÙˆ Ú˜Ø¨Ùˆ Ú©Û Ø¯ Ù¾Ø±ØªÙ„Ù‡ Ú©ÙˆÙ„Ùˆ ÙˆÚ“ ÙˆÙŠ (Ø¯ Ú…Ùˆ Ú˜Ø¨Ùˆ Ø§Ø¹ØªØ¯Ø§Ù„ Ø¨Ù†Ú†Ù…Ø§Ø±Ú©). Ú©Ù‡ Ø¯ Ø§Ø¹ØªØ¯Ø§Ù„ Ù¾Ø§ÛŒÙ„Û Ø¯ Ø§ØµÙ„ÙŠ Ø§Ùˆ Ú˜Ø¨Ø§Ú“Û (Ø¯ Ú˜Ø¨Ø§Ú“Û Ø´Ø®Ú“Ù‡) ØªØ±Ù…Ù†Ú ØªÙˆÙ¾ÛŒØ± ÙˆÙ„Ø±ÙŠØŒ Ø¯Ø§ Ø¨Ø§ÛŒØ¯ Ù¾Ù‡ Ø¬Ù„Ø§ ØªÙˆÚ«Ù‡ ÙˆÚ…ÛŒÚ“Ù„ Ø´ÙŠ.
 
-### 25. د معمارۍ وړاندیز او د پالیسۍ انجن
-مقررات (د پالیسۍ انجن) د AI ماډلونو کې سخت کوډ شوي ندي. AI بصیرت وړاندې کوي، د پالیسۍ انجن د اوسني مقرراتو پراساس پریکړې کوي. دا اجازه ورکوي ** موډل بدلون پرته له مقرراتو بدلولو**.
+### 25. Ø¯ Ù…Ø¹Ù…Ø§Ø±Û ÙˆÚ“Ø§Ù†Ø¯ÛŒØ² Ø§Ùˆ Ø¯ Ù¾Ø§Ù„ÛŒØ³Û Ø§Ù†Ø¬Ù†
+Ù…Ù‚Ø±Ø±Ø§Øª (Ø¯ Ù¾Ø§Ù„ÛŒØ³Û Ø§Ù†Ø¬Ù†) Ø¯ AI Ù…Ø§Ú‰Ù„ÙˆÙ†Ùˆ Ú©Û Ø³Ø®Øª Ú©ÙˆÚ‰ Ø´ÙˆÙŠ Ù†Ø¯ÙŠ. AI Ø¨ØµÛŒØ±Øª ÙˆÚ“Ø§Ù†Ø¯Û Ú©ÙˆÙŠØŒ Ø¯ Ù¾Ø§Ù„ÛŒØ³Û Ø§Ù†Ø¬Ù† Ø¯ Ø§ÙˆØ³Ù†ÙŠ Ù…Ù‚Ø±Ø±Ø§ØªÙˆ Ù¾Ø±Ø§Ø³Ø§Ø³ Ù¾Ø±ÛŒÚ©Ú“Û Ú©ÙˆÙŠ. Ø¯Ø§ Ø§Ø¬Ø§Ø²Ù‡ ÙˆØ±Ú©ÙˆÙŠ ** Ù…ÙˆÚ‰Ù„ Ø¨Ø¯Ù„ÙˆÙ† Ù¾Ø±ØªÙ‡ Ù„Ù‡ Ù…Ù‚Ø±Ø±Ø§ØªÙˆ Ø¨Ø¯Ù„ÙˆÙ„Ùˆ**.
 
-### 26. خلک وروستی واک پاتې کیږي
-- **NG-AI-MOD-001**: AI د کشف او طبقه بندي ملاتړ کوي ، مګر د جدي پریکړې کولو پرمهال د انسان بیاکتنې ځای نه نیسي.
-- **NG-AI-MOD-002**: د اعتدال اتوماتیک پریکړې باید د موندلو وړ وي، د ثبت وړ او د تایید وړ وي.
+### 26. Ø®Ù„Ú© ÙˆØ±ÙˆØ³ØªÛŒ ÙˆØ§Ú© Ù¾Ø§ØªÛ Ú©ÛŒÚ–ÙŠ
+- **NG-AI-MOD-001**: AI Ø¯ Ú©Ø´Ù Ø§Ùˆ Ø·Ø¨Ù‚Ù‡ Ø¨Ù†Ø¯ÙŠ Ù…Ù„Ø§ØªÚ“ Ú©ÙˆÙŠ ØŒ Ù…Ú«Ø± Ø¯ Ø¬Ø¯ÙŠ Ù¾Ø±ÛŒÚ©Ú“Û Ú©ÙˆÙ„Ùˆ Ù¾Ø±Ù…Ù‡Ø§Ù„ Ø¯ Ø§Ù†Ø³Ø§Ù† Ø¨ÛŒØ§Ú©ØªÙ†Û ÚØ§ÛŒ Ù†Ù‡ Ù†ÛŒØ³ÙŠ.
+- **NG-AI-MOD-002**: Ø¯ Ø§Ø¹ØªØ¯Ø§Ù„ Ø§ØªÙˆÙ…Ø§ØªÛŒÚ© Ù¾Ø±ÛŒÚ©Ú“Û Ø¨Ø§ÛŒØ¯ Ø¯ Ù…ÙˆÙ†Ø¯Ù„Ùˆ ÙˆÚ“ ÙˆÙŠØŒ Ø¯ Ø«Ø¨Øª ÙˆÚ“ Ø§Ùˆ Ø¯ ØªØ§ÛŒÛŒØ¯ ÙˆÚ“ ÙˆÙŠ.
 
-**لنډیز**: موږ یو څلور پوړیز سیسټم جوړوو: د AI کشف، شرایط او د خطر تحلیل، د پالیسۍ انجن او بشري حکومت. دا د خطرناک "جج په توګه AI" جوړښت رامینځته کولو پرته قوي اتومات وړ کوي.
+**Ù„Ù†Ú‰ÛŒØ²**: Ù…ÙˆÚ– ÛŒÙˆ Ú…Ù„ÙˆØ± Ù¾ÙˆÚ“ÛŒØ² Ø³ÛŒØ³Ù¼Ù… Ø¬ÙˆÚ“ÙˆÙˆ: Ø¯ AI Ú©Ø´ÙØŒ Ø´Ø±Ø§ÛŒØ· Ø§Ùˆ Ø¯ Ø®Ø·Ø± ØªØ­Ù„ÛŒÙ„ØŒ Ø¯ Ù¾Ø§Ù„ÛŒØ³Û Ø§Ù†Ø¬Ù† Ø§Ùˆ Ø¨Ø´Ø±ÙŠ Ø­Ú©ÙˆÙ…Øª. Ø¯Ø§ Ø¯ Ø®Ø·Ø±Ù†Ø§Ú© "Ø¬Ø¬ Ù¾Ù‡ ØªÙˆÚ«Ù‡ AI" Ø¬ÙˆÚ“ÚšØª Ø±Ø§Ù…ÛŒÙ†ÚØªÙ‡ Ú©ÙˆÙ„Ùˆ Ù¾Ø±ØªÙ‡ Ù‚ÙˆÙŠ Ø§ØªÙˆÙ…Ø§Øª ÙˆÚ“ Ú©ÙˆÙŠ.
 
-## مالي اصول او د عوایدو ماډل (WP 1.10.1)
+## Ù…Ø§Ù„ÙŠ Ø§ØµÙˆÙ„ Ø§Ùˆ Ø¯ Ø¹ÙˆØ§ÛŒØ¯Ùˆ Ù…Ø§Ú‰Ù„ (WP 1.10.1)
 
 ![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
-یو خورا مهم بنسټیز اقتصادي اصول په Nexus Gaja کې پلي کیږي: ** په پلیټ فارم کې هیڅ کلاسیک اعلانونه نشته.**
-دا د Nexus Gaja مفهوم د نن ورځې ډیری ټولنیزو شبکو څخه توپیر کوي. مګر دا پدې معنی ندي: Nexus Gaja باید سوداګریز کرکټر ونه لري. برعکس: پلیټ فارم باید له اقتصادي پلوه ګټور وي ترڅو د دې ټولنیز هدف په اوږد مهال کې شتون ته دوام ورکړي. له همدې امله اقتصادي فعالیت د پای ته رسولو وسیله ده، نه د پلیټ فارم اصلي موخه.
+ÛŒÙˆ Ø®ÙˆØ±Ø§ Ù…Ù‡Ù… Ø¨Ù†Ø³Ù¼ÛŒØ² Ø§Ù‚ØªØµØ§Ø¯ÙŠ Ø§ØµÙˆÙ„ Ù¾Ù‡ Nexus Gaja Ú©Û Ù¾Ù„ÙŠ Ú©ÛŒÚ–ÙŠ: ** Ù¾Ù‡ Ù¾Ù„ÛŒÙ¼ ÙØ§Ø±Ù… Ú©Û Ù‡ÛŒÚ… Ú©Ù„Ø§Ø³ÛŒÚ© Ø§Ø¹Ù„Ø§Ù†ÙˆÙ†Ù‡ Ù†Ø´ØªÙ‡.**
+Ø¯Ø§ Ø¯ Nexus Gaja Ù…ÙÙ‡ÙˆÙ… Ø¯ Ù†Ù† ÙˆØ±ÚÛ Ú‰ÛŒØ±ÛŒ Ù¼ÙˆÙ„Ù†ÛŒØ²Ùˆ Ø´Ø¨Ú©Ùˆ Ú…Ø®Ù‡ ØªÙˆÙ¾ÛŒØ± Ú©ÙˆÙŠ. Ù…Ú«Ø± Ø¯Ø§ Ù¾Ø¯Û Ù…Ø¹Ù†ÛŒ Ù†Ø¯ÙŠ: Nexus Gaja Ø¨Ø§ÛŒØ¯ Ø³ÙˆØ¯Ø§Ú«Ø±ÛŒØ² Ú©Ø±Ú©Ù¼Ø± ÙˆÙ†Ù‡ Ù„Ø±ÙŠ. Ø¨Ø±Ø¹Ú©Ø³: Ù¾Ù„ÛŒÙ¼ ÙØ§Ø±Ù… Ø¨Ø§ÛŒØ¯ Ù„Ù‡ Ø§Ù‚ØªØµØ§Ø¯ÙŠ Ù¾Ù„ÙˆÙ‡ Ú«Ù¼ÙˆØ± ÙˆÙŠ ØªØ±Ú…Ùˆ Ø¯ Ø¯Û Ù¼ÙˆÙ„Ù†ÛŒØ² Ù‡Ø¯Ù Ù¾Ù‡ Ø§ÙˆÚ–Ø¯ Ù…Ù‡Ø§Ù„ Ú©Û Ø´ØªÙˆÙ† ØªÙ‡ Ø¯ÙˆØ§Ù… ÙˆØ±Ú©Ú“ÙŠ. Ù„Ù‡ Ù‡Ù…Ø¯Û Ø§Ù…Ù„Ù‡ Ø§Ù‚ØªØµØ§Ø¯ÙŠ ÙØ¹Ø§Ù„ÛŒØª Ø¯ Ù¾Ø§ÛŒ ØªÙ‡ Ø±Ø³ÙˆÙ„Ùˆ ÙˆØ³ÛŒÙ„Ù‡ Ø¯Ù‡ØŒ Ù†Ù‡ Ø¯ Ù¾Ù„ÛŒÙ¼ ÙØ§Ø±Ù… Ø§ØµÙ„ÙŠ Ù…ÙˆØ®Ù‡.
 
-### 1. اصول NG-FIN-001
-Nexus Gaja خپل عملیات د شفاف عاید جریانونو له لارې تمویل کوي چې د کاروونکو ګټو څخه جلا دي نه د خپلو کاروونکو توجه یا شخصي معلوماتو بازارموندنې له لارې.
+### 1. Ø§ØµÙˆÙ„ NG-FIN-001
+Nexus Gaja Ø®Ù¾Ù„ Ø¹Ù…Ù„ÛŒØ§Øª Ø¯ Ø´ÙØ§Ù Ø¹Ø§ÛŒØ¯ Ø¬Ø±ÛŒØ§Ù†ÙˆÙ†Ùˆ Ù„Ù‡ Ù„Ø§Ø±Û ØªÙ…ÙˆÛŒÙ„ Ú©ÙˆÙŠ Ú†Û Ø¯ Ú©Ø§Ø±ÙˆÙˆÙ†Ú©Ùˆ Ú«Ù¼Ùˆ Ú…Ø®Ù‡ Ø¬Ù„Ø§ Ø¯ÙŠ Ù†Ù‡ Ø¯ Ø®Ù¾Ù„Ùˆ Ú©Ø§Ø±ÙˆÙˆÙ†Ú©Ùˆ ØªÙˆØ¬Ù‡ ÛŒØ§ Ø´Ø®ØµÙŠ Ù…Ø¹Ù„ÙˆÙ…Ø§ØªÙˆ Ø¨Ø§Ø²Ø§Ø±Ù…ÙˆÙ†Ø¯Ù†Û Ù„Ù‡ Ù„Ø§Ø±Û.
 
-### 2. هیڅ کلاسیک اعلانونه نشته
-په ځانګړې توګه، لاندې اجازه نه ورکول کیږي:
-- د بینر اعلانونه
-- پاپ اپ اعلانونه
-- په اوتومات ډول د اعلاناتو ویډیوګانې پلی شوې
-- په نورمال فیډ کې سپانسر شوي پوسټونه
-- د شخصي اعلاناتو پروفایلونه
-- د کارونکي پروفایل پلورل
-- د شخصي معلوماتو پلور
-- د شخصي خبرو اترو څخه اخیستل شوي اعلانونه.
+### 2. Ù‡ÛŒÚ… Ú©Ù„Ø§Ø³ÛŒÚ© Ø§Ø¹Ù„Ø§Ù†ÙˆÙ†Ù‡ Ù†Ø´ØªÙ‡
+Ù¾Ù‡ ÚØ§Ù†Ú«Ú“Û ØªÙˆÚ«Ù‡ØŒ Ù„Ø§Ù†Ø¯Û Ø§Ø¬Ø§Ø²Ù‡ Ù†Ù‡ ÙˆØ±Ú©ÙˆÙ„ Ú©ÛŒÚ–ÙŠ:
+- Ø¯ Ø¨ÛŒÙ†Ø± Ø§Ø¹Ù„Ø§Ù†ÙˆÙ†Ù‡
+- Ù¾Ø§Ù¾ Ø§Ù¾ Ø§Ø¹Ù„Ø§Ù†ÙˆÙ†Ù‡
+- Ù¾Ù‡ Ø§ÙˆØªÙˆÙ…Ø§Øª Ú‰ÙˆÙ„ Ø¯ Ø§Ø¹Ù„Ø§Ù†Ø§ØªÙˆ ÙˆÛŒÚ‰ÛŒÙˆÚ«Ø§Ù†Û Ù¾Ù„ÛŒ Ø´ÙˆÛ
+- Ù¾Ù‡ Ù†ÙˆØ±Ù…Ø§Ù„ ÙÛŒÚ‰ Ú©Û Ø³Ù¾Ø§Ù†Ø³Ø± Ø´ÙˆÙŠ Ù¾ÙˆØ³Ù¼ÙˆÙ†Ù‡
+- Ø¯ Ø´Ø®ØµÙŠ Ø§Ø¹Ù„Ø§Ù†Ø§ØªÙˆ Ù¾Ø±ÙˆÙØ§ÛŒÙ„ÙˆÙ†Ù‡
+- Ø¯ Ú©Ø§Ø±ÙˆÙ†Ú©ÙŠ Ù¾Ø±ÙˆÙØ§ÛŒÙ„ Ù¾Ù„ÙˆØ±Ù„
+- Ø¯ Ø´Ø®ØµÙŠ Ù…Ø¹Ù„ÙˆÙ…Ø§ØªÙˆ Ù¾Ù„ÙˆØ±
+- Ø¯ Ø´Ø®ØµÙŠ Ø®Ø¨Ø±Ùˆ Ø§ØªØ±Ùˆ Ú…Ø®Ù‡ Ø§Ø®ÛŒØ³ØªÙ„ Ø´ÙˆÙŠ Ø§Ø¹Ù„Ø§Ù†ÙˆÙ†Ù‡.
 
-دا د ارتباط ځای پریږدي: **د اعلاناتو ځای پرځای د اړیکو ځای.**
+Ø¯Ø§ Ø¯ Ø§Ø±ØªØ¨Ø§Ø· ÚØ§ÛŒ Ù¾Ø±ÛŒÚ–Ø¯ÙŠ: **Ø¯ Ø§Ø¹Ù„Ø§Ù†Ø§ØªÙˆ ÚØ§ÛŒ Ù¾Ø±ÚØ§ÛŒ Ø¯ Ø§Ú“ÛŒÚ©Ùˆ ÚØ§ÛŒ.**
 
-### 3. پرته له اعلاناتو تمویل
-پرځای یې، زموږ تمویل کولی شي په څو ستنو مشتمل وي. موږ لومړی شپږ ستنې وړاندیز کوو:
-متن
+### 3. Ù¾Ø±ØªÙ‡ Ù„Ù‡ Ø§Ø¹Ù„Ø§Ù†Ø§ØªÙˆ ØªÙ…ÙˆÛŒÙ„
+Ù¾Ø±ÚØ§ÛŒ ÛŒÛØŒ Ø²Ù…ÙˆÚ– ØªÙ…ÙˆÛŒÙ„ Ú©ÙˆÙ„ÛŒ Ø´ÙŠ Ù¾Ù‡ Ú…Ùˆ Ø³ØªÙ†Ùˆ Ù…Ø´ØªÙ…Ù„ ÙˆÙŠ. Ù…ÙˆÚ– Ù„ÙˆÙ…Ú“ÛŒ Ø´Ù¾Ú– Ø³ØªÙ†Û ÙˆÚ“Ø§Ù†Ø¯ÛŒØ² Ú©ÙˆÙˆ:
+Ù…ØªÙ†
                  NEXUS GAJA
-                     │
-       ┌─────────────┼─────────────────
-       ▼ ▼ ▼
-   د پریمیم سازمان مرسته
-       │ │ │
-       ├─────────────┼─────────────────
-       ▼ ▼ ▼
-   د مشارکت خدماتو ته وده ورکول
+                     â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+       â–¼ â–¼ â–¼
+   Ø¯ Ù¾Ø±ÛŒÙ…ÛŒÙ… Ø³Ø§Ø²Ù…Ø§Ù† Ù…Ø±Ø³ØªÙ‡
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+       â–¼ â–¼ â–¼
+   Ø¯ Ù…Ø´Ø§Ø±Ú©Øª Ø®Ø¯Ù…Ø§ØªÙˆ ØªÙ‡ ÙˆØ¯Ù‡ ÙˆØ±Ú©ÙˆÙ„
 ``
 
-#### 1 ستون - وړیا بنسټیز غړیتوب
-** Nexus Gaja Free:** په نړیوال تفاهم کې بنسټیز ګډون باید پدې پورې اړه ونلري چې ایا څوک پیسې لري. لاندې ممکن وړیا وړیا دي: شخصي پروفایل، نړیوالې اړیکې، مرستې، تبصرې، بنسټیز ژباړه، ټولنې، چیٹ، د رسنیو بنسټیز فعالیتونه.
+#### 1 Ø³ØªÙˆÙ† - ÙˆÚ“ÛŒØ§ Ø¨Ù†Ø³Ù¼ÛŒØ² ØºÚ“ÛŒØªÙˆØ¨
+** Nexus Gaja Free:** Ù¾Ù‡ Ù†Ú“ÛŒÙˆØ§Ù„ ØªÙØ§Ù‡Ù… Ú©Û Ø¨Ù†Ø³Ù¼ÛŒØ² Ú«Ú‰ÙˆÙ† Ø¨Ø§ÛŒØ¯ Ù¾Ø¯Û Ù¾ÙˆØ±Û Ø§Ú“Ù‡ ÙˆÙ†Ù„Ø±ÙŠ Ú†Û Ø§ÛŒØ§ Ú…ÙˆÚ© Ù¾ÛŒØ³Û Ù„Ø±ÙŠ. Ù„Ø§Ù†Ø¯Û Ù…Ù…Ú©Ù† ÙˆÚ“ÛŒØ§ ÙˆÚ“ÛŒØ§ Ø¯ÙŠ: Ø´Ø®ØµÙŠ Ù¾Ø±ÙˆÙØ§ÛŒÙ„ØŒ Ù†Ú“ÛŒÙˆØ§Ù„Û Ø§Ú“ÛŒÚ©ÛØŒ Ù…Ø±Ø³ØªÛØŒ ØªØ¨ØµØ±ÛØŒ Ø¨Ù†Ø³Ù¼ÛŒØ² Ú˜Ø¨Ø§Ú“Ù‡ØŒ Ù¼ÙˆÙ„Ù†ÛØŒ Ú†ÛŒÙ¹ØŒ Ø¯ Ø±Ø³Ù†ÛŒÙˆ Ø¨Ù†Ø³Ù¼ÛŒØ² ÙØ¹Ø§Ù„ÛŒØªÙˆÙ†Ù‡.
 
-#### 2 ستون - پریمیم وړاندیزونه
-داوطلبانه تادیه شوي وړاندیزونه (** Nexus Gaja Plus**). احتمالي ګټې: د ذخیره کولو لوی محدودیتونه، د رسنیو لوړ کیفیت، د اوږدې ویډیو لیږدونه، د ژباړې پراخې دندې، لویې ټولنې، اضافي سازماني دندې، د AI لوړې کوټې.
-** فریمیم - مګر "ډارک فریمیم" نه: ** وړیا نسخه په دقت سره کارول کیدی شي؛ پریمیم دا پراخوي.
+#### 2 Ø³ØªÙˆÙ† - Ù¾Ø±ÛŒÙ…ÛŒÙ… ÙˆÚ“Ø§Ù†Ø¯ÛŒØ²ÙˆÙ†Ù‡
+Ø¯Ø§ÙˆØ·Ù„Ø¨Ø§Ù†Ù‡ ØªØ§Ø¯ÛŒÙ‡ Ø´ÙˆÙŠ ÙˆÚ“Ø§Ù†Ø¯ÛŒØ²ÙˆÙ†Ù‡ (** Nexus Gaja Plus**). Ø§Ø­ØªÙ…Ø§Ù„ÙŠ Ú«Ù¼Û: Ø¯ Ø°Ø®ÛŒØ±Ù‡ Ú©ÙˆÙ„Ùˆ Ù„ÙˆÛŒ Ù…Ø­Ø¯ÙˆØ¯ÛŒØªÙˆÙ†Ù‡ØŒ Ø¯ Ø±Ø³Ù†ÛŒÙˆ Ù„ÙˆÚ“ Ú©ÛŒÙÛŒØªØŒ Ø¯ Ø§ÙˆÚ–Ø¯Û ÙˆÛŒÚ‰ÛŒÙˆ Ù„ÛŒÚ–Ø¯ÙˆÙ†Ù‡ØŒ Ø¯ Ú˜Ø¨Ø§Ú“Û Ù¾Ø±Ø§Ø®Û Ø¯Ù†Ø¯ÛØŒ Ù„ÙˆÛŒÛ Ù¼ÙˆÙ„Ù†ÛØŒ Ø§Ø¶Ø§ÙÙŠ Ø³Ø§Ø²Ù…Ø§Ù†ÙŠ Ø¯Ù†Ø¯ÛØŒ Ø¯ AI Ù„ÙˆÚ“Û Ú©ÙˆÙ¼Û.
+** ÙØ±ÛŒÙ…ÛŒÙ… - Ù…Ú«Ø± "Ú‰Ø§Ø±Ú© ÙØ±ÛŒÙ…ÛŒÙ…" Ù†Ù‡: ** ÙˆÚ“ÛŒØ§ Ù†Ø³Ø®Ù‡ Ù¾Ù‡ Ø¯Ù‚Øª Ø³Ø±Ù‡ Ú©Ø§Ø±ÙˆÙ„ Ú©ÛŒØ¯ÛŒ Ø´ÙŠØ› Ù¾Ø±ÛŒÙ…ÛŒÙ… Ø¯Ø§ Ù¾Ø±Ø§Ø®ÙˆÙŠ.
 
-#### دریم ستون – سازمانونه
-** د Nexus Gaja سازمان: ** د ښوونځیو، پوهنتونونو، کلبونو، نادولتي موسسو، شرکتونو، ښاروالیو او نورو لپاره ځانګړي حسابونه، د مرکزي سازماني حساب، د غړو مدیریت او اداري دندو سره. (مثال: یو ښوونځی د زده کونکو لاسرسی وړیا یا د اداری تعرفې له لارې ترلاسه کوي).
+#### Ø¯Ø±ÛŒÙ… Ø³ØªÙˆÙ† â€“ Ø³Ø§Ø²Ù…Ø§Ù†ÙˆÙ†Ù‡
+** Ø¯ Nexus Gaja Ø³Ø§Ø²Ù…Ø§Ù†: ** Ø¯ ÚšÙˆÙˆÙ†ÚÛŒÙˆØŒ Ù¾ÙˆÙ‡Ù†ØªÙˆÙ†ÙˆÙ†ÙˆØŒ Ú©Ù„Ø¨ÙˆÙ†ÙˆØŒ Ù†Ø§Ø¯ÙˆÙ„ØªÙŠ Ù…ÙˆØ³Ø³ÙˆØŒ Ø´Ø±Ú©ØªÙˆÙ†ÙˆØŒ ÚšØ§Ø±ÙˆØ§Ù„ÛŒÙˆ Ø§Ùˆ Ù†ÙˆØ±Ùˆ Ù„Ù¾Ø§Ø±Ù‡ ÚØ§Ù†Ú«Ú“ÙŠ Ø­Ø³Ø§Ø¨ÙˆÙ†Ù‡ØŒ Ø¯ Ù…Ø±Ú©Ø²ÙŠ Ø³Ø§Ø²Ù…Ø§Ù†ÙŠ Ø­Ø³Ø§Ø¨ØŒ Ø¯ ØºÚ“Ùˆ Ù…Ø¯ÛŒØ±ÛŒØª Ø§Ùˆ Ø§Ø¯Ø§Ø±ÙŠ Ø¯Ù†Ø¯Ùˆ Ø³Ø±Ù‡. (Ù…Ø«Ø§Ù„: ÛŒÙˆ ÚšÙˆÙˆÙ†ÚÛŒ Ø¯ Ø²Ø¯Ù‡ Ú©ÙˆÙ†Ú©Ùˆ Ù„Ø§Ø³Ø±Ø³ÛŒ ÙˆÚ“ÛŒØ§ ÛŒØ§ Ø¯ Ø§Ø¯Ø§Ø±ÛŒ ØªØ¹Ø±ÙÛ Ù„Ù‡ Ù„Ø§Ø±Û ØªØ±Ù„Ø§Ø³Ù‡ Ú©ÙˆÙŠ).
 
-#### څلورم ستون – بسپنه
-** د Nexus Gaja تمویل فنډ: ** بسپنه ورکوونکي کولی شي په خپله خوښه پیسې چمتو کړي (عمومي یا ځانګړي شوي بسپنې). 
-** تمویل حوض او تومبولا: ** وړیا یا تخفیف کارول د بسپنه پول څخه تمویل کیږي. د فنډ تخصیص لیجر د نښه کولو ډاډ ورکوي.
-متن
-بسپنه → هدف فنډ → د وړتیا انجن → وړیا لاسرسی / تخفیف / کوټه
+#### Ú…Ù„ÙˆØ±Ù… Ø³ØªÙˆÙ† â€“ Ø¨Ø³Ù¾Ù†Ù‡
+** Ø¯ Nexus Gaja ØªÙ…ÙˆÛŒÙ„ ÙÙ†Ú‰: ** Ø¨Ø³Ù¾Ù†Ù‡ ÙˆØ±Ú©ÙˆÙˆÙ†Ú©ÙŠ Ú©ÙˆÙ„ÛŒ Ø´ÙŠ Ù¾Ù‡ Ø®Ù¾Ù„Ù‡ Ø®ÙˆÚšÙ‡ Ù¾ÛŒØ³Û Ú†Ù…ØªÙˆ Ú©Ú“ÙŠ (Ø¹Ù…ÙˆÙ…ÙŠ ÛŒØ§ ÚØ§Ù†Ú«Ú“ÙŠ Ø´ÙˆÙŠ Ø¨Ø³Ù¾Ù†Û). 
+** ØªÙ…ÙˆÛŒÙ„ Ø­ÙˆØ¶ Ø§Ùˆ ØªÙˆÙ…Ø¨ÙˆÙ„Ø§: ** ÙˆÚ“ÛŒØ§ ÛŒØ§ ØªØ®ÙÛŒÙ Ú©Ø§Ø±ÙˆÙ„ Ø¯ Ø¨Ø³Ù¾Ù†Ù‡ Ù¾ÙˆÙ„ Ú…Ø®Ù‡ ØªÙ…ÙˆÛŒÙ„ Ú©ÛŒÚ–ÙŠ. Ø¯ ÙÙ†Ú‰ ØªØ®ØµÛŒØµ Ù„ÛŒØ¬Ø± Ø¯ Ù†ÚšÙ‡ Ú©ÙˆÙ„Ùˆ Ú‰Ø§Ú‰ ÙˆØ±Ú©ÙˆÙŠ.
+Ù…ØªÙ†
+Ø¨Ø³Ù¾Ù†Ù‡ â†’ Ù‡Ø¯Ù ÙÙ†Ú‰ â†’ Ø¯ ÙˆÚ“ØªÛŒØ§ Ø§Ù†Ø¬Ù† â†’ ÙˆÚ“ÛŒØ§ Ù„Ø§Ø³Ø±Ø³ÛŒ / ØªØ®ÙÛŒÙ / Ú©ÙˆÙ¼Ù‡
 ``
 
-#### پنځم ستون – اداری ملاتړ
-سپانسرونه: بنسټونه، کلتوري تمویل پروګرامونه، د دولت تمویل پروګرامونه.
-**NG-FIN-002 (خپلواکي): ** تمویل ممکن د Nexus Gaja په اړه اداری یا تخنیکي کنټرول ونلري.
+#### Ù¾Ù†ÚÙ… Ø³ØªÙˆÙ† â€“ Ø§Ø¯Ø§Ø±ÛŒ Ù…Ù„Ø§ØªÚ“
+Ø³Ù¾Ø§Ù†Ø³Ø±ÙˆÙ†Ù‡: Ø¨Ù†Ø³Ù¼ÙˆÙ†Ù‡ØŒ Ú©Ù„ØªÙˆØ±ÙŠ ØªÙ…ÙˆÛŒÙ„ Ù¾Ø±ÙˆÚ«Ø±Ø§Ù…ÙˆÙ†Ù‡ØŒ Ø¯ Ø¯ÙˆÙ„Øª ØªÙ…ÙˆÛŒÙ„ Ù¾Ø±ÙˆÚ«Ø±Ø§Ù…ÙˆÙ†Ù‡.
+**NG-FIN-002 (Ø®Ù¾Ù„ÙˆØ§Ú©ÙŠ): ** ØªÙ…ÙˆÛŒÙ„ Ù…Ù…Ú©Ù† Ø¯ Nexus Gaja Ù¾Ù‡ Ø§Ú“Ù‡ Ø§Ø¯Ø§Ø±ÛŒ ÛŒØ§ ØªØ®Ù†ÛŒÚ©ÙŠ Ú©Ù†Ù¼Ø±ÙˆÙ„ ÙˆÙ†Ù„Ø±ÙŠ.
 
-#### شپږم ستون – سوداګریز خدمتونه
-Nexus Gaja کولی شي د B2B خدمتونه وړاندې کړي لکه **ژباړه-A-Service (API)**، مسلکي ژباړه، سازماني ارتباط یا نړیوال کنفرانس خونه پرته له دې چې د اعلاناتو سره د عادي کاروونکي فیډ بار کړي.
+#### Ø´Ù¾Ú–Ù… Ø³ØªÙˆÙ† â€“ Ø³ÙˆØ¯Ø§Ú«Ø±ÛŒØ² Ø®Ø¯Ù…ØªÙˆÙ†Ù‡
+Nexus Gaja Ú©ÙˆÙ„ÛŒ Ø´ÙŠ Ø¯ B2B Ø®Ø¯Ù…ØªÙˆÙ†Ù‡ ÙˆÚ“Ø§Ù†Ø¯Û Ú©Ú“ÙŠ Ù„Ú©Ù‡ **Ú˜Ø¨Ø§Ú“Ù‡-A-Service (API)**ØŒ Ù…Ø³Ù„Ú©ÙŠ Ú˜Ø¨Ø§Ú“Ù‡ØŒ Ø³Ø§Ø²Ù…Ø§Ù†ÙŠ Ø§Ø±ØªØ¨Ø§Ø· ÛŒØ§ Ù†Ú“ÛŒÙˆØ§Ù„ Ú©Ù†ÙØ±Ø§Ù†Ø³ Ø®ÙˆÙ†Ù‡ Ù¾Ø±ØªÙ‡ Ù„Ù‡ Ø¯Û Ú†Û Ø¯ Ø§Ø¹Ù„Ø§Ù†Ø§ØªÙˆ Ø³Ø±Ù‡ Ø¯ Ø¹Ø§Ø¯ÙŠ Ú©Ø§Ø±ÙˆÙˆÙ†Ú©ÙŠ ÙÛŒÚ‰ Ø¨Ø§Ø± Ú©Ú“ÙŠ.
 
-### 4. نه د معلوماتو بازار موندنه او نه د "څارنې اقتصاد"
-**NG-FIN-003:** د کارونکي شخصي معلومات د Nexus Gaja توکي ندي. (د پروفایلونو، تاریخونو، پیژندنې ډاټا نه پلورل). 
-Nexus Gaja موخه دا نه ده چې د دې کاروونکو څخه ګټه پورته کړي چې څومره ممکنه وي او د رواني پلوه طبقه بندي شوي څومره چې ممکنه وي.
+### 4. Ù†Ù‡ Ø¯ Ù…Ø¹Ù„ÙˆÙ…Ø§ØªÙˆ Ø¨Ø§Ø²Ø§Ø± Ù…ÙˆÙ†Ø¯Ù†Ù‡ Ø§Ùˆ Ù†Ù‡ Ø¯ "Ú…Ø§Ø±Ù†Û Ø§Ù‚ØªØµØ§Ø¯"
+**NG-FIN-003:** Ø¯ Ú©Ø§Ø±ÙˆÙ†Ú©ÙŠ Ø´Ø®ØµÙŠ Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø¯ Nexus Gaja ØªÙˆÚ©ÙŠ Ù†Ø¯ÙŠ. (Ø¯ Ù¾Ø±ÙˆÙØ§ÛŒÙ„ÙˆÙ†ÙˆØŒ ØªØ§Ø±ÛŒØ®ÙˆÙ†ÙˆØŒ Ù¾ÛŒÚ˜Ù†Ø¯Ù†Û Ú‰Ø§Ù¼Ø§ Ù†Ù‡ Ù¾Ù„ÙˆØ±Ù„). 
+Nexus Gaja Ù…ÙˆØ®Ù‡ Ø¯Ø§ Ù†Ù‡ Ø¯Ù‡ Ú†Û Ø¯ Ø¯Û Ú©Ø§Ø±ÙˆÙˆÙ†Ú©Ùˆ Ú…Ø®Ù‡ Ú«Ù¼Ù‡ Ù¾ÙˆØ±ØªÙ‡ Ú©Ú“ÙŠ Ú†Û Ú…ÙˆÙ…Ø±Ù‡ Ù…Ù…Ú©Ù†Ù‡ ÙˆÙŠ Ø§Ùˆ Ø¯ Ø±ÙˆØ§Ù†ÙŠ Ù¾Ù„ÙˆÙ‡ Ø·Ø¨Ù‚Ù‡ Ø¨Ù†Ø¯ÙŠ Ø´ÙˆÙŠ Ú…ÙˆÙ…Ø±Ù‡ Ú†Û Ù…Ù…Ú©Ù†Ù‡ ÙˆÙŠ.
 
-### 5. مالي شفافیت
-د Nexus Gaja مالي شفافیت: عاید د کټګوریو، د بسپنې حجم، عملیاتي لګښتونو، او داسې نورو سره سم خپور کیدی شي. 
-** د تمویل حساب: ** بسپنې د یو ځانګړي هدف لپاره ټاکل شوي د پوهیدو وړ محاسبې کې ثبت شوي ( بسپنه → فنډ ID → هدف → شته بیلانس → تخصیص). د روڼتیا پرته هیڅ کراس سبسایډي شتون نلري.
+### 5. Ù…Ø§Ù„ÙŠ Ø´ÙØ§ÙÛŒØª
+Ø¯ Nexus Gaja Ù…Ø§Ù„ÙŠ Ø´ÙØ§ÙÛŒØª: Ø¹Ø§ÛŒØ¯ Ø¯ Ú©Ù¼Ú«ÙˆØ±ÛŒÙˆØŒ Ø¯ Ø¨Ø³Ù¾Ù†Û Ø­Ø¬Ù…ØŒ Ø¹Ù…Ù„ÛŒØ§ØªÙŠ Ù„Ú«ÚšØªÙˆÙ†ÙˆØŒ Ø§Ùˆ Ø¯Ø§Ø³Û Ù†ÙˆØ±Ùˆ Ø³Ø±Ù‡ Ø³Ù… Ø®Ù¾ÙˆØ± Ú©ÛŒØ¯ÛŒ Ø´ÙŠ. 
+** Ø¯ ØªÙ…ÙˆÛŒÙ„ Ø­Ø³Ø§Ø¨: ** Ø¨Ø³Ù¾Ù†Û Ø¯ ÛŒÙˆ ÚØ§Ù†Ú«Ú“ÙŠ Ù‡Ø¯Ù Ù„Ù¾Ø§Ø±Ù‡ Ù¼Ø§Ú©Ù„ Ø´ÙˆÙŠ Ø¯ Ù¾ÙˆÙ‡ÛŒØ¯Ùˆ ÙˆÚ“ Ù…Ø­Ø§Ø³Ø¨Û Ú©Û Ø«Ø¨Øª Ø´ÙˆÙŠ ( Ø¨Ø³Ù¾Ù†Ù‡ â†’ ÙÙ†Ú‰ ID â†’ Ù‡Ø¯Ù â†’ Ø´ØªÙ‡ Ø¨ÛŒÙ„Ø§Ù†Ø³ â†’ ØªØ®ØµÛŒØµ). Ø¯ Ø±ÙˆÚ¼ØªÛŒØ§ Ù¾Ø±ØªÙ‡ Ù‡ÛŒÚ… Ú©Ø±Ø§Ø³ Ø³Ø¨Ø³Ø§ÛŒÚ‰ÙŠ Ø´ØªÙˆÙ† Ù†Ù„Ø±ÙŠ.
 
-### 6. د قیمت او پیوستون تمویل ماډل
-نرخونه د دې پر بنسټ دي: د لګښت تعقیب، عادلانه او پیوستون.
-** د پیوستون پریمیم: ** یو پریمیم کارونکی کولی شي په داوطلبانه ډول غوره کړي: "زه د بل کارونکي لاسرسي برخه تمویل کوم." جبري پیوستون یا د پریمیم طبقې ټولنه (د وړیا کاروونکو لپاره لږ درناوی یا بد اعتدال) خارج شوی.
+### 6. Ø¯ Ù‚ÛŒÙ…Øª Ø§Ùˆ Ù¾ÛŒÙˆØ³ØªÙˆÙ† ØªÙ…ÙˆÛŒÙ„ Ù…Ø§Ú‰Ù„
+Ù†Ø±Ø®ÙˆÙ†Ù‡ Ø¯ Ø¯Û Ù¾Ø± Ø¨Ù†Ø³Ù¼ Ø¯ÙŠ: Ø¯ Ù„Ú«ÚšØª ØªØ¹Ù‚ÛŒØ¨ØŒ Ø¹Ø§Ø¯Ù„Ø§Ù†Ù‡ Ø§Ùˆ Ù¾ÛŒÙˆØ³ØªÙˆÙ†.
+** Ø¯ Ù¾ÛŒÙˆØ³ØªÙˆÙ† Ù¾Ø±ÛŒÙ…ÛŒÙ…: ** ÛŒÙˆ Ù¾Ø±ÛŒÙ…ÛŒÙ… Ú©Ø§Ø±ÙˆÙ†Ú©ÛŒ Ú©ÙˆÙ„ÛŒ Ø´ÙŠ Ù¾Ù‡ Ø¯Ø§ÙˆØ·Ù„Ø¨Ø§Ù†Ù‡ Ú‰ÙˆÙ„ ØºÙˆØ±Ù‡ Ú©Ú“ÙŠ: "Ø²Ù‡ Ø¯ Ø¨Ù„ Ú©Ø§Ø±ÙˆÙ†Ú©ÙŠ Ù„Ø§Ø³Ø±Ø³ÙŠ Ø¨Ø±Ø®Ù‡ ØªÙ…ÙˆÛŒÙ„ Ú©ÙˆÙ…." Ø¬Ø¨Ø±ÙŠ Ù¾ÛŒÙˆØ³ØªÙˆÙ† ÛŒØ§ Ø¯ Ù¾Ø±ÛŒÙ…ÛŒÙ… Ø·Ø¨Ù‚Û Ù¼ÙˆÙ„Ù†Ù‡ (Ø¯ ÙˆÚ“ÛŒØ§ Ú©Ø§Ø±ÙˆÙˆÙ†Ú©Ùˆ Ù„Ù¾Ø§Ø±Ù‡ Ù„Ú– Ø¯Ø±Ù†Ø§ÙˆÛŒ ÛŒØ§ Ø¨Ø¯ Ø§Ø¹ØªØ¯Ø§Ù„) Ø®Ø§Ø±Ø¬ Ø´ÙˆÛŒ.
 
-### 7. اقتصادي KPI
-موږ په نه ختمیدونکي آنلاین وخت پورې تړلي نه یو (هیڅ د لاسوهنې ښکیلتیا اقتصاد). زموږ KPIs:
-- **د نړۍ د مخابراتو شاخص (GCI):** د مختلفو ژبنیو او کلتوري سیمو د خلکو تر منځ څومره بریالي ارتباطي اړیکې رامنځ ته کیږي؟
-- **د پلیټ فارم پایښت نسبت (PSR):** تکراري عواید / تکراري عملیاتي لګښتونه (هدف: PSR ≥ 1).
+### 7. Ø§Ù‚ØªØµØ§Ø¯ÙŠ KPI
+Ù…ÙˆÚ– Ù¾Ù‡ Ù†Ù‡ Ø®ØªÙ…ÛŒØ¯ÙˆÙ†Ú©ÙŠ Ø¢Ù†Ù„Ø§ÛŒÙ† ÙˆØ®Øª Ù¾ÙˆØ±Û ØªÚ“Ù„ÙŠ Ù†Ù‡ ÛŒÙˆ (Ù‡ÛŒÚ… Ø¯ Ù„Ø§Ø³ÙˆÙ‡Ù†Û ÚšÚ©ÛŒÙ„ØªÛŒØ§ Ø§Ù‚ØªØµØ§Ø¯). Ø²Ù…ÙˆÚ– KPIs:
+- **Ø¯ Ù†Ú“Û Ø¯ Ù…Ø®Ø§Ø¨Ø±Ø§ØªÙˆ Ø´Ø§Ø®Øµ (GCI):** Ø¯ Ù…Ø®ØªÙ„ÙÙˆ Ú˜Ø¨Ù†ÛŒÙˆ Ø§Ùˆ Ú©Ù„ØªÙˆØ±ÙŠ Ø³ÛŒÙ…Ùˆ Ø¯ Ø®Ù„Ú©Ùˆ ØªØ± Ù…Ù†Ú Ú…ÙˆÙ…Ø±Ù‡ Ø¨Ø±ÛŒØ§Ù„ÙŠ Ø§Ø±ØªØ¨Ø§Ø·ÙŠ Ø§Ú“ÛŒÚ©Û Ø±Ø§Ù…Ù†Ú ØªÙ‡ Ú©ÛŒÚ–ÙŠØŸ
+- **Ø¯ Ù¾Ù„ÛŒÙ¼ ÙØ§Ø±Ù… Ù¾Ø§ÛŒÚšØª Ù†Ø³Ø¨Øª (PSR):** ØªÚ©Ø±Ø§Ø±ÙŠ Ø¹ÙˆØ§ÛŒØ¯ / ØªÚ©Ø±Ø§Ø±ÙŠ Ø¹Ù…Ù„ÛŒØ§ØªÙŠ Ù„Ú«ÚšØªÙˆÙ†Ù‡ (Ù‡Ø¯Ù: PSR â‰¥ 1).
 
-### 8. هغه څه چې موږ یې په ښکاره ډول نه غواړو
-Nexus Gaja د دې لخوا تمویل شوی نه دی:
-❌ د شخصي معلوماتو پلور
-❌ شخصي شوي کلاسیک اعلانونه
-❌ د اعلاناتو موخو لپاره د کاروونکي چلند څارنه
-❌ د شخصي مخابراتو ډیټا پلورل
-❌ پټ AI ډیټا کارول
-❌ لاسوهنې پریمیم لاکونه
-❌ د پیسو مینځلو لپاره مصنوعي لاسرسي محدودیت
-❌ د پیسو سیاسي نفوذ
-❌ د اختصاصي اعتدال پریکړې پیرود.
+### 8. Ù‡ØºÙ‡ Ú…Ù‡ Ú†Û Ù…ÙˆÚ– ÛŒÛ Ù¾Ù‡ ÚšÚ©Ø§Ø±Ù‡ Ú‰ÙˆÙ„ Ù†Ù‡ ØºÙˆØ§Ú“Ùˆ
+Nexus Gaja Ø¯ Ø¯Û Ù„Ø®ÙˆØ§ ØªÙ…ÙˆÛŒÙ„ Ø´ÙˆÛŒ Ù†Ù‡ Ø¯ÛŒ:
+âŒ Ø¯ Ø´Ø®ØµÙŠ Ù…Ø¹Ù„ÙˆÙ…Ø§ØªÙˆ Ù¾Ù„ÙˆØ±
+âŒ Ø´Ø®ØµÙŠ Ø´ÙˆÙŠ Ú©Ù„Ø§Ø³ÛŒÚ© Ø§Ø¹Ù„Ø§Ù†ÙˆÙ†Ù‡
+âŒ Ø¯ Ø§Ø¹Ù„Ø§Ù†Ø§ØªÙˆ Ù…ÙˆØ®Ùˆ Ù„Ù¾Ø§Ø±Ù‡ Ø¯ Ú©Ø§Ø±ÙˆÙˆÙ†Ú©ÙŠ Ú†Ù„Ù†Ø¯ Ú…Ø§Ø±Ù†Ù‡
+âŒ Ø¯ Ø´Ø®ØµÙŠ Ù…Ø®Ø§Ø¨Ø±Ø§ØªÙˆ Ú‰ÛŒÙ¼Ø§ Ù¾Ù„ÙˆØ±Ù„
+âŒ Ù¾Ù¼ AI Ú‰ÛŒÙ¼Ø§ Ú©Ø§Ø±ÙˆÙ„
+âŒ Ù„Ø§Ø³ÙˆÙ‡Ù†Û Ù¾Ø±ÛŒÙ…ÛŒÙ… Ù„Ø§Ú©ÙˆÙ†Ù‡
+âŒ Ø¯ Ù¾ÛŒØ³Ùˆ Ù…ÛŒÙ†ÚÙ„Ùˆ Ù„Ù¾Ø§Ø±Ù‡ Ù…ØµÙ†ÙˆØ¹ÙŠ Ù„Ø§Ø³Ø±Ø³ÙŠ Ù…Ø­Ø¯ÙˆØ¯ÛŒØª
+âŒ Ø¯ Ù¾ÛŒØ³Ùˆ Ø³ÛŒØ§Ø³ÙŠ Ù†ÙÙˆØ°
+âŒ Ø¯ Ø§Ø®ØªØµØ§ØµÙŠ Ø§Ø¹ØªØ¯Ø§Ù„ Ù¾Ø±ÛŒÚ©Ú“Û Ù¾ÛŒØ±ÙˆØ¯.
 
-### 9. لومړنۍ معمارۍ
-متن
+### 9. Ù„ÙˆÙ…Ú“Ù†Û Ù…Ø¹Ù…Ø§Ø±Û
+Ù…ØªÙ†
                          NEXUS GAJA
-                              │
-             ┌────────────────┼───────────────────
-             │ │ │
-             ▼ ▼ ▼
-          د کاروونکو سازمانونو تصدۍ
-             │ │ │
-             └────────────────┼──────────────────
-                              │
-                       د پلیټ فارم خدمتونه
-                              │
-          ┌─────────────────── ┼───────────────────┐
-          ▼ ▼ ▼
-       د پریمیم ډونیشن API
-                              │
-                    ┌─────────┴─────────┐
-                    ▼ ▼
-               عمومي فنډ محدود شوي فنډونه
-                                        │
-                                        ▼
-                                  ټولنیز هدف
+                              â”‚
+             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+             â”‚ â”‚ â”‚
+             â–¼ â–¼ â–¼
+          Ø¯ Ú©Ø§Ø±ÙˆÙˆÙ†Ú©Ùˆ Ø³Ø§Ø²Ù…Ø§Ù†ÙˆÙ†Ùˆ ØªØµØ¯Û
+             â”‚ â”‚ â”‚
+             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+                              â”‚
+                       Ø¯ Ù¾Ù„ÛŒÙ¼ ÙØ§Ø±Ù… Ø®Ø¯Ù…ØªÙˆÙ†Ù‡
+                              â”‚
+          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+          â–¼ â–¼ â–¼
+       Ø¯ Ù¾Ø±ÛŒÙ…ÛŒÙ… Ú‰ÙˆÙ†ÛŒØ´Ù† API
+                              â”‚
+                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+                    â–¼ â–¼
+               Ø¹Ù…ÙˆÙ…ÙŠ ÙÙ†Ú‰ Ù…Ø­Ø¯ÙˆØ¯ Ø´ÙˆÙŠ ÙÙ†Ú‰ÙˆÙ†Ù‡
+                                        â”‚
+                                        â–¼
+                                  Ù¼ÙˆÙ„Ù†ÛŒØ² Ù‡Ø¯Ù
 ``
 
-### لنډیز: د مالي اصولو (NG-FIN)
-- **NG-FIN-001:** Nexus Gaja د دودیزو اعلاناتو لخوا تمویل نه کیږي.
-- **NG-FIN-002:** مالي ملاتړ په اعتدال یا حکومتدارۍ اغیزه نه کوي.
-- **NG-FIN-003:** د شخصي کارونکي ډیټا یو شی نه دی.
-- **NG-FIN-004:** د نړیوالو اړیکو بنسټیز فعالیت باید د تادیې پرته د لاسرسي وړ وي.
-- **NG-FIN-005:** پریمیم وړاندیزونه د خدماتو ساحه پراخه کوي، مګر باید د وړیا کاروونکو وقار او د مخابراتو لومړني اختیارونه خراب نه کړي.
-- **NG-FIN-006:** ټاکل شوي فنډونه د یو ځانګړي هدف لپاره اداره کیږي.
-- **NG-FIN-007:** بسپنه او تمویل په شفاف او درک سره اداره کیږي.
-- **NG-FIN-008:** سوداګریز خدمتونه باید د پلیټ فارم خپلواکي اغیزه ونکړي.
-- **NG-FIN-009:** د Nexus Gaja اقتصادي پرمختګ باید د اوږدمهاله پایښت هدف وي نه د اعظمي کاروونکو پیسو مینځ ته کول.
-- **NG-FIN-010:** اقتصادي جوړښت باید د تل لپاره ټولنیز هدف فعال کړي - نړیوال تفاهم، نړیواله اړیکه او د خلکو ترمنځ ملګرتیا.
+### Ù„Ù†Ú‰ÛŒØ²: Ø¯ Ù…Ø§Ù„ÙŠ Ø§ØµÙˆÙ„Ùˆ (NG-FIN)
+- **NG-FIN-001:** Nexus Gaja Ø¯ Ø¯ÙˆØ¯ÛŒØ²Ùˆ Ø§Ø¹Ù„Ø§Ù†Ø§ØªÙˆ Ù„Ø®ÙˆØ§ ØªÙ…ÙˆÛŒÙ„ Ù†Ù‡ Ú©ÛŒÚ–ÙŠ.
+- **NG-FIN-002:** Ù…Ø§Ù„ÙŠ Ù…Ù„Ø§ØªÚ“ Ù¾Ù‡ Ø§Ø¹ØªØ¯Ø§Ù„ ÛŒØ§ Ø­Ú©ÙˆÙ…ØªØ¯Ø§Ø±Û Ø§ØºÛŒØ²Ù‡ Ù†Ù‡ Ú©ÙˆÙŠ.
+- **NG-FIN-003:** Ø¯ Ø´Ø®ØµÙŠ Ú©Ø§Ø±ÙˆÙ†Ú©ÙŠ Ú‰ÛŒÙ¼Ø§ ÛŒÙˆ Ø´ÛŒ Ù†Ù‡ Ø¯ÛŒ.
+- **NG-FIN-004:** Ø¯ Ù†Ú“ÛŒÙˆØ§Ù„Ùˆ Ø§Ú“ÛŒÚ©Ùˆ Ø¨Ù†Ø³Ù¼ÛŒØ² ÙØ¹Ø§Ù„ÛŒØª Ø¨Ø§ÛŒØ¯ Ø¯ ØªØ§Ø¯ÛŒÛ Ù¾Ø±ØªÙ‡ Ø¯ Ù„Ø§Ø³Ø±Ø³ÙŠ ÙˆÚ“ ÙˆÙŠ.
+- **NG-FIN-005:** Ù¾Ø±ÛŒÙ…ÛŒÙ… ÙˆÚ“Ø§Ù†Ø¯ÛŒØ²ÙˆÙ†Ù‡ Ø¯ Ø®Ø¯Ù…Ø§ØªÙˆ Ø³Ø§Ø­Ù‡ Ù¾Ø±Ø§Ø®Ù‡ Ú©ÙˆÙŠØŒ Ù…Ú«Ø± Ø¨Ø§ÛŒØ¯ Ø¯ ÙˆÚ“ÛŒØ§ Ú©Ø§Ø±ÙˆÙˆÙ†Ú©Ùˆ ÙˆÙ‚Ø§Ø± Ø§Ùˆ Ø¯ Ù…Ø®Ø§Ø¨Ø±Ø§ØªÙˆ Ù„ÙˆÙ…Ú“Ù†ÙŠ Ø§Ø®ØªÛŒØ§Ø±ÙˆÙ†Ù‡ Ø®Ø±Ø§Ø¨ Ù†Ù‡ Ú©Ú“ÙŠ.
+- **NG-FIN-006:** Ù¼Ø§Ú©Ù„ Ø´ÙˆÙŠ ÙÙ†Ú‰ÙˆÙ†Ù‡ Ø¯ ÛŒÙˆ ÚØ§Ù†Ú«Ú“ÙŠ Ù‡Ø¯Ù Ù„Ù¾Ø§Ø±Ù‡ Ø§Ø¯Ø§Ø±Ù‡ Ú©ÛŒÚ–ÙŠ.
+- **NG-FIN-007:** Ø¨Ø³Ù¾Ù†Ù‡ Ø§Ùˆ ØªÙ…ÙˆÛŒÙ„ Ù¾Ù‡ Ø´ÙØ§Ù Ø§Ùˆ Ø¯Ø±Ú© Ø³Ø±Ù‡ Ø§Ø¯Ø§Ø±Ù‡ Ú©ÛŒÚ–ÙŠ.
+- **NG-FIN-008:** Ø³ÙˆØ¯Ø§Ú«Ø±ÛŒØ² Ø®Ø¯Ù…ØªÙˆÙ†Ù‡ Ø¨Ø§ÛŒØ¯ Ø¯ Ù¾Ù„ÛŒÙ¼ ÙØ§Ø±Ù… Ø®Ù¾Ù„ÙˆØ§Ú©ÙŠ Ø§ØºÛŒØ²Ù‡ ÙˆÙ†Ú©Ú“ÙŠ.
+- **NG-FIN-009:** Ø¯ Nexus Gaja Ø§Ù‚ØªØµØ§Ø¯ÙŠ Ù¾Ø±Ù…Ø®ØªÚ« Ø¨Ø§ÛŒØ¯ Ø¯ Ø§ÙˆÚ–Ø¯Ù…Ù‡Ø§Ù„Ù‡ Ù¾Ø§ÛŒÚšØª Ù‡Ø¯Ù ÙˆÙŠ Ù†Ù‡ Ø¯ Ø§Ø¹Ø¸Ù…ÙŠ Ú©Ø§Ø±ÙˆÙˆÙ†Ú©Ùˆ Ù¾ÛŒØ³Ùˆ Ù…ÛŒÙ†Ú ØªÙ‡ Ú©ÙˆÙ„.
+- **NG-FIN-010:** Ø§Ù‚ØªØµØ§Ø¯ÙŠ Ø¬ÙˆÚ“ÚšØª Ø¨Ø§ÛŒØ¯ Ø¯ ØªÙ„ Ù„Ù¾Ø§Ø±Ù‡ Ù¼ÙˆÙ„Ù†ÛŒØ² Ù‡Ø¯Ù ÙØ¹Ø§Ù„ Ú©Ú“ÙŠ - Ù†Ú“ÛŒÙˆØ§Ù„ ØªÙØ§Ù‡Ù…ØŒ Ù†Ú“ÛŒÙˆØ§Ù„Ù‡ Ø§Ú“ÛŒÚ©Ù‡ Ø§Ùˆ Ø¯ Ø®Ù„Ú©Ùˆ ØªØ±Ù…Ù†Ú Ù…Ù„Ú«Ø±ØªÛŒØ§.
 
-## API، انٹرفیس او ارتباطي جوړښت (WP 1.11.3)
+## APIØŒ Ø§Ù†Ù¹Ø±ÙÛŒØ³ Ø§Ùˆ Ø§Ø±ØªØ¨Ø§Ø·ÙŠ Ø¬ÙˆÚ“ÚšØª (WP 1.11.3)
 
-د سیسټم ثبات، امنیت او پیمانه کولو ډاډ ترلاسه کولو لپاره، Nexus Gaja په کلکه د API پر بنسټ او د پیښې پرمخ وړل شوي جوړښت تعقیبوي.
+Ø¯ Ø³ÛŒØ³Ù¼Ù… Ø«Ø¨Ø§ØªØŒ Ø§Ù…Ù†ÛŒØª Ø§Ùˆ Ù¾ÛŒÙ…Ø§Ù†Ù‡ Ú©ÙˆÙ„Ùˆ Ú‰Ø§Ú‰ ØªØ±Ù„Ø§Ø³Ù‡ Ú©ÙˆÙ„Ùˆ Ù„Ù¾Ø§Ø±Ù‡ØŒ Nexus Gaja Ù¾Ù‡ Ú©Ù„Ú©Ù‡ Ø¯ API Ù¾Ø± Ø¨Ù†Ø³Ù¼ Ø§Ùˆ Ø¯ Ù¾ÛŒÚšÛ Ù¾Ø±Ù…Ø® ÙˆÚ“Ù„ Ø´ÙˆÙŠ Ø¬ÙˆÚ“ÚšØª ØªØ¹Ù‚ÛŒØ¨ÙˆÙŠ.
 
-### اساسی اصول
-- **مستقیم ډیټابیس ته لاسرسی نشته:** اجزا په ځانګړي ډول د ټاکل شوي انٹرفیس (APIs یا پیښو) له لارې اړیکه نیسي ، هیڅکله د نورو خدماتو څخه د مستقیم ډیټابیس پوښتنو له لارې نه.
-- **API ګیټ وے: ** ټولې بهرنۍ پیرودونکي غوښتنې د API ګیټ وے له لارې تیریږي چې تصدیق ، روټینګ او نرخ محدودیت اداره کوي.
-- **د چمتو کونکي خلاصون:** بهرني خدمتونه (AI ماډلونه، د تادیې چمتو کونکي، د ژباړې انجنونه) د خلاصون پرتونو له لارې مدغم شوي. دا د سخت تار انحصار مخه نیسي او د انعطاف وړ چمتو کونکي سویچ کولو ته اجازه ورکوي.
+### Ø§Ø³Ø§Ø³ÛŒ Ø§ØµÙˆÙ„
+- **Ù…Ø³ØªÙ‚ÛŒÙ… Ú‰ÛŒÙ¼Ø§Ø¨ÛŒØ³ ØªÙ‡ Ù„Ø§Ø³Ø±Ø³ÛŒ Ù†Ø´ØªÙ‡:** Ø§Ø¬Ø²Ø§ Ù¾Ù‡ ÚØ§Ù†Ú«Ú“ÙŠ Ú‰ÙˆÙ„ Ø¯ Ù¼Ø§Ú©Ù„ Ø´ÙˆÙŠ Ø§Ù†Ù¹Ø±ÙÛŒØ³ (APIs ÛŒØ§ Ù¾ÛŒÚšÙˆ) Ù„Ù‡ Ù„Ø§Ø±Û Ø§Ú“ÛŒÚ©Ù‡ Ù†ÛŒØ³ÙŠ ØŒ Ù‡ÛŒÚ…Ú©Ù„Ù‡ Ø¯ Ù†ÙˆØ±Ùˆ Ø®Ø¯Ù…Ø§ØªÙˆ Ú…Ø®Ù‡ Ø¯ Ù…Ø³ØªÙ‚ÛŒÙ… Ú‰ÛŒÙ¼Ø§Ø¨ÛŒØ³ Ù¾ÙˆÚšØªÙ†Ùˆ Ù„Ù‡ Ù„Ø§Ø±Û Ù†Ù‡.
+- **API Ú«ÛŒÙ¼ ÙˆÛ’: ** Ù¼ÙˆÙ„Û Ø¨Ù‡Ø±Ù†Û Ù¾ÛŒØ±ÙˆØ¯ÙˆÙ†Ú©ÙŠ ØºÙˆÚšØªÙ†Û Ø¯ API Ú«ÛŒÙ¼ ÙˆÛ’ Ù„Ù‡ Ù„Ø§Ø±Û ØªÛŒØ±ÛŒÚ–ÙŠ Ú†Û ØªØµØ¯ÛŒÙ‚ ØŒ Ø±ÙˆÙ¼ÛŒÙ†Ú« Ø§Ùˆ Ù†Ø±Ø® Ù…Ø­Ø¯ÙˆØ¯ÛŒØª Ø§Ø¯Ø§Ø±Ù‡ Ú©ÙˆÙŠ.
+- **Ø¯ Ú†Ù…ØªÙˆ Ú©ÙˆÙ†Ú©ÙŠ Ø®Ù„Ø§ØµÙˆÙ†:** Ø¨Ù‡Ø±Ù†ÙŠ Ø®Ø¯Ù…ØªÙˆÙ†Ù‡ (AI Ù…Ø§Ú‰Ù„ÙˆÙ†Ù‡ØŒ Ø¯ ØªØ§Ø¯ÛŒÛ Ú†Ù…ØªÙˆ Ú©ÙˆÙ†Ú©ÙŠØŒ Ø¯ Ú˜Ø¨Ø§Ú“Û Ø§Ù†Ø¬Ù†ÙˆÙ†Ù‡) Ø¯ Ø®Ù„Ø§ØµÙˆÙ† Ù¾Ø±ØªÙˆÙ†Ùˆ Ù„Ù‡ Ù„Ø§Ø±Û Ù…Ø¯ØºÙ… Ø´ÙˆÙŠ. Ø¯Ø§ Ø¯ Ø³Ø®Øª ØªØ§Ø± Ø§Ù†Ø­ØµØ§Ø± Ù…Ø®Ù‡ Ù†ÛŒØ³ÙŠ Ø§Ùˆ Ø¯ Ø§Ù†Ø¹Ø·Ø§Ù ÙˆÚ“ Ú†Ù…ØªÙˆ Ú©ÙˆÙ†Ú©ÙŠ Ø³ÙˆÛŒÚ† Ú©ÙˆÙ„Ùˆ ØªÙ‡ Ø§Ø¬Ø§Ø²Ù‡ ÙˆØ±Ú©ÙˆÙŠ.
 
-### د مخابراتو نمونې
-- ** همغږي APIs (REST/HTTPS):** د سمدستي غوښتنو لپاره کارول کیږي لکه ننوتل، د پروفایل ترتیبات یا مستقیم ژباړې.
-- **اسینکرونس پیښې (ایونټ بس):** د Nexus Gaja مرکزي عصبي سیسټم د ډیپل شوي پروسو لپاره (د مثال په توګه 'پیغام. جوړ شوی' په غیر متقابل ډول اعتدال ، ژباړه او خبرتیا رامینځته کوي).
-- **ریښتیني وخت (ویب ساکټ):** د ژوندی خبرو او ټایپ کولو حالت لپاره وقف شوي چینلونه.
+### Ø¯ Ù…Ø®Ø§Ø¨Ø±Ø§ØªÙˆ Ù†Ù…ÙˆÙ†Û
+- ** Ù‡Ù…ØºÚ–ÙŠ APIs (REST/HTTPS):** Ø¯ Ø³Ù…Ø¯Ø³ØªÙŠ ØºÙˆÚšØªÙ†Ùˆ Ù„Ù¾Ø§Ø±Ù‡ Ú©Ø§Ø±ÙˆÙ„ Ú©ÛŒÚ–ÙŠ Ù„Ú©Ù‡ Ù†Ù†ÙˆØªÙ„ØŒ Ø¯ Ù¾Ø±ÙˆÙØ§ÛŒÙ„ ØªØ±ØªÛŒØ¨Ø§Øª ÛŒØ§ Ù…Ø³ØªÙ‚ÛŒÙ… Ú˜Ø¨Ø§Ú“Û.
+- **Ø§Ø³ÛŒÙ†Ú©Ø±ÙˆÙ†Ø³ Ù¾ÛŒÚšÛ (Ø§ÛŒÙˆÙ†Ù¼ Ø¨Ø³):** Ø¯ Nexus Gaja Ù…Ø±Ú©Ø²ÙŠ Ø¹ØµØ¨ÙŠ Ø³ÛŒØ³Ù¼Ù… Ø¯ Ú‰ÛŒÙ¾Ù„ Ø´ÙˆÙŠ Ù¾Ø±ÙˆØ³Ùˆ Ù„Ù¾Ø§Ø±Ù‡ (Ø¯ Ù…Ø«Ø§Ù„ Ù¾Ù‡ ØªÙˆÚ«Ù‡ 'Ù¾ÛŒØºØ§Ù…. Ø¬ÙˆÚ“ Ø´ÙˆÛŒ' Ù¾Ù‡ ØºÛŒØ± Ù…ØªÙ‚Ø§Ø¨Ù„ Ú‰ÙˆÙ„ Ø§Ø¹ØªØ¯Ø§Ù„ ØŒ Ú˜Ø¨Ø§Ú“Ù‡ Ø§Ùˆ Ø®Ø¨Ø±ØªÛŒØ§ Ø±Ø§Ù…ÛŒÙ†ÚØªÙ‡ Ú©ÙˆÙŠ).
+- **Ø±ÛŒÚšØªÛŒÙ†ÙŠ ÙˆØ®Øª (ÙˆÛŒØ¨ Ø³Ø§Ú©Ù¼):** Ø¯ Ú˜ÙˆÙ†Ø¯ÛŒ Ø®Ø¨Ø±Ùˆ Ø§Ùˆ Ù¼Ø§ÛŒÙ¾ Ú©ÙˆÙ„Ùˆ Ø­Ø§Ù„Øª Ù„Ù¾Ø§Ø±Ù‡ ÙˆÙ‚Ù Ø´ÙˆÙŠ Ú†ÛŒÙ†Ù„ÙˆÙ†Ù‡.
 
-### امنیت او اعتبار
-- ** د صفر اعتماد ماډل: ** د داخلي شبکې ترافیک په اوتومات ډول اعتبار نلري؛ حساس خدمت څخه تر خدمت پورې ارتباط تصدیق ته اړتیا لري.
-- **Idempotence & Outbox Pattern:** مهم عملیات (لکه بسپنه یا پیغامونه) د دې لپاره ډیزاین شوي چې د ډیری پروسس کولو مخه ونیسي او د آوټ باکس نمونه وکاروئ ترڅو ډاډ ترلاسه شي چې پیښې حتی د ډیټابیس لیږدونو کې له لاسه نه ورکول کیږي.
+### Ø§Ù…Ù†ÛŒØª Ø§Ùˆ Ø§Ø¹ØªØ¨Ø§Ø±
+- ** Ø¯ ØµÙØ± Ø§Ø¹ØªÙ…Ø§Ø¯ Ù…Ø§Ú‰Ù„: ** Ø¯ Ø¯Ø§Ø®Ù„ÙŠ Ø´Ø¨Ú©Û ØªØ±Ø§ÙÛŒÚ© Ù¾Ù‡ Ø§ÙˆØªÙˆÙ…Ø§Øª Ú‰ÙˆÙ„ Ø§Ø¹ØªØ¨Ø§Ø± Ù†Ù„Ø±ÙŠØ› Ø­Ø³Ø§Ø³ Ø®Ø¯Ù…Øª Ú…Ø®Ù‡ ØªØ± Ø®Ø¯Ù…Øª Ù¾ÙˆØ±Û Ø§Ø±ØªØ¨Ø§Ø· ØªØµØ¯ÛŒÙ‚ ØªÙ‡ Ø§Ú“ØªÛŒØ§ Ù„Ø±ÙŠ.
+- **Idempotence & Outbox Pattern:** Ù…Ù‡Ù… Ø¹Ù…Ù„ÛŒØ§Øª (Ù„Ú©Ù‡ Ø¨Ø³Ù¾Ù†Ù‡ ÛŒØ§ Ù¾ÛŒØºØ§Ù…ÙˆÙ†Ù‡) Ø¯ Ø¯Û Ù„Ù¾Ø§Ø±Ù‡ Ú‰ÛŒØ²Ø§ÛŒÙ† Ø´ÙˆÙŠ Ú†Û Ø¯ Ú‰ÛŒØ±ÛŒ Ù¾Ø±ÙˆØ³Ø³ Ú©ÙˆÙ„Ùˆ Ù…Ø®Ù‡ ÙˆÙ†ÛŒØ³ÙŠ Ø§Ùˆ Ø¯ Ø¢ÙˆÙ¼ Ø¨Ø§Ú©Ø³ Ù†Ù…ÙˆÙ†Ù‡ ÙˆÚ©Ø§Ø±ÙˆØ¦ ØªØ±Ú…Ùˆ Ú‰Ø§Ú‰ ØªØ±Ù„Ø§Ø³Ù‡ Ø´ÙŠ Ú†Û Ù¾ÛŒÚšÛ Ø­ØªÛŒ Ø¯ Ú‰ÛŒÙ¼Ø§Ø¨ÛŒØ³ Ù„ÛŒÚ–Ø¯ÙˆÙ†Ùˆ Ú©Û Ù„Ù‡ Ù„Ø§Ø³Ù‡ Ù†Ù‡ ÙˆØ±Ú©ÙˆÙ„ Ú©ÛŒÚ–ÙŠ.
 
-## د MVP ډومین ماډل (WP 1.12)
+## Ø¯ MVP Ú‰ÙˆÙ…ÛŒÙ† Ù…Ø§Ú‰Ù„ (WP 1.12)
 
 ![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
 
-Nexus Gaja په کلکه د ډومین لخوا پرمخ وړل شوي MVP جوړښت (ADR-025) کاروي، چې د روښانه ډومین حدود سره د ماډلر مونولیت په توګه ډیزاین شوی. دا جوړښت د مایکرو سرویس لومړني پیچلتیا مخه نیسي پداسې حال کې چې وروسته د ځانګړو ډومینونو بهر کولو لپاره انعطاف ساتي.
+Nexus Gaja Ù¾Ù‡ Ú©Ù„Ú©Ù‡ Ø¯ Ú‰ÙˆÙ…ÛŒÙ† Ù„Ø®ÙˆØ§ Ù¾Ø±Ù…Ø® ÙˆÚ“Ù„ Ø´ÙˆÙŠ MVP Ø¬ÙˆÚ“ÚšØª (ADR-025) Ú©Ø§Ø±ÙˆÙŠØŒ Ú†Û Ø¯ Ø±ÙˆÚšØ§Ù†Ù‡ Ú‰ÙˆÙ…ÛŒÙ† Ø­Ø¯ÙˆØ¯ Ø³Ø±Ù‡ Ø¯ Ù…Ø§Ú‰Ù„Ø± Ù…ÙˆÙ†ÙˆÙ„ÛŒØª Ù¾Ù‡ ØªÙˆÚ«Ù‡ Ú‰ÛŒØ²Ø§ÛŒÙ† Ø´ÙˆÛŒ. Ø¯Ø§ Ø¬ÙˆÚ“ÚšØª Ø¯ Ù…Ø§ÛŒÚ©Ø±Ùˆ Ø³Ø±ÙˆÛŒØ³ Ù„ÙˆÙ…Ú“Ù†ÙŠ Ù¾ÛŒÚ†Ù„ØªÛŒØ§ Ù…Ø®Ù‡ Ù†ÛŒØ³ÙŠ Ù¾Ø¯Ø§Ø³Û Ø­Ø§Ù„ Ú©Û Ú†Û ÙˆØ±ÙˆØ³ØªÙ‡ Ø¯ ÚØ§Ù†Ú«Ú“Ùˆ Ú‰ÙˆÙ…ÛŒÙ†ÙˆÙ†Ùˆ Ø¨Ù‡Ø± Ú©ÙˆÙ„Ùˆ Ù„Ù¾Ø§Ø±Ù‡ Ø§Ù†Ø¹Ø·Ø§Ù Ø³Ø§ØªÙŠ.
 
-### تخنیکي اصلي بنسټونه
-جوړښت په کلکه سره مفکورې جلا کوي ترڅو د معلوماتو بشپړتیا یقیني کړي او د غلطیو څخه مخنیوی وکړي لکه "کارن نوم = انسان":
-- **پیژندنه او حسابونه:** `شخص` ≠ `د کارن حساب` ≠ `پیژندنه تایید`. یو تایید شوی کس د یو حساب له لارې برخه اخلي، مګر ادارې جلا پاتې کیږي.
-- **مخابرات:** `پیغام` ≠ `ژباړه`. اصلي پیغام بدلیدونکی دی؛ ژباړې تړلې ادارې دي.
-- **اعتدال:** `راپور` ≠ `اعتدال پریکړه`. یو پیغام یوازې یوه نښه ده؛ یو مدیر تحقیقات ترسره کوي.
-- **مالي:** `بنډنه` ≠ `فنډ بیلانس`. تادیات په بدلیدونکي ډول د لیجر (نغدو کتاب) له لارې فنډ ته لیږل کیږي.
+### ØªØ®Ù†ÛŒÚ©ÙŠ Ø§ØµÙ„ÙŠ Ø¨Ù†Ø³Ù¼ÙˆÙ†Ù‡
+Ø¬ÙˆÚ“ÚšØª Ù¾Ù‡ Ú©Ù„Ú©Ù‡ Ø³Ø±Ù‡ Ù…ÙÚ©ÙˆØ±Û Ø¬Ù„Ø§ Ú©ÙˆÙŠ ØªØ±Ú…Ùˆ Ø¯ Ù…Ø¹Ù„ÙˆÙ…Ø§ØªÙˆ Ø¨Ø´Ù¾Ú“ØªÛŒØ§ ÛŒÙ‚ÛŒÙ†ÙŠ Ú©Ú“ÙŠ Ø§Ùˆ Ø¯ ØºÙ„Ø·ÛŒÙˆ Ú…Ø®Ù‡ Ù…Ø®Ù†ÛŒÙˆÛŒ ÙˆÚ©Ú“ÙŠ Ù„Ú©Ù‡ "Ú©Ø§Ø±Ù† Ù†ÙˆÙ… = Ø§Ù†Ø³Ø§Ù†":
+- **Ù¾ÛŒÚ˜Ù†Ø¯Ù†Ù‡ Ø§Ùˆ Ø­Ø³Ø§Ø¨ÙˆÙ†Ù‡:** `Ø´Ø®Øµ` â‰  `Ø¯ Ú©Ø§Ø±Ù† Ø­Ø³Ø§Ø¨` â‰  `Ù¾ÛŒÚ˜Ù†Ø¯Ù†Ù‡ ØªØ§ÛŒÛŒØ¯`. ÛŒÙˆ ØªØ§ÛŒÛŒØ¯ Ø´ÙˆÛŒ Ú©Ø³ Ø¯ ÛŒÙˆ Ø­Ø³Ø§Ø¨ Ù„Ù‡ Ù„Ø§Ø±Û Ø¨Ø±Ø®Ù‡ Ø§Ø®Ù„ÙŠØŒ Ù…Ú«Ø± Ø§Ø¯Ø§Ø±Û Ø¬Ù„Ø§ Ù¾Ø§ØªÛ Ú©ÛŒÚ–ÙŠ.
+- **Ù…Ø®Ø§Ø¨Ø±Ø§Øª:** `Ù¾ÛŒØºØ§Ù…` â‰  `Ú˜Ø¨Ø§Ú“Ù‡`. Ø§ØµÙ„ÙŠ Ù¾ÛŒØºØ§Ù… Ø¨Ø¯Ù„ÛŒØ¯ÙˆÙ†Ú©ÛŒ Ø¯ÛŒØ› Ú˜Ø¨Ø§Ú“Û ØªÚ“Ù„Û Ø§Ø¯Ø§Ø±Û Ø¯ÙŠ.
+- **Ø§Ø¹ØªØ¯Ø§Ù„:** `Ø±Ø§Ù¾ÙˆØ±` â‰  `Ø§Ø¹ØªØ¯Ø§Ù„ Ù¾Ø±ÛŒÚ©Ú“Ù‡`. ÛŒÙˆ Ù¾ÛŒØºØ§Ù… ÛŒÙˆØ§Ø²Û ÛŒÙˆÙ‡ Ù†ÚšÙ‡ Ø¯Ù‡Ø› ÛŒÙˆ Ù…Ø¯ÛŒØ± ØªØ­Ù‚ÛŒÙ‚Ø§Øª ØªØ±Ø³Ø±Ù‡ Ú©ÙˆÙŠ.
+- **Ù…Ø§Ù„ÙŠ:** `Ø¨Ù†Ú‰Ù†Ù‡` â‰  `ÙÙ†Ú‰ Ø¨ÛŒÙ„Ø§Ù†Ø³`. ØªØ§Ø¯ÛŒØ§Øª Ù¾Ù‡ Ø¨Ø¯Ù„ÛŒØ¯ÙˆÙ†Ú©ÙŠ Ú‰ÙˆÙ„ Ø¯ Ù„ÛŒØ¬Ø± (Ù†ØºØ¯Ùˆ Ú©ØªØ§Ø¨) Ù„Ù‡ Ù„Ø§Ø±Û ÙÙ†Ú‰ ØªÙ‡ Ù„ÛŒÚ–Ù„ Ú©ÛŒÚ–ÙŠ.
 
-### مربوط موضوع ډومینونه
-سیسټم په منطقي ډومینونو ویشل شوی (محدود شرایط): پیژندنه، حساب، سازمان، ارتباط، ټولنه، ژبه، منځګړیتوب، خبرتیا، مالیه او حکومتداري. دوی د اصلي فعالینو (کارونکو، ښوونځیو، نادولتي موسسو) څخه د دوی ډیجیټل تعاملاتو پورې ټوله سلسله استازیتوب کوي.
+### Ù…Ø±Ø¨ÙˆØ· Ù…ÙˆØ¶ÙˆØ¹ Ú‰ÙˆÙ…ÛŒÙ†ÙˆÙ†Ù‡
+Ø³ÛŒØ³Ù¼Ù… Ù¾Ù‡ Ù…Ù†Ø·Ù‚ÙŠ Ú‰ÙˆÙ…ÛŒÙ†ÙˆÙ†Ùˆ ÙˆÛŒØ´Ù„ Ø´ÙˆÛŒ (Ù…Ø­Ø¯ÙˆØ¯ Ø´Ø±Ø§ÛŒØ·): Ù¾ÛŒÚ˜Ù†Ø¯Ù†Ù‡ØŒ Ø­Ø³Ø§Ø¨ØŒ Ø³Ø§Ø²Ù…Ø§Ù†ØŒ Ø§Ø±ØªØ¨Ø§Ø·ØŒ Ù¼ÙˆÙ„Ù†Ù‡ØŒ Ú˜Ø¨Ù‡ØŒ Ù…Ù†ÚÚ«Ú“ÛŒØªÙˆØ¨ØŒ Ø®Ø¨Ø±ØªÛŒØ§ØŒ Ù…Ø§Ù„ÛŒÙ‡ Ø§Ùˆ Ø­Ú©ÙˆÙ…ØªØ¯Ø§Ø±ÙŠ. Ø¯ÙˆÛŒ Ø¯ Ø§ØµÙ„ÙŠ ÙØ¹Ø§Ù„ÛŒÙ†Ùˆ (Ú©Ø§Ø±ÙˆÙ†Ú©ÙˆØŒ ÚšÙˆÙˆÙ†ÚÛŒÙˆØŒ Ù†Ø§Ø¯ÙˆÙ„ØªÙŠ Ù…ÙˆØ³Ø³Ùˆ) Ú…Ø®Ù‡ Ø¯ Ø¯ÙˆÛŒ Ú‰ÛŒØ¬ÛŒÙ¼Ù„ ØªØ¹Ø§Ù…Ù„Ø§ØªÙˆ Ù¾ÙˆØ±Û Ù¼ÙˆÙ„Ù‡ Ø³Ù„Ø³Ù„Ù‡ Ø§Ø³ØªØ§Ø²ÛŒØªÙˆØ¨ Ú©ÙˆÙŠ.
 
-## د پروژې حالت
-پروژه د فعال جوړښت او پلان جوړونې په مرحله کې ده.
-روانې معمارۍ پریکړې په `/ docs` فولډر کې مستند شوي.
+## Ø¯ Ù¾Ø±ÙˆÚ˜Û Ø­Ø§Ù„Øª
+Ù¾Ø±ÙˆÚ˜Ù‡ Ø¯ ÙØ¹Ø§Ù„ Ø¬ÙˆÚ“ÚšØª Ø§Ùˆ Ù¾Ù„Ø§Ù† Ø¬ÙˆÚ“ÙˆÙ†Û Ù¾Ù‡ Ù…Ø±Ø­Ù„Ù‡ Ú©Û Ø¯Ù‡.
+Ø±ÙˆØ§Ù†Û Ù…Ø¹Ù…Ø§Ø±Û Ù¾Ø±ÛŒÚ©Ú“Û Ù¾Ù‡ `/ docs` ÙÙˆÙ„Ú‰Ø± Ú©Û Ù…Ø³ØªÙ†Ø¯ Ø´ÙˆÙŠ.
 
 ---
 
-## جواز او فکري ملکیت
+## Ø¬ÙˆØ§Ø² Ø§Ùˆ ÙÚ©Ø±ÙŠ Ù…Ù„Ú©ÛŒØª
 
-> **© 2024-2026 سونر سټوډیو - جان فریسک د سونر سټوډیو بنسټ ایښودونکی، مالک، رییس او لوی ډیزاینر - ټول حقونه خوندي دي.**
+> **Â© 2024-2026 Ø³ÙˆÙ†Ø± Ø³Ù¼ÙˆÚ‰ÛŒÙˆ - Ø¬Ø§Ù† ÙØ±ÛŒØ³Ú© Ø¯ Ø³ÙˆÙ†Ø± Ø³Ù¼ÙˆÚ‰ÛŒÙˆ Ø¨Ù†Ø³Ù¼ Ø§ÛŒÚšÙˆØ¯ÙˆÙ†Ú©ÛŒØŒ Ù…Ø§Ù„Ú©ØŒ Ø±ÛŒÛŒØ³ Ø§Ùˆ Ù„ÙˆÛŒ Ú‰ÛŒØ²Ø§ÛŒÙ†Ø± - Ù¼ÙˆÙ„ Ø­Ù‚ÙˆÙ†Ù‡ Ø®ÙˆÙ†Ø¯ÙŠ Ø¯ÙŠ.**
 
-**Nexus Gaja** د **جان فریسک** ځانګړې فکري ملکیت دی، چې د **سونر سټوډیو** لاندې فعالیت کوي.
+**Nexus Gaja** Ø¯ **Ø¬Ø§Ù† ÙØ±ÛŒØ³Ú©** ÚØ§Ù†Ú«Ú“Û ÙÚ©Ø±ÙŠ Ù…Ù„Ú©ÛŒØª Ø¯ÛŒØŒ Ú†Û Ø¯ **Ø³ÙˆÙ†Ø± Ø³Ù¼ÙˆÚ‰ÛŒÙˆ** Ù„Ø§Ù†Ø¯Û ÙØ¹Ø§Ù„ÛŒØª Ú©ÙˆÙŠ.
 
-جان فریسک د Nexus Gaja یوازینی جوړونکی، معمار او مالک دی - په شمول ټول مفکورې، معمارۍ، ډومین ماډلونه، د برانډ پیژندنه او اړوند اسناد.
+Ø¬Ø§Ù† ÙØ±ÛŒØ³Ú© Ø¯ Nexus Gaja ÛŒÙˆØ§Ø²ÛŒÙ†ÛŒ Ø¬ÙˆÚ“ÙˆÙ†Ú©ÛŒØŒ Ù…Ø¹Ù…Ø§Ø± Ø§Ùˆ Ù…Ø§Ù„Ú© Ø¯ÛŒ - Ù¾Ù‡ Ø´Ù…ÙˆÙ„ Ù¼ÙˆÙ„ Ù…ÙÚ©ÙˆØ±ÛØŒ Ù…Ø¹Ù…Ø§Ø±ÛØŒ Ú‰ÙˆÙ…ÛŒÙ† Ù…Ø§Ú‰Ù„ÙˆÙ†Ù‡ØŒ Ø¯ Ø¨Ø±Ø§Ù†Ú‰ Ù¾ÛŒÚ˜Ù†Ø¯Ù†Ù‡ Ø§Ùˆ Ø§Ú“ÙˆÙ†Ø¯ Ø§Ø³Ù†Ø§Ø¯.
 
-** هیڅ دریم اړخ ته هیڅ حق، جواز یا ملکیت ګټې نه ورکول کیږي ** پرته له دې چې د دوی اندازه، د بازار موقعیت یا د ټیکنالوژۍ صنعت کې نفوذ په پام کې ونیول شي.
+** Ù‡ÛŒÚ… Ø¯Ø±ÛŒÙ… Ø§Ú“Ø® ØªÙ‡ Ù‡ÛŒÚ… Ø­Ù‚ØŒ Ø¬ÙˆØ§Ø² ÛŒØ§ Ù…Ù„Ú©ÛŒØª Ú«Ù¼Û Ù†Ù‡ ÙˆØ±Ú©ÙˆÙ„ Ú©ÛŒÚ–ÙŠ ** Ù¾Ø±ØªÙ‡ Ù„Ù‡ Ø¯Û Ú†Û Ø¯ Ø¯ÙˆÛŒ Ø§Ù†Ø¯Ø§Ø²Ù‡ØŒ Ø¯ Ø¨Ø§Ø²Ø§Ø± Ù…ÙˆÙ‚Ø¹ÛŒØª ÛŒØ§ Ø¯ Ù¼ÛŒÚ©Ù†Ø§Ù„ÙˆÚ˜Û ØµÙ†Ø¹Øª Ú©Û Ù†ÙÙˆØ° Ù¾Ù‡ Ù¾Ø§Ù… Ú©Û ÙˆÙ†ÛŒÙˆÙ„ Ø´ÙŠ.
 
-### هغه څه چې د څرګند لیکلي رضایت پرته اجازه نلري:
-- ❌ دا سافټویر یا د هغې اسناد کاپي، بیا تولید یا توزیع کړئ
-- ❌ تعدیل، تطابق یا مشتق اثار جوړ کړئ
-- ❌ د Nexus Gaja د هرې برخې تجارتي استعمال
-- ❌ د ذخیرې مینځپانګې کارول د **د AI/LLM سیسټمونو لپاره د روزنې ډیټا** په توګه
-- ❌ فرعي جواز یا دریمې ډلې ته د حقونو لیږد
+### Ù‡ØºÙ‡ Ú…Ù‡ Ú†Û Ø¯ Ú…Ø±Ú«Ù†Ø¯ Ù„ÛŒÚ©Ù„ÙŠ Ø±Ø¶Ø§ÛŒØª Ù¾Ø±ØªÙ‡ Ø§Ø¬Ø§Ø²Ù‡ Ù†Ù„Ø±ÙŠ:
+- âŒ Ø¯Ø§ Ø³Ø§ÙÙ¼ÙˆÛŒØ± ÛŒØ§ Ø¯ Ù‡ØºÛ Ø§Ø³Ù†Ø§Ø¯ Ú©Ø§Ù¾ÙŠØŒ Ø¨ÛŒØ§ ØªÙˆÙ„ÛŒØ¯ ÛŒØ§ ØªÙˆØ²ÛŒØ¹ Ú©Ú“Ø¦
+- âŒ ØªØ¹Ø¯ÛŒÙ„ØŒ ØªØ·Ø§Ø¨Ù‚ ÛŒØ§ Ù…Ø´ØªÙ‚ Ø§Ø«Ø§Ø± Ø¬ÙˆÚ“ Ú©Ú“Ø¦
+- âŒ Ø¯ Nexus Gaja Ø¯ Ù‡Ø±Û Ø¨Ø±Ø®Û ØªØ¬Ø§Ø±ØªÙŠ Ø§Ø³ØªØ¹Ù…Ø§Ù„
+- âŒ Ø¯ Ø°Ø®ÛŒØ±Û Ù…ÛŒÙ†ÚÙ¾Ø§Ù†Ú«Û Ú©Ø§Ø±ÙˆÙ„ Ø¯ **Ø¯ AI/LLM Ø³ÛŒØ³Ù¼Ù…ÙˆÙ†Ùˆ Ù„Ù¾Ø§Ø±Ù‡ Ø¯ Ø±ÙˆØ²Ù†Û Ú‰ÛŒÙ¼Ø§** Ù¾Ù‡ ØªÙˆÚ«Ù‡
+- âŒ ÙØ±Ø¹ÙŠ Ø¬ÙˆØ§Ø² ÛŒØ§ Ø¯Ø±ÛŒÙ…Û Ú‰Ù„Û ØªÙ‡ Ø¯ Ø­Ù‚ÙˆÙ†Ùˆ Ù„ÛŒÚ–Ø¯
 
-### د فکري ملکیت ساتل
-لاندې اصلي مفکورې د سوداګرۍ رازونو او د جان فریسک ملکیت تخلیقاتو په توګه خوندي دي:
-- د څو پوړونو مخابراتو ماډل * (اصلي / سیمانټیک تفسیر / ژباړل شوی نسخه) *
-- د هویت جلا کولو اصول *(شخص ≠ کارن حساب ≠ د هویت تصدیق)*
-- د پیغام ژباړې د ګډولو ماډل *(پیغام ≠ ژباړه)*
-- د AI اعتدال د حکومتدارۍ چوکاټ
+### Ø¯ ÙÚ©Ø±ÙŠ Ù…Ù„Ú©ÛŒØª Ø³Ø§ØªÙ„
+Ù„Ø§Ù†Ø¯Û Ø§ØµÙ„ÙŠ Ù…ÙÚ©ÙˆØ±Û Ø¯ Ø³ÙˆØ¯Ø§Ú«Ø±Û Ø±Ø§Ø²ÙˆÙ†Ùˆ Ø§Ùˆ Ø¯ Ø¬Ø§Ù† ÙØ±ÛŒØ³Ú© Ù…Ù„Ú©ÛŒØª ØªØ®Ù„ÛŒÙ‚Ø§ØªÙˆ Ù¾Ù‡ ØªÙˆÚ«Ù‡ Ø®ÙˆÙ†Ø¯ÙŠ Ø¯ÙŠ:
+- Ø¯ Ú…Ùˆ Ù¾ÙˆÚ“ÙˆÙ†Ùˆ Ù…Ø®Ø§Ø¨Ø±Ø§ØªÙˆ Ù…Ø§Ú‰Ù„ * (Ø§ØµÙ„ÙŠ / Ø³ÛŒÙ…Ø§Ù†Ù¼ÛŒÚ© ØªÙØ³ÛŒØ± / Ú˜Ø¨Ø§Ú“Ù„ Ø´ÙˆÛŒ Ù†Ø³Ø®Ù‡) *
+- Ø¯ Ù‡ÙˆÛŒØª Ø¬Ù„Ø§ Ú©ÙˆÙ„Ùˆ Ø§ØµÙˆÙ„ *(Ø´Ø®Øµ â‰  Ú©Ø§Ø±Ù† Ø­Ø³Ø§Ø¨ â‰  Ø¯ Ù‡ÙˆÛŒØª ØªØµØ¯ÛŒÙ‚)*
+- Ø¯ Ù¾ÛŒØºØ§Ù… Ú˜Ø¨Ø§Ú“Û Ø¯ Ú«Ú‰ÙˆÙ„Ùˆ Ù…Ø§Ú‰Ù„ *(Ù¾ÛŒØºØ§Ù… â‰  Ú˜Ø¨Ø§Ú“Ù‡)*
+- Ø¯ AI Ø§Ø¹ØªØ¯Ø§Ù„ Ø¯ Ø­Ú©ÙˆÙ…ØªØ¯Ø§Ø±Û Ú†ÙˆÚ©Ø§Ù¼
 
-### اړیکه
-د جواز پوښتنو لپاره: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+### Ø§Ú“ÛŒÚ©Ù‡
+Ø¯ Ø¬ÙˆØ§Ø² Ù¾ÙˆÚšØªÙ†Ùˆ Ù„Ù¾Ø§Ø±Ù‡: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-* "Nexus Gaja" او Nexus Gaja لوگو د جان فریسک سوداګریزې نښې دي. د نوم یا سوداګریزې نښې غیر مجاز کارول منع دي.*
+* "Nexus Gaja" Ø§Ùˆ Nexus Gaja Ù„ÙˆÚ¯Ùˆ Ø¯ Ø¬Ø§Ù† ÙØ±ÛŒØ³Ú© Ø³ÙˆØ¯Ø§Ú«Ø±ÛŒØ²Û Ù†ÚšÛ Ø¯ÙŠ. Ø¯ Ù†ÙˆÙ… ÛŒØ§ Ø³ÙˆØ¯Ø§Ú«Ø±ÛŒØ²Û Ù†ÚšÛ ØºÛŒØ± Ù…Ø¬Ø§Ø² Ú©Ø§Ø±ÙˆÙ„ Ù…Ù†Ø¹ Ø¯ÙŠ.*
 
-➡️ د جواز بشپړ شرایط په [LICENSE](LICENSE) کې
+âž¡ï¸ Ø¯ Ø¬ÙˆØ§Ø² Ø¨Ø´Ù¾Ú“ Ø´Ø±Ø§ÛŒØ· Ù¾Ù‡ [LICENSE](LICENSE) Ú©Û

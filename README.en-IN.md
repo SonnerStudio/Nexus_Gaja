@@ -1,4 +1,4 @@
-# Nexus Gaja
+﻿# Nexus Gaja
 
 > *For global peace and mutual understanding*
 
@@ -6,11 +6,13 @@
 ![Nexus Gaja Logo](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
 
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 
@@ -20,7 +22,7 @@
 
 ![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
 
-In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between people—regardless of whether they speak a common language.
+In a globalized world, language is often the biggest barrier. The main goal of Nexus Gaja is to enable seamless, barrier-free, and contextually accurate communication between peopleâ€”regardless of whether they speak a common language.
 
 It's not just about rigidly translating words, but about **transferring meaning**. Nexus Gaja connects people on a deeper level by understanding cultural, regional, and contextual nuances, thereby enabling genuine, authentic conversations.
 
@@ -43,7 +45,7 @@ The technical core of Nexus Gaja is a custom-built communication model that is s
 
 ### Context Dependency
 Translations in Nexus Gaja never view messages in isolation. The engine considers the entire hierarchy:
-`Message` → `Previous Messages` → `Thread Context` → `Community Context` → `Language / Region` → `User Preferences`
+`Message` â†’ `Previous Messages` â†’ `Thread Context` â†’ `Community Context` â†’ `Language / Region` â†’ `User Preferences`
 
 ### Efficiency through On-Demand Translation
 Translation occurs resource-efficiently only **upon request** (On-Demand). When a user requests content, it is translated into their preset language. Once a translation for a specific language is generated, it is permanently stored (caching) to drastically accelerate future requests.
@@ -67,35 +69,35 @@ The third level must be controlled by a human in severe cases.
 Instead of a single AI, a robust subsystem is established:
 ```text
                  NEXUS GAJA AI MODERATION
-                          │
-       ┌──────────────────┼──────────────────┐
-       │                  │                  │
+                          â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â”‚                  â”‚                  â”‚
   Language AI        Safety AI          Fraud AI
-       │                  │                  │
-       ├──────────────┬───┴──────────────┬───┤
-       │              │                  │
+       â”‚                  â”‚                  â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”¤
+       â”‚              â”‚                  â”‚
  Translation      Behaviour          Identity
  Analysis         Analysis            Signals
-       │              │                  │
-       └──────────────┼──────────────────┘
-                      ▼
+       â”‚              â”‚                  â”‚
+       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+                      â–¼
                Risk Assessment
-                      │
-                      ▼
+                      â”‚
+                      â–¼
                Human Review
 ```
 
 ### 3. The Most Important AI Modules
 Nexus Gaja utilizes nine specialized analysis areas:
-- **M1 – Language Understanding**: Detects language, dialect, slang, irony indicators, translation issues.
-- **M2 – Toxicity / Abuse Detection**: Detects insults, personal attacks, harassment.
-- **M3 – Threat Detection**: Detects potential threats, blackmail, violence announcements.
-- **M4 – Hate / Dehumanization Detection**: Detects targeted attacks on people based on specific affiliations.
-- **M5 – Spam / Manipulation Detection**: Detects spam, bot behavior, coordinated manipulation.
-- **M6 – Fraud Detection**: Detects suspicious fraud attempts, phishing, social engineering.
-- **M7 – Identity Integrity**: Checks signals regarding account takeovers, multiple accounts, ban evasion.
-- **M8 – Media Safety**: Analyzes images, audio, video, documents.
-- **M9 – Context Engine**: The most important module. It merges the individual findings.
+- **M1 â€“ Language Understanding**: Detects language, dialect, slang, irony indicators, translation issues.
+- **M2 â€“ Toxicity / Abuse Detection**: Detects insults, personal attacks, harassment.
+- **M3 â€“ Threat Detection**: Detects potential threats, blackmail, violence announcements.
+- **M4 â€“ Hate / Dehumanization Detection**: Detects targeted attacks on people based on specific affiliations.
+- **M5 â€“ Spam / Manipulation Detection**: Detects spam, bot behavior, coordinated manipulation.
+- **M6 â€“ Fraud Detection**: Detects suspicious fraud attempts, phishing, social engineering.
+- **M7 â€“ Identity Integrity**: Checks signals regarding account takeovers, multiple accounts, ban evasion.
+- **M8 â€“ Media Safety**: Analyzes images, audio, video, documents.
+- **M9 â€“ Context Engine**: The most important module. It merges the individual findings.
 
 ### 4. Why the Context Engine is Crucial
 A pure keyword search would be insufficient. "I could kill him from laughing" semantically contains violence but is a figure of speech. "Tomorrow at 8 PM I will shoot him in front of his house" is a completely different situation. The AI must understand what the statement means in its specific context.
@@ -107,22 +109,22 @@ Moderation cannot simply compare words. It must analyze the semantic level (e.g.
 Original and translation are analyzed separately. Only then does the "Combined Moderation Assessment" take place. This allows Nexus Gaja to determine whether the translation itself may have escalated or altered the facts.
 
 ### 7. Confidence Score
-Every AI evaluation receives a confidence score (e.g., Threat probability: 0.96). However: **Confidence Score ≠ Truth.** A score of 96% only means the model is highly certain of its classification, not necessarily that the user is guilty.
+Every AI evaluation receives a confidence score (e.g., Threat probability: 0.96). However: **Confidence Score â‰  Truth.** A score of 96% only means the model is highly certain of its classification, not necessarily that the user is guilty.
 
 ### 8. Uncertainty Becomes a Signal Itself
 If the AI is uncertain (e.g., Threat: 0.62, Satire: 0.54), it must not simply enforce harsh rules. Instead, uncertainty is built directly into the architecture: **Human Review Required**.
 
 ### 9. Four Decision Zones
-- 🟢 **GREEN**: Highly likely compliant. → no action.
-- 🟡 **YELLOW**: Possible violation. → monitor / provide a warning if necessary.
-- 🟠 **ORANGE**: Probable violation. → moderation review.
-- 🔴 **RED**: Severe possible violation. → immediate protective measure + human review.
+- ðŸŸ¢ **GREEN**: Highly likely compliant. â†’ no action.
+- ðŸŸ¡ **YELLOW**: Possible violation. â†’ monitor / provide a warning if necessary.
+- ðŸŸ  **ORANGE**: Probable violation. â†’ moderation review.
+- ðŸ”´ **RED**: Severe possible violation. â†’ immediate protective measure + human review.
 
 ### 10. No "AI Punishment"
 **The AI imposes no final sanctions.** It can trigger technical immediate measures (e.g., temporarily holding back a message) for severe security concerns, but the final decision remains verifiable.
 
 ### 11. Protective Measures Can Occur Automatically
-In the event of a concrete threat (Threat detected → High confidence → Temporary restriction → Human review → Decision), we protect the threatened user without turning the AI into a judge.
+In the event of a concrete threat (Threat detected â†’ High confidence â†’ Temporary restriction â†’ Human review â†’ Decision), we protect the threatened user without turning the AI into a judge.
 
 ### 12. The AI Must Be Able to Justify Its Decisions
 The DSA requires clear and specific reasons. The AI provides structured reasoning: Rule (NG-CONDUCT-004), Detected (Potential concrete threat), Confidence (0.94), Relevant context (Previous 4 messages), Recommended action (Human review).
@@ -139,7 +141,7 @@ According to the transparency rules of the EU AI Act (effective August 2026), AI
 ### 16. Deepfake Detection
 The architecture aims to detect synthetic images, cloned voices, and deepfakes. However, detection is not automatically proof.
 
-### 17. No Automatic "Truth Machine" (Moderation ≠ Fact Checking)
+### 17. No Automatic "Truth Machine" (Moderation â‰  Fact Checking)
 One system checks: "Does the content violate rules?" (Content Moderation), another provides: "What information and sources are available?" (Information Assistance). Opinions are not simply deleted for being "wrong."
 
 ### 18. Protection Against Cultural Misinterpretation
@@ -152,7 +154,7 @@ The AI uses context, emojis, conversation history, and known irony structures, b
 No severe moderation intervention may be based solely on a single automated classification result (Text + Context + Behaviour + Language + Media + Rule Engine = Risk Assessment).
 
 ### 21. User Behaviour Signals & No Social Credit System
-This relates to technical abuse signals (e.g., mass spam posting), not a general social rating system. Nexus Gaja does not maintain a Social Credit System – moderation serves security, not the assessment of a person's worth.
+This relates to technical abuse signals (e.g., mass spam posting), not a general social rating system. Nexus Gaja does not maintain a Social Credit System â€“ moderation serves security, not the assessment of a person's worth.
 
 ### 22. Moderation AI Must Be Auditable
 All relevant automated decisions are logged (Event-ID, Rule-ID, Confidence, Human-Review, etc.) to ensure traceability.
@@ -198,42 +200,42 @@ Nexus Gaja remains a **communication space rather than an advertising space**.
 Financing is built on six pillars:
 ```text
                  NEXUS GAJA
-                     │
-       ┌─────────────┼─────────────┐
-       ▼             ▼             ▼
+                     â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â–¼             â–¼             â–¼
    PREMIUM       ORGANIZATION    DONATIONS
-       │             │             │
-       ├─────────────┼─────────────┤
-       ▼             ▼             ▼
+       â”‚             â”‚             â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+       â–¼             â–¼             â–¼
     GRANTS       PARTNERSHIPS    SERVICES
 ```
 
-#### Pillar 1 – Free Basic Membership
+#### Pillar 1 â€“ Free Basic Membership
 **Nexus Gaja Free** enables basic international understanding for everyone (profile, international communication, posts, communities, chats, basic translation) at no cost.
 
-#### Pillar 2 – Premium Offerings
+#### Pillar 2 â€“ Premium Offerings
 Voluntary paid offerings (**Nexus Gaja Plus**) providing greater storage limits, higher media quality, expanded AI quotas, and organizational features.
 **Important (Freemium instead of Dark Freemium):** Basic communication must never be artificially degraded.
 
-#### Pillar 3 – Organizations
+#### Pillar 3 â€“ Organizations
 Special accounts for schools, universities, NGOs, businesses, and municipalities (**Nexus Gaja Organization**). Schools can be supported via institutional rates as multipliers of international understanding.
 
-#### Pillar 4 – Donations
+#### Pillar 4 â€“ Donations
 The **Nexus Gaja Funding Pool** accepts general and earmarked donations (e.g., "for international youth communication"). A **Fund Allocation Ledger** ensures transparent allocation of funds.
 **Purpose Fund & Tombola:** A portion of donations feeds a pool for free/discounted usage. A lottery/tombola mechanism can allocate these funds transparently and auditably.
 
-#### Pillar 5 – Institutional Funding
+#### Pillar 5 â€“ Institutional Funding
 Foundations, cultural funding programs, or state programs.
 **NG-FIN-002:** Financial support does not buy editorial or technical control (Independence).
 
-#### Pillar 6 – Commercial Services
+#### Pillar 6 â€“ Commercial Services
 B2B services like **Translation-as-a-Service** (API), organizational communication, or international conference rooms, without burdening the standard user feed.
 
 ### 4. No Data Monetization & Surveillance Economy
 **NG-FIN-003:** Personal user data is not a commodity. No sale of lists, profiles, or histories. Nexus Gaja does not profit from psychological surveillance (Surveillance Economy).
 
 ### 5. Financial Transparency & Fund Ledger
-**Nexus Gaja Financial Transparency:** Publication of aggregated financial structures. Earmarked donations receive technical accounting (Fund ID → Purpose → Balance → Allocation). No cross-subsidization of social purposes into corporate marketing.
+**Nexus Gaja Financial Transparency:** Publication of aggregated financial structures. Earmarked donations receive technical accounting (Fund ID â†’ Purpose â†’ Balance â†’ Allocation). No cross-subsidization of social purposes into corporate marketing.
 
 ### 6. Solidarity-Based Financing Model
 Pricing is based on cost-orientation, fairness, and solidarity.
@@ -243,42 +245,42 @@ Pricing is based on cost-orientation, fairness, and solidarity.
 No dependence on keeping users "online as long as possible" (no ragebait, infinite feeds).
 Instead, we use metrics like:
 - **Global Communication Index (GCI):** Successful communication relationships between people from different linguistic/cultural regions.
-- **Platform Sustainability Ratio (PSR):** Recurring revenue / recurring operating costs (Target ≥ 1).
+- **Platform Sustainability Ratio (PSR):** Recurring revenue / recurring operating costs (Target â‰¥ 1).
 
 ### 8. What We Explicitly Do Not Want (Negative List)
 Nexus Gaja is **not** financed by:
-❌ Sale of personal data
-❌ Personalized traditional advertising
-❌ Monitoring user behavior for advertising purposes
-❌ Sale of private communication data
-❌ Hidden AI data usage
-❌ Manipulative Premium paywalls
-❌ Artificial reach restriction for monetization
-❌ Paid political influence
-❌ Purchase of privileged moderation decisions.
+âŒ Sale of personal data
+âŒ Personalized traditional advertising
+âŒ Monitoring user behavior for advertising purposes
+âŒ Sale of private communication data
+âŒ Hidden AI data usage
+âŒ Manipulative Premium paywalls
+âŒ Artificial reach restriction for monetization
+âŒ Paid political influence
+âŒ Purchase of privileged moderation decisions.
 
 ### 9. Preliminary Financial Architecture
 ```text
                          NEXUS GAJA
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
+                              â”‚
+             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+             â”‚                â”‚                â”‚
+             â–¼                â–¼                â–¼
           USERS          ORGANIZATIONS      ENTERPRISE
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
+             â”‚                â”‚                â”‚
+             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+                              â”‚
                        PLATFORM SERVICES
-                              │
-          ┌───────────────────┼───────────────────┐
-          ▼                   ▼                   ▼
+                              â”‚
+          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+          â–¼                   â–¼                   â–¼
        PREMIUM             DONATIONS            API
-                              │
-                    ┌─────────┴─────────┐
-                    ▼                   ▼
+                              â”‚
+                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+                    â–¼                   â–¼
                GENERAL FUND       RESTRICTED FUNDS
-                                        │
-                                        ▼
+                                        â”‚
+                                        â–¼
                                   SOCIAL PURPOSE
 ```
 
@@ -320,10 +322,10 @@ Nexus Gaja employs a strictly Domain-Driven MVP Architecture (ADR-025), designed
 
 ### Core Domain Entities
 The architecture explicitly separates distinct concepts to ensure data integrity and avoid structural pitfalls like "Username = Human":
-- **Identity & Accounts:** `Person` ≠ `User Account` ≠ `Identity Verification`. A verified person participates via an account, but the entities remain separate.
-- **Communication:** `Message` ≠ `Translation`. The original message remains immutable; translations are linked entities.
-- **Moderation:** `Report` ≠ `Moderation Decision`. A report is merely a claim; a moderation case conducts the investigation.
-- **Finances:** `Donation` ≠ `Fund Balance`. Payments are booked via an immutable ledger to a fund, ensuring financial transparency.
+- **Identity & Accounts:** `Person` â‰  `User Account` â‰  `Identity Verification`. A verified person participates via an account, but the entities remain separate.
+- **Communication:** `Message` â‰  `Translation`. The original message remains immutable; translations are linked entities.
+- **Moderation:** `Report` â‰  `Moderation Decision`. A report is merely a claim; a moderation case conducts the investigation.
+- **Finances:** `Donation` â‰  `Fund Balance`. Payments are booked via an immutable ledger to a fund, ensuring financial transparency.
 
 ### Interconnected Domains
 The system is divided into clear logical domains (Bounded Contexts): Identity, Account, Organization, Communication, Community, Language, Moderation, Notification, Finance, and Governance. These domains map the entire journey from real-world entities (Users, Schools, NGOs) to their digital interactions and related governance.
@@ -336,26 +338,26 @@ Ongoing architectural decisions are documented in the `/docs` folder.
 
 ## License & Intellectual Property
 
-> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — All rights reserved.**
+> **Â© 2024â€“2026 SonnerStudio - Jan Friske GrÃ¼nder, Inhaber, Direktor und Chefdesigner von SonnerStudio â€” All rights reserved.**
 
 **Nexus Gaja** is the exclusive intellectual property of **Jan Friske**, operating under **SonnerStudio**.
 
-Jan Friske is the sole creator, architect, and owner of Nexus Gaja — including all concepts, architecture, domain models, brand identity, and associated documentation.
+Jan Friske is the sole creator, architect, and owner of Nexus Gaja â€” including all concepts, architecture, domain models, brand identity, and associated documentation.
 
 **No rights, licenses, or ownership interests are held by any third party**, regardless of their size, market position, or influence in the technology industry.
 
 ### What is NOT permitted without explicit written consent:
-- ❌ Copying, reproducing, or distributing this software or its documentation
-- ❌ Modifying, adapting, or creating derivative works
-- ❌ Commercial use of any part of Nexus Gaja
-- ❌ Using the contents of this repository as **training data for AI/LLM systems**
-- ❌ Sublicensing or transferring any rights to third parties
+- âŒ Copying, reproducing, or distributing this software or its documentation
+- âŒ Modifying, adapting, or creating derivative works
+- âŒ Commercial use of any part of Nexus Gaja
+- âŒ Using the contents of this repository as **training data for AI/LLM systems**
+- âŒ Sublicensing or transferring any rights to third parties
 
 ### Protected Intellectual Property
 The following original concepts are protected as trade secrets and proprietary creations of Jan Friske:
 - The layered communication model *(Original / Semantic Interpretation / Translated Output)*
-- The identity separation principle *(Person ≠ Account ≠ Identity Verification)*
-- The Message-Translation decoupling model *(Message ≠ Translation)*
+- The identity separation principle *(Person â‰  Account â‰  Identity Verification)*
+- The Message-Translation decoupling model *(Message â‰  Translation)*
 - The AI moderation governance framework
 
 ### Contact
@@ -363,4 +365,4 @@ For licensing inquiries: [github.com/SonnerStudio](https://github.com/SonnerStud
 
 *"Nexus Gaja" and the Nexus Gaja logo are trademarks of Jan Friske. Unauthorized use of the name or brand is prohibited.*
 
-➡️ See full license terms in [LICENSE](LICENSE)
+âž¡ï¸ See full license terms in [LICENSE](LICENSE)

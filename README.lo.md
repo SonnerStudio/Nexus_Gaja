@@ -1,377 +1,379 @@
-# Nexus Gaja
+﻿# Nexus Gaja
 
-> *ເພື່ອສັນຕິພາບສາກົນ ແລະຄວາມເຂົ້າໃຈສາກົນ*
+> *à»€àºžàº·à»ˆàº­àºªàº±àº™àº•àº´àºžàº²àºšàºªàº²àºàº»àº™ à»àº¥àº°àº„àº§àº²àº¡à»€àº‚àº»à»‰àº²à»ƒàºˆàºªàº²àºàº»àº™*
 
 
-![ໂລໂກ້ Nexus Gaja](assets/logo.jpg)
+![à»‚àº¥à»‚àºà»‰ Nexus Gaja](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
 
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 
-**Nexus Gaja** ເປັນ​ເຄືອ​ຂ່າຍ​ການ​ສື່​ສານ​ສະ​ຫລາດ​ທີ່​ຮູ້​ຈັກ​ສະ​ພາບ​ການ​ອອກ​ແບບ​ເພື່ອ​ປະ​ຕິ​ວັດ​ການ​ສື່​ສານ​ໃນ​ທົ່ວ​ໂລກ​.
+**Nexus Gaja** à»€àº›àº±àº™â€‹à»€àº„àº·àº­â€‹àº‚à»ˆàº²àºâ€‹àºàº²àº™â€‹àºªàº·à»ˆâ€‹àºªàº²àº™â€‹àºªàº°â€‹àº«àº¥àº²àº”â€‹àº—àºµà»ˆâ€‹àº®àº¹à»‰â€‹àºˆàº±àºâ€‹àºªàº°â€‹àºžàº²àºšâ€‹àºàº²àº™â€‹àº­àº­àºâ€‹à»àºšàºšâ€‹à»€àºžàº·à»ˆàº­â€‹àº›àº°â€‹àº•àº´â€‹àº§àº±àº”â€‹àºàº²àº™â€‹àºªàº·à»ˆâ€‹àºªàº²àº™â€‹à»ƒàº™â€‹àº—àº»à»ˆàº§â€‹à»‚àº¥àºâ€‹.
 
-## ຈຸດປະສົງ ແລະ ວິໄສທັດ
+## àºˆàº¸àº”àº›àº°àºªàº»àº‡ à»àº¥àº° àº§àº´à»„àºªàº—àº±àº”
 
 ![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
 
-ໃນໂລກໂລກາພິວັດ, ພາສາມັກຈະເປັນອຸປະສັກທີ່ໃຫຍ່ທີ່ສຸດ. ເປົ້າໝາຍຫຼັກຂອງ Nexus Gaja ແມ່ນເພື່ອເປີດໃຊ້ການສື່ສານແບບສະໝ່ຳສະເໝີ, ເຂົ້າເຖິງໄດ້ ແລະຖືກຕ້ອງຕາມສະພາບການລະຫວ່າງຄົນ, ບໍ່ວ່າເຂົາເຈົ້າຈະເວົ້າພາສາທົ່ວໄປຫຼືບໍ່ກໍຕາມ. 
+à»ƒàº™à»‚àº¥àºà»‚àº¥àºàº²àºžàº´àº§àº±àº”, àºžàº²àºªàº²àº¡àº±àºàºˆàº°à»€àº›àº±àº™àº­àº¸àº›àº°àºªàº±àºàº—àºµà»ˆà»ƒàº«àºà»ˆàº—àºµà»ˆàºªàº¸àº”. à»€àº›àº»à»‰àº²à»àº²àºàº«àº¼àº±àºàº‚àº­àº‡ Nexus Gaja à»àº¡à»ˆàº™à»€àºžàº·à»ˆàº­à»€àº›àºµàº”à»ƒàºŠà»‰àºàº²àº™àºªàº·à»ˆàºªàº²àº™à»àºšàºšàºªàº°à»à»ˆàº³àºªàº°à»€à»àºµ, à»€àº‚àº»à»‰àº²à»€àº–àº´àº‡à»„àº”à»‰ à»àº¥àº°àº–àº·àºàº•à»‰àº­àº‡àº•àº²àº¡àºªàº°àºžàº²àºšàºàº²àº™àº¥àº°àº«àº§à»ˆàº²àº‡àº„àº»àº™, àºšà»à»ˆàº§à»ˆàº²à»€àº‚àº»àº²à»€àºˆàº»à»‰àº²àºˆàº°à»€àº§àº»à»‰àº²àºžàº²àºªàº²àº—àº»à»ˆàº§à»„àº›àº«àº¼àº·àºšà»à»ˆàºà»àº•àº²àº¡. 
 
-ມັນ​ບໍ່​ພຽງ​ແຕ່​ກ່ຽວ​ກັບ​ການ​ແປ​ຄໍາ​ສັບ​ຕ່າງໆ stubbornly​, ແຕ່​ກ່ຽວ​ກັບ **ການ​ໂອນ​ຄວາມ​ຫມາຍ **​. Nexus Gaja ເຊື່ອມຕໍ່ຜູ້ຄົນໃນລະດັບທີ່ເລິກເຊິ່ງກວ່າໂດຍການເຂົ້າໃຈຄວາມແຕກຕ່າງທາງດ້ານວັດທະນະທໍາ, ພາກພື້ນ ແລະສະພາບການ, ເຮັດໃຫ້ການສົນທະນາທີ່ແທ້ຈິງ, ທີ່ແທ້ຈິງ.
+àº¡àº±àº™â€‹àºšà»à»ˆâ€‹àºžàº½àº‡â€‹à»àº•à»ˆâ€‹àºà»ˆàº½àº§â€‹àºàº±àºšâ€‹àºàº²àº™â€‹à»àº›â€‹àº„à»àº²â€‹àºªàº±àºšâ€‹àº•à»ˆàº²àº‡à»† stubbornlyâ€‹, à»àº•à»ˆâ€‹àºà»ˆàº½àº§â€‹àºàº±àºš **àºàº²àº™â€‹à»‚àº­àº™â€‹àº„àº§àº²àº¡â€‹àº«àº¡àº²àº **â€‹. Nexus Gaja à»€àºŠàº·à»ˆàº­àº¡àº•à»à»ˆàºœàº¹à»‰àº„àº»àº™à»ƒàº™àº¥àº°àº”àº±àºšàº—àºµà»ˆà»€àº¥àº´àºà»€àºŠàº´à»ˆàº‡àºàº§à»ˆàº²à»‚àº”àºàºàº²àº™à»€àº‚àº»à»‰àº²à»ƒàºˆàº„àº§àº²àº¡à»àº•àºàº•à»ˆàº²àº‡àº—àº²àº‡àº”à»‰àº²àº™àº§àº±àº”àº—àº°àº™àº°àº—à»àº², àºžàº²àºàºžàº·à»‰àº™ à»àº¥àº°àºªàº°àºžàº²àºšàºàº²àº™, à»€àº®àº±àº”à»ƒàº«à»‰àºàº²àº™àºªàº»àº™àº—àº°àº™àº²àº—àºµà»ˆà»àº—à»‰àºˆàº´àº‡, àº—àºµà»ˆà»àº—à»‰àºˆàº´àº‡.
 
-## ຄວາມເປັນໄປໄດ້ ແລະຄຸນສົມບັດ
-- ** ການ​ສື່​ສານ Multimedia **​: ລະ​ບົບ​ການ​ປຸງ​ແຕ່ງ​ບໍ່​ພຽງ​ແຕ່​ຂໍ້​ຄວາມ​, ແຕ່​ຍັງ​ຮູບ​ພາບ​, ສຽງ​ແລະ​ວິ​ດີ​ໂອ​. ອັນນີ້ອະນຸຍາດໃຫ້ມີການສົນທະນາແບບເລິກເຊິ່ງເຕັມທີ່ (ເຊັ່ນ: ການໂທວິດີໂອ ຫຼືຂໍ້ຄວາມສຽງ) ໃນເວລາຈິງໃນທົ່ວຂອບເຂດພາສາ.
-- **ຄວາມ​ອ່ອນ​ໄຫວ​ຂອງ​ເນື້ອ​ໃນ**​: ການ​ກວດ​ສອບ​ການ irony​, idioms​, jargon ແລະ​ພາ​ສາ​ພາກ​ພື້ນ​ທີ່​ມັກ​ຈະ​ເຂົ້າ​ໃຈ​ຜິດ​ໂດຍ​ຜູ້​ແປ​ພື້ນ​ເມືອງ​.
-- **ເຄືອ​ຂ່າຍ​ຂ້າມ​ເວ​ທີ​ການ**​: ເຮັດ​ຫນ້າ​ທີ່​ເປັນ​ພື້ນ​ຖານ​ສໍາ​ລັບ​ການ​ສົນ​ທະ​ນາ​ສ່ວນ​ບຸກ​ຄົນ​, ກະ​ທູ້ forum (ຂໍ້​ຄວາມ​ທີ່​ມີ​ຄໍາ​ເຫັນ​) ແລະ​ການ​ພົວ​ພັນ​ກັບ​ຊຸມ​ຊົນ​ໃນ​ທົ່ວ​ໂລກ​.
+## àº„àº§àº²àº¡à»€àº›àº±àº™à»„àº›à»„àº”à»‰ à»àº¥àº°àº„àº¸àº™àºªàº»àº¡àºšàº±àº”
+- ** àºàº²àº™â€‹àºªàº·à»ˆâ€‹àºªàº²àº™ Multimedia **â€‹: àº¥àº°â€‹àºšàº»àºšâ€‹àºàº²àº™â€‹àº›àº¸àº‡â€‹à»àº•à»ˆàº‡â€‹àºšà»à»ˆâ€‹àºžàº½àº‡â€‹à»àº•à»ˆâ€‹àº‚à»à»‰â€‹àº„àº§àº²àº¡â€‹, à»àº•à»ˆâ€‹àºàº±àº‡â€‹àº®àº¹àºšâ€‹àºžàº²àºšâ€‹, àºªàº½àº‡â€‹à»àº¥àº°â€‹àº§àº´â€‹àº”àºµâ€‹à»‚àº­â€‹. àº­àº±àº™àº™àºµà»‰àº­àº°àº™àº¸àºàº²àº”à»ƒàº«à»‰àº¡àºµàºàº²àº™àºªàº»àº™àº—àº°àº™àº²à»àºšàºšà»€àº¥àº´àºà»€àºŠàº´à»ˆàº‡à»€àº•àº±àº¡àº—àºµà»ˆ (à»€àºŠàº±à»ˆàº™: àºàº²àº™à»‚àº—àº§àº´àº”àºµà»‚àº­ àº«àº¼àº·àº‚à»à»‰àº„àº§àº²àº¡àºªàº½àº‡) à»ƒàº™à»€àº§àº¥àº²àºˆàº´àº‡à»ƒàº™àº—àº»à»ˆàº§àº‚àº­àºšà»€àº‚àº”àºžàº²àºªàº².
+- **àº„àº§àº²àº¡â€‹àº­à»ˆàº­àº™â€‹à»„àº«àº§â€‹àº‚àº­àº‡â€‹à»€àº™àº·à»‰àº­â€‹à»ƒàº™**â€‹: àºàº²àº™â€‹àºàº§àº”â€‹àºªàº­àºšâ€‹àºàº²àº™ ironyâ€‹, idiomsâ€‹, jargon à»àº¥àº°â€‹àºžàº²â€‹àºªàº²â€‹àºžàº²àºâ€‹àºžàº·à»‰àº™â€‹àº—àºµà»ˆâ€‹àº¡àº±àºâ€‹àºˆàº°â€‹à»€àº‚àº»à»‰àº²â€‹à»ƒàºˆâ€‹àºœàº´àº”â€‹à»‚àº”àºâ€‹àºœàº¹à»‰â€‹à»àº›â€‹àºžàº·à»‰àº™â€‹à»€àº¡àº·àº­àº‡â€‹.
+- **à»€àº„àº·àº­â€‹àº‚à»ˆàº²àºâ€‹àº‚à»‰àº²àº¡â€‹à»€àº§â€‹àº—àºµâ€‹àºàº²àº™**â€‹: à»€àº®àº±àº”â€‹àº«àº™à»‰àº²â€‹àº—àºµà»ˆâ€‹à»€àº›àº±àº™â€‹àºžàº·à»‰àº™â€‹àº–àº²àº™â€‹àºªà»àº²â€‹àº¥àº±àºšâ€‹àºàº²àº™â€‹àºªàº»àº™â€‹àº—àº°â€‹àº™àº²â€‹àºªà»ˆàº§àº™â€‹àºšàº¸àºâ€‹àº„àº»àº™â€‹, àºàº°â€‹àº—àº¹à»‰ forum (àº‚à»à»‰â€‹àº„àº§àº²àº¡â€‹àº—àºµà»ˆâ€‹àº¡àºµâ€‹àº„à»àº²â€‹à»€àº«àº±àº™â€‹) à»àº¥àº°â€‹àºàº²àº™â€‹àºžàº»àº§â€‹àºžàº±àº™â€‹àºàº±àºšâ€‹àºŠàº¸àº¡â€‹àºŠàº»àº™â€‹à»ƒàº™â€‹àº—àº»à»ˆàº§â€‹à»‚àº¥àºâ€‹.
 
 ---
 
-## ສະຖາປັດຕະຍະກຳ (ແນວຄວາມຄິດຫຼັກ)
+## àºªàº°àº–àº²àº›àº±àº”àº•àº°àºàº°àºàº³ (à»àº™àº§àº„àº§àº²àº¡àº„àº´àº”àº«àº¼àº±àº)
 
 ![Nexus Gaja Translation Concept](assets/img/nexus_translation.jpg)
 
-ຫຼັກດ້ານວິຊາການຂອງ Nexus Gaja ແມ່ນຮູບແບບການສື່ສານທີ່ພັດທະນາດ້ວຍຕົນເອງ, ເຊິ່ງແບ່ງອອກເປັນສາມຊັ້ນຢ່າງເຂັ້ມງວດ:
+àº«àº¼àº±àºàº”à»‰àº²àº™àº§àº´àºŠàº²àºàº²àº™àº‚àº­àº‡ Nexus Gaja à»àº¡à»ˆàº™àº®àº¹àºšà»àºšàºšàºàº²àº™àºªàº·à»ˆàºªàº²àº™àº—àºµà»ˆàºžàº±àº”àº—àº°àº™àº²àº”à»‰àº§àºàº•àº»àº™à»€àº­àº‡, à»€àºŠàº´à»ˆàº‡à»àºšà»ˆàº‡àº­àº­àºà»€àº›àº±àº™àºªàº²àº¡àºŠàº±à»‰àº™àº¢à»ˆàº²àº‡à»€àº‚àº±à»‰àº¡àº‡àº§àº”:
 
-1. **ຕົ້ນສະບັບ**: ວັດຖຸການສື່ສານ (ຂໍ້ຄວາມ) ທີ່ສ້າງຂຶ້ນໂດຍຜູ້ສົ່ງແມ່ນຄົງທີ່ບໍ່ສາມາດປ່ຽນແປງໄດ້ສະເໝີ.
-2. ** ການຕີຄວາມໝາຍຄວາມໝາຍ **: ລະບົບການວິເຄາະບໍ່ພຽງແຕ່ຄຳສັບ, ແຕ່ຄວາມໝາຍຕົວຈິງ.
-3. **ການເປັນຕົວແທນຂອງພາສາເປົ້າໝາຍ**: AI ພຽງແຕ່ສ້າງຕົວແທນຊົ່ວຄາວ ຫຼືຈາກຖານຄວາມຈຳຂອງຕົ້ນສະບັບໃຫ້ກັບຜູ້ຮັບໂດຍອີງຕາມພາສາທີ່ເຂົາເຈົ້າຕ້ອງການ. ການແປບໍ່ເຄີຍຂຽນທັບຂໍ້ຄວາມຕົ້ນສະບັບ.
+1. **àº•àº»à»‰àº™àºªàº°àºšàº±àºš**: àº§àº±àº”àº–àº¸àºàº²àº™àºªàº·à»ˆàºªàº²àº™ (àº‚à»à»‰àº„àº§àº²àº¡) àº—àºµà»ˆàºªà»‰àº²àº‡àº‚àº¶à»‰àº™à»‚àº”àºàºœàº¹à»‰àºªàº»à»ˆàº‡à»àº¡à»ˆàº™àº„àº»àº‡àº—àºµà»ˆàºšà»à»ˆàºªàº²àº¡àº²àº”àº›à»ˆàº½àº™à»àº›àº‡à»„àº”à»‰àºªàº°à»€à»àºµ.
+2. ** àºàº²àº™àº•àºµàº„àº§àº²àº¡à»àº²àºàº„àº§àº²àº¡à»àº²àº **: àº¥àº°àºšàº»àºšàºàº²àº™àº§àº´à»€àº„àº²àº°àºšà»à»ˆàºžàº½àº‡à»àº•à»ˆàº„àº³àºªàº±àºš, à»àº•à»ˆàº„àº§àº²àº¡à»àº²àºàº•àº»àº§àºˆàº´àº‡.
+3. **àºàº²àº™à»€àº›àº±àº™àº•àº»àº§à»àº—àº™àº‚àº­àº‡àºžàº²àºªàº²à»€àº›àº»à»‰àº²à»àº²àº**: AI àºžàº½àº‡à»àº•à»ˆàºªà»‰àº²àº‡àº•àº»àº§à»àº—àº™àºŠàº»à»ˆàº§àº„àº²àº§ àº«àº¼àº·àºˆàº²àºàº–àº²àº™àº„àº§àº²àº¡àºˆàº³àº‚àº­àº‡àº•àº»à»‰àº™àºªàº°àºšàº±àºšà»ƒàº«à»‰àºàº±àºšàºœàº¹à»‰àº®àº±àºšà»‚àº”àºàº­àºµàº‡àº•àº²àº¡àºžàº²àºªàº²àº—àºµà»ˆà»€àº‚àº»àº²à»€àºˆàº»à»‰àº²àº•à»‰àº­àº‡àºàº²àº™. àºàº²àº™à»àº›àºšà»à»ˆà»€àº„àºµàºàº‚àº½àº™àº—àº±àºšàº‚à»à»‰àº„àº§àº²àº¡àº•àº»à»‰àº™àºªàº°àºšàº±àºš.
 
-### ຄວາມຂຶ້ນກັບບໍລິບົດ
-ການແປພາສາບໍ່ເຄີຍເບິ່ງຂ່າວໃນ Nexus Gaja ໃນຄວາມໂດດດ່ຽວ. ເຄື່ອງຈັກໃຊ້ເວລາລໍາດັບຊັ້ນທັງຫມົດເຂົ້າໃນບັນຊີ:
-`ຂໍ້ຄວາມ` → `ຂໍ້ຄວາມກ່ອນໜ້າ` → `ບໍລິບົດກະທູ້` → `ບໍລິບົດຊຸມຊົນ` → `ພາສາ / ພາກພື້ນ` → `ຄວາມມັກຂອງຜູ້ໃຊ້`
+### àº„àº§àº²àº¡àº‚àº¶à»‰àº™àºàº±àºšàºšà»àº¥àº´àºšàº»àº”
+àºàº²àº™à»àº›àºžàº²àºªàº²àºšà»à»ˆà»€àº„àºµàºà»€àºšàº´à»ˆàº‡àº‚à»ˆàº²àº§à»ƒàº™ Nexus Gaja à»ƒàº™àº„àº§àº²àº¡à»‚àº”àº”àº”à»ˆàº½àº§. à»€àº„àº·à»ˆàº­àº‡àºˆàº±àºà»ƒàºŠà»‰à»€àº§àº¥àº²àº¥à»àº²àº”àº±àºšàºŠàº±à»‰àº™àº—àº±àº‡àº«àº¡àº»àº”à»€àº‚àº»à»‰àº²à»ƒàº™àºšàº±àº™àºŠàºµ:
+`àº‚à»à»‰àº„àº§àº²àº¡` â†’ `àº‚à»à»‰àº„àº§àº²àº¡àºà»ˆàº­àº™à»œà»‰àº²` â†’ `àºšà»àº¥àº´àºšàº»àº”àºàº°àº—àº¹à»‰` â†’ `àºšà»àº¥àº´àºšàº»àº”àºŠàº¸àº¡àºŠàº»àº™` â†’ `àºžàº²àºªàº² / àºžàº²àºàºžàº·à»‰àº™` â†’ `àº„àº§àº²àº¡àº¡àº±àºàº‚àº­àº‡àºœàº¹à»‰à»ƒàºŠà»‰`
 
-### ປະສິດທິພາບຜ່ານການແປຕາມຄວາມຕ້ອງການ
-ການແປພາສາເກີດຂຶ້ນ ** ເມື່ອເອີ້ນວ່າ ** (ຕາມຄວາມຕ້ອງການ) ໃນລັກສະນະປະຢັດຊັບພະຍາກອນ. ເມື່ອຜູ້ໃຊ້ຮ້ອງຂໍເນື້ອຫາ, ມັນຈະຖືກແປເປັນພາສາເລີ່ມຕົ້ນຂອງພວກເຂົາ. ການແປສໍາລັບພາສາສະເພາະແມ່ນຖືກເກັບໄວ້ຖາວອນ (ຖານຄວາມຈໍາ) ເພື່ອເຮັດໃຫ້ການສອບຖາມຕໍ່ມາໄວຂຶ້ນຢ່າງຫຼວງຫຼາຍ.
+### àº›àº°àºªàº´àº”àº—àº´àºžàº²àºšàºœà»ˆàº²àº™àºàº²àº™à»àº›àº•àº²àº¡àº„àº§àº²àº¡àº•à»‰àº­àº‡àºàº²àº™
+àºàº²àº™à»àº›àºžàº²àºªàº²à»€àºàºµàº”àº‚àº¶à»‰àº™ ** à»€àº¡àº·à»ˆàº­à»€àº­àºµà»‰àº™àº§à»ˆàº² ** (àº•àº²àº¡àº„àº§àº²àº¡àº•à»‰àº­àº‡àºàº²àº™) à»ƒàº™àº¥àº±àºàºªàº°àº™àº°àº›àº°àº¢àº±àº”àºŠàº±àºšàºžàº°àºàº²àºàº­àº™. à»€àº¡àº·à»ˆàº­àºœàº¹à»‰à»ƒàºŠà»‰àº®à»‰àº­àº‡àº‚à»à»€àº™àº·à»‰àº­àº«àº², àº¡àº±àº™àºˆàº°àº–àº·àºà»àº›à»€àº›àº±àº™àºžàº²àºªàº²à»€àº¥àºµà»ˆàº¡àº•àº»à»‰àº™àº‚àº­àº‡àºžàº§àºà»€àº‚àº»àº². àºàº²àº™à»àº›àºªà»àº²àº¥àº±àºšàºžàº²àºªàº²àºªàº°à»€àºžàº²àº°à»àº¡à»ˆàº™àº–àº·àºà»€àºàº±àºšà»„àº§à»‰àº–àº²àº§àº­àº™ (àº–àº²àº™àº„àº§àº²àº¡àºˆà»àº²) à»€àºžàº·à»ˆàº­à»€àº®àº±àº”à»ƒàº«à»‰àºàº²àº™àºªàº­àºšàº–àº²àº¡àº•à»à»ˆàº¡àº²à»„àº§àº‚àº¶à»‰àº™àº¢à»ˆàº²àº‡àº«àº¼àº§àº‡àº«àº¼àº²àº.
 
-## ການປານກາງທີ່ໃຊ້ AI (WP 1.8.4)
+## àºàº²àº™àº›àº²àº™àºàº²àº‡àº—àºµà»ˆà»ƒàºŠà»‰ AI (WP 1.8.4)
 
 ![Nexus Gaja AI Moderation](assets/img/nexus_moderation.jpg)
 
-ດ້ວຍການປານກາງທີ່ສະຫນັບສະຫນູນ AI, ພວກເຮົາເອົາບາດກ້າວອັນໃຫຍ່ຫຼວງຈາກແນວຄວາມຄິດຂອງຜະລິດຕະພັນໄປສູ່ສະຖາປັດຕະຍະກໍາດ້ານວິຊາການແລະຄໍານຶງເຖິງກົດລະບຽບໃນປະຈຸບັນຂອງ EU (ພັນທະຄວາມໂປ່ງໃສຂອງ EU AI Act ອີງຕາມ Art. 50; ກົດຫມາຍວ່າດ້ວຍການບໍລິການດິຈິຕອນທີ່ມີເຫດຜົນທີ່ສົມບູນແບບແລະທາງເລືອກສໍາລັບການຄັດຄ້ານ).
+àº”à»‰àº§àºàºàº²àº™àº›àº²àº™àºàº²àº‡àº—àºµà»ˆàºªàº°àº«àº™àº±àºšàºªàº°àº«àº™àº¹àº™ AI, àºžàº§àºà»€àº®àº»àº²à»€àº­àº»àº²àºšàº²àº”àºà»‰àº²àº§àº­àº±àº™à»ƒàº«àºà»ˆàº«àº¼àº§àº‡àºˆàº²àºà»àº™àº§àº„àº§àº²àº¡àº„àº´àº”àº‚àº­àº‡àºœàº°àº¥àº´àº”àº•àº°àºžàº±àº™à»„àº›àºªàº¹à»ˆàºªàº°àº–àº²àº›àº±àº”àº•àº°àºàº°àºà»àº²àº”à»‰àº²àº™àº§àº´àºŠàº²àºàº²àº™à»àº¥àº°àº„à»àº²àº™àº¶àº‡à»€àº–àº´àº‡àºàº»àº”àº¥àº°àºšàº½àºšà»ƒàº™àº›àº°àºˆàº¸àºšàº±àº™àº‚àº­àº‡ EU (àºžàº±àº™àº—àº°àº„àº§àº²àº¡à»‚àº›à»ˆàº‡à»ƒàºªàº‚àº­àº‡ EU AI Act àº­àºµàº‡àº•àº²àº¡ Art. 50; àºàº»àº”àº«àº¡àº²àºàº§à»ˆàº²àº”à»‰àº§àºàºàº²àº™àºšà»àº¥àº´àºàº²àº™àº”àº´àºˆàº´àº•àº­àº™àº—àºµà»ˆàº¡àºµà»€àº«àº”àºœàº»àº™àº—àºµà»ˆàºªàº»àº¡àºšàº¹àº™à»àºšàºšà»àº¥àº°àº—àº²àº‡à»€àº¥àº·àº­àºàºªà»àº²àº¥àº±àºšàºàº²àº™àº„àº±àº”àº„à»‰àº²àº™).
 
-### 1. ຫຼັກການພື້ນຖານ
-ປະໂຫຍກທີ່ສໍາຄັນທີ່ສຸດສໍາລັບສະຖາປັດຕະຍະກໍາແມ່ນ: ** Moderation AI ແມ່ນລະບົບການກວດສອບແລະບໍ່ແມ່ນລະບົບປົກຄອງຕົນເອງ.**
-ມັນມີຈຸດປະສົງເພື່ອສະຫນັບສະຫນູນປະຊາຊົນໃນລະດັບປານກາງ, ບໍ່ແມ່ນການກໍານົດວ່າຄວາມຄິດເຫັນໃດອະນຸຍາດໃຫ້ມີຢູ່ໃນ Nexus Gaja.
-ດັ່ງນັ້ນພວກເຮົາຈໍາແນກລະຫວ່າງສາມຢ່າງ:
-- ** ກວດ​ສອບ​: ** "ອາດ​ຈະ​ມີ​ການ​ລະ​ເມີດ​ກົດ​ລະ​ບຽບ​ທີ່​ນີ້​."
-- ** ອັດຕາ:** "ຕົວຢ່າງ, ຄວາມເປັນໄປໄດ້ຂອງການລະເມີດກົດລະບຽບແມ່ນ 94%.
-- ** ຕັດ​ສິນ​ໃຈ​: ** "ການ​ປະ​ຕິ​ບັດ​ອັນ​ໃດ​ທີ່​ແທ້​ຈິງ​ຈະ​ໄດ້​ຮັບ​ການ​ປະ​ຕິ​ບັດ​?"
-ລະດັບທີສາມຕ້ອງໄດ້ຮັບການຄວບຄຸມຂອງມະນຸດໃນກໍລະນີຮ້າຍແຮງ.
+### 1. àº«àº¼àº±àºàºàº²àº™àºžàº·à»‰àº™àº–àº²àº™
+àº›àº°à»‚àº«àºàºàº—àºµà»ˆàºªà»àº²àº„àº±àº™àº—àºµà»ˆàºªàº¸àº”àºªà»àº²àº¥àº±àºšàºªàº°àº–àº²àº›àº±àº”àº•àº°àºàº°àºà»àº²à»àº¡à»ˆàº™: ** Moderation AI à»àº¡à»ˆàº™àº¥àº°àºšàº»àºšàºàº²àº™àºàº§àº”àºªàº­àºšà»àº¥àº°àºšà»à»ˆà»àº¡à»ˆàº™àº¥àº°àºšàº»àºšàº›àº»àºàº„àº­àº‡àº•àº»àº™à»€àº­àº‡.**
+àº¡àº±àº™àº¡àºµàºˆàº¸àº”àº›àº°àºªàº»àº‡à»€àºžàº·à»ˆàº­àºªàº°àº«àº™àº±àºšàºªàº°àº«àº™àº¹àº™àº›àº°àºŠàº²àºŠàº»àº™à»ƒàº™àº¥àº°àº”àº±àºšàº›àº²àº™àºàº²àº‡, àºšà»à»ˆà»àº¡à»ˆàº™àºàº²àº™àºà»àº²àº™àº»àº”àº§à»ˆàº²àº„àº§àº²àº¡àº„àº´àº”à»€àº«àº±àº™à»ƒàº”àº­àº°àº™àº¸àºàº²àº”à»ƒàº«à»‰àº¡àºµàº¢àº¹à»ˆà»ƒàº™ Nexus Gaja.
+àº”àº±à»ˆàº‡àº™àº±à»‰àº™àºžàº§àºà»€àº®àº»àº²àºˆà»àº²à»àº™àºàº¥àº°àº«àº§à»ˆàº²àº‡àºªàº²àº¡àº¢à»ˆàº²àº‡:
+- ** àºàº§àº”â€‹àºªàº­àºšâ€‹: ** "àº­àº²àº”â€‹àºˆàº°â€‹àº¡àºµâ€‹àºàº²àº™â€‹àº¥àº°â€‹à»€àº¡àºµàº”â€‹àºàº»àº”â€‹àº¥àº°â€‹àºšàº½àºšâ€‹àº—àºµà»ˆâ€‹àº™àºµà»‰â€‹."
+- ** àº­àº±àº”àº•àº²:** "àº•àº»àº§àº¢à»ˆàº²àº‡, àº„àº§àº²àº¡à»€àº›àº±àº™à»„àº›à»„àº”à»‰àº‚àº­àº‡àºàº²àº™àº¥àº°à»€àº¡àºµàº”àºàº»àº”àº¥àº°àºšàº½àºšà»àº¡à»ˆàº™ 94%.
+- ** àº•àº±àº”â€‹àºªàº´àº™â€‹à»ƒàºˆâ€‹: ** "àºàº²àº™â€‹àº›àº°â€‹àº•àº´â€‹àºšàº±àº”â€‹àº­àº±àº™â€‹à»ƒàº”â€‹àº—àºµà»ˆâ€‹à»àº—à»‰â€‹àºˆàº´àº‡â€‹àºˆàº°â€‹à»„àº”à»‰â€‹àº®àº±àºšâ€‹àºàº²àº™â€‹àº›àº°â€‹àº•àº´â€‹àºšàº±àº”â€‹?"
+àº¥àº°àº”àº±àºšàº—àºµàºªàº²àº¡àº•à»‰àº­àº‡à»„àº”à»‰àº®àº±àºšàºàº²àº™àº„àº§àºšàº„àº¸àº¡àº‚àº­àº‡àº¡àº°àº™àº¸àº”à»ƒàº™àºà»àº¥àº°àº™àºµàº®à»‰àº²àºà»àº®àº‡.
 
-### 2. ການປານກາງ AI ຈະເປັນລະບົບຍ່ອຍຂອງຕົນເອງ
-ແທນທີ່ຈະເປັນ AI ດຽວ, ລະບົບຍ່ອຍທີ່ເຂັ້ມແຂງໄດ້ຖືກສ້າງຕັ້ງຂຶ້ນ:
-``` ຂໍ້ຄວາມ
+### 2. àºàº²àº™àº›àº²àº™àºàº²àº‡ AI àºˆàº°à»€àº›àº±àº™àº¥àº°àºšàº»àºšàºà»ˆàº­àºàº‚àº­àº‡àº•àº»àº™à»€àº­àº‡
+à»àº—àº™àº—àºµà»ˆàºˆàº°à»€àº›àº±àº™ AI àº”àº½àº§, àº¥àº°àºšàº»àºšàºà»ˆàº­àºàº—àºµà»ˆà»€àº‚àº±à»‰àº¡à»àº‚àº‡à»„àº”à»‰àº–àº·àºàºªà»‰àº²àº‡àº•àº±à»‰àº‡àº‚àº¶à»‰àº™:
+``` àº‚à»à»‰àº„àº§àº²àº¡
                  NEXUS GAJA AI MODERATION
-                          │
-       ┌─────────────────── ┼────────────────
-       │ │ │
-  ພາສາ AI ຄວາມປອດໄພ AI ການສໍ້ໂກງ AI
-       │ │ │
-       ├───────────────┬─── ┴───────────────┬───┤
-       │ │ │
- ການແປພຶດຕິກຳຕົວຕົນ
- ສັນຍານການວິເຄາະການວິເຄາະ
-       │ │ │
-       └─────────────────────────────────────┘
-                      ▼
-               ການປະເມີນຄວາມສ່ຽງ
-                      │
-                      ▼
-               ການທົບທວນຄືນຂອງມະນຸດ
+                          â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+       â”‚ â”‚ â”‚
+  àºžàº²àºªàº² AI àº„àº§àº²àº¡àº›àº­àº”à»„àºž AI àºàº²àº™àºªà»à»‰à»‚àºàº‡ AI
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€ â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”¤
+       â”‚ â”‚ â”‚
+ àºàº²àº™à»àº›àºžàº¶àº”àº•àº´àºàº³àº•àº»àº§àº•àº»àº™
+ àºªàº±àº™àºàº²àº™àºàº²àº™àº§àº´à»€àº„àº²àº°àºàº²àº™àº§àº´à»€àº„àº²àº°
+       â”‚ â”‚ â”‚
+       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+                      â–¼
+               àºàº²àº™àº›àº°à»€àº¡àºµàº™àº„àº§àº²àº¡àºªà»ˆàº½àº‡
+                      â”‚
+                      â–¼
+               àºàº²àº™àº—àº»àºšàº—àº§àº™àº„àº·àº™àº‚àº­àº‡àº¡àº°àº™àº¸àº”
 ```
 
-### 3. ໂມດູນ AI ທີ່ສໍາຄັນທີ່ສຸດ
-ມີເກົ້າເຂດການວິເຄາະພິເສດສໍາລັບ Nexus Gaja:
-- **M1 – ຄວາມ​ເຂົ້າ​ໃຈ​ຂອງ​ພາ​ສາ **​: ການ​ກວດ​ສອບ​ພາ​ສາ​, ພາ​ສາ​, ພາ​ສາ​, slang​, ຕົວ​ຊີ້​ວັດ​ການ irony​, ບັນ​ຫາ​ການ​ແປ​ພາ​ສາ​.
-- **M2 – ການ​ກວດ​ສອບ​ຄວາມ​ເປັນ​ພິດ / ການ​ລ່ວງ​ລະ​ເມີດ **​: ກວດ​ສອບ​ການ​ດູ​ຖູກ​, ການ​ໂຈມ​ຕີ​ສ່ວນ​ບຸກ​ຄົນ​, ການ​ຂົ່ມ​ເຫັງ​.
-- **M3 – ການ​ກວດ​ສອບ​ໄພ​ຂົ່ມ​ຂູ່**​: ກວດ​ພົບ​ໄພ​ຂົ່ມ​ຂູ່​ທີ່​ເປັນ​ໄປ​ໄດ້​, blackmail​, ແລະ​ໄພ​ຂົ່ມ​ຂູ່​ຂອງ​ຄວາມ​ຮຸນ​ແຮງ​.
-- **M4 – ການ​ກວດ​ສອບ​ຄວາມ​ກຽດ​ຊັງ / Dehumanization **​: ກວດ​ສອບ​ການ​ໂຈມ​ຕີ​ເປົ້າ​ຫມາຍ​ກ່ຽວ​ກັບ​ປະ​ຊາ​ຊົນ​ໂດຍ​ອີງ​ໃສ່​ການ​ກ່ຽວ​ຂ້ອງ​ສະ​ເພາະ​.
-- **M5 – Spam / Manipulation Detection**: ກວດພົບ spam, ພຶດຕິກໍາ bot, ການປະສານງານການຫມູນໃຊ້.
-- **M6 – ການ​ກວດ​ສອບ​ການ​ສໍ້​ໂກງ**​: ກວດ​ສອບ​ຄວາມ​ພະ​ຍາ​ຍາມ​ການ​ສໍ້​ໂກງ​ທີ່​ຫນ້າ​ສົງ​ໃສ​, phishing​, ວິ​ສະ​ວະ​ກໍາ​ສັງ​ຄົມ​.
-- **M7 – Identity Integrity**: ກວດ​ສອບ​ສັນ​ຍານ​ກ່ຽວ​ກັບ​ການ​ຄອບ​ຄອງ​ບັນ​ຊີ​, ຫຼາຍ​ບັນ​ຊີ​, ຕັນ bypass​.
-- ** M8 - ຄວາມ​ປອດ​ໄພ​ສື່​ມວນ​ຊົນ **​: ການ​ວິ​ເຄາະ​ຮູບ​ພາບ​, ສຽງ​, ວິ​ດີ​ໂອ​, ເອ​ກະ​ສານ​.
-- **M9 – Context Engine**: ໂມດູນທີ່ສໍາຄັນທີ່ສຸດ. ມັນນໍາເອົາການຄົ້ນພົບສ່ວນບຸກຄົນຮ່ວມກັນ.
+### 3. à»‚àº¡àº”àº¹àº™ AI àº—àºµà»ˆàºªà»àº²àº„àº±àº™àº—àºµà»ˆàºªàº¸àº”
+àº¡àºµà»€àºàº»à»‰àº²à»€àº‚àº”àºàº²àº™àº§àº´à»€àº„àº²àº°àºžàº´à»€àºªàº”àºªà»àº²àº¥àº±àºš Nexus Gaja:
+- **M1 â€“ àº„àº§àº²àº¡â€‹à»€àº‚àº»à»‰àº²â€‹à»ƒàºˆâ€‹àº‚àº­àº‡â€‹àºžàº²â€‹àºªàº² **â€‹: àºàº²àº™â€‹àºàº§àº”â€‹àºªàº­àºšâ€‹àºžàº²â€‹àºªàº²â€‹, àºžàº²â€‹àºªàº²â€‹, àºžàº²â€‹àºªàº²â€‹, slangâ€‹, àº•àº»àº§â€‹àºŠàºµà»‰â€‹àº§àº±àº”â€‹àºàº²àº™ ironyâ€‹, àºšàº±àº™â€‹àº«àº²â€‹àºàº²àº™â€‹à»àº›â€‹àºžàº²â€‹àºªàº²â€‹.
+- **M2 â€“ àºàº²àº™â€‹àºàº§àº”â€‹àºªàº­àºšâ€‹àº„àº§àº²àº¡â€‹à»€àº›àº±àº™â€‹àºžàº´àº” / àºàº²àº™â€‹àº¥à»ˆàº§àº‡â€‹àº¥àº°â€‹à»€àº¡àºµàº” **â€‹: àºàº§àº”â€‹àºªàº­àºšâ€‹àºàº²àº™â€‹àº”àº¹â€‹àº–àº¹àºâ€‹, àºàº²àº™â€‹à»‚àºˆàº¡â€‹àº•àºµâ€‹àºªà»ˆàº§àº™â€‹àºšàº¸àºâ€‹àº„àº»àº™â€‹, àºàº²àº™â€‹àº‚àº»à»ˆàº¡â€‹à»€àº«àº±àº‡â€‹.
+- **M3 â€“ àºàº²àº™â€‹àºàº§àº”â€‹àºªàº­àºšâ€‹à»„àºžâ€‹àº‚àº»à»ˆàº¡â€‹àº‚àº¹à»ˆ**â€‹: àºàº§àº”â€‹àºžàº»àºšâ€‹à»„àºžâ€‹àº‚àº»à»ˆàº¡â€‹àº‚àº¹à»ˆâ€‹àº—àºµà»ˆâ€‹à»€àº›àº±àº™â€‹à»„àº›â€‹à»„àº”à»‰â€‹, blackmailâ€‹, à»àº¥àº°â€‹à»„àºžâ€‹àº‚àº»à»ˆàº¡â€‹àº‚àº¹à»ˆâ€‹àº‚àº­àº‡â€‹àº„àº§àº²àº¡â€‹àº®àº¸àº™â€‹à»àº®àº‡â€‹.
+- **M4 â€“ àºàº²àº™â€‹àºàº§àº”â€‹àºªàº­àºšâ€‹àº„àº§àº²àº¡â€‹àºàº½àº”â€‹àºŠàº±àº‡ / Dehumanization **â€‹: àºàº§àº”â€‹àºªàº­àºšâ€‹àºàº²àº™â€‹à»‚àºˆàº¡â€‹àº•àºµâ€‹à»€àº›àº»à»‰àº²â€‹àº«àº¡àº²àºâ€‹àºà»ˆàº½àº§â€‹àºàº±àºšâ€‹àº›àº°â€‹àºŠàº²â€‹àºŠàº»àº™â€‹à»‚àº”àºâ€‹àº­àºµàº‡â€‹à»ƒàºªà»ˆâ€‹àºàº²àº™â€‹àºà»ˆàº½àº§â€‹àº‚à»‰àº­àº‡â€‹àºªàº°â€‹à»€àºžàº²àº°â€‹.
+- **M5 â€“ Spam / Manipulation Detection**: àºàº§àº”àºžàº»àºš spam, àºžàº¶àº”àº•àº´àºà»àº² bot, àºàº²àº™àº›àº°àºªàº²àº™àº‡àº²àº™àºàº²àº™àº«àº¡àº¹àº™à»ƒàºŠà»‰.
+- **M6 â€“ àºàº²àº™â€‹àºàº§àº”â€‹àºªàº­àºšâ€‹àºàº²àº™â€‹àºªà»à»‰â€‹à»‚àºàº‡**â€‹: àºàº§àº”â€‹àºªàº­àºšâ€‹àº„àº§àº²àº¡â€‹àºžàº°â€‹àºàº²â€‹àºàº²àº¡â€‹àºàº²àº™â€‹àºªà»à»‰â€‹à»‚àºàº‡â€‹àº—àºµà»ˆâ€‹àº«àº™à»‰àº²â€‹àºªàº»àº‡â€‹à»ƒàºªâ€‹, phishingâ€‹, àº§àº´â€‹àºªàº°â€‹àº§àº°â€‹àºà»àº²â€‹àºªàº±àº‡â€‹àº„àº»àº¡â€‹.
+- **M7 â€“ Identity Integrity**: àºàº§àº”â€‹àºªàº­àºšâ€‹àºªàº±àº™â€‹àºàº²àº™â€‹àºà»ˆàº½àº§â€‹àºàº±àºšâ€‹àºàº²àº™â€‹àº„àº­àºšâ€‹àº„àº­àº‡â€‹àºšàº±àº™â€‹àºŠàºµâ€‹, àº«àº¼àº²àºâ€‹àºšàº±àº™â€‹àºŠàºµâ€‹, àº•àº±àº™ bypassâ€‹.
+- ** M8 - àº„àº§àº²àº¡â€‹àº›àº­àº”â€‹à»„àºžâ€‹àºªàº·à»ˆâ€‹àº¡àº§àº™â€‹àºŠàº»àº™ **â€‹: àºàº²àº™â€‹àº§àº´â€‹à»€àº„àº²àº°â€‹àº®àº¹àºšâ€‹àºžàº²àºšâ€‹, àºªàº½àº‡â€‹, àº§àº´â€‹àº”àºµâ€‹à»‚àº­â€‹, à»€àº­â€‹àºàº°â€‹àºªàº²àº™â€‹.
+- **M9 â€“ Context Engine**: à»‚àº¡àº”àº¹àº™àº—àºµà»ˆàºªà»àº²àº„àº±àº™àº—àºµà»ˆàºªàº¸àº”. àº¡àº±àº™àº™à»àº²à»€àº­àº»àº²àºàº²àº™àº„àº»à»‰àº™àºžàº»àºšàºªà»ˆàº§àº™àºšàº¸àºàº„àº»àº™àº®à»ˆàº§àº¡àºàº±àº™.
 
-### 4. ເປັນຫຍັງ Context Engine ຈຶ່ງສຳຄັນຫຼາຍ
-ການຄົ້ນຫາຄໍາທີ່ບໍລິສຸດຈະບໍ່ພຽງພໍ. "ຂ້ອຍສາມາດຂ້າລາວຫົວເລາະ" ປະກອບດ້ວຍຄວາມຮຸນແຮງ semantic, ແຕ່ເປັນຕົວເລກຂອງຄໍາເວົ້າ. "ມື້ອື່ນເວລາ 8 ໂມງແລງຂ້ອຍຈະຍິງລາວຢູ່ຫນ້າເຮືອນຂອງລາວ" ແມ່ນສະຖານະການທີ່ແຕກຕ່າງກັນຫມົດ. AI ຈະຕ້ອງເຂົ້າໃຈວ່າຄໍາຖະແຫຼງທີ່ຫມາຍຄວາມວ່າແນວໃດໃນສະພາບການສະເພາະນີ້.
+### 4. à»€àº›àº±àº™àº«àºàº±àº‡ Context Engine àºˆàº¶à»ˆàº‡àºªàº³àº„àº±àº™àº«àº¼àº²àº
+àºàº²àº™àº„àº»à»‰àº™àº«àº²àº„à»àº²àº—àºµà»ˆàºšà»àº¥àº´àºªàº¸àº”àºˆàº°àºšà»à»ˆàºžàº½àº‡àºžà». "àº‚à»‰àº­àºàºªàº²àº¡àº²àº”àº‚à»‰àº²àº¥àº²àº§àº«àº»àº§à»€àº¥àº²àº°" àº›àº°àºàº­àºšàº”à»‰àº§àºàº„àº§àº²àº¡àº®àº¸àº™à»àº®àº‡ semantic, à»àº•à»ˆà»€àº›àº±àº™àº•àº»àº§à»€àº¥àºàº‚àº­àº‡àº„à»àº²à»€àº§àº»à»‰àº². "àº¡àº·à»‰àº­àº·à»ˆàº™à»€àº§àº¥àº² 8 à»‚àº¡àº‡à»àº¥àº‡àº‚à»‰àº­àºàºˆàº°àºàº´àº‡àº¥àº²àº§àº¢àº¹à»ˆàº«àº™à»‰àº²à»€àº®àº·àº­àº™àº‚àº­àº‡àº¥àº²àº§" à»àº¡à»ˆàº™àºªàº°àº–àº²àº™àº°àºàº²àº™àº—àºµà»ˆà»àº•àºàº•à»ˆàº²àº‡àºàº±àº™àº«àº¡àº»àº”. AI àºˆàº°àº•à»‰àº­àº‡à»€àº‚àº»à»‰àº²à»ƒàºˆàº§à»ˆàº²àº„à»àº²àº–àº°à»àº«àº¼àº‡àº—àºµà»ˆàº«àº¡àº²àºàº„àº§àº²àº¡àº§à»ˆàº²à»àº™àº§à»ƒàº”à»ƒàº™àºªàº°àºžàº²àºšàºàº²àº™àºªàº°à»€àºžàº²àº°àº™àºµà»‰.
 
-### 5. ປານກາງຫຼາຍພາສາ
-ການປານກາງບໍ່ສາມາດປຽບທຽບຄໍາສັບຕ່າງໆ. ມັນຕ້ອງວິເຄາະລະດັບຄວາມໝາຍ (ເຊັ່ນ: ພາສາເຢຍລະມັນທຽບກັບສຳນວນພາສາຍີ່ປຸ່ນທຽບກັບສຳນວນພາກພື້ນ).
+### 5. àº›àº²àº™àºàº²àº‡àº«àº¼àº²àºàºžàº²àºªàº²
+àºàº²àº™àº›àº²àº™àºàº²àº‡àºšà»à»ˆàºªàº²àº¡àº²àº”àº›àº½àºšàº—àº½àºšàº„à»àº²àºªàº±àºšàº•à»ˆàº²àº‡à»†. àº¡àº±àº™àº•à»‰àº­àº‡àº§àº´à»€àº„àº²àº°àº¥àº°àº”àº±àºšàº„àº§àº²àº¡à»àº²àº (à»€àºŠàº±à»ˆàº™: àºžàº²àºªàº²à»€àº¢àºàº¥àº°àº¡àº±àº™àº—àº½àºšàºàº±àºšàºªàº³àº™àº§àº™àºžàº²àºªàº²àºàºµà»ˆàº›àº¸à»ˆàº™àº—àº½àºšàºàº±àºšàºªàº³àº™àº§àº™àºžàº²àºàºžàº·à»‰àº™).
 
-### 6. ພາສາຕົ້ນສະບັບ + ການແປ
-ຕົ້ນສະບັບແລະການແປພາສາໄດ້ຖືກວິເຄາະແຍກຕ່າງຫາກ. ພຽງແຕ່ຫຼັງຈາກນັ້ນ "ການປະເມີນຄວາມປານກາງແບບປະສົມປະສານ" ເກີດຂຶ້ນ. ດ້ວຍວິທີນີ້, Nexus Gaja ສາມາດກໍານົດວ່າການແປພາສາຕົວມັນເອງອາດຈະຮ້າຍແຮງຂຶ້ນຫຼືປ່ຽນແປງສະຖານະການ.
+### 6. àºžàº²àºªàº²àº•àº»à»‰àº™àºªàº°àºšàº±àºš + àºàº²àº™à»àº›
+àº•àº»à»‰àº™àºªàº°àºšàº±àºšà»àº¥àº°àºàº²àº™à»àº›àºžàº²àºªàº²à»„àº”à»‰àº–àº·àºàº§àº´à»€àº„àº²àº°à»àºàºàº•à»ˆàº²àº‡àº«àº²àº. àºžàº½àº‡à»àº•à»ˆàº«àº¼àº±àº‡àºˆàº²àºàº™àº±à»‰àº™ "àºàº²àº™àº›àº°à»€àº¡àºµàº™àº„àº§àº²àº¡àº›àº²àº™àºàº²àº‡à»àºšàºšàº›àº°àºªàº»àº¡àº›àº°àºªàº²àº™" à»€àºàºµàº”àº‚àº¶à»‰àº™. àº”à»‰àº§àºàº§àº´àº—àºµàº™àºµà»‰, Nexus Gaja àºªàº²àº¡àº²àº”àºà»àº²àº™àº»àº”àº§à»ˆàº²àºàº²àº™à»àº›àºžàº²àºªàº²àº•àº»àº§àº¡àº±àº™à»€àº­àº‡àº­àº²àº”àºˆàº°àº®à»‰àº²àºà»àº®àº‡àº‚àº¶à»‰àº™àº«àº¼àº·àº›à»ˆàº½àº™à»àº›àº‡àºªàº°àº–àº²àº™àº°àºàº²àº™.
 
-### 7. ຄະແນນຄວາມໝັ້ນໃຈ
-ແຕ່ລະການປະເມີນ AI ໄດ້ຮັບຄ່າຄວາມໝັ້ນໃຈ (ເຊັ່ນ: ຄວາມເປັນໄປໄດ້ຂອງໄພຂົ່ມຂູ່: 0.96). ແຕ່: ** ຄະແນນຄວາມຫມັ້ນໃຈ ≠ ຄວາມຈິງ.** ຄະແນນ 96% ພຽງແຕ່ຫມາຍຄວາມວ່າຕົວແບບມີຄວາມຫມັ້ນໃຈຫຼາຍໃນການຈັດປະເພດຂອງມັນ, ບໍ່ຈໍາເປັນວ່າຜູ້ໃຊ້ມີຄວາມຜິດ.
+### 7. àº„àº°à»àº™àº™àº„àº§àº²àº¡à»àº±à»‰àº™à»ƒàºˆ
+à»àº•à»ˆàº¥àº°àºàº²àº™àº›àº°à»€àº¡àºµàº™ AI à»„àº”à»‰àº®àº±àºšàº„à»ˆàº²àº„àº§àº²àº¡à»àº±à»‰àº™à»ƒàºˆ (à»€àºŠàº±à»ˆàº™: àº„àº§àº²àº¡à»€àº›àº±àº™à»„àº›à»„àº”à»‰àº‚àº­àº‡à»„àºžàº‚àº»à»ˆàº¡àº‚àº¹à»ˆ: 0.96). à»àº•à»ˆ: ** àº„àº°à»àº™àº™àº„àº§àº²àº¡àº«àº¡àº±à»‰àº™à»ƒàºˆ â‰  àº„àº§àº²àº¡àºˆàº´àº‡.** àº„àº°à»àº™àº™ 96% àºžàº½àº‡à»àº•à»ˆàº«àº¡àº²àºàº„àº§àº²àº¡àº§à»ˆàº²àº•àº»àº§à»àºšàºšàº¡àºµàº„àº§àº²àº¡àº«àº¡àº±à»‰àº™à»ƒàºˆàº«àº¼àº²àºà»ƒàº™àºàº²àº™àºˆàº±àº”àº›àº°à»€àºžàº”àº‚àº­àº‡àº¡àº±àº™, àºšà»à»ˆàºˆà»àº²à»€àº›àº±àº™àº§à»ˆàº²àºœàº¹à»‰à»ƒàºŠà»‰àº¡àºµàº„àº§àº²àº¡àºœàº´àº”.
 
-### 8. ຄວາມບໍ່ແນ່ນອນຕົວມັນເອງກາຍເປັນສັນຍານ
-ຖ້າ AI ແມ່ນບໍ່ແນ່ນອນ (ເຊັ່ນ: ໄພຂົ່ມຂູ່: 0.62, Satire: 0.54), ມັນບໍ່ສາມາດປະຕິບັດຢ່າງໂຫດຮ້າຍ. ແທນທີ່ຈະ, ຄວາມບໍ່ແນ່ນອນແມ່ນສ້າງຂຶ້ນໂດຍກົງໃນສະຖາປັດຕະຍະກໍາ: ** ຕ້ອງມີການທົບທວນຄືນຂອງມະນຸດ **.
+### 8. àº„àº§àº²àº¡àºšà»à»ˆà»àº™à»ˆàº™àº­àº™àº•àº»àº§àº¡àº±àº™à»€àº­àº‡àºàº²àºà»€àº›àº±àº™àºªàº±àº™àºàº²àº™
+àº–à»‰àº² AI à»àº¡à»ˆàº™àºšà»à»ˆà»àº™à»ˆàº™àº­àº™ (à»€àºŠàº±à»ˆàº™: à»„àºžàº‚àº»à»ˆàº¡àº‚àº¹à»ˆ: 0.62, Satire: 0.54), àº¡àº±àº™àºšà»à»ˆàºªàº²àº¡àº²àº”àº›àº°àº•àº´àºšàº±àº”àº¢à»ˆàº²àº‡à»‚àº«àº”àº®à»‰àº²àº. à»àº—àº™àº—àºµà»ˆàºˆàº°, àº„àº§àº²àº¡àºšà»à»ˆà»àº™à»ˆàº™àº­àº™à»àº¡à»ˆàº™àºªà»‰àº²àº‡àº‚àº¶à»‰àº™à»‚àº”àºàºàº»àº‡à»ƒàº™àºªàº°àº–àº²àº›àº±àº”àº•àº°àºàº°àºà»àº²: ** àº•à»‰àº­àº‡àº¡àºµàºàº²àº™àº—àº»àºšàº—àº§àº™àº„àº·àº™àº‚àº­àº‡àº¡àº°àº™àº¸àº” **.
 
-### 9. ສີ່ເຂດການຕັດສິນໃຈ
-- 🟢 **ສີຂຽວ**: ສ່ວນຫຼາຍອາດຈະປະຕິບັດຕາມ. → ບໍ່​ມີ​ການ​ປະ​ຕິ​ບັດ​.
-- 🟡 **ສີເຫຼືອງ**: ການລະເມີດທີ່ເປັນໄປໄດ້. → ສັງເກດ / ສັງເກດຖ້າຈໍາເປັນ.
-- **ສີສົ້ມ**: ອາດຈະເປັນການລະເມີດ. → ກວດສອບການປານກາງ.
-- 🔴 **ສີແດງ**: ການລະເມີດທີ່ເປັນໄປໄດ້. →ມາດຕະການປ້ອງກັນທັນທີ + ການທົດສອບຂອງມະນຸດ.
+### 9. àºªàºµà»ˆà»€àº‚àº”àºàº²àº™àº•àº±àº”àºªàº´àº™à»ƒàºˆ
+- ðŸŸ¢ **àºªàºµàº‚àº½àº§**: àºªà»ˆàº§àº™àº«àº¼àº²àºàº­àº²àº”àºˆàº°àº›àº°àº•àº´àºšàº±àº”àº•àº²àº¡. â†’ àºšà»à»ˆâ€‹àº¡àºµâ€‹àºàº²àº™â€‹àº›àº°â€‹àº•àº´â€‹àºšàº±àº”â€‹.
+- ðŸŸ¡ **àºªàºµà»€àº«àº¼àº·àº­àº‡**: àºàº²àº™àº¥àº°à»€àº¡àºµàº”àº—àºµà»ˆà»€àº›àº±àº™à»„àº›à»„àº”à»‰. â†’ àºªàº±àº‡à»€àºàº” / àºªàº±àº‡à»€àºàº”àº–à»‰àº²àºˆà»àº²à»€àº›àº±àº™.
+- **àºªàºµàºªàº»à»‰àº¡**: àº­àº²àº”àºˆàº°à»€àº›àº±àº™àºàº²àº™àº¥àº°à»€àº¡àºµàº”. â†’ àºàº§àº”àºªàº­àºšàºàº²àº™àº›àº²àº™àºàº²àº‡.
+- ðŸ”´ **àºªàºµà»àº”àº‡**: àºàº²àº™àº¥àº°à»€àº¡àºµàº”àº—àºµà»ˆà»€àº›àº±àº™à»„àº›à»„àº”à»‰. â†’àº¡àº²àº”àº•àº°àºàº²àº™àº›à»‰àº­àº‡àºàº±àº™àº—àº±àº™àº—àºµ + àºàº²àº™àº—àº»àº”àºªàº­àºšàº‚àº­àº‡àº¡àº°àº™àº¸àº”.
 
-### 10. ບໍ່ມີ “ການລົງໂທດ AI”
-** AI ບໍ່ໄດ້ກໍານົດການລົງໂທດຂັ້ນສຸດທ້າຍ.** ມັນສາມາດເຮັດໃຫ້ເກີດມາດຕະການທາງດ້ານວິຊາການສຸກເສີນ (ເຊັ່ນ: ຂໍ້ຄວາມກັກຕົວ) ໃນກໍລະນີທີ່ມີຄວາມກັງວົນກ່ຽວກັບຄວາມປອດໄພທີ່ຮ້າຍແຮງ, ແຕ່ການຕັດສິນໃຈສຸດທ້າຍຍັງຄົງສາມາດກວດສອບໄດ້.
+### 10. àºšà»à»ˆàº¡àºµ â€œàºàº²àº™àº¥àº»àº‡à»‚àº—àº” AIâ€
+** AI àºšà»à»ˆà»„àº”à»‰àºà»àº²àº™àº»àº”àºàº²àº™àº¥àº»àº‡à»‚àº—àº”àº‚àº±à»‰àº™àºªàº¸àº”àº—à»‰àº²àº.** àº¡àº±àº™àºªàº²àº¡àº²àº”à»€àº®àº±àº”à»ƒàº«à»‰à»€àºàºµàº”àº¡àº²àº”àº•àº°àºàº²àº™àº—àº²àº‡àº”à»‰àº²àº™àº§àº´àºŠàº²àºàº²àº™àºªàº¸àºà»€àºªàºµàº™ (à»€àºŠàº±à»ˆàº™: àº‚à»à»‰àº„àº§àº²àº¡àºàº±àºàº•àº»àº§) à»ƒàº™àºà»àº¥àº°àº™àºµàº—àºµà»ˆàº¡àºµàº„àº§àº²àº¡àºàº±àº‡àº§àº»àº™àºà»ˆàº½àº§àºàº±àºšàº„àº§àº²àº¡àº›àº­àº”à»„àºžàº—àºµà»ˆàº®à»‰àº²àºà»àº®àº‡, à»àº•à»ˆàºàº²àº™àº•àº±àº”àºªàº´àº™à»ƒàºˆàºªàº¸àº”àº—à»‰àº²àºàºàº±àº‡àº„àº»àº‡àºªàº²àº¡àº²àº”àºàº§àº”àºªàº­àºšà»„àº”à»‰.
 
-### 11. ມາດຕະການປ້ອງກັນສາມາດອັດຕະໂນມັດ
-ຖ້າມີການຂົ່ມຂູ່ສະເພາະ (ການຂົ່ມຂູ່ທີ່ກວດພົບ → ຄວາມຫມັ້ນໃຈສູງ → ການຈໍາກັດຊົ່ວຄາວ → ການທົບທວນຄືນຂອງມະນຸດ → ການຕັດສິນໃຈ), ພວກເຮົາປົກປ້ອງຜູ້ໃຊ້ທີ່ຖືກຂົ່ມຂູ່ໂດຍບໍ່ມີການເຮັດໃຫ້ AI ເປັນຜູ້ຕັດສິນ.
+### 11. àº¡àº²àº”àº•àº°àºàº²àº™àº›à»‰àº­àº‡àºàº±àº™àºªàº²àº¡àº²àº”àº­àº±àº”àº•àº°à»‚àº™àº¡àº±àº”
+àº–à»‰àº²àº¡àºµàºàº²àº™àº‚àº»à»ˆàº¡àº‚àº¹à»ˆàºªàº°à»€àºžàº²àº° (àºàº²àº™àº‚àº»à»ˆàº¡àº‚àº¹à»ˆàº—àºµà»ˆàºàº§àº”àºžàº»àºš â†’ àº„àº§àº²àº¡àº«àº¡àº±à»‰àº™à»ƒàºˆàºªàº¹àº‡ â†’ àºàº²àº™àºˆà»àº²àºàº±àº”àºŠàº»à»ˆàº§àº„àº²àº§ â†’ àºàº²àº™àº—àº»àºšàº—àº§àº™àº„àº·àº™àº‚àº­àº‡àº¡àº°àº™àº¸àº” â†’ àºàº²àº™àº•àº±àº”àºªàº´àº™à»ƒàºˆ), àºžàº§àºà»€àº®àº»àº²àº›àº»àºàº›à»‰àº­àº‡àºœàº¹à»‰à»ƒàºŠà»‰àº—àºµà»ˆàº–àº·àºàº‚àº»à»ˆàº¡àº‚àº¹à»ˆà»‚àº”àºàºšà»à»ˆàº¡àºµàºàº²àº™à»€àº®àº±àº”à»ƒàº«à»‰ AI à»€àº›àº±àº™àºœàº¹à»‰àº•àº±àº”àºªàº´àº™.
 
-### 12. AI ຈະຕ້ອງສາມາດຢືນຢັນການຕັດສິນໃຈຂອງຕົນ
-DSA ຮຽກຮ້ອງໃຫ້ມີເຫດຜົນທີ່ຊັດເຈນແລະສະເພາະ. ເຫດຜົນຂອງ AI ໃນທາງທີ່ມີໂຄງສ້າງ: ກົດລະບຽບ (NG-CONDUCT-004), ກວດພົບ (ໄພຂົ່ມຂູ່ທີ່ມີທ່າແຮງ), ຄວາມຫມັ້ນໃຈ (0.94), ສະພາບການທີ່ກ່ຽວຂ້ອງ (4 ຂໍ້ຄວາມກ່ອນຫນ້າ), ການປະຕິບັດທີ່ແນະນໍາ (ການທົບທວນຄືນຂອງມະນຸດ).
+### 12. AI àºˆàº°àº•à»‰àº­àº‡àºªàº²àº¡àº²àº”àº¢àº·àº™àº¢àº±àº™àºàº²àº™àº•àº±àº”àºªàº´àº™à»ƒàºˆàº‚àº­àº‡àº•àº»àº™
+DSA àº®àº½àºàº®à»‰àº­àº‡à»ƒàº«à»‰àº¡àºµà»€àº«àº”àºœàº»àº™àº—àºµà»ˆàºŠàº±àº”à»€àºˆàº™à»àº¥àº°àºªàº°à»€àºžàº²àº°. à»€àº«àº”àºœàº»àº™àº‚àº­àº‡ AI à»ƒàº™àº—àº²àº‡àº—àºµà»ˆàº¡àºµà»‚àº„àº‡àºªà»‰àº²àº‡: àºàº»àº”àº¥àº°àºšàº½àºš (NG-CONDUCT-004), àºàº§àº”àºžàº»àºš (à»„àºžàº‚àº»à»ˆàº¡àº‚àº¹à»ˆàº—àºµà»ˆàº¡àºµàº—à»ˆàº²à»àº®àº‡), àº„àº§àº²àº¡àº«àº¡àº±à»‰àº™à»ƒàºˆ (0.94), àºªàº°àºžàº²àºšàºàº²àº™àº—àºµà»ˆàºà»ˆàº½àº§àº‚à»‰àº­àº‡ (4 àº‚à»à»‰àº„àº§àº²àº¡àºà»ˆàº­àº™àº«àº™à»‰àº²), àºàº²àº™àº›àº°àº•àº´àºšàº±àº”àº—àºµà»ˆà»àº™àº°àº™à»àº² (àºàº²àº™àº—àº»àºšàº—àº§àº™àº„àº·àº™àº‚àº­àº‡àº¡àº°àº™àº¸àº”).
 
-### 13. AI ບໍ່ໄດ້ຖືກອະນຸຍາດໃຫ້ປ່ຽນເນື້ອຫາຢ່າງລັບໆ
-**Moderation AI ຈະຕ້ອງບໍ່ເຄີຍປ່ຽນເນື້ອຫາຕົ້ນສະບັບໂດຍບໍ່ໄດ້ສັງເກດເຫັນ.** ການແກ້ໄຂອັດຕະໂນມັດ, ການແປ ຫຼືການສະຫຼຸບຍັງຮັກສາເນື້ອຫາຕົ້ນສະບັບໄວ້.
+### 13. AI àºšà»à»ˆà»„àº”à»‰àº–àº·àºàº­àº°àº™àº¸àºàº²àº”à»ƒàº«à»‰àº›à»ˆàº½àº™à»€àº™àº·à»‰àº­àº«àº²àº¢à»ˆàº²àº‡àº¥àº±àºšà»†
+**Moderation AI àºˆàº°àº•à»‰àº­àº‡àºšà»à»ˆà»€àº„àºµàºàº›à»ˆàº½àº™à»€àº™àº·à»‰àº­àº«àº²àº•àº»à»‰àº™àºªàº°àºšàº±àºšà»‚àº”àºàºšà»à»ˆà»„àº”à»‰àºªàº±àº‡à»€àºàº”à»€àº«àº±àº™.** àºàº²àº™à»àºà»‰à»„àº‚àº­àº±àº”àº•àº°à»‚àº™àº¡àº±àº”, àºàº²àº™à»àº› àº«àº¼àº·àºàº²àº™àºªàº°àº«àº¼àº¸àºšàºàº±àº‡àº®àº±àºàºªàº²à»€àº™àº·à»‰àº­àº«àº²àº•àº»à»‰àº™àºªàº°àºšàº±àºšà»„àº§à»‰.
 
-### 14. AI ສ້າງເນື້ອຫາ
-ພວກເຮົາຈຳແນກລະຫວ່າງ: ມະນຸດສ້າງ, AI-ຊ່ວຍ, AI-ສ້າງ ແລະ AI-manipulated. ນີ້ກາຍເປັນສ່ວນຫນຶ່ງຂອງ metadata ເນື້ອຫາ.
+### 14. AI àºªà»‰àº²àº‡à»€àº™àº·à»‰àº­àº«àº²
+àºžàº§àºà»€àº®àº»àº²àºˆàº³à»àº™àºàº¥àº°àº«àº§à»ˆàº²àº‡: àº¡àº°àº™àº¸àº”àºªà»‰àº²àº‡, AI-àºŠà»ˆàº§àº, AI-àºªà»‰àº²àº‡ à»àº¥àº° AI-manipulated. àº™àºµà»‰àºàº²àºà»€àº›àº±àº™àºªà»ˆàº§àº™àº«àº™àº¶à»ˆàº‡àº‚àº­àº‡ metadata à»€àº™àº·à»‰àº­àº«àº².
 
 ### 15. AI Content Labeling & AI Provenance Layer
-ອີງຕາມກົດລະບຽບຄວາມໂປ່ງໃສຂອງ EU AI Act (ນັບຕັ້ງແຕ່ເດືອນສິງຫາ 2026), ເນື້ອຫາທີ່ສ້າງໂດຍ AI ຕ້ອງໄດ້ຮັບການຮັບຮູ້. ພວກເຮົາຄິດເຖິງ AI Provenance Layer ທີ່ເກັບຂໍ້ມູນ metadata (ຕົ້ນກຳເນີດຂອງ AI, ແບບຈຳລອງ, ເວລາ, ການທົບທວນຂອງມະນຸດ).
+àº­àºµàº‡àº•àº²àº¡àºàº»àº”àº¥àº°àºšàº½àºšàº„àº§àº²àº¡à»‚àº›à»ˆàº‡à»ƒàºªàº‚àº­àº‡ EU AI Act (àº™àº±àºšàº•àº±à»‰àº‡à»àº•à»ˆà»€àº”àº·àº­àº™àºªàº´àº‡àº«àº² 2026), à»€àº™àº·à»‰àº­àº«àº²àº—àºµà»ˆàºªà»‰àº²àº‡à»‚àº”àº AI àº•à»‰àº­àº‡à»„àº”à»‰àº®àº±àºšàºàº²àº™àº®àº±àºšàº®àº¹à»‰. àºžàº§àºà»€àº®àº»àº²àº„àº´àº”à»€àº–àº´àº‡ AI Provenance Layer àº—àºµà»ˆà»€àºàº±àºšàº‚à»à»‰àº¡àº¹àº™ metadata (àº•àº»à»‰àº™àºàº³à»€àº™àºµàº”àº‚àº­àº‡ AI, à»àºšàºšàºˆàº³àº¥àº­àº‡, à»€àº§àº¥àº², àºàº²àº™àº—àº»àºšàº—àº§àº™àº‚àº­àº‡àº¡àº°àº™àº¸àº”).
 
-### 16. ການກວດພົບ Deepfake
-ສະຖາປັດຕະຍະກໍາມີຈຸດປະສົງເພື່ອກວດຫາຮູບພາບສັງເຄາະ, ສຽງກະຕຸ້ນແລະການປອມແປງເລິກ. ແຕ່ການຮັບຮູ້ບໍ່ແມ່ນຫຼັກຖານອັດຕະໂນມັດ.
+### 16. àºàº²àº™àºàº§àº”àºžàº»àºš Deepfake
+àºªàº°àº–àº²àº›àº±àº”àº•àº°àºàº°àºà»àº²àº¡àºµàºˆàº¸àº”àº›àº°àºªàº»àº‡à»€àºžàº·à»ˆàº­àºàº§àº”àº«àº²àº®àº¹àºšàºžàº²àºšàºªàº±àº‡à»€àº„àº²àº°, àºªàº½àº‡àºàº°àº•àº¸à»‰àº™à»àº¥àº°àºàº²àº™àº›àº­àº¡à»àº›àº‡à»€àº¥àº´àº. à»àº•à»ˆàºàº²àº™àº®àº±àºšàº®àº¹à»‰àºšà»à»ˆà»àº¡à»ˆàº™àº«àº¼àº±àºàº–àº²àº™àº­àº±àº”àº•àº°à»‚àº™àº¡àº±àº”.
 
-### 17. ບໍ່ມີ "ເຄື່ອງຈັກຄວາມຈິງ" ອັດຕະໂນມັດ (ການປານກາງ ≠ ການກວດສອບຄວາມເປັນຈິງ)
-ລະບົບກວດສອບ: "ເນື້ອຫາລະເມີດກົດລະບຽບໃດໆບໍ?" (Content Moderation), ອື່ນສະຫນອງ: "ຂໍ້ມູນແລະແຫຼ່ງຂໍ້ມູນແມ່ນຫຍັງ?" (ການຊ່ວຍເຫຼືອດ້ານຂໍ້ມູນ). ຄວາມຄິດເຫັນບໍ່ໄດ້ຖືກລຶບຖິ້ມພຽງແຕ່ເປັນ "ຜິດ".
+### 17. àºšà»à»ˆàº¡àºµ "à»€àº„àº·à»ˆàº­àº‡àºˆàº±àºàº„àº§àº²àº¡àºˆàº´àº‡" àº­àº±àº”àº•àº°à»‚àº™àº¡àº±àº” (àºàº²àº™àº›àº²àº™àºàº²àº‡ â‰  àºàº²àº™àºàº§àº”àºªàº­àºšàº„àº§àº²àº¡à»€àº›àº±àº™àºˆàº´àº‡)
+àº¥àº°àºšàº»àºšàºàº§àº”àºªàº­àºš: "à»€àº™àº·à»‰àº­àº«àº²àº¥àº°à»€àº¡àºµàº”àºàº»àº”àº¥àº°àºšàº½àºšà»ƒàº”à»†àºšà»?" (Content Moderation), àº­àº·à»ˆàº™àºªàº°àº«àº™àº­àº‡: "àº‚à»à»‰àº¡àº¹àº™à»àº¥àº°à»àº«àº¼à»ˆàº‡àº‚à»à»‰àº¡àº¹àº™à»àº¡à»ˆàº™àº«àºàº±àº‡?" (àºàº²àº™àºŠà»ˆàº§àºà»€àº«àº¼àº·àº­àº”à»‰àº²àº™àº‚à»à»‰àº¡àº¹àº™). àº„àº§àº²àº¡àº„àº´àº”à»€àº«àº±àº™àºšà»à»ˆà»„àº”à»‰àº–àº·àºàº¥àº¶àºšàº–àº´à»‰àº¡àºžàº½àº‡à»àº•à»ˆà»€àº›àº±àº™ "àºœàº´àº”".
 
-### 18. ປ້ອງກັນການຕີຄວາມຜິດທາງດ້ານວັດທະນະທໍາ
-AI ຕ້ອງການ **ຕົວແບບຂອງບໍລິບົດວັດທະນະທໍາ** ເພື່ອປ້ອງກັນບໍ່ໃຫ້ມາດຕະຖານການສື່ສານຂອງປະເທດໜຶ່ງຖືກຮັບຮອງເອົາເປັນມາດຕະຖານທົ່ວໂລກ.
+### 18. àº›à»‰àº­àº‡àºàº±àº™àºàº²àº™àº•àºµàº„àº§àº²àº¡àºœàº´àº”àº—àº²àº‡àº”à»‰àº²àº™àº§àº±àº”àº—àº°àº™àº°àº—à»àº²
+AI àº•à»‰àº­àº‡àºàº²àº™ **àº•àº»àº§à»àºšàºšàº‚àº­àº‡àºšà»àº¥àº´àºšàº»àº”àº§àº±àº”àº—àº°àº™àº°àº—à»àº²** à»€àºžàº·à»ˆàº­àº›à»‰àº­àº‡àºàº±àº™àºšà»à»ˆà»ƒàº«à»‰àº¡àº²àº”àº•àº°àº–àº²àº™àºàº²àº™àºªàº·à»ˆàºªàº²àº™àº‚àº­àº‡àº›àº°à»€àº—àº”à»œàº¶à»ˆàº‡àº–àº·àºàº®àº±àºšàº®àº­àº‡à»€àº­àº»àº²à»€àº›àº±àº™àº¡àº²àº”àº•àº°àº–àº²àº™àº—àº»à»ˆàº§à»‚àº¥àº.
 
-### 19. Irony, satire ແລະ humor
-AI ໃຊ້ບໍລິບົດ, emojis, ກະແສການສົນທະນາແລະໂຄງສ້າງຂອງ irony ທີ່ມີຊື່ສຽງ, ແຕ່ຕ້ອງອະນຸຍາດໃຫ້ມີຄວາມບໍ່ແນ່ນອນໃນເວລາທີ່ຄວາມຫມາຍບໍ່ຊັດເຈນ.
+### 19. Irony, satire à»àº¥àº° humor
+AI à»ƒàºŠà»‰àºšà»àº¥àº´àºšàº»àº”, emojis, àºàº°à»àºªàºàº²àº™àºªàº»àº™àº—àº°àº™àº²à»àº¥àº°à»‚àº„àº‡àºªà»‰àº²àº‡àº‚àº­àº‡ irony àº—àºµà»ˆàº¡àºµàºŠàº·à»ˆàºªàº½àº‡, à»àº•à»ˆàº•à»‰àº­àº‡àº­àº°àº™àº¸àºàº²àº”à»ƒàº«à»‰àº¡àºµàº„àº§àº²àº¡àºšà»à»ˆà»àº™à»ˆàº™àº­àº™à»ƒàº™à»€àº§àº¥àº²àº—àºµà»ˆàº„àº§àº²àº¡àº«àº¡àº²àºàºšà»à»ˆàºŠàº±àº”à»€àºˆàº™.
 
-### 20. ບໍ່ມີການລົງໂທດໂດຍອີງໃສ່ຄະແນນ AI ດຽວ
-ບໍ່ມີການແຊກແຊງການປານກາງຢ່າງຈິງຈັງອາດຈະອີງໃສ່ຜົນໄດ້ຮັບການຈັດປະເພດອັດຕະໂນມັດດຽວ (ຂໍ້ຄວາມ + ສະພາບການ + ພຶດຕິກໍາ + ພາສາ + ສື່ + ເຄື່ອງຈັກ = ການປະເມີນຄວາມສ່ຽງ).
+### 20. àºšà»à»ˆàº¡àºµàºàº²àº™àº¥àº»àº‡à»‚àº—àº”à»‚àº”àºàº­àºµàº‡à»ƒàºªà»ˆàº„àº°à»àº™àº™ AI àº”àº½àº§
+àºšà»à»ˆàº¡àºµàºàº²àº™à»àºŠàºà»àºŠàº‡àºàº²àº™àº›àº²àº™àºàº²àº‡àº¢à»ˆàº²àº‡àºˆàº´àº‡àºˆàº±àº‡àº­àº²àº”àºˆàº°àº­àºµàº‡à»ƒàºªà»ˆàºœàº»àº™à»„àº”à»‰àº®àº±àºšàºàº²àº™àºˆàº±àº”àº›àº°à»€àºžàº”àº­àº±àº”àº•àº°à»‚àº™àº¡àº±àº”àº”àº½àº§ (àº‚à»à»‰àº„àº§àº²àº¡ + àºªàº°àºžàº²àºšàºàº²àº™ + àºžàº¶àº”àº•àº´àºà»àº² + àºžàº²àºªàº² + àºªàº·à»ˆ + à»€àº„àº·à»ˆàº­àº‡àºˆàº±àº = àºàº²àº™àº›àº°à»€àº¡àºµàº™àº„àº§àº²àº¡àºªà»ˆàº½àº‡).
 
-### 21. ສັນຍານພຶດຕິກໍາຂອງຜູ້ໃຊ້ & ບໍ່ມີລະບົບສິນເຊື່ອສັງຄົມ
-ມັນກ່ຽວກັບສັນຍານການລ່ວງລະເມີດທາງດ້ານເຕັກນິກ (ເຊັ່ນ: ການໂຄສະນາຂີ້ເຫຍື້ອ), ບໍ່ແມ່ນລະບົບການຈັດອັນດັບສັງຄົມທົ່ວໄປ. Nexus Gaja ບໍ່ໄດ້ດໍາເນີນການລະບົບສິນເຊື່ອສັງຄົມ - ການປານກາງແມ່ນເພື່ອຄວາມປອດໄພແລະບໍ່ແມ່ນການປະເມີນມູນຄ່າຂອງບຸກຄົນ.
+### 21. àºªàº±àº™àºàº²àº™àºžàº¶àº”àº•àº´àºà»àº²àº‚àº­àº‡àºœàº¹à»‰à»ƒàºŠà»‰ & àºšà»à»ˆàº¡àºµàº¥àº°àºšàº»àºšàºªàº´àº™à»€àºŠàº·à»ˆàº­àºªàº±àº‡àº„àº»àº¡
+àº¡àº±àº™àºà»ˆàº½àº§àºàº±àºšàºªàº±àº™àºàº²àº™àºàº²àº™àº¥à»ˆàº§àº‡àº¥àº°à»€àº¡àºµàº”àº—àº²àº‡àº”à»‰àº²àº™à»€àº•àº±àºàº™àº´àº (à»€àºŠàº±à»ˆàº™: àºàº²àº™à»‚àº„àºªàº°àº™àº²àº‚àºµà»‰à»€àº«àºàº·à»‰àº­), àºšà»à»ˆà»àº¡à»ˆàº™àº¥àº°àºšàº»àºšàºàº²àº™àºˆàº±àº”àº­àº±àº™àº”àº±àºšàºªàº±àº‡àº„àº»àº¡àº—àº»à»ˆàº§à»„àº›. Nexus Gaja àºšà»à»ˆà»„àº”à»‰àº”à»àº²à»€àº™àºµàº™àºàº²àº™àº¥àº°àºšàº»àºšàºªàº´àº™à»€àºŠàº·à»ˆàº­àºªàº±àº‡àº„àº»àº¡ - àºàº²àº™àº›àº²àº™àºàº²àº‡à»àº¡à»ˆàº™à»€àºžàº·à»ˆàº­àº„àº§àº²àº¡àº›àº­àº”à»„àºžà»àº¥àº°àºšà»à»ˆà»àº¡à»ˆàº™àºàº²àº™àº›àº°à»€àº¡àºµàº™àº¡àº¹àº™àº„à»ˆàº²àº‚àº­àº‡àºšàº¸àºàº„àº»àº™.
 
-### 22. Moderation AI ຈະຕ້ອງສາມາດກວດສອບໄດ້
-ການຕັດສິນໃຈອັດຕະໂນມັດທີ່ກ່ຽວຂ້ອງທັງຫມົດຖືກບັນທຶກ (ID ເຫດການ, ID ກົດລະບຽບ, ຄວາມຫມັ້ນໃຈ, ການທົບທວນຄືນຂອງມະນຸດ, ແລະອື່ນໆ) ເພື່ອຮັບປະກັນການຕິດຕາມ.
+### 22. Moderation AI àºˆàº°àº•à»‰àº­àº‡àºªàº²àº¡àº²àº”àºàº§àº”àºªàº­àºšà»„àº”à»‰
+àºàº²àº™àº•àº±àº”àºªàº´àº™à»ƒàºˆàº­àº±àº”àº•àº°à»‚àº™àº¡àº±àº”àº—àºµà»ˆàºà»ˆàº½àº§àº‚à»‰àº­àº‡àº—àº±àº‡àº«àº¡àº»àº”àº–àº·àºàºšàº±àº™àº—àº¶àº (ID à»€àº«àº”àºàº²àº™, ID àºàº»àº”àº¥àº°àºšàº½àºš, àº„àº§àº²àº¡àº«àº¡àº±à»‰àº™à»ƒàºˆ, àºàº²àº™àº—àº»àºšàº—àº§àº™àº„àº·àº™àº‚àº­àº‡àº¡àº°àº™àº¸àº”, à»àº¥àº°àº­àº·à»ˆàº™à»†) à»€àºžàº·à»ˆàº­àº®àº±àºšàº›àº°àºàº±àº™àºàº²àº™àº•àº´àº”àº•àº²àº¡.
 
 ### 23. False Positives, False Negatives & Quality Metrics
-ປະເພດຂໍ້ຜິດພາດຖືກຕິດຕາມ. dashboard ວັດແທກຄວາມແມ່ນຍໍາ, ການເອີ້ນຄືນແລະໂດຍສະເພາະ ** ອັດຕາການປີ້ນກັບອຸທອນ ** (ຈໍານວນຂອງການອຸທອນສົບຜົນສໍາເລັດ). 
+àº›àº°à»€àºžàº”àº‚à»à»‰àºœàº´àº”àºžàº²àº”àº–àº·àºàº•àº´àº”àº•àº²àº¡. dashboard àº§àº±àº”à»àº—àºàº„àº§àº²àº¡à»àº¡à»ˆàº™àºà»àº², àºàº²àº™à»€àº­àºµà»‰àº™àº„àº·àº™à»àº¥àº°à»‚àº”àºàºªàº°à»€àºžàº²àº° ** àº­àº±àº”àº•àº²àºàº²àº™àº›àºµà»‰àº™àºàº±àºšàº­àº¸àº—àº­àº™ ** (àºˆà»àº²àº™àº§àº™àº‚àº­àº‡àºàº²àº™àº­àº¸àº—àº­àº™àºªàº»àºšàºœàº»àº™àºªà»àº²à»€àº¥àº±àº”). 
 
 ### 24. Language fairness & translation bias
-ຄຸນນະພາບການປານກາງຈະຕ້ອງປຽບທຽບໄດ້ໃນທຸກພາສາທີ່ຮອງຮັບ (ມາດຕະຖານການປານກາງຫຼາຍພາສາ). ຖ້າຜົນໄດ້ຮັບການປານກາງແຕກຕ່າງກັນລະຫວ່າງຕົ້ນສະບັບແລະການແປພາສາ (ການແປພາສາຂັດ), ອັນນີ້ຈະຕ້ອງຖືກກວດສອບແຍກຕ່າງຫາກ.
+àº„àº¸àº™àº™àº°àºžàº²àºšàºàº²àº™àº›àº²àº™àºàº²àº‡àºˆàº°àº•à»‰àº­àº‡àº›àº½àºšàº—àº½àºšà»„àº”à»‰à»ƒàº™àº—àº¸àºàºžàº²àºªàº²àº—àºµà»ˆàº®àº­àº‡àº®àº±àºš (àº¡àº²àº”àº•àº°àº–àº²àº™àºàº²àº™àº›àº²àº™àºàº²àº‡àº«àº¼àº²àºàºžàº²àºªàº²). àº–à»‰àº²àºœàº»àº™à»„àº”à»‰àº®àº±àºšàºàº²àº™àº›àº²àº™àºàº²àº‡à»àº•àºàº•à»ˆàº²àº‡àºàº±àº™àº¥àº°àº«àº§à»ˆàº²àº‡àº•àº»à»‰àº™àºªàº°àºšàº±àºšà»àº¥àº°àºàº²àº™à»àº›àºžàº²àºªàº² (àºàº²àº™à»àº›àºžàº²àºªàº²àº‚àº±àº”), àº­àº±àº™àº™àºµà»‰àºˆàº°àº•à»‰àº­àº‡àº–àº·àºàºàº§àº”àºªàº­àºšà»àºàºàº•à»ˆàº²àº‡àº«àº²àº.
 
 ### 25. Architecture Proposal & Policy Engine
-ກົດລະບຽບ (ເຄື່ອງຈັກທາງດ້ານນະໂຍບາຍ) ບໍ່ໄດ້ຖືກຈັດໃສ່ໃນແບບຈໍາລອງ AI. AI ສະຫນອງຄວາມເຂົ້າໃຈ, ເຄື່ອງຈັກນະໂຍບາຍເຮັດໃຫ້ການຕັດສິນໃຈໂດຍອີງໃສ່ກົດລະບຽບໃນປະຈຸບັນ. ນີ້ອະນຸຍາດໃຫ້ ** ການປ່ຽນແປງແບບຈໍາລອງໂດຍບໍ່ມີການປ່ຽນກົດລະບຽບ **.
+àºàº»àº”àº¥àº°àºšàº½àºš (à»€àº„àº·à»ˆàº­àº‡àºˆàº±àºàº—àº²àº‡àº”à»‰àº²àº™àº™àº°à»‚àºàºšàº²àº) àºšà»à»ˆà»„àº”à»‰àº–àº·àºàºˆàº±àº”à»ƒàºªà»ˆà»ƒàº™à»àºšàºšàºˆà»àº²àº¥àº­àº‡ AI. AI àºªàº°àº«àº™àº­àº‡àº„àº§àº²àº¡à»€àº‚àº»à»‰àº²à»ƒàºˆ, à»€àº„àº·à»ˆàº­àº‡àºˆàº±àºàº™àº°à»‚àºàºšàº²àºà»€àº®àº±àº”à»ƒàº«à»‰àºàº²àº™àº•àº±àº”àºªàº´àº™à»ƒàºˆà»‚àº”àºàº­àºµàº‡à»ƒàºªà»ˆàºàº»àº”àº¥àº°àºšàº½àºšà»ƒàº™àº›àº°àºˆàº¸àºšàº±àº™. àº™àºµà»‰àº­àº°àº™àº¸àºàº²àº”à»ƒàº«à»‰ ** àºàº²àº™àº›à»ˆàº½àº™à»àº›àº‡à»àºšàºšàºˆà»àº²àº¥àº­àº‡à»‚àº”àºàºšà»à»ˆàº¡àºµàºàº²àº™àº›à»ˆàº½àº™àºàº»àº”àº¥àº°àºšàº½àºš **.
 
-### 26. ປະຊາຊົນຍັງຄົງເປັນອຳນາດສຸດທ້າຍ
-- **NG-AI-MOD-001**: AI ຮອງຮັບການຊອກຄົ້ນຫາ ແລະການຈັດປະເພດ, ແຕ່ບໍ່ໄດ້ປ່ຽນແທນການທົບທວນຂອງມະນຸດເມື່ອຕັດສິນໃຈຢ່າງຈິງຈັງ.
-- **NG-AI-MOD-002**: ການຕັດສິນໃຈຄວບຄຸມອັດຕະໂນມັດຕ້ອງເປັນການຕິດຕາມ, ບັນທຶກ ແລະກວດສອບໄດ້.
+### 26. àº›àº°àºŠàº²àºŠàº»àº™àºàº±àº‡àº„àº»àº‡à»€àº›àº±àº™àº­àº³àº™àº²àº”àºªàº¸àº”àº—à»‰àº²àº
+- **NG-AI-MOD-001**: AI àº®àº­àº‡àº®àº±àºšàºàº²àº™àºŠàº­àºàº„àº»à»‰àº™àº«àº² à»àº¥àº°àºàº²àº™àºˆàº±àº”àº›àº°à»€àºžàº”, à»àº•à»ˆàºšà»à»ˆà»„àº”à»‰àº›à»ˆàº½àº™à»àº—àº™àºàº²àº™àº—àº»àºšàº—àº§àº™àº‚àº­àº‡àº¡àº°àº™àº¸àº”à»€àº¡àº·à»ˆàº­àº•àº±àº”àºªàº´àº™à»ƒàºˆàº¢à»ˆàº²àº‡àºˆàº´àº‡àºˆàº±àº‡.
+- **NG-AI-MOD-002**: àºàº²àº™àº•àº±àº”àºªàº´àº™à»ƒàºˆàº„àº§àºšàº„àº¸àº¡àº­àº±àº”àº•àº°à»‚àº™àº¡àº±àº”àº•à»‰àº­àº‡à»€àº›àº±àº™àºàº²àº™àº•àº´àº”àº•àº²àº¡, àºšàº±àº™àº—àº¶àº à»àº¥àº°àºàº§àº”àºªàº­àºšà»„àº”à»‰.
 
-**ສະຫຼຸບ**: ພວກເຮົາກຳລັງສ້າງລະບົບສີ່ຊັ້ນຄື: ການກວດຫາ AI, ສະພາບການ ແລະການວິເຄາະຄວາມສ່ຽງ, ເຄື່ອງຈັກນະໂຍບາຍ ແລະການຄຸ້ມຄອງມະນຸດ. ນີ້ເຮັດໃຫ້ອັດຕະໂນມັດທີ່ເຂັ້ມແຂງໂດຍບໍ່ມີການສ້າງຖາປັດຕະຍະ "AI ເປັນຜູ້ພິພາກສາ".
+**àºªàº°àº«àº¼àº¸àºš**: àºžàº§àºà»€àº®àº»àº²àºàº³àº¥àº±àº‡àºªà»‰àº²àº‡àº¥àº°àºšàº»àºšàºªàºµà»ˆàºŠàº±à»‰àº™àº„àº·: àºàº²àº™àºàº§àº”àº«àº² AI, àºªàº°àºžàº²àºšàºàº²àº™ à»àº¥àº°àºàº²àº™àº§àº´à»€àº„àº²àº°àº„àº§àº²àº¡àºªà»ˆàº½àº‡, à»€àº„àº·à»ˆàº­àº‡àºˆàº±àºàº™àº°à»‚àºàºšàº²àº à»àº¥àº°àºàº²àº™àº„àº¸à»‰àº¡àº„àº­àº‡àº¡àº°àº™àº¸àº”. àº™àºµà»‰à»€àº®àº±àº”à»ƒàº«à»‰àº­àº±àº”àº•àº°à»‚àº™àº¡àº±àº”àº—àºµà»ˆà»€àº‚àº±à»‰àº¡à»àº‚àº‡à»‚àº”àºàºšà»à»ˆàº¡àºµàºàº²àº™àºªà»‰àº²àº‡àº–àº²àº›àº±àº”àº•àº°àºàº° "AI à»€àº›àº±àº™àºœàº¹à»‰àºžàº´àºžàº²àºàºªàº²".
 
-## ຫຼັກການການເງິນ ແລະຮູບແບບລາຍຮັບ (WP 1.10.1)
+## àº«àº¼àº±àºàºàº²àº™àºàº²àº™à»€àº‡àº´àº™ à»àº¥àº°àº®àº¹àºšà»àºšàºšàº¥àº²àºàº®àº±àºš (WP 1.10.1)
 
 ![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
-ຫຼັກການພື້ນຖານເສດຖະກິດທີ່ສໍາຄັນຫຼາຍໃຊ້ກັບ Nexus Gaja: **ບໍ່ມີການໂຄສະນາຄລາສສິກພາຍໃນເວທີ.**
-ອັນນີ້ເຮັດໃຫ້ Nexus Gaja ມີແນວຄິດທີ່ແຕກຕ່າງຈາກຫຼາຍເຄືອຂ່າຍສັງຄົມໃນປັດຈຸບັນ. ແຕ່ນັ້ນບໍ່ໄດ້ຫມາຍຄວາມວ່າ: Nexus Gaja ຈະຕ້ອງບໍ່ມີລັກສະນະການຄ້າ. ໃນທາງກົງກັນຂ້າມ: ເວທີດັ່ງກ່າວຕ້ອງມີຄວາມຍືນຍົງທາງດ້ານເສດຖະກິດເພື່ອໃຫ້ຈຸດປະສົງທາງສັງຄົມຂອງມັນສາມາດສືບຕໍ່ມີຢູ່ໃນໄລຍະຍາວ. ດັ່ງນັ້ນ, ກິດຈະກໍາທາງເສດຖະກິດແມ່ນຫມາຍເຖິງການສິ້ນສຸດ, ບໍ່ແມ່ນຈຸດປະສົງທີ່ແທ້ຈິງຂອງເວທີ.
+àº«àº¼àº±àºàºàº²àº™àºžàº·à»‰àº™àº–àº²àº™à»€àºªàº”àº–àº°àºàº´àº”àº—àºµà»ˆàºªà»àº²àº„àº±àº™àº«àº¼àº²àºà»ƒàºŠà»‰àºàº±àºš Nexus Gaja: **àºšà»à»ˆàº¡àºµàºàº²àº™à»‚àº„àºªàº°àº™àº²àº„àº¥àº²àºªàºªàº´àºàºžàº²àºà»ƒàº™à»€àº§àº—àºµ.**
+àº­àº±àº™àº™àºµà»‰à»€àº®àº±àº”à»ƒàº«à»‰ Nexus Gaja àº¡àºµà»àº™àº§àº„àº´àº”àº—àºµà»ˆà»àº•àºàº•à»ˆàº²àº‡àºˆàº²àºàº«àº¼àº²àºà»€àº„àº·àº­àº‚à»ˆàº²àºàºªàº±àº‡àº„àº»àº¡à»ƒàº™àº›àº±àº”àºˆàº¸àºšàº±àº™. à»àº•à»ˆàº™àº±à»‰àº™àºšà»à»ˆà»„àº”à»‰àº«àº¡àº²àºàº„àº§àº²àº¡àº§à»ˆàº²: Nexus Gaja àºˆàº°àº•à»‰àº­àº‡àºšà»à»ˆàº¡àºµàº¥àº±àºàºªàº°àº™àº°àºàº²àº™àº„à»‰àº². à»ƒàº™àº—àº²àº‡àºàº»àº‡àºàº±àº™àº‚à»‰àº²àº¡: à»€àº§àº—àºµàº”àº±à»ˆàº‡àºà»ˆàº²àº§àº•à»‰àº­àº‡àº¡àºµàº„àº§àº²àº¡àºàº·àº™àºàº»àº‡àº—àº²àº‡àº”à»‰àº²àº™à»€àºªàº”àº–àº°àºàº´àº”à»€àºžàº·à»ˆàº­à»ƒàº«à»‰àºˆàº¸àº”àº›àº°àºªàº»àº‡àº—àº²àº‡àºªàº±àº‡àº„àº»àº¡àº‚àº­àº‡àº¡àº±àº™àºªàº²àº¡àº²àº”àºªàº·àºšàº•à»à»ˆàº¡àºµàº¢àº¹à»ˆà»ƒàº™à»„àº¥àºàº°àºàº²àº§. àº”àº±à»ˆàº‡àº™àº±à»‰àº™, àºàº´àº”àºˆàº°àºà»àº²àº—àº²àº‡à»€àºªàº”àº–àº°àºàº´àº”à»àº¡à»ˆàº™àº«àº¡àº²àºà»€àº–àº´àº‡àºàº²àº™àºªàº´à»‰àº™àºªàº¸àº”, àºšà»à»ˆà»àº¡à»ˆàº™àºˆàº¸àº”àº›àº°àºªàº»àº‡àº—àºµà»ˆà»àº—à»‰àºˆàº´àº‡àº‚àº­àº‡à»€àº§àº—àºµ.
 
-### 1. ຫຼັກການ NG-FIN-001
-Nexus Gaja ສະໜອງເງິນໃຫ້ການດໍາເນີນງານຂອງຕົນຜ່ານຊ່ອງທາງລາຍຮັບທີ່ໂປ່ງໃສທີ່ແຍກອອກຈາກຜົນປະໂຫຍດຂອງຜູ້ໃຊ້ ແລະບໍ່ແມ່ນຜ່ານການຕະຫຼາດຄວາມສົນໃຈຂອງຜູ້ໃຊ້ ຫຼືຂໍ້ມູນສ່ວນຕົວ.
+### 1. àº«àº¼àº±àºàºàº²àº™ NG-FIN-001
+Nexus Gaja àºªàº°à»œàº­àº‡à»€àº‡àº´àº™à»ƒàº«à»‰àºàº²àº™àº”à»àº²à»€àº™àºµàº™àº‡àº²àº™àº‚àº­àº‡àº•àº»àº™àºœà»ˆàº²àº™àºŠà»ˆàº­àº‡àº—àº²àº‡àº¥àº²àºàº®àº±àºšàº—àºµà»ˆà»‚àº›à»ˆàº‡à»ƒàºªàº—àºµà»ˆà»àºàºàº­àº­àºàºˆàº²àºàºœàº»àº™àº›àº°à»‚àº«àºàº”àº‚àº­àº‡àºœàº¹à»‰à»ƒàºŠà»‰ à»àº¥àº°àºšà»à»ˆà»àº¡à»ˆàº™àºœà»ˆàº²àº™àºàº²àº™àº•àº°àº«àº¼àº²àº”àº„àº§àº²àº¡àºªàº»àº™à»ƒàºˆàº‚àº­àº‡àºœàº¹à»‰à»ƒàºŠà»‰ àº«àº¼àº·àº‚à»à»‰àº¡àº¹àº™àºªà»ˆàº§àº™àº•àº»àº§.
 
-### 2. ບໍ່ມີການໂຄສະນາຄລາສສິກ
-ໂດຍສະເພາະ, ສິ່ງຕໍ່ໄປນີ້ຈະບໍ່ຖືກອະນຸຍາດ:
-- ປ້າຍໂຄສະນາ
-- ການ​ໂຄ​ສະ​ນາ​ບໍ່​ເຖິງ​
-- ຫຼິ້ນ​ວິ​ດີ​ໂອ​ການ​ໂຄ​ສະ​ນາ​ອັດ​ຕະ​ໂນ​ມັດ​
-- ໂພສສະປອນເຊີໃນຟີດປົກກະຕິ
-- ຂໍ້​ມູນ​ການ​ໂຄ​ສະ​ນາ​ສ່ວນ​ບຸກ​ຄົນ​
-- ຂາຍໂປຣໄຟລ໌ຜູ້ໃຊ້
-- ການຂາຍຂໍ້ມູນສ່ວນຕົວ
-- ການໂຄສະນາທີ່ມາຈາກການສົນທະນາສ່ວນຕົວ.
+### 2. àºšà»à»ˆàº¡àºµàºàº²àº™à»‚àº„àºªàº°àº™àº²àº„àº¥àº²àºªàºªàº´àº
+à»‚àº”àºàºªàº°à»€àºžàº²àº°, àºªàº´à»ˆàº‡àº•à»à»ˆà»„àº›àº™àºµà»‰àºˆàº°àºšà»à»ˆàº–àº·àºàº­àº°àº™àº¸àºàº²àº”:
+- àº›à»‰àº²àºà»‚àº„àºªàº°àº™àº²
+- àºàº²àº™â€‹à»‚àº„â€‹àºªàº°â€‹àº™àº²â€‹àºšà»à»ˆâ€‹à»€àº–àº´àº‡â€‹
+- àº«àº¼àº´à»‰àº™â€‹àº§àº´â€‹àº”àºµâ€‹à»‚àº­â€‹àºàº²àº™â€‹à»‚àº„â€‹àºªàº°â€‹àº™àº²â€‹àº­àº±àº”â€‹àº•àº°â€‹à»‚àº™â€‹àº¡àº±àº”â€‹
+- à»‚àºžàºªàºªàº°àº›àº­àº™à»€àºŠàºµà»ƒàº™àºŸàºµàº”àº›àº»àºàºàº°àº•àº´
+- àº‚à»à»‰â€‹àº¡àº¹àº™â€‹àºàº²àº™â€‹à»‚àº„â€‹àºªàº°â€‹àº™àº²â€‹àºªà»ˆàº§àº™â€‹àºšàº¸àºâ€‹àº„àº»àº™â€‹
+- àº‚àº²àºà»‚àº›àº£à»„àºŸàº¥à»Œàºœàº¹à»‰à»ƒàºŠà»‰
+- àºàº²àº™àº‚àº²àºàº‚à»à»‰àº¡àº¹àº™àºªà»ˆàº§àº™àº•àº»àº§
+- àºàº²àº™à»‚àº„àºªàº°àº™àº²àº—àºµà»ˆàº¡àº²àºˆàº²àºàºàº²àº™àºªàº»àº™àº—àº°àº™àº²àºªà»ˆàº§àº™àº•àº»àº§.
 
-ອັນນີ້ອອກຈາກພື້ນທີ່ການສື່ສານ: **ພື້ນທີ່ການສື່ສານແທນທີ່ຈະເປັນພື້ນທີ່ໂຄສະນາ.**
+àº­àº±àº™àº™àºµà»‰àº­àº­àºàºˆàº²àºàºžàº·à»‰àº™àº—àºµà»ˆàºàº²àº™àºªàº·à»ˆàºªàº²àº™: **àºžàº·à»‰àº™àº—àºµà»ˆàºàº²àº™àºªàº·à»ˆàºªàº²àº™à»àº—àº™àº—àºµà»ˆàºˆàº°à»€àº›àº±àº™àºžàº·à»‰àº™àº—àºµà»ˆà»‚àº„àºªàº°àº™àº².**
 
-### 3. ການເງິນ ບໍ່ມີການໂຄສະນາ
-ແທນທີ່ຈະ, ການເງິນຂອງພວກເຮົາສາມາດປະກອບດ້ວຍຫຼາຍເສົາຄ້ຳ. ກ່ອນອື່ນໝົດ ພວກເຮົາສະເໜີ 6 ເສົາຄ້ຳ:
-``` ຂໍ້ຄວາມ
+### 3. àºàº²àº™à»€àº‡àº´àº™ àºšà»à»ˆàº¡àºµàºàº²àº™à»‚àº„àºªàº°àº™àº²
+à»àº—àº™àº—àºµà»ˆàºˆàº°, àºàº²àº™à»€àº‡àº´àº™àº‚àº­àº‡àºžàº§àºà»€àº®àº»àº²àºªàº²àº¡àº²àº”àº›àº°àºàº­àºšàº”à»‰àº§àºàº«àº¼àº²àºà»€àºªàº»àº²àº„à»‰àº³. àºà»ˆàº­àº™àº­àº·à»ˆàº™à»àº»àº” àºžàº§àºà»€àº®àº»àº²àºªàº°à»€à»œàºµ 6 à»€àºªàº»àº²àº„à»‰àº³:
+``` àº‚à»à»‰àº„àº§àº²àº¡
                  NEXUS GAJA
-                     │
-       ┌───────────────┼──────────────┐
-       ▼ ▼ ▼
-   ບໍລິຈາກອົງການຈັດຕັ້ງພິເສດ
-       │ │ │
-       ├──────────────┼─────────────
-       ▼ ▼ ▼
-   ການສົ່ງເສີມການບໍລິການຫຸ້ນສ່ວນ
+                     â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â–¼ â–¼ â–¼
+   àºšà»àº¥àº´àºˆàº²àºàº­àº»àº‡àºàº²àº™àºˆàº±àº”àº•àº±à»‰àº‡àºžàº´à»€àºªàº”
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+       â–¼ â–¼ â–¼
+   àºàº²àº™àºªàº»à»ˆàº‡à»€àºªàºµàº¡àºàº²àº™àºšà»àº¥àº´àºàº²àº™àº«àº¸à»‰àº™àºªà»ˆàº§àº™
 ```
 
-#### Pillar 1 - ສະມາຊິກພື້ນຖານຟຣີ
-**Nexus Gaja Free:** ການມີສ່ວນຮ່ວມຂັ້ນພື້ນຖານໃນຄວາມເຂົ້າໃຈລະຫວ່າງປະເທດບໍ່ຄວນຂຶ້ນກັບວ່າຄົນມີເງິນຫຼືບໍ່. ຕໍ່ໄປນີ້ແມ່ນເປັນໄປໄດ້ໂດຍບໍ່ເສຍຄ່າ: ຂໍ້ມູນສ່ວນຕົວ, ການສື່ສານລະຫວ່າງປະເທດ, ການປະກອບສ່ວນ, ຄໍາເຫັນ, ການແປພາສາພື້ນຖານ, ຊຸມຊົນ, ການສົນທະນາ, ຫນ້າທີ່ສື່ມວນຊົນພື້ນຖານ.
+#### Pillar 1 - àºªàº°àº¡àº²àºŠàº´àºàºžàº·à»‰àº™àº–àº²àº™àºŸàº£àºµ
+**Nexus Gaja Free:** àºàº²àº™àº¡àºµàºªà»ˆàº§àº™àº®à»ˆàº§àº¡àº‚àº±à»‰àº™àºžàº·à»‰àº™àº–àº²àº™à»ƒàº™àº„àº§àº²àº¡à»€àº‚àº»à»‰àº²à»ƒàºˆàº¥àº°àº«àº§à»ˆàº²àº‡àº›àº°à»€àº—àº”àºšà»à»ˆàº„àº§àº™àº‚àº¶à»‰àº™àºàº±àºšàº§à»ˆàº²àº„àº»àº™àº¡àºµà»€àº‡àº´àº™àº«àº¼àº·àºšà»à»ˆ. àº•à»à»ˆà»„àº›àº™àºµà»‰à»àº¡à»ˆàº™à»€àº›àº±àº™à»„àº›à»„àº”à»‰à»‚àº”àºàºšà»à»ˆà»€àºªàºàº„à»ˆàº²: àº‚à»à»‰àº¡àº¹àº™àºªà»ˆàº§àº™àº•àº»àº§, àºàº²àº™àºªàº·à»ˆàºªàº²àº™àº¥àº°àº«àº§à»ˆàº²àº‡àº›àº°à»€àº—àº”, àºàº²àº™àº›àº°àºàº­àºšàºªà»ˆàº§àº™, àº„à»àº²à»€àº«àº±àº™, àºàº²àº™à»àº›àºžàº²àºªàº²àºžàº·à»‰àº™àº–àº²àº™, àºŠàº¸àº¡àºŠàº»àº™, àºàº²àº™àºªàº»àº™àº—àº°àº™àº², àº«àº™à»‰àº²àº—àºµà»ˆàºªàº·à»ˆàº¡àº§àº™àºŠàº»àº™àºžàº·à»‰àº™àº–àº²àº™.
 
-#### ເສົາຫຼັກ 2 – ຂໍ້ສະເໜີພິເສດ
-ຂໍ້ສະເໜີທີ່ຈ່າຍໂດຍສະໝັກໃຈ (** Nexus Gaja Plus**). ຜົນປະໂຫຍດທີ່ເປັນໄປໄດ້: ຂອບເຂດຈໍາກັດການເກັບຮັກສາຂະຫນາດໃຫຍ່, ຄຸນນະພາບສື່ທີ່ສູງຂຶ້ນ, ການຖ່າຍທອດວິດີໂອທີ່ຍາວກວ່າ, ຫນ້າທີ່ການແປພາສາທີ່ຂະຫຍາຍ, ຊຸມຊົນຂະຫນາດໃຫຍ່, ຫນ້າທີ່ອົງການຈັດຕັ້ງເພີ່ມເຕີມ, ໂຄຕ້າ AI ທີ່ສູງຂຶ້ນ.
-**Freemium – ແຕ່ບໍ່ແມ່ນ “Dark Freemium”:** ລຸ້ນຟຣີສາມາດນຳໃຊ້ໄດ້ຢ່າງມີສະຕິ; Premium ຂະຫຍາຍມັນ.
+#### à»€àºªàº»àº²àº«àº¼àº±àº 2 â€“ àº‚à»à»‰àºªàº°à»€à»œàºµàºžàº´à»€àºªàº”
+àº‚à»à»‰àºªàº°à»€à»œàºµàº—àºµà»ˆàºˆà»ˆàº²àºà»‚àº”àºàºªàº°à»àº±àºà»ƒàºˆ (** Nexus Gaja Plus**). àºœàº»àº™àº›àº°à»‚àº«àºàº”àº—àºµà»ˆà»€àº›àº±àº™à»„àº›à»„àº”à»‰: àº‚àº­àºšà»€àº‚àº”àºˆà»àº²àºàº±àº”àºàº²àº™à»€àºàº±àºšàº®àº±àºàºªàº²àº‚àº°àº«àº™àº²àº”à»ƒàº«àºà»ˆ, àº„àº¸àº™àº™àº°àºžàº²àºšàºªàº·à»ˆàº—àºµà»ˆàºªàº¹àº‡àº‚àº¶à»‰àº™, àºàº²àº™àº–à»ˆàº²àºàº—àº­àº”àº§àº´àº”àºµà»‚àº­àº—àºµà»ˆàºàº²àº§àºàº§à»ˆàº², àº«àº™à»‰àº²àº—àºµà»ˆàºàº²àº™à»àº›àºžàº²àºªàº²àº—àºµà»ˆàº‚àº°àº«àºàº²àº, àºŠàº¸àº¡àºŠàº»àº™àº‚àº°àº«àº™àº²àº”à»ƒàº«àºà»ˆ, àº«àº™à»‰àº²àº—àºµà»ˆàº­àº»àº‡àºàº²àº™àºˆàº±àº”àº•àº±à»‰àº‡à»€àºžàºµà»ˆàº¡à»€àº•àºµàº¡, à»‚àº„àº•à»‰àº² AI àº—àºµà»ˆàºªàº¹àº‡àº‚àº¶à»‰àº™.
+**Freemium â€“ à»àº•à»ˆàºšà»à»ˆà»àº¡à»ˆàº™ â€œDark Freemiumâ€:** àº¥àº¸à»‰àº™àºŸàº£àºµàºªàº²àº¡àº²àº”àº™àº³à»ƒàºŠà»‰à»„àº”à»‰àº¢à»ˆàº²àº‡àº¡àºµàºªàº°àº•àº´; Premium àº‚àº°àº«àºàº²àºàº¡àº±àº™.
 
-#### ເສົາຄ້ຳ 3 – ອົງການຈັດຕັ້ງ
-** ອົງການຈັດຕັ້ງ Nexus Gaja:** ບັນຊີພິເສດສໍາລັບໂຮງຮຽນ, ມະຫາວິທະຍາໄລ, ສະໂມສອນ, NGOs, ບໍລິສັດ, ເທດສະບານ, ແລະອື່ນໆ, ມີບັນຊີອົງການຈັດຕັ້ງສູນກາງ, ການຄຸ້ມຄອງສະມາຊິກແລະຫນ້າທີ່ບໍລິຫານ. (ຕົວຢ່າງ: ໂຮງຮຽນໄດ້ຮັບການເຂົ້າເຖິງນັກຮຽນໂດຍບໍ່ເສຍຄ່າ ຫຼືຜ່ານອັດຕາພາສີຂອງສະຖາບັນ).
+#### à»€àºªàº»àº²àº„à»‰àº³ 3 â€“ àº­àº»àº‡àºàº²àº™àºˆàº±àº”àº•àº±à»‰àº‡
+** àº­àº»àº‡àºàº²àº™àºˆàº±àº”àº•àº±à»‰àº‡ Nexus Gaja:** àºšàº±àº™àºŠàºµàºžàº´à»€àºªàº”àºªà»àº²àº¥àº±àºšà»‚àº®àº‡àº®àº½àº™, àº¡àº°àº«àº²àº§àº´àº—àº°àºàº²à»„àº¥, àºªàº°à»‚àº¡àºªàº­àº™, NGOs, àºšà»àº¥àº´àºªàº±àº”, à»€àº—àº”àºªàº°àºšàº²àº™, à»àº¥àº°àº­àº·à»ˆàº™à»†, àº¡àºµàºšàº±àº™àºŠàºµàº­àº»àº‡àºàº²àº™àºˆàº±àº”àº•àº±à»‰àº‡àºªàº¹àº™àºàº²àº‡, àºàº²àº™àº„àº¸à»‰àº¡àº„àº­àº‡àºªàº°àº¡àº²àºŠàº´àºà»àº¥àº°àº«àº™à»‰àº²àº—àºµà»ˆàºšà»àº¥àº´àº«àº²àº™. (àº•àº»àº§àº¢à»ˆàº²àº‡: à»‚àº®àº‡àº®àº½àº™à»„àº”à»‰àº®àº±àºšàºàº²àº™à»€àº‚àº»à»‰àº²à»€àº–àº´àº‡àº™àº±àºàº®àº½àº™à»‚àº”àºàºšà»à»ˆà»€àºªàºàº„à»ˆàº² àº«àº¼àº·àºœà»ˆàº²àº™àº­àº±àº”àº•àº²àºžàº²àºªàºµàº‚àº­àº‡àºªàº°àº–àº²àºšàº±àº™).
 
-#### ເສົາຫຼັກ 4 – ການບໍລິຈາກ
-**ກອງທຶນຊ່ວຍເຫຼືອ Nexus Gaja:** ຜູ້ໃຫ້ທຶນສາມາດສະໜອງເງິນໄດ້ດ້ວຍຄວາມສະໝັກໃຈ (ການບໍລິຈາກທົ່ວໄປ ຫຼືການມອບໝາຍໄວ້). 
-**ສະນຸກເກີກອງທຶນແລະ tombola:** ການນໍາໃຊ້ຟຣີຫຼືສ່ວນຫຼຸດແມ່ນໄດ້ຮັບທຶນຈາກສະນຸກເກີບໍລິຈາກ. ບັນຊີລາຍການການຈັດສັນກອງທຶນຮັບປະກັນການຕັ້ງເປົ້າໝາຍ.
-``` ຂໍ້ຄວາມ
-ການບໍລິຈາກ → ກອງທຶນຈຸດປະສົງ → ເຄື່ອງຈັກໃນການມີສິດ → ການເຂົ້າເຖິງຟຣີ / ສ່ວນຫຼຸດ / ໂຄຕ້າ
+#### à»€àºªàº»àº²àº«àº¼àº±àº 4 â€“ àºàº²àº™àºšà»àº¥àº´àºˆàº²àº
+**àºàº­àº‡àº—àº¶àº™àºŠà»ˆàº§àºà»€àº«àº¼àº·àº­ Nexus Gaja:** àºœàº¹à»‰à»ƒàº«à»‰àº—àº¶àº™àºªàº²àº¡àº²àº”àºªàº°à»œàº­àº‡à»€àº‡àº´àº™à»„àº”à»‰àº”à»‰àº§àºàº„àº§àº²àº¡àºªàº°à»àº±àºà»ƒàºˆ (àºàº²àº™àºšà»àº¥àº´àºˆàº²àºàº—àº»à»ˆàº§à»„àº› àº«àº¼àº·àºàº²àº™àº¡àº­àºšà»àº²àºà»„àº§à»‰). 
+**àºªàº°àº™àº¸àºà»€àºàºµàºàº­àº‡àº—àº¶àº™à»àº¥àº° tombola:** àºàº²àº™àº™à»àº²à»ƒàºŠà»‰àºŸàº£àºµàº«àº¼àº·àºªà»ˆàº§àº™àº«àº¼àº¸àº”à»àº¡à»ˆàº™à»„àº”à»‰àº®àº±àºšàº—àº¶àº™àºˆàº²àºàºªàº°àº™àº¸àºà»€àºàºµàºšà»àº¥àº´àºˆàº²àº. àºšàº±àº™àºŠàºµàº¥àº²àºàºàº²àº™àºàº²àº™àºˆàº±àº”àºªàº±àº™àºàº­àº‡àº—àº¶àº™àº®àº±àºšàº›àº°àºàº±àº™àºàº²àº™àº•àº±à»‰àº‡à»€àº›àº»à»‰àº²à»àº²àº.
+``` àº‚à»à»‰àº„àº§àº²àº¡
+àºàº²àº™àºšà»àº¥àº´àºˆàº²àº â†’ àºàº­àº‡àº—àº¶àº™àºˆàº¸àº”àº›àº°àºªàº»àº‡ â†’ à»€àº„àº·à»ˆàº­àº‡àºˆàº±àºà»ƒàº™àºàº²àº™àº¡àºµàºªàº´àº” â†’ àºàº²àº™à»€àº‚àº»à»‰àº²à»€àº–àº´àº‡àºŸàº£àºµ / àºªà»ˆàº§àº™àº«àº¼àº¸àº” / à»‚àº„àº•à»‰àº²
 ```
 
-#### ເສົາຄ້ຳ 5 – ສະຖາບັນການສະໜັບສະໜູນ
-ຜູ້ສະຫນັບສະຫນູນ: ກອງທຶນ, ໂຄງການກອງທຶນວັດທະນະທໍາ, ໂຄງການສະຫນອງທຶນຂອງລັດ.
-**NG-FIN-002 (ເອກະລາດ):** ເງິນທຶນອາດຈະບໍ່ຊື້ບັນນາທິການ ຫຼືການຄວບຄຸມທາງດ້ານວິຊາການຜ່ານ Nexus Gaja.
+#### à»€àºªàº»àº²àº„à»‰àº³ 5 â€“ àºªàº°àº–àº²àºšàº±àº™àºàº²àº™àºªàº°à»œàº±àºšàºªàº°à»œàº¹àº™
+àºœàº¹à»‰àºªàº°àº«àº™àº±àºšàºªàº°àº«àº™àº¹àº™: àºàº­àº‡àº—àº¶àº™, à»‚àº„àº‡àºàº²àº™àºàº­àº‡àº—àº¶àº™àº§àº±àº”àº—àº°àº™àº°àº—à»àº², à»‚àº„àº‡àºàº²àº™àºªàº°àº«àº™àº­àº‡àº—àº¶àº™àº‚àº­àº‡àº¥àº±àº”.
+**NG-FIN-002 (à»€àº­àºàº°àº¥àº²àº”):** à»€àº‡àº´àº™àº—àº¶àº™àº­àº²àº”àºˆàº°àºšà»à»ˆàºŠàº·à»‰àºšàº±àº™àº™àº²àº—àº´àºàº²àº™ àº«àº¼àº·àºàº²àº™àº„àº§àºšàº„àº¸àº¡àº—àº²àº‡àº”à»‰àº²àº™àº§àº´àºŠàº²àºàº²àº™àºœà»ˆàº²àº™ Nexus Gaja.
 
-#### ເສົາຫຼັກ 6 – ການບໍລິການການຄ້າ
-Nexus Gaja ສາມາດໃຫ້ບໍລິການ B2B ເຊັ່ນ: **ການແປເປັນການບໍລິການ (API)**, ການແປພາສາແບບມືອາຊີບ, ການສື່ສານໃນອົງກອນ ຫຼືຫ້ອງປະຊຸມລະຫວ່າງປະເທດ ໂດຍບໍ່ມີພາລະໜັກໃນຟີດຜູ້ໃຊ້ປົກກະຕິກັບການໂຄສະນາ.
+#### à»€àºªàº»àº²àº«àº¼àº±àº 6 â€“ àºàº²àº™àºšà»àº¥àº´àºàº²àº™àºàº²àº™àº„à»‰àº²
+Nexus Gaja àºªàº²àº¡àº²àº”à»ƒàº«à»‰àºšà»àº¥àº´àºàº²àº™ B2B à»€àºŠàº±à»ˆàº™: **àºàº²àº™à»àº›à»€àº›àº±àº™àºàº²àº™àºšà»àº¥àº´àºàº²àº™ (API)**, àºàº²àº™à»àº›àºžàº²àºªàº²à»àºšàºšàº¡àº·àº­àº²àºŠàºµàºš, àºàº²àº™àºªàº·à»ˆàºªàº²àº™à»ƒàº™àº­àº»àº‡àºàº­àº™ àº«àº¼àº·àº«à»‰àº­àº‡àº›àº°àºŠàº¸àº¡àº¥àº°àº«àº§à»ˆàº²àº‡àº›àº°à»€àº—àº” à»‚àº”àºàºšà»à»ˆàº¡àºµàºžàº²àº¥àº°à»œàº±àºà»ƒàº™àºŸàºµàº”àºœàº¹à»‰à»ƒàºŠà»‰àº›àº»àºàºàº°àº•àº´àºàº±àºšàºàº²àº™à»‚àº„àºªàº°àº™àº².
 
-### 4. ບໍ່ມີການຕະຫຼາດຂໍ້ມູນ ແລະບໍ່ມີ "ເສດຖະກິດການເຝົ້າລະວັງ"
-**NG-FIN-003:** ຂໍ້ມູນສ່ວນຕົວຂອງຜູ້ໃຊ້ບໍ່ແມ່ນສິນຄ້າຂອງ Nexus Gaja. (ບໍ່ມີການຂາຍໂປຣໄຟລ໌, ປະຫວັດ, ຂໍ້ມູນຕົວຕົນ). 
-Nexus Gaja ບໍ່ໄດ້ມີຈຸດປະສົງທີ່ຈະໄດ້ຮັບຜົນປະໂຫຍດຈາກຜູ້ໃຊ້ຂອງມັນໄດ້ຖືກຕິດຕາມຫຼາຍເທົ່າທີ່ເປັນໄປໄດ້ແລະຈັດປະເພດທາງດ້ານຈິດໃຈທີ່ຊັດເຈນເທົ່າທີ່ເປັນໄປໄດ້.
+### 4. àºšà»à»ˆàº¡àºµàºàº²àº™àº•àº°àº«àº¼àº²àº”àº‚à»à»‰àº¡àº¹àº™ à»àº¥àº°àºšà»à»ˆàº¡àºµ "à»€àºªàº”àº–àº°àºàº´àº”àºàº²àº™à»€àºàº»à»‰àº²àº¥àº°àº§àº±àº‡"
+**NG-FIN-003:** àº‚à»à»‰àº¡àº¹àº™àºªà»ˆàº§àº™àº•àº»àº§àº‚àº­àº‡àºœàº¹à»‰à»ƒàºŠà»‰àºšà»à»ˆà»àº¡à»ˆàº™àºªàº´àº™àº„à»‰àº²àº‚àº­àº‡ Nexus Gaja. (àºšà»à»ˆàº¡àºµàºàº²àº™àº‚àº²àºà»‚àº›àº£à»„àºŸàº¥à»Œ, àº›àº°àº«àº§àº±àº”, àº‚à»à»‰àº¡àº¹àº™àº•àº»àº§àº•àº»àº™). 
+Nexus Gaja àºšà»à»ˆà»„àº”à»‰àº¡àºµàºˆàº¸àº”àº›àº°àºªàº»àº‡àº—àºµà»ˆàºˆàº°à»„àº”à»‰àº®àº±àºšàºœàº»àº™àº›àº°à»‚àº«àºàº”àºˆàº²àºàºœàº¹à»‰à»ƒàºŠà»‰àº‚àº­àº‡àº¡àº±àº™à»„àº”à»‰àº–àº·àºàº•àº´àº”àº•àº²àº¡àº«àº¼àº²àºà»€àº—àº»à»ˆàº²àº—àºµà»ˆà»€àº›àº±àº™à»„àº›à»„àº”à»‰à»àº¥àº°àºˆàº±àº”àº›àº°à»€àºžàº”àº—àº²àº‡àº”à»‰àº²àº™àºˆàº´àº”à»ƒàºˆàº—àºµà»ˆàºŠàº±àº”à»€àºˆàº™à»€àº—àº»à»ˆàº²àº—àºµà»ˆà»€àº›àº±àº™à»„àº›à»„àº”à»‰.
 
-### 5. ຄວາມໂປ່ງໃສທາງດ້ານການເງິນ
-ຄວາມໂປ່ງໃສທາງດ້ານການເງິນ Nexus Gaja: ລາຍໄດ້ສາມາດຖືກເຜີຍແຜ່ຕາມປະເພດ, ປະລິມານການບໍລິຈາກ, ຄ່າໃຊ້ຈ່າຍໃນການດໍາເນີນງານ, ແລະອື່ນໆ. 
-** ບັນຊີລາຍການທຶນ:** ການບໍລິຈາກທີ່ຕັ້ງໄວ້ເພື່ອຈຸດປະສົງສະເພາະແມ່ນຖືກບັນທຶກໄວ້ໃນລັກສະນະບັນຊີທີ່ເຂົ້າໃຈໄດ້ (ການບໍລິຈາກ → ID ກອງທຶນ → ຈຸດປະສົງ → ຍອດເງິນທີ່ມີຢູ່ → ການຈັດສັນ). ບໍ່ມີການອຸດຫນູນຂ້າມຜ່ານໂດຍບໍ່ມີຄວາມໂປ່ງໃສ.
+### 5. àº„àº§àº²àº¡à»‚àº›à»ˆàº‡à»ƒàºªàº—àº²àº‡àº”à»‰àº²àº™àºàº²àº™à»€àº‡àº´àº™
+àº„àº§àº²àº¡à»‚àº›à»ˆàº‡à»ƒàºªàº—àº²àº‡àº”à»‰àº²àº™àºàº²àº™à»€àº‡àº´àº™ Nexus Gaja: àº¥àº²àºà»„àº”à»‰àºªàº²àº¡àº²àº”àº–àº·àºà»€àºœàºµàºà»àºœà»ˆàº•àº²àº¡àº›àº°à»€àºžàº”, àº›àº°àº¥àº´àº¡àº²àº™àºàº²àº™àºšà»àº¥àº´àºˆàº²àº, àº„à»ˆàº²à»ƒàºŠà»‰àºˆà»ˆàº²àºà»ƒàº™àºàº²àº™àº”à»àº²à»€àº™àºµàº™àº‡àº²àº™, à»àº¥àº°àº­àº·à»ˆàº™à»†. 
+** àºšàº±àº™àºŠàºµàº¥àº²àºàºàº²àº™àº—àº¶àº™:** àºàº²àº™àºšà»àº¥àº´àºˆàº²àºàº—àºµà»ˆàº•àº±à»‰àº‡à»„àº§à»‰à»€àºžàº·à»ˆàº­àºˆàº¸àº”àº›àº°àºªàº»àº‡àºªàº°à»€àºžàº²àº°à»àº¡à»ˆàº™àº–àº·àºàºšàº±àº™àº—àº¶àºà»„àº§à»‰à»ƒàº™àº¥àº±àºàºªàº°àº™àº°àºšàº±àº™àºŠàºµàº—àºµà»ˆà»€àº‚àº»à»‰àº²à»ƒàºˆà»„àº”à»‰ (àºàº²àº™àºšà»àº¥àº´àºˆàº²àº â†’ ID àºàº­àº‡àº—àº¶àº™ â†’ àºˆàº¸àº”àº›àº°àºªàº»àº‡ â†’ àºàº­àº”à»€àº‡àº´àº™àº—àºµà»ˆàº¡àºµàº¢àº¹à»ˆ â†’ àºàº²àº™àºˆàº±àº”àºªàº±àº™). àºšà»à»ˆàº¡àºµàºàº²àº™àº­àº¸àº”àº«àº™àº¹àº™àº‚à»‰àº²àº¡àºœà»ˆàº²àº™à»‚àº”àºàºšà»à»ˆàº¡àºµàº„àº§àº²àº¡à»‚àº›à»ˆàº‡à»ƒàºª.
 
-### 6. ຮູບແບບການລົງທືນ ແລະຄວາມສາມັກຄີ
-ລາຄາແມ່ນອີງໃສ່: ທິດທາງຄ່າໃຊ້ຈ່າຍ, ຍຸຕິທໍາແລະຄວາມສາມັກຄີ.
-**Solidarity Premium:** ຜູ້ໃຊ້ພຣີມຽມສາມາດເລືອກໄດ້ໂດຍສະໝັກໃຈ: “ຂ້ອຍໃຫ້ທຶນເປັນສ່ວນໜຶ່ງຂອງການເຂົ້າເຖິງຂອງຜູ້ໃຊ້ອື່ນ.” ຄວາມສາມັກຄີແບບບັງຄັບ ຫຼື ສັງຄົມຊັ້ນສູງ (ຄວາມເຄົາລົບໜ້ອຍລົງ ຫຼື ປານກາງກວ່າສຳລັບຜູ້ໃຊ້ຟຣີ) ແມ່ນບໍ່ລວມເອົາ.
+### 6. àº®àº¹àºšà»àºšàºšàºàº²àº™àº¥àº»àº‡àº—àº·àº™ à»àº¥àº°àº„àº§àº²àº¡àºªàº²àº¡àº±àºàº„àºµ
+àº¥àº²àº„àº²à»àº¡à»ˆàº™àº­àºµàº‡à»ƒàºªà»ˆ: àº—àº´àº”àº—àº²àº‡àº„à»ˆàº²à»ƒàºŠà»‰àºˆà»ˆàº²àº, àºàº¸àº•àº´àº—à»àº²à»àº¥àº°àº„àº§àº²àº¡àºªàº²àº¡àº±àºàº„àºµ.
+**Solidarity Premium:** àºœàº¹à»‰à»ƒàºŠà»‰àºžàº£àºµàº¡àº½àº¡àºªàº²àº¡àº²àº”à»€àº¥àº·àº­àºà»„àº”à»‰à»‚àº”àºàºªàº°à»àº±àºà»ƒàºˆ: â€œàº‚à»‰àº­àºà»ƒàº«à»‰àº—àº¶àº™à»€àº›àº±àº™àºªà»ˆàº§àº™à»œàº¶à»ˆàº‡àº‚àº­àº‡àºàº²àº™à»€àº‚àº»à»‰àº²à»€àº–àº´àº‡àº‚àº­àº‡àºœàº¹à»‰à»ƒàºŠà»‰àº­àº·à»ˆàº™.â€ àº„àº§àº²àº¡àºªàº²àº¡àº±àºàº„àºµà»àºšàºšàºšàº±àº‡àº„àº±àºš àº«àº¼àº· àºªàº±àº‡àº„àº»àº¡àºŠàº±à»‰àº™àºªàº¹àº‡ (àº„àº§àº²àº¡à»€àº„àº»àº²àº¥àº»àºšà»œà»‰àº­àºàº¥àº»àº‡ àº«àº¼àº· àº›àº²àº™àºàº²àº‡àºàº§à»ˆàº²àºªàº³àº¥àº±àºšàºœàº¹à»‰à»ƒàºŠà»‰àºŸàº£àºµ) à»àº¡à»ˆàº™àºšà»à»ˆàº¥àº§àº¡à»€àº­àº»àº².
 
-### 7. KPI ເສດຖະກິດ
-ພວກເຮົາບໍ່ໄດ້ຂຶ້ນກັບເວລາອອນໄລນ໌ທີ່ບໍ່ມີທີ່ສິ້ນສຸດ (ບໍ່ມີເສດຖະກິດການມີສ່ວນຮ່ວມໃນການຈັດການ). KPIs ຂອງພວກເຮົາ:
-- **ດັດຊະນີການສື່ສານທົ່ວໂລກ (GCI):** ການພົວພັນການສື່ສານທີ່ປະສົບຜົນສຳເລັດເກີດຂຶ້ນລະຫວ່າງຄົນຈາກພາກພື້ນທີ່ຕ່າງກັນທາງດ້ານພາສາ ຫຼື ວັດທະນະທຳເທົ່າໃດ?
-- **Platform Sustainability Ratio (PSR):** ລາຍຮັບ/ຄ່າໃຊ້ຈ່າຍໃນການດໍາເນີນງານທີ່ເກີດຂຶ້ນຊ້ຳໆ (ເປົ້າໝາຍ: PSR ≥ 1).
+### 7. KPI à»€àºªàº”àº–àº°àºàº´àº”
+àºžàº§àºà»€àº®àº»àº²àºšà»à»ˆà»„àº”à»‰àº‚àº¶à»‰àº™àºàº±àºšà»€àº§àº¥àº²àº­àº­àº™à»„àº¥àº™à»Œàº—àºµà»ˆàºšà»à»ˆàº¡àºµàº—àºµà»ˆàºªàº´à»‰àº™àºªàº¸àº” (àºšà»à»ˆàº¡àºµà»€àºªàº”àº–àº°àºàº´àº”àºàº²àº™àº¡àºµàºªà»ˆàº§àº™àº®à»ˆàº§àº¡à»ƒàº™àºàº²àº™àºˆàº±àº”àºàº²àº™). KPIs àº‚àº­àº‡àºžàº§àºà»€àº®àº»àº²:
+- **àº”àº±àº”àºŠàº°àº™àºµàºàº²àº™àºªàº·à»ˆàºªàº²àº™àº—àº»à»ˆàº§à»‚àº¥àº (GCI):** àºàº²àº™àºžàº»àº§àºžàº±àº™àºàº²àº™àºªàº·à»ˆàºªàº²àº™àº—àºµà»ˆàº›àº°àºªàº»àºšàºœàº»àº™àºªàº³à»€àº¥àº±àº”à»€àºàºµàº”àº‚àº¶à»‰àº™àº¥àº°àº«àº§à»ˆàº²àº‡àº„àº»àº™àºˆàº²àºàºžàº²àºàºžàº·à»‰àº™àº—àºµà»ˆàº•à»ˆàº²àº‡àºàº±àº™àº—àº²àº‡àº”à»‰àº²àº™àºžàº²àºªàº² àº«àº¼àº· àº§àº±àº”àº—àº°àº™àº°àº—àº³à»€àº—àº»à»ˆàº²à»ƒàº”?
+- **Platform Sustainability Ratio (PSR):** àº¥àº²àºàº®àº±àºš/àº„à»ˆàº²à»ƒàºŠà»‰àºˆà»ˆàº²àºà»ƒàº™àºàº²àº™àº”à»àº²à»€àº™àºµàº™àº‡àº²àº™àº—àºµà»ˆà»€àºàºµàº”àº‚àº¶à»‰àº™àºŠà»‰àº³à»† (à»€àº›àº»à»‰àº²à»àº²àº: PSR â‰¥ 1).
 
-### 8. ສິ່ງທີ່ພວກເຮົາສະແດງອອກບໍ່ຢາກໄດ້
-Nexus Gaja ບໍ່ໄດ້ຮັບທຶນຈາກ:
-❌ຂາຍຂໍ້ມູນສ່ວນຕົວ
-❌ການໂຄສະນາແບບຄລາດສິກສ່ວນບຸກຄົນ
-❌ ຕິດຕາມພຶດຕິກຳຂອງຜູ້ໃຊ້ເພື່ອຈຸດປະສົງການໂຄສະນາ
-❌ ຂາຍຂໍ້ມູນການສື່ສານສ່ວນຕົວ
-❌ການໃຊ້ຂໍ້ມູນ AI ທີ່ເຊື່ອງໄວ້
-❌ ລັອກພຣີມຽມແບບໝູນໃຊ້
-❌ ການຈຳກັດການເຂົ້າເຖິງປອມສຳລັບການສ້າງລາຍໄດ້
-❌ ອິດທິພົນທາງດ້ານການເມືອງທີ່ໄດ້ຮັບຄ່າຈ້າງ
-❌ ການຕັດສິນໃຈຊື້ແບບມີສິດທິພິເສດ.
+### 8. àºªàº´à»ˆàº‡àº—àºµà»ˆàºžàº§àºà»€àº®àº»àº²àºªàº°à»àº”àº‡àº­àº­àºàºšà»à»ˆàº¢àº²àºà»„àº”à»‰
+Nexus Gaja àºšà»à»ˆà»„àº”à»‰àº®àº±àºšàº—àº¶àº™àºˆàº²àº:
+âŒàº‚àº²àºàº‚à»à»‰àº¡àº¹àº™àºªà»ˆàº§àº™àº•àº»àº§
+âŒàºàº²àº™à»‚àº„àºªàº°àº™àº²à»àºšàºšàº„àº¥àº²àº”àºªàº´àºàºªà»ˆàº§àº™àºšàº¸àºàº„àº»àº™
+âŒ àº•àº´àº”àº•àº²àº¡àºžàº¶àº”àº•àº´àºàº³àº‚àº­àº‡àºœàº¹à»‰à»ƒàºŠà»‰à»€àºžàº·à»ˆàº­àºˆàº¸àº”àº›àº°àºªàº»àº‡àºàº²àº™à»‚àº„àºªàº°àº™àº²
+âŒ àº‚àº²àºàº‚à»à»‰àº¡àº¹àº™àºàº²àº™àºªàº·à»ˆàºªàº²àº™àºªà»ˆàº§àº™àº•àº»àº§
+âŒàºàº²àº™à»ƒàºŠà»‰àº‚à»à»‰àº¡àº¹àº™ AI àº—àºµà»ˆà»€àºŠàº·à»ˆàº­àº‡à»„àº§à»‰
+âŒ àº¥àº±àº­àºàºžàº£àºµàº¡àº½àº¡à»àºšàºšà»àº¹àº™à»ƒàºŠà»‰
+âŒ àºàº²àº™àºˆàº³àºàº±àº”àºàº²àº™à»€àº‚àº»à»‰àº²à»€àº–àº´àº‡àº›àº­àº¡àºªàº³àº¥àº±àºšàºàº²àº™àºªà»‰àº²àº‡àº¥àº²àºà»„àº”à»‰
+âŒ àº­àº´àº”àº—àº´àºžàº»àº™àº—àº²àº‡àº”à»‰àº²àº™àºàº²àº™à»€àº¡àº·àº­àº‡àº—àºµà»ˆà»„àº”à»‰àº®àº±àºšàº„à»ˆàº²àºˆà»‰àº²àº‡
+âŒ àºàº²àº™àº•àº±àº”àºªàº´àº™à»ƒàºˆàºŠàº·à»‰à»àºšàºšàº¡àºµàºªàº´àº”àº—àº´àºžàº´à»€àºªàº”.
 
-### 9. ສະຖາປັດຕະຍະກຳເບື້ອງຕົ້ນ
-``` ຂໍ້ຄວາມ
+### 9. àºªàº°àº–àº²àº›àº±àº”àº•àº°àºàº°àºàº³à»€àºšàº·à»‰àº­àº‡àº•àº»à»‰àº™
+``` àº‚à»à»‰àº„àº§àº²àº¡
                          NEXUS GAJA
-                              │
-             ┌──────────────────────────────────────┐
-             │ │ │
-             ▼ ▼ ▼
-          ວິສາຫະກິດອົງການຜູ້ໃຊ້
-             │ │ │
-             └──────────────────────────────────────┘
-                              │
-                       ການບໍລິການເວທີ
-                              │
-          ┌──────────────────── ┼───────────────
-          ▼ ▼ ▼
+                              â”‚
+             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+             â”‚ â”‚ â”‚
+             â–¼ â–¼ â–¼
+          àº§àº´àºªàº²àº«àº°àºàº´àº”àº­àº»àº‡àºàº²àº™àºœàº¹à»‰à»ƒàºŠà»‰
+             â”‚ â”‚ â”‚
+             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+                              â”‚
+                       àºàº²àº™àºšà»àº¥àº´àºàº²àº™à»€àº§àº—àºµ
+                              â”‚
+          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+          â–¼ â–¼ â–¼
        PREMIUM DONATIONS API
-                              │
-                    ┌──────────┴─────────┐
-                    ▼ ▼
-               ກອງທຶນທົ່ວໄປຈໍາກັດກອງທຶນ
-                                        │
-                                        ▼
-                                  ຈຸດປະສົງທາງສັງຄົມ
+                              â”‚
+                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+                    â–¼ â–¼
+               àºàº­àº‡àº—àº¶àº™àº—àº»à»ˆàº§à»„àº›àºˆà»àº²àºàº±àº”àºàº­àº‡àº—àº¶àº™
+                                        â”‚
+                                        â–¼
+                                  àºˆàº¸àº”àº›àº°àºªàº»àº‡àº—àº²àº‡àºªàº±àº‡àº„àº»àº¡
 ```
 
-### ສະຫຼຸບ: ຫຼັກການການເງິນ (NG-FIN)
-- **NG-FIN-001:** Nexus Gaja ບໍ່ໄດ້ຮັບທຶນຈາກການໂຄສະນາແບບດັ້ງເດີມ.
-- **NG-FIN-002:** ການສະໜັບສະໜູນດ້ານການເງິນບໍ່ເປັນອິດທິພົນຕໍ່ການປານກາງ ຫຼືການປົກຄອງ.
-- **NG-FIN-003:** ຂໍ້ມູນຜູ້ໃຊ້ສ່ວນຕົວບໍ່ແມ່ນສິນຄ້າ.
-- **NG-FIN-004:** ຟັງຊັນການສື່ສານລະຫວ່າງປະເທດພື້ນຖານຄວນຈະສາມາດເຂົ້າເຖິງໄດ້ໂດຍບໍ່ຕ້ອງຈ່າຍເງິນ.
-- **NG-FIN-005:** Premium ສະຫນອງການຂະຫຍາຍຂອບເຂດຂອງການບໍລິການ, ແຕ່ຕ້ອງບໍ່ເຮັດໃຫ້ກຽດສັກສີແລະທາງເລືອກການສື່ສານພື້ນຖານຂອງຜູ້ໃຊ້ຟຣີ.
-- **NG-FIN-006:** ກອງທຶນທີ່ໄດ້ຮັບມອບໝາຍແມ່ນຖືກຄຸ້ມຄອງເພື່ອຈຸດປະສົງສະເພາະ.
-- **NG-FIN-007:** ການບໍລິຈາກ ແລະເງິນທຶນຖືກຄຸ້ມຄອງຢ່າງໂປ່ງໃສ ແລະຄົບຖ້ວນ.
-- **NG-FIN-008:** ການບໍລິການທາງການຄ້າຕ້ອງບໍ່ມີຜົນຕໍ່ຄວາມເປັນເອກະລາດຂອງເວທີ.
-- **NG-FIN-009:** ການພັດທະນາເສດຖະກິດຂອງ Nexus Gaja ຄວນແນໃສ່ຄວາມຍືນຍົງໃນໄລຍະຍາວ ແລະບໍ່ແມ່ນການສ້າງລາຍໄດ້ສູງສຸດຂອງຜູ້ໃຊ້.
-- **NG-FIN-010:** ໂຄງ​ປະ​ກອບ​ດ້ານ​ເສດ​ຖະ​ກິດ​ຄວນ​ເຮັດ​ໃຫ້​ຈຸດ​ປະ​ສົງ​ທາງ​ສັງ​ຄົມ - ຄວາມ​ເຂົ້າ​ໃຈ​ສາ​ກົນ, ການ​ສື່​ສານ​ສາ​ກົນ​ແລະ​ມິດ​ຕະ​ພາບ​ລະ​ຫວ່າງ​ປະ​ຊາ​ຊົນ.
+### àºªàº°àº«àº¼àº¸àºš: àº«àº¼àº±àºàºàº²àº™àºàº²àº™à»€àº‡àº´àº™ (NG-FIN)
+- **NG-FIN-001:** Nexus Gaja àºšà»à»ˆà»„àº”à»‰àº®àº±àºšàº—àº¶àº™àºˆàº²àºàºàº²àº™à»‚àº„àºªàº°àº™àº²à»àºšàºšàº”àº±à»‰àº‡à»€àº”àºµàº¡.
+- **NG-FIN-002:** àºàº²àº™àºªàº°à»œàº±àºšàºªàº°à»œàº¹àº™àº”à»‰àº²àº™àºàº²àº™à»€àº‡àº´àº™àºšà»à»ˆà»€àº›àº±àº™àº­àº´àº”àº—àº´àºžàº»àº™àº•à»à»ˆàºàº²àº™àº›àº²àº™àºàº²àº‡ àº«àº¼àº·àºàº²àº™àº›àº»àºàº„àº­àº‡.
+- **NG-FIN-003:** àº‚à»à»‰àº¡àº¹àº™àºœàº¹à»‰à»ƒàºŠà»‰àºªà»ˆàº§àº™àº•àº»àº§àºšà»à»ˆà»àº¡à»ˆàº™àºªàº´àº™àº„à»‰àº².
+- **NG-FIN-004:** àºŸàº±àº‡àºŠàº±àº™àºàº²àº™àºªàº·à»ˆàºªàº²àº™àº¥àº°àº«àº§à»ˆàº²àº‡àº›àº°à»€àº—àº”àºžàº·à»‰àº™àº–àº²àº™àº„àº§àº™àºˆàº°àºªàº²àº¡àº²àº”à»€àº‚àº»à»‰àº²à»€àº–àº´àº‡à»„àº”à»‰à»‚àº”àºàºšà»à»ˆàº•à»‰àº­àº‡àºˆà»ˆàº²àºà»€àº‡àº´àº™.
+- **NG-FIN-005:** Premium àºªàº°àº«àº™àº­àº‡àºàº²àº™àº‚àº°àº«àºàº²àºàº‚àº­àºšà»€àº‚àº”àº‚àº­àº‡àºàº²àº™àºšà»àº¥àº´àºàº²àº™, à»àº•à»ˆàº•à»‰àº­àº‡àºšà»à»ˆà»€àº®àº±àº”à»ƒàº«à»‰àºàº½àº”àºªàº±àºàºªàºµà»àº¥àº°àº—àº²àº‡à»€àº¥àº·àº­àºàºàº²àº™àºªàº·à»ˆàºªàº²àº™àºžàº·à»‰àº™àº–àº²àº™àº‚àº­àº‡àºœàº¹à»‰à»ƒàºŠà»‰àºŸàº£àºµ.
+- **NG-FIN-006:** àºàº­àº‡àº—àº¶àº™àº—àºµà»ˆà»„àº”à»‰àº®àº±àºšàº¡àº­àºšà»àº²àºà»àº¡à»ˆàº™àº–àº·àºàº„àº¸à»‰àº¡àº„àº­àº‡à»€àºžàº·à»ˆàº­àºˆàº¸àº”àº›àº°àºªàº»àº‡àºªàº°à»€àºžàº²àº°.
+- **NG-FIN-007:** àºàº²àº™àºšà»àº¥àº´àºˆàº²àº à»àº¥àº°à»€àº‡àº´àº™àº—àº¶àº™àº–àº·àºàº„àº¸à»‰àº¡àº„àº­àº‡àº¢à»ˆàº²àº‡à»‚àº›à»ˆàº‡à»ƒàºª à»àº¥àº°àº„àº»àºšàº–à»‰àº§àº™.
+- **NG-FIN-008:** àºàº²àº™àºšà»àº¥àº´àºàº²àº™àº—àº²àº‡àºàº²àº™àº„à»‰àº²àº•à»‰àº­àº‡àºšà»à»ˆàº¡àºµàºœàº»àº™àº•à»à»ˆàº„àº§àº²àº¡à»€àº›àº±àº™à»€àº­àºàº°àº¥àº²àº”àº‚àº­àº‡à»€àº§àº—àºµ.
+- **NG-FIN-009:** àºàº²àº™àºžàº±àº”àº—àº°àº™àº²à»€àºªàº”àº–àº°àºàº´àº”àº‚àº­àº‡ Nexus Gaja àº„àº§àº™à»àº™à»ƒàºªà»ˆàº„àº§àº²àº¡àºàº·àº™àºàº»àº‡à»ƒàº™à»„àº¥àºàº°àºàº²àº§ à»àº¥àº°àºšà»à»ˆà»àº¡à»ˆàº™àºàº²àº™àºªà»‰àº²àº‡àº¥àº²àºà»„àº”à»‰àºªàº¹àº‡àºªàº¸àº”àº‚àº­àº‡àºœàº¹à»‰à»ƒàºŠà»‰.
+- **NG-FIN-010:** à»‚àº„àº‡â€‹àº›àº°â€‹àºàº­àºšâ€‹àº”à»‰àº²àº™â€‹à»€àºªàº”â€‹àº–àº°â€‹àºàº´àº”â€‹àº„àº§àº™â€‹à»€àº®àº±àº”â€‹à»ƒàº«à»‰â€‹àºˆàº¸àº”â€‹àº›àº°â€‹àºªàº»àº‡â€‹àº—àº²àº‡â€‹àºªàº±àº‡â€‹àº„àº»àº¡ - àº„àº§àº²àº¡â€‹à»€àº‚àº»à»‰àº²â€‹à»ƒàºˆâ€‹àºªàº²â€‹àºàº»àº™, àºàº²àº™â€‹àºªàº·à»ˆâ€‹àºªàº²àº™â€‹àºªàº²â€‹àºàº»àº™â€‹à»àº¥àº°â€‹àº¡àº´àº”â€‹àº•àº°â€‹àºžàº²àºšâ€‹àº¥àº°â€‹àº«àº§à»ˆàº²àº‡â€‹àº›àº°â€‹àºŠàº²â€‹àºŠàº»àº™.
 
-## API, ການໂຕ້ຕອບ ແລະໂຄງສ້າງການສື່ສານ (WP 1.11.3)
+## API, àºàº²àº™à»‚àº•à»‰àº•àº­àºš à»àº¥àº°à»‚àº„àº‡àºªà»‰àº²àº‡àºàº²àº™àºªàº·à»ˆàºªàº²àº™ (WP 1.11.3)
 
-ເພື່ອຮັບປະກັນຄວາມສະຖຽນຂອງລະບົບ, ຄວາມປອດໄພ ແລະຄວາມສາມາດໃນການຂະຫຍາຍ, Nexus Gaja ປະຕິບັດຕາມສະຖາປັດຕະຍະກຳທີ່ອີງໃສ່ API ແລະ ເຫດການທີ່ຂັບເຄື່ອນຢ່າງເຂັ້ມງວດ.
+à»€àºžàº·à»ˆàº­àº®àº±àºšàº›àº°àºàº±àº™àº„àº§àº²àº¡àºªàº°àº–àº½àº™àº‚àº­àº‡àº¥àº°àºšàº»àºš, àº„àº§àº²àº¡àº›àº­àº”à»„àºž à»àº¥àº°àº„àº§àº²àº¡àºªàº²àº¡àº²àº”à»ƒàº™àºàº²àº™àº‚àº°àº«àºàº²àº, Nexus Gaja àº›àº°àº•àº´àºšàº±àº”àº•àº²àº¡àºªàº°àº–àº²àº›àº±àº”àº•àº°àºàº°àºàº³àº—àºµà»ˆàº­àºµàº‡à»ƒàºªà»ˆ API à»àº¥àº° à»€àº«àº”àºàº²àº™àº—àºµà»ˆàº‚àº±àºšà»€àº„àº·à»ˆàº­àº™àº¢à»ˆàº²àº‡à»€àº‚àº±à»‰àº¡àº‡àº§àº”.
 
-### ຫຼັກການພື້ນຖານ
-- ** ບໍ່​ມີ​ການ​ເຂົ້າ​ເຖິງ​ຖານ​ຂໍ້​ມູນ​ໂດຍ​ກົງ​: ** ອົງ​ປະ​ກອບ​ຕິດ​ຕໍ່​ພົວ​ພັນ​ສະ​ເພາະ​ໂດຍ​ຜ່ານ​ການ​ໂຕ້​ຕອບ​ທີ່​ກໍາ​ນົດ​ໄວ້ (APIs ຫຼື​ເຫດ​ການ​)​, ບໍ່​ເຄີຍ​ໂດຍ​ຜ່ານ​ການ​ສອບ​ຖາມ​ຖານ​ຂໍ້​ມູນ​ໂດຍ​ກົງ​ຈາກ​ການ​ບໍ​ລິ​ການ​ອື່ນໆ​.
-- ** API Gateway:** ການຮ້ອງຂໍລູກຄ້າພາຍນອກທັງໝົດຈະຜ່ານ API Gateway ທີ່ຈັດການການກວດສອບ, ການກຳນົດເສັ້ນທາງ ແລະອັດຕາການຈຳກັດ.
-- ** ຜູ້ໃຫ້ບໍລິການທີ່ບໍ່ມີຕົວຕົນ:** ບໍລິການພາຍນອກ (ແບບ AI, ຜູ້ໃຫ້ບໍລິການຊໍາລະເງິນ, ເຄື່ອງຈັກການແປພາສາ) ແມ່ນປະສົມປະສານຜ່ານຊັ້ນທີ່ບໍ່ມີຕົວຕົນ. ອັນນີ້ປ້ອງກັນການຂຶ້ນກັບສາຍແຂງ ແລະອະນຸຍາດໃຫ້ມີການປ່ຽນຜູ້ໃຫ້ບໍລິການທີ່ມີຄວາມຍືດຫຍຸ່ນ.
+### àº«àº¼àº±àºàºàº²àº™àºžàº·à»‰àº™àº–àº²àº™
+- ** àºšà»à»ˆâ€‹àº¡àºµâ€‹àºàº²àº™â€‹à»€àº‚àº»à»‰àº²â€‹à»€àº–àº´àº‡â€‹àº–àº²àº™â€‹àº‚à»à»‰â€‹àº¡àº¹àº™â€‹à»‚àº”àºâ€‹àºàº»àº‡â€‹: ** àº­àº»àº‡â€‹àº›àº°â€‹àºàº­àºšâ€‹àº•àº´àº”â€‹àº•à»à»ˆâ€‹àºžàº»àº§â€‹àºžàº±àº™â€‹àºªàº°â€‹à»€àºžàº²àº°â€‹à»‚àº”àºâ€‹àºœà»ˆàº²àº™â€‹àºàº²àº™â€‹à»‚àº•à»‰â€‹àº•àº­àºšâ€‹àº—àºµà»ˆâ€‹àºà»àº²â€‹àº™àº»àº”â€‹à»„àº§à»‰ (APIs àº«àº¼àº·â€‹à»€àº«àº”â€‹àºàº²àº™â€‹)â€‹, àºšà»à»ˆâ€‹à»€àº„àºµàºâ€‹à»‚àº”àºâ€‹àºœà»ˆàº²àº™â€‹àºàº²àº™â€‹àºªàº­àºšâ€‹àº–àº²àº¡â€‹àº–àº²àº™â€‹àº‚à»à»‰â€‹àº¡àº¹àº™â€‹à»‚àº”àºâ€‹àºàº»àº‡â€‹àºˆàº²àºâ€‹àºàº²àº™â€‹àºšà»â€‹àº¥àº´â€‹àºàº²àº™â€‹àº­àº·à»ˆàº™à»†â€‹.
+- ** API Gateway:** àºàº²àº™àº®à»‰àº­àº‡àº‚à»àº¥àº¹àºàº„à»‰àº²àºžàº²àºàº™àº­àºàº—àº±àº‡à»àº»àº”àºˆàº°àºœà»ˆàº²àº™ API Gateway àº—àºµà»ˆàºˆàº±àº”àºàº²àº™àºàº²àº™àºàº§àº”àºªàº­àºš, àºàº²àº™àºàº³àº™àº»àº”à»€àºªàº±à»‰àº™àº—àº²àº‡ à»àº¥àº°àº­àº±àº”àº•àº²àºàº²àº™àºˆàº³àºàº±àº”.
+- ** àºœàº¹à»‰à»ƒàº«à»‰àºšà»àº¥àº´àºàº²àº™àº—àºµà»ˆàºšà»à»ˆàº¡àºµàº•àº»àº§àº•àº»àº™:** àºšà»àº¥àº´àºàº²àº™àºžàº²àºàº™àº­àº (à»àºšàºš AI, àºœàº¹à»‰à»ƒàº«à»‰àºšà»àº¥àº´àºàº²àº™àºŠà»àº²àº¥àº°à»€àº‡àº´àº™, à»€àº„àº·à»ˆàº­àº‡àºˆàº±àºàºàº²àº™à»àº›àºžàº²àºªàº²) à»àº¡à»ˆàº™àº›àº°àºªàº»àº¡àº›àº°àºªàº²àº™àºœà»ˆàº²àº™àºŠàº±à»‰àº™àº—àºµà»ˆàºšà»à»ˆàº¡àºµàº•àº»àº§àº•àº»àº™. àº­àº±àº™àº™àºµà»‰àº›à»‰àº­àº‡àºàº±àº™àºàº²àº™àº‚àº¶à»‰àº™àºàº±àºšàºªàº²àºà»àº‚àº‡ à»àº¥àº°àº­àº°àº™àº¸àºàº²àº”à»ƒàº«à»‰àº¡àºµàºàº²àº™àº›à»ˆàº½àº™àºœàº¹à»‰à»ƒàº«à»‰àºšà»àº¥àº´àºàº²àº™àº—àºµà»ˆàº¡àºµàº„àº§àº²àº¡àºàº·àº”àº«àºàº¸à»ˆàº™.
 
-### ຮູບແບບການສື່ສານ
-- **Synchronous APIs (REST/HTTPS):** ໃຊ້ສໍາລັບການຮ້ອງຂໍທັນທີເຊັ່ນການເຂົ້າສູ່ລະບົບ, ການຕັ້ງຄ່າໂປຣໄຟລ໌ ຫຼືການແປພາສາໂດຍກົງ.
-- **ເຫດການ Asynchronous (Event Bus):** ລະບົບປະສາດສ່ວນກາງຂອງ Nexus Gaja ສໍາລັບຂະບວນການແຍກ (ເຊັ່ນ: `Message.Created` ກະຕຸ້ນການປານກາງ, ການແປ ແລະການແຈ້ງເຕືອນແບບບໍ່ກົງກັນ).
-- ** ເວລາຈິງ (WebSocket):** ຊ່ອງທາງສະເພາະສໍາລັບການສົນທະນາສົດແລະສະຖານະການພິມ.
+### àº®àº¹àºšà»àºšàºšàºàº²àº™àºªàº·à»ˆàºªàº²àº™
+- **Synchronous APIs (REST/HTTPS):** à»ƒàºŠà»‰àºªà»àº²àº¥àº±àºšàºàº²àº™àº®à»‰àº­àº‡àº‚à»àº—àº±àº™àº—àºµà»€àºŠàº±à»ˆàº™àºàº²àº™à»€àº‚àº»à»‰àº²àºªàº¹à»ˆàº¥àº°àºšàº»àºš, àºàº²àº™àº•àº±à»‰àº‡àº„à»ˆàº²à»‚àº›àº£à»„àºŸàº¥à»Œ àº«àº¼àº·àºàº²àº™à»àº›àºžàº²àºªàº²à»‚àº”àºàºàº»àº‡.
+- **à»€àº«àº”àºàº²àº™ Asynchronous (Event Bus):** àº¥àº°àºšàº»àºšàº›àº°àºªàº²àº”àºªà»ˆàº§àº™àºàº²àº‡àº‚àº­àº‡ Nexus Gaja àºªà»àº²àº¥àº±àºšàº‚àº°àºšàº§àº™àºàº²àº™à»àºàº (à»€àºŠàº±à»ˆàº™: `Message.Created` àºàº°àº•àº¸à»‰àº™àºàº²àº™àº›àº²àº™àºàº²àº‡, àºàº²àº™à»àº› à»àº¥àº°àºàº²àº™à»àºˆà»‰àº‡à»€àº•àº·àº­àº™à»àºšàºšàºšà»à»ˆàºàº»àº‡àºàº±àº™).
+- ** à»€àº§àº¥àº²àºˆàº´àº‡ (WebSocket):** àºŠà»ˆàº­àº‡àº—àº²àº‡àºªàº°à»€àºžàº²àº°àºªà»àº²àº¥àº±àºšàºàº²àº™àºªàº»àº™àº—àº°àº™àº²àºªàº»àº”à»àº¥àº°àºªàº°àº–àº²àº™àº°àºàº²àº™àºžàº´àº¡.
 
-### ຄວາມປອດໄພແລະຄວາມຫນ້າເຊື່ອຖື
-- ** Zero Trust Model:** ການສັນຈອນຂອງເຄືອຂ່າຍພາຍໃນແມ່ນບໍ່ເຊື່ອຖືອັດຕະໂນມັດ; ການສື່ສານການບໍລິການຕໍ່ການບໍລິການທີ່ລະອຽດອ່ອນຕ້ອງການການພິສູດຢືນຢັນ.
-- **Idempotence & Outbox Pattern:** ການປະຕິບັດທີ່ສໍາຄັນ (ເຊັ່ນ: ການບໍລິຈາກ ຫຼືຂໍ້ຄວາມ) ຖືກອອກແບບມາເພື່ອປ້ອງກັນການປະມວນຜົນຫຼາຍອັນ ແລະໃຊ້ຮູບແບບກ່ອງອອກເພື່ອຮັບປະກັນວ່າເຫດການຈະບໍ່ສູນເສຍເຖິງແມ່ນວ່າໃນທຸລະກໍາຖານຂໍ້ມູນ.
+### àº„àº§àº²àº¡àº›àº­àº”à»„àºžà»àº¥àº°àº„àº§àº²àº¡àº«àº™à»‰àº²à»€àºŠàº·à»ˆàº­àº–àº·
+- ** Zero Trust Model:** àºàº²àº™àºªàº±àº™àºˆàº­àº™àº‚àº­àº‡à»€àº„àº·àº­àº‚à»ˆàº²àºàºžàº²àºà»ƒàº™à»àº¡à»ˆàº™àºšà»à»ˆà»€àºŠàº·à»ˆàº­àº–àº·àº­àº±àº”àº•àº°à»‚àº™àº¡àº±àº”; àºàº²àº™àºªàº·à»ˆàºªàº²àº™àºàº²àº™àºšà»àº¥àº´àºàº²àº™àº•à»à»ˆàºàº²àº™àºšà»àº¥àº´àºàº²àº™àº—àºµà»ˆàº¥àº°àº­àº½àº”àº­à»ˆàº­àº™àº•à»‰àº­àº‡àºàº²àº™àºàº²àº™àºžàº´àºªàº¹àº”àº¢àº·àº™àº¢àº±àº™.
+- **Idempotence & Outbox Pattern:** àºàº²àº™àº›àº°àº•àº´àºšàº±àº”àº—àºµà»ˆàºªà»àº²àº„àº±àº™ (à»€àºŠàº±à»ˆàº™: àºàº²àº™àºšà»àº¥àº´àºˆàº²àº àº«àº¼àº·àº‚à»à»‰àº„àº§àº²àº¡) àº–àº·àºàº­àº­àºà»àºšàºšàº¡àº²à»€àºžàº·à»ˆàº­àº›à»‰àº­àº‡àºàº±àº™àºàº²àº™àº›àº°àº¡àº§àº™àºœàº»àº™àº«àº¼àº²àºàº­àº±àº™ à»àº¥àº°à»ƒàºŠà»‰àº®àº¹àºšà»àºšàºšàºà»ˆàº­àº‡àº­àº­àºà»€àºžàº·à»ˆàº­àº®àº±àºšàº›àº°àºàº±àº™àº§à»ˆàº²à»€àº«àº”àºàº²àº™àºˆàº°àºšà»à»ˆàºªàº¹àº™à»€àºªàºà»€àº–àº´àº‡à»àº¡à»ˆàº™àº§à»ˆàº²à»ƒàº™àº—àº¸àº¥àº°àºà»àº²àº–àº²àº™àº‚à»à»‰àº¡àº¹àº™.
 
-## ຕົວແບບໂດເມນ MVP (WP 1.12)
+## àº•àº»àº§à»àºšàºšà»‚àº”à»€àº¡àº™ MVP (WP 1.12)
 
 ![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
 
-Nexus Gaja ໃຊ້ສະຖາປັດຕະຍະກຳ MVP ທີ່ຂັບເຄື່ອນດ້ວຍໂດເມນຢ່າງເຂັ້ມງວດ (ADR-025), ອອກແບບເປັນໂມດູລາໂມດູລາທີ່ມີຂອບເຂດໂດເມນທີ່ຊັດເຈນ. ໂຄງສ້າງນີ້ປ້ອງກັນຄວາມສັບສົນຂອງ microservice ໃນຕອນຕົ້ນໃນຂະນະທີ່ຮັກສາຄວາມຍືດຫຍຸ່ນໃນການ outsource ໂດເມນສະເພາະຕໍ່ມາ.
+Nexus Gaja à»ƒàºŠà»‰àºªàº°àº–àº²àº›àº±àº”àº•àº°àºàº°àºàº³ MVP àº—àºµà»ˆàº‚àº±àºšà»€àº„àº·à»ˆàº­àº™àº”à»‰àº§àºà»‚àº”à»€àº¡àº™àº¢à»ˆàº²àº‡à»€àº‚àº±à»‰àº¡àº‡àº§àº” (ADR-025), àº­àº­àºà»àºšàºšà»€àº›àº±àº™à»‚àº¡àº”àº¹àº¥àº²à»‚àº¡àº”àº¹àº¥àº²àº—àºµà»ˆàº¡àºµàº‚àº­àºšà»€àº‚àº”à»‚àº”à»€àº¡àº™àº—àºµà»ˆàºŠàº±àº”à»€àºˆàº™. à»‚àº„àº‡àºªà»‰àº²àº‡àº™àºµà»‰àº›à»‰àº­àº‡àºàº±àº™àº„àº§àº²àº¡àºªàº±àºšàºªàº»àº™àº‚àº­àº‡ microservice à»ƒàº™àº•àº­àº™àº•àº»à»‰àº™à»ƒàº™àº‚àº°àº™àº°àº—àºµà»ˆàº®àº±àºàºªàº²àº„àº§àº²àº¡àºàº·àº”àº«àºàº¸à»ˆàº™à»ƒàº™àºàº²àº™ outsource à»‚àº”à»€àº¡àº™àºªàº°à»€àºžàº²àº°àº•à»à»ˆàº¡àº².
 
-### ໜ່ວຍງານຫຼັກວິຊາການ
-ສະຖາປັດຕະຍະ ກຳ ແຍກແນວຄວາມຄິດຢ່າງເຂັ້ມງວດເພື່ອຮັບປະກັນຄວາມສົມບູນຂອງຂໍ້ມູນແລະຫຼີກເວັ້ນຄວາມຜິດພາດເຊັ່ນ "ຊື່ຜູ້ໃຊ້ = ມະນຸດ":
-- **ຕົວຕົນ ແລະບັນຊີ:** `ບຸກຄົນ` ≠ `ບັນຊີຜູ້ໃຊ້` ≠ `ການຢັ້ງຢືນຕົວຕົນ`. ບຸກຄົນທີ່ໄດ້ຮັບການຢັ້ງຢືນເຂົ້າຮ່ວມໂດຍຜ່ານບັນຊີດຽວ, ແຕ່ຫນ່ວຍງານຍັງແຍກຕ່າງຫາກ.
-- ** ການສື່ສານ:** `ຂໍ້ຄວາມ` ≠ `ການແປ`. ຂໍ້ຄວາມຕົ້ນສະບັບແມ່ນ immutable; ການແປເປັນຫົວໜ່ວຍທີ່ເຊື່ອມຕໍ່ກັນ.
-- ** ປານກາງ:** `ບົດລາຍງານ` ≠ `ການຕັດສິນໃຈປານກາງ`. ຂໍ້ຄວາມແມ່ນພຽງແຕ່ຕົວຊີ້ບອກ; ຜູ້ຄວບຄຸມດໍາເນີນການສືບສວນ.
-- ** ການເງິນ:** `ການບໍລິຈາກ` ≠ `ຍອດເງິນທຶນ`. ການຈ່າຍເງິນແມ່ນບໍ່ປ່ຽນແປງກັບກອງທຶນຜ່ານບັນຊີລາຍການ (ປື້ມບັນທຶກເງິນສົດ).
+### à»œà»ˆàº§àºàº‡àº²àº™àº«àº¼àº±àºàº§àº´àºŠàº²àºàº²àº™
+àºªàº°àº–àº²àº›àº±àº”àº•àº°àºàº° àºàº³ à»àºàºà»àº™àº§àº„àº§àº²àº¡àº„àº´àº”àº¢à»ˆàº²àº‡à»€àº‚àº±à»‰àº¡àº‡àº§àº”à»€àºžàº·à»ˆàº­àº®àº±àºšàº›àº°àºàº±àº™àº„àº§àº²àº¡àºªàº»àº¡àºšàº¹àº™àº‚àº­àº‡àº‚à»à»‰àº¡àº¹àº™à»àº¥àº°àº«àº¼àºµàºà»€àº§àº±à»‰àº™àº„àº§àº²àº¡àºœàº´àº”àºžàº²àº”à»€àºŠàº±à»ˆàº™ "àºŠàº·à»ˆàºœàº¹à»‰à»ƒàºŠà»‰ = àº¡àº°àº™àº¸àº”":
+- **àº•àº»àº§àº•àº»àº™ à»àº¥àº°àºšàº±àº™àºŠàºµ:** `àºšàº¸àºàº„àº»àº™` â‰  `àºšàº±àº™àºŠàºµàºœàº¹à»‰à»ƒàºŠà»‰` â‰  `àºàº²àº™àº¢àº±à»‰àº‡àº¢àº·àº™àº•àº»àº§àº•àº»àº™`. àºšàº¸àºàº„àº»àº™àº—àºµà»ˆà»„àº”à»‰àº®àº±àºšàºàº²àº™àº¢àº±à»‰àº‡àº¢àº·àº™à»€àº‚àº»à»‰àº²àº®à»ˆàº§àº¡à»‚àº”àºàºœà»ˆàº²àº™àºšàº±àº™àºŠàºµàº”àº½àº§, à»àº•à»ˆàº«àº™à»ˆàº§àºàº‡àº²àº™àºàº±àº‡à»àºàºàº•à»ˆàº²àº‡àº«àº²àº.
+- ** àºàº²àº™àºªàº·à»ˆàºªàº²àº™:** `àº‚à»à»‰àº„àº§àº²àº¡` â‰  `àºàº²àº™à»àº›`. àº‚à»à»‰àº„àº§àº²àº¡àº•àº»à»‰àº™àºªàº°àºšàº±àºšà»àº¡à»ˆàº™ immutable; àºàº²àº™à»àº›à»€àº›àº±àº™àº«àº»àº§à»œà»ˆàº§àºàº—àºµà»ˆà»€àºŠàº·à»ˆàº­àº¡àº•à»à»ˆàºàº±àº™.
+- ** àº›àº²àº™àºàº²àº‡:** `àºšàº»àº”àº¥àº²àºàº‡àº²àº™` â‰  `àºàº²àº™àº•àº±àº”àºªàº´àº™à»ƒàºˆàº›àº²àº™àºàº²àº‡`. àº‚à»à»‰àº„àº§àº²àº¡à»àº¡à»ˆàº™àºžàº½àº‡à»àº•à»ˆàº•àº»àº§àºŠàºµà»‰àºšàº­àº; àºœàº¹à»‰àº„àº§àºšàº„àº¸àº¡àº”à»àº²à»€àº™àºµàº™àºàº²àº™àºªàº·àºšàºªàº§àº™.
+- ** àºàº²àº™à»€àº‡àº´àº™:** `àºàº²àº™àºšà»àº¥àº´àºˆàº²àº` â‰  `àºàº­àº”à»€àº‡àº´àº™àº—àº¶àº™`. àºàº²àº™àºˆà»ˆàº²àºà»€àº‡àº´àº™à»àº¡à»ˆàº™àºšà»à»ˆàº›à»ˆàº½àº™à»àº›àº‡àºàº±àºšàºàº­àº‡àº—àº¶àº™àºœà»ˆàº²àº™àºšàº±àº™àºŠàºµàº¥àº²àºàºàº²àº™ (àº›àº·à»‰àº¡àºšàº±àº™àº—àº¶àºà»€àº‡àº´àº™àºªàº»àº”).
 
-### ຫົວຂໍ້ທີ່ເຊື່ອມຕໍ່ກັນ
-ລະບົບໄດ້ຖືກແບ່ງອອກເປັນໂດເມນທີ່ມີເຫດຜົນ (ຂອບເຂດຂອບເຂດ): ຕົວຕົນ, ບັນຊີ, ອົງການຈັດຕັ້ງ, ການສື່ສານ, ຊຸມຊົນ, ພາສາ, ປານກາງ, ແຈ້ງການ, ການເງິນແລະການຄຸ້ມຄອງ. ພວກເຂົາເປັນຕົວແທນຂອງລະບົບຕ່ອງໂສ້ທັງຫມົດຈາກນັກສະແດງທີ່ແທ້ຈິງ (ຜູ້ໃຊ້, ໂຮງຮຽນ, NGOs) ໄປສູ່ການໂຕ້ຕອບດິຈິຕອນຂອງພວກເຂົາ.
+### àº«àº»àº§àº‚à»à»‰àº—àºµà»ˆà»€àºŠàº·à»ˆàº­àº¡àº•à»à»ˆàºàº±àº™
+àº¥àº°àºšàº»àºšà»„àº”à»‰àº–àº·àºà»àºšà»ˆàº‡àº­àº­àºà»€àº›àº±àº™à»‚àº”à»€àº¡àº™àº—àºµà»ˆàº¡àºµà»€àº«àº”àºœàº»àº™ (àº‚àº­àºšà»€àº‚àº”àº‚àº­àºšà»€àº‚àº”): àº•àº»àº§àº•àº»àº™, àºšàº±àº™àºŠàºµ, àº­àº»àº‡àºàº²àº™àºˆàº±àº”àº•àº±à»‰àº‡, àºàº²àº™àºªàº·à»ˆàºªàº²àº™, àºŠàº¸àº¡àºŠàº»àº™, àºžàº²àºªàº², àº›àº²àº™àºàº²àº‡, à»àºˆà»‰àº‡àºàº²àº™, àºàº²àº™à»€àº‡àº´àº™à»àº¥àº°àºàº²àº™àº„àº¸à»‰àº¡àº„àº­àº‡. àºžàº§àºà»€àº‚àº»àº²à»€àº›àº±àº™àº•àº»àº§à»àº—àº™àº‚àº­àº‡àº¥àº°àºšàº»àºšàº•à»ˆàº­àº‡à»‚àºªà»‰àº—àº±àº‡àº«àº¡àº»àº”àºˆàº²àºàº™àº±àºàºªàº°à»àº”àº‡àº—àºµà»ˆà»àº—à»‰àºˆàº´àº‡ (àºœàº¹à»‰à»ƒàºŠà»‰, à»‚àº®àº‡àº®àº½àº™, NGOs) à»„àº›àºªàº¹à»ˆàºàº²àº™à»‚àº•à»‰àº•àº­àºšàº”àº´àºˆàº´àº•àº­àº™àº‚àº­àº‡àºžàº§àºà»€àº‚àº»àº².
 
-## ສະຖານະໂຄງການ
-ໂຄງ​ການ​ດັ່ງ​ກ່າວ​ແມ່ນ​ຢູ່​ໃນ​ສະ​ຖາ​ປັດ​ຕະ​ຢ່າງ​ຫ້າວ​ຫັນ​ແລະ​ການ​ວາງ​ແຜນ​.
-ການຕັດສິນໃຈທາງສະຖາປັດຕະຍະກຳທີ່ດຳເນີນຕໍ່ໄປແມ່ນບັນທຶກໄວ້ໃນໂຟນເດີ `/docs`.
+## àºªàº°àº–àº²àº™àº°à»‚àº„àº‡àºàº²àº™
+à»‚àº„àº‡â€‹àºàº²àº™â€‹àº”àº±à»ˆàº‡â€‹àºà»ˆàº²àº§â€‹à»àº¡à»ˆàº™â€‹àº¢àº¹à»ˆâ€‹à»ƒàº™â€‹àºªàº°â€‹àº–àº²â€‹àº›àº±àº”â€‹àº•àº°â€‹àº¢à»ˆàº²àº‡â€‹àº«à»‰àº²àº§â€‹àº«àº±àº™â€‹à»àº¥àº°â€‹àºàº²àº™â€‹àº§àº²àº‡â€‹à»àºœàº™â€‹.
+àºàº²àº™àº•àº±àº”àºªàº´àº™à»ƒàºˆàº—àº²àº‡àºªàº°àº–àº²àº›àº±àº”àº•àº°àºàº°àºàº³àº—àºµà»ˆàº”àº³à»€àº™àºµàº™àº•à»à»ˆà»„àº›à»àº¡à»ˆàº™àºšàº±àº™àº—àº¶àºà»„àº§à»‰à»ƒàº™à»‚àºŸàº™à»€àº”àºµ `/docs`.
 
 ---
 
-## ໃບອະນຸຍາດ & ຊັບສິນທາງປັນຍາ
+## à»ƒàºšàº­àº°àº™àº¸àºàº²àº” & àºŠàº±àºšàºªàº´àº™àº—àº²àº‡àº›àº±àº™àºàº²
 
-> **© 2024-2026 SonnerStudio - Jan Friske ຜູ້ກໍ່ຕັ້ງ, ເຈົ້າຂອງ, ຜູ້ອໍານວຍການ ແລະຜູ້ອອກແບບຂອງ SonnerStudio — ສະຫງວນລິຂະສິດທັງໝົດ.**
+> **Â© 2024-2026 SonnerStudio - Jan Friske àºœàº¹à»‰àºà»à»ˆàº•àº±à»‰àº‡, à»€àºˆàº»à»‰àº²àº‚àº­àº‡, àºœàº¹à»‰àº­à»àº²àº™àº§àºàºàº²àº™ à»àº¥àº°àºœàº¹à»‰àº­àº­àºà»àºšàºšàº‚àº­àº‡ SonnerStudio â€” àºªàº°àº«àº‡àº§àº™àº¥àº´àº‚àº°àºªàº´àº”àº—àº±àº‡à»àº»àº”.**
 
-**Nexus Gaja** ແມ່ນ​ຊັບ​ສິນ​ທາງ​ປັນ​ຍາ​ສະ​ເພາະ​ຂອງ **Jan Friske**, ດໍາ​ເນີນ​ການ​ພາຍ​ໃຕ້ **SonnerStudio**.
+**Nexus Gaja** à»àº¡à»ˆàº™â€‹àºŠàº±àºšâ€‹àºªàº´àº™â€‹àº—àº²àº‡â€‹àº›àº±àº™â€‹àºàº²â€‹àºªàº°â€‹à»€àºžàº²àº°â€‹àº‚àº­àº‡ **Jan Friske**, àº”à»àº²â€‹à»€àº™àºµàº™â€‹àºàº²àº™â€‹àºžàº²àºâ€‹à»ƒàº•à»‰ **SonnerStudio**.
 
-Jan Friske ເປັນຜູ້ສ້າງ, ສະຖາປະນິກ ແລະເຈົ້າຂອງ Nexus Gaja - ຮວມເຖິງແນວຄວາມຄິດ, ສະຖາປັດຕະຍະກຳທັງໝົດ, ຮູບແບບໂດເມນ, ເອກະລັກຂອງຍີ່ຫໍ້ ແລະເອກະສານທີ່ກ່ຽວຂ້ອງ.
+Jan Friske à»€àº›àº±àº™àºœàº¹à»‰àºªà»‰àº²àº‡, àºªàº°àº–àº²àº›àº°àº™àº´àº à»àº¥àº°à»€àºˆàº»à»‰àº²àº‚àº­àº‡ Nexus Gaja - àº®àº§àº¡à»€àº–àº´àº‡à»àº™àº§àº„àº§àº²àº¡àº„àº´àº”, àºªàº°àº–àº²àº›àº±àº”àº•àº°àºàº°àºàº³àº—àº±àº‡à»àº»àº”, àº®àº¹àºšà»àºšàºšà»‚àº”à»€àº¡àº™, à»€àº­àºàº°àº¥àº±àºàº‚àº­àº‡àºàºµà»ˆàº«à»à»‰ à»àº¥àº°à»€àº­àºàº°àºªàº²àº™àº—àºµà»ˆàºà»ˆàº½àº§àº‚à»‰àº­àº‡.
 
-**ບໍ່​ມີ​ສິດ​, ໃບ​ອະ​ນຸ​ຍາດ​ຫຼື​ຜົນ​ປະ​ໂຫຍດ​ທີ່​ມີ​ກໍາ​ມະ​ສິດ​ແມ່ນ​ໄດ້​ຮັບ​ການ​ອະ​ນຸ​ຍາດ​ໃຫ້​ກັບ​ບຸກ​ຄົນ​ທີ​ສາມ ** ບໍ່​ວ່າ​ຂະ​ຫນາດ​ຂອງ​ເຂົາ​ເຈົ້າ​, ຕໍາ​ແຫນ່ງ​ຕະ​ຫຼາດ​ຫຼື​ອິດ​ທິ​ພົນ​ໃນ​ອຸດ​ສາ​ຫະ​ກໍາ​ເຕັກ​ໂນ​ໂລ​ຊີ​.
+**àºšà»à»ˆâ€‹àº¡àºµâ€‹àºªàº´àº”â€‹, à»ƒàºšâ€‹àº­àº°â€‹àº™àº¸â€‹àºàº²àº”â€‹àº«àº¼àº·â€‹àºœàº»àº™â€‹àº›àº°â€‹à»‚àº«àºàº”â€‹àº—àºµà»ˆâ€‹àº¡àºµâ€‹àºà»àº²â€‹àº¡àº°â€‹àºªàº´àº”â€‹à»àº¡à»ˆàº™â€‹à»„àº”à»‰â€‹àº®àº±àºšâ€‹àºàº²àº™â€‹àº­àº°â€‹àº™àº¸â€‹àºàº²àº”â€‹à»ƒàº«à»‰â€‹àºàº±àºšâ€‹àºšàº¸àºâ€‹àº„àº»àº™â€‹àº—àºµâ€‹àºªàº²àº¡ ** àºšà»à»ˆâ€‹àº§à»ˆàº²â€‹àº‚àº°â€‹àº«àº™àº²àº”â€‹àº‚àº­àº‡â€‹à»€àº‚àº»àº²â€‹à»€àºˆàº»à»‰àº²â€‹, àº•à»àº²â€‹à»àº«àº™à»ˆàº‡â€‹àº•àº°â€‹àº«àº¼àº²àº”â€‹àº«àº¼àº·â€‹àº­àº´àº”â€‹àº—àº´â€‹àºžàº»àº™â€‹à»ƒàº™â€‹àº­àº¸àº”â€‹àºªàº²â€‹àº«àº°â€‹àºà»àº²â€‹à»€àº•àº±àºâ€‹à»‚àº™â€‹à»‚àº¥â€‹àºŠàºµâ€‹.
 
-### ສິ່ງ​ທີ່​ບໍ່​ໄດ້​ຮັບ​ອະ​ນຸ​ຍາດ​ໂດຍ​ບໍ່​ມີ​ການ​ຍິນ​ດີ​ເປັນ​ລາຍ​ລັກ​ອັກ​ສອນ:
-- ❌ ສຳເນົາ, ຜະລິດຄືນໃໝ່ ຫຼື ແຈກຢາຍຊອບແວນີ້ ຫຼື ເອກະສານຂອງມັນ
-- ❌ ດັດແປງ, ດັດແປງ ຫຼືສ້າງຜົນງານທີ່ມາຈາກ
-- ❌ ການນໍາໃຊ້ທາງການຄ້າຂອງສ່ວນໃດນຶ່ງຂອງ Nexus Gaja
-- ❌ ການ​ນໍາ​ໃຊ້​ເນື້ອ​ໃນ repository ** ຂໍ້​ມູນ​ການ​ຝຶກ​ອົບ​ຮົມ​ສໍາ​ລັບ​ລະ​ບົບ AI / LLM **
-- ❌ ໃບອະນຸຍາດຍ່ອຍ ຫຼື ໂອນສິດໃຫ້ບຸກຄົນທີສາມ
+### àºªàº´à»ˆàº‡â€‹àº—àºµà»ˆâ€‹àºšà»à»ˆâ€‹à»„àº”à»‰â€‹àº®àº±àºšâ€‹àº­àº°â€‹àº™àº¸â€‹àºàº²àº”â€‹à»‚àº”àºâ€‹àºšà»à»ˆâ€‹àº¡àºµâ€‹àºàº²àº™â€‹àºàº´àº™â€‹àº”àºµâ€‹à»€àº›àº±àº™â€‹àº¥àº²àºâ€‹àº¥àº±àºâ€‹àº­àº±àºâ€‹àºªàº­àº™:
+- âŒ àºªàº³à»€àº™àº»àº², àºœàº°àº¥àº´àº”àº„àº·àº™à»ƒà»à»ˆ àº«àº¼àº· à»àºˆàºàº¢àº²àºàºŠàº­àºšà»àº§àº™àºµà»‰ àº«àº¼àº· à»€àº­àºàº°àºªàº²àº™àº‚àº­àº‡àº¡àº±àº™
+- âŒ àº”àº±àº”à»àº›àº‡, àº”àº±àº”à»àº›àº‡ àº«àº¼àº·àºªà»‰àº²àº‡àºœàº»àº™àº‡àº²àº™àº—àºµà»ˆàº¡àº²àºˆàº²àº
+- âŒ àºàº²àº™àº™à»àº²à»ƒàºŠà»‰àº—àº²àº‡àºàº²àº™àº„à»‰àº²àº‚àº­àº‡àºªà»ˆàº§àº™à»ƒàº”àº™àº¶à»ˆàº‡àº‚àº­àº‡ Nexus Gaja
+- âŒ àºàº²àº™â€‹àº™à»àº²â€‹à»ƒàºŠà»‰â€‹à»€àº™àº·à»‰àº­â€‹à»ƒàº™ repository ** àº‚à»à»‰â€‹àº¡àº¹àº™â€‹àºàº²àº™â€‹àºàº¶àºâ€‹àº­àº»àºšâ€‹àº®àº»àº¡â€‹àºªà»àº²â€‹àº¥àº±àºšâ€‹àº¥àº°â€‹àºšàº»àºš AI / LLM **
+- âŒ à»ƒàºšàº­àº°àº™àº¸àºàº²àº”àºà»ˆàº­àº àº«àº¼àº· à»‚àº­àº™àºªàº´àº”à»ƒàº«à»‰àºšàº¸àºàº„àº»àº™àº—àºµàºªàº²àº¡
 
-### ປົກປ້ອງຊັບສິນທາງປັນຍາ
-ແນວຄວາມຄິດຕົ້ນສະບັບຕໍ່ໄປນີ້ຖືກປົກປ້ອງເປັນຄວາມລັບທາງການຄ້າ ແລະການສ້າງທີ່ເປັນເຈົ້າຂອງຂອງ Jan Friske:
-- ຮູບ​ແບບ​ການ​ສື່​ສານ​ຫຼາຍ​ຊັ້ນ * (ຕົ້ນ​ສະ​ບັບ / ການ​ແປ​ພາ​ສາ​ຄວາມ​ຫມາຍ / ສະ​ບັບ​ແປ​ພາ​ສາ​) *
-- ຫຼັກ​ການ​ແຍກ​ຕົວ​ຕົນ *(ບຸກ​ຄົນ ≠ ບັນ​ຊີ​ຜູ້​ໃຊ້ ≠ ການ​ຢັ້ງ​ຢືນ​ຕົວ​ຕົນ​) *
-- ຕົວ​ແບບ decoupling ຂໍ້​ຄວາມ * (ຂໍ້​ຄວາມ ≠ ການ​ແປ​ພາ​ສາ​) *
-- ຂອບ​ການ​ຄຸ້ມ​ຄອງ​ການ​ຄວບ​ຄຸມ AI
+### àº›àº»àºàº›à»‰àº­àº‡àºŠàº±àºšàºªàº´àº™àº—àº²àº‡àº›àº±àº™àºàº²
+à»àº™àº§àº„àº§àº²àº¡àº„àº´àº”àº•àº»à»‰àº™àºªàº°àºšàº±àºšàº•à»à»ˆà»„àº›àº™àºµà»‰àº–àº·àºàº›àº»àºàº›à»‰àº­àº‡à»€àº›àº±àº™àº„àº§àº²àº¡àº¥àº±àºšàº—àº²àº‡àºàº²àº™àº„à»‰àº² à»àº¥àº°àºàº²àº™àºªà»‰àº²àº‡àº—àºµà»ˆà»€àº›àº±àº™à»€àºˆàº»à»‰àº²àº‚àº­àº‡àº‚àº­àº‡ Jan Friske:
+- àº®àº¹àºšâ€‹à»àºšàºšâ€‹àºàº²àº™â€‹àºªàº·à»ˆâ€‹àºªàº²àº™â€‹àº«àº¼àº²àºâ€‹àºŠàº±à»‰àº™ * (àº•àº»à»‰àº™â€‹àºªàº°â€‹àºšàº±àºš / àºàº²àº™â€‹à»àº›â€‹àºžàº²â€‹àºªàº²â€‹àº„àº§àº²àº¡â€‹àº«àº¡àº²àº / àºªàº°â€‹àºšàº±àºšâ€‹à»àº›â€‹àºžàº²â€‹àºªàº²â€‹) *
+- àº«àº¼àº±àºâ€‹àºàº²àº™â€‹à»àºàºâ€‹àº•àº»àº§â€‹àº•àº»àº™ *(àºšàº¸àºâ€‹àº„àº»àº™ â‰  àºšàº±àº™â€‹àºŠàºµâ€‹àºœàº¹à»‰â€‹à»ƒàºŠà»‰ â‰  àºàº²àº™â€‹àº¢àº±à»‰àº‡â€‹àº¢àº·àº™â€‹àº•àº»àº§â€‹àº•àº»àº™â€‹) *
+- àº•àº»àº§â€‹à»àºšàºš decoupling àº‚à»à»‰â€‹àº„àº§àº²àº¡ * (àº‚à»à»‰â€‹àº„àº§àº²àº¡ â‰  àºàº²àº™â€‹à»àº›â€‹àºžàº²â€‹àºªàº²â€‹) *
+- àº‚àº­àºšâ€‹àºàº²àº™â€‹àº„àº¸à»‰àº¡â€‹àº„àº­àº‡â€‹àºàº²àº™â€‹àº„àº§àºšâ€‹àº„àº¸àº¡ AI
 
-### ຕິດຕໍ່
-ສໍາລັບການສອບຖາມໃບອະນຸຍາດ: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+### àº•àº´àº”àº•à»à»ˆ
+àºªà»àº²àº¥àº±àºšàºàº²àº™àºªàº­àºšàº–àº²àº¡à»ƒàºšàº­àº°àº™àº¸àºàº²àº”: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-*“Nexus Gaja” ແລະໂລໂກ້ Nexus Gaja ແມ່ນເຄື່ອງໝາຍການຄ້າຂອງ Jan Friske. ຫ້າມໃຊ້ຊື່ ຫຼືເຄື່ອງໝາຍການຄ້າທີ່ບໍ່ໄດ້ຮັບອະນຸຍາດ.*
+*â€œNexus Gajaâ€ à»àº¥àº°à»‚àº¥à»‚àºà»‰ Nexus Gaja à»àº¡à»ˆàº™à»€àº„àº·à»ˆàº­àº‡à»àº²àºàºàº²àº™àº„à»‰àº²àº‚àº­àº‡ Jan Friske. àº«à»‰àº²àº¡à»ƒàºŠà»‰àºŠàº·à»ˆ àº«àº¼àº·à»€àº„àº·à»ˆàº­àº‡à»àº²àºàºàº²àº™àº„à»‰àº²àº—àºµà»ˆàºšà»à»ˆà»„àº”à»‰àº®àº±àºšàº­àº°àº™àº¸àºàº²àº”.*
 
-➡️ ຂໍ້ກຳນົດໃບອະນຸຍາດເຕັມໃນ [ໃບອະນຸຍາດ] (ໃບອະນຸຍາດ)
+âž¡ï¸ àº‚à»à»‰àºàº³àº™àº»àº”à»ƒàºšàº­àº°àº™àº¸àºàº²àº”à»€àº•àº±àº¡à»ƒàº™ [à»ƒàºšàº­àº°àº™àº¸àºàº²àº”] (à»ƒàºšàº­àº°àº™àº¸àºàº²àº”)

@@ -1,4 +1,8 @@
-# Kgokagano ya Gaja
+﻿# Kgokagano ya Gaja
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
+
+
 
 > *Bakeng sa khutšo ya boditšhabatšhaba le kwešišo ya boditšhabatšhaba*
 

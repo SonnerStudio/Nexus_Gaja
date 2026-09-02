@@ -1,377 +1,379 @@
-# Nexus Gaja
+﻿# Nexus Gaja
 
-> *ដើម្បីសន្តិភាពអន្តរជាតិ និងការយល់ដឹងអន្តរជាតិ*
+> *ážŠáž¾áž˜áŸ’áž”áž¸ážŸáž“áŸ’ážáž·áž—áž¶áž–áž¢áž“áŸ’ážážšáž‡áž¶ážáž· áž“áž·áž„áž€áž¶ážšáž™áž›áŸ‹ážŠáž¹áž„áž¢áž“áŸ’ážážšáž‡áž¶ážáž·*
 
 
-![ស្លាកសញ្ញា Nexus Gaja](ទ្រព្យសកម្ម/logo.jpg)
+![ážŸáŸ’áž›áž¶áž€ážŸáž‰áŸ’áž‰áž¶ Nexus Gaja](áž‘áŸ’ážšáž–áŸ’áž™ážŸáž€áž˜áŸ’áž˜/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
 
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 
-**Nexus Gaja** គឺជាបណ្តាញទំនាក់ទំនងដ៏ឆ្លាតវៃ និងយល់ដឹងពីបរិបទ ដែលត្រូវបានរចនាឡើងដើម្បីបដិវត្តទំនាក់ទំនងពិភពលោក។
+**Nexus Gaja** áž‚ážºáž‡áž¶áž”ážŽáŸ’ážáž¶áž‰áž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„ážŠáŸáž†áŸ’áž›áž¶ážážœáŸƒ áž“áž·áž„áž™áž›áŸ‹ážŠáž¹áž„áž–áž¸áž”ážšáž·áž”áž‘ ážŠáŸ‚áž›ážáŸ’ážšáž¼ážœáž”áž¶áž“ážšáž…áž“áž¶áž¡áž¾áž„ážŠáž¾áž˜áŸ’áž”áž¸áž”ážŠáž·ážœážáŸ’ážáž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„áž–áž·áž—áž–áž›áŸ„áž€áŸ”
 
-## គោលបំណង និងចក្ខុវិស័យ
+## áž‚áŸ„áž›áž”áŸ†ážŽáž„ áž“áž·áž„áž…áž€áŸ’ážáž»ážœáž·ážŸáŸáž™
 
 ![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
 
-នៅក្នុងពិភពសាកលភាវូបនីយកម្ម ភាសាច្រើនតែជាឧបសគ្គធំបំផុត។ គោលដៅចម្បងរបស់ Nexus Gaja គឺដើម្បីបើកការប្រាស្រ័យទាក់ទងយ៉ាងរលូន ងាយស្រួលចូលប្រើ និងបរិបទរវាងមនុស្ស - ដោយមិនគិតពីថាតើពួកគេនិយាយភាសាសាមញ្ញឬអត់នោះទេ។ 
+áž“áŸ…áž€áŸ’áž“áž»áž„áž–áž·áž—áž–ážŸáž¶áž€áž›áž—áž¶ážœáž¼áž”áž“áž¸áž™áž€áž˜áŸ’áž˜ áž—áž¶ážŸáž¶áž…áŸ’ážšáž¾áž“ážáŸ‚áž‡áž¶áž§áž”ážŸáž‚áŸ’áž‚áž’áŸ†áž”áŸ†áž•áž»ážáŸ” áž‚áŸ„áž›ážŠáŸ…áž…áž˜áŸ’áž”áž„ážšáž”ážŸáŸ‹ Nexus Gaja áž‚ážºážŠáž¾áž˜áŸ’áž”áž¸áž”áž¾áž€áž€áž¶ážšáž”áŸ’ážšáž¶ážŸáŸ’ážšáŸáž™áž‘áž¶áž€áŸ‹áž‘áž„áž™áŸ‰áž¶áž„ážšáž›áž¼áž“ áž„áž¶áž™ážŸáŸ’ážšáž½áž›áž…áž¼áž›áž”áŸ’ážšáž¾ áž“áž·áž„áž”ážšáž·áž”áž‘ážšážœáž¶áž„áž˜áž“áž»ážŸáŸ’ážŸ - ážŠáŸ„áž™áž˜áž·áž“áž‚áž·ážáž–áž¸ážáž¶ážáž¾áž–áž½áž€áž‚áŸáž“áž·áž™áž¶áž™áž—áž¶ážŸáž¶ážŸáž¶áž˜áž‰áŸ’áž‰áž¬áž¢ážáŸ‹áž“áŸ„áŸ‡áž‘áŸáŸ” 
 
-វា​មិន​មែន​គ្រាន់​តែ​អំពី​ការ​បកប្រែ​ពាក្យ​រឹងរូស​ប៉ុណ្ណោះ​ទេ ប៉ុន្តែ​អំពី **ការ​ផ្ទេរ​អត្ថន័យ**។ Nexus Gaja ភ្ជាប់មនុស្សក្នុងកម្រិតកាន់តែស៊ីជម្រៅដោយការយល់ដឹងអំពីវប្បធម៌ តំបន់ និងបរិបទ ដែលអនុញ្ញាតឱ្យមានការសន្ទនាពិតប្រាកដ និងពិតប្រាកដ។
+ážœáž¶â€‹áž˜áž·áž“â€‹áž˜áŸ‚áž“â€‹áž‚áŸ’ážšáž¶áž“áŸ‹â€‹ážáŸ‚â€‹áž¢áŸ†áž–áž¸â€‹áž€áž¶ážšâ€‹áž”áž€áž”áŸ’ážšáŸ‚â€‹áž–áž¶áž€áŸ’áž™â€‹ážšáž¹áž„ážšáž¼ážŸâ€‹áž”áŸ‰áž»ážŽáŸ’ážŽáŸ„áŸ‡â€‹áž‘áŸ áž”áŸ‰áž»áž“áŸ’ážáŸ‚â€‹áž¢áŸ†áž–áž¸ **áž€áž¶ážšâ€‹áž•áŸ’áž‘áŸážšâ€‹áž¢ážáŸ’ážáž“áŸáž™**áŸ” Nexus Gaja áž—áŸ’áž‡áž¶áž”áŸ‹áž˜áž“áž»ážŸáŸ’ážŸáž€áŸ’áž“áž»áž„áž€áž˜áŸ’ážšáž·ážáž€áž¶áž“áŸ‹ážáŸ‚ážŸáŸŠáž¸áž‡áž˜áŸ’ážšáŸ…ážŠáŸ„áž™áž€áž¶ážšáž™áž›áŸ‹ážŠáž¹áž„áž¢áŸ†áž–áž¸ážœáž”áŸ’áž”áž’áž˜áŸŒ ážáŸ†áž”áž“áŸ‹ áž“áž·áž„áž”ážšáž·áž”áž‘ ážŠáŸ‚áž›áž¢áž“áž»áž‰áŸ’áž‰áž¶ážáž±áŸ’áž™áž˜áž¶áž“áž€áž¶ážšážŸáž“áŸ’áž‘áž“áž¶áž–áž·ážáž”áŸ’ážšáž¶áž€ážŠ áž“áž·áž„áž–áž·ážáž”áŸ’ážšáž¶áž€ážŠáŸ”
 
-## លទ្ធភាពនិងលក្ខណៈពិសេស
-- **ទំនាក់ទំនងពហុមេឌៀ**៖ ប្រព័ន្ធដំណើរការមិនត្រឹមតែអត្ថបទប៉ុណ្ណោះទេ ប៉ុន្តែថែមទាំងរូបភាព អូឌីយ៉ូ និងវីដេអូផងដែរ។ នេះ​អនុញ្ញាត​ឱ្យ​មាន​ការ​សន្ទនា​ដែល​ពោរពេញ​ទៅ​ដោយ​ការ​សន្ទនា (ឧ. ការ​ហៅ​ជា​វីដេអូ ឬ​សារ​ជា​សំឡេង) ក្នុង​ពេល​ជាក់ស្តែង​ឆ្លង​កាត់​ព្រំដែន​ភាសា។
-- ** ភាពរសើបនៃបរិបទ**៖ ការរកឃើញពាក្យអសុរោះ សព្វវចនាធិប្បាយ វចនានុក្រម និងគ្រាមភាសាក្នុងតំបន់ ដែលជារឿយៗត្រូវបានយល់ខុសដោយអ្នកបកប្រែបែបបុរាណ។
-- **បណ្តាញឆ្លងវេទិកា**៖ បម្រើជាមូលដ្ឋានសម្រាប់ការជជែកឯកជន វេទិកាវេទិកា (ប្រកាសជាមួយមតិយោបល់) និងអន្តរកម្មសហគមន៍សកល។
+## áž›áž‘áŸ’áž’áž—áž¶áž–áž“áž·áž„áž›áž€áŸ’ážážŽáŸˆáž–áž·ážŸáŸážŸ
+- **áž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„áž–áž áž»áž˜áŸážŒáŸ€**áŸ– áž”áŸ’ážšáž–áŸáž“áŸ’áž’ážŠáŸ†ážŽáž¾ážšáž€áž¶ážšáž˜áž·áž“ážáŸ’ážšáž¹áž˜ážáŸ‚áž¢ážáŸ’ážáž”áž‘áž”áŸ‰áž»ážŽáŸ’ážŽáŸ„áŸ‡áž‘áŸ áž”áŸ‰áž»áž“áŸ’ážáŸ‚ážáŸ‚áž˜áž‘áž¶áŸ†áž„ážšáž¼áž”áž—áž¶áž– áž¢áž¼ážŒáž¸áž™áŸ‰áž¼ áž“áž·áž„ážœáž¸ážŠáŸáž¢áž¼áž•áž„ážŠáŸ‚ážšáŸ” áž“áŸáŸ‡â€‹áž¢áž“áž»áž‰áŸ’áž‰áž¶ážâ€‹áž±áŸ’áž™â€‹áž˜áž¶áž“â€‹áž€áž¶ážšâ€‹ážŸáž“áŸ’áž‘áž“áž¶â€‹ážŠáŸ‚áž›â€‹áž–áŸ„ážšáž–áŸáž‰â€‹áž‘áŸ…â€‹ážŠáŸ„áž™â€‹áž€áž¶ážšâ€‹ážŸáž“áŸ’áž‘áž“áž¶ (áž§. áž€áž¶ážšâ€‹áž áŸ…â€‹áž‡áž¶â€‹ážœáž¸ážŠáŸáž¢áž¼ áž¬â€‹ážŸáž¶ážšâ€‹áž‡áž¶â€‹ážŸáŸ†áž¡áŸáž„) áž€áŸ’áž“áž»áž„â€‹áž–áŸáž›â€‹áž‡áž¶áž€áŸ‹ážŸáŸ’ážáŸ‚áž„â€‹áž†áŸ’áž›áž„â€‹áž€áž¶ážáŸ‹â€‹áž–áŸ’ážšáŸ†ážŠáŸ‚áž“â€‹áž—áž¶ážŸáž¶áŸ”
+- ** áž—áž¶áž–ážšážŸáž¾áž”áž“áŸƒáž”ážšáž·áž”áž‘**áŸ– áž€áž¶ážšážšáž€ážƒáž¾áž‰áž–áž¶áž€áŸ’áž™áž¢ážŸáž»ážšáŸ„áŸ‡ ážŸáž–áŸ’ážœážœáž…áž“áž¶áž’áž·áž”áŸ’áž”áž¶áž™ ážœáž…áž“áž¶áž“áž»áž€áŸ’ážšáž˜ áž“áž·áž„áž‚áŸ’ážšáž¶áž˜áž—áž¶ážŸáž¶áž€áŸ’áž“áž»áž„ážáŸ†áž”áž“áŸ‹ ážŠáŸ‚áž›áž‡áž¶ážšáž¿áž™áŸ—ážáŸ’ážšáž¼ážœáž”áž¶áž“áž™áž›áŸ‹ážáž»ážŸážŠáŸ„áž™áž¢áŸ’áž“áž€áž”áž€áž”áŸ’ážšáŸ‚áž”áŸ‚áž”áž”áž»ážšáž¶ážŽáŸ”
+- **áž”ážŽáŸ’ážáž¶áž‰áž†áŸ’áž›áž„ážœáŸáž‘áž·áž€áž¶**áŸ– áž”áž˜áŸ’ážšáž¾áž‡áž¶áž˜áž¼áž›ážŠáŸ’áž‹áž¶áž“ážŸáž˜áŸ’ážšáž¶áž”áŸ‹áž€áž¶ážšáž‡áž‡áŸ‚áž€áž¯áž€áž‡áž“ ážœáŸáž‘áž·áž€áž¶ážœáŸáž‘áž·áž€áž¶ (áž”áŸ’ážšáž€áž¶ážŸáž‡áž¶áž˜áž½áž™áž˜ážáž·áž™áŸ„áž”áž›áŸ‹) áž“áž·áž„áž¢áž“áŸ’ážážšáž€áž˜áŸ’áž˜ážŸáž áž‚áž˜áž“áŸážŸáž€áž›áŸ”
 
 ---
 
-## ស្ថាបត្យកម្មបច្ចេកទេស (គោលគំនិតស្នូល)
+## ážŸáŸ’ážáž¶áž”ážáŸ’áž™áž€áž˜áŸ’áž˜áž”áž…áŸ’áž…áŸáž€áž‘áŸážŸ (áž‚áŸ„áž›áž‚áŸ†áž“áž·ážážŸáŸ’áž“áž¼áž›)
 
 ![Nexus Gaja Translation Concept](assets/img/nexus_translation.jpg)
 
-ស្នូលបច្ចេកទេសនៃ Nexus Gaja គឺជាគំរូទំនាក់ទំនងដែលបង្កើតដោយខ្លួនឯង ដែលត្រូវបានបែងចែកយ៉ាងតឹងរ៉ឹងជាបីស្រទាប់៖
+ážŸáŸ’áž“áž¼áž›áž”áž…áŸ’áž…áŸáž€áž‘áŸážŸáž“áŸƒ Nexus Gaja áž‚ážºáž‡áž¶áž‚áŸ†ážšáž¼áž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„ážŠáŸ‚áž›áž”áž„áŸ’áž€áž¾ážážŠáŸ„áž™ážáŸ’áž›áž½áž“áž¯áž„ ážŠáŸ‚áž›ážáŸ’ážšáž¼ážœáž”áž¶áž“áž”áŸ‚áž„áž…áŸ‚áž€áž™áŸ‰áž¶áž„ážáž¹áž„ážšáŸ‰áž¹áž„áž‡áž¶áž”áž¸ážŸáŸ’ážšáž‘áž¶áž”áŸ‹áŸ–
 
-1. **ដើម**៖ វត្ថុទំនាក់ទំនង (សារ) ដែលបង្កើតដោយអ្នកផ្ញើតែងតែនៅតែមិនអាចផ្លាស់ប្តូរបាន។
-2. **ការបកស្រាយអត្ថន័យ**៖ ប្រព័ន្ធវិភាគមិនត្រឹមតែពាក្យប៉ុណ្ណោះទេ ប៉ុន្តែអត្ថន័យជាក់ស្តែង។
-3. **ការតំណាងភាសាគោលដៅ**៖ AI បង្កើតតែការតំណាងបណ្តោះអាសន្ន ឬក្នុងឃ្លាំងសម្ងាត់នៃប្រភពដើមសម្រាប់អ្នកទទួលរៀងៗខ្លួនដោយផ្អែកលើភាសាដែលពួកគេចូលចិត្ត។ ការបកប្រែមិនដែលសរសេរជាន់លើសារដើមឡើយ។
+1. **ážŠáž¾áž˜**áŸ– ážœážáŸ’ážáž»áž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„ (ážŸáž¶ážš) ážŠáŸ‚áž›áž”áž„áŸ’áž€áž¾ážážŠáŸ„áž™áž¢áŸ’áž“áž€áž•áŸ’áž‰áž¾ážáŸ‚áž„ážáŸ‚áž“áŸ…ážáŸ‚áž˜áž·áž“áž¢áž¶áž…áž•áŸ’áž›áž¶ážŸáŸ‹áž”áŸ’ážáž¼ážšáž”áž¶áž“áŸ”
+2. **áž€áž¶ážšáž”áž€ážŸáŸ’ážšáž¶áž™áž¢ážáŸ’ážáž“áŸáž™**áŸ– áž”áŸ’ážšáž–áŸáž“áŸ’áž’ážœáž·áž—áž¶áž‚áž˜áž·áž“ážáŸ’ážšáž¹áž˜ážáŸ‚áž–áž¶áž€áŸ’áž™áž”áŸ‰áž»ážŽáŸ’ážŽáŸ„áŸ‡áž‘áŸ áž”áŸ‰áž»áž“áŸ’ážáŸ‚áž¢ážáŸ’ážáž“áŸáž™áž‡áž¶áž€áŸ‹ážŸáŸ’ážáŸ‚áž„áŸ”
+3. **áž€áž¶ážšážáŸ†ážŽáž¶áž„áž—áž¶ážŸáž¶áž‚áŸ„áž›ážŠáŸ…**áŸ– AI áž”áž„áŸ’áž€áž¾ážážáŸ‚áž€áž¶ážšážáŸ†ážŽáž¶áž„áž”ážŽáŸ’ážáŸ„áŸ‡áž¢áž¶ážŸáž“áŸ’áž“ áž¬áž€áŸ’áž“áž»áž„ážƒáŸ’áž›áž¶áŸ†áž„ážŸáž˜áŸ’áž„áž¶ážáŸ‹áž“áŸƒáž”áŸ’ážšáž—áž–ážŠáž¾áž˜ážŸáž˜áŸ’ážšáž¶áž”áŸ‹áž¢áŸ’áž“áž€áž‘áž‘áž½áž›ážšáŸ€áž„áŸ—ážáŸ’áž›áž½áž“ážŠáŸ„áž™áž•áŸ’áž¢áŸ‚áž€áž›áž¾áž—áž¶ážŸáž¶ážŠáŸ‚áž›áž–áž½áž€áž‚áŸáž…áž¼áž›áž…áž·ážáŸ’ážáŸ” áž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚áž˜áž·áž“ážŠáŸ‚áž›ážŸážšážŸáŸážšáž‡áž¶áž“áŸ‹áž›áž¾ážŸáž¶ážšážŠáž¾áž˜áž¡áž¾áž™áŸ”
 
-### បរិបទអាស្រ័យ
-ការបកប្រែមិនដែលមើលព័ត៌មាននៅក្នុង Nexus Gaja ក្នុងភាពឯកោទេ។ ម៉ាស៊ីនគិតតាមឋានានុក្រមទាំងមូលទៅក្នុងគណនី៖
-`សារ` → `សារមុន` → `បរិបទខ្សែស្រឡាយ` → `បរិបទសហគមន៍` → `ភាសា / តំបន់` → `ចំណូលចិត្តអ្នកប្រើប្រាស់`
+### áž”ážšáž·áž”áž‘áž¢áž¶ážŸáŸ’ážšáŸáž™
+áž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚áž˜áž·áž“ážŠáŸ‚áž›áž˜áž¾áž›áž–áŸážáŸŒáž˜áž¶áž“áž“áŸ…áž€áŸ’áž“áž»áž„ Nexus Gaja áž€áŸ’áž“áž»áž„áž—áž¶áž–áž¯áž€áŸ„áž‘áŸáŸ” áž˜áŸ‰áž¶ážŸáŸŠáž¸áž“áž‚áž·ážážáž¶áž˜áž‹áž¶áž“áž¶áž“áž»áž€áŸ’ážšáž˜áž‘áž¶áŸ†áž„áž˜áž¼áž›áž‘áŸ…áž€áŸ’áž“áž»áž„áž‚ážŽáž“áž¸áŸ–
+`ážŸáž¶ážš` â†’ `ážŸáž¶ážšáž˜áž»áž“` â†’ `áž”ážšáž·áž”áž‘ážáŸ’ážŸáŸ‚ážŸáŸ’ážšáž¡áž¶áž™` â†’ `áž”ážšáž·áž”áž‘ážŸáž áž‚áž˜áž“áŸ` â†’ `áž—áž¶ážŸáž¶ / ážáŸ†áž”áž“áŸ‹` â†’ `áž…áŸ†ážŽáž¼áž›áž…áž·ážáŸ’ážáž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹`
 
-### ប្រសិទ្ធភាពតាមរយៈការបកប្រែតាមតម្រូវការ
-ការបកប្រែកើតឡើងតែ ** នៅពេលហៅ ** (តាមតម្រូវការ) ក្នុងលក្ខណៈសន្សំធនធាន។ នៅពេលអ្នកប្រើប្រាស់ស្នើសុំមាតិកា វាត្រូវបានបកប្រែទៅជាភាសាលំនាំដើមរបស់ពួកគេ។ ការបកប្រែសម្រាប់ភាសាជាក់លាក់មួយត្រូវបានរក្សាទុកជាអចិន្ត្រៃយ៍ (ឃ្លាំងសម្ងាត់) ដើម្បីបង្កើនល្បឿនសំណួរនៅពេលក្រោយយ៉ាងខ្លាំង។
+### áž”áŸ’ážšážŸáž·áž‘áŸ’áž’áž—áž¶áž–ážáž¶áž˜ážšáž™áŸˆáž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚ážáž¶áž˜ážáž˜áŸ’ážšáž¼ážœáž€áž¶ážš
+áž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚áž€áž¾ážáž¡áž¾áž„ážáŸ‚ ** áž“áŸ…áž–áŸáž›áž áŸ… ** (ážáž¶áž˜ážáž˜áŸ’ážšáž¼ážœáž€áž¶ážš) áž€áŸ’áž“áž»áž„áž›áž€áŸ’ážážŽáŸˆážŸáž“áŸ’ážŸáŸ†áž’áž“áž’áž¶áž“áŸ” áž“áŸ…áž–áŸáž›áž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹ážŸáŸ’áž“áž¾ážŸáž»áŸ†áž˜áž¶ážáž·áž€áž¶ ážœáž¶ážáŸ’ážšáž¼ážœáž”áž¶áž“áž”áž€áž”áŸ’ážšáŸ‚áž‘áŸ…áž‡áž¶áž—áž¶ážŸáž¶áž›áŸ†áž“áž¶áŸ†ážŠáž¾áž˜ážšáž”ážŸáŸ‹áž–áž½áž€áž‚áŸáŸ” áž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚ážŸáž˜áŸ’ážšáž¶áž”áŸ‹áž—áž¶ážŸáž¶áž‡áž¶áž€áŸ‹áž›áž¶áž€áŸ‹áž˜áž½áž™ážáŸ’ážšáž¼ážœáž”áž¶áž“ážšáž€áŸ’ážŸáž¶áž‘áž»áž€áž‡áž¶áž¢áž…áž·áž“áŸ’ážáŸ’ážšáŸƒáž™áŸ (ážƒáŸ’áž›áž¶áŸ†áž„ážŸáž˜áŸ’áž„áž¶ážáŸ‹) ážŠáž¾áž˜áŸ’áž”áž¸áž”áž„áŸ’áž€áž¾áž“áž›áŸ’áž”áž¿áž“ážŸáŸ†ážŽáž½ážšáž“áŸ…áž–áŸáž›áž€áŸ’ážšáŸ„áž™áž™áŸ‰áž¶áž„ážáŸ’áž›áž¶áŸ†áž„áŸ”
 
-## ការសម្របសម្រួលដែលដំណើរការដោយ AI (WP 1.8.4)
+## áž€áž¶ážšážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž›ážŠáŸ‚áž›ážŠáŸ†ážŽáž¾ážšáž€áž¶ážšážŠáŸ„áž™ AI (WP 1.8.4)
 
 ![Nexus Gaja AI Moderation](assets/img/nexus_moderation.jpg)
 
-ជាមួយនឹងការសម្របសម្រួលដែលគាំទ្រដោយ AI យើងឈានជើងមួយជំហានធំពីគំនិតផលិតផលទៅស្ថាបត្យកម្មបច្ចេកទេស ហើយពិចារណាលើបទប្បញ្ញត្តិរបស់សហភាពអឺរ៉ុបបច្ចុប្បន្ន (កាតព្វកិច្ចតម្លាភាពនៃច្បាប់ EU AI យោងតាមសិល្បៈ។ 50; ច្បាប់សេវាកម្មឌីជីថលជាមួយនឹងហេតុផលដែលអាចយល់បាន និងជម្រើសសម្រាប់ការជំទាស់)។
+áž‡áž¶áž˜áž½áž™áž“áž¹áž„áž€áž¶ážšážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž›ážŠáŸ‚áž›áž‚áž¶áŸ†áž‘áŸ’ážšážŠáŸ„áž™ AI áž™áž¾áž„ážˆáž¶áž“áž‡áž¾áž„áž˜áž½áž™áž‡áŸ†áž áž¶áž“áž’áŸ†áž–áž¸áž‚áŸ†áž“áž·ážáž•áž›áž·ážáž•áž›áž‘áŸ…ážŸáŸ’ážáž¶áž”ážáŸ’áž™áž€áž˜áŸ’áž˜áž”áž…áŸ’áž…áŸáž€áž‘áŸážŸ áž áž¾áž™áž–áž·áž…áž¶ážšážŽáž¶áž›áž¾áž”áž‘áž”áŸ’áž”áž‰áŸ’áž‰ážáŸ’ážáž·ážšáž”ážŸáŸ‹ážŸáž áž—áž¶áž–áž¢ážºážšáŸ‰áž»áž”áž”áž…áŸ’áž…áž»áž”áŸ’áž”áž“áŸ’áž“ (áž€áž¶ážáž–áŸ’ážœáž€áž·áž…áŸ’áž…ážáž˜áŸ’áž›áž¶áž—áž¶áž–áž“áŸƒáž…áŸ’áž”áž¶áž”áŸ‹ EU AI áž™áŸ„áž„ážáž¶áž˜ážŸáž·áž›áŸ’áž”áŸˆáŸ” 50; áž…áŸ’áž”áž¶áž”áŸ‹ážŸáŸážœáž¶áž€áž˜áŸ’áž˜ážŒáž¸áž‡áž¸ážáž›áž‡áž¶áž˜áž½áž™áž“áž¹áž„áž áŸážáž»áž•áž›ážŠáŸ‚áž›áž¢áž¶áž…áž™áž›áŸ‹áž”áž¶áž“ áž“áž·áž„áž‡áž˜áŸ’ážšáž¾ážŸážŸáž˜áŸ’ážšáž¶áž”áŸ‹áž€áž¶ážšáž‡áŸ†áž‘áž¶ážŸáŸ‹)áŸ”
 
-### 1. គោលការណ៍ជាមូលដ្ឋាន
-ប្រយោគដ៏សំខាន់បំផុតសម្រាប់ស្ថាបត្យកម្មគឺ៖ **ការសម្របសម្រួល AI គឺជាប្រព័ន្ធត្រួតពិនិត្យ និងមិនមែនជាប្រព័ន្ធគ្រប់គ្រងដោយស្វយ័តនោះទេ។**
-វាមានគោលបំណងគាំទ្រមនុស្សក្នុងកម្រិតមធ្យម មិនមែនដើម្បីកំណត់ថាមតិណាមួយត្រូវបានអនុញ្ញាតឱ្យមាននៅលើ Nexus Gaja នោះទេ។
-ដូច្នេះយើងបែងចែករវាងបីយ៉ាង៖
-- ** រកឃើញ៖ ** "អាចមានការបំពានច្បាប់នៅទីនេះ។"
-- ** អត្រា៖ ** "ឧទាហរណ៍ ប្រូបាប៊ីលីតេនៃការបំពានច្បាប់គឺ 94% ។"
-- ** សម្រេចចិត្ត៖ ** "តើនឹងចាត់វិធានការបែបណា?"
-កម្រិតទីបីត្រូវតែគ្រប់គ្រងដោយមនុស្សធម៌ក្នុងករណីធ្ងន់ធ្ងរ។
+### 1. áž‚áŸ„áž›áž€áž¶ážšážŽáŸáž‡áž¶áž˜áž¼áž›ážŠáŸ’áž‹áž¶áž“
+áž”áŸ’ážšáž™áŸ„áž‚ážŠáŸážŸáŸ†ážáž¶áž“áŸ‹áž”áŸ†áž•áž»ážážŸáž˜áŸ’ážšáž¶áž”áŸ‹ážŸáŸ’ážáž¶áž”ážáŸ’áž™áž€áž˜áŸ’áž˜áž‚ážºáŸ– **áž€áž¶ážšážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž› AI áž‚ážºáž‡áž¶áž”áŸ’ážšáž–áŸáž“áŸ’áž’ážáŸ’ážšáž½ážáž–áž·áž“áž·ážáŸ’áž™ áž“áž·áž„áž˜áž·áž“áž˜áŸ‚áž“áž‡áž¶áž”áŸ’ážšáž–áŸáž“áŸ’áž’áž‚áŸ’ážšáž”áŸ‹áž‚áŸ’ážšáž„ážŠáŸ„áž™ážŸáŸ’ážœáž™áŸážáž“áŸ„áŸ‡áž‘áŸáŸ”**
+ážœáž¶áž˜áž¶áž“áž‚áŸ„áž›áž”áŸ†ážŽáž„áž‚áž¶áŸ†áž‘áŸ’ážšáž˜áž“áž»ážŸáŸ’ážŸáž€áŸ’áž“áž»áž„áž€áž˜áŸ’ážšáž·ážáž˜áž’áŸ’áž™áž˜ áž˜áž·áž“áž˜áŸ‚áž“ážŠáž¾áž˜áŸ’áž”áž¸áž€áŸ†ážŽážáŸ‹ážáž¶áž˜ážáž·ážŽáž¶áž˜áž½áž™ážáŸ’ážšáž¼ážœáž”áž¶áž“áž¢áž“áž»áž‰áŸ’áž‰áž¶ážáž±áŸ’áž™áž˜áž¶áž“áž“áŸ…áž›áž¾ Nexus Gaja áž“áŸ„áŸ‡áž‘áŸáŸ”
+ážŠáž¼áž…áŸ’áž“áŸáŸ‡áž™áž¾áž„áž”áŸ‚áž„áž…áŸ‚áž€ážšážœáž¶áž„áž”áž¸áž™áŸ‰áž¶áž„áŸ–
+- ** ážšáž€ážƒáž¾áž‰áŸ– ** "áž¢áž¶áž…áž˜áž¶áž“áž€áž¶ážšáž”áŸ†áž–áž¶áž“áž…áŸ’áž”áž¶áž”áŸ‹áž“áŸ…áž‘áž¸áž“áŸáŸ‡áŸ”"
+- ** áž¢ážáŸ’ážšáž¶áŸ– ** "áž§áž‘áž¶áž ážšážŽáŸ áž”áŸ’ážšáž¼áž”áž¶áž”áŸŠáž¸áž›áž¸ážáŸáž“áŸƒáž€áž¶ážšáž”áŸ†áž–áž¶áž“áž…áŸ’áž”áž¶áž”áŸ‹áž‚ážº 94% áŸ”"
+- ** ážŸáž˜áŸ’ážšáŸáž…áž…áž·ážáŸ’ážáŸ– ** "ážáž¾áž“áž¹áž„áž…áž¶ážáŸ‹ážœáž·áž’áž¶áž“áž€áž¶ážšáž”áŸ‚áž”ážŽáž¶?"
+áž€áž˜áŸ’ážšáž·ážáž‘áž¸áž”áž¸ážáŸ’ážšáž¼ážœážáŸ‚áž‚áŸ’ážšáž”áŸ‹áž‚áŸ’ážšáž„ážŠáŸ„áž™áž˜áž“áž»ážŸáŸ’ážŸáž’áž˜áŸŒáž€áŸ’áž“áž»áž„áž€ážšážŽáž¸áž’áŸ’áž„áž“áŸ‹áž’áŸ’áž„ážšáŸ”
 
-### 2. ការសម្របសម្រួល AI នឹងក្លាយជាប្រព័ន្ធរងរបស់វា។
-ជំនួសឱ្យ AI តែមួយ ប្រព័ន្ធរងដ៏រឹងមាំត្រូវបានបង្កើតឡើង៖
-`` អត្ថបទ
+### 2. áž€áž¶ážšážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž› AI áž“áž¹áž„áž€áŸ’áž›áž¶áž™áž‡áž¶áž”áŸ’ážšáž–áŸáž“áŸ’áž’ážšáž„ážšáž”ážŸáŸ‹ážœáž¶áŸ”
+áž‡áŸ†áž“áž½ážŸáž±áŸ’áž™ AI ážáŸ‚áž˜áž½áž™ áž”áŸ’ážšáž–áŸáž“áŸ’áž’ážšáž„ážŠáŸážšáž¹áž„áž˜áž¶áŸ†ážáŸ’ážšáž¼ážœáž”áž¶áž“áž”áž„áŸ’áž€áž¾ážáž¡áž¾áž„áŸ–
+`` áž¢ážáŸ’ážáž”áž‘
                  NEXUS GAJA AI MODERATION
-                          │
-       ┌─────────────────── ┼─────────────────
-       │ │ │
-  ភាសា AI សុវត្ថិភាព AI ការក្លែងបន្លំ AI
-       │ │ │
-       ។
-       │ │ │
- អត្តចរិតការបកប្រែ
- សញ្ញាវិភាគ ការវិភាគ
-       │ │ │
-       └─────────────────────────────────────┘
-                      ▼
-               ការវាយតម្លៃហានិភ័យ
-                      │
-                      ▼
-               ការពិនិត្យមនុស្ស
+                          â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+       â”‚ â”‚ â”‚
+  áž—áž¶ážŸáž¶ AI ážŸáž»ážœážáŸ’ážáž·áž—áž¶áž– AI áž€áž¶ážšáž€áŸ’áž›áŸ‚áž„áž”áž“áŸ’áž›áŸ† AI
+       â”‚ â”‚ â”‚
+       áŸ”
+       â”‚ â”‚ â”‚
+ áž¢ážáŸ’ážáž…ážšáž·ážáž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚
+ ážŸáž‰áŸ’áž‰áž¶ážœáž·áž—áž¶áž‚ áž€áž¶ážšážœáž·áž—áž¶áž‚
+       â”‚ â”‚ â”‚
+       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+                      â–¼
+               áž€áž¶ážšážœáž¶áž™ážáž˜áŸ’áž›áŸƒáž áž¶áž“áž·áž—áŸáž™
+                      â”‚
+                      â–¼
+               áž€áž¶ážšáž–áž·áž“áž·ážáŸ’áž™áž˜áž“áž»ážŸáŸ’ážŸ
 ```
 
-### 3. ម៉ូឌុល AI សំខាន់បំផុត
-មានផ្នែកវិភាគឯកទេសចំនួនប្រាំបួនសម្រាប់ Nexus Gaja៖
-- **M1 – ការយល់ដឹងអំពីភាសា**៖ រកឃើញភាសា គ្រាមភាសា ពាក្យស្លោក សូចនាករហួសចិត្ត បញ្ហាបកប្រែ។
-- ** M2 - ការរកឃើញជាតិពុល / ការរំលោភបំពាន **៖ រកឃើញការប្រមាថ ការវាយប្រហារផ្ទាល់ខ្លួន ការយាយី។
-- **M3 - ការរកឃើញការគំរាមកំហែង**៖ រកឃើញការគំរាមកំហែងដែលអាចកើតមាន ការគំរាមកំហែង និងការគំរាមកំហែងនៃអំពើហិង្សា។
-- ** M4 - ការរកឃើញភាពស្អប់ខ្ពើម / ការធ្វើឱ្យខូចមនុស្ស**៖ រកឃើញការវាយប្រហារតាមគោលដៅលើមនុស្សដោយផ្អែកលើទំនាក់ទំនងជាក់លាក់។
-- **M5 – ការរកឃើញសារឥតបានការ / ឧបាយកល**៖ រកឃើញសារឥតបានការ ឥរិយាបទ bot ឧបាយកលសម្របសម្រួល។
-- **M6 - ការរកឃើញការក្លែងបន្លំ**៖ រកឃើញការប៉ុនប៉ងក្លែងបន្លំគួរឱ្យសង្ស័យ ការបន្លំ វិស្វកម្មសង្គម។
-- **M7 – អត្តសញ្ញាណអត្តសញ្ញាណ**៖ ពិនិត្យសញ្ញាទាក់ទងនឹងការកាន់កាប់គណនី គណនីច្រើន រារាំងផ្លូវវាង។
-- ** M8 - សុវត្ថិភាពប្រព័ន្ធផ្សព្វផ្សាយ **៖ វិភាគរូបភាព អូឌីយ៉ូ វីដេអូ ឯកសារ។
-- ** M9 - ម៉ាស៊ីនបរិបទ**៖ ម៉ូឌុលសំខាន់បំផុត។ វានាំមកនូវការរកឃើញបុគ្គល។
+### 3. áž˜áŸ‰áž¼ážŒáž»áž› AI ážŸáŸ†ážáž¶áž“áŸ‹áž”áŸ†áž•áž»áž
+áž˜áž¶áž“áž•áŸ’áž“áŸ‚áž€ážœáž·áž—áž¶áž‚áž¯áž€áž‘áŸážŸáž…áŸ†áž“áž½áž“áž”áŸ’ážšáž¶áŸ†áž”áž½áž“ážŸáž˜áŸ’ážšáž¶áž”áŸ‹ Nexus GajaáŸ–
+- **M1 â€“ áž€áž¶ážšáž™áž›áŸ‹ážŠáž¹áž„áž¢áŸ†áž–áž¸áž—áž¶ážŸáž¶**áŸ– ážšáž€ážƒáž¾áž‰áž—áž¶ážŸáž¶ áž‚áŸ’ážšáž¶áž˜áž—áž¶ážŸáž¶ áž–áž¶áž€áŸ’áž™ážŸáŸ’áž›áŸ„áž€ ážŸáž¼áž…áž“áž¶áž€ážšáž áž½ážŸáž…áž·ážáŸ’áž áž”áž‰áŸ’áž áž¶áž”áž€áž”áŸ’ážšáŸ‚áŸ”
+- ** M2 - áž€áž¶ážšážšáž€ážƒáž¾áž‰áž‡áž¶ážáž·áž–áž»áž› / áž€áž¶ážšážšáŸ†áž›áŸ„áž—áž”áŸ†áž–áž¶áž“ **áŸ– ážšáž€ážƒáž¾áž‰áž€áž¶ážšáž”áŸ’ážšáž˜áž¶áž áž€áž¶ážšážœáž¶áž™áž”áŸ’ážšáž áž¶ážšáž•áŸ’áž‘áž¶áž›áŸ‹ážáŸ’áž›áž½áž“ áž€áž¶ážšáž™áž¶áž™áž¸áŸ”
+- **M3 - áž€áž¶ážšážšáž€ážƒáž¾áž‰áž€áž¶ážšáž‚áŸ†ážšáž¶áž˜áž€áŸ†áž áŸ‚áž„**áŸ– ážšáž€ážƒáž¾áž‰áž€áž¶ážšáž‚áŸ†ážšáž¶áž˜áž€áŸ†áž áŸ‚áž„ážŠáŸ‚áž›áž¢áž¶áž…áž€áž¾ážáž˜áž¶áž“ áž€áž¶ážšáž‚áŸ†ážšáž¶áž˜áž€áŸ†áž áŸ‚áž„ áž“áž·áž„áž€áž¶ážšáž‚áŸ†ážšáž¶áž˜áž€áŸ†áž áŸ‚áž„áž“áŸƒáž¢áŸ†áž–áž¾áž áž·áž„áŸ’ážŸáž¶áŸ”
+- ** M4 - áž€áž¶ážšážšáž€ážƒáž¾áž‰áž—áž¶áž–ážŸáŸ’áž¢áž”áŸ‹ážáŸ’áž–áž¾áž˜ / áž€áž¶ážšáž’áŸ’ážœáž¾áž±áŸ’áž™ážáž¼áž…áž˜áž“áž»ážŸáŸ’ážŸ**áŸ– ážšáž€ážƒáž¾áž‰áž€áž¶ážšážœáž¶áž™áž”áŸ’ážšáž áž¶ážšážáž¶áž˜áž‚áŸ„áž›ážŠáŸ…áž›áž¾áž˜áž“áž»ážŸáŸ’ážŸážŠáŸ„áž™áž•áŸ’áž¢áŸ‚áž€áž›áž¾áž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„áž‡áž¶áž€áŸ‹áž›áž¶áž€áŸ‹áŸ”
+- **M5 â€“ áž€áž¶ážšážšáž€ážƒáž¾áž‰ážŸáž¶ážšáž¥ážáž”áž¶áž“áž€áž¶ážš / áž§áž”áž¶áž™áž€áž›**áŸ– ážšáž€ážƒáž¾áž‰ážŸáž¶ážšáž¥ážáž”áž¶áž“áž€áž¶ážš áž¥ážšáž·áž™áž¶áž”áž‘ bot áž§áž”áž¶áž™áž€áž›ážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž›áŸ”
+- **M6 - áž€áž¶ážšážšáž€ážƒáž¾áž‰áž€áž¶ážšáž€áŸ’áž›áŸ‚áž„áž”áž“áŸ’áž›áŸ†**áŸ– ážšáž€ážƒáž¾áž‰áž€áž¶ážšáž”áŸ‰áž»áž“áž”áŸ‰áž„áž€áŸ’áž›áŸ‚áž„áž”áž“áŸ’áž›áŸ†áž‚áž½ážšáž±áŸ’áž™ážŸáž„áŸ’ážŸáŸáž™ áž€áž¶ážšáž”áž“áŸ’áž›áŸ† ážœáž·ážŸáŸ’ážœáž€áž˜áŸ’áž˜ážŸáž„áŸ’áž‚áž˜áŸ”
+- **M7 â€“ áž¢ážáŸ’ážážŸáž‰áŸ’áž‰áž¶ážŽáž¢ážáŸ’ážážŸáž‰áŸ’áž‰áž¶ážŽ**áŸ– áž–áž·áž“áž·ážáŸ’áž™ážŸáž‰áŸ’áž‰áž¶áž‘áž¶áž€áŸ‹áž‘áž„áž“áž¹áž„áž€áž¶ážšáž€áž¶áž“áŸ‹áž€áž¶áž”áŸ‹áž‚ážŽáž“áž¸ áž‚ážŽáž“áž¸áž…áŸ’ážšáž¾áž“ ážšáž¶ážšáž¶áŸ†áž„áž•áŸ’áž›áž¼ážœážœáž¶áž„áŸ”
+- ** M8 - ážŸáž»ážœážáŸ’ážáž·áž—áž¶áž–áž”áŸ’ážšáž–áŸáž“áŸ’áž’áž•áŸ’ážŸáž–áŸ’ážœáž•áŸ’ážŸáž¶áž™ **áŸ– ážœáž·áž—áž¶áž‚ážšáž¼áž”áž—áž¶áž– áž¢áž¼ážŒáž¸áž™áŸ‰áž¼ ážœáž¸ážŠáŸáž¢áž¼ áž¯áž€ážŸáž¶ážšáŸ”
+- ** M9 - áž˜áŸ‰áž¶ážŸáŸŠáž¸áž“áž”ážšáž·áž”áž‘**áŸ– áž˜áŸ‰áž¼ážŒáž»áž›ážŸáŸ†ážáž¶áž“áŸ‹áž”áŸ†áž•áž»ážáŸ” ážœáž¶áž“áž¶áŸ†áž˜áž€áž“áž¼ážœáž€áž¶ážšážšáž€ážƒáž¾áž‰áž”áž»áž‚áŸ’áž‚áž›áŸ”
 
-### 4. ហេតុអ្វីបានជា Context Engine សំខាន់ម៉្លេះ?
-ការស្វែងរកពាក្យគន្លឹះសុទ្ធនឹងមិនគ្រប់គ្រាន់ទេ។ "ខ្ញុំអាចសម្លាប់គាត់ដោយសើច" មានអំពើហឹង្សាក្នុងន័យធៀប ប៉ុន្តែជារូបភាពនៃការនិយាយ។ "ថ្ងៃស្អែកម៉ោង 8 យប់ខ្ញុំនឹងបាញ់គាត់នៅមុខផ្ទះរបស់គាត់" គឺជាស្ថានភាពខុសគ្នាទាំងស្រុង។ AI ត្រូវតែយល់ពីអ្វីដែលសេចក្តីថ្លែងការណ៍មានន័យនៅក្នុងបរិបទជាក់លាក់នេះ។
+### 4. áž áŸážáž»áž¢áŸ’ážœáž¸áž”áž¶áž“áž‡áž¶ Context Engine ážŸáŸ†ážáž¶áž“áŸ‹áž˜áŸ‰áŸ’áž›áŸáŸ‡?
+áž€áž¶ážšážŸáŸ’ážœáŸ‚áž„ážšáž€áž–áž¶áž€áŸ’áž™áž‚áž“áŸ’áž›áž¹áŸ‡ážŸáž»áž‘áŸ’áž’áž“áž¹áž„áž˜áž·áž“áž‚áŸ’ážšáž”áŸ‹áž‚áŸ’ážšáž¶áž“áŸ‹áž‘áŸáŸ” "ážáŸ’áž‰áž»áŸ†áž¢áž¶áž…ážŸáž˜áŸ’áž›áž¶áž”áŸ‹áž‚áž¶ážáŸ‹ážŠáŸ„áž™ážŸáž¾áž…" áž˜áž¶áž“áž¢áŸ†áž–áž¾áž áž¹áž„áŸ’ážŸáž¶áž€áŸ’áž“áž»áž„áž“áŸáž™áž’áŸ€áž” áž”áŸ‰áž»áž“áŸ’ážáŸ‚áž‡áž¶ážšáž¼áž”áž—áž¶áž–áž“áŸƒáž€áž¶ážšáž“áž·áž™áž¶áž™áŸ” "ážáŸ’áž„áŸƒážŸáŸ’áž¢áŸ‚áž€áž˜áŸ‰áŸ„áž„ 8 áž™áž”áŸ‹ážáŸ’áž‰áž»áŸ†áž“áž¹áž„áž”áž¶áž‰áŸ‹áž‚áž¶ážáŸ‹áž“áŸ…áž˜áž»ážáž•áŸ’áž‘áŸ‡ážšáž”ážŸáŸ‹áž‚áž¶ážáŸ‹" áž‚ážºáž‡áž¶ážŸáŸ’ážáž¶áž“áž—áž¶áž–ážáž»ážŸáž‚áŸ’áž“áž¶áž‘áž¶áŸ†áž„ážŸáŸ’ážšáž»áž„áŸ” AI ážáŸ’ážšáž¼ážœážáŸ‚áž™áž›áŸ‹áž–áž¸áž¢áŸ’ážœáž¸ážŠáŸ‚áž›ážŸáŸáž…áž€áŸ’ážáž¸ážáŸ’áž›áŸ‚áž„áž€áž¶ážšážŽáŸáž˜áž¶áž“áž“áŸáž™áž“áŸ…áž€áŸ’áž“áž»áž„áž”ážšáž·áž”áž‘áž‡áž¶áž€áŸ‹áž›áž¶áž€áŸ‹áž“áŸáŸ‡áŸ”
 
-### 5. ការសម្របសម្រួលពហុភាសា
-ការសម្របសម្រួលមិនអាចប្រៀបធៀបពាក្យសាមញ្ញបានទេ។ វាត្រូវតែវិភាគកម្រិតនៃអត្ថន័យ (ឧ. សព្វវចនាធិប្បាយអាឡឺម៉ង់ទល់នឹង សព្វវចនាធិប្បាយជប៉ុន ទល់នឹងកន្សោមតាមតំបន់)។
+### 5. áž€áž¶ážšážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž›áž–áž áž»áž—áž¶ážŸáž¶
+áž€áž¶ážšážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž›áž˜áž·áž“áž¢áž¶áž…áž”áŸ’ážšáŸ€áž”áž’áŸ€áž”áž–áž¶áž€áŸ’áž™ážŸáž¶áž˜áž‰áŸ’áž‰áž”áž¶áž“áž‘áŸáŸ” ážœáž¶ážáŸ’ážšáž¼ážœážáŸ‚ážœáž·áž—áž¶áž‚áž€áž˜áŸ’ážšáž·ážáž“áŸƒáž¢ážáŸ’ážáž“áŸáž™ (áž§. ážŸáž–áŸ’ážœážœáž…áž“áž¶áž’áž·áž”áŸ’áž”áž¶áž™áž¢áž¶áž¡ážºáž˜áŸ‰áž„áŸ‹áž‘áž›áŸ‹áž“áž¹áž„ ážŸáž–áŸ’ážœážœáž…áž“áž¶áž’áž·áž”áŸ’áž”áž¶áž™áž‡áž”áŸ‰áž»áž“ áž‘áž›áŸ‹áž“áž¹áž„áž€áž“áŸ’ážŸáŸ„áž˜ážáž¶áž˜ážáŸ†áž”áž“áŸ‹)áŸ”
 
-### 6. ភាសាដើម + ការបកប្រែ
-ដើម និងការបកប្រែត្រូវបានវិភាគដោយឡែកពីគ្នា។ មានតែពេលនោះទេដែល "ការវាយតម្លៃការសម្របសម្រួលរួមបញ្ចូលគ្នា" កើតឡើង។ តាមវិធីនេះ Nexus Gaja អាចកំណត់ថាតើការបកប្រែខ្លួនឯងអាចកាន់តែធ្ងន់ធ្ងរ ឬផ្លាស់ប្តូរស្ថានភាព។
+### 6. áž—áž¶ážŸáž¶ážŠáž¾áž˜ + áž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚
+ážŠáž¾áž˜ áž“áž·áž„áž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚ážáŸ’ážšáž¼ážœáž”áž¶áž“ážœáž·áž—áž¶áž‚ážŠáŸ„áž™áž¡áŸ‚áž€áž–áž¸áž‚áŸ’áž“áž¶áŸ” áž˜áž¶áž“ážáŸ‚áž–áŸáž›áž“áŸ„áŸ‡áž‘áŸážŠáŸ‚áž› "áž€áž¶ážšážœáž¶áž™ážáž˜áŸ’áž›áŸƒáž€áž¶ážšážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž›ážšáž½áž˜áž”áž‰áŸ’áž…áž¼áž›áž‚áŸ’áž“áž¶" áž€áž¾ážáž¡áž¾áž„áŸ” ážáž¶áž˜ážœáž·áž’áž¸áž“áŸáŸ‡ Nexus Gaja áž¢áž¶áž…áž€áŸ†ážŽážáŸ‹ážáž¶ážáž¾áž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚ážáŸ’áž›áž½áž“áž¯áž„áž¢áž¶áž…áž€áž¶áž“áŸ‹ážáŸ‚áž’áŸ’áž„áž“áŸ‹áž’áŸ’áž„ážš áž¬áž•áŸ’áž›áž¶ážŸáŸ‹áž”áŸ’ážáž¼ážšážŸáŸ’ážáž¶áž“áž—áž¶áž–áŸ”
 
-### 7. ពិន្ទុទំនុកចិត្ត
-ការវាយតម្លៃ AI នីមួយៗទទួលបានតម្លៃទំនុកចិត្ត (ឧ. ប្រូបាប៊ីលីតេនៃការគំរាមកំហែង៖ 0.96)។ ប៉ុន្តែ៖ **ពិន្ទុទំនុកចិត្ត ≠ ការពិត។** ពិន្ទុ 96% មានន័យថា ម៉ូដែលនេះមានទំនុកចិត្តយ៉ាងខ្លាំងក្នុងការចាត់ថ្នាក់របស់វា មិនចាំបាច់ថាអ្នកប្រើប្រាស់មានកំហុសនោះទេ។
+### 7. áž–áž·áž“áŸ’áž‘áž»áž‘áŸ†áž“áž»áž€áž…áž·ážáŸ’áž
+áž€áž¶ážšážœáž¶áž™ážáž˜áŸ’áž›áŸƒ AI áž“áž¸áž˜áž½áž™áŸ—áž‘áž‘áž½áž›áž”áž¶áž“ážáž˜áŸ’áž›áŸƒáž‘áŸ†áž“áž»áž€áž…áž·ážáŸ’áž (áž§. áž”áŸ’ážšáž¼áž”áž¶áž”áŸŠáž¸áž›áž¸ážáŸáž“áŸƒáž€áž¶ážšáž‚áŸ†ážšáž¶áž˜áž€áŸ†áž áŸ‚áž„áŸ– 0.96)áŸ” áž”áŸ‰áž»áž“áŸ’ážáŸ‚áŸ– **áž–áž·áž“áŸ’áž‘áž»áž‘áŸ†áž“áž»áž€áž…áž·ážáŸ’áž â‰  áž€áž¶ážšáž–áž·ážáŸ”** áž–áž·áž“áŸ’áž‘áž» 96% áž˜áž¶áž“áž“áŸáž™ážáž¶ áž˜áŸ‰áž¼ážŠáŸ‚áž›áž“áŸáŸ‡áž˜áž¶áž“áž‘áŸ†áž“áž»áž€áž…áž·ážáŸ’ážáž™áŸ‰áž¶áž„ážáŸ’áž›áž¶áŸ†áž„áž€áŸ’áž“áž»áž„áž€áž¶ážšáž…áž¶ážáŸ‹ážáŸ’áž“áž¶áž€áŸ‹ážšáž”ážŸáŸ‹ážœáž¶ áž˜áž·áž“áž…áž¶áŸ†áž”áž¶áž…áŸ‹ážáž¶áž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹áž˜áž¶áž“áž€áŸ†áž áž»ážŸáž“áŸ„áŸ‡áž‘áŸáŸ”
 
-### 8. ភាពមិនច្បាស់លាស់ខ្លួនឯងក្លាយជាសញ្ញាមួយ។
-ប្រសិនបើ AI មានភាពមិនច្បាស់លាស់ (ឧ. ការគំរាមកំហែង៖ 0.62, Satire: 0.54) វាមិនអាចធ្វើសកម្មភាពធ្ងន់ធ្ងរបានទេ។ ផ្ទុយទៅវិញ ភាពមិនប្រាកដប្រជាត្រូវបានបង្កើតឡើងដោយផ្ទាល់ទៅក្នុងស្ថាបត្យកម្ម៖ **ការពិនិត្យឡើងវិញរបស់មនុស្សដែលទាមទារ**។
+### 8. áž—áž¶áž–áž˜áž·áž“áž…áŸ’áž”áž¶ážŸáŸ‹áž›áž¶ážŸáŸ‹ážáŸ’áž›áž½áž“áž¯áž„áž€áŸ’áž›áž¶áž™áž‡áž¶ážŸáž‰áŸ’áž‰áž¶áž˜áž½áž™áŸ”
+áž”áŸ’ážšážŸáž·áž“áž”áž¾ AI áž˜áž¶áž“áž—áž¶áž–áž˜áž·áž“áž…áŸ’áž”áž¶ážŸáŸ‹áž›áž¶ážŸáŸ‹ (áž§. áž€áž¶ážšáž‚áŸ†ážšáž¶áž˜áž€áŸ†áž áŸ‚áž„áŸ– 0.62, Satire: 0.54) ážœáž¶áž˜áž·áž“áž¢áž¶áž…áž’áŸ’ážœáž¾ážŸáž€áž˜áŸ’áž˜áž—áž¶áž–áž’áŸ’áž„áž“áŸ‹áž’áŸ’áž„ážšáž”áž¶áž“áž‘áŸáŸ” áž•áŸ’áž‘áž»áž™áž‘áŸ…ážœáž·áž‰ áž—áž¶áž–áž˜áž·áž“áž”áŸ’ážšáž¶áž€ážŠáž”áŸ’ážšáž‡áž¶ážáŸ’ážšáž¼ážœáž”áž¶áž“áž”áž„áŸ’áž€áž¾ážáž¡áž¾áž„ážŠáŸ„áž™áž•áŸ’áž‘áž¶áž›áŸ‹áž‘áŸ…áž€áŸ’áž“áž»áž„ážŸáŸ’ážáž¶áž”ážáŸ’áž™áž€áž˜áŸ’áž˜áŸ– **áž€áž¶ážšáž–áž·áž“áž·ážáŸ’áž™áž¡áž¾áž„ážœáž·áž‰ážšáž”ážŸáŸ‹áž˜áž“áž»ážŸáŸ’ážŸážŠáŸ‚áž›áž‘áž¶áž˜áž‘áž¶ážš**áŸ”
 
-### 9. ផ្នែកសម្រេចចិត្តចំនួនបួន
-- 🟢 **បៃតង**៖ ទំនង​ជា​អនុលោម​តាម។ → គ្មានសកម្មភាព។
-- 🟡 **ពណ៌លឿង**៖ ការបំពានដែលអាចកើតមាន។ → សង្កេត/ចំណាំ បើចាំបាច់។
-- **ពណ៌ទឹកក្រូច**៖ ការបំពានដែលអាចកើតមាន។ → ការត្រួតពិនិត្យកម្រិតមធ្យម។
-- 🔴 **ក្រហម**៖ ការបំពានដែលអាចកើតមាន។ → វិធានការការពារភ្លាមៗ + ការធ្វើតេស្តមនុស្ស។
+### 9. áž•áŸ’áž“áŸ‚áž€ážŸáž˜áŸ’ážšáŸáž…áž…áž·ážáŸ’ážáž…áŸ†áž“áž½áž“áž”áž½áž“
+- ðŸŸ¢ **áž”áŸƒážáž„**áŸ– áž‘áŸ†áž“áž„â€‹áž‡áž¶â€‹áž¢áž“áž»áž›áŸ„áž˜â€‹ážáž¶áž˜áŸ” â†’ áž‚áŸ’áž˜áž¶áž“ážŸáž€áž˜áŸ’áž˜áž—áž¶áž–áŸ”
+- ðŸŸ¡ **áž–ážŽáŸŒáž›áž¿áž„**áŸ– áž€áž¶ážšáž”áŸ†áž–áž¶áž“ážŠáŸ‚áž›áž¢áž¶áž…áž€áž¾ážáž˜áž¶áž“áŸ” â†’ ážŸáž„áŸ’áž€áŸáž/áž…áŸ†ážŽáž¶áŸ† áž”áž¾áž…áž¶áŸ†áž”áž¶áž…áŸ‹áŸ”
+- **áž–ážŽáŸŒáž‘áž¹áž€áž€áŸ’ážšáž¼áž…**áŸ– áž€áž¶ážšáž”áŸ†áž–áž¶áž“ážŠáŸ‚áž›áž¢áž¶áž…áž€áž¾ážáž˜áž¶áž“áŸ” â†’ áž€áž¶ážšážáŸ’ážšáž½ážáž–áž·áž“áž·ážáŸ’áž™áž€áž˜áŸ’ážšáž·ážáž˜áž’áŸ’áž™áž˜áŸ”
+- ðŸ”´ **áž€áŸ’ážšáž áž˜**áŸ– áž€áž¶ážšáž”áŸ†áž–áž¶áž“ážŠáŸ‚áž›áž¢áž¶áž…áž€áž¾ážáž˜áž¶áž“áŸ” â†’ ážœáž·áž’áž¶áž“áž€áž¶ážšáž€áž¶ážšáž–áž¶ážšáž—áŸ’áž›áž¶áž˜áŸ— + áž€áž¶ážšáž’áŸ’ážœáž¾ážáŸážŸáŸ’ážáž˜áž“áž»ážŸáŸ’ážŸáŸ”
 
-### 10. គ្មាន “ការពិន័យ AI”
-** AI មិនដាក់ទណ្ឌកម្មចុងក្រោយទេ។** វាអាចបង្កឱ្យមានវិធានការបច្ចេកទេសសង្គ្រោះបន្ទាន់ (ឧ. រារាំងសារ) ក្នុងករណីមានការព្រួយបារម្ភអំពីសុវត្ថិភាពធ្ងន់ធ្ងរ ប៉ុន្តែការសម្រេចចិត្តចុងក្រោយនៅតែអាចផ្ទៀងផ្ទាត់បាន។
+### 10. áž‚áŸ’áž˜áž¶áž“ â€œáž€áž¶ážšáž–áž·áž“áŸáž™ AIâ€
+** AI áž˜áž·áž“ážŠáž¶áž€áŸ‹áž‘ážŽáŸ’ážŒáž€áž˜áŸ’áž˜áž…áž»áž„áž€áŸ’ážšáŸ„áž™áž‘áŸáŸ”** ážœáž¶áž¢áž¶áž…áž”áž„áŸ’áž€áž±áŸ’áž™áž˜áž¶áž“ážœáž·áž’áž¶áž“áž€áž¶ážšáž”áž…áŸ’áž…áŸáž€áž‘áŸážŸážŸáž„áŸ’áž‚áŸ’ážšáŸ„áŸ‡áž”áž“áŸ’áž‘áž¶áž“áŸ‹ (áž§. ážšáž¶ážšáž¶áŸ†áž„ážŸáž¶ážš) áž€áŸ’áž“áž»áž„áž€ážšážŽáž¸áž˜áž¶áž“áž€áž¶ážšáž–áŸ’ážšáž½áž™áž”áž¶ážšáž˜áŸ’áž—áž¢áŸ†áž–áž¸ážŸáž»ážœážáŸ’ážáž·áž—áž¶áž–áž’áŸ’áž„áž“áŸ‹áž’áŸ’áž„ážš áž”áŸ‰áž»áž“áŸ’ážáŸ‚áž€áž¶ážšážŸáž˜áŸ’ážšáŸáž…áž…áž·ážáŸ’ážáž…áž»áž„áž€áŸ’ážšáŸ„áž™áž“áŸ…ážáŸ‚áž¢áž¶áž…áž•áŸ’áž‘áŸ€áž„áž•áŸ’áž‘áž¶ážáŸ‹áž”áž¶áž“áŸ”
 
-### 11. វិធានការការពារអាចជាស្វ័យប្រវត្តិ
-ប្រសិនបើមានការគំរាមកំហែងជាក់លាក់មួយ (ការគំរាមកំហែងត្រូវបានរកឃើញ → ទំនុកចិត្តខ្ពស់ → ការដាក់កម្រិតបណ្តោះអាសន្ន → ការពិនិត្យមើលមនុស្ស → ការសម្រេចចិត្ត) យើងការពារអ្នកប្រើប្រាស់ដែលត្រូវបានគំរាមកំហែងដោយមិនធ្វើឱ្យ AI ក្លាយជាចៅក្រម។
+### 11. ážœáž·áž’áž¶áž“áž€áž¶ážšáž€áž¶ážšáž–áž¶ážšáž¢áž¶áž…áž‡áž¶ážŸáŸ’ážœáŸáž™áž”áŸ’ážšážœážáŸ’ážáž·
+áž”áŸ’ážšážŸáž·áž“áž”áž¾áž˜áž¶áž“áž€áž¶ážšáž‚áŸ†ážšáž¶áž˜áž€áŸ†áž áŸ‚áž„áž‡áž¶áž€áŸ‹áž›áž¶áž€áŸ‹áž˜áž½áž™ (áž€áž¶ážšáž‚áŸ†ážšáž¶áž˜áž€áŸ†áž áŸ‚áž„ážáŸ’ážšáž¼ážœáž”áž¶áž“ážšáž€ážƒáž¾áž‰ â†’ áž‘áŸ†áž“áž»áž€áž…áž·ážáŸ’ážážáŸ’áž–ážŸáŸ‹ â†’ áž€áž¶ážšážŠáž¶áž€áŸ‹áž€áž˜áŸ’ážšáž·ážáž”ážŽáŸ’ážáŸ„áŸ‡áž¢áž¶ážŸáž“áŸ’áž“ â†’ áž€áž¶ážšáž–áž·áž“áž·ážáŸ’áž™áž˜áž¾áž›áž˜áž“áž»ážŸáŸ’ážŸ â†’ áž€áž¶ážšážŸáž˜áŸ’ážšáŸáž…áž…áž·ážáŸ’áž) áž™áž¾áž„áž€áž¶ážšáž–áž¶ážšáž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹ážŠáŸ‚áž›ážáŸ’ážšáž¼ážœáž”áž¶áž“áž‚áŸ†ážšáž¶áž˜áž€áŸ†áž áŸ‚áž„ážŠáŸ„áž™áž˜áž·áž“áž’áŸ’ážœáž¾áž±áŸ’áž™ AI áž€áŸ’áž›áž¶áž™áž‡áž¶áž…áŸ…áž€áŸ’ážšáž˜áŸ”
 
-### 12. AI ត្រូវតែអាចបង្ហាញអំពីភាពត្រឹមត្រូវនៃការសម្រេចចិត្តរបស់ខ្លួន។
-DSA ទាមទារហេតុផលច្បាស់លាស់ និងជាក់លាក់។ ហេតុផល AI តាមរបៀបដែលមានរចនាសម្ព័ន្ធ៖ ច្បាប់ (NG-CONDUCT-004), បានរកឃើញ (ការគំរាមកំហែងជាក់ស្តែងដែលអាចកើតមាន), ទំនុកចិត្ត (0.94), បរិបទដែលពាក់ព័ន្ធ (សារ 4 មុន), សកម្មភាពដែលបានណែនាំ (ការត្រួតពិនិត្យរបស់មនុស្ស) ។
+### 12. AI ážáŸ’ážšáž¼ážœážáŸ‚áž¢áž¶áž…áž”áž„áŸ’áž áž¶áž‰áž¢áŸ†áž–áž¸áž—áž¶áž–ážáŸ’ážšáž¹áž˜ážáŸ’ážšáž¼ážœáž“áŸƒáž€áž¶ážšážŸáž˜áŸ’ážšáŸáž…áž…áž·ážáŸ’ážážšáž”ážŸáŸ‹ážáŸ’áž›áž½áž“áŸ”
+DSA áž‘áž¶áž˜áž‘áž¶ážšáž áŸážáž»áž•áž›áž…áŸ’áž”áž¶ážŸáŸ‹áž›áž¶ážŸáŸ‹ áž“áž·áž„áž‡áž¶áž€áŸ‹áž›áž¶áž€áŸ‹áŸ” áž áŸážáž»áž•áž› AI ážáž¶áž˜ážšáž”áŸ€áž”ážŠáŸ‚áž›áž˜áž¶áž“ážšáž…áž“áž¶ážŸáž˜áŸ’áž–áŸáž“áŸ’áž’áŸ– áž…áŸ’áž”áž¶áž”áŸ‹ (NG-CONDUCT-004), áž”áž¶áž“ážšáž€ážƒáž¾áž‰ (áž€áž¶ážšáž‚áŸ†ážšáž¶áž˜áž€áŸ†áž áŸ‚áž„áž‡áž¶áž€áŸ‹ážŸáŸ’ážáŸ‚áž„ážŠáŸ‚áž›áž¢áž¶áž…áž€áž¾ážáž˜áž¶áž“), áž‘áŸ†áž“áž»áž€áž…áž·ážáŸ’áž (0.94), áž”ážšáž·áž”áž‘ážŠáŸ‚áž›áž–áž¶áž€áŸ‹áž–áŸáž“áŸ’áž’ (ážŸáž¶ážš 4 áž˜áž»áž“), ážŸáž€áž˜áŸ’áž˜áž—áž¶áž–ážŠáŸ‚áž›áž”áž¶áž“ážŽáŸ‚áž“áž¶áŸ† (áž€áž¶ážšážáŸ’ážšáž½ážáž–áž·áž“áž·ážáŸ’áž™ážšáž”ážŸáŸ‹áž˜áž“áž»ážŸáŸ’ážŸ) áŸ”
 
-### 13. AI មិនត្រូវបានអនុញ្ញាតឱ្យផ្លាស់ប្តូរខ្លឹមសារដោយសម្ងាត់ទេ។
-**ការសម្របសម្រួល AI មិនត្រូវផ្លាស់ប្តូរខ្លឹមសារដើមដោយមិនមានការកត់សម្គាល់ឡើយ។** ការកែតម្រូវ ការបកប្រែ ឬការសង្ខេបដោយស្វ័យប្រវត្តិរក្សាខ្លឹមសារដើម។
+### 13. AI áž˜áž·áž“ážáŸ’ážšáž¼ážœáž”áž¶áž“áž¢áž“áž»áž‰áŸ’áž‰áž¶ážáž±áŸ’áž™áž•áŸ’áž›áž¶ážŸáŸ‹áž”áŸ’ážáž¼ážšážáŸ’áž›áž¹áž˜ážŸáž¶ážšážŠáŸ„áž™ážŸáž˜áŸ’áž„áž¶ážáŸ‹áž‘áŸáŸ”
+**áž€áž¶ážšážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž› AI áž˜áž·áž“ážáŸ’ážšáž¼ážœáž•áŸ’áž›áž¶ážŸáŸ‹áž”áŸ’ážáž¼ážšážáŸ’áž›áž¹áž˜ážŸáž¶ážšážŠáž¾áž˜ážŠáŸ„áž™áž˜áž·áž“áž˜áž¶áž“áž€áž¶ážšáž€ážáŸ‹ážŸáž˜áŸ’áž‚áž¶áž›áŸ‹áž¡áž¾áž™áŸ”** áž€áž¶ážšáž€áŸ‚ážáž˜áŸ’ážšáž¼ážœ áž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚ áž¬áž€áž¶ážšážŸáž„áŸ’ážáŸáž”ážŠáŸ„áž™ážŸáŸ’ážœáŸáž™áž”áŸ’ážšážœážáŸ’ážáž·ážšáž€áŸ’ážŸáž¶ážáŸ’áž›áž¹áž˜ážŸáž¶ážšážŠáž¾áž˜áŸ”
 
-### 14. AI បានបង្កើតមាតិកា
-យើងបែងចែករវាង៖ បង្កើតឡើងដោយមនុស្ស ជំនួយ AI បង្កើតដោយ AI និង AI រៀបចំ។ វាក្លាយជាផ្នែកមួយនៃទិន្នន័យមេតាមាតិកា។
+### 14. AI áž”áž¶áž“áž”áž„áŸ’áž€áž¾ážáž˜áž¶ážáž·áž€áž¶
+áž™áž¾áž„áž”áŸ‚áž„áž…áŸ‚áž€ážšážœáž¶áž„áŸ– áž”áž„áŸ’áž€áž¾ážáž¡áž¾áž„ážŠáŸ„áž™áž˜áž“áž»ážŸáŸ’ážŸ áž‡áŸ†áž“áž½áž™ AI áž”áž„áŸ’áž€áž¾ážážŠáŸ„áž™ AI áž“áž·áž„ AI ážšáŸ€áž”áž…áŸ†áŸ” ážœáž¶áž€áŸ’áž›áž¶áž™áž‡áž¶áž•áŸ’áž“áŸ‚áž€áž˜áž½áž™áž“áŸƒáž‘áž·áž“áŸ’áž“áž“áŸáž™áž˜áŸážáž¶áž˜áž¶ážáž·áž€áž¶áŸ”
 
 ### 15. AI Content Labeling & AI Provenance Layer
-យោងតាមច្បាប់តម្លាភាពនៃច្បាប់ AI របស់សហភាពអឺរ៉ុប (ចាប់តាំងពីខែសីហា ឆ្នាំ 2026) ខ្លឹមសារដែលបង្កើតដោយ AI ត្រូវតែធ្វើឱ្យអាចស្គាល់បាន។ យើងស្រមៃមើលស្រទាប់ AI Provenance Layer ដែលរក្សាទុកទិន្នន័យមេតា (ប្រភពដើម AI គំរូ ត្រាពេលវេលា ការពិនិត្យរបស់មនុស្ស)។
+áž™áŸ„áž„ážáž¶áž˜áž…áŸ’áž”áž¶áž”áŸ‹ážáž˜áŸ’áž›áž¶áž—áž¶áž–áž“áŸƒáž…áŸ’áž”áž¶áž”áŸ‹ AI ážšáž”ážŸáŸ‹ážŸáž áž—áž¶áž–áž¢ážºážšáŸ‰áž»áž” (áž…áž¶áž”áŸ‹ážáž¶áŸ†áž„áž–áž¸ážáŸ‚ážŸáž¸áž áž¶ áž†áŸ’áž“áž¶áŸ† 2026) ážáŸ’áž›áž¹áž˜ážŸáž¶ážšážŠáŸ‚áž›áž”áž„áŸ’áž€áž¾ážážŠáŸ„áž™ AI ážáŸ’ážšáž¼ážœážáŸ‚áž’áŸ’ážœáž¾áž±áŸ’áž™áž¢áž¶áž…ážŸáŸ’áž‚áž¶áž›áŸ‹áž”áž¶áž“áŸ” áž™áž¾áž„ážŸáŸ’ážšáž˜áŸƒáž˜áž¾áž›ážŸáŸ’ážšáž‘áž¶áž”áŸ‹ AI Provenance Layer ážŠáŸ‚áž›ážšáž€áŸ’ážŸáž¶áž‘áž»áž€áž‘áž·áž“áŸ’áž“áž“áŸáž™áž˜áŸážáž¶ (áž”áŸ’ážšáž—áž–ážŠáž¾áž˜ AI áž‚áŸ†ážšáž¼ ážáŸ’ážšáž¶áž–áŸáž›ážœáŸáž›áž¶ áž€áž¶ážšáž–áž·áž“áž·ážáŸ’áž™ážšáž”ážŸáŸ‹áž˜áž“áž»ážŸáŸ’ážŸ)áŸ”
 
-### 16. ការរកឃើញ Deepfake
-ស្ថាបត្យកម្ម​នេះ​មាន​គោល​បំណង​ដើម្បី​រក​ឃើញ​រូបភាព​សំយោគ សំឡេង​ជំរុញ​ទឹក​ចិត្ត និង​ការ​ក្លែង​បន្លំ​ជ្រៅ។ ប៉ុន្តែការទទួលស្គាល់មិនមែនជាភស្តុតាងដោយស្វ័យប្រវត្តិទេ។
+### 16. áž€áž¶ážšážšáž€ážƒáž¾áž‰ Deepfake
+ážŸáŸ’ážáž¶áž”ážáŸ’áž™áž€áž˜áŸ’áž˜â€‹áž“áŸáŸ‡â€‹áž˜áž¶áž“â€‹áž‚áŸ„áž›â€‹áž”áŸ†ážŽáž„â€‹ážŠáž¾áž˜áŸ’áž”áž¸â€‹ážšáž€â€‹ážƒáž¾áž‰â€‹ážšáž¼áž”áž—áž¶áž–â€‹ážŸáŸ†áž™áŸ„áž‚ ážŸáŸ†áž¡áŸáž„â€‹áž‡áŸ†ážšáž»áž‰â€‹áž‘áž¹áž€â€‹áž…áž·ážáŸ’áž áž“áž·áž„â€‹áž€áž¶ážšâ€‹áž€áŸ’áž›áŸ‚áž„â€‹áž”áž“áŸ’áž›áŸ†â€‹áž‡áŸ’ážšáŸ…áŸ” áž”áŸ‰áž»áž“áŸ’ážáŸ‚áž€áž¶ážšáž‘áž‘áž½áž›ážŸáŸ’áž‚áž¶áž›áŸ‹áž˜áž·áž“áž˜áŸ‚áž“áž‡áž¶áž—ážŸáŸ’ážáž»ážáž¶áž„ážŠáŸ„áž™ážŸáŸ’ážœáŸáž™áž”áŸ’ážšážœážáŸ’ážáž·áž‘áŸáŸ”
 
-### 17. គ្មាន "ម៉ាស៊ីនការពិត" ដោយស្វ័យប្រវត្តិ (ការសម្របសម្រួល ≠ ការត្រួតពិនិត្យការពិត)
-ប្រព័ន្ធត្រួតពិនិត្យ៖ "តើខ្លឹមសារបំពានច្បាប់ណាមួយទេ?" (Content Moderation) មួយទៀតផ្តល់៖ "តើមានព័ត៌មាន និងប្រភពអ្វីខ្លះ?" (ជំនួយព័ត៌មាន) ។ មតិមិនត្រូវបានលុបចោលដោយសាមញ្ញថា "ខុស" ទេ។
+### 17. áž‚áŸ’áž˜áž¶áž“ "áž˜áŸ‰áž¶ážŸáŸŠáž¸áž“áž€áž¶ážšáž–áž·áž" ážŠáŸ„áž™ážŸáŸ’ážœáŸáž™áž”áŸ’ážšážœážáŸ’ážáž· (áž€áž¶ážšážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž› â‰  áž€áž¶ážšážáŸ’ážšáž½ážáž–áž·áž“áž·ážáŸ’áž™áž€áž¶ážšáž–áž·áž)
+áž”áŸ’ážšáž–áŸáž“áŸ’áž’ážáŸ’ážšáž½ážáž–áž·áž“áž·ážáŸ’áž™áŸ– "ážáž¾ážáŸ’áž›áž¹áž˜ážŸáž¶ážšáž”áŸ†áž–áž¶áž“áž…áŸ’áž”áž¶áž”áŸ‹ážŽáž¶áž˜áž½áž™áž‘áŸ?" (Content Moderation) áž˜áž½áž™áž‘áŸ€ážáž•áŸ’ážáž›áŸ‹áŸ– "ážáž¾áž˜áž¶áž“áž–áŸážáŸŒáž˜áž¶áž“ áž“áž·áž„áž”áŸ’ážšáž—áž–áž¢áŸ’ážœáž¸ážáŸ’áž›áŸ‡?" (áž‡áŸ†áž“áž½áž™áž–áŸážáŸŒáž˜áž¶áž“) áŸ” áž˜ážáž·áž˜áž·áž“ážáŸ’ážšáž¼ážœáž”áž¶áž“áž›áž»áž”áž…áŸ„áž›ážŠáŸ„áž™ážŸáž¶áž˜áž‰áŸ’áž‰ážáž¶ "ážáž»ážŸ" áž‘áŸáŸ”
 
-### 18. ការការពារប្រឆាំងនឹងការបកស្រាយខុសវប្បធម៌
-AI ទាមទារ **គំរូបរិបទវប្បធម៌** ដើម្បីការពារស្តង់ដារទំនាក់ទំនងរបស់ប្រទេសមួយពីការអនុម័តជាស្តង់ដារសកល។
+### 18. áž€áž¶ážšáž€áž¶ážšáž–áž¶ážšáž”áŸ’ážšáž†áž¶áŸ†áž„áž“áž¹áž„áž€áž¶ážšáž”áž€ážŸáŸ’ážšáž¶áž™ážáž»ážŸážœáž”áŸ’áž”áž’áž˜áŸŒ
+AI áž‘áž¶áž˜áž‘áž¶ážš **áž‚áŸ†ážšáž¼áž”ážšáž·áž”áž‘ážœáž”áŸ’áž”áž’áž˜áŸŒ** ážŠáž¾áž˜áŸ’áž”áž¸áž€áž¶ážšáž–áž¶ážšážŸáŸ’ážáž„áŸ‹ážŠáž¶ážšáž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„ážšáž”ážŸáŸ‹áž”áŸ’ážšáž‘áŸážŸáž˜áž½áž™áž–áž¸áž€áž¶ážšáž¢áž“áž»áž˜áŸážáž‡áž¶ážŸáŸ’ážáž„áŸ‹ážŠáž¶ážšážŸáž€áž›áŸ”
 
-### 19. Irony, satire និងកំប្លែង
-AI ប្រើបរិបទ, emojis, លំហូរ​នៃ​ការ​សន្ទនា និង​រចនាសម្ព័ន្ធ​ហួសចិត្ត​ដែល​គេ​ស្គាល់ ប៉ុន្តែ​ត្រូវ​តែ​អនុញ្ញាត​ឱ្យ​មាន​ភាព​មិន​ប្រាកដប្រជា​នៅពេល​អត្ថន័យ​មិន​ច្បាស់។
+### 19. Irony, satire áž“áž·áž„áž€áŸ†áž”áŸ’áž›áŸ‚áž„
+AI áž”áŸ’ážšáž¾áž”ážšáž·áž”áž‘, emojis, áž›áŸ†áž áž¼ážšâ€‹áž“áŸƒâ€‹áž€áž¶ážšâ€‹ážŸáž“áŸ’áž‘áž“áž¶ áž“áž·áž„â€‹ážšáž…áž“áž¶ážŸáž˜áŸ’áž–áŸáž“áŸ’áž’â€‹áž áž½ážŸáž…áž·ážáŸ’ážâ€‹ážŠáŸ‚áž›â€‹áž‚áŸâ€‹ážŸáŸ’áž‚áž¶áž›áŸ‹ áž”áŸ‰áž»áž“áŸ’ážáŸ‚â€‹ážáŸ’ážšáž¼ážœâ€‹ážáŸ‚â€‹áž¢áž“áž»áž‰áŸ’áž‰áž¶ážâ€‹áž±áŸ’áž™â€‹áž˜áž¶áž“â€‹áž—áž¶áž–â€‹áž˜áž·áž“â€‹áž”áŸ’ážšáž¶áž€ážŠáž”áŸ’ážšáž‡áž¶â€‹áž“áŸ…áž–áŸáž›â€‹áž¢ážáŸ’ážáž“áŸáž™â€‹áž˜áž·áž“â€‹áž…áŸ’áž”áž¶ážŸáŸ‹áŸ”
 
-### 20. គ្មានការដាក់ទណ្ឌកម្មដោយផ្អែកលើពិន្ទុ AI តែមួយទេ។
-គ្មានការសម្របសម្រួលកម្រិតធ្ងន់ធ្ងរណាមួយអាចផ្អែកលើលទ្ធផលចំណាត់ថ្នាក់ដោយស្វ័យប្រវត្តិតែមួយ (អត្ថបទ + បរិបទ + អាកប្បកិរិយា + ភាសា + ប្រព័ន្ធផ្សព្វផ្សាយ + ម៉ាស៊ីនច្បាប់ = ការវាយតម្លៃហានិភ័យ) ។
+### 20. áž‚áŸ’áž˜áž¶áž“áž€áž¶ážšážŠáž¶áž€áŸ‹áž‘ážŽáŸ’ážŒáž€áž˜áŸ’áž˜ážŠáŸ„áž™áž•áŸ’áž¢áŸ‚áž€áž›áž¾áž–áž·áž“áŸ’áž‘áž» AI ážáŸ‚áž˜áž½áž™áž‘áŸáŸ”
+áž‚áŸ’áž˜áž¶áž“áž€áž¶ážšážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž›áž€áž˜áŸ’ážšáž·ážáž’áŸ’áž„áž“áŸ‹áž’áŸ’áž„ážšážŽáž¶áž˜áž½áž™áž¢áž¶áž…áž•áŸ’áž¢áŸ‚áž€áž›áž¾áž›áž‘áŸ’áž’áž•áž›áž…áŸ†ážŽáž¶ážáŸ‹ážáŸ’áž“áž¶áž€áŸ‹ážŠáŸ„áž™ážŸáŸ’ážœáŸáž™áž”áŸ’ážšážœážáŸ’ážáž·ážáŸ‚áž˜áž½áž™ (áž¢ážáŸ’ážáž”áž‘ + áž”ážšáž·áž”áž‘ + áž¢áž¶áž€áž”áŸ’áž”áž€áž·ážšáž·áž™áž¶ + áž—áž¶ážŸáž¶ + áž”áŸ’ážšáž–áŸáž“áŸ’áž’áž•áŸ’ážŸáž–áŸ’ážœáž•áŸ’ážŸáž¶áž™ + áž˜áŸ‰áž¶ážŸáŸŠáž¸áž“áž…áŸ’áž”áž¶áž”áŸ‹ = áž€áž¶ážšážœáž¶áž™ážáž˜áŸ’áž›áŸƒáž áž¶áž“áž·áž—áŸáž™) áŸ”
 
-### 21. សញ្ញាអាកប្បកិរិយារបស់អ្នកប្រើ & គ្មានប្រព័ន្ធឥណទានសង្គម
-វានិយាយអំពីសញ្ញាបំពានបច្ចេកទេស (ឧ. ការបង្ហោះសារឥតបានការ) មិនមែនជាប្រព័ន្ធវាយតម្លៃសង្គមទូទៅទេ។ Nexus Gaja មិនដំណើរការប្រព័ន្ធឥណទានសង្គមទេ - ការសម្របសម្រួលគឺសម្រាប់សុវត្ថិភាព និងមិនមែនដើម្បីវាយតម្លៃតម្លៃរបស់មនុស្សនោះទេ។
+### 21. ážŸáž‰áŸ’áž‰áž¶áž¢áž¶áž€áž”áŸ’áž”áž€áž·ážšáž·áž™áž¶ážšáž”ážŸáŸ‹áž¢áŸ’áž“áž€áž”áŸ’ážšáž¾ & áž‚áŸ’áž˜áž¶áž“áž”áŸ’ážšáž–áŸáž“áŸ’áž’áž¥ážŽáž‘áž¶áž“ážŸáž„áŸ’áž‚áž˜
+ážœáž¶áž“áž·áž™áž¶áž™áž¢áŸ†áž–áž¸ážŸáž‰áŸ’áž‰áž¶áž”áŸ†áž–áž¶áž“áž”áž…áŸ’áž…áŸáž€áž‘áŸážŸ (áž§. áž€áž¶ážšáž”áž„áŸ’áž áŸ„áŸ‡ážŸáž¶ážšáž¥ážáž”áž¶áž“áž€áž¶ážš) áž˜áž·áž“áž˜áŸ‚áž“áž‡áž¶áž”áŸ’ážšáž–áŸáž“áŸ’áž’ážœáž¶áž™ážáž˜áŸ’áž›áŸƒážŸáž„áŸ’áž‚áž˜áž‘áž¼áž‘áŸ…áž‘áŸáŸ” Nexus Gaja áž˜áž·áž“ážŠáŸ†ážŽáž¾ážšáž€áž¶ážšáž”áŸ’ážšáž–áŸáž“áŸ’áž’áž¥ážŽáž‘áž¶áž“ážŸáž„áŸ’áž‚áž˜áž‘áŸ - áž€áž¶ážšážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž›áž‚ážºážŸáž˜áŸ’ážšáž¶áž”áŸ‹ážŸáž»ážœážáŸ’ážáž·áž—áž¶áž– áž“áž·áž„áž˜áž·áž“áž˜áŸ‚áž“ážŠáž¾áž˜áŸ’áž”áž¸ážœáž¶áž™ážáž˜áŸ’áž›áŸƒážáž˜áŸ’áž›áŸƒážšáž”ážŸáŸ‹áž˜áž“áž»ážŸáŸ’ážŸáž“áŸ„áŸ‡áž‘áŸáŸ”
 
-### 22. Moderation AI ត្រូវតែអាចសវនកម្មបាន។
-ការសម្រេចចិត្តដោយស្វ័យប្រវត្តិដែលពាក់ព័ន្ធទាំងអស់ត្រូវបានកត់ត្រា (លេខសម្គាល់ព្រឹត្តិការណ៍ លេខសម្គាល់ច្បាប់ ទំនុកចិត្ត ការត្រួតពិនិត្យរបស់មនុស្ស។ល។) ដើម្បីធានាបាននូវលទ្ធភាពតាមដាន។
+### 22. Moderation AI ážáŸ’ážšáž¼ážœážáŸ‚áž¢áž¶áž…ážŸážœáž“áž€áž˜áŸ’áž˜áž”áž¶áž“áŸ”
+áž€áž¶ážšážŸáž˜áŸ’ážšáŸáž…áž…áž·ážáŸ’ážážŠáŸ„áž™ážŸáŸ’ážœáŸáž™áž”áŸ’ážšážœážáŸ’ážáž·ážŠáŸ‚áž›áž–áž¶áž€áŸ‹áž–áŸáž“áŸ’áž’áž‘áž¶áŸ†áž„áž¢ážŸáŸ‹ážáŸ’ážšáž¼ážœáž”áž¶áž“áž€ážáŸ‹ážáŸ’ážšáž¶ (áž›áŸážážŸáž˜áŸ’áž‚áž¶áž›áŸ‹áž–áŸ’ážšáž¹ážáŸ’ážáž·áž€áž¶ážšážŽáŸ áž›áŸážážŸáž˜áŸ’áž‚áž¶áž›áŸ‹áž…áŸ’áž”áž¶áž”áŸ‹ áž‘áŸ†áž“áž»áž€áž…áž·ážáŸ’áž áž€áž¶ážšážáŸ’ážšáž½ážáž–áž·áž“áž·ážáŸ’áž™ážšáž”ážŸáŸ‹áž˜áž“áž»ážŸáŸ’ážŸáŸ”áž›áŸ”) ážŠáž¾áž˜áŸ’áž”áž¸áž’áž¶áž“áž¶áž”áž¶áž“áž“áž¼ážœáž›áž‘áŸ’áž’áž—áž¶áž–ážáž¶áž˜ážŠáž¶áž“áŸ”
 
 ### 23. False Positives, False Negatives & Quality Metrics
-ប្រភេទកំហុសត្រូវបានត្រួតពិនិត្យ។ ផ្ទៃតាប្លូវាស់ស្ទង់ភាពច្បាស់លាស់ ការហៅមកវិញ និងជាពិសេស **អត្រាការប្ដឹងតវ៉ា** (ចំនួនបណ្តឹងឧទ្ធរណ៍ដែលទទួលបានជោគជ័យ)។ 
+áž”áŸ’ážšáž—áŸáž‘áž€áŸ†áž áž»ážŸážáŸ’ážšáž¼ážœáž”áž¶áž“ážáŸ’ážšáž½ážáž–áž·áž“áž·ážáŸ’áž™áŸ” áž•áŸ’áž‘áŸƒážáž¶áž”áŸ’áž›áž¼ážœáž¶ážŸáŸ‹ážŸáŸ’áž‘áž„áŸ‹áž—áž¶áž–áž…áŸ’áž”áž¶ážŸáŸ‹áž›áž¶ážŸáŸ‹ áž€áž¶ážšáž áŸ…áž˜áž€ážœáž·áž‰ áž“áž·áž„áž‡áž¶áž–áž·ážŸáŸážŸ **áž¢ážáŸ’ážšáž¶áž€áž¶ážšáž”áŸ’ážŠáž¹áž„ážážœáŸ‰áž¶** (áž…áŸ†áž“áž½áž“áž”ážŽáŸ’ážáž¹áž„áž§áž‘áŸ’áž’ážšážŽáŸážŠáŸ‚áž›áž‘áž‘áž½áž›áž”áž¶áž“áž‡áŸ„áž‚áž‡áŸáž™)áŸ” 
 
-### 24. ភាពយុត្តិធម៌នៃភាសា & ភាពលំអៀងនៃការបកប្រែ
-គុណភាពកម្រិតមធ្យមត្រូវតែអាចប្រៀបធៀបបាននៅគ្រប់ភាសាដែលគាំទ្រទាំងអស់ (គោលការសម្របសម្រួលពហុភាសា)។ ប្រសិនបើលទ្ធផលសំរបសំរួលខុសគ្នារវាងឯកសារដើម និងការបកប្រែ (ការបកប្រែមានជម្លោះ) នេះត្រូវតែពិនិត្យដោយឡែកពីគ្នា។
+### 24. áž—áž¶áž–áž™áž»ážáŸ’ážáž·áž’áž˜áŸŒáž“áŸƒáž—áž¶ážŸáž¶ & áž—áž¶áž–áž›áŸ†áž¢áŸ€áž„áž“áŸƒáž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚
+áž‚áž»ážŽáž—áž¶áž–áž€áž˜áŸ’ážšáž·ážáž˜áž’áŸ’áž™áž˜ážáŸ’ážšáž¼ážœážáŸ‚áž¢áž¶áž…áž”áŸ’ážšáŸ€áž”áž’áŸ€áž”áž”áž¶áž“áž“áŸ…áž‚áŸ’ážšáž”áŸ‹áž—áž¶ážŸáž¶ážŠáŸ‚áž›áž‚áž¶áŸ†áž‘áŸ’ážšáž‘áž¶áŸ†áž„áž¢ážŸáŸ‹ (áž‚áŸ„áž›áž€áž¶ážšážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž›áž–áž áž»áž—áž¶ážŸáž¶)áŸ” áž”áŸ’ážšážŸáž·áž“áž”áž¾áž›áž‘áŸ’áž’áž•áž›ážŸáŸ†ážšáž”ážŸáŸ†ážšáž½áž›ážáž»ážŸáž‚áŸ’áž“áž¶ážšážœáž¶áž„áž¯áž€ážŸáž¶ážšážŠáž¾áž˜ áž“áž·áž„áž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚ (áž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚áž˜áž¶áž“áž‡áž˜áŸ’áž›áŸ„áŸ‡) áž“áŸáŸ‡ážáŸ’ážšáž¼ážœážáŸ‚áž–áž·áž“áž·ážáŸ’áž™ážŠáŸ„áž™áž¡áŸ‚áž€áž–áž¸áž‚áŸ’áž“áž¶áŸ”
 
 ### 25. Architecture Proposal & Policy Engine
-ច្បាប់ (ម៉ាស៊ីនគោលការណ៍) មិនត្រូវបានសរសេរកូដរឹងទៅក្នុងគំរូ AI ទេ។ AI ផ្តល់នូវការយល់ដឹង, ម៉ាស៊ីនគោលនយោបាយធ្វើការសម្រេចចិត្តដោយផ្អែកលើច្បាប់បច្ចុប្បន្ន។ នេះអនុញ្ញាតឱ្យ ** ការផ្លាស់ប្តូរគំរូដោយមិនផ្លាស់ប្តូរច្បាប់ ** ។
+áž…áŸ’áž”áž¶áž”áŸ‹ (áž˜áŸ‰áž¶ážŸáŸŠáž¸áž“áž‚áŸ„áž›áž€áž¶ážšážŽáŸ) áž˜áž·áž“ážáŸ’ážšáž¼ážœáž”áž¶áž“ážŸážšážŸáŸážšáž€áž¼ážŠážšáž¹áž„áž‘áŸ…áž€áŸ’áž“áž»áž„áž‚áŸ†ážšáž¼ AI áž‘áŸáŸ” AI áž•áŸ’ážáž›áŸ‹áž“áž¼ážœáž€áž¶ážšáž™áž›áŸ‹ážŠáž¹áž„, áž˜áŸ‰áž¶ážŸáŸŠáž¸áž“áž‚áŸ„áž›áž“áž™áŸ„áž”áž¶áž™áž’áŸ’ážœáž¾áž€áž¶ážšážŸáž˜áŸ’ážšáŸáž…áž…áž·ážáŸ’ážážŠáŸ„áž™áž•áŸ’áž¢áŸ‚áž€áž›áž¾áž…áŸ’áž”áž¶áž”áŸ‹áž”áž…áŸ’áž…áž»áž”áŸ’áž”áž“áŸ’áž“áŸ” áž“áŸáŸ‡áž¢áž“áž»áž‰áŸ’áž‰áž¶ážáž±áŸ’áž™ ** áž€áž¶ážšáž•áŸ’áž›áž¶ážŸáŸ‹áž”áŸ’ážáž¼ážšáž‚áŸ†ážšáž¼ážŠáŸ„áž™áž˜áž·áž“áž•áŸ’áž›áž¶ážŸáŸ‹áž”áŸ’ážáž¼ážšáž…áŸ’áž”áž¶áž”áŸ‹ ** áŸ”
 
-### 26. មនុស្សនៅតែជាសិទ្ធិអំណាចចុងក្រោយ
-- **NG-AI-MOD-001**៖ AI គាំទ្រការរកឃើញ និងការចាត់ថ្នាក់ ប៉ុន្តែមិនជំនួសការវាយតម្លៃរបស់មនុស្សនៅពេលធ្វើការសម្រេចចិត្តធ្ងន់ធ្ងរនោះទេ។
-- **NG-AI-MOD-002**៖ ការសម្រេចចិត្តសម្របសម្រួលដោយស្វ័យប្រវត្តិត្រូវតែអាចតាមដាន កត់ត្រា និងផ្ទៀងផ្ទាត់បាន។
+### 26. áž˜áž“áž»ážŸáŸ’ážŸáž“áŸ…ážáŸ‚áž‡áž¶ážŸáž·áž‘áŸ’áž’áž·áž¢áŸ†ážŽáž¶áž…áž…áž»áž„áž€áŸ’ážšáŸ„áž™
+- **NG-AI-MOD-001**áŸ– AI áž‚áž¶áŸ†áž‘áŸ’ážšáž€áž¶ážšážšáž€ážƒáž¾áž‰ áž“áž·áž„áž€áž¶ážšáž…áž¶ážáŸ‹ážáŸ’áž“áž¶áž€áŸ‹ áž”áŸ‰áž»áž“áŸ’ážáŸ‚áž˜áž·áž“áž‡áŸ†áž“áž½ážŸáž€áž¶ážšážœáž¶áž™ážáž˜áŸ’áž›áŸƒážšáž”ážŸáŸ‹áž˜áž“áž»ážŸáŸ’ážŸáž“áŸ…áž–áŸáž›áž’áŸ’ážœáž¾áž€áž¶ážšážŸáž˜áŸ’ážšáŸáž…áž…áž·ážáŸ’ážáž’áŸ’áž„áž“áŸ‹áž’áŸ’áž„ážšáž“áŸ„áŸ‡áž‘áŸáŸ”
+- **NG-AI-MOD-002**áŸ– áž€áž¶ážšážŸáž˜áŸ’ážšáŸáž…áž…áž·ážáŸ’ážážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž›ážŠáŸ„áž™ážŸáŸ’ážœáŸáž™áž”áŸ’ážšážœážáŸ’ážáž·ážáŸ’ážšáž¼ážœážáŸ‚áž¢áž¶áž…ážáž¶áž˜ážŠáž¶áž“ áž€ážáŸ‹ážáŸ’ážšáž¶ áž“áž·áž„áž•áŸ’áž‘áŸ€áž„áž•áŸ’áž‘áž¶ážáŸ‹áž”áž¶áž“áŸ”
 
-**សេចក្តីសង្ខេប**៖ យើងកំពុងបង្កើតប្រព័ន្ធបួនជាន់៖ ការរកឃើញ AI ការវិភាគបរិបទ និងហានិភ័យ ម៉ាស៊ីនគោលនយោបាយ និងអភិបាលកិច្ចមនុស្ស។ នេះអនុញ្ញាតឱ្យស្វ័យប្រវត្តិកម្មខ្លាំងដោយមិនបង្កើតស្ថាបត្យកម្ម "AI as judge" ដ៏គ្រោះថ្នាក់។
+**ážŸáŸáž…áž€áŸ’ážáž¸ážŸáž„áŸ’ážáŸáž”**áŸ– áž™áž¾áž„áž€áŸ†áž–áž»áž„áž”áž„áŸ’áž€áž¾ážáž”áŸ’ážšáž–áŸáž“áŸ’áž’áž”áž½áž“áž‡áž¶áž“áŸ‹áŸ– áž€áž¶ážšážšáž€ážƒáž¾áž‰ AI áž€áž¶ážšážœáž·áž—áž¶áž‚áž”ážšáž·áž”áž‘ áž“áž·áž„áž áž¶áž“áž·áž—áŸáž™ áž˜áŸ‰áž¶ážŸáŸŠáž¸áž“áž‚áŸ„áž›áž“áž™áŸ„áž”áž¶áž™ áž“áž·áž„áž¢áž—áž·áž”áž¶áž›áž€áž·áž…áŸ’áž…áž˜áž“áž»ážŸáŸ’ážŸáŸ” áž“áŸáŸ‡áž¢áž“áž»áž‰áŸ’áž‰áž¶ážáž±áŸ’áž™ážŸáŸ’ážœáŸáž™áž”áŸ’ážšážœážáŸ’ážáž·áž€áž˜áŸ’áž˜ážáŸ’áž›áž¶áŸ†áž„ážŠáŸ„áž™áž˜áž·áž“áž”áž„áŸ’áž€áž¾ážážŸáŸ’ážáž¶áž”ážáŸ’áž™áž€áž˜áŸ’áž˜ "AI as judge" ážŠáŸáž‚áŸ’ážšáŸ„áŸ‡ážáŸ’áž“áž¶áž€áŸ‹áŸ”
 
-## គោលការណ៍ហិរញ្ញវត្ថុ និងគំរូចំណូល (WP 1.10.1)
+## áž‚áŸ„áž›áž€áž¶ážšážŽáŸáž áž·ážšáž‰áŸ’áž‰ážœážáŸ’ážáž» áž“áž·áž„áž‚áŸ†ážšáž¼áž…áŸ†ážŽáž¼áž› (WP 1.10.1)
 
 ![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
-គោលការណ៍សេដ្ឋកិច្ចជាមូលដ្ឋានដ៏សំខាន់បំផុតអនុវត្តចំពោះ Nexus Gaja៖ **គ្មានការផ្សាយពាណិជ្ជកម្មបែបបុរាណនៅក្នុងវេទិកា។**
-នេះធ្វើឱ្យ Nexus Gaja មានគំនិតខុសពីបណ្តាញសង្គមជាច្រើននាពេលបច្ចុប្បន្ននេះ។ ប៉ុន្តែនោះមិនមានន័យថា៖ Nexus Gaja មិនត្រូវមានតួអក្សរពាណិជ្ជកម្មទេ។ ផ្ទុយទៅវិញ៖ វេទិកាត្រូវតែមានលទ្ធភាពខាងសេដ្ឋកិច្ច ដូច្នេះគោលបំណងសង្គមរបស់វាអាចបន្តមាននៅក្នុងរយៈពេលវែង។ ដូច្នេះ សកម្មភាពសេដ្ឋកិច្ចគឺជាមធ្យោបាយដល់ទីបញ្ចប់ មិនមែនជាគោលបំណងពិតប្រាកដនៃវេទិកានោះទេ។
+áž‚áŸ„áž›áž€áž¶ážšážŽáŸážŸáŸážŠáŸ’áž‹áž€áž·áž…áŸ’áž…áž‡áž¶áž˜áž¼áž›ážŠáŸ’áž‹áž¶áž“ážŠáŸážŸáŸ†ážáž¶áž“áŸ‹áž”áŸ†áž•áž»ážáž¢áž“áž»ážœážáŸ’ážáž…áŸ†áž–áŸ„áŸ‡ Nexus GajaáŸ– **áž‚áŸ’áž˜áž¶áž“áž€áž¶ážšáž•áŸ’ážŸáž¶áž™áž–áž¶ážŽáž·áž‡áŸ’áž‡áž€áž˜áŸ’áž˜áž”áŸ‚áž”áž”áž»ážšáž¶ážŽáž“áŸ…áž€áŸ’áž“áž»áž„ážœáŸáž‘áž·áž€áž¶áŸ”**
+áž“áŸáŸ‡áž’áŸ’ážœáž¾áž±áŸ’áž™ Nexus Gaja áž˜áž¶áž“áž‚áŸ†áž“áž·ážážáž»ážŸáž–áž¸áž”ážŽáŸ’ážáž¶áž‰ážŸáž„áŸ’áž‚áž˜áž‡áž¶áž…áŸ’ážšáž¾áž“áž“áž¶áž–áŸáž›áž”áž…áŸ’áž…áž»áž”áŸ’áž”áž“áŸ’áž“áž“áŸáŸ‡áŸ” áž”áŸ‰áž»áž“áŸ’ážáŸ‚áž“áŸ„áŸ‡áž˜áž·áž“áž˜áž¶áž“áž“áŸáž™ážáž¶áŸ– Nexus Gaja áž˜áž·áž“ážáŸ’ážšáž¼ážœáž˜áž¶áž“ážáž½áž¢áž€áŸ’ážŸážšáž–áž¶ážŽáž·áž‡áŸ’áž‡áž€áž˜áŸ’áž˜áž‘áŸáŸ” áž•áŸ’áž‘áž»áž™áž‘áŸ…ážœáž·áž‰áŸ– ážœáŸáž‘áž·áž€áž¶ážáŸ’ážšáž¼ážœážáŸ‚áž˜áž¶áž“áž›áž‘áŸ’áž’áž—áž¶áž–ážáž¶áž„ážŸáŸážŠáŸ’áž‹áž€áž·áž…áŸ’áž… ážŠáž¼áž…áŸ’áž“áŸáŸ‡áž‚áŸ„áž›áž”áŸ†ážŽáž„ážŸáž„áŸ’áž‚áž˜ážšáž”ážŸáŸ‹ážœáž¶áž¢áž¶áž…áž”áž“áŸ’ážáž˜áž¶áž“áž“áŸ…áž€áŸ’áž“áž»áž„ážšáž™áŸˆáž–áŸáž›ážœáŸ‚áž„áŸ” ážŠáž¼áž…áŸ’áž“áŸáŸ‡ ážŸáž€áž˜áŸ’áž˜áž—áž¶áž–ážŸáŸážŠáŸ’áž‹áž€áž·áž…áŸ’áž…áž‚ážºáž‡áž¶áž˜áž’áŸ’áž™áŸ„áž”áž¶áž™ážŠáž›áŸ‹áž‘áž¸áž”áž‰áŸ’áž…áž”áŸ‹ áž˜áž·áž“áž˜áŸ‚áž“áž‡áž¶áž‚áŸ„áž›áž”áŸ†ážŽáž„áž–áž·ážáž”áŸ’ážšáž¶áž€ážŠáž“áŸƒážœáŸáž‘áž·áž€áž¶áž“áŸ„áŸ‡áž‘áŸáŸ”
 
-### 1. គោលការណ៍ NG-FIN-001
-Nexus Gaja ផ្តល់ហិរញ្ញប្បទានដល់ប្រតិបត្តិការរបស់ខ្លួនតាមរយៈលំហូរប្រាក់ចំណូលប្រកបដោយតម្លាភាពដាច់ដោយឡែកពីផលប្រយោជន៍អ្នកប្រើប្រាស់ និងមិនមែនតាមរយៈទីផ្សារនៃការយកចិត្តទុកដាក់របស់អ្នកប្រើប្រាស់ ឬទិន្នន័យផ្ទាល់ខ្លួននោះទេ។
+### 1. áž‚áŸ„áž›áž€áž¶ážšážŽáŸ NG-FIN-001
+Nexus Gaja áž•áŸ’ážáž›áŸ‹áž áž·ážšáž‰áŸ’áž‰áž”áŸ’áž”áž‘áž¶áž“ážŠáž›áŸ‹áž”áŸ’ážšážáž·áž”ážáŸ’ážáž·áž€áž¶ážšážšáž”ážŸáŸ‹ážáŸ’áž›áž½áž“ážáž¶áž˜ážšáž™áŸˆáž›áŸ†áž áž¼ážšáž”áŸ’ážšáž¶áž€áŸ‹áž…áŸ†ážŽáž¼áž›áž”áŸ’ážšáž€áž”ážŠáŸ„áž™ážáž˜áŸ’áž›áž¶áž—áž¶áž–ážŠáž¶áž…áŸ‹ážŠáŸ„áž™áž¡áŸ‚áž€áž–áž¸áž•áž›áž”áŸ’ážšáž™áŸ„áž‡áž“áŸáž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹ áž“áž·áž„áž˜áž·áž“áž˜áŸ‚áž“ážáž¶áž˜ážšáž™áŸˆáž‘áž¸áž•áŸ’ážŸáž¶ážšáž“áŸƒáž€áž¶ážšáž™áž€áž…áž·ážáŸ’ážáž‘áž»áž€ážŠáž¶áž€áŸ‹ážšáž”ážŸáŸ‹áž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹ áž¬áž‘áž·áž“áŸ’áž“áž“áŸáž™áž•áŸ’áž‘áž¶áž›áŸ‹ážáŸ’áž›áž½áž“áž“áŸ„áŸ‡áž‘áŸáŸ”
 
-### 2. គ្មានការផ្សាយពាណិជ្ជកម្មបុរាណទេ។
-ជាពិសេស ខាងក្រោមនឹងមិនត្រូវបានអនុញ្ញាតទេ៖
-- បដាផ្សាយពាណិជ្ជកម្ម
-- ការផ្សាយពាណិជ្ជកម្មលេចឡើង
-- ចាក់វីដេអូផ្សាយពាណិជ្ជកម្មដោយស្វ័យប្រវត្តិ
-- ប្រកាសឧបត្ថម្ភក្នុងមតិព័ត៌មានធម្មតា។
-- ទម្រង់ផ្សាយពាណិជ្ជកម្មផ្ទាល់ខ្លួន
-- លក់ទម្រង់អ្នកប្រើប្រាស់
-- ការលក់ទិន្នន័យផ្ទាល់ខ្លួន
-- ការផ្សាយពាណិជ្ជកម្មបានមកពីការសន្ទនាឯកជន។
+### 2. áž‚áŸ’áž˜áž¶áž“áž€áž¶ážšáž•áŸ’ážŸáž¶áž™áž–áž¶ážŽáž·áž‡áŸ’áž‡áž€áž˜áŸ’áž˜áž”áž»ážšáž¶ážŽáž‘áŸáŸ”
+áž‡áž¶áž–áž·ážŸáŸážŸ ážáž¶áž„áž€áŸ’ážšáŸ„áž˜áž“áž¹áž„áž˜áž·áž“ážáŸ’ážšáž¼ážœáž”áž¶áž“áž¢áž“áž»áž‰áŸ’áž‰áž¶ážáž‘áŸáŸ–
+- áž”ážŠáž¶áž•áŸ’ážŸáž¶áž™áž–áž¶ážŽáž·áž‡áŸ’áž‡áž€áž˜áŸ’áž˜
+- áž€áž¶ážšáž•áŸ’ážŸáž¶áž™áž–áž¶ážŽáž·áž‡áŸ’áž‡áž€áž˜áŸ’áž˜áž›áŸáž…áž¡áž¾áž„
+- áž…áž¶áž€áŸ‹ážœáž¸ážŠáŸáž¢áž¼áž•áŸ’ážŸáž¶áž™áž–áž¶ážŽáž·áž‡áŸ’áž‡áž€áž˜áŸ’áž˜ážŠáŸ„áž™ážŸáŸ’ážœáŸáž™áž”áŸ’ážšážœážáŸ’ážáž·
+- áž”áŸ’ážšáž€áž¶ážŸáž§áž”ážáŸ’ážáž˜áŸ’áž—áž€áŸ’áž“áž»áž„áž˜ážáž·áž–áŸážáŸŒáž˜áž¶áž“áž’áž˜áŸ’áž˜ážáž¶áŸ”
+- áž‘áž˜áŸ’ážšáž„áŸ‹áž•áŸ’ážŸáž¶áž™áž–áž¶ážŽáž·áž‡áŸ’áž‡áž€áž˜áŸ’áž˜áž•áŸ’áž‘áž¶áž›áŸ‹ážáŸ’áž›áž½áž“
+- áž›áž€áŸ‹áž‘áž˜áŸ’ážšáž„áŸ‹áž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹
+- áž€áž¶ážšáž›áž€áŸ‹áž‘áž·áž“áŸ’áž“áž“áŸáž™áž•áŸ’áž‘áž¶áž›áŸ‹ážáŸ’áž›áž½áž“
+- áž€áž¶ážšáž•áŸ’ážŸáž¶áž™áž–áž¶ážŽáž·áž‡áŸ’áž‡áž€áž˜áŸ’áž˜áž”áž¶áž“áž˜áž€áž–áž¸áž€áž¶ážšážŸáž“áŸ’áž‘áž“áž¶áž¯áž€áž‡áž“áŸ”
 
-វាទុកចន្លោះទំនាក់ទំនង៖ **កន្លែងទំនាក់ទំនងជំនួសឱ្យកន្លែងផ្សាយពាណិជ្ជកម្ម។**
+ážœáž¶áž‘áž»áž€áž…áž“áŸ’áž›áŸ„áŸ‡áž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„áŸ– **áž€áž“áŸ’áž›áŸ‚áž„áž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„áž‡áŸ†áž“áž½ážŸáž±áŸ’áž™áž€áž“áŸ’áž›áŸ‚áž„áž•áŸ’ážŸáž¶áž™áž–áž¶ážŽáž·áž‡áŸ’áž‡áž€áž˜áŸ’áž˜áŸ”**
 
-### 3. ការផ្តល់ហិរញ្ញប្បទានដោយគ្មានការផ្សាយពាណិជ្ជកម្ម
-ផ្ទុយទៅវិញ ការផ្តល់ហិរញ្ញប្បទានរបស់យើងអាចមានសសរស្តម្ភជាច្រើន។ ដំបូង​យើង​លើក​ឡើង​នូវ​សសរស្តម្ភ​ចំនួន ៦៖
-`` អត្ថបទ
+### 3. áž€áž¶ážšáž•áŸ’ážáž›áŸ‹áž áž·ážšáž‰áŸ’áž‰áž”áŸ’áž”áž‘áž¶áž“ážŠáŸ„áž™áž‚áŸ’áž˜áž¶áž“áž€áž¶ážšáž•áŸ’ážŸáž¶áž™áž–áž¶ážŽáž·áž‡áŸ’áž‡áž€áž˜áŸ’áž˜
+áž•áŸ’áž‘áž»áž™áž‘áŸ…ážœáž·áž‰ áž€áž¶ážšáž•áŸ’ážáž›áŸ‹áž áž·ážšáž‰áŸ’áž‰áž”áŸ’áž”áž‘áž¶áž“ážšáž”ážŸáŸ‹áž™áž¾áž„áž¢áž¶áž…áž˜áž¶áž“ážŸážŸážšážŸáŸ’ážáž˜áŸ’áž—áž‡áž¶áž…áŸ’ážšáž¾áž“áŸ” ážŠáŸ†áž”áž¼áž„â€‹áž™áž¾áž„â€‹áž›áž¾áž€â€‹áž¡áž¾áž„â€‹áž“áž¼ážœâ€‹ážŸážŸážšážŸáŸ’ážáž˜áŸ’áž—â€‹áž…áŸ†áž“áž½áž“ áŸ¦áŸ–
+`` áž¢ážáŸ’ážáž”áž‘
                  NEXUS GAJA
-                     │
-       ┌───────────────┼─────────────┐
-       ▼ ▼ ▼
-   អង្គការ​ពិសេស​បរិច្ចាគ
-       │ │ │
-       ├──────────────┼─────────────┤
-       ▼ ▼ ▼
-   ការលើកកម្ពស់សេវាភាពជាដៃគូ
+                     â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â–¼ â–¼ â–¼
+   áž¢áž„áŸ’áž‚áž€áž¶ážšâ€‹áž–áž·ážŸáŸážŸâ€‹áž”ážšáž·áž…áŸ’áž…áž¶áž‚
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+       â–¼ â–¼ â–¼
+   áž€áž¶ážšáž›áž¾áž€áž€áž˜áŸ’áž–ážŸáŸ‹ážŸáŸážœáž¶áž—áž¶áž–áž‡áž¶ážŠáŸƒáž‚áž¼
 ```
 
-#### Pillar 1 - សមាជិកភាពមូលដ្ឋានឥតគិតថ្លៃ
-**Nexus Gaja Free:** ការចូលរួមជាមូលដ្ឋានក្នុងការយល់ដឹងអន្តរជាតិមិនគួរអាស្រ័យលើថាតើនរណាម្នាក់មានលុយនោះទេ។ ខាងក្រោមនេះអាចធ្វើទៅបានដោយមិនគិតថ្លៃ៖ ប្រវត្តិរូបផ្ទាល់ខ្លួន ការទំនាក់ទំនងអន្តរជាតិ ការរួមចំណែក មតិយោបល់ ការបកប្រែជាមូលដ្ឋាន សហគមន៍ ការជជែក មុខងារប្រព័ន្ធផ្សព្វផ្សាយជាមូលដ្ឋាន។
+#### Pillar 1 - ážŸáž˜áž¶áž‡áž·áž€áž—áž¶áž–áž˜áž¼áž›ážŠáŸ’áž‹áž¶áž“áž¥ážáž‚áž·ážážáŸ’áž›áŸƒ
+**Nexus Gaja Free:** áž€áž¶ážšáž…áž¼áž›ážšáž½áž˜áž‡áž¶áž˜áž¼áž›ážŠáŸ’áž‹áž¶áž“áž€áŸ’áž“áž»áž„áž€áž¶ážšáž™áž›áŸ‹ážŠáž¹áž„áž¢áž“áŸ’ážážšáž‡áž¶ážáž·áž˜áž·áž“áž‚áž½ážšáž¢áž¶ážŸáŸ’ážšáŸáž™áž›áž¾ážáž¶ážáž¾áž“ážšážŽáž¶áž˜áŸ’áž“áž¶áž€áŸ‹áž˜áž¶áž“áž›áž»áž™áž“áŸ„áŸ‡áž‘áŸáŸ” ážáž¶áž„áž€áŸ’ážšáŸ„áž˜áž“áŸáŸ‡áž¢áž¶áž…áž’áŸ’ážœáž¾áž‘áŸ…áž”áž¶áž“ážŠáŸ„áž™áž˜áž·áž“áž‚áž·ážážáŸ’áž›áŸƒáŸ– áž”áŸ’ážšážœážáŸ’ážáž·ážšáž¼áž”áž•áŸ’áž‘áž¶áž›áŸ‹ážáŸ’áž›áž½áž“ áž€áž¶ážšáž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„áž¢áž“áŸ’ážážšáž‡áž¶ážáž· áž€áž¶ážšážšáž½áž˜áž…áŸ†ážŽáŸ‚áž€ áž˜ážáž·áž™áŸ„áž”áž›áŸ‹ áž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚áž‡áž¶áž˜áž¼áž›ážŠáŸ’áž‹áž¶áž“ ážŸáž áž‚áž˜áž“áŸ áž€áž¶ážšáž‡áž‡áŸ‚áž€ áž˜áž»ážáž„áž¶ážšáž”áŸ’ážšáž–áŸáž“áŸ’áž’áž•áŸ’ážŸáž–áŸ’ážœáž•áŸ’ážŸáž¶áž™áž‡áž¶áž˜áž¼áž›ážŠáŸ’áž‹áž¶áž“áŸ”
 
-#### បង្គោលទី 2 – ការផ្តល់ជូនពិសេស
-ការផ្តល់ជូនដោយស្ម័គ្រចិត្ត (** Nexus Gaja Plus**) ។ អត្ថប្រយោជន៍ដែលអាចកើតមាន៖ ដែនកំណត់ទំហំផ្ទុកធំជាងមុន គុណភាពមេឌៀកាន់តែខ្ពស់ ការបញ្ជូនវីដេអូកាន់តែយូរ មុខងារបកប្រែដែលបានពង្រីក សហគមន៍ធំជាងមុន មុខងារស្ថាប័នបន្ថែម កូតា AI កាន់តែខ្ពស់។
-** Freemium – ប៉ុន្តែមិនមែន “Dark Freemium” ទេ៖** កំណែឥតគិតថ្លៃអាចប្រើប្រាស់បានយ៉ាងសមហេតុផល។ បុព្វលាភពង្រីកវា។
+#### áž”áž„áŸ’áž‚áŸ„áž›áž‘áž¸ 2 â€“ áž€áž¶ážšáž•áŸ’ážáž›áŸ‹áž‡áž¼áž“áž–áž·ážŸáŸážŸ
+áž€áž¶ážšáž•áŸ’ážáž›áŸ‹áž‡áž¼áž“ážŠáŸ„áž™ážŸáŸ’áž˜áŸáž‚áŸ’ážšáž…áž·ážáŸ’áž (** Nexus Gaja Plus**) áŸ” áž¢ážáŸ’ážáž”áŸ’ážšáž™áŸ„áž‡áž“áŸážŠáŸ‚áž›áž¢áž¶áž…áž€áž¾ážáž˜áž¶áž“áŸ– ážŠáŸ‚áž“áž€áŸ†ážŽážáŸ‹áž‘áŸ†áž áŸ†áž•áŸ’áž‘áž»áž€áž’áŸ†áž‡áž¶áž„áž˜áž»áž“ áž‚áž»ážŽáž—áž¶áž–áž˜áŸážŒáŸ€áž€áž¶áž“áŸ‹ážáŸ‚ážáŸ’áž–ážŸáŸ‹ áž€áž¶ážšáž”áž‰áŸ’áž‡áž¼áž“ážœáž¸ážŠáŸáž¢áž¼áž€áž¶áž“áŸ‹ážáŸ‚áž™áž¼ážš áž˜áž»ážáž„áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚ážŠáŸ‚áž›áž”áž¶áž“áž–áž„áŸ’ážšáž¸áž€ ážŸáž áž‚áž˜áž“áŸáž’áŸ†áž‡áž¶áž„áž˜áž»áž“ áž˜áž»ážáž„áž¶ážšážŸáŸ’ážáž¶áž”áŸáž“áž”áž“áŸ’ážáŸ‚áž˜ áž€áž¼ážáž¶ AI áž€áž¶áž“áŸ‹ážáŸ‚ážáŸ’áž–ážŸáŸ‹áŸ”
+** Freemium â€“ áž”áŸ‰áž»áž“áŸ’ážáŸ‚áž˜áž·áž“áž˜áŸ‚áž“ â€œDark Freemiumâ€ áž‘áŸáŸ–** áž€áŸ†ážŽáŸ‚áž¥ážáž‚áž·ážážáŸ’áž›áŸƒáž¢áž¶áž…áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹áž”áž¶áž“áž™áŸ‰áž¶áž„ážŸáž˜áž áŸážáž»áž•áž›áŸ” áž”áž»áž–áŸ’ážœáž›áž¶áž—áž–áž„áŸ’ážšáž¸áž€ážœáž¶áŸ”
 
-#### សសរស្តម្ភ ៣ - អង្គការ
-** អង្គការ Nexus Gaja៖ ** គណនីពិសេសសម្រាប់សាលារៀន សាកលវិទ្យាល័យ ក្លឹប អង្គការក្រៅរដ្ឋាភិបាល ក្រុមហ៊ុននានា ទីក្រុង។ល។ ជាមួយនឹងគណនីអង្គការកណ្តាល ការគ្រប់គ្រងសមាជិក និងមុខងារគ្រប់គ្រង។ (ឧទាហរណ៍៖ សាលារៀនមួយទទួលបានសិស្សចូលរៀនដោយមិនគិតថ្លៃ ឬតាមរយៈអត្រាពន្ធតាមស្ថាប័ន)។
+#### ážŸážŸážšážŸáŸ’ážáž˜áŸ’áž— áŸ£ - áž¢áž„áŸ’áž‚áž€áž¶ážš
+** áž¢áž„áŸ’áž‚áž€áž¶ážš Nexus GajaáŸ– ** áž‚ážŽáž“áž¸áž–áž·ážŸáŸážŸážŸáž˜áŸ’ážšáž¶áž”áŸ‹ážŸáž¶áž›áž¶ážšáŸ€áž“ ážŸáž¶áž€áž›ážœáž·áž‘áŸ’áž™áž¶áž›áŸáž™ áž€áŸ’áž›áž¹áž” áž¢áž„áŸ’áž‚áž€áž¶ážšáž€áŸ’ážšáŸ…ážšážŠáŸ’áž‹áž¶áž—áž·áž”áž¶áž› áž€áŸ’ážšáž»áž˜áž áŸŠáž»áž“áž“áž¶áž“áž¶ áž‘áž¸áž€áŸ’ážšáž»áž„áŸ”áž›áŸ” áž‡áž¶áž˜áž½áž™áž“áž¹áž„áž‚ážŽáž“áž¸áž¢áž„áŸ’áž‚áž€áž¶ážšáž€ážŽáŸ’ážáž¶áž› áž€áž¶ážšáž‚áŸ’ážšáž”áŸ‹áž‚áŸ’ážšáž„ážŸáž˜áž¶áž‡áž·áž€ áž“áž·áž„áž˜áž»ážáž„áž¶ážšáž‚áŸ’ážšáž”áŸ‹áž‚áŸ’ážšáž„áŸ” (áž§áž‘áž¶áž ážšážŽáŸáŸ– ážŸáž¶áž›áž¶ážšáŸ€áž“áž˜áž½áž™áž‘áž‘áž½áž›áž”áž¶áž“ážŸáž·ážŸáŸ’ážŸáž…áž¼áž›ážšáŸ€áž“ážŠáŸ„áž™áž˜áž·áž“áž‚áž·ážážáŸ’áž›áŸƒ áž¬ážáž¶áž˜ážšáž™áŸˆáž¢ážáŸ’ážšáž¶áž–áž“áŸ’áž’ážáž¶áž˜ážŸáŸ’ážáž¶áž”áŸáž“)áŸ”
 
-#### សសរស្តម្ភ ៤ - អំណោយ
-** មូលនិធិ Nexus Gaja៖ ** ម្ចាស់ជំនួយអាចផ្តល់ប្រាក់ដោយស្ម័គ្រចិត្ត (ការបរិច្ចាកទូទៅ ឬដែលបានកំណត់)។ 
-** អាងផ្តល់មូលនិធិ និងថមបូឡា៖ ** ការប្រើប្រាស់ដោយឥតគិតថ្លៃ ឬបញ្ចុះតម្លៃត្រូវបានផ្តល់ហិរញ្ញប្បទានពីអាងបរិច្ចាគ។ សៀវភៅបញ្ជីបែងចែកមូលនិធិធានាឱ្យមានការចាត់ចែង។
-`` អត្ថបទ
-ការបរិច្ចាគ → មូលនិធិគោលបំណង → ម៉ាស៊ីនមានសិទ្ធិ → ការចូលប្រើដោយឥតគិតថ្លៃ / ការបញ្ចុះតម្លៃ / កូតា
+#### ážŸážŸážšážŸáŸ’ážáž˜áŸ’áž— áŸ¤ - áž¢áŸ†ážŽáŸ„áž™
+** áž˜áž¼áž›áž“áž·áž’áž· Nexus GajaáŸ– ** áž˜áŸ’áž…áž¶ážŸáŸ‹áž‡áŸ†áž“áž½áž™áž¢áž¶áž…áž•áŸ’ážáž›áŸ‹áž”áŸ’ážšáž¶áž€áŸ‹ážŠáŸ„áž™ážŸáŸ’áž˜áŸáž‚áŸ’ážšáž…áž·ážáŸ’áž (áž€áž¶ážšáž”ážšáž·áž…áŸ’áž…áž¶áž€áž‘áž¼áž‘áŸ… áž¬ážŠáŸ‚áž›áž”áž¶áž“áž€áŸ†ážŽážáŸ‹)áŸ” 
+** áž¢áž¶áž„áž•áŸ’ážáž›áŸ‹áž˜áž¼áž›áž“áž·áž’áž· áž“áž·áž„ážáž˜áž”áž¼áž¡áž¶áŸ– ** áž€áž¶ážšáž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹ážŠáŸ„áž™áž¥ážáž‚áž·ážážáŸ’áž›áŸƒ áž¬áž”áž‰áŸ’áž…áž»áŸ‡ážáž˜áŸ’áž›áŸƒážáŸ’ážšáž¼ážœáž”áž¶áž“áž•áŸ’ážáž›áŸ‹áž áž·ážšáž‰áŸ’áž‰áž”áŸ’áž”áž‘áž¶áž“áž–áž¸áž¢áž¶áž„áž”ážšáž·áž…áŸ’áž…áž¶áž‚áŸ” ážŸáŸ€ážœáž—áŸ…áž”áž‰áŸ’áž‡áž¸áž”áŸ‚áž„áž…áŸ‚áž€áž˜áž¼áž›áž“áž·áž’áž·áž’áž¶áž“áž¶áž±áŸ’áž™áž˜áž¶áž“áž€áž¶ážšáž…áž¶ážáŸ‹áž…áŸ‚áž„áŸ”
+`` áž¢ážáŸ’ážáž”áž‘
+áž€áž¶ážšáž”ážšáž·áž…áŸ’áž…áž¶áž‚ â†’ áž˜áž¼áž›áž“áž·áž’áž·áž‚áŸ„áž›áž”áŸ†ážŽáž„ â†’ áž˜áŸ‰áž¶ážŸáŸŠáž¸áž“áž˜áž¶áž“ážŸáž·áž‘áŸ’áž’áž· â†’ áž€áž¶ážšáž…áž¼áž›áž”áŸ’ážšáž¾ážŠáŸ„áž™áž¥ážáž‚áž·ážážáŸ’áž›áŸƒ / áž€áž¶ážšáž”áž‰áŸ’áž…áž»áŸ‡ážáž˜áŸ’áž›áŸƒ / áž€áž¼ážáž¶
 ```
 
-#### សសរស្តម្ភ 5 – ការគាំទ្រពីស្ថាប័ន
-អ្នកឧបត្ថម្ភ៖ មូលនិធិ កម្មវិធីមូលនិធិវប្បធម៌ កម្មវិធីមូលនិធិរដ្ឋ។
-**NG-FIN-002 (ឯករាជ្យ):** ការផ្តល់មូលនិធិមិនអាចទិញកម្មវិធីនិពន្ធ ឬការត្រួតពិនិត្យបច្ចេកទេសលើ Nexus Gaja បានទេ។
+#### ážŸážŸážšážŸáŸ’ážáž˜áŸ’áž— 5 â€“ áž€áž¶ážšáž‚áž¶áŸ†áž‘áŸ’ážšáž–áž¸ážŸáŸ’ážáž¶áž”áŸáž“
+áž¢áŸ’áž“áž€áž§áž”ážáŸ’ážáž˜áŸ’áž—áŸ– áž˜áž¼áž›áž“áž·áž’áž· áž€áž˜áŸ’áž˜ážœáž·áž’áž¸áž˜áž¼áž›áž“áž·áž’áž·ážœáž”áŸ’áž”áž’áž˜áŸŒ áž€áž˜áŸ’áž˜ážœáž·áž’áž¸áž˜áž¼áž›áž“áž·áž’áž·ážšážŠáŸ’áž‹áŸ”
+**NG-FIN-002 (áž¯áž€ážšáž¶áž‡áŸ’áž™):** áž€áž¶ážšáž•áŸ’ážáž›áŸ‹áž˜áž¼áž›áž“áž·áž’áž·áž˜áž·áž“áž¢áž¶áž…áž‘áž·áž‰áž€áž˜áŸ’áž˜ážœáž·áž’áž¸áž“áž·áž–áž“áŸ’áž’ áž¬áž€áž¶ážšážáŸ’ážšáž½ážáž–áž·áž“áž·ážáŸ’áž™áž”áž…áŸ’áž…áŸáž€áž‘áŸážŸáž›áž¾ Nexus Gaja áž”áž¶áž“áž‘áŸáŸ”
 
-#### សសរស្តម្ភទី ៦ - សេវាកម្មពាណិជ្ជកម្ម
-Nexus Gaja អាចផ្តល់ជូននូវសេវាកម្ម B2B ដូចជា **ការបកប្រែជាសេវាកម្ម (API)** ការបកប្រែប្រកបដោយវិជ្ជាជីវៈ ការទំនាក់ទំនងតាមស្ថាប័ន ឬបន្ទប់សន្និសីទអន្តរជាតិដោយមិនដាក់បន្ទុកលើមតិអ្នកប្រើប្រាស់ធម្មតាជាមួយនឹងការផ្សាយពាណិជ្ជកម្ម។
+#### ážŸážŸážšážŸáŸ’ážáž˜áŸ’áž—áž‘áž¸ áŸ¦ - ážŸáŸážœáž¶áž€áž˜áŸ’áž˜áž–áž¶ážŽáž·áž‡áŸ’áž‡áž€áž˜áŸ’áž˜
+Nexus Gaja áž¢áž¶áž…áž•áŸ’ážáž›áŸ‹áž‡áž¼áž“áž“áž¼ážœážŸáŸážœáž¶áž€áž˜áŸ’áž˜ B2B ážŠáž¼áž…áž‡áž¶ **áž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚áž‡áž¶ážŸáŸážœáž¶áž€áž˜áŸ’áž˜ (API)** áž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚áž”áŸ’ážšáž€áž”ážŠáŸ„áž™ážœáž·áž‡áŸ’áž‡áž¶áž‡áž¸ážœáŸˆ áž€áž¶ážšáž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„ážáž¶áž˜ážŸáŸ’ážáž¶áž”áŸáž“ áž¬áž”áž“áŸ’áž‘áž”áŸ‹ážŸáž“áŸ’áž“áž·ážŸáž¸áž‘áž¢áž“áŸ’ážážšáž‡áž¶ážáž·ážŠáŸ„áž™áž˜áž·áž“ážŠáž¶áž€áŸ‹áž”áž“áŸ’áž‘áž»áž€áž›áž¾áž˜ážáž·áž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹áž’áž˜áŸ’áž˜ážáž¶áž‡áž¶áž˜áž½áž™áž“áž¹áž„áž€áž¶ážšáž•áŸ’ážŸáž¶áž™áž–áž¶ážŽáž·áž‡áŸ’áž‡áž€áž˜áŸ’áž˜áŸ”
 
-### 4. គ្មានទីផ្សារទិន្នន័យ និងគ្មាន "សេដ្ឋកិច្ចឃ្លាំមើល"
-**NG-FIN-003:** ទិន្នន័យផ្ទាល់ខ្លួនរបស់អ្នកប្រើប្រាស់មិនមែនជាទំនិញរបស់ Nexus Gaja ទេ។ (គ្មានការលក់ប្រវត្តិរូប ទិន្នន័យអត្តសញ្ញាណ)។ 
-Nexus Gaja មិនមានបំណងដើម្បីទទួលបានអត្ថប្រយោជន៍ពីអ្នកប្រើប្រាស់របស់ខ្លួនដែលត្រូវបានត្រួតពិនិត្យឱ្យបានច្រើនតាមដែលអាចធ្វើទៅបាន និងចាត់ថ្នាក់ផ្លូវចិត្តឱ្យបានច្បាស់លាស់តាមដែលអាចធ្វើទៅបាន។
+### 4. áž‚áŸ’áž˜áž¶áž“áž‘áž¸áž•áŸ’ážŸáž¶ážšáž‘áž·áž“áŸ’áž“áž“áŸáž™ áž“áž·áž„áž‚áŸ’áž˜áž¶áž“ "ážŸáŸážŠáŸ’áž‹áž€áž·áž…áŸ’áž…ážƒáŸ’áž›áž¶áŸ†áž˜áž¾áž›"
+**NG-FIN-003:** áž‘áž·áž“áŸ’áž“áž“áŸáž™áž•áŸ’áž‘áž¶áž›áŸ‹ážáŸ’áž›áž½áž“ážšáž”ážŸáŸ‹áž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹áž˜áž·áž“áž˜áŸ‚áž“áž‡áž¶áž‘áŸ†áž“áž·áž‰ážšáž”ážŸáŸ‹ Nexus Gaja áž‘áŸáŸ” (áž‚áŸ’áž˜áž¶áž“áž€áž¶ážšáž›áž€áŸ‹áž”áŸ’ážšážœážáŸ’ážáž·ážšáž¼áž” áž‘áž·áž“áŸ’áž“áž“áŸáž™áž¢ážáŸ’ážážŸáž‰áŸ’áž‰áž¶ážŽ)áŸ” 
+Nexus Gaja áž˜áž·áž“áž˜áž¶áž“áž”áŸ†ážŽáž„ážŠáž¾áž˜áŸ’áž”áž¸áž‘áž‘áž½áž›áž”áž¶áž“áž¢ážáŸ’ážáž”áŸ’ážšáž™áŸ„áž‡áž“áŸáž–áž¸áž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹ážšáž”ážŸáŸ‹ážáŸ’áž›áž½áž“ážŠáŸ‚áž›ážáŸ’ážšáž¼ážœáž”áž¶áž“ážáŸ’ážšáž½ážáž–áž·áž“áž·ážáŸ’áž™áž±áŸ’áž™áž”áž¶áž“áž…áŸ’ážšáž¾áž“ážáž¶áž˜ážŠáŸ‚áž›áž¢áž¶áž…áž’áŸ’ážœáž¾áž‘áŸ…áž”áž¶áž“ áž“áž·áž„áž…áž¶ážáŸ‹ážáŸ’áž“áž¶áž€áŸ‹áž•áŸ’áž›áž¼ážœáž…áž·ážáŸ’ážáž±áŸ’áž™áž”áž¶áž“áž…áŸ’áž”áž¶ážŸáŸ‹áž›áž¶ážŸáŸ‹ážáž¶áž˜ážŠáŸ‚áž›áž¢áž¶áž…áž’áŸ’ážœáž¾áž‘áŸ…áž”áž¶áž“áŸ”
 
-### 5. តម្លាភាពហិរញ្ញវត្ថុ
-តម្លាភាពហិរញ្ញវត្ថុ Nexus Gaja៖ ប្រាក់ចំណូលអាចត្រូវបានបោះពុម្ពដោយយោងទៅតាមប្រភេទ បរិមាណនៃការបរិច្ចាគ ការចំណាយប្រតិបត្តិការ។ល។ 
-**សៀវភៅបញ្ជីមូលនិធិ៖** ការបរិច្ចាគដែលបានកំណត់សម្រាប់គោលបំណងជាក់លាក់មួយត្រូវបានកត់ត្រាក្នុងលក្ខណៈគណនេយ្យដែលអាចយល់បាន (ការបរិច្ចាគ → លេខសម្គាល់មូលនិធិ → គោលបំណង → សមតុល្យដែលមាន → ការបែងចែក) ។ មិនមានការឧបត្ថម្ភធនឆ្លងកាត់ដោយគ្មានតម្លាភាពទេ។
+### 5. ážáž˜áŸ’áž›áž¶áž—áž¶áž–áž áž·ážšáž‰áŸ’áž‰ážœážáŸ’ážáž»
+ážáž˜áŸ’áž›áž¶áž—áž¶áž–áž áž·ážšáž‰áŸ’áž‰ážœážáŸ’ážáž» Nexus GajaáŸ– áž”áŸ’ážšáž¶áž€áŸ‹áž…áŸ†ážŽáž¼áž›áž¢áž¶áž…ážáŸ’ážšáž¼ážœáž”áž¶áž“áž”áŸ„áŸ‡áž–áž»áž˜áŸ’áž–ážŠáŸ„áž™áž™áŸ„áž„áž‘áŸ…ážáž¶áž˜áž”áŸ’ážšáž—áŸáž‘ áž”ážšáž·áž˜áž¶ážŽáž“áŸƒáž€áž¶ážšáž”ážšáž·áž…áŸ’áž…áž¶áž‚ áž€áž¶ážšáž…áŸ†ážŽáž¶áž™áž”áŸ’ážšážáž·áž”ážáŸ’ážáž·áž€áž¶ážšáŸ”áž›áŸ” 
+**ážŸáŸ€ážœáž—áŸ…áž”áž‰áŸ’áž‡áž¸áž˜áž¼áž›áž“áž·áž’áž·áŸ–** áž€áž¶ážšáž”ážšáž·áž…áŸ’áž…áž¶áž‚ážŠáŸ‚áž›áž”áž¶áž“áž€áŸ†ážŽážáŸ‹ážŸáž˜áŸ’ážšáž¶áž”áŸ‹áž‚áŸ„áž›áž”áŸ†ážŽáž„áž‡áž¶áž€áŸ‹áž›áž¶áž€áŸ‹áž˜áž½áž™ážáŸ’ážšáž¼ážœáž”áž¶áž“áž€ážáŸ‹ážáŸ’ážšáž¶áž€áŸ’áž“áž»áž„áž›áž€áŸ’ážážŽáŸˆáž‚ážŽáž“áŸáž™áŸ’áž™ážŠáŸ‚áž›áž¢áž¶áž…áž™áž›áŸ‹áž”áž¶áž“ (áž€áž¶ážšáž”ážšáž·áž…áŸ’áž…áž¶áž‚ â†’ áž›áŸážážŸáž˜áŸ’áž‚áž¶áž›áŸ‹áž˜áž¼áž›áž“áž·áž’áž· â†’ áž‚áŸ„áž›áž”áŸ†ážŽáž„ â†’ ážŸáž˜ážáž»áž›áŸ’áž™ážŠáŸ‚áž›áž˜áž¶áž“ â†’ áž€áž¶ážšáž”áŸ‚áž„áž…áŸ‚áž€) áŸ” áž˜áž·áž“áž˜áž¶áž“áž€áž¶ážšáž§áž”ážáŸ’ážáž˜áŸ’áž—áž’áž“áž†áŸ’áž›áž„áž€áž¶ážáŸ‹ážŠáŸ„áž™áž‚áŸ’áž˜áž¶áž“ážáž˜áŸ’áž›áž¶áž—áž¶áž–áž‘áŸáŸ”
 
-### 6. គំរូហិរញ្ញប្បទានតម្លៃ និងសាមគ្គីភាព
-តម្លៃគឺផ្អែកលើ៖ ការតំរង់ទិសតម្លៃ ភាពយុត្តិធម៌ និងសាមគ្គីភាព។
-**Solidarity Premium:** អ្នកប្រើប្រាស់បុព្វលាភអាចជ្រើសរើសដោយស្ម័គ្រចិត្ត៖ "ខ្ញុំផ្តល់ហិរញ្ញប្បទានដល់ផ្នែកនៃការចូលប្រើរបស់អ្នកប្រើផ្សេងទៀត"។ ការរួបរួមដោយបង្ខំ ឬសង្គមថ្នាក់បុព្វលាភ (ការគោរពតិចជាង ឬការសម្របសម្រួលកាន់តែអាក្រក់សម្រាប់អ្នកប្រើប្រាស់ឥតគិតថ្លៃ) មិនត្រូវបានរាប់បញ្ចូលទេ។
+### 6. áž‚áŸ†ážšáž¼áž áž·ážšáž‰áŸ’áž‰áž”áŸ’áž”áž‘áž¶áž“ážáž˜áŸ’áž›áŸƒ áž“áž·áž„ážŸáž¶áž˜áž‚áŸ’áž‚áž¸áž—áž¶áž–
+ážáž˜áŸ’áž›áŸƒáž‚ážºáž•áŸ’áž¢áŸ‚áž€áž›áž¾áŸ– áž€áž¶ážšážáŸ†ážšáž„áŸ‹áž‘áž·ážŸážáž˜áŸ’áž›áŸƒ áž—áž¶áž–áž™áž»ážáŸ’ážáž·áž’áž˜áŸŒ áž“áž·áž„ážŸáž¶áž˜áž‚áŸ’áž‚áž¸áž—áž¶áž–áŸ”
+**Solidarity Premium:** áž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹áž”áž»áž–áŸ’ážœáž›áž¶áž—áž¢áž¶áž…áž‡áŸ’ážšáž¾ážŸážšáž¾ážŸážŠáŸ„áž™ážŸáŸ’áž˜áŸáž‚áŸ’ážšáž…áž·ážáŸ’ážáŸ– "ážáŸ’áž‰áž»áŸ†áž•áŸ’ážáž›áŸ‹áž áž·ážšáž‰áŸ’áž‰áž”áŸ’áž”áž‘áž¶áž“ážŠáž›áŸ‹áž•áŸ’áž“áŸ‚áž€áž“áŸƒáž€áž¶ážšáž…áž¼áž›áž”áŸ’ážšáž¾ážšáž”ážŸáŸ‹áž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž•áŸ’ážŸáŸáž„áž‘áŸ€áž"áŸ” áž€áž¶ážšážšáž½áž”ážšáž½áž˜ážŠáŸ„áž™áž”áž„áŸ’ážáŸ† áž¬ážŸáž„áŸ’áž‚áž˜ážáŸ’áž“áž¶áž€áŸ‹áž”áž»áž–áŸ’ážœáž›áž¶áž— (áž€áž¶ážšáž‚áŸ„ážšáž–ážáž·áž…áž‡áž¶áž„ áž¬áž€áž¶ážšážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž›áž€áž¶áž“áŸ‹ážáŸ‚áž¢áž¶áž€áŸ’ážšáž€áŸ‹ážŸáž˜áŸ’ážšáž¶áž”áŸ‹áž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹áž¥ážáž‚áž·ážážáŸ’áž›áŸƒ) áž˜áž·áž“ážáŸ’ážšáž¼ážœáž”áž¶áž“ážšáž¶áž”áŸ‹áž”áž‰áŸ’áž…áž¼áž›áž‘áŸáŸ”
 
-### 7. KPI សេដ្ឋកិច្ច
-យើង​មិន​ពឹង​ផ្អែក​លើ​ពេល​វេលា​តាម​អ៊ីនធឺណិត​គ្មាន​ទី​បញ្ចប់ (មិន​មាន​សេដ្ឋកិច្ច​ចូលរួម​ដោយ​ឧបាយកល​ទេ)។ KPIs របស់យើង៖
-- **សន្ទស្សន៍ទំនាក់ទំនងសកល (GCI):** តើទំនាក់ទំនងទំនាក់ទំនងជោគជ័យប៉ុន្មានកើតឡើងរវាងមនុស្សមកពីតំបន់ភាសា ឬវប្បធម៌ផ្សេងៗគ្នា?
-- **Platform Sustainability Ratio (PSR):** ចំណូលដែលកើតឡើងដដែលៗ / ការចំណាយប្រតិបត្តិការដដែលៗ (គោលដៅ៖ PSR ≥ 1)។
+### 7. KPI ážŸáŸážŠáŸ’áž‹áž€áž·áž…áŸ’áž…
+áž™áž¾áž„â€‹áž˜áž·áž“â€‹áž–áž¹áž„â€‹áž•áŸ’áž¢áŸ‚áž€â€‹áž›áž¾â€‹áž–áŸáž›â€‹ážœáŸáž›áž¶â€‹ážáž¶áž˜â€‹áž¢áŸŠáž¸áž“áž’ážºážŽáž·ážâ€‹áž‚áŸ’áž˜áž¶áž“â€‹áž‘áž¸â€‹áž”áž‰áŸ’áž…áž”áŸ‹ (áž˜áž·áž“â€‹áž˜áž¶áž“â€‹ážŸáŸážŠáŸ’áž‹áž€áž·áž…áŸ’áž…â€‹áž…áž¼áž›ážšáž½áž˜â€‹ážŠáŸ„áž™â€‹áž§áž”áž¶áž™áž€áž›â€‹áž‘áŸ)áŸ” KPIs ážšáž”ážŸáŸ‹áž™áž¾áž„áŸ–
+- **ážŸáž“áŸ’áž‘ážŸáŸ’ážŸáž“áŸáž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„ážŸáž€áž› (GCI):** ážáž¾áž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„áž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„áž‡áŸ„áž‚áž‡áŸáž™áž”áŸ‰áž»áž“áŸ’áž˜áž¶áž“áž€áž¾ážáž¡áž¾áž„ážšážœáž¶áž„áž˜áž“áž»ážŸáŸ’ážŸáž˜áž€áž–áž¸ážáŸ†áž”áž“áŸ‹áž—áž¶ážŸáž¶ áž¬ážœáž”áŸ’áž”áž’áž˜áŸŒáž•áŸ’ážŸáŸáž„áŸ—áž‚áŸ’áž“áž¶?
+- **Platform Sustainability Ratio (PSR):** áž…áŸ†ážŽáž¼áž›ážŠáŸ‚áž›áž€áž¾ážáž¡áž¾áž„ážŠážŠáŸ‚áž›áŸ— / áž€áž¶ážšáž…áŸ†ážŽáž¶áž™áž”áŸ’ážšážáž·áž”ážáŸ’ážáž·áž€áž¶ážšážŠážŠáŸ‚áž›áŸ— (áž‚áŸ„áž›ážŠáŸ…áŸ– PSR â‰¥ 1)áŸ”
 
-### ៨. អ្វីដែលយើងមិនចង់បាន
-Nexus Gaja មិនត្រូវបានផ្តល់ហិរញ្ញប្បទានដោយ៖
-❌លក់ព័ត៌មានផ្ទាល់ខ្លួន
-❌ការផ្សាយពាណិជ្ជកម្មបែបបុរាណផ្ទាល់ខ្លួន
-❌ តាមដានឥរិយាបថអ្នកប្រើប្រាស់សម្រាប់គោលបំណងផ្សាយពាណិជ្ជកម្ម
-❌លក់ទិន្នន័យទំនាក់ទំនងឯកជន
-❌ការប្រើប្រាស់ទិន្នន័យ AI ដែលលាក់
-❌ សោរបុព្វលាភ
-❌ ដែនកំណត់នៃការឈានដល់សិប្បនិម្មិតសម្រាប់ការរកប្រាក់
-❌ ទទួលឥទ្ធិពលនយោបាយ
-❌ ការទិញការសម្រេចចិត្តសំរបសំរួលដែលមានសិទ្ធិ។
+### áŸ¨. áž¢áŸ’ážœáž¸ážŠáŸ‚áž›áž™áž¾áž„áž˜áž·áž“áž…áž„áŸ‹áž”áž¶áž“
+Nexus Gaja áž˜áž·áž“ážáŸ’ážšáž¼ážœáž”áž¶áž“áž•áŸ’ážáž›áŸ‹áž áž·ážšáž‰áŸ’áž‰áž”áŸ’áž”áž‘áž¶áž“ážŠáŸ„áž™áŸ–
+âŒáž›áž€áŸ‹áž–áŸážáŸŒáž˜áž¶áž“áž•áŸ’áž‘áž¶áž›áŸ‹ážáŸ’áž›áž½áž“
+âŒáž€áž¶ážšáž•áŸ’ážŸáž¶áž™áž–áž¶ážŽáž·áž‡áŸ’áž‡áž€áž˜áŸ’áž˜áž”áŸ‚áž”áž”áž»ážšáž¶ážŽáž•áŸ’áž‘áž¶áž›áŸ‹ážáŸ’áž›áž½áž“
+âŒ ážáž¶áž˜ážŠáž¶áž“áž¥ážšáž·áž™áž¶áž”ážáž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹ážŸáž˜áŸ’ážšáž¶áž”áŸ‹áž‚áŸ„áž›áž”áŸ†ážŽáž„áž•áŸ’ážŸáž¶áž™áž–áž¶ážŽáž·áž‡áŸ’áž‡áž€áž˜áŸ’áž˜
+âŒáž›áž€áŸ‹áž‘áž·áž“áŸ’áž“áž“áŸáž™áž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„áž¯áž€áž‡áž“
+âŒáž€áž¶ážšáž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹áž‘áž·áž“áŸ’áž“áž“áŸáž™ AI ážŠáŸ‚áž›áž›áž¶áž€áŸ‹
+âŒ ážŸáŸ„ážšáž”áž»áž–áŸ’ážœáž›áž¶áž—
+âŒ ážŠáŸ‚áž“áž€áŸ†ážŽážáŸ‹áž“áŸƒáž€áž¶ážšážˆáž¶áž“ážŠáž›áŸ‹ážŸáž·áž”áŸ’áž”áž“áž·áž˜áŸ’áž˜áž·ážážŸáž˜áŸ’ážšáž¶áž”áŸ‹áž€áž¶ážšážšáž€áž”áŸ’ážšáž¶áž€áŸ‹
+âŒ áž‘áž‘áž½áž›áž¥áž‘áŸ’áž’áž·áž–áž›áž“áž™áŸ„áž”áž¶áž™
+âŒ áž€áž¶ážšáž‘áž·áž‰áž€áž¶ážšážŸáž˜áŸ’ážšáŸáž…áž…áž·ážáŸ’ážážŸáŸ†ážšáž”ážŸáŸ†ážšáž½áž›ážŠáŸ‚áž›áž˜áž¶áž“ážŸáž·áž‘áŸ’áž’áž·áŸ”
 
-### 9. ស្ថាបត្យកម្មបឋម
-`` អត្ថបទ
+### 9. ážŸáŸ’ážáž¶áž”ážáŸ’áž™áž€áž˜áŸ’áž˜áž”áž‹áž˜
+`` áž¢ážáŸ’ážáž”áž‘
                          NEXUS GAJA
-                              │
-             ┌─────────────────────────────────────┐
-             │ │ │
-             ▼ ▼ ▼
-          សហគ្រាសអង្គការអ្នកប្រើប្រាស់
-             │ │ │
-             └─────────────────────────────────────┘
-                              │
-                       សេវាកម្មវេទិកា
-                              │
-          ┌──────────────────── ┼──────────────────
-          ▼ ▼ ▼
+                              â”‚
+             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+             â”‚ â”‚ â”‚
+             â–¼ â–¼ â–¼
+          ážŸáž áž‚áŸ’ážšáž¶ážŸáž¢áž„áŸ’áž‚áž€áž¶ážšáž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹
+             â”‚ â”‚ â”‚
+             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+                              â”‚
+                       ážŸáŸážœáž¶áž€áž˜áŸ’áž˜ážœáŸáž‘áž·áž€áž¶
+                              â”‚
+          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+          â–¼ â–¼ â–¼
        PREMIUM DONATIONS API
-                              │
-                    ┌──────────┴─────────┐
-                    ▼ ▼
-               មូលនិធិទូទៅ មូលនិធិដែលបានដាក់កម្រិត
-                                        │
-                                        ▼
-                                  គោលបំណងសង្គម
+                              â”‚
+                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+                    â–¼ â–¼
+               áž˜áž¼áž›áž“áž·áž’áž·áž‘áž¼áž‘áŸ… áž˜áž¼áž›áž“áž·áž’áž·ážŠáŸ‚áž›áž”áž¶áž“ážŠáž¶áž€áŸ‹áž€áž˜áŸ’ážšáž·áž
+                                        â”‚
+                                        â–¼
+                                  áž‚áŸ„áž›áž”áŸ†ážŽáž„ážŸáž„áŸ’áž‚áž˜
 ```
 
-### សង្ខេប៖ គោលការណ៍ហិរញ្ញប្បទាន (NG-FIN)
-- **NG-FIN-001:** Nexus Gaja មិនត្រូវបានផ្តល់ហិរញ្ញប្បទានដោយការផ្សាយពាណិជ្ជកម្មបែបប្រពៃណីទេ។
-- **NG-FIN-002:** ការគាំទ្រផ្នែកហិរញ្ញវត្ថុមិនបង្កើតឥទ្ធិពលលើការសម្របសម្រួល ឬអភិបាលកិច្ចទេ។
-- **NG-FIN-003:** ទិន្នន័យអ្នកប្រើប្រាស់ផ្ទាល់ខ្លួនមិនមែនជាទំនិញទេ។
-- **NG-FIN-004:** មុខងារទំនាក់ទំនងអន្តរជាតិជាមូលដ្ឋានគួរតែនៅតែអាចចូលប្រើបានដោយមិនចាំបាច់បង់ប្រាក់។
-- **NG-FIN-005:** ពិសេសផ្តល់ជូនពង្រីកវិសាលភាពនៃសេវាកម្ម ប៉ុន្តែមិនត្រូវធ្វើឱ្យខូចកិត្តិយស និងជម្រើសនៃការទំនាក់ទំនងជាមូលដ្ឋានរបស់អ្នកប្រើប្រាស់ដោយឥតគិតថ្លៃនោះទេ។
-- **NG-FIN-006:** មូលនិធិដែលបានកំណត់ត្រូវបានគ្រប់គ្រងសម្រាប់គោលបំណងជាក់លាក់មួយ។
-- **NG-FIN-007:** ការបរិច្ចាគ និងមូលនិធិត្រូវបានគ្រប់គ្រងប្រកបដោយតម្លាភាព និងគ្រប់ជ្រុងជ្រោយ។
-- **NG-FIN-008:** សេវាកម្មពាណិជ្ជកម្មមិនត្រូវប៉ះពាល់ដល់ឯករាជ្យភាពនៃវេទិកានោះទេ។
-- **NG-FIN-009:** ការអភិវឌ្ឍន៍សេដ្ឋកិច្ចរបស់ Nexus Gaja គួរតែសំដៅទៅលើនិរន្តរភាពរយៈពេលវែង និងមិនមែនដើម្បីរកប្រាក់ពីអ្នកប្រើប្រាស់អតិបរមានោះទេ។
-- **NG-FIN-010:** រចនាសម្ព័ន្ធសេដ្ឋកិច្ចគួរតែអនុញ្ញាតជាអចិន្ត្រៃយ៍នូវគោលបំណងសង្គម - ការយល់ដឹងអន្តរជាតិ ការទំនាក់ទំនងអន្តរជាតិ និងមិត្តភាពរវាងប្រជាជន។
+### ážŸáž„áŸ’ážáŸáž”áŸ– áž‚áŸ„áž›áž€áž¶ážšážŽáŸáž áž·ážšáž‰áŸ’áž‰áž”áŸ’áž”áž‘áž¶áž“ (NG-FIN)
+- **NG-FIN-001:** Nexus Gaja áž˜áž·áž“ážáŸ’ážšáž¼ážœáž”áž¶áž“áž•áŸ’ážáž›áŸ‹áž áž·ážšáž‰áŸ’áž‰áž”áŸ’áž”áž‘áž¶áž“ážŠáŸ„áž™áž€áž¶ážšáž•áŸ’ážŸáž¶áž™áž–áž¶ážŽáž·áž‡áŸ’áž‡áž€áž˜áŸ’áž˜áž”áŸ‚áž”áž”áŸ’ážšáž–áŸƒážŽáž¸áž‘áŸáŸ”
+- **NG-FIN-002:** áž€áž¶ážšáž‚áž¶áŸ†áž‘áŸ’ážšáž•áŸ’áž“áŸ‚áž€áž áž·ážšáž‰áŸ’áž‰ážœážáŸ’ážáž»áž˜áž·áž“áž”áž„áŸ’áž€áž¾ážáž¥áž‘áŸ’áž’áž·áž–áž›áž›áž¾áž€áž¶ážšážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž› áž¬áž¢áž—áž·áž”áž¶áž›áž€áž·áž…áŸ’áž…áž‘áŸáŸ”
+- **NG-FIN-003:** áž‘áž·áž“áŸ’áž“áž“áŸáž™áž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹áž•áŸ’áž‘áž¶áž›áŸ‹ážáŸ’áž›áž½áž“áž˜áž·áž“áž˜áŸ‚áž“áž‡áž¶áž‘áŸ†áž“áž·áž‰áž‘áŸáŸ”
+- **NG-FIN-004:** áž˜áž»ážáž„áž¶ážšáž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„áž¢áž“áŸ’ážážšáž‡áž¶ážáž·áž‡áž¶áž˜áž¼áž›ážŠáŸ’áž‹áž¶áž“áž‚áž½ážšážáŸ‚áž“áŸ…ážáŸ‚áž¢áž¶áž…áž…áž¼áž›áž”áŸ’ážšáž¾áž”áž¶áž“ážŠáŸ„áž™áž˜áž·áž“áž…áž¶áŸ†áž”áž¶áž…áŸ‹áž”áž„áŸ‹áž”áŸ’ážšáž¶áž€áŸ‹áŸ”
+- **NG-FIN-005:** áž–áž·ážŸáŸážŸáž•áŸ’ážáž›áŸ‹áž‡áž¼áž“áž–áž„áŸ’ážšáž¸áž€ážœáž·ážŸáž¶áž›áž—áž¶áž–áž“áŸƒážŸáŸážœáž¶áž€áž˜áŸ’áž˜ áž”áŸ‰áž»áž“áŸ’ážáŸ‚áž˜áž·áž“ážáŸ’ážšáž¼ážœáž’áŸ’ážœáž¾áž±áŸ’áž™ážáž¼áž…áž€áž·ážáŸ’ážáž·áž™ážŸ áž“áž·áž„áž‡áž˜áŸ’ážšáž¾ážŸáž“áŸƒáž€áž¶ážšáž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„áž‡áž¶áž˜áž¼áž›ážŠáŸ’áž‹áž¶áž“ážšáž”ážŸáŸ‹áž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹ážŠáŸ„áž™áž¥ážáž‚áž·ážážáŸ’áž›áŸƒáž“áŸ„áŸ‡áž‘áŸáŸ”
+- **NG-FIN-006:** áž˜áž¼áž›áž“áž·áž’áž·ážŠáŸ‚áž›áž”áž¶áž“áž€áŸ†ážŽážáŸ‹ážáŸ’ážšáž¼ážœáž”áž¶áž“áž‚áŸ’ážšáž”áŸ‹áž‚áŸ’ážšáž„ážŸáž˜áŸ’ážšáž¶áž”áŸ‹áž‚áŸ„áž›áž”áŸ†ážŽáž„áž‡áž¶áž€áŸ‹áž›áž¶áž€áŸ‹áž˜áž½áž™áŸ”
+- **NG-FIN-007:** áž€áž¶ážšáž”ážšáž·áž…áŸ’áž…áž¶áž‚ áž“áž·áž„áž˜áž¼áž›áž“áž·áž’áž·ážáŸ’ážšáž¼ážœáž”áž¶áž“áž‚áŸ’ážšáž”áŸ‹áž‚áŸ’ážšáž„áž”áŸ’ážšáž€áž”ážŠáŸ„áž™ážáž˜áŸ’áž›áž¶áž—áž¶áž– áž“áž·áž„áž‚áŸ’ážšáž”áŸ‹áž‡áŸ’ážšáž»áž„áž‡áŸ’ážšáŸ„áž™áŸ”
+- **NG-FIN-008:** ážŸáŸážœáž¶áž€áž˜áŸ’áž˜áž–áž¶ážŽáž·áž‡áŸ’áž‡áž€áž˜áŸ’áž˜áž˜áž·áž“ážáŸ’ážšáž¼ážœáž”áŸ‰áŸ‡áž–áž¶áž›áŸ‹ážŠáž›áŸ‹áž¯áž€ážšáž¶áž‡áŸ’áž™áž—áž¶áž–áž“áŸƒážœáŸáž‘áž·áž€áž¶áž“áŸ„áŸ‡áž‘áŸáŸ”
+- **NG-FIN-009:** áž€áž¶ážšáž¢áž—áž·ážœážŒáŸ’ážáž“áŸážŸáŸážŠáŸ’áž‹áž€áž·áž…áŸ’áž…ážšáž”ážŸáŸ‹ Nexus Gaja áž‚áž½ážšážáŸ‚ážŸáŸ†ážŠáŸ…áž‘áŸ…áž›áž¾áž“áž·ážšáž“áŸ’ážážšáž—áž¶áž–ážšáž™áŸˆáž–áŸáž›ážœáŸ‚áž„ áž“áž·áž„áž˜áž·áž“áž˜áŸ‚áž“ážŠáž¾áž˜áŸ’áž”áž¸ážšáž€áž”áŸ’ážšáž¶áž€áŸ‹áž–áž¸áž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹áž¢ážáž·áž”ážšáž˜áž¶áž“áŸ„áŸ‡áž‘áŸáŸ”
+- **NG-FIN-010:** ážšáž…áž“áž¶ážŸáž˜áŸ’áž–áŸáž“áŸ’áž’ážŸáŸážŠáŸ’áž‹áž€áž·áž…áŸ’áž…áž‚áž½ážšážáŸ‚áž¢áž“áž»áž‰áŸ’áž‰áž¶ážáž‡áž¶áž¢áž…áž·áž“áŸ’ážáŸ’ážšáŸƒáž™áŸáž“áž¼ážœáž‚áŸ„áž›áž”áŸ†ážŽáž„ážŸáž„áŸ’áž‚áž˜ - áž€áž¶ážšáž™áž›áŸ‹ážŠáž¹áž„áž¢áž“áŸ’ážážšáž‡áž¶ážáž· áž€áž¶ážšáž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„áž¢áž“áŸ’ážážšáž‡áž¶ážáž· áž“áž·áž„áž˜áž·ážáŸ’ážáž—áž¶áž–ážšážœáž¶áž„áž”áŸ’ážšáž‡áž¶áž‡áž“áŸ”
 
-## API, ចំណុចប្រទាក់ និងស្ថាបត្យកម្មទំនាក់ទំនង (WP 1.11.3)
+## API, áž…áŸ†ážŽáž»áž…áž”áŸ’ážšáž‘áž¶áž€áŸ‹ áž“áž·áž„ážŸáŸ’ážáž¶áž”ážáŸ’áž™áž€áž˜áŸ’áž˜áž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„ (WP 1.11.3)
 
-ដើម្បីធានាបាននូវស្ថេរភាពប្រព័ន្ធ សុវត្ថិភាព និងការធ្វើមាត្រដ្ឋាន Nexus Gaja អនុវត្តតាមស្ថាបត្យកម្ម API យ៉ាងតឹងរ៉ឹង និងផ្អែកលើព្រឹត្តិការណ៍។
+ážŠáž¾áž˜áŸ’áž”áž¸áž’áž¶áž“áž¶áž”áž¶áž“áž“áž¼ážœážŸáŸ’ážáŸážšáž—áž¶áž–áž”áŸ’ážšáž–áŸáž“áŸ’áž’ ážŸáž»ážœážáŸ’ážáž·áž—áž¶áž– áž“áž·áž„áž€áž¶ážšáž’áŸ’ážœáž¾áž˜áž¶ážáŸ’ážšážŠáŸ’áž‹áž¶áž“ Nexus Gaja áž¢áž“áž»ážœážáŸ’ážážáž¶áž˜ážŸáŸ’ážáž¶áž”ážáŸ’áž™áž€áž˜áŸ’áž˜ API áž™áŸ‰áž¶áž„ážáž¹áž„ážšáŸ‰áž¹áž„ áž“áž·áž„áž•áŸ’áž¢áŸ‚áž€áž›áž¾áž–áŸ’ážšáž¹ážáŸ’ážáž·áž€áž¶ážšážŽáŸáŸ”
 
-### គោលការណ៍ជាមូលដ្ឋាន
-- **គ្មានការចូលប្រើមូលដ្ឋានទិន្នន័យដោយផ្ទាល់៖** សមាសធាតុទំនាក់ទំនងទាំងស្រុងតាមរយៈចំណុចប្រទាក់ដែលបានកំណត់ (APIs ឬព្រឹត្តិការណ៍) មិនដែលតាមរយៈសំណួរមូលដ្ឋានទិន្នន័យដោយផ្ទាល់ពីសេវាកម្មផ្សេងទៀត។
-- **API Gateway:** រាល់សំណើអតិថិជនខាងក្រៅទាំងអស់ឆ្លងកាត់ API Gateway ដែលគ្រប់គ្រងការផ្ទៀងផ្ទាត់ ការកំណត់ផ្លូវ និងអត្រាការប្រាក់។
-- ** អរូបីអ្នកផ្តល់សេវា៖ ** សេវាកម្មខាងក្រៅ (ម៉ូដែល AI, អ្នកផ្តល់ការទូទាត់, ម៉ាស៊ីនបកប្រែ) ត្រូវបានរួមបញ្ចូលតាមរយៈស្រទាប់អរូបី។ វាការពារភាពអាស្រ័យនៃខ្សែរឹង និងអនុញ្ញាតឱ្យមានការប្តូរអ្នកផ្តល់សេវាដែលអាចបត់បែនបាន។
+### áž‚áŸ„áž›áž€áž¶ážšážŽáŸáž‡áž¶áž˜áž¼áž›ážŠáŸ’áž‹áž¶áž“
+- **áž‚áŸ’áž˜áž¶áž“áž€áž¶ážšáž…áž¼áž›áž”áŸ’ážšáž¾áž˜áž¼áž›ážŠáŸ’áž‹áž¶áž“áž‘áž·áž“áŸ’áž“áž“áŸáž™ážŠáŸ„áž™áž•áŸ’áž‘áž¶áž›áŸ‹áŸ–** ážŸáž˜áž¶ážŸáž’áž¶ážáž»áž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„áž‘áž¶áŸ†áž„ážŸáŸ’ážšáž»áž„ážáž¶áž˜ážšáž™áŸˆáž…áŸ†ážŽáž»áž…áž”áŸ’ážšáž‘áž¶áž€áŸ‹ážŠáŸ‚áž›áž”áž¶áž“áž€áŸ†ážŽážáŸ‹ (APIs áž¬áž–áŸ’ážšáž¹ážáŸ’ážáž·áž€áž¶ážšážŽáŸ) áž˜áž·áž“ážŠáŸ‚áž›ážáž¶áž˜ážšáž™áŸˆážŸáŸ†ážŽáž½ážšáž˜áž¼áž›ážŠáŸ’áž‹áž¶áž“áž‘áž·áž“áŸ’áž“áž“áŸáž™ážŠáŸ„áž™áž•áŸ’áž‘áž¶áž›áŸ‹áž–áž¸ážŸáŸážœáž¶áž€áž˜áŸ’áž˜áž•áŸ’ážŸáŸáž„áž‘áŸ€ážáŸ”
+- **API Gateway:** ážšáž¶áž›áŸ‹ážŸáŸ†ážŽáž¾áž¢ážáž·ážáž·áž‡áž“ážáž¶áž„áž€áŸ’ážšáŸ…áž‘áž¶áŸ†áž„áž¢ážŸáŸ‹áž†áŸ’áž›áž„áž€áž¶ážáŸ‹ API Gateway ážŠáŸ‚áž›áž‚áŸ’ážšáž”áŸ‹áž‚áŸ’ážšáž„áž€áž¶ážšáž•áŸ’áž‘áŸ€áž„áž•áŸ’áž‘áž¶ážáŸ‹ áž€áž¶ážšáž€áŸ†ážŽážáŸ‹áž•áŸ’áž›áž¼ážœ áž“áž·áž„áž¢ážáŸ’ážšáž¶áž€áž¶ážšáž”áŸ’ážšáž¶áž€áŸ‹áŸ”
+- ** áž¢ážšáž¼áž”áž¸áž¢áŸ’áž“áž€áž•áŸ’ážáž›áŸ‹ážŸáŸážœáž¶áŸ– ** ážŸáŸážœáž¶áž€áž˜áŸ’áž˜ážáž¶áž„áž€áŸ’ážšáŸ… (áž˜áŸ‰áž¼ážŠáŸ‚áž› AI, áž¢áŸ’áž“áž€áž•áŸ’ážáž›áŸ‹áž€áž¶ážšáž‘áž¼áž‘áž¶ážáŸ‹, áž˜áŸ‰áž¶ážŸáŸŠáž¸áž“áž”áž€áž”áŸ’ážšáŸ‚) ážáŸ’ážšáž¼ážœáž”áž¶áž“ážšáž½áž˜áž”áž‰áŸ’áž…áž¼áž›ážáž¶áž˜ážšáž™áŸˆážŸáŸ’ážšáž‘áž¶áž”áŸ‹áž¢ážšáž¼áž”áž¸áŸ” ážœáž¶áž€áž¶ážšáž–áž¶ážšáž—áž¶áž–áž¢áž¶ážŸáŸ’ážšáŸáž™áž“áŸƒážáŸ’ážŸáŸ‚ážšáž¹áž„ áž“áž·áž„áž¢áž“áž»áž‰áŸ’áž‰áž¶ážáž±áŸ’áž™áž˜áž¶áž“áž€áž¶ážšáž”áŸ’ážáž¼ážšáž¢áŸ’áž“áž€áž•áŸ’ážáž›áŸ‹ážŸáŸážœáž¶ážŠáŸ‚áž›áž¢áž¶áž…áž”ážáŸ‹áž”áŸ‚áž“áž”áž¶áž“áŸ”
 
-### គំរូទំនាក់ទំនង
-- ** APIs សមកាលកម្ម (REST/HTTPS):** ប្រើសម្រាប់សំណើភ្លាមៗ ដូចជាការចូល ការកំណត់ទម្រង់ ឬការបកប្រែដោយផ្ទាល់។
-- **ព្រឹត្តិការណ៍ Asynchronous (Event Bus):** ប្រព័ន្ធសរសៃប្រសាទកណ្តាលរបស់ Nexus Gaja សម្រាប់ដំណើរការដែលបានបំបែក (ឧ. `Message.Created` បង្កឱ្យមានការសម្របសម្រួល ការបកប្រែ និងការជូនដំណឹងដោយអសមកាល)។
-- **ពេលវេលាពិត (WebSocket)៖** បណ្តាញពិសេសសម្រាប់ការជជែកផ្ទាល់ និងស្ថានភាពវាយបញ្ចូល។
+### áž‚áŸ†ážšáž¼áž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„
+- ** APIs ážŸáž˜áž€áž¶áž›áž€áž˜áŸ’áž˜ (REST/HTTPS):** áž”áŸ’ážšáž¾ážŸáž˜áŸ’ážšáž¶áž”áŸ‹ážŸáŸ†ážŽáž¾áž—áŸ’áž›áž¶áž˜áŸ— ážŠáž¼áž…áž‡áž¶áž€áž¶ážšáž…áž¼áž› áž€áž¶ážšáž€áŸ†ážŽážáŸ‹áž‘áž˜áŸ’ážšáž„áŸ‹ áž¬áž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚ážŠáŸ„áž™áž•áŸ’áž‘áž¶áž›áŸ‹áŸ”
+- **áž–áŸ’ážšáž¹ážáŸ’ážáž·áž€áž¶ážšážŽáŸ Asynchronous (Event Bus):** áž”áŸ’ážšáž–áŸáž“áŸ’áž’ážŸážšážŸáŸƒáž”áŸ’ážšážŸáž¶áž‘áž€ážŽáŸ’ážáž¶áž›ážšáž”ážŸáŸ‹ Nexus Gaja ážŸáž˜áŸ’ážšáž¶áž”áŸ‹ážŠáŸ†ážŽáž¾ážšáž€áž¶ážšážŠáŸ‚áž›áž”áž¶áž“áž”áŸ†áž”áŸ‚áž€ (áž§. `Message.Created` áž”áž„áŸ’áž€áž±áŸ’áž™áž˜áž¶áž“áž€áž¶ážšážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž› áž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚ áž“áž·áž„áž€áž¶ážšáž‡áž¼áž“ážŠáŸ†ážŽáž¹áž„ážŠáŸ„áž™áž¢ážŸáž˜áž€áž¶áž›)áŸ”
+- **áž–áŸáž›ážœáŸáž›áž¶áž–áž·áž (WebSocket)áŸ–** áž”ážŽáŸ’ážáž¶áž‰áž–áž·ážŸáŸážŸážŸáž˜áŸ’ážšáž¶áž”áŸ‹áž€áž¶ážšáž‡áž‡áŸ‚áž€áž•áŸ’áž‘áž¶áž›áŸ‹ áž“áž·áž„ážŸáŸ’ážáž¶áž“áž—áž¶áž–ážœáž¶áž™áž”áž‰áŸ’áž…áž¼áž›áŸ”
 
-### សុវត្ថិភាព និងភាពជឿជាក់
-- ** Zero Trust Model:** ចរាចរបណ្តាញខាងក្នុងមិនត្រូវបានទុកចិត្តដោយស្វ័យប្រវត្តិទេ។ ការប្រាស្រ័យទាក់ទងពីសេវាកម្មទៅសេវារសើបទាមទារការផ្ទៀងផ្ទាត់។
-- ** Idempotence & Outbox Pattern:** ប្រតិបត្តិការសំខាន់ៗ (ដូចជាការបរិច្ចាគ ឬសារ) ត្រូវបានរចនាឡើងដើម្បីឱ្យមានសក្តានុពលដើម្បីការពារដំណើរការជាច្រើន និងប្រើលំនាំប្រអប់ចេញ ដើម្បីធានាថាព្រឹត្តិការណ៍មិនត្រូវបានបាត់បង់សូម្បីតែនៅក្នុងប្រតិបត្តិការមូលដ្ឋានទិន្នន័យក៏ដោយ។
+### ážŸáž»ážœážáŸ’ážáž·áž—áž¶áž– áž“áž·áž„áž—áž¶áž–áž‡áž¿áž‡áž¶áž€áŸ‹
+- ** Zero Trust Model:** áž…ážšáž¶áž…ážšáž”ážŽáŸ’ážáž¶áž‰ážáž¶áž„áž€áŸ’áž“áž»áž„áž˜áž·áž“ážáŸ’ážšáž¼ážœáž”áž¶áž“áž‘áž»áž€áž…áž·ážáŸ’ážážŠáŸ„áž™ážŸáŸ’ážœáŸáž™áž”áŸ’ážšážœážáŸ’ážáž·áž‘áŸáŸ” áž€áž¶ážšáž”áŸ’ážšáž¶ážŸáŸ’ážšáŸáž™áž‘áž¶áž€áŸ‹áž‘áž„áž–áž¸ážŸáŸážœáž¶áž€áž˜áŸ’áž˜áž‘áŸ…ážŸáŸážœáž¶ážšážŸáž¾áž”áž‘áž¶áž˜áž‘áž¶ážšáž€áž¶ážšáž•áŸ’áž‘áŸ€áž„áž•áŸ’áž‘áž¶ážáŸ‹áŸ”
+- ** Idempotence & Outbox Pattern:** áž”áŸ’ážšážáž·áž”ážáŸ’ážáž·áž€áž¶ážšážŸáŸ†ážáž¶áž“áŸ‹áŸ— (ážŠáž¼áž…áž‡áž¶áž€áž¶ážšáž”ážšáž·áž…áŸ’áž…áž¶áž‚ áž¬ážŸáž¶ážš) ážáŸ’ážšáž¼ážœáž”áž¶áž“ážšáž…áž“áž¶áž¡áž¾áž„ážŠáž¾áž˜áŸ’áž”áž¸áž±áŸ’áž™áž˜áž¶áž“ážŸáž€áŸ’ážáž¶áž“áž»áž–áž›ážŠáž¾áž˜áŸ’áž”áž¸áž€áž¶ážšáž–áž¶ážšážŠáŸ†ážŽáž¾ážšáž€áž¶ážšáž‡áž¶áž…áŸ’ážšáž¾áž“ áž“áž·áž„áž”áŸ’ážšáž¾áž›áŸ†áž“áž¶áŸ†áž”áŸ’ážšáž¢áž”áŸ‹áž…áŸáž‰ ážŠáž¾áž˜áŸ’áž”áž¸áž’áž¶áž“áž¶ážáž¶áž–áŸ’ážšáž¹ážáŸ’ážáž·áž€áž¶ážšážŽáŸáž˜áž·áž“ážáŸ’ážšáž¼ážœáž”áž¶áž“áž”áž¶ážáŸ‹áž”áž„áŸ‹ážŸáž¼áž˜áŸ’áž”áž¸ážáŸ‚áž“áŸ…áž€áŸ’áž“áž»áž„áž”áŸ’ážšážáž·áž”ážáŸ’ážáž·áž€áž¶ážšáž˜áž¼áž›ážŠáŸ’áž‹áž¶áž“áž‘áž·áž“áŸ’áž“áž“áŸáž™áž€áŸážŠáŸ„áž™áŸ”
 
-## គំរូដែន MVP (WP 1.12)
+## áž‚áŸ†ážšáž¼ážŠáŸ‚áž“ MVP (WP 1.12)
 
-![Nexus Gaja Modular Monolith](ទ្រព្យសកម្ម/img/nexus_architecture.jpg)
+![Nexus Gaja Modular Monolith](áž‘áŸ’ážšáž–áŸ’áž™ážŸáž€áž˜áŸ’áž˜/img/nexus_architecture.jpg)
 
-Nexus Gaja ប្រើស្ថាបត្យកម្ម MVP ដែលជំរុញដោយដែនយ៉ាងតឹងរ៉ឹង (ADR-025) ដែលត្រូវបានរចនាឡើងជាម៉ូឌុលលីតដែលមានព្រំដែនច្បាស់លាស់។ រចនាសម្ព័ននេះការពារភាពស្មុគស្មាញនៃសេវាកម្មខ្នាតតូចដំបូង ខណៈពេលដែលរក្សាភាពបត់បែនក្នុងការប្រើប្រាស់ដែនជាក់លាក់នៅពេលក្រោយ។
+Nexus Gaja áž”áŸ’ážšáž¾ážŸáŸ’ážáž¶áž”ážáŸ’áž™áž€áž˜áŸ’áž˜ MVP ážŠáŸ‚áž›áž‡áŸ†ážšáž»áž‰ážŠáŸ„áž™ážŠáŸ‚áž“áž™áŸ‰áž¶áž„ážáž¹áž„ážšáŸ‰áž¹áž„ (ADR-025) ážŠáŸ‚áž›ážáŸ’ážšáž¼ážœáž”áž¶áž“ážšáž…áž“áž¶áž¡áž¾áž„áž‡áž¶áž˜áŸ‰áž¼ážŒáž»áž›áž›áž¸ážážŠáŸ‚áž›áž˜áž¶áž“áž–áŸ’ážšáŸ†ážŠáŸ‚áž“áž…áŸ’áž”áž¶ážŸáŸ‹áž›áž¶ážŸáŸ‹áŸ” ážšáž…áž“áž¶ážŸáž˜áŸ’áž–áŸáž“áž“áŸáŸ‡áž€áž¶ážšáž–áž¶ážšáž—áž¶áž–ážŸáŸ’áž˜áž»áž‚ážŸáŸ’áž˜áž¶áž‰áž“áŸƒážŸáŸážœáž¶áž€áž˜áŸ’áž˜ážáŸ’áž“áž¶ážážáž¼áž…ážŠáŸ†áž”áž¼áž„ ážážŽáŸˆáž–áŸáž›ážŠáŸ‚áž›ážšáž€áŸ’ážŸáž¶áž—áž¶áž–áž”ážáŸ‹áž”áŸ‚áž“áž€áŸ’áž“áž»áž„áž€áž¶ážšáž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹ážŠáŸ‚áž“áž‡áž¶áž€áŸ‹áž›áž¶áž€áŸ‹áž“áŸ…áž–áŸáž›áž€áŸ’ážšáŸ„áž™áŸ”
 
-### អង្គភាពស្នូលបច្ចេកទេស
-ស្ថាបត្យកម្មបំបែកយ៉ាងតឹងរ៉ឹងនូវគោលគំនិត ដើម្បីធានាបាននូវភាពត្រឹមត្រូវនៃទិន្នន័យ និងជៀសវាងកំហុសដូចជា "ឈ្មោះអ្នកប្រើប្រាស់ = មនុស្ស"៖
-- **អត្តសញ្ញាណ និងគណនី៖** `បុគ្គល` ≠ `គណនីអ្នកប្រើប្រាស់` ≠ `ការផ្ទៀងផ្ទាត់អត្តសញ្ញាណ` ។ បុគ្គលដែលបានផ្ទៀងផ្ទាត់ចូលរួមតាមរយៈគណនីតែមួយ ប៉ុន្តែអង្គភាពនៅតែដាច់ដោយឡែក។
-- **ទំនាក់ទំនង៖** `សារ` ≠ `ការបកប្រែ`។ សារដើមគឺមិនអាចផ្លាស់ប្តូរបាន; ការបកប្រែគឺជាអង្គភាពដែលភ្ជាប់។
-- **ការសម្របសម្រួល៖** `របាយការណ៍` ≠ `ការសម្រេចចិត្តសម្របសម្រួល`។ សារគ្រាន់តែជាការចង្អុលបង្ហាញ; អ្នកសម្របសម្រួលធ្វើការស៊ើបអង្កេត។
-- **ហិរញ្ញវត្ថុ៖** `បរិច្ចាក` ≠ `សមតុល្យមូលនិធិ`។ ការទូទាត់មិនត្រូវបានផ្លាស់ប្តូរទៅមូលនិធិតាមរយៈសៀវភៅកត់ត្រា (សៀវភៅសាច់ប្រាក់)។
+### áž¢áž„áŸ’áž‚áž—áž¶áž–ážŸáŸ’áž“áž¼áž›áž”áž…áŸ’áž…áŸáž€áž‘áŸážŸ
+ážŸáŸ’ážáž¶áž”ážáŸ’áž™áž€áž˜áŸ’áž˜áž”áŸ†áž”áŸ‚áž€áž™áŸ‰áž¶áž„ážáž¹áž„ážšáŸ‰áž¹áž„áž“áž¼ážœáž‚áŸ„áž›áž‚áŸ†áž“áž·áž ážŠáž¾áž˜áŸ’áž”áž¸áž’áž¶áž“áž¶áž”áž¶áž“áž“áž¼ážœáž—áž¶áž–ážáŸ’ážšáž¹áž˜ážáŸ’ážšáž¼ážœáž“áŸƒáž‘áž·áž“áŸ’áž“áž“áŸáž™ áž“áž·áž„áž‡áŸ€ážŸážœáž¶áž„áž€áŸ†áž áž»ážŸážŠáž¼áž…áž‡áž¶ "ážˆáŸ’áž˜áŸ„áŸ‡áž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹ = áž˜áž“áž»ážŸáŸ’ážŸ"áŸ–
+- **áž¢ážáŸ’ážážŸáž‰áŸ’áž‰áž¶ážŽ áž“áž·áž„áž‚ážŽáž“áž¸áŸ–** `áž”áž»áž‚áŸ’áž‚áž›` â‰  `áž‚ážŽáž“áž¸áž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹` â‰  `áž€áž¶ážšáž•áŸ’áž‘áŸ€áž„áž•áŸ’áž‘áž¶ážáŸ‹áž¢ážáŸ’ážážŸáž‰áŸ’áž‰áž¶ážŽ` áŸ” áž”áž»áž‚áŸ’áž‚áž›ážŠáŸ‚áž›áž”áž¶áž“áž•áŸ’áž‘áŸ€áž„áž•áŸ’áž‘áž¶ážáŸ‹áž…áž¼áž›ážšáž½áž˜ážáž¶áž˜ážšáž™áŸˆáž‚ážŽáž“áž¸ážáŸ‚áž˜áž½áž™ áž”áŸ‰áž»áž“áŸ’ážáŸ‚áž¢áž„áŸ’áž‚áž—áž¶áž–áž“áŸ…ážáŸ‚ážŠáž¶áž…áŸ‹ážŠáŸ„áž™áž¡áŸ‚áž€áŸ”
+- **áž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„áŸ–** `ážŸáž¶ážš` â‰  `áž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚`áŸ” ážŸáž¶ážšážŠáž¾áž˜áž‚ážºáž˜áž·áž“áž¢áž¶áž…áž•áŸ’áž›áž¶ážŸáŸ‹áž”áŸ’ážáž¼ážšáž”áž¶áž“; áž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚áž‚ážºáž‡áž¶áž¢áž„áŸ’áž‚áž—áž¶áž–ážŠáŸ‚áž›áž—áŸ’áž‡áž¶áž”áŸ‹áŸ”
+- **áž€áž¶ážšážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž›áŸ–** `ážšáž”áž¶áž™áž€áž¶ážšážŽáŸ` â‰  `áž€áž¶ážšážŸáž˜áŸ’ážšáŸáž…áž…áž·ážáŸ’ážážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž›`áŸ” ážŸáž¶ážšáž‚áŸ’ážšáž¶áž“áŸ‹ážáŸ‚áž‡áž¶áž€áž¶ážšáž…áž„áŸ’áž¢áž»áž›áž”áž„áŸ’áž áž¶áž‰; áž¢áŸ’áž“áž€ážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž›áž’áŸ’ážœáž¾áž€áž¶ážšážŸáŸŠáž¾áž”áž¢áž„áŸ’áž€áŸážáŸ”
+- **áž áž·ážšáž‰áŸ’áž‰ážœážáŸ’ážáž»áŸ–** `áž”ážšáž·áž…áŸ’áž…áž¶áž€` â‰  `ážŸáž˜ážáž»áž›áŸ’áž™áž˜áž¼áž›áž“áž·áž’áž·`áŸ” áž€áž¶ážšáž‘áž¼áž‘áž¶ážáŸ‹áž˜áž·áž“ážáŸ’ážšáž¼ážœáž”áž¶áž“áž•áŸ’áž›áž¶ážŸáŸ‹áž”áŸ’ážáž¼ážšáž‘áŸ…áž˜áž¼áž›áž“áž·áž’áž·ážáž¶áž˜ážšáž™áŸˆážŸáŸ€ážœáž—áŸ…áž€ážáŸ‹ážáŸ’ážšáž¶ (ážŸáŸ€ážœáž—áŸ…ážŸáž¶áž…áŸ‹áž”áŸ’ážšáž¶áž€áŸ‹)áŸ”
 
-### ដែនប្រធានបទដែលបានតភ្ជាប់
-ប្រព័ន្ធនេះត្រូវបានបែងចែកទៅជាដែនឡូជីខល (បរិបទដែលមានព្រំដែន): អត្តសញ្ញាណ គណនី អង្គការ ការទំនាក់ទំនង សហគមន៍ ភាសា ការសម្របសម្រួល ការជូនដំណឹង ហិរញ្ញវត្ថុ និងអភិបាលកិច្ច។ ពួកគេតំណាងឱ្យខ្សែសង្វាក់ទាំងមូលពីតួអង្គពិត (អ្នកប្រើប្រាស់ សាលារៀន អង្គការក្រៅរដ្ឋាភិបាល) ដល់អន្តរកម្មឌីជីថលរបស់ពួកគេ។
+### ážŠáŸ‚áž“áž”áŸ’ážšáž’áž¶áž“áž”áž‘ážŠáŸ‚áž›áž”áž¶áž“ážáž—áŸ’áž‡áž¶áž”áŸ‹
+áž”áŸ’ážšáž–áŸáž“áŸ’áž’áž“áŸáŸ‡ážáŸ’ážšáž¼ážœáž”áž¶áž“áž”áŸ‚áž„áž…áŸ‚áž€áž‘áŸ…áž‡áž¶ážŠáŸ‚áž“áž¡áž¼áž‡áž¸ážáž› (áž”ážšáž·áž”áž‘ážŠáŸ‚áž›áž˜áž¶áž“áž–áŸ’ážšáŸ†ážŠáŸ‚áž“): áž¢ážáŸ’ážážŸáž‰áŸ’áž‰áž¶ážŽ áž‚ážŽáž“áž¸ áž¢áž„áŸ’áž‚áž€áž¶ážš áž€áž¶ážšáž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„ ážŸáž áž‚áž˜áž“áŸ áž—áž¶ážŸáž¶ áž€áž¶ážšážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž› áž€áž¶ážšáž‡áž¼áž“ážŠáŸ†ážŽáž¹áž„ áž áž·ážšáž‰áŸ’áž‰ážœážáŸ’ážáž» áž“áž·áž„áž¢áž—áž·áž”áž¶áž›áž€áž·áž…áŸ’áž…áŸ” áž–áž½áž€áž‚áŸážáŸ†ážŽáž¶áž„áž±áŸ’áž™ážáŸ’ážŸáŸ‚ážŸáž„áŸ’ážœáž¶áž€áŸ‹áž‘áž¶áŸ†áž„áž˜áž¼áž›áž–áž¸ážáž½áž¢áž„áŸ’áž‚áž–áž·áž (áž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹ ážŸáž¶áž›áž¶ážšáŸ€áž“ áž¢áž„áŸ’áž‚áž€áž¶ážšáž€áŸ’ážšáŸ…ážšážŠáŸ’áž‹áž¶áž—áž·áž”áž¶áž›) ážŠáž›áŸ‹áž¢áž“áŸ’ážážšáž€áž˜áŸ’áž˜ážŒáž¸áž‡áž¸ážáž›ážšáž”ážŸáŸ‹áž–áž½áž€áž‚áŸáŸ”
 
-## ស្ថានភាពគម្រោង
-គម្រោងនេះស្ថិតក្នុងដំណាក់កាលស្ថាបត្យកម្ម និងផែនការសកម្ម។
-ការសម្រេចចិត្តស្ថាបត្យកម្មដែលកំពុងដំណើរការត្រូវបានចងក្រងជាឯកសារនៅក្នុងថត `/docs`។
+## ážŸáŸ’ážáž¶áž“áž—áž¶áž–áž‚áž˜áŸ’ážšáŸ„áž„
+áž‚áž˜áŸ’ážšáŸ„áž„áž“áŸáŸ‡ážŸáŸ’ážáž·ážáž€áŸ’áž“áž»áž„ážŠáŸ†ážŽáž¶áž€áŸ‹áž€áž¶áž›ážŸáŸ’ážáž¶áž”ážáŸ’áž™áž€áž˜áŸ’áž˜ áž“áž·áž„áž•áŸ‚áž“áž€áž¶ážšážŸáž€áž˜áŸ’áž˜áŸ”
+áž€áž¶ážšážŸáž˜áŸ’ážšáŸáž…áž…áž·ážáŸ’ážážŸáŸ’ážáž¶áž”ážáŸ’áž™áž€áž˜áŸ’áž˜ážŠáŸ‚áž›áž€áŸ†áž–áž»áž„ážŠáŸ†ážŽáž¾ážšáž€áž¶ážšážáŸ’ážšáž¼ážœáž”áž¶áž“áž…áž„áž€áŸ’ážšáž„áž‡áž¶áž¯áž€ážŸáž¶ážšáž“áŸ…áž€áŸ’áž“áž»áž„ážáž `/docs`áŸ”
 
 ---
 
-## អាជ្ញាប័ណ្ណ និងកម្មសិទ្ធិបញ្ញា
+## áž¢áž¶áž‡áŸ’áž‰áž¶áž”áŸážŽáŸ’ážŽ áž“áž·áž„áž€áž˜áŸ’áž˜ážŸáž·áž‘áŸ’áž’áž·áž”áž‰áŸ’áž‰áž¶
 
-> ** © 2024-2026 SonnerStudio - Jan Friske ស្ថាបនិក ម្ចាស់ នាយក និងអ្នករចនាម៉ូដ SonnerStudio — រក្សាសិទ្ធិគ្រប់យ៉ាង។**
+> ** Â© 2024-2026 SonnerStudio - Jan Friske ážŸáŸ’ážáž¶áž”áž“áž·áž€ áž˜áŸ’áž…áž¶ážŸáŸ‹ áž“áž¶áž™áž€ áž“áž·áž„áž¢áŸ’áž“áž€ážšáž…áž“áž¶áž˜áŸ‰áž¼ážŠ SonnerStudio â€” ážšáž€áŸ’ážŸáž¶ážŸáž·áž‘áŸ’áž’áž·áž‚áŸ’ážšáž”áŸ‹áž™áŸ‰áž¶áž„áŸ”**
 
-**Nexus Gaja** គឺជាកម្មសិទ្ធិបញ្ញាផ្តាច់មុខរបស់ **Jan Friske** ដែលដំណើរការក្រោម **SonnerStudio**។
+**Nexus Gaja** áž‚ážºáž‡áž¶áž€áž˜áŸ’áž˜ážŸáž·áž‘áŸ’áž’áž·áž”áž‰áŸ’áž‰áž¶áž•áŸ’ážáž¶áž…áŸ‹áž˜áž»ážážšáž”ážŸáŸ‹ **Jan Friske** ážŠáŸ‚áž›ážŠáŸ†ážŽáž¾ážšáž€áž¶ážšáž€áŸ’ážšáŸ„áž˜ **SonnerStudio**áŸ”
 
-Jan Friske គឺជាអ្នកបង្កើតតែមួយគត់ ស្ថាបត្យករ និងជាម្ចាស់ Nexus Gaja — រួមទាំងគំនិត ស្ថាបត្យកម្ម ម៉ូដែលដែន អត្តសញ្ញាណម៉ាក និងឯកសារពាក់ព័ន្ធទាំងអស់។
+Jan Friske áž‚ážºáž‡áž¶áž¢áŸ’áž“áž€áž”áž„áŸ’áž€áž¾ážážáŸ‚áž˜áž½áž™áž‚ážáŸ‹ ážŸáŸ’ážáž¶áž”ážáŸ’áž™áž€ážš áž“áž·áž„áž‡áž¶áž˜áŸ’áž…áž¶ážŸáŸ‹ Nexus Gaja â€” ážšáž½áž˜áž‘áž¶áŸ†áž„áž‚áŸ†áž“áž·áž ážŸáŸ’ážáž¶áž”ážáŸ’áž™áž€áž˜áŸ’áž˜ áž˜áŸ‰áž¼ážŠáŸ‚áž›ážŠáŸ‚áž“ áž¢ážáŸ’ážážŸáž‰áŸ’áž‰áž¶ážŽáž˜áŸ‰áž¶áž€ áž“áž·áž„áž¯áž€ážŸáž¶ážšáž–áž¶áž€áŸ‹áž–áŸáž“áŸ’áž’áž‘áž¶áŸ†áž„áž¢ážŸáŸ‹áŸ”
 
-**គ្មានសិទ្ធិ អាជ្ញាប័ណ្ណ ឬផលប្រយោជន៍កម្មសិទ្ធិត្រូវបានផ្តល់ឱ្យភាគីទីបីណាមួយឡើយ** ដោយមិនគិតពីទំហំ ទីតាំងទីផ្សារ ឬឥទ្ធិពលនៅក្នុងឧស្សាហកម្មបច្ចេកវិទ្យា។
+**áž‚áŸ’áž˜áž¶áž“ážŸáž·áž‘áŸ’áž’áž· áž¢áž¶áž‡áŸ’áž‰áž¶áž”áŸážŽáŸ’ážŽ áž¬áž•áž›áž”áŸ’ážšáž™áŸ„áž‡áž“áŸáž€áž˜áŸ’áž˜ážŸáž·áž‘áŸ’áž’áž·ážáŸ’ážšáž¼ážœáž”áž¶áž“áž•áŸ’ážáž›áŸ‹áž±áŸ’áž™áž—áž¶áž‚áž¸áž‘áž¸áž”áž¸ážŽáž¶áž˜áž½áž™áž¡áž¾áž™** ážŠáŸ„áž™áž˜áž·áž“áž‚áž·ážáž–áž¸áž‘áŸ†áž áŸ† áž‘áž¸ážáž¶áŸ†áž„áž‘áž¸áž•áŸ’ážŸáž¶ážš áž¬áž¥áž‘áŸ’áž’áž·áž–áž›áž“áŸ…áž€áŸ’áž“áž»áž„áž§ážŸáŸ’ážŸáž¶áž áž€áž˜áŸ’áž˜áž”áž…áŸ’áž…áŸáž€ážœáž·áž‘áŸ’áž™áž¶áŸ”
 
-### អ្វីដែលមិនត្រូវបានអនុញ្ញាតដោយគ្មានការយល់ព្រមជាលាយលក្ខណ៍អក្សរ៖
-- ❌ចម្លង ផលិតឡើងវិញ ឬចែកចាយកម្មវិធីនេះ ឬឯកសាររបស់វា។
-- ❌ កែប្រែ សម្រប ឬបង្កើតស្នាដៃដេរីវេ
-- ❌ ការប្រើប្រាស់ពាណិជ្ជកម្មនៃផ្នែកណាមួយនៃ Nexus Gaja
-- ❌ ការប្រើប្រាស់មាតិកាឃ្លាំងជា ** ទិន្នន័យបណ្តុះបណ្តាលសម្រាប់ប្រព័ន្ធ AI / LLM **
-- ❌ការអនុញ្ញាតបន្ត ឬផ្ទេរសិទ្ធិទៅឱ្យភាគីទីបី
+### áž¢áŸ’ážœáž¸ážŠáŸ‚áž›áž˜áž·áž“ážáŸ’ážšáž¼ážœáž”áž¶áž“áž¢áž“áž»áž‰áŸ’áž‰áž¶ážážŠáŸ„áž™áž‚áŸ’áž˜áž¶áž“áž€áž¶ážšáž™áž›áŸ‹áž–áŸ’ážšáž˜áž‡áž¶áž›áž¶áž™áž›áž€áŸ’ážážŽáŸáž¢áž€áŸ’ážŸážšáŸ–
+- âŒáž…áž˜áŸ’áž›áž„ áž•áž›áž·ážáž¡áž¾áž„ážœáž·áž‰ áž¬áž…áŸ‚áž€áž…áž¶áž™áž€áž˜áŸ’áž˜ážœáž·áž’áž¸áž“áŸáŸ‡ áž¬áž¯áž€ážŸáž¶ážšážšáž”ážŸáŸ‹ážœáž¶áŸ”
+- âŒ áž€áŸ‚áž”áŸ’ážšáŸ‚ ážŸáž˜áŸ’ážšáž” áž¬áž”áž„áŸ’áž€áž¾ážážŸáŸ’áž“áž¶ážŠáŸƒážŠáŸážšáž¸ážœáŸ
+- âŒ áž€áž¶ážšáž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹áž–áž¶ážŽáž·áž‡áŸ’áž‡áž€áž˜áŸ’áž˜áž“áŸƒáž•áŸ’áž“áŸ‚áž€ážŽáž¶áž˜áž½áž™áž“áŸƒ Nexus Gaja
+- âŒ áž€áž¶ážšáž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹áž˜áž¶ážáž·áž€áž¶ážƒáŸ’áž›áž¶áŸ†áž„áž‡áž¶ ** áž‘áž·áž“áŸ’áž“áž“áŸáž™áž”ážŽáŸ’ážáž»áŸ‡áž”ážŽáŸ’ážáž¶áž›ážŸáž˜áŸ’ážšáž¶áž”áŸ‹áž”áŸ’ážšáž–áŸáž“áŸ’áž’ AI / LLM **
+- âŒáž€áž¶ážšáž¢áž“áž»áž‰áŸ’áž‰áž¶ážáž”áž“áŸ’áž áž¬áž•áŸ’áž‘áŸážšážŸáž·áž‘áŸ’áž’áž·áž‘áŸ…áž±áŸ’áž™áž—áž¶áž‚áž¸áž‘áž¸áž”áž¸
 
-### ការពារកម្មសិទ្ធិបញ្ញា
-គោលគំនិតដើមខាងក្រោមត្រូវបានការពារជាអាថ៌កំបាំងពាណិជ្ជកម្ម និងការបង្កើតកម្មសិទ្ធិរបស់ Jan Friske៖
-- គំរូទំនាក់ទំនងពហុស្រទាប់ * (ការបកស្រាយដើម / ការបកស្រាយន័យ / ការបោះពុម្ពផ្សាយ) *
-- គោលការណ៍បំបែកអត្តសញ្ញាណ *(បុគ្គល≠គណនីអ្នកប្រើប្រាស់≠ការផ្ទៀងផ្ទាត់អត្តសញ្ញាណ)*
-- គំរូបំបែកការបកប្រែសារ * (សារ ≠ ការបកប្រែ)*
-- ក្របខ័ណ្ឌអភិបាលកិច្ចសម្របសម្រួល AI
+### áž€áž¶ážšáž–áž¶ážšáž€áž˜áŸ’áž˜ážŸáž·áž‘áŸ’áž’áž·áž”áž‰áŸ’áž‰áž¶
+áž‚áŸ„áž›áž‚áŸ†áž“áž·ážážŠáž¾áž˜ážáž¶áž„áž€áŸ’ážšáŸ„áž˜ážáŸ’ážšáž¼ážœáž”áž¶áž“áž€áž¶ážšáž–áž¶ážšáž‡áž¶áž¢áž¶ážáŸŒáž€áŸ†áž”áž¶áŸ†áž„áž–áž¶ážŽáž·áž‡áŸ’áž‡áž€áž˜áŸ’áž˜ áž“áž·áž„áž€áž¶ážšáž”áž„áŸ’áž€áž¾ážáž€áž˜áŸ’áž˜ážŸáž·áž‘áŸ’áž’áž·ážšáž”ážŸáŸ‹ Jan FriskeáŸ–
+- áž‚áŸ†ážšáž¼áž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„áž–áž áž»ážŸáŸ’ážšáž‘áž¶áž”áŸ‹ * (áž€áž¶ážšáž”áž€ážŸáŸ’ážšáž¶áž™ážŠáž¾áž˜ / áž€áž¶ážšáž”áž€ážŸáŸ’ážšáž¶áž™áž“áŸáž™ / áž€áž¶ážšáž”áŸ„áŸ‡áž–áž»áž˜áŸ’áž–áž•áŸ’ážŸáž¶áž™) *
+- áž‚áŸ„áž›áž€áž¶ážšážŽáŸáž”áŸ†áž”áŸ‚áž€áž¢ážáŸ’ážážŸáž‰áŸ’áž‰áž¶ážŽ *(áž”áž»áž‚áŸ’áž‚áž›â‰ áž‚ážŽáž“áž¸áž¢áŸ’áž“áž€áž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹â‰ áž€áž¶ážšáž•áŸ’áž‘áŸ€áž„áž•áŸ’áž‘áž¶ážáŸ‹áž¢ážáŸ’ážážŸáž‰áŸ’áž‰áž¶ážŽ)*
+- áž‚áŸ†ážšáž¼áž”áŸ†áž”áŸ‚áž€áž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚ážŸáž¶ážš * (ážŸáž¶ážš â‰  áž€áž¶ážšáž”áž€áž”áŸ’ážšáŸ‚)*
+- áž€áŸ’ážšáž”ážáŸážŽáŸ’ážŒáž¢áž—áž·áž”áž¶áž›áž€áž·áž…áŸ’áž…ážŸáž˜áŸ’ážšáž”ážŸáž˜áŸ’ážšáž½áž› AI
 
-### ទំនាក់ទំនង
-សម្រាប់ការសាកសួរអំពីអាជ្ញាប័ណ្ណ៖ [github.com/SonnerStudio](https://github.com/SonnerStudio)
+### áž‘áŸ†áž“áž¶áž€áŸ‹áž‘áŸ†áž“áž„
+ážŸáž˜áŸ’ážšáž¶áž”áŸ‹áž€áž¶ážšážŸáž¶áž€ážŸáž½ážšáž¢áŸ†áž–áž¸áž¢áž¶áž‡áŸ’áž‰áž¶áž”áŸážŽáŸ’ážŽáŸ– [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-*“Nexus Gaja” និងនិមិត្តសញ្ញា Nexus Gaja គឺជាពាណិជ្ជសញ្ញារបស់ Jan Friske។ ការប្រើប្រាស់ឈ្មោះ ឬពាណិជ្ជសញ្ញាដោយគ្មានការអនុញ្ញាតត្រូវបានហាមឃាត់។*
+*â€œNexus Gajaâ€ áž“áž·áž„áž“áž·áž˜áž·ážáŸ’ážážŸáž‰áŸ’áž‰áž¶ Nexus Gaja áž‚ážºáž‡áž¶áž–áž¶ážŽáž·áž‡áŸ’áž‡ážŸáž‰áŸ’áž‰áž¶ážšáž”ážŸáŸ‹ Jan FriskeáŸ” áž€áž¶ážšáž”áŸ’ážšáž¾áž”áŸ’ážšáž¶ážŸáŸ‹ážˆáŸ’áž˜áŸ„áŸ‡ áž¬áž–áž¶ážŽáž·áž‡áŸ’áž‡ážŸáž‰áŸ’áž‰áž¶ážŠáŸ„áž™áž‚áŸ’áž˜áž¶áž“áž€áž¶ážšáž¢áž“áž»áž‰áŸ’áž‰áž¶ážážáŸ’ážšáž¼ážœáž”áž¶áž“áž áž¶áž˜ážƒáž¶ážáŸ‹áŸ”*
 
-➡️ លក្ខខណ្ឌអាជ្ញាប័ណ្ណពេញលេញនៅក្នុង [អាជ្ញាប័ណ្ណ] (អាជ្ញាប័ណ្ណ)
+âž¡ï¸ áž›áž€áŸ’ážážážŽáŸ’ážŒáž¢áž¶áž‡áŸ’áž‰áž¶áž”áŸážŽáŸ’ážŽáž–áŸáž‰áž›áŸáž‰áž“áŸ…áž€áŸ’áž“áž»áž„ [áž¢áž¶áž‡áŸ’áž‰áž¶áž”áŸážŽáŸ’ážŽ] (áž¢áž¶áž‡áŸ’áž‰áž¶áž”áŸážŽáŸ’ážŽ)

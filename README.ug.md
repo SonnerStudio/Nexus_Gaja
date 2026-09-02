@@ -1,377 +1,383 @@
-# Nexus Gaja
+﻿# Nexus Gaja
 
-> * خەلقئارا تىنچلىق ۋە خەلقئارا چۈشىنىش ئۈچۈن *
+> * Ø®Û•Ù„Ù‚Ø¦Ø§Ø±Ø§ ØªÙ‰Ù†Ú†Ù„Ù‰Ù‚ Û‹Û• Ø®Û•Ù„Ù‚Ø¦Ø§Ø±Ø§ Ú†ÛˆØ´Ù‰Ù†Ù‰Ø´ Ø¦ÛˆÚ†ÛˆÙ† *
 
 
-! [Nexus Gaja Logo] (مۈلۈك / logo.jpg)
+! [Nexus Gaja Logo] (Ù…ÛˆÙ„ÛˆÙƒ / logo.jpg)
 
-! [Nexus Gaja Hero] (مۈلۈك / img / nexus_hero.jpg)
+! [Nexus Gaja Hero] (Ù…ÛˆÙ„ÛˆÙƒ / img / nexus_hero.jpg)
+
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
 
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
+
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 
-** Nexus Gaja ** يەرشارى ئالاقىسىنى ئىنقىلاب قىلىش ئۈچۈن لايىھەلەنگەن ئەقلىي ئىقتىدارلىق ، مەزمۇننى بىلىدىغان ئالاقە تورى.
+** Nexus Gaja ** ÙŠÛ•Ø±Ø´Ø§Ø±Ù‰ Ø¦Ø§Ù„Ø§Ù‚Ù‰Ø³Ù‰Ù†Ù‰ Ø¦Ù‰Ù†Ù‚Ù‰Ù„Ø§Ø¨ Ù‚Ù‰Ù„Ù‰Ø´ Ø¦ÛˆÚ†ÛˆÙ† Ù„Ø§ÙŠÙ‰Ú¾Û•Ù„Û•Ù†Ú¯Û•Ù† Ø¦Û•Ù‚Ù„Ù‰ÙŠ Ø¦Ù‰Ù‚ØªÙ‰Ø¯Ø§Ø±Ù„Ù‰Ù‚ ØŒ Ù…Û•Ø²Ù…Û‡Ù†Ù†Ù‰ Ø¨Ù‰Ù„Ù‰Ø¯Ù‰ØºØ§Ù† Ø¦Ø§Ù„Ø§Ù‚Û• ØªÙˆØ±Ù‰.
 
-## مەقسەت ۋە كۆرۈش
+## Ù…Û•Ù‚Ø³Û•Øª Û‹Û• ÙƒÛ†Ø±ÛˆØ´
 
-! [Nexus Gaja Vision] (مۈلۈك / img / nexus_vision.jpg)
+! [Nexus Gaja Vision] (Ù…ÛˆÙ„ÛˆÙƒ / img / nexus_vision.jpg)
 
-يەر شارىلىشىش دۇنياسىدا تىل ھەمىشە ئەڭ چوڭ توساق ھېسابلىنىدۇ. Nexus Gaja نىڭ ئاساسلىق مەقسىتى كىشىلەر ئارىسىدا ئورتاق تىلدا سۆزلەش ياكى سۆزلەشتىن قەتئىينەزەر ، كىشىلەر ئارىسىدا يوچۇقسىز ، قولايلىق ۋە مەزمۇن جەھەتتىن توغرا ئالاقە قىلىش. 
+ÙŠÛ•Ø± Ø´Ø§Ø±Ù‰Ù„Ù‰Ø´Ù‰Ø´ Ø¯Û‡Ù†ÙŠØ§Ø³Ù‰Ø¯Ø§ ØªÙ‰Ù„ Ú¾Û•Ù…Ù‰Ø´Û• Ø¦Û•Ú­ Ú†ÙˆÚ­ ØªÙˆØ³Ø§Ù‚ Ú¾ÛØ³Ø§Ø¨Ù„Ù‰Ù†Ù‰Ø¯Û‡. Nexus Gaja Ù†Ù‰Ú­ Ø¦Ø§Ø³Ø§Ø³Ù„Ù‰Ù‚ Ù…Û•Ù‚Ø³Ù‰ØªÙ‰ ÙƒÙ‰Ø´Ù‰Ù„Û•Ø± Ø¦Ø§Ø±Ù‰Ø³Ù‰Ø¯Ø§ Ø¦ÙˆØ±ØªØ§Ù‚ ØªÙ‰Ù„Ø¯Ø§ Ø³Û†Ø²Ù„Û•Ø´ ÙŠØ§ÙƒÙ‰ Ø³Û†Ø²Ù„Û•Ø´ØªÙ‰Ù† Ù‚Û•ØªØ¦Ù‰ÙŠÙ†Û•Ø²Û•Ø± ØŒ ÙƒÙ‰Ø´Ù‰Ù„Û•Ø± Ø¦Ø§Ø±Ù‰Ø³Ù‰Ø¯Ø§ ÙŠÙˆÚ†Û‡Ù‚Ø³Ù‰Ø² ØŒ Ù‚ÙˆÙ„Ø§ÙŠÙ„Ù‰Ù‚ Û‹Û• Ù…Û•Ø²Ù…Û‡Ù† Ø¬Û•Ú¾Û•ØªØªÙ‰Ù† ØªÙˆØºØ±Ø§ Ø¦Ø§Ù„Ø§Ù‚Û• Ù‚Ù‰Ù„Ù‰Ø´. 
 
-بۇ جاھىللىق بىلەن سۆزلەرنى تەرجىمە قىلىشلا ئەمەس ، بەلكى ** مەنىسىنى يۆتكەش ** ھەققىدە. Nexus Gaja مەدەنىيەت ، رايون ۋە مەزمۇن جەھەتتىكى ئىنچىكە نۇقتىلارنى چۈشىنىش ئارقىلىق كىشىلەرنى تېخىمۇ چوڭقۇر قاتلامغا باغلاپ ، ھەقىقىي ، ھەقىقىي پاراڭلارنى تەمىنلەيدۇ.
+Ø¨Û‡ Ø¬Ø§Ú¾Ù‰Ù„Ù„Ù‰Ù‚ Ø¨Ù‰Ù„Û•Ù† Ø³Û†Ø²Ù„Û•Ø±Ù†Ù‰ ØªÛ•Ø±Ø¬Ù‰Ù…Û• Ù‚Ù‰Ù„Ù‰Ø´Ù„Ø§ Ø¦Û•Ù…Û•Ø³ ØŒ Ø¨Û•Ù„ÙƒÙ‰ ** Ù…Û•Ù†Ù‰Ø³Ù‰Ù†Ù‰ ÙŠÛ†ØªÙƒÛ•Ø´ ** Ú¾Û•Ù‚Ù‚Ù‰Ø¯Û•. Nexus Gaja Ù…Û•Ø¯Û•Ù†Ù‰ÙŠÛ•Øª ØŒ Ø±Ø§ÙŠÙˆÙ† Û‹Û• Ù…Û•Ø²Ù…Û‡Ù† Ø¬Û•Ú¾Û•ØªØªÙ‰ÙƒÙ‰ Ø¦Ù‰Ù†Ú†Ù‰ÙƒÛ• Ù†Û‡Ù‚ØªÙ‰Ù„Ø§Ø±Ù†Ù‰ Ú†ÛˆØ´Ù‰Ù†Ù‰Ø´ Ø¦Ø§Ø±Ù‚Ù‰Ù„Ù‰Ù‚ ÙƒÙ‰Ø´Ù‰Ù„Û•Ø±Ù†Ù‰ ØªÛØ®Ù‰Ù…Û‡ Ú†ÙˆÚ­Ù‚Û‡Ø± Ù‚Ø§ØªÙ„Ø§Ù…ØºØ§ Ø¨Ø§ØºÙ„Ø§Ù¾ ØŒ Ú¾Û•Ù‚Ù‰Ù‚Ù‰ÙŠ ØŒ Ú¾Û•Ù‚Ù‰Ù‚Ù‰ÙŠ Ù¾Ø§Ø±Ø§Ú­Ù„Ø§Ø±Ù†Ù‰ ØªÛ•Ù…Ù‰Ù†Ù„Û•ÙŠØ¯Û‡.
 
-## مۇمكىنچىلىك ۋە ئىقتىدار
-- ** كۆپ ۋاسىتە ئالاقىسى **: سىستېما تېكىستنىلا ئەمەس ، رەسىم ، ئاۋاز ۋە سىننىمۇ بىر تەرەپ قىلىدۇ. بۇ تىل چەكلىمىسى ئارقىلىق ھەقىقىي ۋاقىتتا تولۇق چۆكۈپ پاراڭلىشالايدۇ (مەسىلەن سىنلىق تېلېفون ياكى ئاۋازلىق ئۇچۇر).
-- ** مەزمۇن سەزگۈرلۈكى **: ئەنئەنىۋى تەرجىمانلار دائىم خاتا چۈشىنىدىغان مەسخىرە ، ئەخمەقلىق ، جارگون ۋە رايون شىۋىسىنى بايقاش.
-- ** سۇپا ھالقىغان تور **: شەخسىي پاراڭلىشىش ، مۇنبەر تېمىلىرى (باھا يېزىلغان يازمىلار) ۋە دۇنياۋى مەھەللە ئالاقىسىنىڭ ئاساسى.
+## Ù…Û‡Ù…ÙƒÙ‰Ù†Ú†Ù‰Ù„Ù‰Ùƒ Û‹Û• Ø¦Ù‰Ù‚ØªÙ‰Ø¯Ø§Ø±
+- ** ÙƒÛ†Ù¾ Û‹Ø§Ø³Ù‰ØªÛ• Ø¦Ø§Ù„Ø§Ù‚Ù‰Ø³Ù‰ **: Ø³Ù‰Ø³ØªÛÙ…Ø§ ØªÛÙƒÙ‰Ø³ØªÙ†Ù‰Ù„Ø§ Ø¦Û•Ù…Û•Ø³ ØŒ Ø±Û•Ø³Ù‰Ù… ØŒ Ø¦Ø§Û‹Ø§Ø² Û‹Û• Ø³Ù‰Ù†Ù†Ù‰Ù…Û‡ Ø¨Ù‰Ø± ØªÛ•Ø±Û•Ù¾ Ù‚Ù‰Ù„Ù‰Ø¯Û‡. Ø¨Û‡ ØªÙ‰Ù„ Ú†Û•ÙƒÙ„Ù‰Ù…Ù‰Ø³Ù‰ Ø¦Ø§Ø±Ù‚Ù‰Ù„Ù‰Ù‚ Ú¾Û•Ù‚Ù‰Ù‚Ù‰ÙŠ Û‹Ø§Ù‚Ù‰ØªØªØ§ ØªÙˆÙ„Û‡Ù‚ Ú†Û†ÙƒÛˆÙ¾ Ù¾Ø§Ø±Ø§Ú­Ù„Ù‰Ø´Ø§Ù„Ø§ÙŠØ¯Û‡ (Ù…Û•Ø³Ù‰Ù„Û•Ù† Ø³Ù‰Ù†Ù„Ù‰Ù‚ ØªÛÙ„ÛÙÙˆÙ† ÙŠØ§ÙƒÙ‰ Ø¦Ø§Û‹Ø§Ø²Ù„Ù‰Ù‚ Ø¦Û‡Ú†Û‡Ø±).
+- ** Ù…Û•Ø²Ù…Û‡Ù† Ø³Û•Ø²Ú¯ÛˆØ±Ù„ÛˆÙƒÙ‰ **: Ø¦Û•Ù†Ø¦Û•Ù†Ù‰Û‹Ù‰ ØªÛ•Ø±Ø¬Ù‰Ù…Ø§Ù†Ù„Ø§Ø± Ø¯Ø§Ø¦Ù‰Ù… Ø®Ø§ØªØ§ Ú†ÛˆØ´Ù‰Ù†Ù‰Ø¯Ù‰ØºØ§Ù† Ù…Û•Ø³Ø®Ù‰Ø±Û• ØŒ Ø¦Û•Ø®Ù…Û•Ù‚Ù„Ù‰Ù‚ ØŒ Ø¬Ø§Ø±Ú¯ÙˆÙ† Û‹Û• Ø±Ø§ÙŠÙˆÙ† Ø´Ù‰Û‹Ù‰Ø³Ù‰Ù†Ù‰ Ø¨Ø§ÙŠÙ‚Ø§Ø´.
+- ** Ø³Û‡Ù¾Ø§ Ú¾Ø§Ù„Ù‚Ù‰ØºØ§Ù† ØªÙˆØ± **: Ø´Û•Ø®Ø³Ù‰ÙŠ Ù¾Ø§Ø±Ø§Ú­Ù„Ù‰Ø´Ù‰Ø´ ØŒ Ù…Û‡Ù†Ø¨Û•Ø± ØªÛÙ…Ù‰Ù„Ù‰Ø±Ù‰ (Ø¨Ø§Ú¾Ø§ ÙŠÛØ²Ù‰Ù„ØºØ§Ù† ÙŠØ§Ø²Ù…Ù‰Ù„Ø§Ø±) Û‹Û• Ø¯Û‡Ù†ÙŠØ§Û‹Ù‰ Ù…Û•Ú¾Û•Ù„Ù„Û• Ø¦Ø§Ù„Ø§Ù‚Ù‰Ø³Ù‰Ù†Ù‰Ú­ Ø¦Ø§Ø³Ø§Ø³Ù‰.
 
 ---
 
-## تېخنىكىلىق بىناكارلىق (يادرولۇق ئۇقۇم)
+## ØªÛØ®Ù†Ù‰ÙƒÙ‰Ù„Ù‰Ù‚ Ø¨Ù‰Ù†Ø§ÙƒØ§Ø±Ù„Ù‰Ù‚ (ÙŠØ§Ø¯Ø±ÙˆÙ„Û‡Ù‚ Ø¦Û‡Ù‚Û‡Ù…)
 
-! [Nexus Gaja تەرجىمە ئۇقۇمى] (مۈلۈك / img / nexus_translation.jpg)
+! [Nexus Gaja ØªÛ•Ø±Ø¬Ù‰Ù…Û• Ø¦Û‡Ù‚Û‡Ù…Ù‰] (Ù…ÛˆÙ„ÛˆÙƒ / img / nexus_translation.jpg)
 
-Nexus Gaja نىڭ تېخنىكىلىق يادروسى ئۆزى تەرەققىي قىلغان ئالاقە ئەندىزىسى بولۇپ ، قاتتىق ئۈچ دەرىجىگە ئايرىلىدۇ:
+Nexus Gaja Ù†Ù‰Ú­ ØªÛØ®Ù†Ù‰ÙƒÙ‰Ù„Ù‰Ù‚ ÙŠØ§Ø¯Ø±ÙˆØ³Ù‰ Ø¦Û†Ø²Ù‰ ØªÛ•Ø±Û•Ù‚Ù‚Ù‰ÙŠ Ù‚Ù‰Ù„ØºØ§Ù† Ø¦Ø§Ù„Ø§Ù‚Û• Ø¦Û•Ù†Ø¯Ù‰Ø²Ù‰Ø³Ù‰ Ø¨ÙˆÙ„Û‡Ù¾ ØŒ Ù‚Ø§ØªØªÙ‰Ù‚ Ø¦ÛˆÚ† Ø¯Û•Ø±Ù‰Ø¬Ù‰Ú¯Û• Ø¦Ø§ÙŠØ±Ù‰Ù„Ù‰Ø¯Û‡:
 
-1. ** ئەسلى **: ئەۋەتكۈچى قۇرغان ئالاقە ئوبيېكتى (ئۇچۇر) ھەمىشە ئۆزگەرمەيدۇ.
-2. ** مەنىلىك چۈشەندۈرۈش **: سىستېما سۆزلەرنىلا ئەمەس ، بەلكى ھەقىقىي مەنىسىنىمۇ تەھلىل قىلىدۇ.
-3 .. تەرجىمە ھەرگىزمۇ ئەسلى ئۇچۇرنى قاپلىمايدۇ.
+1. ** Ø¦Û•Ø³Ù„Ù‰ **: Ø¦Û•Û‹Û•ØªÙƒÛˆÚ†Ù‰ Ù‚Û‡Ø±ØºØ§Ù† Ø¦Ø§Ù„Ø§Ù‚Û• Ø¦ÙˆØ¨ÙŠÛÙƒØªÙ‰ (Ø¦Û‡Ú†Û‡Ø±) Ú¾Û•Ù…Ù‰Ø´Û• Ø¦Û†Ø²Ú¯Û•Ø±Ù…Û•ÙŠØ¯Û‡.
+2. ** Ù…Û•Ù†Ù‰Ù„Ù‰Ùƒ Ú†ÛˆØ´Û•Ù†Ø¯ÛˆØ±ÛˆØ´ **: Ø³Ù‰Ø³ØªÛÙ…Ø§ Ø³Û†Ø²Ù„Û•Ø±Ù†Ù‰Ù„Ø§ Ø¦Û•Ù…Û•Ø³ ØŒ Ø¨Û•Ù„ÙƒÙ‰ Ú¾Û•Ù‚Ù‰Ù‚Ù‰ÙŠ Ù…Û•Ù†Ù‰Ø³Ù‰Ù†Ù‰Ù…Û‡ ØªÛ•Ú¾Ù„Ù‰Ù„ Ù‚Ù‰Ù„Ù‰Ø¯Û‡.
+3 .. ØªÛ•Ø±Ø¬Ù‰Ù…Û• Ú¾Û•Ø±Ú¯Ù‰Ø²Ù…Û‡ Ø¦Û•Ø³Ù„Ù‰ Ø¦Û‡Ú†Û‡Ø±Ù†Ù‰ Ù‚Ø§Ù¾Ù„Ù‰Ù…Ø§ÙŠØ¯Û‡.
 
-### مەزمۇنغا تايىنىش
-تەرجىمىلەر Nexus Gaja دىكى خەۋەرلەرگە ھەرگىز قارىمايدۇ. ماتور پۈتۈن قاتلامنى نەزەرگە ئالىدۇ:
-"ئۇچۇر" → "ئالدىنقى ئۇچۇرلار" → "تېما مەزمۇنى" → "مەھەللە مەزمۇنى" → "تىل / رايون" → "ئىشلەتكۈچى مايىللىقى"
+### Ù…Û•Ø²Ù…Û‡Ù†ØºØ§ ØªØ§ÙŠÙ‰Ù†Ù‰Ø´
+ØªÛ•Ø±Ø¬Ù‰Ù…Ù‰Ù„Û•Ø± Nexus Gaja Ø¯Ù‰ÙƒÙ‰ Ø®Û•Û‹Û•Ø±Ù„Û•Ø±Ú¯Û• Ú¾Û•Ø±Ú¯Ù‰Ø² Ù‚Ø§Ø±Ù‰Ù…Ø§ÙŠØ¯Û‡. Ù…Ø§ØªÙˆØ± Ù¾ÛˆØªÛˆÙ† Ù‚Ø§ØªÙ„Ø§Ù…Ù†Ù‰ Ù†Û•Ø²Û•Ø±Ú¯Û• Ø¦Ø§Ù„Ù‰Ø¯Û‡:
+"Ø¦Û‡Ú†Û‡Ø±" â†’ "Ø¦Ø§Ù„Ø¯Ù‰Ù†Ù‚Ù‰ Ø¦Û‡Ú†Û‡Ø±Ù„Ø§Ø±" â†’ "ØªÛÙ…Ø§ Ù…Û•Ø²Ù…Û‡Ù†Ù‰" â†’ "Ù…Û•Ú¾Û•Ù„Ù„Û• Ù…Û•Ø²Ù…Û‡Ù†Ù‰" â†’ "ØªÙ‰Ù„ / Ø±Ø§ÙŠÙˆÙ†" â†’ "Ø¦Ù‰Ø´Ù„Û•ØªÙƒÛˆÚ†Ù‰ Ù…Ø§ÙŠÙ‰Ù„Ù„Ù‰Ù‚Ù‰"
 
-### تەلەپ بويىچە تەرجىمە قىلىش ئارقىلىق ئۈنۈم
-تەرجىمە پەقەت بايلىق تېجەش ئۇسۇلىدا ** (تەلەپ بويىچە) چاقىرغاندا ئاندىن ئېلىپ بېرىلىدۇ. ئىشلەتكۈچى مەزمۇن تەلەپ قىلغاندا ، ئۇلارنىڭ سۈكۈتتىكى تىلىغا تەرجىمە قىلىنىدۇ. مەلۇم تىلنىڭ تەرجىمىلىرى مەڭگۈلۈك (ساقلىغۇچ) ساقلىنىپ ، كېيىنكى سوئاللارنى تېزلىتىدۇ.
+### ØªÛ•Ù„Û•Ù¾ Ø¨ÙˆÙŠÙ‰Ú†Û• ØªÛ•Ø±Ø¬Ù‰Ù…Û• Ù‚Ù‰Ù„Ù‰Ø´ Ø¦Ø§Ø±Ù‚Ù‰Ù„Ù‰Ù‚ Ø¦ÛˆÙ†ÛˆÙ…
+ØªÛ•Ø±Ø¬Ù‰Ù…Û• Ù¾Û•Ù‚Û•Øª Ø¨Ø§ÙŠÙ„Ù‰Ù‚ ØªÛØ¬Û•Ø´ Ø¦Û‡Ø³Û‡Ù„Ù‰Ø¯Ø§ ** (ØªÛ•Ù„Û•Ù¾ Ø¨ÙˆÙŠÙ‰Ú†Û•) Ú†Ø§Ù‚Ù‰Ø±ØºØ§Ù†Ø¯Ø§ Ø¦Ø§Ù†Ø¯Ù‰Ù† Ø¦ÛÙ„Ù‰Ù¾ Ø¨ÛØ±Ù‰Ù„Ù‰Ø¯Û‡. Ø¦Ù‰Ø´Ù„Û•ØªÙƒÛˆÚ†Ù‰ Ù…Û•Ø²Ù…Û‡Ù† ØªÛ•Ù„Û•Ù¾ Ù‚Ù‰Ù„ØºØ§Ù†Ø¯Ø§ ØŒ Ø¦Û‡Ù„Ø§Ø±Ù†Ù‰Ú­ Ø³ÛˆÙƒÛˆØªØªÙ‰ÙƒÙ‰ ØªÙ‰Ù„Ù‰ØºØ§ ØªÛ•Ø±Ø¬Ù‰Ù…Û• Ù‚Ù‰Ù„Ù‰Ù†Ù‰Ø¯Û‡. Ù…Û•Ù„Û‡Ù… ØªÙ‰Ù„Ù†Ù‰Ú­ ØªÛ•Ø±Ø¬Ù‰Ù…Ù‰Ù„Ù‰Ø±Ù‰ Ù…Û•Ú­Ú¯ÛˆÙ„ÛˆÙƒ (Ø³Ø§Ù‚Ù„Ù‰ØºÛ‡Ú†) Ø³Ø§Ù‚Ù„Ù‰Ù†Ù‰Ù¾ ØŒ ÙƒÛÙŠÙ‰Ù†ÙƒÙ‰ Ø³ÙˆØ¦Ø§Ù„Ù„Ø§Ø±Ù†Ù‰ ØªÛØ²Ù„Ù‰ØªÙ‰Ø¯Û‡.
 
-## سۈنئىي ئەقلىي ئىقتىدارلىق ئوتتۇراھال (WP 1.8.4)
+## Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù„Ù‰ÙŠ Ø¦Ù‰Ù‚ØªÙ‰Ø¯Ø§Ø±Ù„Ù‰Ù‚ Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„ (WP 1.8.4)
 
-! [Nexus Gaja AI Moderation] (مۈلۈك / img / nexus_moderation.jpg)
+! [Nexus Gaja AI Moderation] (Ù…ÛˆÙ„ÛˆÙƒ / img / nexus_moderation.jpg)
 
-سۈنئىي ئەقىل قوللايدىغان ئوتتۇراھاللىق بىلەن ، بىز مەھسۇلات ئىدىيىسىدىن تېخنىكىلىق بىناكارلىققىچە چوڭ قەدەم تاشلاپ ، ياۋروپا ئىتتىپاقىنىڭ ھازىرقى بەلگىلىمىلىرىنى (50-ماددىدىكى ياۋروپا ئىتتىپاقى سۈنئىي ئەقىل قانۇنىنىڭ ئوچۇق-ئاشكارە مەجبۇرىيىتى ؛ چۈشىنىشكە بولىدىغان دەلىل-ئىسپات ۋە باشقىچە پىكىرلەر بار رەقەملىك مۇلازىمەت قانۇنى) نى ئويلىشىمىز.
+Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„ Ù‚ÙˆÙ„Ù„Ø§ÙŠØ¯Ù‰ØºØ§Ù† Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„Ù„Ù‰Ù‚ Ø¨Ù‰Ù„Û•Ù† ØŒ Ø¨Ù‰Ø² Ù…Û•Ú¾Ø³Û‡Ù„Ø§Øª Ø¦Ù‰Ø¯Ù‰ÙŠÙ‰Ø³Ù‰Ø¯Ù‰Ù† ØªÛØ®Ù†Ù‰ÙƒÙ‰Ù„Ù‰Ù‚ Ø¨Ù‰Ù†Ø§ÙƒØ§Ø±Ù„Ù‰Ù‚Ù‚Ù‰Ú†Û• Ú†ÙˆÚ­ Ù‚Û•Ø¯Û•Ù… ØªØ§Ø´Ù„Ø§Ù¾ ØŒ ÙŠØ§Û‹Ø±ÙˆÙ¾Ø§ Ø¦Ù‰ØªØªÙ‰Ù¾Ø§Ù‚Ù‰Ù†Ù‰Ú­ Ú¾Ø§Ø²Ù‰Ø±Ù‚Ù‰ Ø¨Û•Ù„Ú¯Ù‰Ù„Ù‰Ù…Ù‰Ù„Ù‰Ø±Ù‰Ù†Ù‰ (50-Ù…Ø§Ø¯Ø¯Ù‰Ø¯Ù‰ÙƒÙ‰ ÙŠØ§Û‹Ø±ÙˆÙ¾Ø§ Ø¦Ù‰ØªØªÙ‰Ù¾Ø§Ù‚Ù‰ Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„ Ù‚Ø§Ù†Û‡Ù†Ù‰Ù†Ù‰Ú­ Ø¦ÙˆÚ†Û‡Ù‚-Ø¦Ø§Ø´ÙƒØ§Ø±Û• Ù…Û•Ø¬Ø¨Û‡Ø±Ù‰ÙŠÙ‰ØªÙ‰ Ø› Ú†ÛˆØ´Ù‰Ù†Ù‰Ø´ÙƒÛ• Ø¨ÙˆÙ„Ù‰Ø¯Ù‰ØºØ§Ù† Ø¯Û•Ù„Ù‰Ù„-Ø¦Ù‰Ø³Ù¾Ø§Øª Û‹Û• Ø¨Ø§Ø´Ù‚Ù‰Ú†Û• Ù¾Ù‰ÙƒÙ‰Ø±Ù„Û•Ø± Ø¨Ø§Ø± Ø±Û•Ù‚Û•Ù…Ù„Ù‰Ùƒ Ù…Û‡Ù„Ø§Ø²Ù‰Ù…Û•Øª Ù‚Ø§Ù†Û‡Ù†Ù‰) Ù†Ù‰ Ø¦ÙˆÙŠÙ„Ù‰Ø´Ù‰Ù…Ù‰Ø².
 
-### 1. ئاساسىي پرىنسىپ
-بىناكارلىقنىڭ ئەڭ مۇھىم جۈملىسى: ** ئوتتۇراھال سۈنئىي ئەقىل تەكشۈرۈش سىستېمىسى بولۇپ ، ئاپتوماتىك باشقۇرۇش سىستېمىسى ئەمەس. **
-ئۇ Nexus Gaja دا قايسى پىكىرلەرنىڭ بولۇشىغا يول قويۇشنى ئەمەس ، بەلكى ئوتتۇراھال كىشىلەرنى قوللاشنى مەقسەت قىلىدۇ.
-شۇڭا بىز ئۈچ نەرسىنى پەرقلەندۈرىمىز:
-- ** بايقاش: ** «بۇ يەردە قائىدىگە خىلاپلىق قىلىش بولۇشى مۇمكىن».
-- ** باھا: ** «مەسىلەن ، قائىدىگە خىلاپلىق قىلىش ئېھتىماللىقى% 94».
-- ** قارار: ** «ئەمەلىيەتتە قانداق تەدبىر قوللىنىلىدۇ؟».
-ئۈچىنچى دەرىجىدىكى ئېغىر ئەھۋاللاردا چوقۇم ئىنسانىي كونترول قىلىنىشى كېرەك.
+### 1. Ø¦Ø§Ø³Ø§Ø³Ù‰ÙŠ Ù¾Ø±Ù‰Ù†Ø³Ù‰Ù¾
+Ø¨Ù‰Ù†Ø§ÙƒØ§Ø±Ù„Ù‰Ù‚Ù†Ù‰Ú­ Ø¦Û•Ú­ Ù…Û‡Ú¾Ù‰Ù… Ø¬ÛˆÙ…Ù„Ù‰Ø³Ù‰: ** Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„ Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„ ØªÛ•ÙƒØ´ÛˆØ±ÛˆØ´ Ø³Ù‰Ø³ØªÛÙ…Ù‰Ø³Ù‰ Ø¨ÙˆÙ„Û‡Ù¾ ØŒ Ø¦Ø§Ù¾ØªÙˆÙ…Ø§ØªÙ‰Ùƒ Ø¨Ø§Ø´Ù‚Û‡Ø±Û‡Ø´ Ø³Ù‰Ø³ØªÛÙ…Ù‰Ø³Ù‰ Ø¦Û•Ù…Û•Ø³. **
+Ø¦Û‡ Nexus Gaja Ø¯Ø§ Ù‚Ø§ÙŠØ³Ù‰ Ù¾Ù‰ÙƒÙ‰Ø±Ù„Û•Ø±Ù†Ù‰Ú­ Ø¨ÙˆÙ„Û‡Ø´Ù‰ØºØ§ ÙŠÙˆÙ„ Ù‚ÙˆÙŠÛ‡Ø´Ù†Ù‰ Ø¦Û•Ù…Û•Ø³ ØŒ Ø¨Û•Ù„ÙƒÙ‰ Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„ ÙƒÙ‰Ø´Ù‰Ù„Û•Ø±Ù†Ù‰ Ù‚ÙˆÙ„Ù„Ø§Ø´Ù†Ù‰ Ù…Û•Ù‚Ø³Û•Øª Ù‚Ù‰Ù„Ù‰Ø¯Û‡.
+Ø´Û‡Ú­Ø§ Ø¨Ù‰Ø² Ø¦ÛˆÚ† Ù†Û•Ø±Ø³Ù‰Ù†Ù‰ Ù¾Û•Ø±Ù‚Ù„Û•Ù†Ø¯ÛˆØ±Ù‰Ù…Ù‰Ø²:
+- ** Ø¨Ø§ÙŠÙ‚Ø§Ø´: ** Â«Ø¨Û‡ ÙŠÛ•Ø±Ø¯Û• Ù‚Ø§Ø¦Ù‰Ø¯Ù‰Ú¯Û• Ø®Ù‰Ù„Ø§Ù¾Ù„Ù‰Ù‚ Ù‚Ù‰Ù„Ù‰Ø´ Ø¨ÙˆÙ„Û‡Ø´Ù‰ Ù…Û‡Ù…ÙƒÙ‰Ù†Â».
+- ** Ø¨Ø§Ú¾Ø§: ** Â«Ù…Û•Ø³Ù‰Ù„Û•Ù† ØŒ Ù‚Ø§Ø¦Ù‰Ø¯Ù‰Ú¯Û• Ø®Ù‰Ù„Ø§Ù¾Ù„Ù‰Ù‚ Ù‚Ù‰Ù„Ù‰Ø´ Ø¦ÛÚ¾ØªÙ‰Ù…Ø§Ù„Ù„Ù‰Ù‚Ù‰% 94Â».
+- ** Ù‚Ø§Ø±Ø§Ø±: ** Â«Ø¦Û•Ù…Û•Ù„Ù‰ÙŠÛ•ØªØªÛ• Ù‚Ø§Ù†Ø¯Ø§Ù‚ ØªÛ•Ø¯Ø¨Ù‰Ø± Ù‚ÙˆÙ„Ù„Ù‰Ù†Ù‰Ù„Ù‰Ø¯Û‡ØŸÂ».
+Ø¦ÛˆÚ†Ù‰Ù†Ú†Ù‰ Ø¯Û•Ø±Ù‰Ø¬Ù‰Ø¯Ù‰ÙƒÙ‰ Ø¦ÛØºÙ‰Ø± Ø¦Û•Ú¾Û‹Ø§Ù„Ù„Ø§Ø±Ø¯Ø§ Ú†ÙˆÙ‚Û‡Ù… Ø¦Ù‰Ù†Ø³Ø§Ù†Ù‰ÙŠ ÙƒÙˆÙ†ØªØ±ÙˆÙ„ Ù‚Ù‰Ù„Ù‰Ù†Ù‰Ø´Ù‰ ÙƒÛØ±Û•Ùƒ.
 
-### 2. ئوتتۇراھال سۈنئىي ئەقىل ئۆزىنىڭ تارماق سىستېمىسى بولىدۇ
-يەككە سۈنئىي ئەقىلنىڭ ئورنىغا پۇختا تارماق سىستېما قۇرۇلدى:
+### 2. Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„ Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„ Ø¦Û†Ø²Ù‰Ù†Ù‰Ú­ ØªØ§Ø±Ù…Ø§Ù‚ Ø³Ù‰Ø³ØªÛÙ…Ù‰Ø³Ù‰ Ø¨ÙˆÙ„Ù‰Ø¯Û‡
+ÙŠÛ•ÙƒÙƒÛ• Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„Ù†Ù‰Ú­ Ø¦ÙˆØ±Ù†Ù‰ØºØ§ Ù¾Û‡Ø®ØªØ§ ØªØ§Ø±Ù…Ø§Ù‚ Ø³Ù‰Ø³ØªÛÙ…Ø§ Ù‚Û‡Ø±Û‡Ù„Ø¯Ù‰:
 `` text
                  NEXUS GAJA AI MODERATION
-                          │
-       ┌────────────────── ┼──────────────────┐
-       │ │ │
-  تىل AI بىخەتەرلىك AI ئالدامچىلىق AI
-       │ │ │
-       ├──────────────┬─── ┴──────────────┬───┤
-       │ │ │
- تەرجىمە ھەرىكەت كىملىكى
- تەھلىل ئانالىز سىگنالى
-       │ │ │
-       └──────────────┼──────────────────┘
-                      ▼
-               خەتەرنى باھالاش
-                      │
-                      ▼
+                          â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â”‚ â”‚ â”‚
+  ØªÙ‰Ù„ AI Ø¨Ù‰Ø®Û•ØªÛ•Ø±Ù„Ù‰Ùƒ AI Ø¦Ø§Ù„Ø¯Ø§Ù…Ú†Ù‰Ù„Ù‰Ù‚ AI
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€ â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”¤
+       â”‚ â”‚ â”‚
+ ØªÛ•Ø±Ø¬Ù‰Ù…Û• Ú¾Û•Ø±Ù‰ÙƒÛ•Øª ÙƒÙ‰Ù…Ù„Ù‰ÙƒÙ‰
+ ØªÛ•Ú¾Ù„Ù‰Ù„ Ø¦Ø§Ù†Ø§Ù„Ù‰Ø² Ø³Ù‰Ú¯Ù†Ø§Ù„Ù‰
+       â”‚ â”‚ â”‚
+       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+                      â–¼
+               Ø®Û•ØªÛ•Ø±Ù†Ù‰ Ø¨Ø§Ú¾Ø§Ù„Ø§Ø´
+                      â”‚
+                      â–¼
                Human Review
 `` `
 
-### 3. ئەڭ مۇھىم سۈنئىي ئەقىل مودۇلى
-Nexus Gaja ئۈچۈن توققۇز مەخسۇس تەھلىل رايونى بار:
-- ** M1 - تىلنى چۈشىنىش **: تىل ، دىئالېكت ، لۈكچەك ، مەسخىرە كۆرسەتكۈچ ، تەرجىمە مەسىلىلىرىنى بايقايدۇ.
-- ** M2 - زەھەرلىك / سۇيىئىستېمالنى بايقاش **: ھاقارەت ، شەخسىي ھۇجۇم ، پاراكەندىچىلىكنى بايقايدۇ.
-- ** M3 - تەھدىتنى بايقاش **: مۇمكىن بولغان تەھدىت ، قارا چاپلاش ۋە زوراۋانلىق تەھدىتىنى بايقايدۇ.
-- ** M4 - ئۆچمەنلىك / ئىنسانسىزلاشتۇرۇش بايقاش **: كونكرېت باغلىنىشلارغا ئاساسەن كىشىلەرگە قارىتىلغان ھۇجۇمنى بايقايدۇ.
-- ** M5 - ئەخلەت خەت / كونترول قىلىش بايقاش **: ئەخلەت خەت ، بوت ھەرىكىتىنى ، ماسلاشتۇرۇلغان كونترول قىلىشنى بايقايدۇ.
-- ** M6 - ئالدامچىلىقنى بايقاش **: گۇمانلىق ئالدامچىلىق ئۇرۇنۇشى ، ئالدامچىلىق ، ئىجتىمائىي قۇرۇلۇش.
-- ** M7 - كىملىكنىڭ مۇكەممەللىكى **: ھېساباتنى ئېلىش ، كۆپ ھېسابات ، توسۇلۇشتىن ئۆتۈش سىگنالىنى تەكشۈرىدۇ.
-- ** M8 - مېدىيا بىخەتەرلىكى **: رەسىم ، ئاۋاز ، سىن ، ھۆججەتلەرنى تەھلىل قىلىدۇ.
-- ** M9 - مەزمۇن ماتورى **: ئەڭ مۇھىم مودۇل. ئۇ يەككە بايقاشلارنى توپلايدۇ.
+### 3. Ø¦Û•Ú­ Ù…Û‡Ú¾Ù‰Ù… Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„ Ù…ÙˆØ¯Û‡Ù„Ù‰
+Nexus Gaja Ø¦ÛˆÚ†ÛˆÙ† ØªÙˆÙ‚Ù‚Û‡Ø² Ù…Û•Ø®Ø³Û‡Ø³ ØªÛ•Ú¾Ù„Ù‰Ù„ Ø±Ø§ÙŠÙˆÙ†Ù‰ Ø¨Ø§Ø±:
+- ** M1 - ØªÙ‰Ù„Ù†Ù‰ Ú†ÛˆØ´Ù‰Ù†Ù‰Ø´ **: ØªÙ‰Ù„ ØŒ Ø¯Ù‰Ø¦Ø§Ù„ÛÙƒØª ØŒ Ù„ÛˆÙƒÚ†Û•Ùƒ ØŒ Ù…Û•Ø³Ø®Ù‰Ø±Û• ÙƒÛ†Ø±Ø³Û•ØªÙƒÛˆÚ† ØŒ ØªÛ•Ø±Ø¬Ù‰Ù…Û• Ù…Û•Ø³Ù‰Ù„Ù‰Ù„Ù‰Ø±Ù‰Ù†Ù‰ Ø¨Ø§ÙŠÙ‚Ø§ÙŠØ¯Û‡.
+- ** M2 - Ø²Û•Ú¾Û•Ø±Ù„Ù‰Ùƒ / Ø³Û‡ÙŠÙ‰Ø¦Ù‰Ø³ØªÛÙ…Ø§Ù„Ù†Ù‰ Ø¨Ø§ÙŠÙ‚Ø§Ø´ **: Ú¾Ø§Ù‚Ø§Ø±Û•Øª ØŒ Ø´Û•Ø®Ø³Ù‰ÙŠ Ú¾Û‡Ø¬Û‡Ù… ØŒ Ù¾Ø§Ø±Ø§ÙƒÛ•Ù†Ø¯Ù‰Ú†Ù‰Ù„Ù‰ÙƒÙ†Ù‰ Ø¨Ø§ÙŠÙ‚Ø§ÙŠØ¯Û‡.
+- ** M3 - ØªÛ•Ú¾Ø¯Ù‰ØªÙ†Ù‰ Ø¨Ø§ÙŠÙ‚Ø§Ø´ **: Ù…Û‡Ù…ÙƒÙ‰Ù† Ø¨ÙˆÙ„ØºØ§Ù† ØªÛ•Ú¾Ø¯Ù‰Øª ØŒ Ù‚Ø§Ø±Ø§ Ú†Ø§Ù¾Ù„Ø§Ø´ Û‹Û• Ø²ÙˆØ±Ø§Û‹Ø§Ù†Ù„Ù‰Ù‚ ØªÛ•Ú¾Ø¯Ù‰ØªÙ‰Ù†Ù‰ Ø¨Ø§ÙŠÙ‚Ø§ÙŠØ¯Û‡.
+- ** M4 - Ø¦Û†Ú†Ù…Û•Ù†Ù„Ù‰Ùƒ / Ø¦Ù‰Ù†Ø³Ø§Ù†Ø³Ù‰Ø²Ù„Ø§Ø´ØªÛ‡Ø±Û‡Ø´ Ø¨Ø§ÙŠÙ‚Ø§Ø´ **: ÙƒÙˆÙ†ÙƒØ±ÛØª Ø¨Ø§ØºÙ„Ù‰Ù†Ù‰Ø´Ù„Ø§Ø±ØºØ§ Ø¦Ø§Ø³Ø§Ø³Û•Ù† ÙƒÙ‰Ø´Ù‰Ù„Û•Ø±Ú¯Û• Ù‚Ø§Ø±Ù‰ØªÙ‰Ù„ØºØ§Ù† Ú¾Û‡Ø¬Û‡Ù…Ù†Ù‰ Ø¨Ø§ÙŠÙ‚Ø§ÙŠØ¯Û‡.
+- ** M5 - Ø¦Û•Ø®Ù„Û•Øª Ø®Û•Øª / ÙƒÙˆÙ†ØªØ±ÙˆÙ„ Ù‚Ù‰Ù„Ù‰Ø´ Ø¨Ø§ÙŠÙ‚Ø§Ø´ **: Ø¦Û•Ø®Ù„Û•Øª Ø®Û•Øª ØŒ Ø¨ÙˆØª Ú¾Û•Ø±Ù‰ÙƒÙ‰ØªÙ‰Ù†Ù‰ ØŒ Ù…Ø§Ø³Ù„Ø§Ø´ØªÛ‡Ø±Û‡Ù„ØºØ§Ù† ÙƒÙˆÙ†ØªØ±ÙˆÙ„ Ù‚Ù‰Ù„Ù‰Ø´Ù†Ù‰ Ø¨Ø§ÙŠÙ‚Ø§ÙŠØ¯Û‡.
+- ** M6 - Ø¦Ø§Ù„Ø¯Ø§Ù…Ú†Ù‰Ù„Ù‰Ù‚Ù†Ù‰ Ø¨Ø§ÙŠÙ‚Ø§Ø´ **: Ú¯Û‡Ù…Ø§Ù†Ù„Ù‰Ù‚ Ø¦Ø§Ù„Ø¯Ø§Ù…Ú†Ù‰Ù„Ù‰Ù‚ Ø¦Û‡Ø±Û‡Ù†Û‡Ø´Ù‰ ØŒ Ø¦Ø§Ù„Ø¯Ø§Ù…Ú†Ù‰Ù„Ù‰Ù‚ ØŒ Ø¦Ù‰Ø¬ØªÙ‰Ù…Ø§Ø¦Ù‰ÙŠ Ù‚Û‡Ø±Û‡Ù„Û‡Ø´.
+- ** M7 - ÙƒÙ‰Ù…Ù„Ù‰ÙƒÙ†Ù‰Ú­ Ù…Û‡ÙƒÛ•Ù…Ù…Û•Ù„Ù„Ù‰ÙƒÙ‰ **: Ú¾ÛØ³Ø§Ø¨Ø§ØªÙ†Ù‰ Ø¦ÛÙ„Ù‰Ø´ ØŒ ÙƒÛ†Ù¾ Ú¾ÛØ³Ø§Ø¨Ø§Øª ØŒ ØªÙˆØ³Û‡Ù„Û‡Ø´ØªÙ‰Ù† Ø¦Û†ØªÛˆØ´ Ø³Ù‰Ú¯Ù†Ø§Ù„Ù‰Ù†Ù‰ ØªÛ•ÙƒØ´ÛˆØ±Ù‰Ø¯Û‡.
+- ** M8 - Ù…ÛØ¯Ù‰ÙŠØ§ Ø¨Ù‰Ø®Û•ØªÛ•Ø±Ù„Ù‰ÙƒÙ‰ **: Ø±Û•Ø³Ù‰Ù… ØŒ Ø¦Ø§Û‹Ø§Ø² ØŒ Ø³Ù‰Ù† ØŒ Ú¾Û†Ø¬Ø¬Û•ØªÙ„Û•Ø±Ù†Ù‰ ØªÛ•Ú¾Ù„Ù‰Ù„ Ù‚Ù‰Ù„Ù‰Ø¯Û‡.
+- ** M9 - Ù…Û•Ø²Ù…Û‡Ù† Ù…Ø§ØªÙˆØ±Ù‰ **: Ø¦Û•Ú­ Ù…Û‡Ú¾Ù‰Ù… Ù…ÙˆØ¯Û‡Ù„. Ø¦Û‡ ÙŠÛ•ÙƒÙƒÛ• Ø¨Ø§ÙŠÙ‚Ø§Ø´Ù„Ø§Ø±Ù†Ù‰ ØªÙˆÙ¾Ù„Ø§ÙŠØ¯Û‡.
 
-### 4. نېمە ئۈچۈن مەزمۇن ماتورى شۇنچە مۇھىم
-ساپ ئاچقۇچلۇق سۆز ئىزدەش يېتەرلىك ئەمەس. «مەن ئۇنى كۈلۈپ ئۆلتۈرەلەيمەن» مەنىۋى زوراۋانلىقنى ئۆز ئىچىگە ئالىدۇ ، ئەمما ئۇ بىر ئوبراز. «ئەتە كەچ سائەت 8 دە مەن ئۇنى ئۆيىنىڭ ئالدىدا ئېتىمەن» پۈتۈنلەي ئوخشىمايدىغان ئەھۋال. سۈنئىي ئەقىل بۇ كونكرېت مەزمۇندا باياننىڭ مەنىسىنى چۈشىنىشى كېرەك.
+### 4. Ù†ÛÙ…Û• Ø¦ÛˆÚ†ÛˆÙ† Ù…Û•Ø²Ù…Û‡Ù† Ù…Ø§ØªÙˆØ±Ù‰ Ø´Û‡Ù†Ú†Û• Ù…Û‡Ú¾Ù‰Ù…
+Ø³Ø§Ù¾ Ø¦Ø§Ú†Ù‚Û‡Ú†Ù„Û‡Ù‚ Ø³Û†Ø² Ø¦Ù‰Ø²Ø¯Û•Ø´ ÙŠÛØªÛ•Ø±Ù„Ù‰Ùƒ Ø¦Û•Ù…Û•Ø³. Â«Ù…Û•Ù† Ø¦Û‡Ù†Ù‰ ÙƒÛˆÙ„ÛˆÙ¾ Ø¦Û†Ù„ØªÛˆØ±Û•Ù„Û•ÙŠÙ…Û•Ù†Â» Ù…Û•Ù†Ù‰Û‹Ù‰ Ø²ÙˆØ±Ø§Û‹Ø§Ù†Ù„Ù‰Ù‚Ù†Ù‰ Ø¦Û†Ø² Ø¦Ù‰Ú†Ù‰Ú¯Û• Ø¦Ø§Ù„Ù‰Ø¯Û‡ ØŒ Ø¦Û•Ù…Ù…Ø§ Ø¦Û‡ Ø¨Ù‰Ø± Ø¦ÙˆØ¨Ø±Ø§Ø². Â«Ø¦Û•ØªÛ• ÙƒÛ•Ú† Ø³Ø§Ø¦Û•Øª 8 Ø¯Û• Ù…Û•Ù† Ø¦Û‡Ù†Ù‰ Ø¦Û†ÙŠÙ‰Ù†Ù‰Ú­ Ø¦Ø§Ù„Ø¯Ù‰Ø¯Ø§ Ø¦ÛØªÙ‰Ù…Û•Ù†Â» Ù¾ÛˆØªÛˆÙ†Ù„Û•ÙŠ Ø¦ÙˆØ®Ø´Ù‰Ù…Ø§ÙŠØ¯Ù‰ØºØ§Ù† Ø¦Û•Ú¾Û‹Ø§Ù„. Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„ Ø¨Û‡ ÙƒÙˆÙ†ÙƒØ±ÛØª Ù…Û•Ø²Ù…Û‡Ù†Ø¯Ø§ Ø¨Ø§ÙŠØ§Ù†Ù†Ù‰Ú­ Ù…Û•Ù†Ù‰Ø³Ù‰Ù†Ù‰ Ú†ÛˆØ´Ù‰Ù†Ù‰Ø´Ù‰ ÙƒÛØ±Û•Ùƒ.
 
-### 5. كۆپ تىللىق ئوتتۇراھال
-ئوتتۇراھال سۆزلەرنى سېلىشتۇرغىلى بولمايدۇ. ئۇ چوقۇم مەنە سەۋىيىسىنى تەھلىل قىلىشى كېرەك (مەسىلەن گېرمانچە سۆزلەر بىلەن ياپونچە سۆزلەر بىلەن رايون ئىپادىلىرى).
+### 5. ÙƒÛ†Ù¾ ØªÙ‰Ù„Ù„Ù‰Ù‚ Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„
+Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„ Ø³Û†Ø²Ù„Û•Ø±Ù†Ù‰ Ø³ÛÙ„Ù‰Ø´ØªÛ‡Ø±ØºÙ‰Ù„Ù‰ Ø¨ÙˆÙ„Ù…Ø§ÙŠØ¯Û‡. Ø¦Û‡ Ú†ÙˆÙ‚Û‡Ù… Ù…Û•Ù†Û• Ø³Û•Û‹Ù‰ÙŠÙ‰Ø³Ù‰Ù†Ù‰ ØªÛ•Ú¾Ù„Ù‰Ù„ Ù‚Ù‰Ù„Ù‰Ø´Ù‰ ÙƒÛØ±Û•Ùƒ (Ù…Û•Ø³Ù‰Ù„Û•Ù† Ú¯ÛØ±Ù…Ø§Ù†Ú†Û• Ø³Û†Ø²Ù„Û•Ø± Ø¨Ù‰Ù„Û•Ù† ÙŠØ§Ù¾ÙˆÙ†Ú†Û• Ø³Û†Ø²Ù„Û•Ø± Ø¨Ù‰Ù„Û•Ù† Ø±Ø§ÙŠÙˆÙ† Ø¦Ù‰Ù¾Ø§Ø¯Ù‰Ù„Ù‰Ø±Ù‰).
 
-### 6. ئەسلى تىل + تەرجىمە
-ئەسلى ۋە تەرجىمە ئايرىم تەھلىل قىلىنغان. شۇنداق قىلغاندىلا ، «بىرلەشتۈرۈلگەن ئوتتۇراھال باھالاش» ئېلىپ بېرىلىدۇ. بۇنداق بولغاندا ، Nexus Gaja تەرجىمىنىڭ ئۆزى ۋەزىيەتنى ئېغىرلاشتۇرۇۋەتكەن ياكى ئۆزگەرتەلمىگەنلىكىنى بەلگىلىيەلەيدۇ.
+### 6. Ø¦Û•Ø³Ù„Ù‰ ØªÙ‰Ù„ + ØªÛ•Ø±Ø¬Ù‰Ù…Û•
+Ø¦Û•Ø³Ù„Ù‰ Û‹Û• ØªÛ•Ø±Ø¬Ù‰Ù…Û• Ø¦Ø§ÙŠØ±Ù‰Ù… ØªÛ•Ú¾Ù„Ù‰Ù„ Ù‚Ù‰Ù„Ù‰Ù†ØºØ§Ù†. Ø´Û‡Ù†Ø¯Ø§Ù‚ Ù‚Ù‰Ù„ØºØ§Ù†Ø¯Ù‰Ù„Ø§ ØŒ Â«Ø¨Ù‰Ø±Ù„Û•Ø´ØªÛˆØ±ÛˆÙ„Ú¯Û•Ù† Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„ Ø¨Ø§Ú¾Ø§Ù„Ø§Ø´Â» Ø¦ÛÙ„Ù‰Ù¾ Ø¨ÛØ±Ù‰Ù„Ù‰Ø¯Û‡. Ø¨Û‡Ù†Ø¯Ø§Ù‚ Ø¨ÙˆÙ„ØºØ§Ù†Ø¯Ø§ ØŒ Nexus Gaja ØªÛ•Ø±Ø¬Ù‰Ù…Ù‰Ù†Ù‰Ú­ Ø¦Û†Ø²Ù‰ Û‹Û•Ø²Ù‰ÙŠÛ•ØªÙ†Ù‰ Ø¦ÛØºÙ‰Ø±Ù„Ø§Ø´ØªÛ‡Ø±Û‡Û‹Û•ØªÙƒÛ•Ù† ÙŠØ§ÙƒÙ‰ Ø¦Û†Ø²Ú¯Û•Ø±ØªÛ•Ù„Ù…Ù‰Ú¯Û•Ù†Ù„Ù‰ÙƒÙ‰Ù†Ù‰ Ø¨Û•Ù„Ú¯Ù‰Ù„Ù‰ÙŠÛ•Ù„Û•ÙŠØ¯Û‡.
 
-### 7. ئىشەنچ نومۇرى
-ھەر بىر سۈنئىي ئەقىل باھالاش ئىشەنچ قىممىتىگە ئېرىشىدۇ (مەسىلەن تەھدىد ئېھتىماللىقى: 0.96). ئەمما: ** ئىشەنچ نومۇرى ≠ ھەقىقەت. **% 96 نومۇر پەقەت مودېلنىڭ تۈرگە ئايرىلىشىغا ناھايىتى ئىشىنىدىغانلىقىدىن دېرەك بېرىدۇ ، ئىشلەتكۈچىنىڭ گۇناھكار بولۇشى ناتايىن.
+### 7. Ø¦Ù‰Ø´Û•Ù†Ú† Ù†ÙˆÙ…Û‡Ø±Ù‰
+Ú¾Û•Ø± Ø¨Ù‰Ø± Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„ Ø¨Ø§Ú¾Ø§Ù„Ø§Ø´ Ø¦Ù‰Ø´Û•Ù†Ú† Ù‚Ù‰Ù…Ù…Ù‰ØªÙ‰Ú¯Û• Ø¦ÛØ±Ù‰Ø´Ù‰Ø¯Û‡ (Ù…Û•Ø³Ù‰Ù„Û•Ù† ØªÛ•Ú¾Ø¯Ù‰Ø¯ Ø¦ÛÚ¾ØªÙ‰Ù…Ø§Ù„Ù„Ù‰Ù‚Ù‰: 0.96). Ø¦Û•Ù…Ù…Ø§: ** Ø¦Ù‰Ø´Û•Ù†Ú† Ù†ÙˆÙ…Û‡Ø±Ù‰ â‰  Ú¾Û•Ù‚Ù‰Ù‚Û•Øª. **% 96 Ù†ÙˆÙ…Û‡Ø± Ù¾Û•Ù‚Û•Øª Ù…ÙˆØ¯ÛÙ„Ù†Ù‰Ú­ ØªÛˆØ±Ú¯Û• Ø¦Ø§ÙŠØ±Ù‰Ù„Ù‰Ø´Ù‰ØºØ§ Ù†Ø§Ú¾Ø§ÙŠÙ‰ØªÙ‰ Ø¦Ù‰Ø´Ù‰Ù†Ù‰Ø¯Ù‰ØºØ§Ù†Ù„Ù‰Ù‚Ù‰Ø¯Ù‰Ù† Ø¯ÛØ±Û•Ùƒ Ø¨ÛØ±Ù‰Ø¯Û‡ ØŒ Ø¦Ù‰Ø´Ù„Û•ØªÙƒÛˆÚ†Ù‰Ù†Ù‰Ú­ Ú¯Û‡Ù†Ø§Ú¾ÙƒØ§Ø± Ø¨ÙˆÙ„Û‡Ø´Ù‰ Ù†Ø§ØªØ§ÙŠÙ‰Ù†.
 
-### 8. ئېنىقسىزلىقنىڭ ئۆزى بىر سىگنالغا ئايلىنىدۇ
-ئەگەر سۈنئىي ئەقىل ئېنىق بولمىسا (مەسىلەن تەھدىد: 0.62 ، ساتىرا: 0.54) ، ئۇ پەقەت قاتتىق تەدبىر قوللانمايدۇ. ئۇنىڭ ئورنىغا ئېنىقسىزلىق بىناكارلىققا بىۋاسىتە قۇرۇلدى: ** ئىنسانلارنىڭ تەكشۈرۈشى تەلەپ قىلىنىدۇ **.
+### 8. Ø¦ÛÙ†Ù‰Ù‚Ø³Ù‰Ø²Ù„Ù‰Ù‚Ù†Ù‰Ú­ Ø¦Û†Ø²Ù‰ Ø¨Ù‰Ø± Ø³Ù‰Ú¯Ù†Ø§Ù„ØºØ§ Ø¦Ø§ÙŠÙ„Ù‰Ù†Ù‰Ø¯Û‡
+Ø¦Û•Ú¯Û•Ø± Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„ Ø¦ÛÙ†Ù‰Ù‚ Ø¨ÙˆÙ„Ù…Ù‰Ø³Ø§ (Ù…Û•Ø³Ù‰Ù„Û•Ù† ØªÛ•Ú¾Ø¯Ù‰Ø¯: 0.62 ØŒ Ø³Ø§ØªÙ‰Ø±Ø§: 0.54) ØŒ Ø¦Û‡ Ù¾Û•Ù‚Û•Øª Ù‚Ø§ØªØªÙ‰Ù‚ ØªÛ•Ø¯Ø¨Ù‰Ø± Ù‚ÙˆÙ„Ù„Ø§Ù†Ù…Ø§ÙŠØ¯Û‡. Ø¦Û‡Ù†Ù‰Ú­ Ø¦ÙˆØ±Ù†Ù‰ØºØ§ Ø¦ÛÙ†Ù‰Ù‚Ø³Ù‰Ø²Ù„Ù‰Ù‚ Ø¨Ù‰Ù†Ø§ÙƒØ§Ø±Ù„Ù‰Ù‚Ù‚Ø§ Ø¨Ù‰Û‹Ø§Ø³Ù‰ØªÛ• Ù‚Û‡Ø±Û‡Ù„Ø¯Ù‰: ** Ø¦Ù‰Ù†Ø³Ø§Ù†Ù„Ø§Ø±Ù†Ù‰Ú­ ØªÛ•ÙƒØ´ÛˆØ±ÛˆØ´Ù‰ ØªÛ•Ù„Û•Ù¾ Ù‚Ù‰Ù„Ù‰Ù†Ù‰Ø¯Û‡ **.
 
-### 9. تۆت قارار رايونى
-- 🟢 ** GREEN **: ماس كېلىشى مۇمكىن. → no action.
-- 🟡 ** سېرىق **: خىلاپلىق قىلىش ئېھتىماللىقى بار. زۆرۈر تېپىلغاندا دىققەت قىلىڭ.
-- 🟠 ** ORANGE **: خىلاپلىق قىلىش ئېھتىماللىقى بار. → ئوتتۇراھال تەكشۈرۈش.
-- 🔴 ** RED **: زور خىلاپلىق قىلىش ئېھتىماللىقى بار. → دەرھال قوغداش تەدبىرلىرى + ئىنسانلارنىڭ سىنىقى.
+### 9. ØªÛ†Øª Ù‚Ø§Ø±Ø§Ø± Ø±Ø§ÙŠÙˆÙ†Ù‰
+- ðŸŸ¢ ** GREEN **: Ù…Ø§Ø³ ÙƒÛÙ„Ù‰Ø´Ù‰ Ù…Û‡Ù…ÙƒÙ‰Ù†. â†’ no action.
+- ðŸŸ¡ ** Ø³ÛØ±Ù‰Ù‚ **: Ø®Ù‰Ù„Ø§Ù¾Ù„Ù‰Ù‚ Ù‚Ù‰Ù„Ù‰Ø´ Ø¦ÛÚ¾ØªÙ‰Ù…Ø§Ù„Ù„Ù‰Ù‚Ù‰ Ø¨Ø§Ø±. Ø²Û†Ø±ÛˆØ± ØªÛÙ¾Ù‰Ù„ØºØ§Ù†Ø¯Ø§ Ø¯Ù‰Ù‚Ù‚Û•Øª Ù‚Ù‰Ù„Ù‰Ú­.
+- ðŸŸ  ** ORANGE **: Ø®Ù‰Ù„Ø§Ù¾Ù„Ù‰Ù‚ Ù‚Ù‰Ù„Ù‰Ø´ Ø¦ÛÚ¾ØªÙ‰Ù…Ø§Ù„Ù„Ù‰Ù‚Ù‰ Ø¨Ø§Ø±. â†’ Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„ ØªÛ•ÙƒØ´ÛˆØ±ÛˆØ´.
+- ðŸ”´ ** RED **: Ø²ÙˆØ± Ø®Ù‰Ù„Ø§Ù¾Ù„Ù‰Ù‚ Ù‚Ù‰Ù„Ù‰Ø´ Ø¦ÛÚ¾ØªÙ‰Ù…Ø§Ù„Ù„Ù‰Ù‚Ù‰ Ø¨Ø§Ø±. â†’ Ø¯Û•Ø±Ú¾Ø§Ù„ Ù‚ÙˆØºØ¯Ø§Ø´ ØªÛ•Ø¯Ø¨Ù‰Ø±Ù„Ù‰Ø±Ù‰ + Ø¦Ù‰Ù†Ø³Ø§Ù†Ù„Ø§Ø±Ù†Ù‰Ú­ Ø³Ù‰Ù†Ù‰Ù‚Ù‰.
 
-### 10. «AI جازاسى» يوق
-** سۈنئىي ئەقىل ئاخىرقى جازا يۈرگۈزمەيدۇ. ** ئۇ بىخەتەرلىك مەسىلىسىگە يولۇققاندا جىددىي تېخنىكىلىق تەدبىرلەرنى قوزغىتالايدۇ (مەسىلەن ئۇچۇرنى تۇتۇپ قېلىش) ، ئەمما ئاخىرقى قارار يەنىلا دەلىللەنمەيدۇ.
+### 10. Â«AI Ø¬Ø§Ø²Ø§Ø³Ù‰Â» ÙŠÙˆÙ‚
+** Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„ Ø¦Ø§Ø®Ù‰Ø±Ù‚Ù‰ Ø¬Ø§Ø²Ø§ ÙŠÛˆØ±Ú¯ÛˆØ²Ù…Û•ÙŠØ¯Û‡. ** Ø¦Û‡ Ø¨Ù‰Ø®Û•ØªÛ•Ø±Ù„Ù‰Ùƒ Ù…Û•Ø³Ù‰Ù„Ù‰Ø³Ù‰Ú¯Û• ÙŠÙˆÙ„Û‡Ù‚Ù‚Ø§Ù†Ø¯Ø§ Ø¬Ù‰Ø¯Ø¯Ù‰ÙŠ ØªÛØ®Ù†Ù‰ÙƒÙ‰Ù„Ù‰Ù‚ ØªÛ•Ø¯Ø¨Ù‰Ø±Ù„Û•Ø±Ù†Ù‰ Ù‚ÙˆØ²ØºÙ‰ØªØ§Ù„Ø§ÙŠØ¯Û‡ (Ù…Û•Ø³Ù‰Ù„Û•Ù† Ø¦Û‡Ú†Û‡Ø±Ù†Ù‰ ØªÛ‡ØªÛ‡Ù¾ Ù‚ÛÙ„Ù‰Ø´) ØŒ Ø¦Û•Ù…Ù…Ø§ Ø¦Ø§Ø®Ù‰Ø±Ù‚Ù‰ Ù‚Ø§Ø±Ø§Ø± ÙŠÛ•Ù†Ù‰Ù„Ø§ Ø¯Û•Ù„Ù‰Ù„Ù„Û•Ù†Ù…Û•ÙŠØ¯Û‡.
 
-### 11. قوغداش تەدبىرلىرى ئاپتوماتىك بولىدۇ
-ئەگەر مەلۇم بىر تەھدىد بولسا (تەھدىد بايقالدى → يۇقىرى ئىشەنچ → ۋاقىتلىق چەكلەش → ئىنسانلارنىڭ تەكشۈرۈشى → قارار) ، بىز سۈنئىي ئەقىلنى سوتچى قىلماي تۇرۇپ ، تەھدىتكە ئۇچرىغان ئىشلەتكۈچىنى قوغدايمىز.
+### 11. Ù‚ÙˆØºØ¯Ø§Ø´ ØªÛ•Ø¯Ø¨Ù‰Ø±Ù„Ù‰Ø±Ù‰ Ø¦Ø§Ù¾ØªÙˆÙ…Ø§ØªÙ‰Ùƒ Ø¨ÙˆÙ„Ù‰Ø¯Û‡
+Ø¦Û•Ú¯Û•Ø± Ù…Û•Ù„Û‡Ù… Ø¨Ù‰Ø± ØªÛ•Ú¾Ø¯Ù‰Ø¯ Ø¨ÙˆÙ„Ø³Ø§ (ØªÛ•Ú¾Ø¯Ù‰Ø¯ Ø¨Ø§ÙŠÙ‚Ø§Ù„Ø¯Ù‰ â†’ ÙŠÛ‡Ù‚Ù‰Ø±Ù‰ Ø¦Ù‰Ø´Û•Ù†Ú† â†’ Û‹Ø§Ù‚Ù‰ØªÙ„Ù‰Ù‚ Ú†Û•ÙƒÙ„Û•Ø´ â†’ Ø¦Ù‰Ù†Ø³Ø§Ù†Ù„Ø§Ø±Ù†Ù‰Ú­ ØªÛ•ÙƒØ´ÛˆØ±ÛˆØ´Ù‰ â†’ Ù‚Ø§Ø±Ø§Ø±) ØŒ Ø¨Ù‰Ø² Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„Ù†Ù‰ Ø³ÙˆØªÚ†Ù‰ Ù‚Ù‰Ù„Ù…Ø§ÙŠ ØªÛ‡Ø±Û‡Ù¾ ØŒ ØªÛ•Ú¾Ø¯Ù‰ØªÙƒÛ• Ø¦Û‡Ú†Ø±Ù‰ØºØ§Ù† Ø¦Ù‰Ø´Ù„Û•ØªÙƒÛˆÚ†Ù‰Ù†Ù‰ Ù‚ÙˆØºØ¯Ø§ÙŠÙ…Ù‰Ø².
 
-### 12. سۈنئىي ئەقىل چوقۇم قارارىنى ئاقلىيالايدىغان بولۇشى كېرەك
-DSA ئېنىق ۋە كونكرېت سەۋەبلەرنى تەلەپ قىلىدۇ. سۈنئىي ئەقىلنىڭ قۇرۇلما خاراكتېرلىك سەۋەبى: قائىدە (NG-CONDUCT-004) ، بايقالغان (يوشۇرۇن كونكېرت تەھدىد) ، ئىشەنچ (0.94) ، مۇناسىۋەتلىك مەزمۇن (ئالدىنقى 4 ئۇچۇر) ، تەۋسىيە قىلىنغان ھەرىكەت (ئىنسانلارنىڭ تەكشۈرۈشى).
+### 12. Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„ Ú†ÙˆÙ‚Û‡Ù… Ù‚Ø§Ø±Ø§Ø±Ù‰Ù†Ù‰ Ø¦Ø§Ù‚Ù„Ù‰ÙŠØ§Ù„Ø§ÙŠØ¯Ù‰ØºØ§Ù† Ø¨ÙˆÙ„Û‡Ø´Ù‰ ÙƒÛØ±Û•Ùƒ
+DSA Ø¦ÛÙ†Ù‰Ù‚ Û‹Û• ÙƒÙˆÙ†ÙƒØ±ÛØª Ø³Û•Û‹Û•Ø¨Ù„Û•Ø±Ù†Ù‰ ØªÛ•Ù„Û•Ù¾ Ù‚Ù‰Ù„Ù‰Ø¯Û‡. Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„Ù†Ù‰Ú­ Ù‚Û‡Ø±Û‡Ù„Ù…Ø§ Ø®Ø§Ø±Ø§ÙƒØªÛØ±Ù„Ù‰Ùƒ Ø³Û•Û‹Û•Ø¨Ù‰: Ù‚Ø§Ø¦Ù‰Ø¯Û• (NG-CONDUCT-004) ØŒ Ø¨Ø§ÙŠÙ‚Ø§Ù„ØºØ§Ù† (ÙŠÙˆØ´Û‡Ø±Û‡Ù† ÙƒÙˆÙ†ÙƒÛØ±Øª ØªÛ•Ú¾Ø¯Ù‰Ø¯) ØŒ Ø¦Ù‰Ø´Û•Ù†Ú† (0.94) ØŒ Ù…Û‡Ù†Ø§Ø³Ù‰Û‹Û•ØªÙ„Ù‰Ùƒ Ù…Û•Ø²Ù…Û‡Ù† (Ø¦Ø§Ù„Ø¯Ù‰Ù†Ù‚Ù‰ 4 Ø¦Û‡Ú†Û‡Ø±) ØŒ ØªÛ•Û‹Ø³Ù‰ÙŠÛ• Ù‚Ù‰Ù„Ù‰Ù†ØºØ§Ù† Ú¾Û•Ø±Ù‰ÙƒÛ•Øª (Ø¦Ù‰Ù†Ø³Ø§Ù†Ù„Ø§Ø±Ù†Ù‰Ú­ ØªÛ•ÙƒØ´ÛˆØ±ÛˆØ´Ù‰).
 
-### 13. AI نىڭ مەزمۇننى مەخپىي ئۆزگەرتىشىگە رۇخسەت قىلىنمايدۇ
-** ئوتتۇراھال سۈنئىي ئەقىل ھەرگىزمۇ ئەسلىدىكى مەزمۇننى دىققەتسىز ئۆزگەرتمەسلىكى كېرەك. ** ئاپتوماتىك تۈزىتىش ، تەرجىمە ياكى خۇلاسە ئەسلى مەزمۇننى ساقلاپ قالىدۇ.
+### 13. AI Ù†Ù‰Ú­ Ù…Û•Ø²Ù…Û‡Ù†Ù†Ù‰ Ù…Û•Ø®Ù¾Ù‰ÙŠ Ø¦Û†Ø²Ú¯Û•Ø±ØªÙ‰Ø´Ù‰Ú¯Û• Ø±Û‡Ø®Ø³Û•Øª Ù‚Ù‰Ù„Ù‰Ù†Ù…Ø§ÙŠØ¯Û‡
+** Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„ Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„ Ú¾Û•Ø±Ú¯Ù‰Ø²Ù…Û‡ Ø¦Û•Ø³Ù„Ù‰Ø¯Ù‰ÙƒÙ‰ Ù…Û•Ø²Ù…Û‡Ù†Ù†Ù‰ Ø¯Ù‰Ù‚Ù‚Û•ØªØ³Ù‰Ø² Ø¦Û†Ø²Ú¯Û•Ø±ØªÙ…Û•Ø³Ù„Ù‰ÙƒÙ‰ ÙƒÛØ±Û•Ùƒ. ** Ø¦Ø§Ù¾ØªÙˆÙ…Ø§ØªÙ‰Ùƒ ØªÛˆØ²Ù‰ØªÙ‰Ø´ ØŒ ØªÛ•Ø±Ø¬Ù‰Ù…Û• ÙŠØ§ÙƒÙ‰ Ø®Û‡Ù„Ø§Ø³Û• Ø¦Û•Ø³Ù„Ù‰ Ù…Û•Ø²Ù…Û‡Ù†Ù†Ù‰ Ø³Ø§Ù‚Ù„Ø§Ù¾ Ù‚Ø§Ù„Ù‰Ø¯Û‡.
 
-### 14. AI ھاسىل قىلغان مەزمۇن
-بىز پەرقلەندۈرىمىز: ئىنسانلار ياراتقان ، سۈنئىي ئەقىل ياردىمى ، سۈنئىي ئەقىل ھاسىل قىلغان ۋە سۈنئىي ئەقىل ئارقىلىق كونترول قىلىنغان. بۇ مەزمۇن ئۇچۇرلىرىنىڭ بىر قىسمى بولۇپ قالىدۇ.
+### 14. AI Ú¾Ø§Ø³Ù‰Ù„ Ù‚Ù‰Ù„ØºØ§Ù† Ù…Û•Ø²Ù…Û‡Ù†
+Ø¨Ù‰Ø² Ù¾Û•Ø±Ù‚Ù„Û•Ù†Ø¯ÛˆØ±Ù‰Ù…Ù‰Ø²: Ø¦Ù‰Ù†Ø³Ø§Ù†Ù„Ø§Ø± ÙŠØ§Ø±Ø§ØªÙ‚Ø§Ù† ØŒ Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„ ÙŠØ§Ø±Ø¯Ù‰Ù…Ù‰ ØŒ Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„ Ú¾Ø§Ø³Ù‰Ù„ Ù‚Ù‰Ù„ØºØ§Ù† Û‹Û• Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„ Ø¦Ø§Ø±Ù‚Ù‰Ù„Ù‰Ù‚ ÙƒÙˆÙ†ØªØ±ÙˆÙ„ Ù‚Ù‰Ù„Ù‰Ù†ØºØ§Ù†. Ø¨Û‡ Ù…Û•Ø²Ù…Û‡Ù† Ø¦Û‡Ú†Û‡Ø±Ù„Ù‰Ø±Ù‰Ù†Ù‰Ú­ Ø¨Ù‰Ø± Ù‚Ù‰Ø³Ù…Ù‰ Ø¨ÙˆÙ„Û‡Ù¾ Ù‚Ø§Ù„Ù‰Ø¯Û‡.
 
-### 15. AI مەزمۇن بەلگىسى ۋە AI ئىسپاتلاش قەۋىتى
-ياۋروپا ئىتتىپاقى AI قانۇنىنىڭ ئېنىقلىق قائىدىسىگە ئاساسەن (2026-يىلى 8-ئايدىن باشلاپ) ، AI ھاسىل قىلغان مەزمۇننى ئېتىراپ قىلىش كېرەك. بىز مېتا سانلىق مەلۇماتنى ساقلايدىغان سۈنئىي ئەقلىي ئىقتىدار قەۋىتىنى تەسەۋۋۇر قىلىمىز (سۈنئىي ئەقىلنىڭ كېلىپ چىقىشى ، مودېلى ، ۋاقىت جەدۋىلى ، ئىنسانلارنىڭ تەكشۈرۈشى).
+### 15. AI Ù…Û•Ø²Ù…Û‡Ù† Ø¨Û•Ù„Ú¯Ù‰Ø³Ù‰ Û‹Û• AI Ø¦Ù‰Ø³Ù¾Ø§ØªÙ„Ø§Ø´ Ù‚Û•Û‹Ù‰ØªÙ‰
+ÙŠØ§Û‹Ø±ÙˆÙ¾Ø§ Ø¦Ù‰ØªØªÙ‰Ù¾Ø§Ù‚Ù‰ AI Ù‚Ø§Ù†Û‡Ù†Ù‰Ù†Ù‰Ú­ Ø¦ÛÙ†Ù‰Ù‚Ù„Ù‰Ù‚ Ù‚Ø§Ø¦Ù‰Ø¯Ù‰Ø³Ù‰Ú¯Û• Ø¦Ø§Ø³Ø§Ø³Û•Ù† (2026-ÙŠÙ‰Ù„Ù‰ 8-Ø¦Ø§ÙŠØ¯Ù‰Ù† Ø¨Ø§Ø´Ù„Ø§Ù¾) ØŒ AI Ú¾Ø§Ø³Ù‰Ù„ Ù‚Ù‰Ù„ØºØ§Ù† Ù…Û•Ø²Ù…Û‡Ù†Ù†Ù‰ Ø¦ÛØªÙ‰Ø±Ø§Ù¾ Ù‚Ù‰Ù„Ù‰Ø´ ÙƒÛØ±Û•Ùƒ. Ø¨Ù‰Ø² Ù…ÛØªØ§ Ø³Ø§Ù†Ù„Ù‰Ù‚ Ù…Û•Ù„Û‡Ù…Ø§ØªÙ†Ù‰ Ø³Ø§Ù‚Ù„Ø§ÙŠØ¯Ù‰ØºØ§Ù† Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù„Ù‰ÙŠ Ø¦Ù‰Ù‚ØªÙ‰Ø¯Ø§Ø± Ù‚Û•Û‹Ù‰ØªÙ‰Ù†Ù‰ ØªÛ•Ø³Û•Û‹Û‹Û‡Ø± Ù‚Ù‰Ù„Ù‰Ù…Ù‰Ø² (Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„Ù†Ù‰Ú­ ÙƒÛÙ„Ù‰Ù¾ Ú†Ù‰Ù‚Ù‰Ø´Ù‰ ØŒ Ù…ÙˆØ¯ÛÙ„Ù‰ ØŒ Û‹Ø§Ù‚Ù‰Øª Ø¬Û•Ø¯Û‹Ù‰Ù„Ù‰ ØŒ Ø¦Ù‰Ù†Ø³Ø§Ù†Ù„Ø§Ø±Ù†Ù‰Ú­ ØªÛ•ÙƒØ´ÛˆØ±ÛˆØ´Ù‰).
 
-### 16. چوڭقۇر قاتلاملىق بايقاش
-بۇ بىناكارلىق سۈنئىي بىرىكمە رەسىم ، غىدىقلانغان ئاۋاز ۋە چوڭقۇر قاتلاملارنى بايقاشنى مەقسەت قىلىدۇ. ئەمما تونۇش ئاپتوماتىك ئىسپات ئەمەس.
+### 16. Ú†ÙˆÚ­Ù‚Û‡Ø± Ù‚Ø§ØªÙ„Ø§Ù…Ù„Ù‰Ù‚ Ø¨Ø§ÙŠÙ‚Ø§Ø´
+Ø¨Û‡ Ø¨Ù‰Ù†Ø§ÙƒØ§Ø±Ù„Ù‰Ù‚ Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¨Ù‰Ø±Ù‰ÙƒÙ…Û• Ø±Û•Ø³Ù‰Ù… ØŒ ØºÙ‰Ø¯Ù‰Ù‚Ù„Ø§Ù†ØºØ§Ù† Ø¦Ø§Û‹Ø§Ø² Û‹Û• Ú†ÙˆÚ­Ù‚Û‡Ø± Ù‚Ø§ØªÙ„Ø§Ù…Ù„Ø§Ø±Ù†Ù‰ Ø¨Ø§ÙŠÙ‚Ø§Ø´Ù†Ù‰ Ù…Û•Ù‚Ø³Û•Øª Ù‚Ù‰Ù„Ù‰Ø¯Û‡. Ø¦Û•Ù…Ù…Ø§ ØªÙˆÙ†Û‡Ø´ Ø¦Ø§Ù¾ØªÙˆÙ…Ø§ØªÙ‰Ùƒ Ø¦Ù‰Ø³Ù¾Ø§Øª Ø¦Û•Ù…Û•Ø³.
 
-### 17. ئاپتوماتىك «ھەقىقەت ماشىنىسى» يوق (ئوتتۇراھال ≠ پاكىت تەكشۈرۈش)
-سىستېما تەكشۈرىدۇ: «مەزمۇن ھېچقانداق قائىدىگە خىلاپلىق قىلامدۇ؟». (مەزمۇن مودېلى) ، يەنە بىرى تەمىنلەيدۇ: «قايسى ئۇچۇر ۋە مەنبەلەر بار؟». (ئۇچۇر ياردىمى). پىكىر پەقەت «خاتا» دەپ ئۆچۈرۈلمەيدۇ.
+### 17. Ø¦Ø§Ù¾ØªÙˆÙ…Ø§ØªÙ‰Ùƒ Â«Ú¾Û•Ù‚Ù‰Ù‚Û•Øª Ù…Ø§Ø´Ù‰Ù†Ù‰Ø³Ù‰Â» ÙŠÙˆÙ‚ (Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„ â‰  Ù¾Ø§ÙƒÙ‰Øª ØªÛ•ÙƒØ´ÛˆØ±ÛˆØ´)
+Ø³Ù‰Ø³ØªÛÙ…Ø§ ØªÛ•ÙƒØ´ÛˆØ±Ù‰Ø¯Û‡: Â«Ù…Û•Ø²Ù…Û‡Ù† Ú¾ÛÚ†Ù‚Ø§Ù†Ø¯Ø§Ù‚ Ù‚Ø§Ø¦Ù‰Ø¯Ù‰Ú¯Û• Ø®Ù‰Ù„Ø§Ù¾Ù„Ù‰Ù‚ Ù‚Ù‰Ù„Ø§Ù…Ø¯Û‡ØŸÂ». (Ù…Û•Ø²Ù…Û‡Ù† Ù…ÙˆØ¯ÛÙ„Ù‰) ØŒ ÙŠÛ•Ù†Û• Ø¨Ù‰Ø±Ù‰ ØªÛ•Ù…Ù‰Ù†Ù„Û•ÙŠØ¯Û‡: Â«Ù‚Ø§ÙŠØ³Ù‰ Ø¦Û‡Ú†Û‡Ø± Û‹Û• Ù…Û•Ù†Ø¨Û•Ù„Û•Ø± Ø¨Ø§Ø±ØŸÂ». (Ø¦Û‡Ú†Û‡Ø± ÙŠØ§Ø±Ø¯Ù‰Ù…Ù‰). Ù¾Ù‰ÙƒÙ‰Ø± Ù¾Û•Ù‚Û•Øª Â«Ø®Ø§ØªØ§Â» Ø¯Û•Ù¾ Ø¦Û†Ú†ÛˆØ±ÛˆÙ„Ù…Û•ÙŠØ¯Û‡.
 
-### 18. مەدەنىيەتنى خاتا چۈشەندۈرۈشتىن قوغداش
-سۈنئىي ئەقىل بىر دۆلەتنىڭ ئالاقە ئۆلچىمىنىڭ دۇنياۋى ئۆلچەم سۈپىتىدە قوبۇل قىلىنىشىنىڭ ئالدىنى ئېلىش ئۈچۈن ** مەدەنىيەت مەزمۇنى مودېلى ** نى تەلەپ قىلىدۇ.
+### 18. Ù…Û•Ø¯Û•Ù†Ù‰ÙŠÛ•ØªÙ†Ù‰ Ø®Ø§ØªØ§ Ú†ÛˆØ´Û•Ù†Ø¯ÛˆØ±ÛˆØ´ØªÙ‰Ù† Ù‚ÙˆØºØ¯Ø§Ø´
+Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„ Ø¨Ù‰Ø± Ø¯Û†Ù„Û•ØªÙ†Ù‰Ú­ Ø¦Ø§Ù„Ø§Ù‚Û• Ø¦Û†Ù„Ú†Ù‰Ù…Ù‰Ù†Ù‰Ú­ Ø¯Û‡Ù†ÙŠØ§Û‹Ù‰ Ø¦Û†Ù„Ú†Û•Ù… Ø³ÛˆÙ¾Ù‰ØªÙ‰Ø¯Û• Ù‚ÙˆØ¨Û‡Ù„ Ù‚Ù‰Ù„Ù‰Ù†Ù‰Ø´Ù‰Ù†Ù‰Ú­ Ø¦Ø§Ù„Ø¯Ù‰Ù†Ù‰ Ø¦ÛÙ„Ù‰Ø´ Ø¦ÛˆÚ†ÛˆÙ† ** Ù…Û•Ø¯Û•Ù†Ù‰ÙŠÛ•Øª Ù…Û•Ø²Ù…Û‡Ù†Ù‰ Ù…ÙˆØ¯ÛÙ„Ù‰ ** Ù†Ù‰ ØªÛ•Ù„Û•Ù¾ Ù‚Ù‰Ù„Ù‰Ø¯Û‡.
 
-### 19. مەسخىرە ، ھەجۋىي ۋە يۇمۇر
-سۈنئىي ئەقىل مەزمۇن ، ھېسسىيات ، سۆھبەت ئېقىمى ۋە داڭلىق مەسخىرە قۇرۇلمىسىنى ئىشلىتىدۇ ، ئەمما مەنىسى ئېنىق بولمىغاندا ئېنىقسىزلىققا يول قويۇشى كېرەك.
+### 19. Ù…Û•Ø³Ø®Ù‰Ø±Û• ØŒ Ú¾Û•Ø¬Û‹Ù‰ÙŠ Û‹Û• ÙŠÛ‡Ù…Û‡Ø±
+Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„ Ù…Û•Ø²Ù…Û‡Ù† ØŒ Ú¾ÛØ³Ø³Ù‰ÙŠØ§Øª ØŒ Ø³Û†Ú¾Ø¨Û•Øª Ø¦ÛÙ‚Ù‰Ù…Ù‰ Û‹Û• Ø¯Ø§Ú­Ù„Ù‰Ù‚ Ù…Û•Ø³Ø®Ù‰Ø±Û• Ù‚Û‡Ø±Û‡Ù„Ù…Ù‰Ø³Ù‰Ù†Ù‰ Ø¦Ù‰Ø´Ù„Ù‰ØªÙ‰Ø¯Û‡ ØŒ Ø¦Û•Ù…Ù…Ø§ Ù…Û•Ù†Ù‰Ø³Ù‰ Ø¦ÛÙ†Ù‰Ù‚ Ø¨ÙˆÙ„Ù…Ù‰ØºØ§Ù†Ø¯Ø§ Ø¦ÛÙ†Ù‰Ù‚Ø³Ù‰Ø²Ù„Ù‰Ù‚Ù‚Ø§ ÙŠÙˆÙ„ Ù‚ÙˆÙŠÛ‡Ø´Ù‰ ÙƒÛØ±Û•Ùƒ.
 
-### 20. يەككە AI نومۇرىغا ئاساسەن جازا بېرىلمەيدۇ
-ئېغىر دەرىجىدىكى ئوتتۇراھال ئارىلىشىش پەقەت بىرلا ئاپتوماتىك تۈرگە ئايرىش نەتىجىسىنى ئاساس قىلىشقا بولمايدۇ (تېكىست + مەزمۇن + ھەرىكەت + ھەرىكەت + تىل + مېدىيا + قائىدە ماتورى = خەتەرنى باھالاش).
+### 20. ÙŠÛ•ÙƒÙƒÛ• AI Ù†ÙˆÙ…Û‡Ø±Ù‰ØºØ§ Ø¦Ø§Ø³Ø§Ø³Û•Ù† Ø¬Ø§Ø²Ø§ Ø¨ÛØ±Ù‰Ù„Ù…Û•ÙŠØ¯Û‡
+Ø¦ÛØºÙ‰Ø± Ø¯Û•Ø±Ù‰Ø¬Ù‰Ø¯Ù‰ÙƒÙ‰ Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„ Ø¦Ø§Ø±Ù‰Ù„Ù‰Ø´Ù‰Ø´ Ù¾Û•Ù‚Û•Øª Ø¨Ù‰Ø±Ù„Ø§ Ø¦Ø§Ù¾ØªÙˆÙ…Ø§ØªÙ‰Ùƒ ØªÛˆØ±Ú¯Û• Ø¦Ø§ÙŠØ±Ù‰Ø´ Ù†Û•ØªÙ‰Ø¬Ù‰Ø³Ù‰Ù†Ù‰ Ø¦Ø§Ø³Ø§Ø³ Ù‚Ù‰Ù„Ù‰Ø´Ù‚Ø§ Ø¨ÙˆÙ„Ù…Ø§ÙŠØ¯Û‡ (ØªÛÙƒÙ‰Ø³Øª + Ù…Û•Ø²Ù…Û‡Ù† + Ú¾Û•Ø±Ù‰ÙƒÛ•Øª + Ú¾Û•Ø±Ù‰ÙƒÛ•Øª + ØªÙ‰Ù„ + Ù…ÛØ¯Ù‰ÙŠØ§ + Ù‚Ø§Ø¦Ù‰Ø¯Û• Ù…Ø§ØªÙˆØ±Ù‰ = Ø®Û•ØªÛ•Ø±Ù†Ù‰ Ø¨Ø§Ú¾Ø§Ù„Ø§Ø´).
 
-### 21. ئىشلەتكۈچىنىڭ ھەرىكەت سىگنالى ۋە ئىجتىمائىي ئىناۋەت سىستېمىسى يوق
-ئۇ ئادەتتىكى ئىجتىمائىي باھالاش سىستېمىسى ئەمەس ، بەلكى تېخنىكىلىق قالايمىقان ئىشلىتىش سىگنالىغا مۇناسىۋەتلىك. Nexus Gaja ئىجتىمائىي ئىناۋەت سىستېمىسىنى يۈرگۈزمەيدۇ - ئوتتۇراھاللىق بىخەتەرلىك ئۈچۈن بولۇپ ، ئادەمنىڭ قىممىتىنى باھالىمايدۇ.
+### 21. Ø¦Ù‰Ø´Ù„Û•ØªÙƒÛˆÚ†Ù‰Ù†Ù‰Ú­ Ú¾Û•Ø±Ù‰ÙƒÛ•Øª Ø³Ù‰Ú¯Ù†Ø§Ù„Ù‰ Û‹Û• Ø¦Ù‰Ø¬ØªÙ‰Ù…Ø§Ø¦Ù‰ÙŠ Ø¦Ù‰Ù†Ø§Û‹Û•Øª Ø³Ù‰Ø³ØªÛÙ…Ù‰Ø³Ù‰ ÙŠÙˆÙ‚
+Ø¦Û‡ Ø¦Ø§Ø¯Û•ØªØªÙ‰ÙƒÙ‰ Ø¦Ù‰Ø¬ØªÙ‰Ù…Ø§Ø¦Ù‰ÙŠ Ø¨Ø§Ú¾Ø§Ù„Ø§Ø´ Ø³Ù‰Ø³ØªÛÙ…Ù‰Ø³Ù‰ Ø¦Û•Ù…Û•Ø³ ØŒ Ø¨Û•Ù„ÙƒÙ‰ ØªÛØ®Ù†Ù‰ÙƒÙ‰Ù„Ù‰Ù‚ Ù‚Ø§Ù„Ø§ÙŠÙ…Ù‰Ù‚Ø§Ù† Ø¦Ù‰Ø´Ù„Ù‰ØªÙ‰Ø´ Ø³Ù‰Ú¯Ù†Ø§Ù„Ù‰ØºØ§ Ù…Û‡Ù†Ø§Ø³Ù‰Û‹Û•ØªÙ„Ù‰Ùƒ. Nexus Gaja Ø¦Ù‰Ø¬ØªÙ‰Ù…Ø§Ø¦Ù‰ÙŠ Ø¦Ù‰Ù†Ø§Û‹Û•Øª Ø³Ù‰Ø³ØªÛÙ…Ù‰Ø³Ù‰Ù†Ù‰ ÙŠÛˆØ±Ú¯ÛˆØ²Ù…Û•ÙŠØ¯Û‡ - Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„Ù„Ù‰Ù‚ Ø¨Ù‰Ø®Û•ØªÛ•Ø±Ù„Ù‰Ùƒ Ø¦ÛˆÚ†ÛˆÙ† Ø¨ÙˆÙ„Û‡Ù¾ ØŒ Ø¦Ø§Ø¯Û•Ù…Ù†Ù‰Ú­ Ù‚Ù‰Ù…Ù…Ù‰ØªÙ‰Ù†Ù‰ Ø¨Ø§Ú¾Ø§Ù„Ù‰Ù…Ø§ÙŠØ¯Û‡.
 
-### 22. ئوتتۇراھال سۈنئىي ئەقىل چوقۇم تەكشۈرۈلۈشى كېرەك
-بارلىق مۇناسىۋەتلىك ئاپتوماتىك قارارلار خاتىرىلىنىدۇ (پائالىيەت كىملىكى ، قائىدە كىملىكى ، ئىشەنچ ، ئىنسانلارنىڭ تەكشۈرۈشى قاتارلىقلار).
+### 22. Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„ Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„ Ú†ÙˆÙ‚Û‡Ù… ØªÛ•ÙƒØ´ÛˆØ±ÛˆÙ„ÛˆØ´Ù‰ ÙƒÛØ±Û•Ùƒ
+Ø¨Ø§Ø±Ù„Ù‰Ù‚ Ù…Û‡Ù†Ø§Ø³Ù‰Û‹Û•ØªÙ„Ù‰Ùƒ Ø¦Ø§Ù¾ØªÙˆÙ…Ø§ØªÙ‰Ùƒ Ù‚Ø§Ø±Ø§Ø±Ù„Ø§Ø± Ø®Ø§ØªÙ‰Ø±Ù‰Ù„Ù‰Ù†Ù‰Ø¯Û‡ (Ù¾Ø§Ø¦Ø§Ù„Ù‰ÙŠÛ•Øª ÙƒÙ‰Ù…Ù„Ù‰ÙƒÙ‰ ØŒ Ù‚Ø§Ø¦Ù‰Ø¯Û• ÙƒÙ‰Ù…Ù„Ù‰ÙƒÙ‰ ØŒ Ø¦Ù‰Ø´Û•Ù†Ú† ØŒ Ø¦Ù‰Ù†Ø³Ø§Ù†Ù„Ø§Ø±Ù†Ù‰Ú­ ØªÛ•ÙƒØ´ÛˆØ±ÛˆØ´Ù‰ Ù‚Ø§ØªØ§Ø±Ù„Ù‰Ù‚Ù„Ø§Ø±).
 
-### 23. يالغان ئاكتىپلار ، يالغان سەلبىي تەرەپلەر ۋە سۈپەت كۆرسەتكۈچى
-خاتالىق تىپلىرى نازارەت قىلىنىدۇ. باشقۇرۇش تاختىسىدا ئېنىقلىق ، ئەسلەش ۋە بولۇپمۇ ** نارازىلىق ئەرزىنىڭ نىسبىتى ** (مۇۋەپپەقىيەتلىك ئەرز قىلىنغانلارنىڭ سانى) ئۆلچەم قىلىنىدۇ. 
+### 23. ÙŠØ§Ù„ØºØ§Ù† Ø¦Ø§ÙƒØªÙ‰Ù¾Ù„Ø§Ø± ØŒ ÙŠØ§Ù„ØºØ§Ù† Ø³Û•Ù„Ø¨Ù‰ÙŠ ØªÛ•Ø±Û•Ù¾Ù„Û•Ø± Û‹Û• Ø³ÛˆÙ¾Û•Øª ÙƒÛ†Ø±Ø³Û•ØªÙƒÛˆÚ†Ù‰
+Ø®Ø§ØªØ§Ù„Ù‰Ù‚ ØªÙ‰Ù¾Ù„Ù‰Ø±Ù‰ Ù†Ø§Ø²Ø§Ø±Û•Øª Ù‚Ù‰Ù„Ù‰Ù†Ù‰Ø¯Û‡. Ø¨Ø§Ø´Ù‚Û‡Ø±Û‡Ø´ ØªØ§Ø®ØªÙ‰Ø³Ù‰Ø¯Ø§ Ø¦ÛÙ†Ù‰Ù‚Ù„Ù‰Ù‚ ØŒ Ø¦Û•Ø³Ù„Û•Ø´ Û‹Û• Ø¨ÙˆÙ„Û‡Ù¾Ù…Û‡ ** Ù†Ø§Ø±Ø§Ø²Ù‰Ù„Ù‰Ù‚ Ø¦Û•Ø±Ø²Ù‰Ù†Ù‰Ú­ Ù†Ù‰Ø³Ø¨Ù‰ØªÙ‰ ** (Ù…Û‡Û‹Û•Ù¾Ù¾Û•Ù‚Ù‰ÙŠÛ•ØªÙ„Ù‰Ùƒ Ø¦Û•Ø±Ø² Ù‚Ù‰Ù„Ù‰Ù†ØºØ§Ù†Ù„Ø§Ø±Ù†Ù‰Ú­ Ø³Ø§Ù†Ù‰) Ø¦Û†Ù„Ú†Û•Ù… Ù‚Ù‰Ù„Ù‰Ù†Ù‰Ø¯Û‡. 
 
-### 24. تىل ئادىللىقى ۋە تەرجىمە بىر تەرەپلىمىلىكى
-ئوتتۇراھال سۈپەتنى بارلىق قوللايدىغان تىللار بىلەن سېلىشتۇرۇش كېرەك (كۆپ تىللىق ئوتتۇراھال ئۆلچەم). ئەگەر ئوتتۇراھال نەتىجە ئەسلى بىلەن تەرجىمە (تەرجىمە توقۇنۇشى) ئارىسىدا پەرق بولسا ، بۇنى ئايرىم تەكشۈرۈش كېرەك.
+### 24. ØªÙ‰Ù„ Ø¦Ø§Ø¯Ù‰Ù„Ù„Ù‰Ù‚Ù‰ Û‹Û• ØªÛ•Ø±Ø¬Ù‰Ù…Û• Ø¨Ù‰Ø± ØªÛ•Ø±Û•Ù¾Ù„Ù‰Ù…Ù‰Ù„Ù‰ÙƒÙ‰
+Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„ Ø³ÛˆÙ¾Û•ØªÙ†Ù‰ Ø¨Ø§Ø±Ù„Ù‰Ù‚ Ù‚ÙˆÙ„Ù„Ø§ÙŠØ¯Ù‰ØºØ§Ù† ØªÙ‰Ù„Ù„Ø§Ø± Ø¨Ù‰Ù„Û•Ù† Ø³ÛÙ„Ù‰Ø´ØªÛ‡Ø±Û‡Ø´ ÙƒÛØ±Û•Ùƒ (ÙƒÛ†Ù¾ ØªÙ‰Ù„Ù„Ù‰Ù‚ Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„ Ø¦Û†Ù„Ú†Û•Ù…). Ø¦Û•Ú¯Û•Ø± Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„ Ù†Û•ØªÙ‰Ø¬Û• Ø¦Û•Ø³Ù„Ù‰ Ø¨Ù‰Ù„Û•Ù† ØªÛ•Ø±Ø¬Ù‰Ù…Û• (ØªÛ•Ø±Ø¬Ù‰Ù…Û• ØªÙˆÙ‚Û‡Ù†Û‡Ø´Ù‰) Ø¦Ø§Ø±Ù‰Ø³Ù‰Ø¯Ø§ Ù¾Û•Ø±Ù‚ Ø¨ÙˆÙ„Ø³Ø§ ØŒ Ø¨Û‡Ù†Ù‰ Ø¦Ø§ÙŠØ±Ù‰Ù… ØªÛ•ÙƒØ´ÛˆØ±ÛˆØ´ ÙƒÛØ±Û•Ùƒ.
 
-### 25. بىناكارلىق تەكلىپلىرى ۋە سىياسەت ماتورى
-قائىدە (سىياسەت ماتورى) سۈنئىي ئەقىل مودېلىغا قاتتىق كودلاشتۇرۇلمايدۇ. سۈنئىي ئەقىل چۈشەنچە بىلەن تەمىنلەيدۇ ، سىياسەت ماتورى ھازىرقى قائىدىلەرگە ئاساسەن قارار چىقىرىدۇ. بۇ قائىدىلەرنى ئۆزگەرتمەي ** مودېلنى ئۆزگەرتەلەيدۇ.
+### 25. Ø¨Ù‰Ù†Ø§ÙƒØ§Ø±Ù„Ù‰Ù‚ ØªÛ•ÙƒÙ„Ù‰Ù¾Ù„Ù‰Ø±Ù‰ Û‹Û• Ø³Ù‰ÙŠØ§Ø³Û•Øª Ù…Ø§ØªÙˆØ±Ù‰
+Ù‚Ø§Ø¦Ù‰Ø¯Û• (Ø³Ù‰ÙŠØ§Ø³Û•Øª Ù…Ø§ØªÙˆØ±Ù‰) Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„ Ù…ÙˆØ¯ÛÙ„Ù‰ØºØ§ Ù‚Ø§ØªØªÙ‰Ù‚ ÙƒÙˆØ¯Ù„Ø§Ø´ØªÛ‡Ø±Û‡Ù„Ù…Ø§ÙŠØ¯Û‡. Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„ Ú†ÛˆØ´Û•Ù†Ú†Û• Ø¨Ù‰Ù„Û•Ù† ØªÛ•Ù…Ù‰Ù†Ù„Û•ÙŠØ¯Û‡ ØŒ Ø³Ù‰ÙŠØ§Ø³Û•Øª Ù…Ø§ØªÙˆØ±Ù‰ Ú¾Ø§Ø²Ù‰Ø±Ù‚Ù‰ Ù‚Ø§Ø¦Ù‰Ø¯Ù‰Ù„Û•Ø±Ú¯Û• Ø¦Ø§Ø³Ø§Ø³Û•Ù† Ù‚Ø§Ø±Ø§Ø± Ú†Ù‰Ù‚Ù‰Ø±Ù‰Ø¯Û‡. Ø¨Û‡ Ù‚Ø§Ø¦Ù‰Ø¯Ù‰Ù„Û•Ø±Ù†Ù‰ Ø¦Û†Ø²Ú¯Û•Ø±ØªÙ…Û•ÙŠ ** Ù…ÙˆØ¯ÛÙ„Ù†Ù‰ Ø¦Û†Ø²Ú¯Û•Ø±ØªÛ•Ù„Û•ÙŠØ¯Û‡.
 
-### 26. كىشىلەر ئەڭ ئاخىرقى ھوقۇقنى ساقلاپ قالىدۇ
-- ** NG-AI-MOD-001 **: سۈنئىي ئەقىل بايقاش ۋە تۈرگە ئايرىشنى قوللايدۇ ، ئەمما ئەستايىدىل قارار چىقارغاندا ئىنسانلارنىڭ تەكشۈرۈشىنىڭ ئورنىنى ئالمايدۇ.
-- ** NG-AI-MOD-002 **: ئاپتوماتىك ئوتتۇراھال قارارلارنى چوقۇم ئىز قوغلاش ، خاتىرىلىگىلى ۋە تەكشۈرگىلى بولىدۇ.
+### 26. ÙƒÙ‰Ø´Ù‰Ù„Û•Ø± Ø¦Û•Ú­ Ø¦Ø§Ø®Ù‰Ø±Ù‚Ù‰ Ú¾ÙˆÙ‚Û‡Ù‚Ù†Ù‰ Ø³Ø§Ù‚Ù„Ø§Ù¾ Ù‚Ø§Ù„Ù‰Ø¯Û‡
+- ** NG-AI-MOD-001 **: Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„ Ø¨Ø§ÙŠÙ‚Ø§Ø´ Û‹Û• ØªÛˆØ±Ú¯Û• Ø¦Ø§ÙŠØ±Ù‰Ø´Ù†Ù‰ Ù‚ÙˆÙ„Ù„Ø§ÙŠØ¯Û‡ ØŒ Ø¦Û•Ù…Ù…Ø§ Ø¦Û•Ø³ØªØ§ÙŠÙ‰Ø¯Ù‰Ù„ Ù‚Ø§Ø±Ø§Ø± Ú†Ù‰Ù‚Ø§Ø±ØºØ§Ù†Ø¯Ø§ Ø¦Ù‰Ù†Ø³Ø§Ù†Ù„Ø§Ø±Ù†Ù‰Ú­ ØªÛ•ÙƒØ´ÛˆØ±ÛˆØ´Ù‰Ù†Ù‰Ú­ Ø¦ÙˆØ±Ù†Ù‰Ù†Ù‰ Ø¦Ø§Ù„Ù…Ø§ÙŠØ¯Û‡.
+- ** NG-AI-MOD-002 **: Ø¦Ø§Ù¾ØªÙˆÙ…Ø§ØªÙ‰Ùƒ Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„ Ù‚Ø§Ø±Ø§Ø±Ù„Ø§Ø±Ù†Ù‰ Ú†ÙˆÙ‚Û‡Ù… Ø¦Ù‰Ø² Ù‚ÙˆØºÙ„Ø§Ø´ ØŒ Ø®Ø§ØªÙ‰Ø±Ù‰Ù„Ù‰Ú¯Ù‰Ù„Ù‰ Û‹Û• ØªÛ•ÙƒØ´ÛˆØ±Ú¯Ù‰Ù„Ù‰ Ø¨ÙˆÙ„Ù‰Ø¯Û‡.
 
-** خۇلاسە **: بىز تۆت قاتلاملىق سىستېما بەرپا قىلىۋاتىمىز: سۈنئىي ئەقىلنى بايقاش ، مەزمۇن ۋە خەتەرنى تەھلىل قىلىش ، سىياسەت ماتورى ۋە ئىنسانلارنى باشقۇرۇش. بۇ خەتەرلىك «سۈنئىي ئەقىلنى سوتچى» بىناكارلىقىنى بارلىققا كەلتۈرمەي تۇرۇپ كۈچلۈك ئاپتوماتلاشتۇرالايدۇ.
+** Ø®Û‡Ù„Ø§Ø³Û• **: Ø¨Ù‰Ø² ØªÛ†Øª Ù‚Ø§ØªÙ„Ø§Ù…Ù„Ù‰Ù‚ Ø³Ù‰Ø³ØªÛÙ…Ø§ Ø¨Û•Ø±Ù¾Ø§ Ù‚Ù‰Ù„Ù‰Û‹Ø§ØªÙ‰Ù…Ù‰Ø²: Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„Ù†Ù‰ Ø¨Ø§ÙŠÙ‚Ø§Ø´ ØŒ Ù…Û•Ø²Ù…Û‡Ù† Û‹Û• Ø®Û•ØªÛ•Ø±Ù†Ù‰ ØªÛ•Ú¾Ù„Ù‰Ù„ Ù‚Ù‰Ù„Ù‰Ø´ ØŒ Ø³Ù‰ÙŠØ§Ø³Û•Øª Ù…Ø§ØªÙˆØ±Ù‰ Û‹Û• Ø¦Ù‰Ù†Ø³Ø§Ù†Ù„Ø§Ø±Ù†Ù‰ Ø¨Ø§Ø´Ù‚Û‡Ø±Û‡Ø´. Ø¨Û‡ Ø®Û•ØªÛ•Ø±Ù„Ù‰Ùƒ Â«Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„Ù†Ù‰ Ø³ÙˆØªÚ†Ù‰Â» Ø¨Ù‰Ù†Ø§ÙƒØ§Ø±Ù„Ù‰Ù‚Ù‰Ù†Ù‰ Ø¨Ø§Ø±Ù„Ù‰Ù‚Ù‚Ø§ ÙƒÛ•Ù„ØªÛˆØ±Ù…Û•ÙŠ ØªÛ‡Ø±Û‡Ù¾ ÙƒÛˆÚ†Ù„ÛˆÙƒ Ø¦Ø§Ù¾ØªÙˆÙ…Ø§ØªÙ„Ø§Ø´ØªÛ‡Ø±Ø§Ù„Ø§ÙŠØ¯Û‡.
 
-## مەبلەغ يۈرۈشتۈرۈش پرىنسىپى ۋە كىرىم ئەندىزىسى (WP 1.10.1)
+## Ù…Û•Ø¨Ù„Û•Øº ÙŠÛˆØ±ÛˆØ´ØªÛˆØ±ÛˆØ´ Ù¾Ø±Ù‰Ù†Ø³Ù‰Ù¾Ù‰ Û‹Û• ÙƒÙ‰Ø±Ù‰Ù… Ø¦Û•Ù†Ø¯Ù‰Ø²Ù‰Ø³Ù‰ (WP 1.10.1)
 
-! [Nexus Gaja مالىيە ئەندىزىسى] (مۈلۈك / img / nexus_finance.jpg)
+! [Nexus Gaja Ù…Ø§Ù„Ù‰ÙŠÛ• Ø¦Û•Ù†Ø¯Ù‰Ø²Ù‰Ø³Ù‰] (Ù…ÛˆÙ„ÛˆÙƒ / img / nexus_finance.jpg)
 
-Nexus Gaja غا ئىنتايىن مۇھىم بولغان ئاساسىي ئىقتىسادىي پرىنسىپ قوللىنىلىدۇ: ** سۇپا ئىچىدە كلاسسىك ئېلان يوق. **
-بۇ Nexus Gaja نى ھازىرقى نۇرغۇن ئىجتىمائىي ئالاقە تورىغا ئۇقۇم جەھەتتىن ئوخشىمايدۇ. ئەمما بۇ دېگەنلىك ئەمەس: Nexus Gaja چوقۇم سودا خاراكتېرىگە ئىگە بولماسلىقى كېرەك. ئەكسىچە: بۇ سۇپا ئىقتىسادىي ھاياتىي كۈچكە ئىگە بولۇشى كېرەك ، شۇنداق بولغاندا ئۇنىڭ ئىجتىمائىي مەقسىتى ئۇزۇن مۇددەت مەۋجۇت بولۇپ تۇرالايدۇ. شۇڭا ئىقتىسادىي پائالىيەت سۇپىنىڭ ئەمەلىي مەقسىتى ئەمەس ، بەلكى ئاخىرلاشتۇرىدىغان ۋاسىتە.
+Nexus Gaja ØºØ§ Ø¦Ù‰Ù†ØªØ§ÙŠÙ‰Ù† Ù…Û‡Ú¾Ù‰Ù… Ø¨ÙˆÙ„ØºØ§Ù† Ø¦Ø§Ø³Ø§Ø³Ù‰ÙŠ Ø¦Ù‰Ù‚ØªÙ‰Ø³Ø§Ø¯Ù‰ÙŠ Ù¾Ø±Ù‰Ù†Ø³Ù‰Ù¾ Ù‚ÙˆÙ„Ù„Ù‰Ù†Ù‰Ù„Ù‰Ø¯Û‡: ** Ø³Û‡Ù¾Ø§ Ø¦Ù‰Ú†Ù‰Ø¯Û• ÙƒÙ„Ø§Ø³Ø³Ù‰Ùƒ Ø¦ÛÙ„Ø§Ù† ÙŠÙˆÙ‚. **
+Ø¨Û‡ Nexus Gaja Ù†Ù‰ Ú¾Ø§Ø²Ù‰Ø±Ù‚Ù‰ Ù†Û‡Ø±ØºÛ‡Ù† Ø¦Ù‰Ø¬ØªÙ‰Ù…Ø§Ø¦Ù‰ÙŠ Ø¦Ø§Ù„Ø§Ù‚Û• ØªÙˆØ±Ù‰ØºØ§ Ø¦Û‡Ù‚Û‡Ù… Ø¬Û•Ú¾Û•ØªØªÙ‰Ù† Ø¦ÙˆØ®Ø´Ù‰Ù…Ø§ÙŠØ¯Û‡. Ø¦Û•Ù…Ù…Ø§ Ø¨Û‡ Ø¯ÛÚ¯Û•Ù†Ù„Ù‰Ùƒ Ø¦Û•Ù…Û•Ø³: Nexus Gaja Ú†ÙˆÙ‚Û‡Ù… Ø³ÙˆØ¯Ø§ Ø®Ø§Ø±Ø§ÙƒØªÛØ±Ù‰Ú¯Û• Ø¦Ù‰Ú¯Û• Ø¨ÙˆÙ„Ù…Ø§Ø³Ù„Ù‰Ù‚Ù‰ ÙƒÛØ±Û•Ùƒ. Ø¦Û•ÙƒØ³Ù‰Ú†Û•: Ø¨Û‡ Ø³Û‡Ù¾Ø§ Ø¦Ù‰Ù‚ØªÙ‰Ø³Ø§Ø¯Ù‰ÙŠ Ú¾Ø§ÙŠØ§ØªÙ‰ÙŠ ÙƒÛˆÚ†ÙƒÛ• Ø¦Ù‰Ú¯Û• Ø¨ÙˆÙ„Û‡Ø´Ù‰ ÙƒÛØ±Û•Ùƒ ØŒ Ø´Û‡Ù†Ø¯Ø§Ù‚ Ø¨ÙˆÙ„ØºØ§Ù†Ø¯Ø§ Ø¦Û‡Ù†Ù‰Ú­ Ø¦Ù‰Ø¬ØªÙ‰Ù…Ø§Ø¦Ù‰ÙŠ Ù…Û•Ù‚Ø³Ù‰ØªÙ‰ Ø¦Û‡Ø²Û‡Ù† Ù…Û‡Ø¯Ø¯Û•Øª Ù…Û•Û‹Ø¬Û‡Øª Ø¨ÙˆÙ„Û‡Ù¾ ØªÛ‡Ø±Ø§Ù„Ø§ÙŠØ¯Û‡. Ø´Û‡Ú­Ø§ Ø¦Ù‰Ù‚ØªÙ‰Ø³Ø§Ø¯Ù‰ÙŠ Ù¾Ø§Ø¦Ø§Ù„Ù‰ÙŠÛ•Øª Ø³Û‡Ù¾Ù‰Ù†Ù‰Ú­ Ø¦Û•Ù…Û•Ù„Ù‰ÙŠ Ù…Û•Ù‚Ø³Ù‰ØªÙ‰ Ø¦Û•Ù…Û•Ø³ ØŒ Ø¨Û•Ù„ÙƒÙ‰ Ø¦Ø§Ø®Ù‰Ø±Ù„Ø§Ø´ØªÛ‡Ø±Ù‰Ø¯Ù‰ØºØ§Ù† Û‹Ø§Ø³Ù‰ØªÛ•.
 
-### 1. پرىنسىپ NG-FIN-001
-Nexus Gaja تىجارىتىنى ئابونتلارنىڭ قىزىقىشى ياكى شەخسىي سانلىق مەلۇماتلىرىنى سېتىش ئارقىلىق ئەمەس ، بەلكى ئابونتلارنىڭ قىزىقىشىدىن ئايرىلغان سۈزۈك كىرىم ئېقىمى ئارقىلىق مەبلەغ بىلەن تەمىنلەيدۇ.
+### 1. Ù¾Ø±Ù‰Ù†Ø³Ù‰Ù¾ NG-FIN-001
+Nexus Gaja ØªÙ‰Ø¬Ø§Ø±Ù‰ØªÙ‰Ù†Ù‰ Ø¦Ø§Ø¨ÙˆÙ†ØªÙ„Ø§Ø±Ù†Ù‰Ú­ Ù‚Ù‰Ø²Ù‰Ù‚Ù‰Ø´Ù‰ ÙŠØ§ÙƒÙ‰ Ø´Û•Ø®Ø³Ù‰ÙŠ Ø³Ø§Ù†Ù„Ù‰Ù‚ Ù…Û•Ù„Û‡Ù…Ø§ØªÙ„Ù‰Ø±Ù‰Ù†Ù‰ Ø³ÛØªÙ‰Ø´ Ø¦Ø§Ø±Ù‚Ù‰Ù„Ù‰Ù‚ Ø¦Û•Ù…Û•Ø³ ØŒ Ø¨Û•Ù„ÙƒÙ‰ Ø¦Ø§Ø¨ÙˆÙ†ØªÙ„Ø§Ø±Ù†Ù‰Ú­ Ù‚Ù‰Ø²Ù‰Ù‚Ù‰Ø´Ù‰Ø¯Ù‰Ù† Ø¦Ø§ÙŠØ±Ù‰Ù„ØºØ§Ù† Ø³ÛˆØ²ÛˆÙƒ ÙƒÙ‰Ø±Ù‰Ù… Ø¦ÛÙ‚Ù‰Ù…Ù‰ Ø¦Ø§Ø±Ù‚Ù‰Ù„Ù‰Ù‚ Ù…Û•Ø¨Ù„Û•Øº Ø¨Ù‰Ù„Û•Ù† ØªÛ•Ù…Ù‰Ù†Ù„Û•ÙŠØ¯Û‡.
 
-### 2. كلاسسىك ئېلان يوق
-بولۇپمۇ تۆۋەندىكىلەرگە رۇخسەت قىلىنمايدۇ:
-- بايراق ئېلانى
-- قاڭقىش ئېلانى
-- ئېلان سىنلىرىنى ئاپتوماتىك ئوينىدى
-- نورمال يەمدىكى قوللايدىغان يازمىلار
-- خاسلاشتۇرۇلغان ئېلان ئارخىپى
-- ئىشلەتكۈچى ئارخىپىنى سېتىش
-- شەخسىي سانلىق مەلۇماتلارنى سېتىش
-- شەخسىي سۆھبەتتىن ھاسىل قىلىنغان ئېلان.
+### 2. ÙƒÙ„Ø§Ø³Ø³Ù‰Ùƒ Ø¦ÛÙ„Ø§Ù† ÙŠÙˆÙ‚
+Ø¨ÙˆÙ„Û‡Ù¾Ù…Û‡ ØªÛ†Û‹Û•Ù†Ø¯Ù‰ÙƒÙ‰Ù„Û•Ø±Ú¯Û• Ø±Û‡Ø®Ø³Û•Øª Ù‚Ù‰Ù„Ù‰Ù†Ù…Ø§ÙŠØ¯Û‡:
+- Ø¨Ø§ÙŠØ±Ø§Ù‚ Ø¦ÛÙ„Ø§Ù†Ù‰
+- Ù‚Ø§Ú­Ù‚Ù‰Ø´ Ø¦ÛÙ„Ø§Ù†Ù‰
+- Ø¦ÛÙ„Ø§Ù† Ø³Ù‰Ù†Ù„Ù‰Ø±Ù‰Ù†Ù‰ Ø¦Ø§Ù¾ØªÙˆÙ…Ø§ØªÙ‰Ùƒ Ø¦ÙˆÙŠÙ†Ù‰Ø¯Ù‰
+- Ù†ÙˆØ±Ù…Ø§Ù„ ÙŠÛ•Ù…Ø¯Ù‰ÙƒÙ‰ Ù‚ÙˆÙ„Ù„Ø§ÙŠØ¯Ù‰ØºØ§Ù† ÙŠØ§Ø²Ù…Ù‰Ù„Ø§Ø±
+- Ø®Ø§Ø³Ù„Ø§Ø´ØªÛ‡Ø±Û‡Ù„ØºØ§Ù† Ø¦ÛÙ„Ø§Ù† Ø¦Ø§Ø±Ø®Ù‰Ù¾Ù‰
+- Ø¦Ù‰Ø´Ù„Û•ØªÙƒÛˆÚ†Ù‰ Ø¦Ø§Ø±Ø®Ù‰Ù¾Ù‰Ù†Ù‰ Ø³ÛØªÙ‰Ø´
+- Ø´Û•Ø®Ø³Ù‰ÙŠ Ø³Ø§Ù†Ù„Ù‰Ù‚ Ù…Û•Ù„Û‡Ù…Ø§ØªÙ„Ø§Ø±Ù†Ù‰ Ø³ÛØªÙ‰Ø´
+- Ø´Û•Ø®Ø³Ù‰ÙŠ Ø³Û†Ú¾Ø¨Û•ØªØªÙ‰Ù† Ú¾Ø§Ø³Ù‰Ù„ Ù‚Ù‰Ù„Ù‰Ù†ØºØ§Ù† Ø¦ÛÙ„Ø§Ù†.
 
-بۇ ئالاقە بوشلۇقىدىن ئايرىلىدۇ: ** ئېلان بوشلۇقىنىڭ ئورنىغا ئالاقە بوشلۇقى. **
+Ø¨Û‡ Ø¦Ø§Ù„Ø§Ù‚Û• Ø¨ÙˆØ´Ù„Û‡Ù‚Ù‰Ø¯Ù‰Ù† Ø¦Ø§ÙŠØ±Ù‰Ù„Ù‰Ø¯Û‡: ** Ø¦ÛÙ„Ø§Ù† Ø¨ÙˆØ´Ù„Û‡Ù‚Ù‰Ù†Ù‰Ú­ Ø¦ÙˆØ±Ù†Ù‰ØºØ§ Ø¦Ø§Ù„Ø§Ù‚Û• Ø¨ÙˆØ´Ù„Û‡Ù‚Ù‰. **
 
-### 3. ئېلانسىز مەبلەغ يۈرۈشتۈرۈش
-ئەكسىچە ، بىزنىڭ مەبلىغىمىز بىر قانچە تۈۋرۈكتىن تەركىب تاپىدۇ. بىز ئالدى بىلەن ئالتە تۈۋرۈكنى ئوتتۇرىغا قويدۇق:
+### 3. Ø¦ÛÙ„Ø§Ù†Ø³Ù‰Ø² Ù…Û•Ø¨Ù„Û•Øº ÙŠÛˆØ±ÛˆØ´ØªÛˆØ±ÛˆØ´
+Ø¦Û•ÙƒØ³Ù‰Ú†Û• ØŒ Ø¨Ù‰Ø²Ù†Ù‰Ú­ Ù…Û•Ø¨Ù„Ù‰ØºÙ‰Ù…Ù‰Ø² Ø¨Ù‰Ø± Ù‚Ø§Ù†Ú†Û• ØªÛˆÛ‹Ø±ÛˆÙƒØªÙ‰Ù† ØªÛ•Ø±ÙƒÙ‰Ø¨ ØªØ§Ù¾Ù‰Ø¯Û‡. Ø¨Ù‰Ø² Ø¦Ø§Ù„Ø¯Ù‰ Ø¨Ù‰Ù„Û•Ù† Ø¦Ø§Ù„ØªÛ• ØªÛˆÛ‹Ø±ÛˆÙƒÙ†Ù‰ Ø¦ÙˆØªØªÛ‡Ø±Ù‰ØºØ§ Ù‚ÙˆÙŠØ¯Û‡Ù‚:
 `` text
                  NEXUS GAJA
-                     │
-       ┌─────────────┼─────────────┐
-       ▼ ▼ ▼
+                     â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â–¼ â–¼ â–¼
    PREMIUM ORGANIZATION DONATE
-       │ │ │
-       ├─────────────┼─────────────┤
-       ▼ ▼ ▼
-   ھەمكارلىق مۇلازىمەتلىرىنى ئىلگىرى سۈرۈش
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+       â–¼ â–¼ â–¼
+   Ú¾Û•Ù…ÙƒØ§Ø±Ù„Ù‰Ù‚ Ù…Û‡Ù„Ø§Ø²Ù‰Ù…Û•ØªÙ„Ù‰Ø±Ù‰Ù†Ù‰ Ø¦Ù‰Ù„Ú¯Ù‰Ø±Ù‰ Ø³ÛˆØ±ÛˆØ´
 `` `
 
-#### تۈۋرۈك 1 - ھەقسىز ئاساسىي ئەزا
-** Nexus Gaja Free: ** خەلقئارا چۈشىنىشكە ئاساسلىق قاتنىشىش باشقىلارنىڭ پۇلى بار-يوقلۇقىغا باغلىق ئەمەس. تۆۋەندىكىسى ھەقسىز بولۇشى مۇمكىن: شەخسىي ئارخىپ ، خەلقئارالىق ئالاقە ، تۆھپە ، باھا ، ئاساسىي تەرجىمە ، مەھەللە ، پاراڭ ، ئاساسىي مېدىيا ئىقتىدارلىرى.
+#### ØªÛˆÛ‹Ø±ÛˆÙƒ 1 - Ú¾Û•Ù‚Ø³Ù‰Ø² Ø¦Ø§Ø³Ø§Ø³Ù‰ÙŠ Ø¦Û•Ø²Ø§
+** Nexus Gaja Free: ** Ø®Û•Ù„Ù‚Ø¦Ø§Ø±Ø§ Ú†ÛˆØ´Ù‰Ù†Ù‰Ø´ÙƒÛ• Ø¦Ø§Ø³Ø§Ø³Ù„Ù‰Ù‚ Ù‚Ø§ØªÙ†Ù‰Ø´Ù‰Ø´ Ø¨Ø§Ø´Ù‚Ù‰Ù„Ø§Ø±Ù†Ù‰Ú­ Ù¾Û‡Ù„Ù‰ Ø¨Ø§Ø±-ÙŠÙˆÙ‚Ù„Û‡Ù‚Ù‰ØºØ§ Ø¨Ø§ØºÙ„Ù‰Ù‚ Ø¦Û•Ù…Û•Ø³. ØªÛ†Û‹Û•Ù†Ø¯Ù‰ÙƒÙ‰Ø³Ù‰ Ú¾Û•Ù‚Ø³Ù‰Ø² Ø¨ÙˆÙ„Û‡Ø´Ù‰ Ù…Û‡Ù…ÙƒÙ‰Ù†: Ø´Û•Ø®Ø³Ù‰ÙŠ Ø¦Ø§Ø±Ø®Ù‰Ù¾ ØŒ Ø®Û•Ù„Ù‚Ø¦Ø§Ø±Ø§Ù„Ù‰Ù‚ Ø¦Ø§Ù„Ø§Ù‚Û• ØŒ ØªÛ†Ú¾Ù¾Û• ØŒ Ø¨Ø§Ú¾Ø§ ØŒ Ø¦Ø§Ø³Ø§Ø³Ù‰ÙŠ ØªÛ•Ø±Ø¬Ù‰Ù…Û• ØŒ Ù…Û•Ú¾Û•Ù„Ù„Û• ØŒ Ù¾Ø§Ø±Ø§Ú­ ØŒ Ø¦Ø§Ø³Ø§Ø³Ù‰ÙŠ Ù…ÛØ¯Ù‰ÙŠØ§ Ø¦Ù‰Ù‚ØªÙ‰Ø¯Ø§Ø±Ù„Ù‰Ø±Ù‰.
 
-#### تۈۋرۈك 2 - ئالىي دەرىجىلىك تەكلىپلەر
-ئىختىيارىي ھەقلىق تەكلىپلەر (** Nexus Gaja Plus **). مۇمكىن بولغان پايدىلىرى: ساقلاش دائىرىسى تېخىمۇ چوڭ ، مېدىيا سۈپىتى تېخىمۇ يۇقىرى ، سىن يوللاش ۋاقتى ئۇزۇن ، تەرجىمە ئىقتىدارى كېڭەيتىلگەن ، چوڭ مەھەللە ، قوشۇمچە تەشكىللەش ئىقتىدارى ، سۈنئىي ئەقىلنىڭ يۇقىرى چېكى.
-** Freemium - ئەمما «قاراڭغۇ Freemium» ئەمەس: ** ھەقسىز نۇسخىسىنى سەزگۈر ئىشلىتىشكە بولىدۇ. Premium ئۇنى كېڭەيتىدۇ.
+#### ØªÛˆÛ‹Ø±ÛˆÙƒ 2 - Ø¦Ø§Ù„Ù‰ÙŠ Ø¯Û•Ø±Ù‰Ø¬Ù‰Ù„Ù‰Ùƒ ØªÛ•ÙƒÙ„Ù‰Ù¾Ù„Û•Ø±
+Ø¦Ù‰Ø®ØªÙ‰ÙŠØ§Ø±Ù‰ÙŠ Ú¾Û•Ù‚Ù„Ù‰Ù‚ ØªÛ•ÙƒÙ„Ù‰Ù¾Ù„Û•Ø± (** Nexus Gaja Plus **). Ù…Û‡Ù…ÙƒÙ‰Ù† Ø¨ÙˆÙ„ØºØ§Ù† Ù¾Ø§ÙŠØ¯Ù‰Ù„Ù‰Ø±Ù‰: Ø³Ø§Ù‚Ù„Ø§Ø´ Ø¯Ø§Ø¦Ù‰Ø±Ù‰Ø³Ù‰ ØªÛØ®Ù‰Ù…Û‡ Ú†ÙˆÚ­ ØŒ Ù…ÛØ¯Ù‰ÙŠØ§ Ø³ÛˆÙ¾Ù‰ØªÙ‰ ØªÛØ®Ù‰Ù…Û‡ ÙŠÛ‡Ù‚Ù‰Ø±Ù‰ ØŒ Ø³Ù‰Ù† ÙŠÙˆÙ„Ù„Ø§Ø´ Û‹Ø§Ù‚ØªÙ‰ Ø¦Û‡Ø²Û‡Ù† ØŒ ØªÛ•Ø±Ø¬Ù‰Ù…Û• Ø¦Ù‰Ù‚ØªÙ‰Ø¯Ø§Ø±Ù‰ ÙƒÛÚ­Û•ÙŠØªÙ‰Ù„Ú¯Û•Ù† ØŒ Ú†ÙˆÚ­ Ù…Û•Ú¾Û•Ù„Ù„Û• ØŒ Ù‚ÙˆØ´Û‡Ù…Ú†Û• ØªÛ•Ø´ÙƒÙ‰Ù„Ù„Û•Ø´ Ø¦Ù‰Ù‚ØªÙ‰Ø¯Ø§Ø±Ù‰ ØŒ Ø³ÛˆÙ†Ø¦Ù‰ÙŠ Ø¦Û•Ù‚Ù‰Ù„Ù†Ù‰Ú­ ÙŠÛ‡Ù‚Ù‰Ø±Ù‰ Ú†ÛÙƒÙ‰.
+** Freemium - Ø¦Û•Ù…Ù…Ø§ Â«Ù‚Ø§Ø±Ø§Ú­ØºÛ‡ FreemiumÂ» Ø¦Û•Ù…Û•Ø³: ** Ú¾Û•Ù‚Ø³Ù‰Ø² Ù†Û‡Ø³Ø®Ù‰Ø³Ù‰Ù†Ù‰ Ø³Û•Ø²Ú¯ÛˆØ± Ø¦Ù‰Ø´Ù„Ù‰ØªÙ‰Ø´ÙƒÛ• Ø¨ÙˆÙ„Ù‰Ø¯Û‡. Premium Ø¦Û‡Ù†Ù‰ ÙƒÛÚ­Û•ÙŠØªÙ‰Ø¯Û‡.
 
-#### تۈۋرۈك 3 - تەشكىلاتلار
-** Nexus Gaja تەشكىلاتى: ** مەكتەپ ، ئۇنىۋېرسىتېت ، كۇلۇب ، ئاممىۋى تەشكىلاتلار ، شىركەتلەر ، كومۇنالار قاتارلىق ئالاھىدە ھېساباتلار ، مەركىزىي تەشكىللەش ھېساباتى ، ئەزالارنى باشقۇرۇش ۋە باشقۇرۇش ئىقتىدارى بار. (مىسال: مەكتەپ ھەقسىز ياكى ئورگان تاموژنا بېجى ئارقىلىق ئوقۇغۇچىلارنىڭ زىيارىتىنى قوبۇل قىلىدۇ).
+#### ØªÛˆÛ‹Ø±ÛˆÙƒ 3 - ØªÛ•Ø´ÙƒÙ‰Ù„Ø§ØªÙ„Ø§Ø±
+** Nexus Gaja ØªÛ•Ø´ÙƒÙ‰Ù„Ø§ØªÙ‰: ** Ù…Û•ÙƒØªÛ•Ù¾ ØŒ Ø¦Û‡Ù†Ù‰Û‹ÛØ±Ø³Ù‰ØªÛØª ØŒ ÙƒÛ‡Ù„Û‡Ø¨ ØŒ Ø¦Ø§Ù…Ù…Ù‰Û‹Ù‰ ØªÛ•Ø´ÙƒÙ‰Ù„Ø§ØªÙ„Ø§Ø± ØŒ Ø´Ù‰Ø±ÙƒÛ•ØªÙ„Û•Ø± ØŒ ÙƒÙˆÙ…Û‡Ù†Ø§Ù„Ø§Ø± Ù‚Ø§ØªØ§Ø±Ù„Ù‰Ù‚ Ø¦Ø§Ù„Ø§Ú¾Ù‰Ø¯Û• Ú¾ÛØ³Ø§Ø¨Ø§ØªÙ„Ø§Ø± ØŒ Ù…Û•Ø±ÙƒÙ‰Ø²Ù‰ÙŠ ØªÛ•Ø´ÙƒÙ‰Ù„Ù„Û•Ø´ Ú¾ÛØ³Ø§Ø¨Ø§ØªÙ‰ ØŒ Ø¦Û•Ø²Ø§Ù„Ø§Ø±Ù†Ù‰ Ø¨Ø§Ø´Ù‚Û‡Ø±Û‡Ø´ Û‹Û• Ø¨Ø§Ø´Ù‚Û‡Ø±Û‡Ø´ Ø¦Ù‰Ù‚ØªÙ‰Ø¯Ø§Ø±Ù‰ Ø¨Ø§Ø±. (Ù…Ù‰Ø³Ø§Ù„: Ù…Û•ÙƒØªÛ•Ù¾ Ú¾Û•Ù‚Ø³Ù‰Ø² ÙŠØ§ÙƒÙ‰ Ø¦ÙˆØ±Ú¯Ø§Ù† ØªØ§Ù…ÙˆÚ˜Ù†Ø§ Ø¨ÛØ¬Ù‰ Ø¦Ø§Ø±Ù‚Ù‰Ù„Ù‰Ù‚ Ø¦ÙˆÙ‚Û‡ØºÛ‡Ú†Ù‰Ù„Ø§Ø±Ù†Ù‰Ú­ Ø²Ù‰ÙŠØ§Ø±Ù‰ØªÙ‰Ù†Ù‰ Ù‚ÙˆØ¨Û‡Ù„ Ù‚Ù‰Ù„Ù‰Ø¯Û‡).
 
-#### تۈۋرۈك 4 - ئىئانە
-** Nexus Gaja مەبلەغ فوندى: ** ئىئانە قىلغۇچىلار ئۆزلۈكىدىن پۇل بىلەن تەمىنلەيدۇ (ئادەتتىكى ياكى مەخسۇس ئىئانە). 
-** مەبلەغ كۆلچىكى ۋە قەبرىستانلىق: ** ھەقسىز ياكى ئېتىبار باھادا ئىشلىتىش ئىئانە كۆلچىكىدىن مەبلەغ بىلەن تەمىنلىنىدۇ. مەبلەغ تەقسىملەش دەپتىرى مەبلەغ سېلىشقا كاپالەتلىك قىلىدۇ.
+#### ØªÛˆÛ‹Ø±ÛˆÙƒ 4 - Ø¦Ù‰Ø¦Ø§Ù†Û•
+** Nexus Gaja Ù…Û•Ø¨Ù„Û•Øº ÙÙˆÙ†Ø¯Ù‰: ** Ø¦Ù‰Ø¦Ø§Ù†Û• Ù‚Ù‰Ù„ØºÛ‡Ú†Ù‰Ù„Ø§Ø± Ø¦Û†Ø²Ù„ÛˆÙƒÙ‰Ø¯Ù‰Ù† Ù¾Û‡Ù„ Ø¨Ù‰Ù„Û•Ù† ØªÛ•Ù…Ù‰Ù†Ù„Û•ÙŠØ¯Û‡ (Ø¦Ø§Ø¯Û•ØªØªÙ‰ÙƒÙ‰ ÙŠØ§ÙƒÙ‰ Ù…Û•Ø®Ø³Û‡Ø³ Ø¦Ù‰Ø¦Ø§Ù†Û•). 
+** Ù…Û•Ø¨Ù„Û•Øº ÙƒÛ†Ù„Ú†Ù‰ÙƒÙ‰ Û‹Û• Ù‚Û•Ø¨Ø±Ù‰Ø³ØªØ§Ù†Ù„Ù‰Ù‚: ** Ú¾Û•Ù‚Ø³Ù‰Ø² ÙŠØ§ÙƒÙ‰ Ø¦ÛØªÙ‰Ø¨Ø§Ø± Ø¨Ø§Ú¾Ø§Ø¯Ø§ Ø¦Ù‰Ø´Ù„Ù‰ØªÙ‰Ø´ Ø¦Ù‰Ø¦Ø§Ù†Û• ÙƒÛ†Ù„Ú†Ù‰ÙƒÙ‰Ø¯Ù‰Ù† Ù…Û•Ø¨Ù„Û•Øº Ø¨Ù‰Ù„Û•Ù† ØªÛ•Ù…Ù‰Ù†Ù„Ù‰Ù†Ù‰Ø¯Û‡. Ù…Û•Ø¨Ù„Û•Øº ØªÛ•Ù‚Ø³Ù‰Ù…Ù„Û•Ø´ Ø¯Û•Ù¾ØªÙ‰Ø±Ù‰ Ù…Û•Ø¨Ù„Û•Øº Ø³ÛÙ„Ù‰Ø´Ù‚Ø§ ÙƒØ§Ù¾Ø§Ù„Û•ØªÙ„Ù‰Ùƒ Ù‚Ù‰Ù„Ù‰Ø¯Û‡.
 `` text
-ئىئانىلەر → مەقسەت فوندى → لاياقەتلىك ئېنېرگىيە → ھەقسىز زىيارەت / ئېتىبار / نورما
+Ø¦Ù‰Ø¦Ø§Ù†Ù‰Ù„Û•Ø± â†’ Ù…Û•Ù‚Ø³Û•Øª ÙÙˆÙ†Ø¯Ù‰ â†’ Ù„Ø§ÙŠØ§Ù‚Û•ØªÙ„Ù‰Ùƒ Ø¦ÛÙ†ÛØ±Ú¯Ù‰ÙŠÛ• â†’ Ú¾Û•Ù‚Ø³Ù‰Ø² Ø²Ù‰ÙŠØ§Ø±Û•Øª / Ø¦ÛØªÙ‰Ø¨Ø§Ø± / Ù†ÙˆØ±Ù…Ø§
 `` `
 
-#### 5-تۈۋرۈك - ئورگانلارنىڭ قوللىشى
-ياردەم بەرگۈچىلەر: فوندى ، مەدەنىيەت مەبلىغى پروگراممىسى ، دۆلەت مەبلەغ پروگراممىسى.
-** NG-FIN-002 (مۇستەقىللىق): ** مەبلەغ Nexus Gaja غا تەھرىرلىك ياكى تېخنىكىلىق كونترول سېتىۋالسا بولمايدۇ.
+#### 5-ØªÛˆÛ‹Ø±ÛˆÙƒ - Ø¦ÙˆØ±Ú¯Ø§Ù†Ù„Ø§Ø±Ù†Ù‰Ú­ Ù‚ÙˆÙ„Ù„Ù‰Ø´Ù‰
+ÙŠØ§Ø±Ø¯Û•Ù… Ø¨Û•Ø±Ú¯ÛˆÚ†Ù‰Ù„Û•Ø±: ÙÙˆÙ†Ø¯Ù‰ ØŒ Ù…Û•Ø¯Û•Ù†Ù‰ÙŠÛ•Øª Ù…Û•Ø¨Ù„Ù‰ØºÙ‰ Ù¾Ø±ÙˆÚ¯Ø±Ø§Ù…Ù…Ù‰Ø³Ù‰ ØŒ Ø¯Û†Ù„Û•Øª Ù…Û•Ø¨Ù„Û•Øº Ù¾Ø±ÙˆÚ¯Ø±Ø§Ù…Ù…Ù‰Ø³Ù‰.
+** NG-FIN-002 (Ù…Û‡Ø³ØªÛ•Ù‚Ù‰Ù„Ù„Ù‰Ù‚): ** Ù…Û•Ø¨Ù„Û•Øº Nexus Gaja ØºØ§ ØªÛ•Ú¾Ø±Ù‰Ø±Ù„Ù‰Ùƒ ÙŠØ§ÙƒÙ‰ ØªÛØ®Ù†Ù‰ÙƒÙ‰Ù„Ù‰Ù‚ ÙƒÙˆÙ†ØªØ±ÙˆÙ„ Ø³ÛØªÙ‰Û‹Ø§Ù„Ø³Ø§ Ø¨ÙˆÙ„Ù…Ø§ÙŠØ¯Û‡.
 
-#### تۈۋرۈك 6 - سودا مۇلازىمىتى
-Nexus Gaja نورمال ئابونتلارنىڭ يەم-خەشەكلىرىنى ئېلان بىلەن يۈكلىمەي تۇرۇپ ، ** تەرجىمە-مۇلازىمەت (API) ** ، كەسپىي تەرجىمە ، تەشكىلىي ئالاقە ياكى خەلقئارالىق يىغىن زالى قاتارلىق B2B مۇلازىمىتىنى تەمىنلىيەلەيدۇ.
+#### ØªÛˆÛ‹Ø±ÛˆÙƒ 6 - Ø³ÙˆØ¯Ø§ Ù…Û‡Ù„Ø§Ø²Ù‰Ù…Ù‰ØªÙ‰
+Nexus Gaja Ù†ÙˆØ±Ù…Ø§Ù„ Ø¦Ø§Ø¨ÙˆÙ†ØªÙ„Ø§Ø±Ù†Ù‰Ú­ ÙŠÛ•Ù…-Ø®Û•Ø´Û•ÙƒÙ„Ù‰Ø±Ù‰Ù†Ù‰ Ø¦ÛÙ„Ø§Ù† Ø¨Ù‰Ù„Û•Ù† ÙŠÛˆÙƒÙ„Ù‰Ù…Û•ÙŠ ØªÛ‡Ø±Û‡Ù¾ ØŒ ** ØªÛ•Ø±Ø¬Ù‰Ù…Û•-Ù…Û‡Ù„Ø§Ø²Ù‰Ù…Û•Øª (API) ** ØŒ ÙƒÛ•Ø³Ù¾Ù‰ÙŠ ØªÛ•Ø±Ø¬Ù‰Ù…Û• ØŒ ØªÛ•Ø´ÙƒÙ‰Ù„Ù‰ÙŠ Ø¦Ø§Ù„Ø§Ù‚Û• ÙŠØ§ÙƒÙ‰ Ø®Û•Ù„Ù‚Ø¦Ø§Ø±Ø§Ù„Ù‰Ù‚ ÙŠÙ‰ØºÙ‰Ù† Ø²Ø§Ù„Ù‰ Ù‚Ø§ØªØ§Ø±Ù„Ù‰Ù‚ B2B Ù…Û‡Ù„Ø§Ø²Ù‰Ù…Ù‰ØªÙ‰Ù†Ù‰ ØªÛ•Ù…Ù‰Ù†Ù„Ù‰ÙŠÛ•Ù„Û•ÙŠØ¯Û‡.
 
-### 4. سانلىق مەلۇمات سېتىش ۋە «كۆزىتىش ئىقتىسادى» يوق.
-** NG-FIN-003: ** ئىشلەتكۈچىنىڭ شەخسىي سانلىق مەلۇماتلىرى Nexus Gaja نىڭ تاۋار ئەمەس. (ئارخىپ ، تارىخ ، كىملىك ​​ئۇچۇرلىرى سېتىلمايدۇ). 
-Nexus Gaja ئىشلەتكۈچىلەرنىڭ ئىمكانقەدەر نازارەت قىلىنىشى ۋە پىسخىكا جەھەتتىن ئىمكانقەدەر تۈرگە ئايرىلىشىدىن نەپ ئېلىشنى مەقسەت قىلمايدۇ.
+### 4. Ø³Ø§Ù†Ù„Ù‰Ù‚ Ù…Û•Ù„Û‡Ù…Ø§Øª Ø³ÛØªÙ‰Ø´ Û‹Û• Â«ÙƒÛ†Ø²Ù‰ØªÙ‰Ø´ Ø¦Ù‰Ù‚ØªÙ‰Ø³Ø§Ø¯Ù‰Â» ÙŠÙˆÙ‚.
+** NG-FIN-003: ** Ø¦Ù‰Ø´Ù„Û•ØªÙƒÛˆÚ†Ù‰Ù†Ù‰Ú­ Ø´Û•Ø®Ø³Ù‰ÙŠ Ø³Ø§Ù†Ù„Ù‰Ù‚ Ù…Û•Ù„Û‡Ù…Ø§ØªÙ„Ù‰Ø±Ù‰ Nexus Gaja Ù†Ù‰Ú­ ØªØ§Û‹Ø§Ø± Ø¦Û•Ù…Û•Ø³. (Ø¦Ø§Ø±Ø®Ù‰Ù¾ ØŒ ØªØ§Ø±Ù‰Ø® ØŒ ÙƒÙ‰Ù…Ù„Ù‰Ùƒ â€‹â€‹Ø¦Û‡Ú†Û‡Ø±Ù„Ù‰Ø±Ù‰ Ø³ÛØªÙ‰Ù„Ù…Ø§ÙŠØ¯Û‡). 
+Nexus Gaja Ø¦Ù‰Ø´Ù„Û•ØªÙƒÛˆÚ†Ù‰Ù„Û•Ø±Ù†Ù‰Ú­ Ø¦Ù‰Ù…ÙƒØ§Ù†Ù‚Û•Ø¯Û•Ø± Ù†Ø§Ø²Ø§Ø±Û•Øª Ù‚Ù‰Ù„Ù‰Ù†Ù‰Ø´Ù‰ Û‹Û• Ù¾Ù‰Ø³Ø®Ù‰ÙƒØ§ Ø¬Û•Ú¾Û•ØªØªÙ‰Ù† Ø¦Ù‰Ù…ÙƒØ§Ù†Ù‚Û•Ø¯Û•Ø± ØªÛˆØ±Ú¯Û• Ø¦Ø§ÙŠØ±Ù‰Ù„Ù‰Ø´Ù‰Ø¯Ù‰Ù† Ù†Û•Ù¾ Ø¦ÛÙ„Ù‰Ø´Ù†Ù‰ Ù…Û•Ù‚Ø³Û•Øª Ù‚Ù‰Ù„Ù…Ø§ÙŠØ¯Û‡.
 
-### 5. مالىيە ئېنىقلىقى
-Nexus Gaja مالىيە ئېنىقلىقى: كىرىم تۈرلەر ، ئىئانە مىقدارى ، تىجارەت چىقىمى قاتارلىقلارغا ئاساسەن ئېلان قىلىنسا بولىدۇ. 
-** مەبلەغ دەپتىرى: ** مەلۇم بىر مەقسەت ئۈچۈن ئاجرىتىلغان ئىئانىلەر چۈشىنىشلىك بوغالتىرلىق شەكلىدە خاتىرىلىنىدۇ (ئىئانە → فوند كىملىكى → مەقسەت → ئىشلەتكىلى بولىدىغان تەڭپۇڭلۇق → تەقسىمات). ئوچۇق-ئاشكارە بولمىسا ئۆز-ئارا تولۇقلىما بېرىش بولمايدۇ.
+### 5. Ù…Ø§Ù„Ù‰ÙŠÛ• Ø¦ÛÙ†Ù‰Ù‚Ù„Ù‰Ù‚Ù‰
+Nexus Gaja Ù…Ø§Ù„Ù‰ÙŠÛ• Ø¦ÛÙ†Ù‰Ù‚Ù„Ù‰Ù‚Ù‰: ÙƒÙ‰Ø±Ù‰Ù… ØªÛˆØ±Ù„Û•Ø± ØŒ Ø¦Ù‰Ø¦Ø§Ù†Û• Ù…Ù‰Ù‚Ø¯Ø§Ø±Ù‰ ØŒ ØªÙ‰Ø¬Ø§Ø±Û•Øª Ú†Ù‰Ù‚Ù‰Ù…Ù‰ Ù‚Ø§ØªØ§Ø±Ù„Ù‰Ù‚Ù„Ø§Ø±ØºØ§ Ø¦Ø§Ø³Ø§Ø³Û•Ù† Ø¦ÛÙ„Ø§Ù† Ù‚Ù‰Ù„Ù‰Ù†Ø³Ø§ Ø¨ÙˆÙ„Ù‰Ø¯Û‡. 
+** Ù…Û•Ø¨Ù„Û•Øº Ø¯Û•Ù¾ØªÙ‰Ø±Ù‰: ** Ù…Û•Ù„Û‡Ù… Ø¨Ù‰Ø± Ù…Û•Ù‚Ø³Û•Øª Ø¦ÛˆÚ†ÛˆÙ† Ø¦Ø§Ø¬Ø±Ù‰ØªÙ‰Ù„ØºØ§Ù† Ø¦Ù‰Ø¦Ø§Ù†Ù‰Ù„Û•Ø± Ú†ÛˆØ´Ù‰Ù†Ù‰Ø´Ù„Ù‰Ùƒ Ø¨ÙˆØºØ§Ù„ØªÙ‰Ø±Ù„Ù‰Ù‚ Ø´Û•ÙƒÙ„Ù‰Ø¯Û• Ø®Ø§ØªÙ‰Ø±Ù‰Ù„Ù‰Ù†Ù‰Ø¯Û‡ (Ø¦Ù‰Ø¦Ø§Ù†Û• â†’ ÙÙˆÙ†Ø¯ ÙƒÙ‰Ù…Ù„Ù‰ÙƒÙ‰ â†’ Ù…Û•Ù‚Ø³Û•Øª â†’ Ø¦Ù‰Ø´Ù„Û•ØªÙƒÙ‰Ù„Ù‰ Ø¨ÙˆÙ„Ù‰Ø¯Ù‰ØºØ§Ù† ØªÛ•Ú­Ù¾Û‡Ú­Ù„Û‡Ù‚ â†’ ØªÛ•Ù‚Ø³Ù‰Ù…Ø§Øª). Ø¦ÙˆÚ†Û‡Ù‚-Ø¦Ø§Ø´ÙƒØ§Ø±Û• Ø¨ÙˆÙ„Ù…Ù‰Ø³Ø§ Ø¦Û†Ø²-Ø¦Ø§Ø±Ø§ ØªÙˆÙ„Û‡Ù‚Ù„Ù‰Ù…Ø§ Ø¨ÛØ±Ù‰Ø´ Ø¨ÙˆÙ„Ù…Ø§ÙŠØ¯Û‡.
 
-### 6. باھا ۋە ئىتتىپاقلىق مەبلەغ يۈرۈشتۈرۈش ئەندىزىسى
-باھا ئاساس قىلىنغان: تەننەرخ يۆنىلىشى ، ئادىللىق ۋە ئىتتىپاقلىق.
-** ئىتتىپاقلىق ھەققى: ** ئالىي دەرىجىلىك ئىشلەتكۈچى ئۆزلۈكىدىن تاللىيالايدۇ: «مەن باشقا بىر ئىشلەتكۈچىنىڭ زىيارەت قىلىشىنىڭ بىر قىسمىنى مەبلەغ بىلەن تەمىنلەيمەن». مەجبۇرىي ئىتتىپاقلىق ياكى ئالىي دەرىجىلىك جەمئىيەت (ھەقسىز ئىشلەتكۈچىلەرگە ھۆرمەت قىلىش ياكى ناچارراق بولۇش) بۇنىڭ سىرتىدا.
+### 6. Ø¨Ø§Ú¾Ø§ Û‹Û• Ø¦Ù‰ØªØªÙ‰Ù¾Ø§Ù‚Ù„Ù‰Ù‚ Ù…Û•Ø¨Ù„Û•Øº ÙŠÛˆØ±ÛˆØ´ØªÛˆØ±ÛˆØ´ Ø¦Û•Ù†Ø¯Ù‰Ø²Ù‰Ø³Ù‰
+Ø¨Ø§Ú¾Ø§ Ø¦Ø§Ø³Ø§Ø³ Ù‚Ù‰Ù„Ù‰Ù†ØºØ§Ù†: ØªÛ•Ù†Ù†Û•Ø±Ø® ÙŠÛ†Ù†Ù‰Ù„Ù‰Ø´Ù‰ ØŒ Ø¦Ø§Ø¯Ù‰Ù„Ù„Ù‰Ù‚ Û‹Û• Ø¦Ù‰ØªØªÙ‰Ù¾Ø§Ù‚Ù„Ù‰Ù‚.
+** Ø¦Ù‰ØªØªÙ‰Ù¾Ø§Ù‚Ù„Ù‰Ù‚ Ú¾Û•Ù‚Ù‚Ù‰: ** Ø¦Ø§Ù„Ù‰ÙŠ Ø¯Û•Ø±Ù‰Ø¬Ù‰Ù„Ù‰Ùƒ Ø¦Ù‰Ø´Ù„Û•ØªÙƒÛˆÚ†Ù‰ Ø¦Û†Ø²Ù„ÛˆÙƒÙ‰Ø¯Ù‰Ù† ØªØ§Ù„Ù„Ù‰ÙŠØ§Ù„Ø§ÙŠØ¯Û‡: Â«Ù…Û•Ù† Ø¨Ø§Ø´Ù‚Ø§ Ø¨Ù‰Ø± Ø¦Ù‰Ø´Ù„Û•ØªÙƒÛˆÚ†Ù‰Ù†Ù‰Ú­ Ø²Ù‰ÙŠØ§Ø±Û•Øª Ù‚Ù‰Ù„Ù‰Ø´Ù‰Ù†Ù‰Ú­ Ø¨Ù‰Ø± Ù‚Ù‰Ø³Ù…Ù‰Ù†Ù‰ Ù…Û•Ø¨Ù„Û•Øº Ø¨Ù‰Ù„Û•Ù† ØªÛ•Ù…Ù‰Ù†Ù„Û•ÙŠÙ…Û•Ù†Â». Ù…Û•Ø¬Ø¨Û‡Ø±Ù‰ÙŠ Ø¦Ù‰ØªØªÙ‰Ù¾Ø§Ù‚Ù„Ù‰Ù‚ ÙŠØ§ÙƒÙ‰ Ø¦Ø§Ù„Ù‰ÙŠ Ø¯Û•Ø±Ù‰Ø¬Ù‰Ù„Ù‰Ùƒ Ø¬Û•Ù…Ø¦Ù‰ÙŠÛ•Øª (Ú¾Û•Ù‚Ø³Ù‰Ø² Ø¦Ù‰Ø´Ù„Û•ØªÙƒÛˆÚ†Ù‰Ù„Û•Ø±Ú¯Û• Ú¾Û†Ø±Ù…Û•Øª Ù‚Ù‰Ù„Ù‰Ø´ ÙŠØ§ÙƒÙ‰ Ù†Ø§Ú†Ø§Ø±Ø±Ø§Ù‚ Ø¨ÙˆÙ„Û‡Ø´) Ø¨Û‡Ù†Ù‰Ú­ Ø³Ù‰Ø±ØªÙ‰Ø¯Ø§.
 
-### 7. ئىقتىسادىي KPI
-بىز تۈگىمەس تور ۋاقتىغا تايانمايمىز (ھەرىكەتچان ئىقتىساد يوق). بىزنىڭ KPI لىرىمىز:
-- ** يەرشارى ئالاقە كۆرسەتكۈچى (GCI): ** ئوخشىمىغان تىل ياكى مەدەنىيەت رايونىدىكى كىشىلەر ئارىسىدا قانچىلىك مۇۋەپپەقىيەتلىك ئالاقە مۇناسىۋىتى بارلىققا كېلىدۇ؟
-- ** سۇپا سىجىللىقى نىسبىتى (PSR): ** قايتا-قايتا كىرىم / قايتا-قايتا مەشغۇلات تەننەرخى (نىشان: PSR ≥ 1).
+### 7. Ø¦Ù‰Ù‚ØªÙ‰Ø³Ø§Ø¯Ù‰ÙŠ KPI
+Ø¨Ù‰Ø² ØªÛˆÚ¯Ù‰Ù…Û•Ø³ ØªÙˆØ± Û‹Ø§Ù‚ØªÙ‰ØºØ§ ØªØ§ÙŠØ§Ù†Ù…Ø§ÙŠÙ…Ù‰Ø² (Ú¾Û•Ø±Ù‰ÙƒÛ•ØªÚ†Ø§Ù† Ø¦Ù‰Ù‚ØªÙ‰Ø³Ø§Ø¯ ÙŠÙˆÙ‚). Ø¨Ù‰Ø²Ù†Ù‰Ú­ KPI Ù„Ù‰Ø±Ù‰Ù…Ù‰Ø²:
+- ** ÙŠÛ•Ø±Ø´Ø§Ø±Ù‰ Ø¦Ø§Ù„Ø§Ù‚Û• ÙƒÛ†Ø±Ø³Û•ØªÙƒÛˆÚ†Ù‰ (GCI): ** Ø¦ÙˆØ®Ø´Ù‰Ù…Ù‰ØºØ§Ù† ØªÙ‰Ù„ ÙŠØ§ÙƒÙ‰ Ù…Û•Ø¯Û•Ù†Ù‰ÙŠÛ•Øª Ø±Ø§ÙŠÙˆÙ†Ù‰Ø¯Ù‰ÙƒÙ‰ ÙƒÙ‰Ø´Ù‰Ù„Û•Ø± Ø¦Ø§Ø±Ù‰Ø³Ù‰Ø¯Ø§ Ù‚Ø§Ù†Ú†Ù‰Ù„Ù‰Ùƒ Ù…Û‡Û‹Û•Ù¾Ù¾Û•Ù‚Ù‰ÙŠÛ•ØªÙ„Ù‰Ùƒ Ø¦Ø§Ù„Ø§Ù‚Û• Ù…Û‡Ù†Ø§Ø³Ù‰Û‹Ù‰ØªÙ‰ Ø¨Ø§Ø±Ù„Ù‰Ù‚Ù‚Ø§ ÙƒÛÙ„Ù‰Ø¯Û‡ØŸ
+- ** Ø³Û‡Ù¾Ø§ Ø³Ù‰Ø¬Ù‰Ù„Ù„Ù‰Ù‚Ù‰ Ù†Ù‰Ø³Ø¨Ù‰ØªÙ‰ (PSR): ** Ù‚Ø§ÙŠØªØ§-Ù‚Ø§ÙŠØªØ§ ÙƒÙ‰Ø±Ù‰Ù… / Ù‚Ø§ÙŠØªØ§-Ù‚Ø§ÙŠØªØ§ Ù…Û•Ø´ØºÛ‡Ù„Ø§Øª ØªÛ•Ù†Ù†Û•Ø±Ø®Ù‰ (Ù†Ù‰Ø´Ø§Ù†: PSR â‰¥ 1).
 
-### 8. بىز ئېنىق خالىمايدىغان نەرسە
-Nexus Gaja مەبلەغ بىلەن تەمىنلىمەيدۇ:
-Personal شەخسىي ئۇچۇرلارنى سېتىش
-❌ خاسلاشتۇرۇلغان كلاسسىك ئېلان
-Advertising ئېلان مەقسىتىدە ئىشلەتكۈچىنىڭ ھەرىكىتىنى نازارەت قىلىش
-Private شەخسىي ئالاقە ئۇچۇرلىرىنى سېتىش
-AI يوشۇرۇن AI سانلىق مەلۇمات ئىشلىتىش
-❌ manipulative premium lock
-Mon پۇلنىڭ سۈنئىي يېتىلىش چەكلىمىسى
-❌ ھەقلىق سىياسىي تەسىر
-ئىمتىيازلىق ئوتتۇراھال قارارلارنى سېتىۋېلىش.
+### 8. Ø¨Ù‰Ø² Ø¦ÛÙ†Ù‰Ù‚ Ø®Ø§Ù„Ù‰Ù…Ø§ÙŠØ¯Ù‰ØºØ§Ù† Ù†Û•Ø±Ø³Û•
+Nexus Gaja Ù…Û•Ø¨Ù„Û•Øº Ø¨Ù‰Ù„Û•Ù† ØªÛ•Ù…Ù‰Ù†Ù„Ù‰Ù…Û•ÙŠØ¯Û‡:
+Personal Ø´Û•Ø®Ø³Ù‰ÙŠ Ø¦Û‡Ú†Û‡Ø±Ù„Ø§Ø±Ù†Ù‰ Ø³ÛØªÙ‰Ø´
+âŒ Ø®Ø§Ø³Ù„Ø§Ø´ØªÛ‡Ø±Û‡Ù„ØºØ§Ù† ÙƒÙ„Ø§Ø³Ø³Ù‰Ùƒ Ø¦ÛÙ„Ø§Ù†
+Advertising Ø¦ÛÙ„Ø§Ù† Ù…Û•Ù‚Ø³Ù‰ØªÙ‰Ø¯Û• Ø¦Ù‰Ø´Ù„Û•ØªÙƒÛˆÚ†Ù‰Ù†Ù‰Ú­ Ú¾Û•Ø±Ù‰ÙƒÙ‰ØªÙ‰Ù†Ù‰ Ù†Ø§Ø²Ø§Ø±Û•Øª Ù‚Ù‰Ù„Ù‰Ø´
+Private Ø´Û•Ø®Ø³Ù‰ÙŠ Ø¦Ø§Ù„Ø§Ù‚Û• Ø¦Û‡Ú†Û‡Ø±Ù„Ù‰Ø±Ù‰Ù†Ù‰ Ø³ÛØªÙ‰Ø´
+AI ÙŠÙˆØ´Û‡Ø±Û‡Ù† AI Ø³Ø§Ù†Ù„Ù‰Ù‚ Ù…Û•Ù„Û‡Ù…Ø§Øª Ø¦Ù‰Ø´Ù„Ù‰ØªÙ‰Ø´
+âŒ manipulative premium lock
+Mon Ù¾Û‡Ù„Ù†Ù‰Ú­ Ø³ÛˆÙ†Ø¦Ù‰ÙŠ ÙŠÛØªÙ‰Ù„Ù‰Ø´ Ú†Û•ÙƒÙ„Ù‰Ù…Ù‰Ø³Ù‰
+âŒ Ú¾Û•Ù‚Ù„Ù‰Ù‚ Ø³Ù‰ÙŠØ§Ø³Ù‰ÙŠ ØªÛ•Ø³Ù‰Ø±
+Ø¦Ù‰Ù…ØªÙ‰ÙŠØ§Ø²Ù„Ù‰Ù‚ Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„ Ù‚Ø§Ø±Ø§Ø±Ù„Ø§Ø±Ù†Ù‰ Ø³ÛØªÙ‰Û‹ÛÙ„Ù‰Ø´.
 
-### 9. دەسلەپكى بىناكارلىق
+### 9. Ø¯Û•Ø³Ù„Û•Ù¾ÙƒÙ‰ Ø¨Ù‰Ù†Ø§ÙƒØ§Ø±Ù„Ù‰Ù‚
 `` text
                          NEXUS GAJA
-                              │
-             ┌────────────────┼────────────────┐
-             │ │ │
-             ▼ ▼ ▼
-          ئىشلەتكۈچىلەر تەشكىلاتى كارخانا
-             │ │ │
-             └────────────────┼────────────────┘
-                              │
+                              â”‚
+             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+             â”‚ â”‚ â”‚
+             â–¼ â–¼ â–¼
+          Ø¦Ù‰Ø´Ù„Û•ØªÙƒÛˆÚ†Ù‰Ù„Û•Ø± ØªÛ•Ø´ÙƒÙ‰Ù„Ø§ØªÙ‰ ÙƒØ§Ø±Ø®Ø§Ù†Ø§
+             â”‚ â”‚ â”‚
+             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+                              â”‚
                        PLATFORM SERVICES
-                              │
-          ┌─────────────────── ┼───────────────────┐
-          ▼ ▼ ▼
+                              â”‚
+          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+          â–¼ â–¼ â–¼
        PREMIUM DONATIONS API
-                              │
-                    ┌─────────┴─────────┐
-                    ▼ ▼
-               ئومۇمىي مەبلەغ چەكلەنگەن مەبلەغ
-                                        │
-                                        ▼
-                                  ئىجتىمائىي مەقسەت
+                              â”‚
+                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+                    â–¼ â–¼
+               Ø¦ÙˆÙ…Û‡Ù…Ù‰ÙŠ Ù…Û•Ø¨Ù„Û•Øº Ú†Û•ÙƒÙ„Û•Ù†Ú¯Û•Ù† Ù…Û•Ø¨Ù„Û•Øº
+                                        â”‚
+                                        â–¼
+                                  Ø¦Ù‰Ø¬ØªÙ‰Ù…Ø§Ø¦Ù‰ÙŠ Ù…Û•Ù‚Ø³Û•Øª
 `` `
 
-### خۇلاسە: مەبلەغ يۈرۈشتۈرۈش پرىنسىپى (NG-FIN)
-- ** NG-FIN-001: ** Nexus Gaja ئەنئەنىۋى ئېلان مەبلىغى بىلەن تەمىنلىمەيدۇ.
-- ** NG-FIN-002: ** ئىقتىسادىي ياردەم ئوتتۇراھال ياكى باشقۇرۇشقا تەسىر كۆرسەتمەيدۇ.
-- ** NG-FIN-003: ** شەخسىي ئىشلەتكۈچى سانلىق مەلۇماتلىرى تاۋار ئەمەس.
-- ** NG-FIN-004: ** ئاساسىي خەلقئارالىق ئالاقە ئىقتىدارى پۇل تۆلىمەي تۇرۇپلا زىيارەت قىلىنىشى كېرەك.
-- ** NG-FIN-005: ** Premium مۇلازىمىتى مۇلازىمەت دائىرىسىنى كېڭەيتىدۇ ، ئەمما ھەقسىز ئىشلەتكۈچىلەرنىڭ ئىززەت-ھۆرمىتى ۋە ئاساسىي ئالاقە تاللانمىلىرىنى تۆۋەنلىتىۋەتمەسلىكى كېرەك.
-- ** NG-FIN-006: ** ئاجرىتىلغان مەبلەغ مەلۇم مەقسەتتە باشقۇرۇلىدۇ.
-- ** NG-FIN-007: ** ئىئانە ۋە مەبلەغ ئوچۇق ۋە چۈشىنىشلىك باشقۇرۇلىدۇ.
-- ** NG-FIN-008: ** سودا مۇلازىمىتى سۇپىنىڭ مۇستەقىللىقىغا تەسىر يەتكۈزمەسلىكى كېرەك.
-- ** NG-FIN-009: ** Nexus Gaja نىڭ ئىقتىسادىي تەرەققىياتى ئۇزۇن مۇددەتلىك سىجىللىقنى نىشان قىلىشى ، ئابونتلارنىڭ ئەڭ كۆپ پۇل تېپىشىنى ئەمەس.
-- ** NG-FIN-010: ** ئىقتىسادىي قۇرۇلما ئىجتىمائىي مەقسەت - خەلقئارا چۈشىنىش ، خەلقئارا ئالاقە ۋە خەلقلەر ئوتتۇرىسىدىكى دوستلۇقنى مەڭگۈلۈك قوزغىتىشى كېرەك.
+### Ø®Û‡Ù„Ø§Ø³Û•: Ù…Û•Ø¨Ù„Û•Øº ÙŠÛˆØ±ÛˆØ´ØªÛˆØ±ÛˆØ´ Ù¾Ø±Ù‰Ù†Ø³Ù‰Ù¾Ù‰ (NG-FIN)
+- ** NG-FIN-001: ** Nexus Gaja Ø¦Û•Ù†Ø¦Û•Ù†Ù‰Û‹Ù‰ Ø¦ÛÙ„Ø§Ù† Ù…Û•Ø¨Ù„Ù‰ØºÙ‰ Ø¨Ù‰Ù„Û•Ù† ØªÛ•Ù…Ù‰Ù†Ù„Ù‰Ù…Û•ÙŠØ¯Û‡.
+- ** NG-FIN-002: ** Ø¦Ù‰Ù‚ØªÙ‰Ø³Ø§Ø¯Ù‰ÙŠ ÙŠØ§Ø±Ø¯Û•Ù… Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„ ÙŠØ§ÙƒÙ‰ Ø¨Ø§Ø´Ù‚Û‡Ø±Û‡Ø´Ù‚Ø§ ØªÛ•Ø³Ù‰Ø± ÙƒÛ†Ø±Ø³Û•ØªÙ…Û•ÙŠØ¯Û‡.
+- ** NG-FIN-003: ** Ø´Û•Ø®Ø³Ù‰ÙŠ Ø¦Ù‰Ø´Ù„Û•ØªÙƒÛˆÚ†Ù‰ Ø³Ø§Ù†Ù„Ù‰Ù‚ Ù…Û•Ù„Û‡Ù…Ø§ØªÙ„Ù‰Ø±Ù‰ ØªØ§Û‹Ø§Ø± Ø¦Û•Ù…Û•Ø³.
+- ** NG-FIN-004: ** Ø¦Ø§Ø³Ø§Ø³Ù‰ÙŠ Ø®Û•Ù„Ù‚Ø¦Ø§Ø±Ø§Ù„Ù‰Ù‚ Ø¦Ø§Ù„Ø§Ù‚Û• Ø¦Ù‰Ù‚ØªÙ‰Ø¯Ø§Ø±Ù‰ Ù¾Û‡Ù„ ØªÛ†Ù„Ù‰Ù…Û•ÙŠ ØªÛ‡Ø±Û‡Ù¾Ù„Ø§ Ø²Ù‰ÙŠØ§Ø±Û•Øª Ù‚Ù‰Ù„Ù‰Ù†Ù‰Ø´Ù‰ ÙƒÛØ±Û•Ùƒ.
+- ** NG-FIN-005: ** Premium Ù…Û‡Ù„Ø§Ø²Ù‰Ù…Ù‰ØªÙ‰ Ù…Û‡Ù„Ø§Ø²Ù‰Ù…Û•Øª Ø¯Ø§Ø¦Ù‰Ø±Ù‰Ø³Ù‰Ù†Ù‰ ÙƒÛÚ­Û•ÙŠØªÙ‰Ø¯Û‡ ØŒ Ø¦Û•Ù…Ù…Ø§ Ú¾Û•Ù‚Ø³Ù‰Ø² Ø¦Ù‰Ø´Ù„Û•ØªÙƒÛˆÚ†Ù‰Ù„Û•Ø±Ù†Ù‰Ú­ Ø¦Ù‰Ø²Ø²Û•Øª-Ú¾Û†Ø±Ù…Ù‰ØªÙ‰ Û‹Û• Ø¦Ø§Ø³Ø§Ø³Ù‰ÙŠ Ø¦Ø§Ù„Ø§Ù‚Û• ØªØ§Ù„Ù„Ø§Ù†Ù…Ù‰Ù„Ù‰Ø±Ù‰Ù†Ù‰ ØªÛ†Û‹Û•Ù†Ù„Ù‰ØªÙ‰Û‹Û•ØªÙ…Û•Ø³Ù„Ù‰ÙƒÙ‰ ÙƒÛØ±Û•Ùƒ.
+- ** NG-FIN-006: ** Ø¦Ø§Ø¬Ø±Ù‰ØªÙ‰Ù„ØºØ§Ù† Ù…Û•Ø¨Ù„Û•Øº Ù…Û•Ù„Û‡Ù… Ù…Û•Ù‚Ø³Û•ØªØªÛ• Ø¨Ø§Ø´Ù‚Û‡Ø±Û‡Ù„Ù‰Ø¯Û‡.
+- ** NG-FIN-007: ** Ø¦Ù‰Ø¦Ø§Ù†Û• Û‹Û• Ù…Û•Ø¨Ù„Û•Øº Ø¦ÙˆÚ†Û‡Ù‚ Û‹Û• Ú†ÛˆØ´Ù‰Ù†Ù‰Ø´Ù„Ù‰Ùƒ Ø¨Ø§Ø´Ù‚Û‡Ø±Û‡Ù„Ù‰Ø¯Û‡.
+- ** NG-FIN-008: ** Ø³ÙˆØ¯Ø§ Ù…Û‡Ù„Ø§Ø²Ù‰Ù…Ù‰ØªÙ‰ Ø³Û‡Ù¾Ù‰Ù†Ù‰Ú­ Ù…Û‡Ø³ØªÛ•Ù‚Ù‰Ù„Ù„Ù‰Ù‚Ù‰ØºØ§ ØªÛ•Ø³Ù‰Ø± ÙŠÛ•ØªÙƒÛˆØ²Ù…Û•Ø³Ù„Ù‰ÙƒÙ‰ ÙƒÛØ±Û•Ùƒ.
+- ** NG-FIN-009: ** Nexus Gaja Ù†Ù‰Ú­ Ø¦Ù‰Ù‚ØªÙ‰Ø³Ø§Ø¯Ù‰ÙŠ ØªÛ•Ø±Û•Ù‚Ù‚Ù‰ÙŠØ§ØªÙ‰ Ø¦Û‡Ø²Û‡Ù† Ù…Û‡Ø¯Ø¯Û•ØªÙ„Ù‰Ùƒ Ø³Ù‰Ø¬Ù‰Ù„Ù„Ù‰Ù‚Ù†Ù‰ Ù†Ù‰Ø´Ø§Ù† Ù‚Ù‰Ù„Ù‰Ø´Ù‰ ØŒ Ø¦Ø§Ø¨ÙˆÙ†ØªÙ„Ø§Ø±Ù†Ù‰Ú­ Ø¦Û•Ú­ ÙƒÛ†Ù¾ Ù¾Û‡Ù„ ØªÛÙ¾Ù‰Ø´Ù‰Ù†Ù‰ Ø¦Û•Ù…Û•Ø³.
+- ** NG-FIN-010: ** Ø¦Ù‰Ù‚ØªÙ‰Ø³Ø§Ø¯Ù‰ÙŠ Ù‚Û‡Ø±Û‡Ù„Ù…Ø§ Ø¦Ù‰Ø¬ØªÙ‰Ù…Ø§Ø¦Ù‰ÙŠ Ù…Û•Ù‚Ø³Û•Øª - Ø®Û•Ù„Ù‚Ø¦Ø§Ø±Ø§ Ú†ÛˆØ´Ù‰Ù†Ù‰Ø´ ØŒ Ø®Û•Ù„Ù‚Ø¦Ø§Ø±Ø§ Ø¦Ø§Ù„Ø§Ù‚Û• Û‹Û• Ø®Û•Ù„Ù‚Ù„Û•Ø± Ø¦ÙˆØªØªÛ‡Ø±Ù‰Ø³Ù‰Ø¯Ù‰ÙƒÙ‰ Ø¯ÙˆØ³ØªÙ„Û‡Ù‚Ù†Ù‰ Ù…Û•Ú­Ú¯ÛˆÙ„ÛˆÙƒ Ù‚ÙˆØ²ØºÙ‰ØªÙ‰Ø´Ù‰ ÙƒÛØ±Û•Ùƒ.
 
-## API ، كۆرۈنمە يۈزى ۋە ئالاقە قۇرۇلمىسى (WP 1.11.3)
+## API ØŒ ÙƒÛ†Ø±ÛˆÙ†Ù…Û• ÙŠÛˆØ²Ù‰ Û‹Û• Ø¦Ø§Ù„Ø§Ù‚Û• Ù‚Û‡Ø±Û‡Ù„Ù…Ù‰Ø³Ù‰ (WP 1.11.3)
 
-سىستېمىنىڭ مۇقىملىقى ، بىخەتەرلىكى ۋە كېڭەيتىشچانلىقىغا كاپالەتلىك قىلىش ئۈچۈن ، Nexus Gaja قاتتىق API نى ئاساس قىلغان ۋە پائالىيەت قوزغىتىش قۇرۇلمىسىغا ئەگىشىدۇ.
+Ø³Ù‰Ø³ØªÛÙ…Ù‰Ù†Ù‰Ú­ Ù…Û‡Ù‚Ù‰Ù…Ù„Ù‰Ù‚Ù‰ ØŒ Ø¨Ù‰Ø®Û•ØªÛ•Ø±Ù„Ù‰ÙƒÙ‰ Û‹Û• ÙƒÛÚ­Û•ÙŠØªÙ‰Ø´Ú†Ø§Ù†Ù„Ù‰Ù‚Ù‰ØºØ§ ÙƒØ§Ù¾Ø§Ù„Û•ØªÙ„Ù‰Ùƒ Ù‚Ù‰Ù„Ù‰Ø´ Ø¦ÛˆÚ†ÛˆÙ† ØŒ Nexus Gaja Ù‚Ø§ØªØªÙ‰Ù‚ API Ù†Ù‰ Ø¦Ø§Ø³Ø§Ø³ Ù‚Ù‰Ù„ØºØ§Ù† Û‹Û• Ù¾Ø§Ø¦Ø§Ù„Ù‰ÙŠÛ•Øª Ù‚ÙˆØ²ØºÙ‰ØªÙ‰Ø´ Ù‚Û‡Ø±Û‡Ù„Ù…Ù‰Ø³Ù‰ØºØ§ Ø¦Û•Ú¯Ù‰Ø´Ù‰Ø¯Û‡.
 
-### ئاساسىي پرىنسىپلار
-- ** بىۋاسىتە ساندانغا كىرىش ھوقۇقى يوق: ** زاپچاسلار پەقەت ئېنىق كۆرۈنمە يۈزى (API ياكى ھادىسە) ئارقىلىقلا ئالاقە قىلىدۇ ، ھەرگىزمۇ باشقا مۇلازىمەتلەرنىڭ بىۋاسىتە ساندان سوئاللىرى ئارقىلىق بولمايدۇ.
-- ** API كىرىش ئېغىزى: ** سىرتقى خېرىدارلارنىڭ بارلىق تەلەپلىرى دەلىللەش ، يول يۈرۈش ۋە ئۆسۈم چەكلىمىسىنى بىر تەرەپ قىلىدىغان API دەرۋازىسىدىن ئۆتىدۇ.
-- ** تەمىنلىگۈچى ئابستراكت: ** تاشقى مۇلازىمەتلەر (AI مودېللىرى ، ھەق تۆلىگۈچىلەر ، تەرجىمە ماتورلىرى) ئابستراكت قەۋەتلەر ئارقىلىق بىرلەشتۈرۈلگەن. بۇ قاتتىق سىملىق بېقىنىشنىڭ ئالدىنى ئالىدۇ ھەمدە جانلىق تەمىنلىگۈچىنىڭ ئالماشتۇرۇشىغا يول قويىدۇ.
+### Ø¦Ø§Ø³Ø§Ø³Ù‰ÙŠ Ù¾Ø±Ù‰Ù†Ø³Ù‰Ù¾Ù„Ø§Ø±
+- ** Ø¨Ù‰Û‹Ø§Ø³Ù‰ØªÛ• Ø³Ø§Ù†Ø¯Ø§Ù†ØºØ§ ÙƒÙ‰Ø±Ù‰Ø´ Ú¾ÙˆÙ‚Û‡Ù‚Ù‰ ÙŠÙˆÙ‚: ** Ø²Ø§Ù¾Ú†Ø§Ø³Ù„Ø§Ø± Ù¾Û•Ù‚Û•Øª Ø¦ÛÙ†Ù‰Ù‚ ÙƒÛ†Ø±ÛˆÙ†Ù…Û• ÙŠÛˆØ²Ù‰ (API ÙŠØ§ÙƒÙ‰ Ú¾Ø§Ø¯Ù‰Ø³Û•) Ø¦Ø§Ø±Ù‚Ù‰Ù„Ù‰Ù‚Ù„Ø§ Ø¦Ø§Ù„Ø§Ù‚Û• Ù‚Ù‰Ù„Ù‰Ø¯Û‡ ØŒ Ú¾Û•Ø±Ú¯Ù‰Ø²Ù…Û‡ Ø¨Ø§Ø´Ù‚Ø§ Ù…Û‡Ù„Ø§Ø²Ù‰Ù…Û•ØªÙ„Û•Ø±Ù†Ù‰Ú­ Ø¨Ù‰Û‹Ø§Ø³Ù‰ØªÛ• Ø³Ø§Ù†Ø¯Ø§Ù† Ø³ÙˆØ¦Ø§Ù„Ù„Ù‰Ø±Ù‰ Ø¦Ø§Ø±Ù‚Ù‰Ù„Ù‰Ù‚ Ø¨ÙˆÙ„Ù…Ø§ÙŠØ¯Û‡.
+- ** API ÙƒÙ‰Ø±Ù‰Ø´ Ø¦ÛØºÙ‰Ø²Ù‰: ** Ø³Ù‰Ø±ØªÙ‚Ù‰ Ø®ÛØ±Ù‰Ø¯Ø§Ø±Ù„Ø§Ø±Ù†Ù‰Ú­ Ø¨Ø§Ø±Ù„Ù‰Ù‚ ØªÛ•Ù„Û•Ù¾Ù„Ù‰Ø±Ù‰ Ø¯Û•Ù„Ù‰Ù„Ù„Û•Ø´ ØŒ ÙŠÙˆÙ„ ÙŠÛˆØ±ÛˆØ´ Û‹Û• Ø¦Û†Ø³ÛˆÙ… Ú†Û•ÙƒÙ„Ù‰Ù…Ù‰Ø³Ù‰Ù†Ù‰ Ø¨Ù‰Ø± ØªÛ•Ø±Û•Ù¾ Ù‚Ù‰Ù„Ù‰Ø¯Ù‰ØºØ§Ù† API Ø¯Û•Ø±Û‹Ø§Ø²Ù‰Ø³Ù‰Ø¯Ù‰Ù† Ø¦Û†ØªÙ‰Ø¯Û‡.
+- ** ØªÛ•Ù…Ù‰Ù†Ù„Ù‰Ú¯ÛˆÚ†Ù‰ Ø¦Ø§Ø¨Ø³ØªØ±Ø§ÙƒØª: ** ØªØ§Ø´Ù‚Ù‰ Ù…Û‡Ù„Ø§Ø²Ù‰Ù…Û•ØªÙ„Û•Ø± (AI Ù…ÙˆØ¯ÛÙ„Ù„Ù‰Ø±Ù‰ ØŒ Ú¾Û•Ù‚ ØªÛ†Ù„Ù‰Ú¯ÛˆÚ†Ù‰Ù„Û•Ø± ØŒ ØªÛ•Ø±Ø¬Ù‰Ù…Û• Ù…Ø§ØªÙˆØ±Ù„Ù‰Ø±Ù‰) Ø¦Ø§Ø¨Ø³ØªØ±Ø§ÙƒØª Ù‚Û•Û‹Û•ØªÙ„Û•Ø± Ø¦Ø§Ø±Ù‚Ù‰Ù„Ù‰Ù‚ Ø¨Ù‰Ø±Ù„Û•Ø´ØªÛˆØ±ÛˆÙ„Ú¯Û•Ù†. Ø¨Û‡ Ù‚Ø§ØªØªÙ‰Ù‚ Ø³Ù‰Ù…Ù„Ù‰Ù‚ Ø¨ÛÙ‚Ù‰Ù†Ù‰Ø´Ù†Ù‰Ú­ Ø¦Ø§Ù„Ø¯Ù‰Ù†Ù‰ Ø¦Ø§Ù„Ù‰Ø¯Û‡ Ú¾Û•Ù…Ø¯Û• Ø¬Ø§Ù†Ù„Ù‰Ù‚ ØªÛ•Ù…Ù‰Ù†Ù„Ù‰Ú¯ÛˆÚ†Ù‰Ù†Ù‰Ú­ Ø¦Ø§Ù„Ù…Ø§Ø´ØªÛ‡Ø±Û‡Ø´Ù‰ØºØ§ ÙŠÙˆÙ„ Ù‚ÙˆÙŠÙ‰Ø¯Û‡.
 
-### ئالاقە ئەندىزىسى
-- ** ماس قەدەملىك API (REST / HTTPS): ** كىرىش ، ئارخىپ تەڭشىكى ياكى بىۋاسىتە تەرجىمە قاتارلىق دەرھال تەلەپلەر ئۈچۈن ئىشلىتىلىدۇ.
+### Ø¦Ø§Ù„Ø§Ù‚Û• Ø¦Û•Ù†Ø¯Ù‰Ø²Ù‰Ø³Ù‰
+- ** Ù…Ø§Ø³ Ù‚Û•Ø¯Û•Ù…Ù„Ù‰Ùƒ API (REST / HTTPS): ** ÙƒÙ‰Ø±Ù‰Ø´ ØŒ Ø¦Ø§Ø±Ø®Ù‰Ù¾ ØªÛ•Ú­Ø´Ù‰ÙƒÙ‰ ÙŠØ§ÙƒÙ‰ Ø¨Ù‰Û‹Ø§Ø³Ù‰ØªÛ• ØªÛ•Ø±Ø¬Ù‰Ù…Û• Ù‚Ø§ØªØ§Ø±Ù„Ù‰Ù‚ Ø¯Û•Ø±Ú¾Ø§Ù„ ØªÛ•Ù„Û•Ù¾Ù„Û•Ø± Ø¦ÛˆÚ†ÛˆÙ† Ø¦Ù‰Ø´Ù„Ù‰ØªÙ‰Ù„Ù‰Ø¯Û‡.
 .
-- ** ھەقىقىي ۋاقىت (WebSocket): ** نەق مەيدان پاراڭلىشىش ۋە يېزىش ھالىتى ئۈچۈن مەخسۇس قانال.
+- ** Ú¾Û•Ù‚Ù‰Ù‚Ù‰ÙŠ Û‹Ø§Ù‚Ù‰Øª (WebSocket): ** Ù†Û•Ù‚ Ù…Û•ÙŠØ¯Ø§Ù† Ù¾Ø§Ø±Ø§Ú­Ù„Ù‰Ø´Ù‰Ø´ Û‹Û• ÙŠÛØ²Ù‰Ø´ Ú¾Ø§Ù„Ù‰ØªÙ‰ Ø¦ÛˆÚ†ÛˆÙ† Ù…Û•Ø®Ø³Û‡Ø³ Ù‚Ø§Ù†Ø§Ù„.
 
-### بىخەتەرلىك ۋە ئىشەنچلىك
-- ** نۆل ئىشەنچ مودېلى: ** ئىچكى تور ئېقىمى ئاپتوماتىك ئىشەنچلىك ئەمەس سەزگۈر مۇلازىمەت بىلەن مۇلازىمەت ئالاقىسى دەلىللەشنى تەلەپ قىلىدۇ.
-- ** Idempotence & Outbox ئەندىزىسى: ** ھالقىلىق مەشغۇلاتلار (مەسىلەن ئىئانە ياكى ئۇچۇر دېگەندەك) كۆپ خىل بىر تەرەپ قىلىشنىڭ ئالدىنى ئېلىش ۋە سىرتقا چىقىش ئەندىزىسىنى ئىشلىتىپ ساندان سودىسىدىمۇ ۋەقەلەرنىڭ يوقاپ كەتمەسلىكىگە كاپالەتلىك قىلىش ئۈچۈن لايىھەلەنگەن.
+### Ø¨Ù‰Ø®Û•ØªÛ•Ø±Ù„Ù‰Ùƒ Û‹Û• Ø¦Ù‰Ø´Û•Ù†Ú†Ù„Ù‰Ùƒ
+- ** Ù†Û†Ù„ Ø¦Ù‰Ø´Û•Ù†Ú† Ù…ÙˆØ¯ÛÙ„Ù‰: ** Ø¦Ù‰Ú†ÙƒÙ‰ ØªÙˆØ± Ø¦ÛÙ‚Ù‰Ù…Ù‰ Ø¦Ø§Ù¾ØªÙˆÙ…Ø§ØªÙ‰Ùƒ Ø¦Ù‰Ø´Û•Ù†Ú†Ù„Ù‰Ùƒ Ø¦Û•Ù…Û•Ø³ Ø³Û•Ø²Ú¯ÛˆØ± Ù…Û‡Ù„Ø§Ø²Ù‰Ù…Û•Øª Ø¨Ù‰Ù„Û•Ù† Ù…Û‡Ù„Ø§Ø²Ù‰Ù…Û•Øª Ø¦Ø§Ù„Ø§Ù‚Ù‰Ø³Ù‰ Ø¯Û•Ù„Ù‰Ù„Ù„Û•Ø´Ù†Ù‰ ØªÛ•Ù„Û•Ù¾ Ù‚Ù‰Ù„Ù‰Ø¯Û‡.
+- ** Idempotence & Outbox Ø¦Û•Ù†Ø¯Ù‰Ø²Ù‰Ø³Ù‰: ** Ú¾Ø§Ù„Ù‚Ù‰Ù„Ù‰Ù‚ Ù…Û•Ø´ØºÛ‡Ù„Ø§ØªÙ„Ø§Ø± (Ù…Û•Ø³Ù‰Ù„Û•Ù† Ø¦Ù‰Ø¦Ø§Ù†Û• ÙŠØ§ÙƒÙ‰ Ø¦Û‡Ú†Û‡Ø± Ø¯ÛÚ¯Û•Ù†Ø¯Û•Ùƒ) ÙƒÛ†Ù¾ Ø®Ù‰Ù„ Ø¨Ù‰Ø± ØªÛ•Ø±Û•Ù¾ Ù‚Ù‰Ù„Ù‰Ø´Ù†Ù‰Ú­ Ø¦Ø§Ù„Ø¯Ù‰Ù†Ù‰ Ø¦ÛÙ„Ù‰Ø´ Û‹Û• Ø³Ù‰Ø±ØªÙ‚Ø§ Ú†Ù‰Ù‚Ù‰Ø´ Ø¦Û•Ù†Ø¯Ù‰Ø²Ù‰Ø³Ù‰Ù†Ù‰ Ø¦Ù‰Ø´Ù„Ù‰ØªÙ‰Ù¾ Ø³Ø§Ù†Ø¯Ø§Ù† Ø³ÙˆØ¯Ù‰Ø³Ù‰Ø¯Ù‰Ù…Û‡ Û‹Û•Ù‚Û•Ù„Û•Ø±Ù†Ù‰Ú­ ÙŠÙˆÙ‚Ø§Ù¾ ÙƒÛ•ØªÙ…Û•Ø³Ù„Ù‰ÙƒÙ‰Ú¯Û• ÙƒØ§Ù¾Ø§Ù„Û•ØªÙ„Ù‰Ùƒ Ù‚Ù‰Ù„Ù‰Ø´ Ø¦ÛˆÚ†ÛˆÙ† Ù„Ø§ÙŠÙ‰Ú¾Û•Ù„Û•Ù†Ú¯Û•Ù†.
 
-## MVP دائىرە مودېلى (WP 1.12)
+## MVP Ø¯Ø§Ø¦Ù‰Ø±Û• Ù…ÙˆØ¯ÛÙ„Ù‰ (WP 1.12)
 
-! [Nexus Gaja Modular Monolith] (مۈلۈك / img / nexus_architecture.jpg)
+! [Nexus Gaja Modular Monolith] (Ù…ÛˆÙ„ÛˆÙƒ / img / nexus_architecture.jpg)
 
-Nexus Gaja قاتتىق دائىرە ئارقىلىق قوزغىتىلغان MVP قۇرۇلمىسى (ADR-025) نى ئىشلىتىدۇ ، تور دائىرىسى ئېنىق بولغان مودۇللۇق مونوپول قىلىپ لايىھەلەنگەن. بۇ قۇرۇلما كېيىن مىكرو ساھەنىڭ مۇرەككەپلىكىنىڭ ئالدىنى ئالىدۇ ، شۇنىڭ بىلەن بىر ۋاقىتتا ئالاھىدە ساھەگە ھۆددىگە بېرىدۇ.
+Nexus Gaja Ù‚Ø§ØªØªÙ‰Ù‚ Ø¯Ø§Ø¦Ù‰Ø±Û• Ø¦Ø§Ø±Ù‚Ù‰Ù„Ù‰Ù‚ Ù‚ÙˆØ²ØºÙ‰ØªÙ‰Ù„ØºØ§Ù† MVP Ù‚Û‡Ø±Û‡Ù„Ù…Ù‰Ø³Ù‰ (ADR-025) Ù†Ù‰ Ø¦Ù‰Ø´Ù„Ù‰ØªÙ‰Ø¯Û‡ ØŒ ØªÙˆØ± Ø¯Ø§Ø¦Ù‰Ø±Ù‰Ø³Ù‰ Ø¦ÛÙ†Ù‰Ù‚ Ø¨ÙˆÙ„ØºØ§Ù† Ù…ÙˆØ¯Û‡Ù„Ù„Û‡Ù‚ Ù…ÙˆÙ†ÙˆÙ¾ÙˆÙ„ Ù‚Ù‰Ù„Ù‰Ù¾ Ù„Ø§ÙŠÙ‰Ú¾Û•Ù„Û•Ù†Ú¯Û•Ù†. Ø¨Û‡ Ù‚Û‡Ø±Û‡Ù„Ù…Ø§ ÙƒÛÙŠÙ‰Ù† Ù…Ù‰ÙƒØ±Ùˆ Ø³Ø§Ú¾Û•Ù†Ù‰Ú­ Ù…Û‡Ø±Û•ÙƒÙƒÛ•Ù¾Ù„Ù‰ÙƒÙ‰Ù†Ù‰Ú­ Ø¦Ø§Ù„Ø¯Ù‰Ù†Ù‰ Ø¦Ø§Ù„Ù‰Ø¯Û‡ ØŒ Ø´Û‡Ù†Ù‰Ú­ Ø¨Ù‰Ù„Û•Ù† Ø¨Ù‰Ø± Û‹Ø§Ù‚Ù‰ØªØªØ§ Ø¦Ø§Ù„Ø§Ú¾Ù‰Ø¯Û• Ø³Ø§Ú¾Û•Ú¯Û• Ú¾Û†Ø¯Ø¯Ù‰Ú¯Û• Ø¨ÛØ±Ù‰Ø¯Û‡.
 
-### تېخنىكىلىق يادرولۇق ئورۇنلار
-بىناكارلىق ئۇقۇمىنى قاتتىق ئايرىپ ، سانلىق مەلۇماتلارنىڭ مۇكەممەللىكىگە كاپالەتلىك قىلىدۇ ۋە «ئىشلەتكۈچى ئىسمى = ئادەم» قاتارلىق خاتالىقلاردىن ساقلىنىدۇ:
-- ** كىملىك ۋە ھېسابات: ** «شەخس» ≠ `ئىشلەتكۈچى ھېساباتى` ≠« كىملىكنى دەلىللەش ». دەلىللەنگەن كىشى بىر ھېسابات ئارقىلىق قاتنىشىدۇ ، ئەمما ئورۇنلار ئايرىم ھالەتتە تۇرىدۇ.
-- ** ئالاقە: ** «ئۇچۇر» ≠ «تەرجىمە». ئەسلى ئۇچۇر ئۆزگەرمەيدۇ. تەرجىمە باغلانغان ئورۇنلار.
-- ** ئوتتۇراھال: ** «دوكلات» ≠ «ئوتتۇراھال قارار». ئۇچۇر پەقەت بىر كۆرسەتمە. رىياسەتچى تەكشۈرۈش ئېلىپ بارىدۇ.
-- ** مالىيە: ** «ئىئانە» ≠ `فوند قالدۇقى». ھېسابات دەپتىرى (نەق پۇل دەپتىرى) ئارقىلىق پۇلغا ئالماشتۇرۇلىدۇ.
+### ØªÛØ®Ù†Ù‰ÙƒÙ‰Ù„Ù‰Ù‚ ÙŠØ§Ø¯Ø±ÙˆÙ„Û‡Ù‚ Ø¦ÙˆØ±Û‡Ù†Ù„Ø§Ø±
+Ø¨Ù‰Ù†Ø§ÙƒØ§Ø±Ù„Ù‰Ù‚ Ø¦Û‡Ù‚Û‡Ù…Ù‰Ù†Ù‰ Ù‚Ø§ØªØªÙ‰Ù‚ Ø¦Ø§ÙŠØ±Ù‰Ù¾ ØŒ Ø³Ø§Ù†Ù„Ù‰Ù‚ Ù…Û•Ù„Û‡Ù…Ø§ØªÙ„Ø§Ø±Ù†Ù‰Ú­ Ù…Û‡ÙƒÛ•Ù…Ù…Û•Ù„Ù„Ù‰ÙƒÙ‰Ú¯Û• ÙƒØ§Ù¾Ø§Ù„Û•ØªÙ„Ù‰Ùƒ Ù‚Ù‰Ù„Ù‰Ø¯Û‡ Û‹Û• Â«Ø¦Ù‰Ø´Ù„Û•ØªÙƒÛˆÚ†Ù‰ Ø¦Ù‰Ø³Ù…Ù‰ = Ø¦Ø§Ø¯Û•Ù…Â» Ù‚Ø§ØªØ§Ø±Ù„Ù‰Ù‚ Ø®Ø§ØªØ§Ù„Ù‰Ù‚Ù„Ø§Ø±Ø¯Ù‰Ù† Ø³Ø§Ù‚Ù„Ù‰Ù†Ù‰Ø¯Û‡:
+- ** ÙƒÙ‰Ù…Ù„Ù‰Ùƒ Û‹Û• Ú¾ÛØ³Ø§Ø¨Ø§Øª: ** Â«Ø´Û•Ø®Ø³Â» â‰  `Ø¦Ù‰Ø´Ù„Û•ØªÙƒÛˆÚ†Ù‰ Ú¾ÛØ³Ø§Ø¨Ø§ØªÙ‰` â‰ Â« ÙƒÙ‰Ù…Ù„Ù‰ÙƒÙ†Ù‰ Ø¯Û•Ù„Ù‰Ù„Ù„Û•Ø´ Â». Ø¯Û•Ù„Ù‰Ù„Ù„Û•Ù†Ú¯Û•Ù† ÙƒÙ‰Ø´Ù‰ Ø¨Ù‰Ø± Ú¾ÛØ³Ø§Ø¨Ø§Øª Ø¦Ø§Ø±Ù‚Ù‰Ù„Ù‰Ù‚ Ù‚Ø§ØªÙ†Ù‰Ø´Ù‰Ø¯Û‡ ØŒ Ø¦Û•Ù…Ù…Ø§ Ø¦ÙˆØ±Û‡Ù†Ù„Ø§Ø± Ø¦Ø§ÙŠØ±Ù‰Ù… Ú¾Ø§Ù„Û•ØªØªÛ• ØªÛ‡Ø±Ù‰Ø¯Û‡.
+- ** Ø¦Ø§Ù„Ø§Ù‚Û•: ** Â«Ø¦Û‡Ú†Û‡Ø±Â» â‰  Â«ØªÛ•Ø±Ø¬Ù‰Ù…Û•Â». Ø¦Û•Ø³Ù„Ù‰ Ø¦Û‡Ú†Û‡Ø± Ø¦Û†Ø²Ú¯Û•Ø±Ù…Û•ÙŠØ¯Û‡. ØªÛ•Ø±Ø¬Ù‰Ù…Û• Ø¨Ø§ØºÙ„Ø§Ù†ØºØ§Ù† Ø¦ÙˆØ±Û‡Ù†Ù„Ø§Ø±.
+- ** Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„: ** Â«Ø¯ÙˆÙƒÙ„Ø§ØªÂ» â‰  Â«Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„ Ù‚Ø§Ø±Ø§Ø±Â». Ø¦Û‡Ú†Û‡Ø± Ù¾Û•Ù‚Û•Øª Ø¨Ù‰Ø± ÙƒÛ†Ø±Ø³Û•ØªÙ…Û•. Ø±Ù‰ÙŠØ§Ø³Û•ØªÚ†Ù‰ ØªÛ•ÙƒØ´ÛˆØ±ÛˆØ´ Ø¦ÛÙ„Ù‰Ù¾ Ø¨Ø§Ø±Ù‰Ø¯Û‡.
+- ** Ù…Ø§Ù„Ù‰ÙŠÛ•: ** Â«Ø¦Ù‰Ø¦Ø§Ù†Û•Â» â‰  `ÙÙˆÙ†Ø¯ Ù‚Ø§Ù„Ø¯Û‡Ù‚Ù‰Â». Ú¾ÛØ³Ø§Ø¨Ø§Øª Ø¯Û•Ù¾ØªÙ‰Ø±Ù‰ (Ù†Û•Ù‚ Ù¾Û‡Ù„ Ø¯Û•Ù¾ØªÙ‰Ø±Ù‰) Ø¦Ø§Ø±Ù‚Ù‰Ù„Ù‰Ù‚ Ù¾Û‡Ù„ØºØ§ Ø¦Ø§Ù„Ù…Ø§Ø´ØªÛ‡Ø±Û‡Ù„Ù‰Ø¯Û‡.
 
-### ئۇلانغان تېما دائىرىسى
-بۇ سىستېما لوگىكىلىق دائىرە (چەكلەنگەن مەزمۇن) دەپ ئايرىلىدۇ: كىملىك ، ھېسابات ، تەشكىلات ، ئالاقە ، مەھەللە ، تىل ، ئوتتۇراھال ، ئۇقتۇرۇش ، مالىيە ۋە باشقۇرۇش. ئۇلار ھەقىقىي ئارتىسلار (ئابونتلار ، مەكتەپلەر ، ئاممىۋى تەشكىلاتلار) دىن تارتىپ رەقەملىك ئۆز-ئارا تەسىر كۆرسىتىشكىچە پۈتكۈل زەنجىرگە ۋەكىللىك قىلىدۇ.
+### Ø¦Û‡Ù„Ø§Ù†ØºØ§Ù† ØªÛÙ…Ø§ Ø¯Ø§Ø¦Ù‰Ø±Ù‰Ø³Ù‰
+Ø¨Û‡ Ø³Ù‰Ø³ØªÛÙ…Ø§ Ù„ÙˆÚ¯Ù‰ÙƒÙ‰Ù„Ù‰Ù‚ Ø¯Ø§Ø¦Ù‰Ø±Û• (Ú†Û•ÙƒÙ„Û•Ù†Ú¯Û•Ù† Ù…Û•Ø²Ù…Û‡Ù†) Ø¯Û•Ù¾ Ø¦Ø§ÙŠØ±Ù‰Ù„Ù‰Ø¯Û‡: ÙƒÙ‰Ù…Ù„Ù‰Ùƒ ØŒ Ú¾ÛØ³Ø§Ø¨Ø§Øª ØŒ ØªÛ•Ø´ÙƒÙ‰Ù„Ø§Øª ØŒ Ø¦Ø§Ù„Ø§Ù‚Û• ØŒ Ù…Û•Ú¾Û•Ù„Ù„Û• ØŒ ØªÙ‰Ù„ ØŒ Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„ ØŒ Ø¦Û‡Ù‚ØªÛ‡Ø±Û‡Ø´ ØŒ Ù…Ø§Ù„Ù‰ÙŠÛ• Û‹Û• Ø¨Ø§Ø´Ù‚Û‡Ø±Û‡Ø´. Ø¦Û‡Ù„Ø§Ø± Ú¾Û•Ù‚Ù‰Ù‚Ù‰ÙŠ Ø¦Ø§Ø±ØªÙ‰Ø³Ù„Ø§Ø± (Ø¦Ø§Ø¨ÙˆÙ†ØªÙ„Ø§Ø± ØŒ Ù…Û•ÙƒØªÛ•Ù¾Ù„Û•Ø± ØŒ Ø¦Ø§Ù…Ù…Ù‰Û‹Ù‰ ØªÛ•Ø´ÙƒÙ‰Ù„Ø§ØªÙ„Ø§Ø±) Ø¯Ù‰Ù† ØªØ§Ø±ØªÙ‰Ù¾ Ø±Û•Ù‚Û•Ù…Ù„Ù‰Ùƒ Ø¦Û†Ø²-Ø¦Ø§Ø±Ø§ ØªÛ•Ø³Ù‰Ø± ÙƒÛ†Ø±Ø³Ù‰ØªÙ‰Ø´ÙƒÙ‰Ú†Û• Ù¾ÛˆØªÙƒÛˆÙ„ Ø²Û•Ù†Ø¬Ù‰Ø±Ú¯Û• Û‹Û•ÙƒÙ‰Ù„Ù„Ù‰Ùƒ Ù‚Ù‰Ù„Ù‰Ø¯Û‡.
 
-## تۈر ھالىتى
-بۇ تۈر ئاكتىپ بىناكارلىق ۋە پىلان باسقۇچىدا.
-داۋاملىشىۋاتقان بىناكارلىق قارارلىرى `/ docs` ھۆججەت قىسقۇچىدا خاتىرىلەنگەن.
+## ØªÛˆØ± Ú¾Ø§Ù„Ù‰ØªÙ‰
+Ø¨Û‡ ØªÛˆØ± Ø¦Ø§ÙƒØªÙ‰Ù¾ Ø¨Ù‰Ù†Ø§ÙƒØ§Ø±Ù„Ù‰Ù‚ Û‹Û• Ù¾Ù‰Ù„Ø§Ù† Ø¨Ø§Ø³Ù‚Û‡Ú†Ù‰Ø¯Ø§.
+Ø¯Ø§Û‹Ø§Ù…Ù„Ù‰Ø´Ù‰Û‹Ø§ØªÙ‚Ø§Ù† Ø¨Ù‰Ù†Ø§ÙƒØ§Ø±Ù„Ù‰Ù‚ Ù‚Ø§Ø±Ø§Ø±Ù„Ù‰Ø±Ù‰ `/ docs` Ú¾Û†Ø¬Ø¬Û•Øª Ù‚Ù‰Ø³Ù‚Û‡Ú†Ù‰Ø¯Ø§ Ø®Ø§ØªÙ‰Ø±Ù‰Ù„Û•Ù†Ú¯Û•Ù†.
 
 ---
 
-## ئىجازەتنامە ۋە بىلىم مۈلۈك ھوقۇقى
+## Ø¦Ù‰Ø¬Ø§Ø²Û•ØªÙ†Ø§Ù…Û• Û‹Û• Ø¨Ù‰Ù„Ù‰Ù… Ù…ÛˆÙ„ÛˆÙƒ Ú¾ÙˆÙ‚Û‡Ù‚Ù‰
 
-> ** © 2024-2026 SonnerStudio - Jan Friske نىڭ قۇرغۇچىسى ، ئىگىسى ، SonnerStudio نىڭ باش لايىھەلىگۈچىسى - بارلىق ھوقۇقلار قوغدىلىدۇ. **
+> ** Â© 2024-2026 SonnerStudio - Jan Friske Ù†Ù‰Ú­ Ù‚Û‡Ø±ØºÛ‡Ú†Ù‰Ø³Ù‰ ØŒ Ø¦Ù‰Ú¯Ù‰Ø³Ù‰ ØŒ SonnerStudio Ù†Ù‰Ú­ Ø¨Ø§Ø´ Ù„Ø§ÙŠÙ‰Ú¾Û•Ù„Ù‰Ú¯ÛˆÚ†Ù‰Ø³Ù‰ - Ø¨Ø§Ø±Ù„Ù‰Ù‚ Ú¾ÙˆÙ‚Û‡Ù‚Ù„Ø§Ø± Ù‚ÙˆØºØ¯Ù‰Ù„Ù‰Ø¯Û‡. **
 
-** Nexus Gaja ** ** Jan Friske ** نىڭ ئالاھىدە بىلىم مۈلۈك ھوقۇقى ، ** SonnerStudio ** نىڭ ئاستىدا مەشغۇلات قىلىدۇ.
+** Nexus Gaja ** ** Jan Friske ** Ù†Ù‰Ú­ Ø¦Ø§Ù„Ø§Ú¾Ù‰Ø¯Û• Ø¨Ù‰Ù„Ù‰Ù… Ù…ÛˆÙ„ÛˆÙƒ Ú¾ÙˆÙ‚Û‡Ù‚Ù‰ ØŒ ** SonnerStudio ** Ù†Ù‰Ú­ Ø¦Ø§Ø³ØªÙ‰Ø¯Ø§ Ù…Û•Ø´ØºÛ‡Ù„Ø§Øª Ù‚Ù‰Ù„Ù‰Ø¯Û‡.
 
-Jan Friske Nexus Gaja نىڭ بىردىنبىر ئىجادچىسى ، بىناكار ۋە خوجايىنى - بارلىق ئۇقۇم ، بىناكارلىق ، دائىرە مودېلى ، ماركا كىملىكى ۋە مۇناسىۋەتلىك ھۆججەتلەرنى ئۆز ئىچىگە ئالىدۇ.
+Jan Friske Nexus Gaja Ù†Ù‰Ú­ Ø¨Ù‰Ø±Ø¯Ù‰Ù†Ø¨Ù‰Ø± Ø¦Ù‰Ø¬Ø§Ø¯Ú†Ù‰Ø³Ù‰ ØŒ Ø¨Ù‰Ù†Ø§ÙƒØ§Ø± Û‹Û• Ø®ÙˆØ¬Ø§ÙŠÙ‰Ù†Ù‰ - Ø¨Ø§Ø±Ù„Ù‰Ù‚ Ø¦Û‡Ù‚Û‡Ù… ØŒ Ø¨Ù‰Ù†Ø§ÙƒØ§Ø±Ù„Ù‰Ù‚ ØŒ Ø¯Ø§Ø¦Ù‰Ø±Û• Ù…ÙˆØ¯ÛÙ„Ù‰ ØŒ Ù…Ø§Ø±ÙƒØ§ ÙƒÙ‰Ù…Ù„Ù‰ÙƒÙ‰ Û‹Û• Ù…Û‡Ù†Ø§Ø³Ù‰Û‹Û•ØªÙ„Ù‰Ùƒ Ú¾Û†Ø¬Ø¬Û•ØªÙ„Û•Ø±Ù†Ù‰ Ø¦Û†Ø² Ø¦Ù‰Ú†Ù‰Ú¯Û• Ø¦Ø§Ù„Ù‰Ø¯Û‡.
 
-** تېخنىكا ساھەسىدىكى چوڭ-كىچىكلىكى ، بازار ئورنى ياكى تەسىرى قانداق بولۇشىدىن قەتئىينەزەر ، ھېچقانداق ئۈچىنچى كىشىگە ھېچقانداق ھوقۇق ، ئىجازەتنامە ياكى شەخسىي مەنپەئەت بېرىلمەيدۇ.
+** ØªÛØ®Ù†Ù‰ÙƒØ§ Ø³Ø§Ú¾Û•Ø³Ù‰Ø¯Ù‰ÙƒÙ‰ Ú†ÙˆÚ­-ÙƒÙ‰Ú†Ù‰ÙƒÙ„Ù‰ÙƒÙ‰ ØŒ Ø¨Ø§Ø²Ø§Ø± Ø¦ÙˆØ±Ù†Ù‰ ÙŠØ§ÙƒÙ‰ ØªÛ•Ø³Ù‰Ø±Ù‰ Ù‚Ø§Ù†Ø¯Ø§Ù‚ Ø¨ÙˆÙ„Û‡Ø´Ù‰Ø¯Ù‰Ù† Ù‚Û•ØªØ¦Ù‰ÙŠÙ†Û•Ø²Û•Ø± ØŒ Ú¾ÛÚ†Ù‚Ø§Ù†Ø¯Ø§Ù‚ Ø¦ÛˆÚ†Ù‰Ù†Ú†Ù‰ ÙƒÙ‰Ø´Ù‰Ú¯Û• Ú¾ÛÚ†Ù‚Ø§Ù†Ø¯Ø§Ù‚ Ú¾ÙˆÙ‚Û‡Ù‚ ØŒ Ø¦Ù‰Ø¬Ø§Ø²Û•ØªÙ†Ø§Ù…Û• ÙŠØ§ÙƒÙ‰ Ø´Û•Ø®Ø³Ù‰ÙŠ Ù…Û•Ù†Ù¾Û•Ø¦Û•Øª Ø¨ÛØ±Ù‰Ù„Ù…Û•ÙŠØ¯Û‡.
 
-### ئېنىق يازما ئىجازەت ئالماي تۇرۇپ رۇخسەت قىلىنمايدىغان ئىشلار:
-- this بۇ يۇمشاق دېتال ياكى ئۇنىڭ ھۆججەتلىرىنى كۆپەيتىش ، كۆپەيتىش ياكى تارقىتىش
-- iv تۇغۇندى ئەسەرلەرنى ئۆزگەرتىش ، ماسلاشتۇرۇش ياكى يارىتىش
-- Ne Nexus Gaja نىڭ ھەرقانداق قىسمىنى سودا خاراكتېرلىك ئىشلىتىش
-- AI ئامبار مەزمۇنىنى AI / LLM سىستېمىسى ئۈچۈن ** مەشىق سانلىق مەلۇماتلىرى سۈپىتىدە ئىشلىتىش **
-- lic ھوقۇقنى ئۈچىنچى تەرەپكە ئۆتۈنۈپ بېرىش ياكى ئۆتۈنۈپ بېرىش
+### Ø¦ÛÙ†Ù‰Ù‚ ÙŠØ§Ø²Ù…Ø§ Ø¦Ù‰Ø¬Ø§Ø²Û•Øª Ø¦Ø§Ù„Ù…Ø§ÙŠ ØªÛ‡Ø±Û‡Ù¾ Ø±Û‡Ø®Ø³Û•Øª Ù‚Ù‰Ù„Ù‰Ù†Ù…Ø§ÙŠØ¯Ù‰ØºØ§Ù† Ø¦Ù‰Ø´Ù„Ø§Ø±:
+- this Ø¨Û‡ ÙŠÛ‡Ù…Ø´Ø§Ù‚ Ø¯ÛØªØ§Ù„ ÙŠØ§ÙƒÙ‰ Ø¦Û‡Ù†Ù‰Ú­ Ú¾Û†Ø¬Ø¬Û•ØªÙ„Ù‰Ø±Ù‰Ù†Ù‰ ÙƒÛ†Ù¾Û•ÙŠØªÙ‰Ø´ ØŒ ÙƒÛ†Ù¾Û•ÙŠØªÙ‰Ø´ ÙŠØ§ÙƒÙ‰ ØªØ§Ø±Ù‚Ù‰ØªÙ‰Ø´
+- iv ØªÛ‡ØºÛ‡Ù†Ø¯Ù‰ Ø¦Û•Ø³Û•Ø±Ù„Û•Ø±Ù†Ù‰ Ø¦Û†Ø²Ú¯Û•Ø±ØªÙ‰Ø´ ØŒ Ù…Ø§Ø³Ù„Ø§Ø´ØªÛ‡Ø±Û‡Ø´ ÙŠØ§ÙƒÙ‰ ÙŠØ§Ø±Ù‰ØªÙ‰Ø´
+- Ne Nexus Gaja Ù†Ù‰Ú­ Ú¾Û•Ø±Ù‚Ø§Ù†Ø¯Ø§Ù‚ Ù‚Ù‰Ø³Ù…Ù‰Ù†Ù‰ Ø³ÙˆØ¯Ø§ Ø®Ø§Ø±Ø§ÙƒØªÛØ±Ù„Ù‰Ùƒ Ø¦Ù‰Ø´Ù„Ù‰ØªÙ‰Ø´
+- AI Ø¦Ø§Ù…Ø¨Ø§Ø± Ù…Û•Ø²Ù…Û‡Ù†Ù‰Ù†Ù‰ AI / LLM Ø³Ù‰Ø³ØªÛÙ…Ù‰Ø³Ù‰ Ø¦ÛˆÚ†ÛˆÙ† ** Ù…Û•Ø´Ù‰Ù‚ Ø³Ø§Ù†Ù„Ù‰Ù‚ Ù…Û•Ù„Û‡Ù…Ø§ØªÙ„Ù‰Ø±Ù‰ Ø³ÛˆÙ¾Ù‰ØªÙ‰Ø¯Û• Ø¦Ù‰Ø´Ù„Ù‰ØªÙ‰Ø´ **
+- lic Ú¾ÙˆÙ‚Û‡Ù‚Ù†Ù‰ Ø¦ÛˆÚ†Ù‰Ù†Ú†Ù‰ ØªÛ•Ø±Û•Ù¾ÙƒÛ• Ø¦Û†ØªÛˆÙ†ÛˆÙ¾ Ø¨ÛØ±Ù‰Ø´ ÙŠØ§ÙƒÙ‰ Ø¦Û†ØªÛˆÙ†ÛˆÙ¾ Ø¨ÛØ±Ù‰Ø´
 
-### قوغدىلىدىغان بىلىم مۈلۈك ھوقۇقى
-تۆۋەندىكى ئەسلى ئۇقۇملار Jan Friske نىڭ سودا مەخپىيىتى ۋە ئىگىدارلىق ئىجادىيىتى سۈپىتىدە قوغدىلىدۇ:
-- كۆپ قاتلاملىق ئالاقە ئەندىزىسى * (ئەسلى / مەنىلىك چۈشەندۈرۈش / تەرجىمە نۇسخىسى) *
-- كىملىكنى ئايرىش پرىنسىپى * (ئادەم ≠ ئىشلەتكۈچى ھېساباتى ≠ كىملىك دەلىللەش) *
-- ئۇچۇر-تەرجىمە يېشىش ئەندىزىسى * (ئۇچۇر ≠ تەرجىمىسى) *
-- AI ئوتتۇراھال باشقۇرۇش رامكىسى
+### Ù‚ÙˆØºØ¯Ù‰Ù„Ù‰Ø¯Ù‰ØºØ§Ù† Ø¨Ù‰Ù„Ù‰Ù… Ù…ÛˆÙ„ÛˆÙƒ Ú¾ÙˆÙ‚Û‡Ù‚Ù‰
+ØªÛ†Û‹Û•Ù†Ø¯Ù‰ÙƒÙ‰ Ø¦Û•Ø³Ù„Ù‰ Ø¦Û‡Ù‚Û‡Ù…Ù„Ø§Ø± Jan Friske Ù†Ù‰Ú­ Ø³ÙˆØ¯Ø§ Ù…Û•Ø®Ù¾Ù‰ÙŠÙ‰ØªÙ‰ Û‹Û• Ø¦Ù‰Ú¯Ù‰Ø¯Ø§Ø±Ù„Ù‰Ù‚ Ø¦Ù‰Ø¬Ø§Ø¯Ù‰ÙŠÙ‰ØªÙ‰ Ø³ÛˆÙ¾Ù‰ØªÙ‰Ø¯Û• Ù‚ÙˆØºØ¯Ù‰Ù„Ù‰Ø¯Û‡:
+- ÙƒÛ†Ù¾ Ù‚Ø§ØªÙ„Ø§Ù…Ù„Ù‰Ù‚ Ø¦Ø§Ù„Ø§Ù‚Û• Ø¦Û•Ù†Ø¯Ù‰Ø²Ù‰Ø³Ù‰ * (Ø¦Û•Ø³Ù„Ù‰ / Ù…Û•Ù†Ù‰Ù„Ù‰Ùƒ Ú†ÛˆØ´Û•Ù†Ø¯ÛˆØ±ÛˆØ´ / ØªÛ•Ø±Ø¬Ù‰Ù…Û• Ù†Û‡Ø³Ø®Ù‰Ø³Ù‰) *
+- ÙƒÙ‰Ù…Ù„Ù‰ÙƒÙ†Ù‰ Ø¦Ø§ÙŠØ±Ù‰Ø´ Ù¾Ø±Ù‰Ù†Ø³Ù‰Ù¾Ù‰ * (Ø¦Ø§Ø¯Û•Ù… â‰  Ø¦Ù‰Ø´Ù„Û•ØªÙƒÛˆÚ†Ù‰ Ú¾ÛØ³Ø§Ø¨Ø§ØªÙ‰ â‰  ÙƒÙ‰Ù…Ù„Ù‰Ùƒ Ø¯Û•Ù„Ù‰Ù„Ù„Û•Ø´) *
+- Ø¦Û‡Ú†Û‡Ø±-ØªÛ•Ø±Ø¬Ù‰Ù…Û• ÙŠÛØ´Ù‰Ø´ Ø¦Û•Ù†Ø¯Ù‰Ø²Ù‰Ø³Ù‰ * (Ø¦Û‡Ú†Û‡Ø± â‰  ØªÛ•Ø±Ø¬Ù‰Ù…Ù‰Ø³Ù‰) *
+- AI Ø¦ÙˆØªØªÛ‡Ø±Ø§Ú¾Ø§Ù„ Ø¨Ø§Ø´Ù‚Û‡Ø±Û‡Ø´ Ø±Ø§Ù…ÙƒÙ‰Ø³Ù‰
 
-### ئالاقىلىشىڭ
-ئىجازەتنامە سۈرۈشتۈرۈش ئۈچۈن: [github.com/SonnerStudio)(https://github.com/SonnerStudio)
+### Ø¦Ø§Ù„Ø§Ù‚Ù‰Ù„Ù‰Ø´Ù‰Ú­
+Ø¦Ù‰Ø¬Ø§Ø²Û•ØªÙ†Ø§Ù…Û• Ø³ÛˆØ±ÛˆØ´ØªÛˆØ±ÛˆØ´ Ø¦ÛˆÚ†ÛˆÙ†: [github.com/SonnerStudio)(https://github.com/SonnerStudio)
 
-* «Nexus Gaja» ۋە Nexus Gaja بەلگىسى Jan Friske نىڭ ماركىسى. ئىسىم ياكى تاۋار ماركىسىنى قانۇنسىز ئىشلىتىش مەنئى قىلىنىدۇ.
+* Â«Nexus GajaÂ» Û‹Û• Nexus Gaja Ø¨Û•Ù„Ú¯Ù‰Ø³Ù‰ Jan Friske Ù†Ù‰Ú­ Ù…Ø§Ø±ÙƒÙ‰Ø³Ù‰. Ø¦Ù‰Ø³Ù‰Ù… ÙŠØ§ÙƒÙ‰ ØªØ§Û‹Ø§Ø± Ù…Ø§Ø±ÙƒÙ‰Ø³Ù‰Ù†Ù‰ Ù‚Ø§Ù†Û‡Ù†Ø³Ù‰Ø² Ø¦Ù‰Ø´Ù„Ù‰ØªÙ‰Ø´ Ù…Û•Ù†Ø¦Ù‰ Ù‚Ù‰Ù„Ù‰Ù†Ù‰Ø¯Û‡.
 
-[LICENSE] دىكى تولۇق ئىجازەت شەرتلىرى (LICENSE)
+[LICENSE] Ø¯Ù‰ÙƒÙ‰ ØªÙˆÙ„Û‡Ù‚ Ø¦Ù‰Ø¬Ø§Ø²Û•Øª Ø´Û•Ø±ØªÙ„Ù‰Ø±Ù‰ (LICENSE)

@@ -1,33 +1,35 @@
-# Nexus Gaja
+﻿# Nexus Gaja
 
-> *Pentru pace globală și înțelegere reciprocă*
+> *Pentru pace globalÄƒ È™i Ã®nÈ›elegere reciprocÄƒ*
 
 
 ![Nexus Gaja Logo](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
 
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 
-**Nexus Gaja** este o rețea de comunicare inteligentă, sensibilă la context, concepută pentru a revoluționa comunicarea globală.
+**Nexus Gaja** este o reÈ›ea de comunicare inteligentÄƒ, sensibilÄƒ la context, conceputÄƒ pentru a revoluÈ›iona comunicarea globalÄƒ.
 
-## Scop și viziune
+## Scop È™i viziune
 
 ![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
 
-Într-o lume globalizată, limba este adesea cea mai mare barieră. Scopul principal al Nexus Gaja este de a permite comunicarea fără probleme, fără bariere și precisă din punct de vedere contextual între oameni, indiferent dacă vorbesc o limbă comună.
+ÃŽntr-o lume globalizatÄƒ, limba este adesea cea mai mare barierÄƒ. Scopul principal al Nexus Gaja este de a permite comunicarea fÄƒrÄƒ probleme, fÄƒrÄƒ bariere È™i precisÄƒ din punct de vedere contextual Ã®ntre oameni, indiferent dacÄƒ vorbesc o limbÄƒ comunÄƒ.
 
-Nu este vorba doar despre traducerea rigidă a cuvintelor, ci despre **transferarea sensului**. Nexus Gaja conectează oamenii la un nivel mai profund prin înțelegerea nuanțelor culturale, regionale și contextuale, permițând astfel conversații autentice și autentice.
+Nu este vorba doar despre traducerea rigidÄƒ a cuvintelor, ci despre **transferarea sensului**. Nexus Gaja conecteazÄƒ oamenii la un nivel mai profund prin Ã®nÈ›elegerea nuanÈ›elor culturale, regionale È™i contextuale, permiÈ›Ã¢nd astfel conversaÈ›ii autentice È™i autentice.
 
-## Posibilități și caracteristici
-- **Comunicare multimedia**: sistemul procesează nu doar text, ci și imagini, audio și video. Acest lucru permite conversații complet captivante (de exemplu, apeluri video sau mesaje vocale) în timp real, peste barierele lingvistice.
-- **Sensibilitatea contextului**: recunoașterea ironiei, a idiomurilor, a jargonului și a dialectelor regionale care sunt adesea înțelese greșit de traducătorii convenționali.
-- **Rețea multiplatformă**: servește drept bază pentru chat-urile private, firele de discuții pe forum (postări cu comentarii) și interacțiunile comunității globale.
+## PosibilitÄƒÈ›i È™i caracteristici
+- **Comunicare multimedia**: sistemul proceseazÄƒ nu doar text, ci È™i imagini, audio È™i video. Acest lucru permite conversaÈ›ii complet captivante (de exemplu, apeluri video sau mesaje vocale) Ã®n timp real, peste barierele lingvistice.
+- **Sensibilitatea contextului**: recunoaÈ™terea ironiei, a idiomurilor, a jargonului È™i a dialectelor regionale care sunt adesea Ã®nÈ›elese greÈ™it de traducÄƒtorii convenÈ›ionali.
+- **ReÈ›ea multiplatformÄƒ**: serveÈ™te drept bazÄƒ pentru chat-urile private, firele de discuÈ›ii pe forum (postÄƒri cu comentarii) È™i interacÈ›iunile comunitÄƒÈ›ii globale.
 
 ---
 
@@ -37,332 +39,332 @@ Nu este vorba doar despre traducerea rigidă a cuvintelor, ci despre **transfera
 
 The technical core of Nexus Gaja is a custom-built communication model that is strictly divided into three layers:
 
-1. **Original**: Obiectul de comunicare (mesajul) creat de expeditor rămâne întotdeauna imuabil.
-2. **Interpretare semantică**: Sistemul analizează nu doar cuvintele, ci și sensul real.
-3. **Reprezentare în limba țintă**: AI creează doar o reprezentare temporară sau în cache a originalului pentru destinatarul respectiv, pe baza limbii preferate. Traducerile nu suprascriu niciodată mesajul original.
+1. **Original**: Obiectul de comunicare (mesajul) creat de expeditor rÄƒmÃ¢ne Ã®ntotdeauna imuabil.
+2. **Interpretare semanticÄƒ**: Sistemul analizeazÄƒ nu doar cuvintele, ci È™i sensul real.
+3. **Reprezentare Ã®n limba È›intÄƒ**: AI creeazÄƒ doar o reprezentare temporarÄƒ sau Ã®n cache a originalului pentru destinatarul respectiv, pe baza limbii preferate. Traducerile nu suprascriu niciodatÄƒ mesajul original.
 
-### Dependența de context
-Traducerile din Nexus Gaja nu vizualizează niciodată mesajele izolat. Motorul ia în considerare întreaga ierarhie:
-`Mesaj` → `Mesaje anterioare` → `Contextul firului` → `Contextul comunității` → `Limbă/Regiune` → `Preferințe utilizator`
+### DependenÈ›a de context
+Traducerile din Nexus Gaja nu vizualizeazÄƒ niciodatÄƒ mesajele izolat. Motorul ia Ã®n considerare Ã®ntreaga ierarhie:
+`Mesaj` â†’ `Mesaje anterioare` â†’ `Contextul firului` â†’ `Contextul comunitÄƒÈ›ii` â†’ `LimbÄƒ/Regiune` â†’ `PreferinÈ›e utilizator`
 
-### Eficiență prin traducere la cerere
-Traducerea are loc eficient din punct de vedere al resurselor doar **la cerere** (la cerere). Când un utilizator solicită conținut, acesta este tradus în limba lor prestabilită. Odată ce o traducere pentru o anumită limbă este generată, aceasta este stocată permanent (caching) pentru a accelera drastic solicitările viitoare.
+### EficienÈ›Äƒ prin traducere la cerere
+Traducerea are loc eficient din punct de vedere al resurselor doar **la cerere** (la cerere). CÃ¢nd un utilizator solicitÄƒ conÈ›inut, acesta este tradus Ã®n limba lor prestabilitÄƒ. OdatÄƒ ce o traducere pentru o anumitÄƒ limbÄƒ este generatÄƒ, aceasta este stocatÄƒ permanent (caching) pentru a accelera drastic solicitÄƒrile viitoare.
 
-## Moderare asistată de IA (WP 1.8.4)
+## Moderare asistatÄƒ de IA (WP 1.8.4)
 
 ![Nexus Gaja AI Moderation](assets/img/nexus_moderation.jpg)
 
-Cu AI-Assisted Moderation, facem un pas semnificativ de la ideea de produs la arhitectura tehnică, ținând cont de reglementările UE actuale (cerințele de transparență ale Legii UE AI în conformitate cu art. 50; Legea privind serviciile digitale cu justificări și opțiuni de recurs inteligibile).
+Cu AI-Assisted Moderation, facem un pas semnificativ de la ideea de produs la arhitectura tehnicÄƒ, È›inÃ¢nd cont de reglementÄƒrile UE actuale (cerinÈ›ele de transparenÈ›Äƒ ale Legii UE AI Ã®n conformitate cu art. 50; Legea privind serviciile digitale cu justificÄƒri È™i opÈ›iuni de recurs inteligibile).
 
-### 1. Principiul de bază
-Cea mai importantă propoziție pentru arhitectură este: ** AI de moderare este un sistem de revizuire, nu un sistem de guvernare autonom.**
-Este conceput pentru a ajuta oamenii cu moderație, nu pentru a determina singur ce opinii au permisiunea de a exista pe Nexus Gaja.
-Facem diferența între trei niveluri:
-- **Detecție:** „Ar putea exista o încălcare a regulilor aici.”
-- **Evaluare:** „Probabilitatea unei încălcări a regulilor este, de exemplu, de 94%.
-- **Decizie:** "Ce măsuri se întreprind de fapt?"
-Al treilea nivel trebuie controlat de un om în cazuri severe.
+### 1. Principiul de bazÄƒ
+Cea mai importantÄƒ propoziÈ›ie pentru arhitecturÄƒ este: ** AI de moderare este un sistem de revizuire, nu un sistem de guvernare autonom.**
+Este conceput pentru a ajuta oamenii cu moderaÈ›ie, nu pentru a determina singur ce opinii au permisiunea de a exista pe Nexus Gaja.
+Facem diferenÈ›a Ã®ntre trei niveluri:
+- **DetecÈ›ie:** â€žAr putea exista o Ã®ncÄƒlcare a regulilor aici.â€
+- **Evaluare:** â€žProbabilitatea unei Ã®ncÄƒlcÄƒri a regulilor este, de exemplu, de 94%.
+- **Decizie:** "Ce mÄƒsuri se Ã®ntreprind de fapt?"
+Al treilea nivel trebuie controlat de un om Ã®n cazuri severe.
 
 ### 2. AI de moderare ca subsistem
-În loc de un singur AI, este stabilit un subsistem robust:
+ÃŽn loc de un singur AI, este stabilit un subsistem robust:
 ```text
                  MODERARE NEXUS GAJA AI
-                          │
-       ┌──────────────────┼─────────────────────
-       │ │ │
+                          â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+       â”‚ â”‚ â”‚
   Language AI Safety AI Fraud AI
-       │ │ │
-       ├──────────────┬───┴──────────────────────
-       │ │ │
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+       â”‚ â”‚ â”‚
  Identitatea comportamentului de traducere
- Analiză Semnale de analiză
-       │ │ │
-       └──────────────┼───────────────────
-                      ▼
+ AnalizÄƒ Semnale de analizÄƒ
+       â”‚ â”‚ â”‚
+       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+                      â–¼
                Evaluarea riscurilor
-                      │
-                      ▼
-               Revista umană
+                      â”‚
+                      â–¼
+               Revista umanÄƒ
 ```
 
 ### 3. Cele mai importante module AI
-Nexus Gaja utilizează nouă domenii de analiză specializate:
-- **M1 – Înțelegerea limbii**: detectează limbă, dialect, argo, indicatori de ironie, probleme de traducere.
-- **M2 – Detectare toxicitate/abuz**: detectează insulte, atacuri personale, hărțuire.
-- **M3 – Detectare amenințări**: detectează potențiale amenințări, șantaj, anunțuri de violență.
-- **M4 – Detectarea urii/dezumanizării**: detectează atacuri direcționate asupra persoanelor pe baza unor afilieri specifice.
-- **M5 – Detectare spam/manipulare**: detectează spam-ul, comportamentul botului, manipularea coordonată.
-- **M6 – Detectare fraudă**: detectează tentative de fraudă suspecte, phishing, inginerie socială.
-- **M7 – Identity Integrity**: Verifică semnalele privind preluarea de conturi, mai multe conturi, evaziunea interzicerii.
-- **M8 – Media Safety**: analizează imagini, audio, video, documente.
-- **M9 – Context Engine**: Cel mai important modul. Acesta îmbină constatările individuale.
+Nexus Gaja utilizeazÄƒ nouÄƒ domenii de analizÄƒ specializate:
+- **M1 â€“ ÃŽnÈ›elegerea limbii**: detecteazÄƒ limbÄƒ, dialect, argo, indicatori de ironie, probleme de traducere.
+- **M2 â€“ Detectare toxicitate/abuz**: detecteazÄƒ insulte, atacuri personale, hÄƒrÈ›uire.
+- **M3 â€“ Detectare ameninÈ›Äƒri**: detecteazÄƒ potenÈ›iale ameninÈ›Äƒri, È™antaj, anunÈ›uri de violenÈ›Äƒ.
+- **M4 â€“ Detectarea urii/dezumanizÄƒrii**: detecteazÄƒ atacuri direcÈ›ionate asupra persoanelor pe baza unor afilieri specifice.
+- **M5 â€“ Detectare spam/manipulare**: detecteazÄƒ spam-ul, comportamentul botului, manipularea coordonatÄƒ.
+- **M6 â€“ Detectare fraudÄƒ**: detecteazÄƒ tentative de fraudÄƒ suspecte, phishing, inginerie socialÄƒ.
+- **M7 â€“ Identity Integrity**: VerificÄƒ semnalele privind preluarea de conturi, mai multe conturi, evaziunea interzicerii.
+- **M8 â€“ Media Safety**: analizeazÄƒ imagini, audio, video, documente.
+- **M9 â€“ Context Engine**: Cel mai important modul. Acesta Ã®mbinÄƒ constatÄƒrile individuale.
 
 ### 4. De ce este crucial motorul de context
-O căutare pură de cuvinte cheie ar fi insuficientă. „L-aș putea ucide de râs” conține violență din punct de vedere semantic, dar este o figură de stil. „Mâine la 20.00 îl voi împușca în fața casei lui” este cu totul altă situație. AI trebuie să înțeleagă ce înseamnă declarația în contextul său specific.
+O cÄƒutare purÄƒ de cuvinte cheie ar fi insuficientÄƒ. â€žL-aÈ™ putea ucide de rÃ¢sâ€ conÈ›ine violenÈ›Äƒ din punct de vedere semantic, dar este o figurÄƒ de stil. â€žMÃ¢ine la 20.00 Ã®l voi Ã®mpuÈ™ca Ã®n faÈ›a casei luiâ€ este cu totul altÄƒ situaÈ›ie. AI trebuie sÄƒ Ã®nÈ›eleagÄƒ ce Ã®nseamnÄƒ declaraÈ›ia Ã®n contextul sÄƒu specific.
 
-### 5. Moderare multilingvă
-Moderația nu poate compara pur și simplu cuvintele. Trebuie să analizeze nivelul semantic (de exemplu, idiomuri germane vs. idiomuri japoneze vs. expresii regionale).
+### 5. Moderare multilingvÄƒ
+ModeraÈ›ia nu poate compara pur È™i simplu cuvintele. Trebuie sÄƒ analizeze nivelul semantic (de exemplu, idiomuri germane vs. idiomuri japoneze vs. expresii regionale).
 
-### 6. Limba originală + traducere
-Originalul și traducerea sunt analizate separat. Abia atunci are loc „Evaluarea Moderației Combinate”. Acest lucru îi permite lui Nexus Gaja să determine dacă traducerea în sine ar fi putut escalada sau modificat faptele.
+### 6. Limba originalÄƒ + traducere
+Originalul È™i traducerea sunt analizate separat. Abia atunci are loc â€žEvaluarea ModeraÈ›iei Combinateâ€. Acest lucru Ã®i permite lui Nexus Gaja sÄƒ determine dacÄƒ traducerea Ã®n sine ar fi putut escalada sau modificat faptele.
 
-### 7. Scorul de încredere
-Fiecare evaluare AI primește un scor de încredere (de exemplu, Probabilitatea de amenințare: 0,96). Cu toate acestea: **Scor de încredere ≠ Adevăr**. Un scor de 96% înseamnă doar că modelul este foarte sigur de clasificarea sa, nu neapărat că utilizatorul este vinovat.
+### 7. Scorul de Ã®ncredere
+Fiecare evaluare AI primeÈ™te un scor de Ã®ncredere (de exemplu, Probabilitatea de ameninÈ›are: 0,96). Cu toate acestea: **Scor de Ã®ncredere â‰  AdevÄƒr**. Un scor de 96% Ã®nseamnÄƒ doar cÄƒ modelul este foarte sigur de clasificarea sa, nu neapÄƒrat cÄƒ utilizatorul este vinovat.
 
-### 8. Incertitudinea devine în sine un semnal
-Dacă IA este incertă (de exemplu, Amenințare: 0,62, Satira: 0,54), nu trebuie să impună pur și simplu reguli dure. În schimb, incertitudinea este construită direct în arhitectură: **Este necesară o revizuire umană**.
+### 8. Incertitudinea devine Ã®n sine un semnal
+DacÄƒ IA este incertÄƒ (de exemplu, AmeninÈ›are: 0,62, Satira: 0,54), nu trebuie sÄƒ impunÄƒ pur È™i simplu reguli dure. ÃŽn schimb, incertitudinea este construitÄƒ direct Ã®n arhitecturÄƒ: **Este necesarÄƒ o revizuire umanÄƒ**.
 
 ### 9. Patru zone de decizie
-- 🟢 **VERDE**: foarte probabil conform. → nicio acțiune.
-- 🟡 **GALBEN**: Posibilă încălcare. → monitorizați / furnizați un avertisment dacă este necesar.
-- 🟠 **ORANGE**: Încălcare probabilă. → revizuire moderare.
-- 🔴 **ROȘU**: posibilă încălcare gravă. → măsură de protecție imediată + revizuire umană.
+- ðŸŸ¢ **VERDE**: foarte probabil conform. â†’ nicio acÈ›iune.
+- ðŸŸ¡ **GALBEN**: PosibilÄƒ Ã®ncÄƒlcare. â†’ monitorizaÈ›i / furnizaÈ›i un avertisment dacÄƒ este necesar.
+- ðŸŸ  **ORANGE**: ÃŽncÄƒlcare probabilÄƒ. â†’ revizuire moderare.
+- ðŸ”´ **ROÈ˜U**: posibilÄƒ Ã®ncÄƒlcare gravÄƒ. â†’ mÄƒsurÄƒ de protecÈ›ie imediatÄƒ + revizuire umanÄƒ.
 
-### 10. Fără „Pedeapsă AI”
-**AI nu impune sancțiuni finale.** Poate declanșa măsuri tehnice imediate (de exemplu, reținerea temporară a unui mesaj) pentru probleme grave de securitate, dar decizia finală rămâne verificabilă.
+### 10. FÄƒrÄƒ â€žPedeapsÄƒ AIâ€
+**AI nu impune sancÈ›iuni finale.** Poate declanÈ™a mÄƒsuri tehnice imediate (de exemplu, reÈ›inerea temporarÄƒ a unui mesaj) pentru probleme grave de securitate, dar decizia finalÄƒ rÄƒmÃ¢ne verificabilÄƒ.
 
-### 11. Măsurile de protecție pot apărea automat
-În cazul unei amenințări concrete (Amenințare detectată → Încredere ridicată → Restricție temporară → Revizuire umană → Decizie), protejăm utilizatorul amenințat fără a transforma IA într-un judecător.
+### 11. MÄƒsurile de protecÈ›ie pot apÄƒrea automat
+ÃŽn cazul unei ameninÈ›Äƒri concrete (AmeninÈ›are detectatÄƒ â†’ ÃŽncredere ridicatÄƒ â†’ RestricÈ›ie temporarÄƒ â†’ Revizuire umanÄƒ â†’ Decizie), protejÄƒm utilizatorul ameninÈ›at fÄƒrÄƒ a transforma IA Ã®ntr-un judecÄƒtor.
 
-### 12. AI trebuie să fie capabilă să-și justifice deciziile
-DSA necesită motive clare și specifice. AI oferă raționament structurat: Regulă (NG-CONDUCT-004), Detectat (Potențial amenințare concretă), Încredere (0,94), Context relevant (Mesaje anterioare 4), Acțiune recomandată (Evaluare umană).
+### 12. AI trebuie sÄƒ fie capabilÄƒ sÄƒ-È™i justifice deciziile
+DSA necesitÄƒ motive clare È™i specifice. AI oferÄƒ raÈ›ionament structurat: RegulÄƒ (NG-CONDUCT-004), Detectat (PotenÈ›ial ameninÈ›are concretÄƒ), ÃŽncredere (0,94), Context relevant (Mesaje anterioare 4), AcÈ›iune recomandatÄƒ (Evaluare umanÄƒ).
 
-### 13. AI nu trebuie să modifice în secret conținutul
-**Moderarea AI nu trebuie să modifice niciodată conținutul original neobservat.** În timpul corectării, traducerii sau rezumarii automate, originalul este întotdeauna păstrat.
+### 13. AI nu trebuie sÄƒ modifice Ã®n secret conÈ›inutul
+**Moderarea AI nu trebuie sÄƒ modifice niciodatÄƒ conÈ›inutul original neobservat.** ÃŽn timpul corectÄƒrii, traducerii sau rezumarii automate, originalul este Ã®ntotdeauna pÄƒstrat.
 
-### 14. Conținut generat de AI
-Facem distincție între: creat de om, asistat de inteligență artificială, generat de inteligență artificială și manipulat de inteligență artificială. Aceasta va deveni parte din metadatele de conținut.
+### 14. ConÈ›inut generat de AI
+Facem distincÈ›ie Ã®ntre: creat de om, asistat de inteligenÈ›Äƒ artificialÄƒ, generat de inteligenÈ›Äƒ artificialÄƒ È™i manipulat de inteligenÈ›Äƒ artificialÄƒ. Aceasta va deveni parte din metadatele de conÈ›inut.
 
-### 15. Etichetarea conținutului AI și a stratului de proveniență AI
-În conformitate cu regulile de transparență ale Actului UE AI (în vigoare din august 2026), conținutul generat de IA trebuie să fie identificabil. Oferim un strat de proveniență AI care stochează metadate (Origine AI, Model, Timp, Human Review).
+### 15. Etichetarea conÈ›inutului AI È™i a stratului de provenienÈ›Äƒ AI
+ÃŽn conformitate cu regulile de transparenÈ›Äƒ ale Actului UE AI (Ã®n vigoare din august 2026), conÈ›inutul generat de IA trebuie sÄƒ fie identificabil. Oferim un strat de provenienÈ›Äƒ AI care stocheazÄƒ metadate (Origine AI, Model, Timp, Human Review).
 
 ### 16. Detectare Deepfake
-Arhitectura își propune să detecteze imagini sintetice, voci clonate și deepfake. Cu toate acestea, detectarea nu este o dovadă automată.
+Arhitectura Ã®È™i propune sÄƒ detecteze imagini sintetice, voci clonate È™i deepfake. Cu toate acestea, detectarea nu este o dovadÄƒ automatÄƒ.
 
-### 17. Fără „mașină de adevăr” automată (moderare ≠ verificarea faptelor)
-Un sistem verifică: „Conținutul încalcă regulile?” (Moderarea conținutului), un altul prevede: „Ce informații și surse sunt disponibile?” (Asistență pentru informații). Opiniile nu sunt șterse pur și simplu pentru că sunt „greșite”.
+### 17. FÄƒrÄƒ â€žmaÈ™inÄƒ de adevÄƒrâ€ automatÄƒ (moderare â‰  verificarea faptelor)
+Un sistem verificÄƒ: â€žConÈ›inutul Ã®ncalcÄƒ regulile?â€ (Moderarea conÈ›inutului), un altul prevede: â€žCe informaÈ›ii È™i surse sunt disponibile?â€ (AsistenÈ›Äƒ pentru informaÈ›ii). Opiniile nu sunt È™terse pur È™i simplu pentru cÄƒ sunt â€žgreÈ™iteâ€.
 
-### 18. Protecție împotriva interpretării greșite culturale
-AI necesită **Modele de context cultural** pentru a preveni ca normele de comunicare ale unei țări să fie asumate ca standard global.
+### 18. ProtecÈ›ie Ã®mpotriva interpretÄƒrii greÈ™ite culturale
+AI necesitÄƒ **Modele de context cultural** pentru a preveni ca normele de comunicare ale unei È›Äƒri sÄƒ fie asumate ca standard global.
 
-### 19. Ironie, satira și umor
-AI folosește contextul, emoji-urile, istoricul conversațiilor și structurile de ironie cunoscute, dar trebuie să permită incertitudinea atunci când semnificațiile sunt ambigue.
+### 19. Ironie, satira È™i umor
+AI foloseÈ™te contextul, emoji-urile, istoricul conversaÈ›iilor È™i structurile de ironie cunoscute, dar trebuie sÄƒ permitÄƒ incertitudinea atunci cÃ¢nd semnificaÈ›iile sunt ambigue.
 
-### 20. Nicio pedeapsă bazată pe un singur scor AI
-Nicio intervenție severă de moderare nu se poate baza doar pe un singur rezultat de clasificare automatizată (Text + Context + Comportament + Limbă + Media + Rule Engine = Evaluarea riscurilor).
+### 20. Nicio pedeapsÄƒ bazatÄƒ pe un singur scor AI
+Nicio intervenÈ›ie severÄƒ de moderare nu se poate baza doar pe un singur rezultat de clasificare automatizatÄƒ (Text + Context + Comportament + LimbÄƒ + Media + Rule Engine = Evaluarea riscurilor).
 
-### 21. Semnale de comportament al utilizatorilor și sistem fără credit social
-Aceasta se referă la semnalele tehnice de abuz (de exemplu, postarea de spam în masă), nu un sistem general de evaluare socială. Nexus Gaja nu menține un sistem de credit social – moderarea servește la securitate, nu la evaluarea valorii unei persoane.
+### 21. Semnale de comportament al utilizatorilor È™i sistem fÄƒrÄƒ credit social
+Aceasta se referÄƒ la semnalele tehnice de abuz (de exemplu, postarea de spam Ã®n masÄƒ), nu un sistem general de evaluare socialÄƒ. Nexus Gaja nu menÈ›ine un sistem de credit social â€“ moderarea serveÈ™te la securitate, nu la evaluarea valorii unei persoane.
 
-### 22. Moderația AI trebuie să fie auditabilă
-Toate deciziile automate relevante sunt înregistrate (ID-ul evenimentului, ID-ul regulii, Încrederea, Revizuirea umană etc.) pentru a asigura trasabilitatea.
+### 22. ModeraÈ›ia AI trebuie sÄƒ fie auditabilÄƒ
+Toate deciziile automate relevante sunt Ã®nregistrate (ID-ul evenimentului, ID-ul regulii, ÃŽncrederea, Revizuirea umanÄƒ etc.) pentru a asigura trasabilitatea.
 
-### 23. False pozitive, false negative și valori de calitate
-Tipurile de erori sunt monitorizate. Un tablou de bord măsoară precizia, rechemarea și, în special, **Rata de anulare a contestațiilor** (numărul de contestații reușite).
+### 23. False pozitive, false negative È™i valori de calitate
+Tipurile de erori sunt monitorizate. Un tablou de bord mÄƒsoarÄƒ precizia, rechemarea È™i, Ã®n special, **Rata de anulare a contestaÈ›iilor** (numÄƒrul de contestaÈ›ii reuÈ™ite).
 
-### 24. Echitatea lingvistică și părtinirea traducerii
-Calitatea moderației trebuie să fie comparabilă în toate limbile acceptate (Multilingual Moderation Benchmark). Dacă rezultatele moderarii diferă între original și traducere (Conflict de traducere), aceasta trebuie revizuită în mod specific.
+### 24. Echitatea lingvisticÄƒ È™i pÄƒrtinirea traducerii
+Calitatea moderaÈ›iei trebuie sÄƒ fie comparabilÄƒ Ã®n toate limbile acceptate (Multilingual Moderation Benchmark). DacÄƒ rezultatele moderarii diferÄƒ Ã®ntre original È™i traducere (Conflict de traducere), aceasta trebuie revizuitÄƒ Ã®n mod specific.
 
-### 25. Motor de propuneri de arhitectură și politici
-Regulile (Policy Engine) nu sunt codificate hard în modelele AI. AI furnizează constatări; Motorul de politici decide pe baza regulilor actuale. Acest lucru permite **modificări de model fără modificări de reguli**.
+### 25. Motor de propuneri de arhitecturÄƒ È™i politici
+Regulile (Policy Engine) nu sunt codificate hard Ã®n modelele AI. AI furnizeazÄƒ constatÄƒri; Motorul de politici decide pe baza regulilor actuale. Acest lucru permite **modificÄƒri de model fÄƒrÄƒ modificÄƒri de reguli**.
 
-### 26. Omul rămâne autoritatea finală
-- **NG-AI-MOD-001**: AI ajută la detectarea și clasificarea, dar nu înlocuiește evaluarea umană în deciziile severe.
-- **NG-AI-MOD-002**: deciziile automate de moderare trebuie să fie urmăribile, înregistrate și verificabile.
+### 26. Omul rÄƒmÃ¢ne autoritatea finalÄƒ
+- **NG-AI-MOD-001**: AI ajutÄƒ la detectarea È™i clasificarea, dar nu Ã®nlocuieÈ™te evaluarea umanÄƒ Ã®n deciziile severe.
+- **NG-AI-MOD-002**: deciziile automate de moderare trebuie sÄƒ fie urmÄƒribile, Ã®nregistrate È™i verificabile.
 
-**Rezumat**: construim un sistem în patru etape: Detectarea AI, Analiza contextului și a riscurilor, Motorul de politici și Guvernarea umană. Acest lucru permite o automatizare puternică fără a crea o arhitectură periculoasă „AI ca judecător”.
+**Rezumat**: construim un sistem Ã®n patru etape: Detectarea AI, Analiza contextului È™i a riscurilor, Motorul de politici È™i Guvernarea umanÄƒ. Acest lucru permite o automatizare puternicÄƒ fÄƒrÄƒ a crea o arhitecturÄƒ periculoasÄƒ â€žAI ca judecÄƒtorâ€.
 
-## Principii de finanțare și model de venituri (WP 1.10.1)
+## Principii de finanÈ›are È™i model de venituri (WP 1.10.1)
 
 ![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
-Pentru Nexus Gaja, se aplică un principiu economic extrem de important: **Fără publicitate tradițională în cadrul platformei.**
-Acest lucru distinge fundamental Nexus Gaja de multe dintre rețelele sociale de astăzi. Cu toate acestea, acest lucru nu înseamnă că Nexus Gaja nu poate avea un caracter comercial. Dimpotrivă, platforma trebuie să fie viabilă din punct de vedere economic, astfel încât scopul ei social să poată rezista. Activitatea economică este un mijloc pentru un scop, nu scopul principal al platformei.
+Pentru Nexus Gaja, se aplicÄƒ un principiu economic extrem de important: **FÄƒrÄƒ publicitate tradiÈ›ionalÄƒ Ã®n cadrul platformei.**
+Acest lucru distinge fundamental Nexus Gaja de multe dintre reÈ›elele sociale de astÄƒzi. Cu toate acestea, acest lucru nu Ã®nseamnÄƒ cÄƒ Nexus Gaja nu poate avea un caracter comercial. DimpotrivÄƒ, platforma trebuie sÄƒ fie viabilÄƒ din punct de vedere economic, astfel Ã®ncÃ¢t scopul ei social sÄƒ poatÄƒ rezista. Activitatea economicÄƒ este un mijloc pentru un scop, nu scopul principal al platformei.
 
 ### 1. Principiul NG-FIN-001
-Nexus Gaja își finanțează operațiunile prin fluxuri transparente de venituri separate de interesele utilizatorilor, și nu prin monetizarea atenției utilizatorilor sau a datelor personale.
+Nexus Gaja Ã®È™i finanÈ›eazÄƒ operaÈ›iunile prin fluxuri transparente de venituri separate de interesele utilizatorilor, È™i nu prin monetizarea atenÈ›iei utilizatorilor sau a datelor personale.
 
-### 2. Fără publicitate tradițională
-Sunt interzise în mod special:
+### 2. FÄƒrÄƒ publicitate tradiÈ›ionalÄƒ
+Sunt interzise Ã®n mod special:
 - reclame bannere
 - Reclame pop-up
-- Redare automată a anunțurilor video
-- Postări sponsorizate în feedul standard
+- Redare automatÄƒ a anunÈ›urilor video
+- PostÄƒri sponsorizate Ã®n feedul standard
 - Profiluri de publicitate personalizate
-- Vânzarea profilurilor de utilizator sau a datelor personale
-- Publicitate derivată din conversații private.
+- VÃ¢nzarea profilurilor de utilizator sau a datelor personale
+- Publicitate derivatÄƒ din conversaÈ›ii private.
 
-Nexus Gaja rămâne mai degrabă un **spațiu de comunicare decât un spațiu publicitar**.
+Nexus Gaja rÄƒmÃ¢ne mai degrabÄƒ un **spaÈ›iu de comunicare decÃ¢t un spaÈ›iu publicitar**.
 
-### 3. Finanțare fără publicitate (Cei 6 piloni)
-Finanțarea este construită pe șase piloni:
+### 3. FinanÈ›are fÄƒrÄƒ publicitate (Cei 6 piloni)
+FinanÈ›area este construitÄƒ pe È™ase piloni:
 ```text
                  NEXUS GAJA
-                     │
-       ┌─────────────┼─────────────┐
-       ▼ ▼ ▼
+                     â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â–¼ â–¼ â–¼
    DONATII ORGANIZATII PREMIUM
-       │ │ │
-       ├─────────────┼─────────────┤
-       ▼ ▼ ▼
-    ACORDĂ SERVICII DE PARTENERIAT
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+       â–¼ â–¼ â–¼
+    ACORDÄ‚ SERVICII DE PARTENERIAT
 ```
 
-#### Pilonul 1 – Abonament de bază gratuit
-**Nexus Gaja Free** permite înțelegerea internațională de bază pentru toată lumea (profil, comunicare internațională, postări, comunități, chat-uri, traducere de bază) fără costuri.
+#### Pilonul 1 â€“ Abonament de bazÄƒ gratuit
+**Nexus Gaja Free** permite Ã®nÈ›elegerea internaÈ›ionalÄƒ de bazÄƒ pentru toatÄƒ lumea (profil, comunicare internaÈ›ionalÄƒ, postÄƒri, comunitÄƒÈ›i, chat-uri, traducere de bazÄƒ) fÄƒrÄƒ costuri.
 
-#### Pilonul 2 – Oferte premium
-Oferte plătite voluntare (**Nexus Gaja Plus**) care oferă limite mai mari de stocare, calitate media mai mare, cote extinse de AI și funcții organizaționale.
-**Important (Freemium în loc de Dark Freemium):** Comunicarea de bază nu trebuie să fie niciodată degradată artificial.
+#### Pilonul 2 â€“ Oferte premium
+Oferte plÄƒtite voluntare (**Nexus Gaja Plus**) care oferÄƒ limite mai mari de stocare, calitate media mai mare, cote extinse de AI È™i funcÈ›ii organizaÈ›ionale.
+**Important (Freemium Ã®n loc de Dark Freemium):** Comunicarea de bazÄƒ nu trebuie sÄƒ fie niciodatÄƒ degradatÄƒ artificial.
 
-#### Pilonul 3 – Organizații
-Conturi speciale pentru școli, universități, ONG-uri, întreprinderi și municipalități (**Nexus Gaja Organization**). Școlile pot fi susținute prin rate instituționale ca multiplicatori ai înțelegerii internaționale.
+#### Pilonul 3 â€“ OrganizaÈ›ii
+Conturi speciale pentru È™coli, universitÄƒÈ›i, ONG-uri, Ã®ntreprinderi È™i municipalitÄƒÈ›i (**Nexus Gaja Organization**). È˜colile pot fi susÈ›inute prin rate instituÈ›ionale ca multiplicatori ai Ã®nÈ›elegerii internaÈ›ionale.
 
-#### Pilonul 4 – Donații
-**Fondul de finanțare Nexus Gaja** acceptă donații generale și alocate (de exemplu, „pentru comunicarea internațională a tinerilor”). Un **Registrul de alocare a fondurilor** asigură o alocare transparentă a fondurilor.
-**Purpose Fund & Tombola:** O parte din donații alimentează un fond pentru utilizare gratuită/reducere. Un mecanism de loterie/tombola poate aloca aceste fonduri în mod transparent și auditabil.
+#### Pilonul 4 â€“ DonaÈ›ii
+**Fondul de finanÈ›are Nexus Gaja** acceptÄƒ donaÈ›ii generale È™i alocate (de exemplu, â€žpentru comunicarea internaÈ›ionalÄƒ a tinerilorâ€). Un **Registrul de alocare a fondurilor** asigurÄƒ o alocare transparentÄƒ a fondurilor.
+**Purpose Fund & Tombola:** O parte din donaÈ›ii alimenteazÄƒ un fond pentru utilizare gratuitÄƒ/reducere. Un mecanism de loterie/tombola poate aloca aceste fonduri Ã®n mod transparent È™i auditabil.
 
-#### Pilonul 5 – Finanțarea instituțională
-Fundații, programe de finanțare culturală sau programe de stat.
-**NG-FIN-002:** Sprijinul financiar nu cumpără control editorial sau tehnic (Independență).
+#### Pilonul 5 â€“ FinanÈ›area instituÈ›ionalÄƒ
+FundaÈ›ii, programe de finanÈ›are culturalÄƒ sau programe de stat.
+**NG-FIN-002:** Sprijinul financiar nu cumpÄƒrÄƒ control editorial sau tehnic (IndependenÈ›Äƒ).
 
-#### Pilonul 6 – Servicii comerciale
-Servicii B2B, cum ar fi **Translation-as-a-Service** (API), comunicarea organizațională sau sălile de conferințe internaționale, fără a încărca fluxul standard al utilizatorilor.
+#### Pilonul 6 â€“ Servicii comerciale
+Servicii B2B, cum ar fi **Translation-as-a-Service** (API), comunicarea organizaÈ›ionalÄƒ sau sÄƒlile de conferinÈ›e internaÈ›ionale, fÄƒrÄƒ a Ã®ncÄƒrca fluxul standard al utilizatorilor.
 
-### 4. Fără monetizare de date și economie de supraveghere
-**NG-FIN-003:** Datele personale ale utilizatorilor nu sunt o marfă. Nicio vânzare de liste, profiluri sau istorii. Nexus Gaja nu profită de supravegherea psihologică (Economia de Supraveghere).
+### 4. FÄƒrÄƒ monetizare de date È™i economie de supraveghere
+**NG-FIN-003:** Datele personale ale utilizatorilor nu sunt o marfÄƒ. Nicio vÃ¢nzare de liste, profiluri sau istorii. Nexus Gaja nu profitÄƒ de supravegherea psihologicÄƒ (Economia de Supraveghere).
 
-### 5. Transparența financiară și Registrul fondurilor
-**Nexus Gaja Financial Transparency:** Publicarea structurilor financiare agregate. Donațiile alocate primesc contabilitate tehnică (ID fond → Scop → Sold → Alocare). Fără subvenționare încrucișată a scopurilor sociale în marketingul corporativ.
+### 5. TransparenÈ›a financiarÄƒ È™i Registrul fondurilor
+**Nexus Gaja Financial Transparency:** Publicarea structurilor financiare agregate. DonaÈ›iile alocate primesc contabilitate tehnicÄƒ (ID fond â†’ Scop â†’ Sold â†’ Alocare). FÄƒrÄƒ subvenÈ›ionare Ã®ncruciÈ™atÄƒ a scopurilor sociale Ã®n marketingul corporativ.
 
-### 6. Modelul de finanțare pe bază de solidaritate
-Prețurile se bazează pe orientarea către costuri, corectitudine și solidaritate.
-**Solidarity Premium:** O opțiune voluntară pentru utilizatorii Premium de a finanța o parte din accesul altui utilizator. Solidaritatea forțată sau o societate de clasă premium (mai puțin respect/moderare pentru utilizatorii gratuiti) este strict interzisă.
+### 6. Modelul de finanÈ›are pe bazÄƒ de solidaritate
+PreÈ›urile se bazeazÄƒ pe orientarea cÄƒtre costuri, corectitudine È™i solidaritate.
+**Solidarity Premium:** O opÈ›iune voluntarÄƒ pentru utilizatorii Premium de a finanÈ›a o parte din accesul altui utilizator. Solidaritatea forÈ›atÄƒ sau o societate de clasÄƒ premium (mai puÈ›in respect/moderare pentru utilizatorii gratuiti) este strict interzisÄƒ.
 
-### 7. KPI-uri economice în loc de economia de implicare
-Fără dependență de menținerea utilizatorilor „online cât mai mult posibil” (fără ragebait, fluxuri infinite).
-În schimb, folosim valori precum:
-- **Indexul de comunicare globală (GCI):** Relații de comunicare de succes între oameni din diferite regiuni lingvistice/culturale.
-- **Platform Sustainability Ratio (PSR):** Venituri recurente / costuri operaționale recurente (țintă ≥ 1).
+### 7. KPI-uri economice Ã®n loc de economia de implicare
+FÄƒrÄƒ dependenÈ›Äƒ de menÈ›inerea utilizatorilor â€žonline cÃ¢t mai mult posibilâ€ (fÄƒrÄƒ ragebait, fluxuri infinite).
+ÃŽn schimb, folosim valori precum:
+- **Indexul de comunicare globalÄƒ (GCI):** RelaÈ›ii de comunicare de succes Ã®ntre oameni din diferite regiuni lingvistice/culturale.
+- **Platform Sustainability Ratio (PSR):** Venituri recurente / costuri operaÈ›ionale recurente (È›intÄƒ â‰¥ 1).
 
-### 8. Ce nu dorim în mod explicit (Lista negativă)
-Nexus Gaja **nu** este finanțat de:
-❌ Vânzarea datelor cu caracter personal
-❌ Publicitate tradițională personalizată
-❌ Monitorizarea comportamentului utilizatorilor în scopuri publicitare
-❌ Vânzarea datelor de comunicații private
-❌ Utilizarea ascunsă a datelor AI
-❌ Paywall-uri Premium manipulative
-❌ Restricție de acoperire artificială pentru monetizare
-❌ Influență politică plătită
-❌ Achiziționarea deciziilor de moderare privilegiate.
+### 8. Ce nu dorim Ã®n mod explicit (Lista negativÄƒ)
+Nexus Gaja **nu** este finanÈ›at de:
+âŒ VÃ¢nzarea datelor cu caracter personal
+âŒ Publicitate tradiÈ›ionalÄƒ personalizatÄƒ
+âŒ Monitorizarea comportamentului utilizatorilor Ã®n scopuri publicitare
+âŒ VÃ¢nzarea datelor de comunicaÈ›ii private
+âŒ Utilizarea ascunsÄƒ a datelor AI
+âŒ Paywall-uri Premium manipulative
+âŒ RestricÈ›ie de acoperire artificialÄƒ pentru monetizare
+âŒ InfluenÈ›Äƒ politicÄƒ plÄƒtitÄƒ
+âŒ AchiziÈ›ionarea deciziilor de moderare privilegiate.
 
-### 9. Arhitectura financiară preliminară
+### 9. Arhitectura financiarÄƒ preliminarÄƒ
 ```text
                          NEXUS GAJA
-                              │
-             ┌────────────────┼─────────────────
-             │ │ │
-             ▼ ▼ ▼
-          ORGANIZAȚII DE UTILIZATORI ÎNTREPRINDEREA
-             │ │ │
-             └────────────────┼─────────────────
-                              │
-                       SERVICII DE PLATFORMĂ
-                              │
-          ┌─────────────────── ┼───────────────────┐
-          ▼ ▼ ▼
-       API DONAȚII PREMIUM
-                              │
-                    ┌─────────┴─────────┐
-                    ▼ ▼
-               FOND GENERAL FONDURI RESTRICȚIONATE
-                                        │
-                                        ▼
+                              â”‚
+             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+             â”‚ â”‚ â”‚
+             â–¼ â–¼ â–¼
+          ORGANIZAÈšII DE UTILIZATORI ÃŽNTREPRINDEREA
+             â”‚ â”‚ â”‚
+             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+                              â”‚
+                       SERVICII DE PLATFORMÄ‚
+                              â”‚
+          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+          â–¼ â–¼ â–¼
+       API DONAÈšII PREMIUM
+                              â”‚
+                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+                    â–¼ â–¼
+               FOND GENERAL FONDURI RESTRICÈšIONATE
+                                        â”‚
+                                        â–¼
                                   SCOP SOCIAL
 ```
 
-### Rezumatul principiilor de finanțare (NG-FIN)
-- **NG-FIN-001:** Fără finanțare prin publicitate tradițională.
-- **NG-FIN-002:** Fără control editorial/tehnic prin sprijin financiar.
-- **NG-FIN-003:** Datele personale nu sunt o marfă.
-- **NG-FIN-004:** Comunicarea de bază rămâne accesibilă fără plată.
-- **NG-FIN-005:** Ofertele premium nu trebuie să degradeze utilizatorii gratuiti.
-- **NG-FIN-006:** Fondurile alocate sunt gestionate în funcție de scopul lor.
-- **NG-FIN-007:** Gestionarea transparentă a donațiilor și granturilor.
-- **NG-FIN-008:** Serviciile comerciale B2B nu compromit independența.
-- **NG-FIN-009:** Concentrați-vă pe durabilitate mai degrabă decât pe monetizarea maximă.
-- **NG-FIN-010:** Structura asigură permanent scopul social.
+### Rezumatul principiilor de finanÈ›are (NG-FIN)
+- **NG-FIN-001:** FÄƒrÄƒ finanÈ›are prin publicitate tradiÈ›ionalÄƒ.
+- **NG-FIN-002:** FÄƒrÄƒ control editorial/tehnic prin sprijin financiar.
+- **NG-FIN-003:** Datele personale nu sunt o marfÄƒ.
+- **NG-FIN-004:** Comunicarea de bazÄƒ rÄƒmÃ¢ne accesibilÄƒ fÄƒrÄƒ platÄƒ.
+- **NG-FIN-005:** Ofertele premium nu trebuie sÄƒ degradeze utilizatorii gratuiti.
+- **NG-FIN-006:** Fondurile alocate sunt gestionate Ã®n funcÈ›ie de scopul lor.
+- **NG-FIN-007:** Gestionarea transparentÄƒ a donaÈ›iilor È™i granturilor.
+- **NG-FIN-008:** Serviciile comerciale B2B nu compromit independenÈ›a.
+- **NG-FIN-009:** ConcentraÈ›i-vÄƒ pe durabilitate mai degrabÄƒ decÃ¢t pe monetizarea maximÄƒ.
+- **NG-FIN-010:** Structura asigurÄƒ permanent scopul social.
 
-## API, interfețe și arhitectură de comunicare (WP 1.11.3)
+## API, interfeÈ›e È™i arhitecturÄƒ de comunicare (WP 1.11.3)
 
-Pentru a asigura stabilitatea, securitatea și scalabilitatea sistemului, Nexus Gaja urmează o arhitectură strict bazată pe API și bazată pe evenimente.
+Pentru a asigura stabilitatea, securitatea È™i scalabilitatea sistemului, Nexus Gaja urmeazÄƒ o arhitecturÄƒ strict bazatÄƒ pe API È™i bazatÄƒ pe evenimente.
 
-### Principii de bază
-- **Fără acces direct la baza de date:** Componentele comunică exclusiv prin interfețe definite (API-uri sau evenimente), niciodată prin interogări directe de baze de date ale altor servicii.
-- **API Gateway:** Toate solicitările clientului extern sunt direcționate printr-un API Gateway care gestionează autentificarea, rutarea și limitarea ratei.
-- **Abstracția furnizorului:** Serviciile externe (modele AI, furnizorii de plată, motoare de traducere) sunt integrate prin straturi de abstracție, evitând dependențele codificate și permițând schimbarea flexibilă a furnizorilor.
+### Principii de bazÄƒ
+- **FÄƒrÄƒ acces direct la baza de date:** Componentele comunicÄƒ exclusiv prin interfeÈ›e definite (API-uri sau evenimente), niciodatÄƒ prin interogÄƒri directe de baze de date ale altor servicii.
+- **API Gateway:** Toate solicitÄƒrile clientului extern sunt direcÈ›ionate printr-un API Gateway care gestioneazÄƒ autentificarea, rutarea È™i limitarea ratei.
+- **AbstracÈ›ia furnizorului:** Serviciile externe (modele AI, furnizorii de platÄƒ, motoare de traducere) sunt integrate prin straturi de abstracÈ›ie, evitÃ¢nd dependenÈ›ele codificate È™i permiÈ›Ã¢nd schimbarea flexibilÄƒ a furnizorilor.
 
 ### Modele de comunicare
-- **API-uri sincrone (REST/HTTPS):** utilizate pentru solicitări imediate, cum ar fi autentificare, setări de profil sau traduceri directe.
-- **Evenimente asincrone (Event Bus):** Sistemul nervos central al Nexus Gaja pentru procesare întârziată, decuplată (de exemplu, „Message.Created” care declanșează Moderarea, Traducerea și Notificarea în mod asincron).
-- **În timp real (WebSocket):** Canale dedicate pentru chat live și indicatori de tastare.
+- **API-uri sincrone (REST/HTTPS):** utilizate pentru solicitÄƒri imediate, cum ar fi autentificare, setÄƒri de profil sau traduceri directe.
+- **Evenimente asincrone (Event Bus):** Sistemul nervos central al Nexus Gaja pentru procesare Ã®ntÃ¢rziatÄƒ, decuplatÄƒ (de exemplu, â€žMessage.Createdâ€ care declanÈ™eazÄƒ Moderarea, Traducerea È™i Notificarea Ã®n mod asincron).
+- **ÃŽn timp real (WebSocket):** Canale dedicate pentru chat live È™i indicatori de tastare.
 
-### Securitate și fiabilitate
-- **Model Zero-Trust:** Traficul intern al rețelei nu este automat de încredere; comunicarea sensibilă de la serviciu la serviciu necesită autentificare.
-- **Idempotity & Outbox Pattern:** Operațiunile critice (cum ar fi donațiile sau mesajele) sunt concepute pentru a fi idempotente pentru a preveni duplicarea procesării, utilizând modelul Outbox pentru a se asigura că evenimentele nu se pierd niciodată, chiar și în timpul tranzacțiilor cu baza de date.
+### Securitate È™i fiabilitate
+- **Model Zero-Trust:** Traficul intern al reÈ›elei nu este automat de Ã®ncredere; comunicarea sensibilÄƒ de la serviciu la serviciu necesitÄƒ autentificare.
+- **Idempotity & Outbox Pattern:** OperaÈ›iunile critice (cum ar fi donaÈ›iile sau mesajele) sunt concepute pentru a fi idempotente pentru a preveni duplicarea procesÄƒrii, utilizÃ¢nd modelul Outbox pentru a se asigura cÄƒ evenimentele nu se pierd niciodatÄƒ, chiar È™i Ã®n timpul tranzacÈ›iilor cu baza de date.
 
 ## Model de domeniu MVP (WP 1.12)
 
 ![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
 
-Nexus Gaja folosește o arhitectură MVP strict bazată pe domenii (ADR-025), concepută ca un monolit modular cu limite clare de domeniu. Această structură previne complexitatea prematură a microserviciilor, păstrând în același timp flexibilitatea de a împărți mai târziu anumite domenii.
+Nexus Gaja foloseÈ™te o arhitecturÄƒ MVP strict bazatÄƒ pe domenii (ADR-025), conceputÄƒ ca un monolit modular cu limite clare de domeniu. AceastÄƒ structurÄƒ previne complexitatea prematurÄƒ a microserviciilor, pÄƒstrÃ¢nd Ã®n acelaÈ™i timp flexibilitatea de a Ã®mpÄƒrÈ›i mai tÃ¢rziu anumite domenii.
 
-### Entități de domeniu de bază
-Arhitectura separă în mod explicit concepte distincte pentru a asigura integritatea datelor și pentru a evita capcanele structurale precum „Nume utilizator = Om”:
-- **Identitate și conturi:** `Persoană` ≠ `Cont de utilizator` ≠ `Verificarea identității`. O persoană verificată participă printr-un cont, dar entitățile rămân separate.
-- **Comunicare:** `Mesaj` ≠ `Traducere`. Mesajul original rămâne imuabil; traducerile sunt entități legate.
-- **Moderare:** `Raport` ≠ `Decizie de moderare`. Un raport este doar o revendicare; un caz de moderare conduce ancheta.
-- **Finanțe:** `Donație` ≠ `Soldul fondului`. Plățile sunt înregistrate printr-un registru imuabil la un fond, asigurând transparența financiară.
+### EntitÄƒÈ›i de domeniu de bazÄƒ
+Arhitectura separÄƒ Ã®n mod explicit concepte distincte pentru a asigura integritatea datelor È™i pentru a evita capcanele structurale precum â€žNume utilizator = Omâ€:
+- **Identitate È™i conturi:** `PersoanÄƒ` â‰  `Cont de utilizator` â‰  `Verificarea identitÄƒÈ›ii`. O persoanÄƒ verificatÄƒ participÄƒ printr-un cont, dar entitÄƒÈ›ile rÄƒmÃ¢n separate.
+- **Comunicare:** `Mesaj` â‰  `Traducere`. Mesajul original rÄƒmÃ¢ne imuabil; traducerile sunt entitÄƒÈ›i legate.
+- **Moderare:** `Raport` â‰  `Decizie de moderare`. Un raport este doar o revendicare; un caz de moderare conduce ancheta.
+- **FinanÈ›e:** `DonaÈ›ie` â‰  `Soldul fondului`. PlÄƒÈ›ile sunt Ã®nregistrate printr-un registru imuabil la un fond, asigurÃ¢nd transparenÈ›a financiarÄƒ.
 
 ### Domenii interconectate
-Sistemul este împărțit în domenii logice clare (Contexte delimitate): Identitate, Cont, Organizație, Comunicare, Comunitate, Limbă, Moderare, Notificare, Finanțe și Guvernare. Aceste domenii cartografiază întreaga călătorie de la entitățile din lumea reală (Utilizatori, școli, ONG-uri) la interacțiunile lor digitale și guvernanța aferentă.
+Sistemul este Ã®mpÄƒrÈ›it Ã®n domenii logice clare (Contexte delimitate): Identitate, Cont, OrganizaÈ›ie, Comunicare, Comunitate, LimbÄƒ, Moderare, Notificare, FinanÈ›e È™i Guvernare. Aceste domenii cartografiazÄƒ Ã®ntreaga cÄƒlÄƒtorie de la entitÄƒÈ›ile din lumea realÄƒ (Utilizatori, È™coli, ONG-uri) la interacÈ›iunile lor digitale È™i guvernanÈ›a aferentÄƒ.
 
 ## Starea proiectului
-Proiectul se află în prezent în faza activă de arhitectură și planificare.
-Deciziile arhitecturale în curs sunt documentate în folderul `/docs`.
+Proiectul se aflÄƒ Ã®n prezent Ã®n faza activÄƒ de arhitecturÄƒ È™i planificare.
+Deciziile arhitecturale Ã®n curs sunt documentate Ã®n folderul `/docs`.
 
 ---
 
 ---
 
-## Licență și proprietate intelectuală
+## LicenÈ›Äƒ È™i proprietate intelectualÄƒ
 
-> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — Toate drepturile rezervate.**
+> **Â© 2024â€“2026 SonnerStudio - Jan Friske GrÃ¼nder, Inhaber, Direktor und Chefdesigner von SonnerStudio â€” Toate drepturile rezervate.**
 
-**Nexus Gaja** este proprietatea intelectuală exclusivă a **Jan Friske**, care operează sub **SonnerStudio**.
+**Nexus Gaja** este proprietatea intelectualÄƒ exclusivÄƒ a **Jan Friske**, care opereazÄƒ sub **SonnerStudio**.
 
-Jan Friske este singurul creator, arhitect și proprietar al Nexus Gaja, inclusiv toate conceptele, arhitectura, modelele de domenii, identitatea mărcii și documentația asociată.
+Jan Friske este singurul creator, arhitect È™i proprietar al Nexus Gaja, inclusiv toate conceptele, arhitectura, modelele de domenii, identitatea mÄƒrcii È™i documentaÈ›ia asociatÄƒ.
 
-**Nu sunt deținute drepturi, licențe sau interese de proprietate de către niciun terț**, indiferent de dimensiunea, poziția pe piață sau influența acestora în industria tehnologiei.
+**Nu sunt deÈ›inute drepturi, licenÈ›e sau interese de proprietate de cÄƒtre niciun terÈ›**, indiferent de dimensiunea, poziÈ›ia pe piaÈ›Äƒ sau influenÈ›a acestora Ã®n industria tehnologiei.
 
-### Ce NU este permis fără acordul explicit scris:
-- Copierea, reproducerea sau distribuirea acestui software sau a documentației sale
-- Modificarea, adaptarea sau crearea de lucrări derivate
-- Utilizarea comercială a oricărei părți a Nexus Gaja
-- Utilizarea conținutului acestui depozit ca date de instruire pentru sisteme AI sau LLM
-- Sublicențierea sau transferul oricăror drepturi către terți
+### Ce NU este permis fÄƒrÄƒ acordul explicit scris:
+- Copierea, reproducerea sau distribuirea acestui software sau a documentaÈ›iei sale
+- Modificarea, adaptarea sau crearea de lucrÄƒri derivate
+- Utilizarea comercialÄƒ a oricÄƒrei pÄƒrÈ›i a Nexus Gaja
+- Utilizarea conÈ›inutului acestui depozit ca date de instruire pentru sisteme AI sau LLM
+- SublicenÈ›ierea sau transferul oricÄƒror drepturi cÄƒtre terÈ›i
 
-### Proprietate intelectuală protejată
-Următoarele concepte originale sunt protejate ca secrete comerciale și creații proprietare ale lui Jan Friske:
-- Modelul de comunicare stratificat (original, interpretare semantică, rezultat tradus)
-- Principiul separării identității (Persoana nu este un cont nu este verificarea identității)
+### Proprietate intelectualÄƒ protejatÄƒ
+UrmÄƒtoarele concepte originale sunt protejate ca secrete comerciale È™i creaÈ›ii proprietare ale lui Jan Friske:
+- Modelul de comunicare stratificat (original, interpretare semanticÄƒ, rezultat tradus)
+- Principiul separÄƒrii identitÄƒÈ›ii (Persoana nu este un cont nu este verificarea identitÄƒÈ›ii)
 - Modelul de decuplare mesaj-traducere (Mesajul nu este traducere)
 - Cadrul de guvernare a moderarii AI
 
 ### Contact
-Pentru întrebări privind licențele: https://github.com/SonnerStudio
+Pentru Ã®ntrebÄƒri privind licenÈ›ele: https://github.com/SonnerStudio
 
-Nexus Gaja și sigla Nexus Gaja sunt mărci comerciale ale lui Jan Friske. Utilizarea neautorizată a numelui sau mărcii este interzisă.
+Nexus Gaja È™i sigla Nexus Gaja sunt mÄƒrci comerciale ale lui Jan Friske. Utilizarea neautorizatÄƒ a numelui sau mÄƒrcii este interzisÄƒ.
 
-Vedeți termenii completi de licență în fișierul LICENȚĂ.
+VedeÈ›i termenii completi de licenÈ›Äƒ Ã®n fiÈ™ierul LICENÈšÄ‚.

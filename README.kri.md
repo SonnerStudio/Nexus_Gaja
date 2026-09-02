@@ -1,4 +1,8 @@
-# Nexus Gaja we de na di wɔl
+﻿# Nexus Gaja we de na di wɔl
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
+
+
 
 > *Fɔ intanashɔnal pis ɛn intanashɔnal ɔndastandin*
 

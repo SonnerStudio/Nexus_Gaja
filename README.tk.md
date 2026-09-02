@@ -1,377 +1,383 @@
-# Nexus Gaja
+﻿# Nexus Gaja
 
-> * Halkara parahatçylyk we halkara düşünişmek üçin *
+> * Halkara parahatÃ§ylyk we halkara dÃ¼ÅŸÃ¼niÅŸmek Ã¼Ã§in *
 
 
 ! [Nexus Gaja Logo] (aktiwler / logo.jpg)
 
 ! [Nexus Gaja Gahrymany] (aktiwler / img / nexus_hero.jpg)
 
-<details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+<details>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
+
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
-<details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+<details>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
+
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 
-** Nexus Gaja **, global aragatnaşygy rewolýusiýa etmek üçin döredilen akylly, kontekstden habarly aragatnaşyk ulgamy.
+** Nexus Gaja **, global aragatnaÅŸygy rewolÃ½usiÃ½a etmek Ã¼Ã§in dÃ¶redilen akylly, kontekstden habarly aragatnaÅŸyk ulgamy.
 
-## Maksat we görüş
+## Maksat we gÃ¶rÃ¼ÅŸ
 
 ! [Nexus Gaja Vision] (aktiwler / img / nexus_vision.jpg)
 
-Globallaşan dünýäde dil köplenç iň uly päsgelçilik bolup durýar. “Nexus Gaja” -nyň esasy maksady, umumy dilde gürleýändigine ýa-da gürlemeýändigine garamazdan adamlaryň arasynda üznüksiz, elýeterli we kontekst taýdan takyk aragatnaşygy üpjün etmekdir. 
+GloballaÅŸan dÃ¼nÃ½Ã¤de dil kÃ¶plenÃ§ iÅˆ uly pÃ¤sgelÃ§ilik bolup durÃ½ar. â€œNexus Gajaâ€ -nyÅˆ esasy maksady, umumy dilde gÃ¼rleÃ½Ã¤ndigine Ã½a-da gÃ¼rlemeÃ½Ã¤ndigine garamazdan adamlaryÅˆ arasynda Ã¼znÃ¼ksiz, elÃ½eterli we kontekst taÃ½dan takyk aragatnaÅŸygy Ã¼pjÃ¼n etmekdir. 
 
-Bu diňe bir sözleri gödek terjime etmek bilen çäklenmän, ** manysyny üýtgetmek hakda. Nexus Gaja, hakyky, hakyky gepleşiklere mümkinçilik döredip, medeni, sebit we kontekst nuanslaryna düşünmek arkaly adamlary has çuňňur baglanyşdyrýar.
+Bu diÅˆe bir sÃ¶zleri gÃ¶dek terjime etmek bilen Ã§Ã¤klenmÃ¤n, ** manysyny Ã¼Ã½tgetmek hakda. Nexus Gaja, hakyky, hakyky gepleÅŸiklere mÃ¼mkinÃ§ilik dÃ¶redip, medeni, sebit we kontekst nuanslaryna dÃ¼ÅŸÃ¼nmek arkaly adamlary has Ã§uÅˆÅˆur baglanyÅŸdyrÃ½ar.
 
-## Mümkinçilikler we aýratynlyklar
-- ** Multimedia aragatnaşygy **: Ulgam diňe bir teksti däl, eýsem şekilleri, ses we wideo hem işleýär. Bu, diliň çäginde hakyky wagtda doly çuňňur söhbetdeşliklere (meselem, wideo jaňlary ýa-da ses habarlary) mümkinçilik berýär.
-- ** Kontekstiň duýgurlygy **: Adaty terjimeçiler tarapyndan köplenç ýalňyş düşünilýän degişme, manysyz sözler, söz we sebit şiwelerini ýüze çykarmak.
-- ** Platforma ulgamy **: Şahsy söhbetdeşlikler, forum sapaklary (teswirler bilen ýazgylar) we dünýä jemgyýetçiliginiň özara gatnaşygy üçin esas bolup hyzmat edýär.
+## MÃ¼mkinÃ§ilikler we aÃ½ratynlyklar
+- ** Multimedia aragatnaÅŸygy **: Ulgam diÅˆe bir teksti dÃ¤l, eÃ½sem ÅŸekilleri, ses we wideo hem iÅŸleÃ½Ã¤r. Bu, diliÅˆ Ã§Ã¤ginde hakyky wagtda doly Ã§uÅˆÅˆur sÃ¶hbetdeÅŸliklere (meselem, wideo jaÅˆlary Ã½a-da ses habarlary) mÃ¼mkinÃ§ilik berÃ½Ã¤r.
+- ** KontekstiÅˆ duÃ½gurlygy **: Adaty terjimeÃ§iler tarapyndan kÃ¶plenÃ§ Ã½alÅˆyÅŸ dÃ¼ÅŸÃ¼nilÃ½Ã¤n degiÅŸme, manysyz sÃ¶zler, sÃ¶z we sebit ÅŸiwelerini Ã½Ã¼ze Ã§ykarmak.
+- ** Platforma ulgamy **: Åžahsy sÃ¶hbetdeÅŸlikler, forum sapaklary (teswirler bilen Ã½azgylar) we dÃ¼nÃ½Ã¤ jemgyÃ½etÃ§iliginiÅˆ Ã¶zara gatnaÅŸygy Ã¼Ã§in esas bolup hyzmat edÃ½Ã¤r.
 
 ---
 
-## Tehniki arhitektura (esasy düşünje)
+## Tehniki arhitektura (esasy dÃ¼ÅŸÃ¼nje)
 
-! [Nexus Gaja terjime düşünjesi] (aktiwler / img / nexus_translation.jpg)
+! [Nexus Gaja terjime dÃ¼ÅŸÃ¼njesi] (aktiwler / img / nexus_translation.jpg)
 
-“Nexus Gaja” -nyň tehniki özeni, üç gatlaga bölünen özbaşdak ösen aragatnaşyk modelidir:
+â€œNexus Gajaâ€ -nyÅˆ tehniki Ã¶zeni, Ã¼Ã§ gatlaga bÃ¶lÃ¼nen Ã¶zbaÅŸdak Ã¶sen aragatnaÅŸyk modelidir:
 
-1. ** Asyl **: Iberiji tarapyndan döredilen aragatnaşyk obýekti (habar) hemişe üýtgemez.
-2. ** Semantik düşündiriş **: Ulgam diňe bir sözleri däl, eýsem hakyky manysyny hem seljerýär.
-3. ** Maksatly diliň wekilçiligi **: AI diňe isleýän diline baglylykda degişli alyjy üçin asyl nusgasynyň wagtlaýyn ýa-da keş görnüşindäki görnüşini döredýär. Terjimeler asyl habary hiç haçan ýazmaýarlar.
+1. ** Asyl **: Iberiji tarapyndan dÃ¶redilen aragatnaÅŸyk obÃ½ekti (habar) hemiÅŸe Ã¼Ã½tgemez.
+2. ** Semantik dÃ¼ÅŸÃ¼ndiriÅŸ **: Ulgam diÅˆe bir sÃ¶zleri dÃ¤l, eÃ½sem hakyky manysyny hem seljerÃ½Ã¤r.
+3. ** Maksatly diliÅˆ wekilÃ§iligi **: AI diÅˆe isleÃ½Ã¤n diline baglylykda degiÅŸli alyjy Ã¼Ã§in asyl nusgasynyÅˆ wagtlaÃ½yn Ã½a-da keÅŸ gÃ¶rnÃ¼ÅŸindÃ¤ki gÃ¶rnÃ¼ÅŸini dÃ¶redÃ½Ã¤r. Terjimeler asyl habary hiÃ§ haÃ§an Ã½azmaÃ½arlar.
 
 ### Kontekste baglylyk
-Terjimeler Nexus Gaja-daky habarlara hiç wagt üzňelik bilen garamaýarlar. Dwigatel ähli iýerarhiýany göz öňünde tutýar:
-"Habar" → "Öňki habarlar" → "Sapagyň mazmuny" → "Jemgyýetiň mazmuny" → "Dil / sebit" → "Ulanyjy ileri tutmalary"
+Terjimeler Nexus Gaja-daky habarlara hiÃ§ wagt Ã¼zÅˆelik bilen garamaÃ½arlar. Dwigatel Ã¤hli iÃ½erarhiÃ½any gÃ¶z Ã¶ÅˆÃ¼nde tutÃ½ar:
+"Habar" â†’ "Ã–Åˆki habarlar" â†’ "SapagyÅˆ mazmuny" â†’ "JemgyÃ½etiÅˆ mazmuny" â†’ "Dil / sebit" â†’ "Ulanyjy ileri tutmalary"
 
-### Talap boýunça terjime etmek arkaly netijelilik
-Terjime diňe ** (talap boýunça) çeşme tygşytlamak görnüşinde ** çagyrylanda bolýar. Ulanyjy mazmun sorasa, adaty diline terjime edilýär. Belli bir dil üçin terjimeler, soňraky soraglary çaltlaşdyrmak üçin hemişelik (keş) saklanýar.
+### Talap boÃ½unÃ§a terjime etmek arkaly netijelilik
+Terjime diÅˆe ** (talap boÃ½unÃ§a) Ã§eÅŸme tygÅŸytlamak gÃ¶rnÃ¼ÅŸinde ** Ã§agyrylanda bolÃ½ar. Ulanyjy mazmun sorasa, adaty diline terjime edilÃ½Ã¤r. Belli bir dil Ã¼Ã§in terjimeler, soÅˆraky soraglary Ã§altlaÅŸdyrmak Ã¼Ã§in hemiÅŸelik (keÅŸ) saklanÃ½ar.
 
-## AI bilen işleýän moderasiýa (WP 1.8.4)
+## AI bilen iÅŸleÃ½Ã¤n moderasiÃ½a (WP 1.8.4)
 
 ! [Nexus Gaja AI Moderation] (aktiwler / img / nexus_moderation.jpg)
 
-AI tarapyndan goldanýan moderasiýa bilen, önüm ideýasyndan tehniki arhitektura çenli uly ädim ädýäris we EUB-niň häzirki düzgünlerini (50-nji madda laýyklykda AI AI kanunynyň aç-açanlyk borçnamalary; düşnükli esaslar we garşylyklar üçin sanly hyzmatlar kanuny) göz öňünde tutýarys.
+AI tarapyndan goldanÃ½an moderasiÃ½a bilen, Ã¶nÃ¼m ideÃ½asyndan tehniki arhitektura Ã§enli uly Ã¤dim Ã¤dÃ½Ã¤ris we EUB-niÅˆ hÃ¤zirki dÃ¼zgÃ¼nlerini (50-nji madda laÃ½yklykda AI AI kanunynyÅˆ aÃ§-aÃ§anlyk borÃ§namalary; dÃ¼ÅŸnÃ¼kli esaslar we garÅŸylyklar Ã¼Ã§in sanly hyzmatlar kanuny) gÃ¶z Ã¶ÅˆÃ¼nde tutÃ½arys.
 
-### 1. Esasy ýörelge
-Arhitektura üçin iň möhüm söz: ** Moderasiýa AI özbaşdak dolandyryş ulgamy däl-de, barlag ulgamy. **
-Nexus Gaja-da haýsy pikirleriň bardygyny kesgitlemek üçin däl-de, ortaça adamlara goldaw bermek üçin niýetlenendir.
-Şeýlelik bilen üç zady tapawutlandyrýarys:
-- ** Gözläň: ** "Bu ýerde düzgün bozulmagy bolup biler."
-- ** Baha: ** "Mysal üçin, düzgüni bozmak ähtimallygy 94%."
-- ** Karar beriň: ** "Aslynda haýsy çäre görülýär?"
-Üçünji dereje çynlakaý ýagdaýlarda adamkärçilikli gözegçilikde saklanmalydyr.
+### 1. Esasy Ã½Ã¶relge
+Arhitektura Ã¼Ã§in iÅˆ mÃ¶hÃ¼m sÃ¶z: ** ModerasiÃ½a AI Ã¶zbaÅŸdak dolandyryÅŸ ulgamy dÃ¤l-de, barlag ulgamy. **
+Nexus Gaja-da haÃ½sy pikirleriÅˆ bardygyny kesgitlemek Ã¼Ã§in dÃ¤l-de, ortaÃ§a adamlara goldaw bermek Ã¼Ã§in niÃ½etlenendir.
+ÅžeÃ½lelik bilen Ã¼Ã§ zady tapawutlandyrÃ½arys:
+- ** GÃ¶zlÃ¤Åˆ: ** "Bu Ã½erde dÃ¼zgÃ¼n bozulmagy bolup biler."
+- ** Baha: ** "Mysal Ã¼Ã§in, dÃ¼zgÃ¼ni bozmak Ã¤htimallygy 94%."
+- ** Karar beriÅˆ: ** "Aslynda haÃ½sy Ã§Ã¤re gÃ¶rÃ¼lÃ½Ã¤r?"
+ÃœÃ§Ã¼nji dereje Ã§ynlakaÃ½ Ã½agdaÃ½larda adamkÃ¤rÃ§ilikli gÃ¶zegÃ§ilikde saklanmalydyr.
 
-### 2. Moderasiýa AI-iň öz kiçi ulgamy bolar
-AI-iň ýerine berk kiçi ulgam döredilýär:
+### 2. ModerasiÃ½a AI-iÅˆ Ã¶z kiÃ§i ulgamy bolar
+AI-iÅˆ Ã½erine berk kiÃ§i ulgam dÃ¶redilÃ½Ã¤r:
 `` tekst
                  NEXUS GAJA AI MODERASI .ASY
-                          │
-       ┌────────────────── ┼──────────────────┐
-       │ │ │
+                          â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â”‚ â”‚ â”‚
   Dil AI Howpsuzlyk AI Galplyk AI
-       │ │ │
-       ├──────────────┬─── ┴──────────────┬───┤
-       │ │ │
- Terjimäniň özüni alyp barşynyň şahsyýeti
- Analiz derňew signallary
-       │ │ │
-       └──────────────┼──────────────────┘
-                      ▼
-               Töwekgelçiligi bahalandyrmak
-                      │
-                      ▼
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€ â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”¤
+       â”‚ â”‚ â”‚
+ TerjimÃ¤niÅˆ Ã¶zÃ¼ni alyp barÅŸynyÅˆ ÅŸahsyÃ½eti
+ Analiz derÅˆew signallary
+       â”‚ â”‚ â”‚
+       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+                      â–¼
+               TÃ¶wekgelÃ§iligi bahalandyrmak
+                      â”‚
+                      â–¼
                Adam syn
 ``
 
-### 3. Iň möhüm AI modullary
-Nexus Gaja üçin dokuz sany ýöriteleşdirilen derňew ugry bar:
-- ** M1 - Diliň düşünilmegi **: Dil, dialekt, slang, gülkünç görkezijiler, terjime meselelerini kesgitleýär.
-- ** M2 - Zäherlilik / Erbet ulanmaklyk **: kemsitmeleri, şahsy hüjümleri, ýanamalary ýüze çykarýar.
-- ** M3 - Howplary ýüze çykarmak **: Mümkin bolan howplary, şantaj we zorluk howplaryny kesgitleýär.
-- ** M4 - ateigrenji / adamkärçiliksizligi ýüze çykarmak **: Belli bir degişlilik esasynda adamlara gönükdirilen hüjümleri kesgitleýär.
-- ** M5 - Spam / Manipulýasiýa kesgitlemesi **: Spamy, bot hereketini, utgaşdyrylan manipulýasiýany kesgitleýär.
-- ** M6 - Galplygy ýüze çykarmak **: Şübheli galplyk synanyşyklaryny, fişing, sosial in engineeringenerçiligi ýüze çykarýar.
-- ** M7 - Şahsyýetiň bitewiligi **: Hasabyň alynmagy, birnäçe hasap, blokirleme aýlawy bilen baglanyşykly signallary barlaýar.
-- ** M8 - Mediýa howpsuzlygy **: Suratlary, ses, wideo, resminamalary derňeýär.
-- ** M9 - Kontekst motory **: Iň möhüm modul. Aýry-aýry netijeleri birleşdirýär.
+### 3. IÅˆ mÃ¶hÃ¼m AI modullary
+Nexus Gaja Ã¼Ã§in dokuz sany Ã½Ã¶riteleÅŸdirilen derÅˆew ugry bar:
+- ** M1 - DiliÅˆ dÃ¼ÅŸÃ¼nilmegi **: Dil, dialekt, slang, gÃ¼lkÃ¼nÃ§ gÃ¶rkezijiler, terjime meselelerini kesgitleÃ½Ã¤r.
+- ** M2 - ZÃ¤herlilik / Erbet ulanmaklyk **: kemsitmeleri, ÅŸahsy hÃ¼jÃ¼mleri, Ã½anamalary Ã½Ã¼ze Ã§ykarÃ½ar.
+- ** M3 - Howplary Ã½Ã¼ze Ã§ykarmak **: MÃ¼mkin bolan howplary, ÅŸantaj we zorluk howplaryny kesgitleÃ½Ã¤r.
+- ** M4 - ateigrenji / adamkÃ¤rÃ§iliksizligi Ã½Ã¼ze Ã§ykarmak **: Belli bir degiÅŸlilik esasynda adamlara gÃ¶nÃ¼kdirilen hÃ¼jÃ¼mleri kesgitleÃ½Ã¤r.
+- ** M5 - Spam / ManipulÃ½asiÃ½a kesgitlemesi **: Spamy, bot hereketini, utgaÅŸdyrylan manipulÃ½asiÃ½any kesgitleÃ½Ã¤r.
+- ** M6 - Galplygy Ã½Ã¼ze Ã§ykarmak **: ÅžÃ¼bheli galplyk synanyÅŸyklaryny, fiÅŸing, sosial in engineeringenerÃ§iligi Ã½Ã¼ze Ã§ykarÃ½ar.
+- ** M7 - ÅžahsyÃ½etiÅˆ bitewiligi **: HasabyÅˆ alynmagy, birnÃ¤Ã§e hasap, blokirleme aÃ½lawy bilen baglanyÅŸykly signallary barlaÃ½ar.
+- ** M8 - MediÃ½a howpsuzlygy **: Suratlary, ses, wideo, resminamalary derÅˆeÃ½Ã¤r.
+- ** M9 - Kontekst motory **: IÅˆ mÃ¶hÃ¼m modul. AÃ½ry-aÃ½ry netijeleri birleÅŸdirÃ½Ã¤r.
 
-### 4. Näme üçin kontekst motory beýle möhüm?
-Arassa açar söz gözlemek ýeterlik bolmaz. "Men onuň gülüp öldürmegini öldürip bilerin" many taýdan zorlugy öz içine alýar, ýöne sözleýiş. "Ertir sagat 8-de ony öýüniň öňünde ataryn" düýbünden başga ýagdaý. AI jümläniň bu anyk kontekstde nämäni aňladýandygyna düşünmeli.
+### 4. NÃ¤me Ã¼Ã§in kontekst motory beÃ½le mÃ¶hÃ¼m?
+Arassa aÃ§ar sÃ¶z gÃ¶zlemek Ã½eterlik bolmaz. "Men onuÅˆ gÃ¼lÃ¼p Ã¶ldÃ¼rmegini Ã¶ldÃ¼rip bilerin" many taÃ½dan zorlugy Ã¶z iÃ§ine alÃ½ar, Ã½Ã¶ne sÃ¶zleÃ½iÅŸ. "Ertir sagat 8-de ony Ã¶Ã½Ã¼niÅˆ Ã¶ÅˆÃ¼nde ataryn" dÃ¼Ã½bÃ¼nden baÅŸga Ã½agdaÃ½. AI jÃ¼mlÃ¤niÅˆ bu anyk kontekstde nÃ¤mÃ¤ni aÅˆladÃ½andygyna dÃ¼ÅŸÃ¼nmeli.
 
-### 5. Köp dilli moderasiýa
-Moderasiýa diňe sözleri deňeşdirip bilmeýär. Manysynyň derejesini seljermeli (meselem, nemes idiomalary we ýapon idiomalary we sebit aňlatmalary).
+### 5. KÃ¶p dilli moderasiÃ½a
+ModerasiÃ½a diÅˆe sÃ¶zleri deÅˆeÅŸdirip bilmeÃ½Ã¤r. ManysynyÅˆ derejesini seljermeli (meselem, nemes idiomalary we Ã½apon idiomalary we sebit aÅˆlatmalary).
 
 ### 6. Asyl dil + terjime
-Asyl we terjime aýratyn seljerilýär. Diňe şondan soň “Kombinirlenen ortaça baha bermek” amala aşyrylýar. Şeýlelik bilen, Nexus Gaja terjimäniň özi ýagdaýy hasam agyrlaşdyrandygyny ýa-da üýtgedendigini kesgitläp biler.
+Asyl we terjime aÃ½ratyn seljerilÃ½Ã¤r. DiÅˆe ÅŸondan soÅˆ â€œKombinirlenen ortaÃ§a baha bermekâ€ amala aÅŸyrylÃ½ar. ÅžeÃ½lelik bilen, Nexus Gaja terjimÃ¤niÅˆ Ã¶zi Ã½agdaÃ½y hasam agyrlaÅŸdyrandygyny Ã½a-da Ã¼Ã½tgedendigini kesgitlÃ¤p biler.
 
 ### 7. Ynam ynamy
-Her AI bahalandyrma ynam bahasyny alýar (meselem, howp abanmak ähtimallygy: 0.96). Emma: ** Ynam ynamy ≠ Hakykat. ** 96% bal diňe modeliň klassifikasiýasyna gaty ynamlydygyny, ulanyjynyň günäkärdigini aňlatmaýar.
+Her AI bahalandyrma ynam bahasyny alÃ½ar (meselem, howp abanmak Ã¤htimallygy: 0.96). Emma: ** Ynam ynamy â‰  Hakykat. ** 96% bal diÅˆe modeliÅˆ klassifikasiÃ½asyna gaty ynamlydygyny, ulanyjynyÅˆ gÃ¼nÃ¤kÃ¤rdigini aÅˆlatmaÃ½ar.
 
-### 8. Näbelliligiň özi signal bolýar
-AI näbellidir (meselem, howp: 0.62, Satira: 0.54), diňe berk çäre görüp bilmez. Munuň ýerine näbellilik gönüden-göni arhitektura gurulýar: ** Adam gözden geçirmek zerur **.
+### 8. NÃ¤belliligiÅˆ Ã¶zi signal bolÃ½ar
+AI nÃ¤bellidir (meselem, howp: 0.62, Satira: 0.54), diÅˆe berk Ã§Ã¤re gÃ¶rÃ¼p bilmez. MunuÅˆ Ã½erine nÃ¤bellilik gÃ¶nÃ¼den-gÃ¶ni arhitektura gurulÃ½ar: ** Adam gÃ¶zden geÃ§irmek zerur **.
 
-### 9. Dört karar ugry
-- 🟢 ** REaşyl **: Iň ähtimal. Action çäre ýok.
-- 🟡 ** SELLOW **: Mümkin bolan düzgün bozma. Necessary zerur bolsa synlaň / belläň.
-- 🟠 ** ORANGE **: Mümkin bozulan. Ation Ortaça barlag.
-- 🔴 ** RED **: Esasy ähtimal düzgün bozma. → derrew gorag çäresi + adam synagy.
+### 9. DÃ¶rt karar ugry
+- ðŸŸ¢ ** REaÅŸyl **: IÅˆ Ã¤htimal. Action Ã§Ã¤re Ã½ok.
+- ðŸŸ¡ ** SELLOW **: MÃ¼mkin bolan dÃ¼zgÃ¼n bozma. Necessary zerur bolsa synlaÅˆ / bellÃ¤Åˆ.
+- ðŸŸ  ** ORANGE **: MÃ¼mkin bozulan. Ation OrtaÃ§a barlag.
+- ðŸ”´ ** RED **: Esasy Ã¤htimal dÃ¼zgÃ¼n bozma. â†’ derrew gorag Ã§Ã¤resi + adam synagy.
 
-### 10. "AI jezasy" ýok
-** AI gutarnykly sanksiýalary girizmeýär. ** Çynlakaý howpsuzlyk aladalary ýüze çykan halatynda gyssagly tehniki çäreleri (meselem, habary saklamak) döredip biler, ýöne gutarnykly karar tassyklanylýar.
+### 10. "AI jezasy" Ã½ok
+** AI gutarnykly sanksiÃ½alary girizmeÃ½Ã¤r. ** Ã‡ynlakaÃ½ howpsuzlyk aladalary Ã½Ã¼ze Ã§ykan halatynda gyssagly tehniki Ã§Ã¤releri (meselem, habary saklamak) dÃ¶redip biler, Ã½Ã¶ne gutarnykly karar tassyklanylÃ½ar.
 
-### 11. Gorag çäreleri awtomatiki bolup biler
-Belli bir howp bar bolsa (howp abanýar → confidenceokary ynam → Wagtlaýyn çäklendirme → Adam gözden geçirmesi → Karar), howp abanýan ulanyjyny AI-ni kazy etmezden goraýarys.
+### 11. Gorag Ã§Ã¤releri awtomatiki bolup biler
+Belli bir howp bar bolsa (howp abanÃ½ar â†’ confidenceokary ynam â†’ WagtlaÃ½yn Ã§Ã¤klendirme â†’ Adam gÃ¶zden geÃ§irmesi â†’ Karar), howp abanÃ½an ulanyjyny AI-ni kazy etmezden goraÃ½arys.
 
-### 12. AI kararyny aklamagy başarmaly
-DSA anyk we anyk sebäpleri talap edýär. AI gurluşly sebäpler: Düzgün (NG-CONDUCT-004), Detüze çykarylan (Potensial beton howp), Ynam (0.94), Degişli kontekst (Öňki 4 habar), Maslahat berilýän çäre (Adam syn).
+### 12. AI kararyny aklamagy baÅŸarmaly
+DSA anyk we anyk sebÃ¤pleri talap edÃ½Ã¤r. AI gurluÅŸly sebÃ¤pler: DÃ¼zgÃ¼n (NG-CONDUCT-004), DetÃ¼ze Ã§ykarylan (Potensial beton howp), Ynam (0.94), DegiÅŸli kontekst (Ã–Åˆki 4 habar), Maslahat berilÃ½Ã¤n Ã§Ã¤re (Adam syn).
 
-### 13. AI mazmuny gizlin üýtgetmäge rugsat berilmeýär
-** Moderasiýa AI asyl mazmuny hiç wagt ünsden düşürmeli däldir. ** Awtomatiki düzedişler, terjimeler ýa-da jemlemeler asyl mazmuny saklaýar.
+### 13. AI mazmuny gizlin Ã¼Ã½tgetmÃ¤ge rugsat berilmeÃ½Ã¤r
+** ModerasiÃ½a AI asyl mazmuny hiÃ§ wagt Ã¼nsden dÃ¼ÅŸÃ¼rmeli dÃ¤ldir. ** Awtomatiki dÃ¼zediÅŸler, terjimeler Ã½a-da jemlemeler asyl mazmuny saklaÃ½ar.
 
-### 14. AI döreden mazmun
-Arasynda tapawutlandyrýarys: adam tarapyndan döredilen, AI kömegi bilen, AI tarapyndan döredilen we AI-manipulirlenen. Bu mazmun meta-maglumatynyň bir bölegine öwrülýär.
+### 14. AI dÃ¶reden mazmun
+Arasynda tapawutlandyrÃ½arys: adam tarapyndan dÃ¶redilen, AI kÃ¶megi bilen, AI tarapyndan dÃ¶redilen we AI-manipulirlenen. Bu mazmun meta-maglumatynyÅˆ bir bÃ¶legine Ã¶wrÃ¼lÃ½Ã¤r.
 
 ### 15. AI Mazmuny Etiketleme we AI Provenance Layer
-AI AI AI Kanunynyň (2026-njy ýylyň awgust aýyndan bäri) aç-açanlyk düzgünlerine laýyklykda AI tarapyndan döredilen mazmun tanalmalydyr. Metadatalary (AI gelip çykyşy, modeli, wagt belligi, adam gözden geçirmesi) saklaýan AI Provenance Layer-i göz öňünde tutýarys.
+AI AI AI KanunynyÅˆ (2026-njy Ã½ylyÅˆ awgust aÃ½yndan bÃ¤ri) aÃ§-aÃ§anlyk dÃ¼zgÃ¼nlerine laÃ½yklykda AI tarapyndan dÃ¶redilen mazmun tanalmalydyr. Metadatalary (AI gelip Ã§ykyÅŸy, modeli, wagt belligi, adam gÃ¶zden geÃ§irmesi) saklaÃ½an AI Provenance Layer-i gÃ¶z Ã¶ÅˆÃ¼nde tutÃ½arys.
 
-### 16. Çuňňur ýalňyşlygy ýüze çykarmak
-Arhitektura sintetiki şekilleri, höweslendiriji sesleri we çuňluklary ýüze çykarmak üçin niýetlenendir. Emma tanamak awtomatiki subutnama däl.
+### 16. Ã‡uÅˆÅˆur Ã½alÅˆyÅŸlygy Ã½Ã¼ze Ã§ykarmak
+Arhitektura sintetiki ÅŸekilleri, hÃ¶weslendiriji sesleri we Ã§uÅˆluklary Ã½Ã¼ze Ã§ykarmak Ã¼Ã§in niÃ½etlenendir. Emma tanamak awtomatiki subutnama dÃ¤l.
 
-### 17. Awtomatiki “hakykat maşyn” ýok (ortaça ≠ fakt barlamak)
-Ulgam barlaýar: "Mazmun haýsydyr bir düzgüni bozýarmy?" (Mazmuny moderasiýa), beýlekisi: "Haýsy maglumat we çeşmeler bar?" (Maglumat kömegi). Pikirler diňe "nädogry" diýip pozulmaýar.
+### 17. Awtomatiki â€œhakykat maÅŸynâ€ Ã½ok (ortaÃ§a â‰  fakt barlamak)
+Ulgam barlaÃ½ar: "Mazmun haÃ½sydyr bir dÃ¼zgÃ¼ni bozÃ½army?" (Mazmuny moderasiÃ½a), beÃ½lekisi: "HaÃ½sy maglumat we Ã§eÅŸmeler bar?" (Maglumat kÃ¶megi). Pikirler diÅˆe "nÃ¤dogry" diÃ½ip pozulmaÃ½ar.
 
-### 18. Medeni ýalňyş düşündirişden goramak
-AI bir ýurduň aragatnaşyk kadasynyň global standart hökmünde kabul edilmeginiň öňüni almak üçin ** Medeni kontekst modelleri ** talap edýär.
+### 18. Medeni Ã½alÅˆyÅŸ dÃ¼ÅŸÃ¼ndiriÅŸden goramak
+AI bir Ã½urduÅˆ aragatnaÅŸyk kadasynyÅˆ global standart hÃ¶kmÃ¼nde kabul edilmeginiÅˆ Ã¶ÅˆÃ¼ni almak Ã¼Ã§in ** Medeni kontekst modelleri ** talap edÃ½Ã¤r.
 
-### 19. Geň, satira we gülkünç
-AI konteksti, emojiýalary, gepleşik akymlaryny we belli gülkünç gurluşlary ulanýar, ýöne manylary aýdyň bolmadyk mahaly näbellilige ýol bermeli.
+### 19. GeÅˆ, satira we gÃ¼lkÃ¼nÃ§
+AI konteksti, emojiÃ½alary, gepleÅŸik akymlaryny we belli gÃ¼lkÃ¼nÃ§ gurluÅŸlary ulanÃ½ar, Ã½Ã¶ne manylary aÃ½dyÅˆ bolmadyk mahaly nÃ¤bellilige Ã½ol bermeli.
 
-### 20. AIeke-täk AI balyna esaslanýan jeza ýok
-Hiç hili çynlakaý moderasiýa diňe bir awtomatlaşdyrylan klassifikasiýa netijesine esaslanyp bilinmez (Tekst + Kontekst + Özüňi alyp baryş + Dil + Mediýa + Düzgün motory = Töwekgelçiligi bahalandyrmak).
+### 20. AIeke-tÃ¤k AI balyna esaslanÃ½an jeza Ã½ok
+HiÃ§ hili Ã§ynlakaÃ½ moderasiÃ½a diÅˆe bir awtomatlaÅŸdyrylan klassifikasiÃ½a netijesine esaslanyp bilinmez (Tekst + Kontekst + Ã–zÃ¼Åˆi alyp baryÅŸ + Dil + MediÃ½a + DÃ¼zgÃ¼n motory = TÃ¶wekgelÃ§iligi bahalandyrmak).
 
-### 21. Ulanyjynyň özüni alyp barşynyň signallary we sosial karz ulgamy ýok
-Bu umumy sosial reýting ulgamy däl-de, tehniki hyýanatçylykly signallar (meselem, spam köpçülikleýin habar beriş) hakda. “Nexus Gaja” sosial karz ulgamyny işlemeýär - ortaça howpsuzlyk, adamyň gymmatyna baha bermezlik üçin.
+### 21. UlanyjynyÅˆ Ã¶zÃ¼ni alyp barÅŸynyÅˆ signallary we sosial karz ulgamy Ã½ok
+Bu umumy sosial reÃ½ting ulgamy dÃ¤l-de, tehniki hyÃ½anatÃ§ylykly signallar (meselem, spam kÃ¶pÃ§Ã¼likleÃ½in habar beriÅŸ) hakda. â€œNexus Gajaâ€ sosial karz ulgamyny iÅŸlemeÃ½Ã¤r - ortaÃ§a howpsuzlyk, adamyÅˆ gymmatyna baha bermezlik Ã¼Ã§in.
 
-### 22. Moderasiýa AI gözegçilikli bolmaly
-Relevanthli degişli awtomatlaşdyrylan kararlar yzarlanylmagyny üpjün etmek üçin hasaba alynýar (hadysanyň belgisi, düzgün belgisi, ynam, adam gözden geçirmesi we ş.m.).
+### 22. ModerasiÃ½a AI gÃ¶zegÃ§ilikli bolmaly
+Relevanthli degiÅŸli awtomatlaÅŸdyrylan kararlar yzarlanylmagyny Ã¼pjÃ¼n etmek Ã¼Ã§in hasaba alynÃ½ar (hadysanyÅˆ belgisi, dÃ¼zgÃ¼n belgisi, ynam, adam gÃ¶zden geÃ§irmesi we ÅŸ.m.).
 
-### 23. sealňyş pozitiwler, ýalňyş negatiwler we hil ölçegleri
-Roralňyş görnüşlerine gözegçilik edilýär. Dolandyryş paneli takyklygy, ýatlamagy we esasanam ** Şikaýatyň yzyna gaýtaryş nyrhy ** (üstünlikli ýüz tutmalaryň sany) ölçýär. 
+### 23. sealÅˆyÅŸ pozitiwler, Ã½alÅˆyÅŸ negatiwler we hil Ã¶lÃ§egleri
+RoralÅˆyÅŸ gÃ¶rnÃ¼ÅŸlerine gÃ¶zegÃ§ilik edilÃ½Ã¤r. DolandyryÅŸ paneli takyklygy, Ã½atlamagy we esasanam ** ÅžikaÃ½atyÅˆ yzyna gaÃ½taryÅŸ nyrhy ** (Ã¼stÃ¼nlikli Ã½Ã¼z tutmalaryÅˆ sany) Ã¶lÃ§Ã½Ã¤r. 
 
-### 24. Diliň adalatlylygy we terjime taraplary
-Ortaça hil ähli goldanýan dillerde deňeşdirilmelidir (Köp dilli moderasiýa görkezijisi). Ortaça netijeler asyl we terjime (terjime gapma-garşylygy) arasynda tapawutlanýan bolsa, muny aýratyn barlamaly.
+### 24. DiliÅˆ adalatlylygy we terjime taraplary
+OrtaÃ§a hil Ã¤hli goldanÃ½an dillerde deÅˆeÅŸdirilmelidir (KÃ¶p dilli moderasiÃ½a gÃ¶rkezijisi). OrtaÃ§a netijeler asyl we terjime (terjime gapma-garÅŸylygy) arasynda tapawutlanÃ½an bolsa, muny aÃ½ratyn barlamaly.
 
-### 25. Arhitektura teklipleri we syýasat hereketlendirijisi
-Düzgünler (syýasat hereketlendirijisi) AI modellerine gaty kodlanan däldir. AI düşünje berýär, syýasat hereketlendirijisi häzirki düzgünlere esaslanýar. Bu, düzgünleri üýtgetmän ** modelini üýtgetmäge mümkinçilik berýär.
+### 25. Arhitektura teklipleri we syÃ½asat hereketlendirijisi
+DÃ¼zgÃ¼nler (syÃ½asat hereketlendirijisi) AI modellerine gaty kodlanan dÃ¤ldir. AI dÃ¼ÅŸÃ¼nje berÃ½Ã¤r, syÃ½asat hereketlendirijisi hÃ¤zirki dÃ¼zgÃ¼nlere esaslanÃ½ar. Bu, dÃ¼zgÃ¼nleri Ã¼Ã½tgetmÃ¤n ** modelini Ã¼Ã½tgetmÃ¤ge mÃ¼mkinÃ§ilik berÃ½Ã¤r.
 
-### 26. Adamlar iň soňky ygtyýarlyk bolup galýarlar
-- ** NG-AI-MOD-001 **: AI ýüze çykarylmagyny we klassifikasiýasyny goldaýar, ýöne çynlakaý kararlar kabul edilende adam synynyň ýerini tutmaýar.
-- ** NG-AI-MOD-002 **: Awtomatlaşdyrylan moderasiýa kararlary yzarlanylýan, ýazga alynýan we barlanylmaly.
+### 26. Adamlar iÅˆ soÅˆky ygtyÃ½arlyk bolup galÃ½arlar
+- ** NG-AI-MOD-001 **: AI Ã½Ã¼ze Ã§ykarylmagyny we klassifikasiÃ½asyny goldaÃ½ar, Ã½Ã¶ne Ã§ynlakaÃ½ kararlar kabul edilende adam synynyÅˆ Ã½erini tutmaÃ½ar.
+- ** NG-AI-MOD-002 **: AwtomatlaÅŸdyrylan moderasiÃ½a kararlary yzarlanylÃ½an, Ã½azga alynÃ½an we barlanylmaly.
 
-** Gysgaça mazmun **: Dört derejeli ulgam gurýarys: AI kesgitlemek, kontekst we töwekgelçilik derňewi, syýasat hereketlendirijisi we adam dolandyryşy. Bu howply “AI kazy” arhitekturasyny döretmezden güýçli awtomatlaşdyrmaga mümkinçilik berýär.
+** GysgaÃ§a mazmun **: DÃ¶rt derejeli ulgam gurÃ½arys: AI kesgitlemek, kontekst we tÃ¶wekgelÃ§ilik derÅˆewi, syÃ½asat hereketlendirijisi we adam dolandyryÅŸy. Bu howply â€œAI kazyâ€ arhitekturasyny dÃ¶retmezden gÃ¼Ã½Ã§li awtomatlaÅŸdyrmaga mÃ¼mkinÃ§ilik berÃ½Ã¤r.
 
-## Maliýeleşdirmegiň ýörelgeleri we girdeji modeli (WP 1.10.1)
+## MaliÃ½eleÅŸdirmegiÅˆ Ã½Ã¶relgeleri we girdeji modeli (WP 1.10.1)
 
-! [Nexus Gaja Maliýe Model] (aktiwler / img / nexus_finance.jpg)
+! [Nexus Gaja MaliÃ½e Model] (aktiwler / img / nexus_finance.jpg)
 
-Örän möhüm ykdysady prinsip Nexus Gaja degişlidir: ** Platformanyň içinde klassiki mahabat ýok. **
-Bu, Nexus Gaja-ny häzirki sosial ulgamlaryň köpüsinden konseptual taýdan tapawutlandyrýar. Thatöne munuň manysy ýok: Nexus Gaja täjirçilik häsiýetine eýe bolmaly däldir. Munuň tersine: jemgyýetçilik maksady uzak möhletde dowam edip biler ýaly platforma ykdysady taýdan durmuşa ukyply bolmaly. Ykdysady işjeňlik, platformanyň asyl maksady däl-de, soňuna çykmak üçin serişdedir.
+Ã–rÃ¤n mÃ¶hÃ¼m ykdysady prinsip Nexus Gaja degiÅŸlidir: ** PlatformanyÅˆ iÃ§inde klassiki mahabat Ã½ok. **
+Bu, Nexus Gaja-ny hÃ¤zirki sosial ulgamlaryÅˆ kÃ¶pÃ¼sinden konseptual taÃ½dan tapawutlandyrÃ½ar. ThatÃ¶ne munuÅˆ manysy Ã½ok: Nexus Gaja tÃ¤jirÃ§ilik hÃ¤siÃ½etine eÃ½e bolmaly dÃ¤ldir. MunuÅˆ tersine: jemgyÃ½etÃ§ilik maksady uzak mÃ¶hletde dowam edip biler Ã½aly platforma ykdysady taÃ½dan durmuÅŸa ukyply bolmaly. Ykdysady iÅŸjeÅˆlik, platformanyÅˆ asyl maksady dÃ¤l-de, soÅˆuna Ã§ykmak Ã¼Ã§in seriÅŸdedir.
 
-### 1. NG-FIN-001 ýörelgesi
-“Nexus Gaja”, ulanyjylaryň ünsüni ýa-da şahsy maglumatlaryny marketing arkaly däl-de, ulanyjy gyzyklanmalaryndan aýry-aýry girdeji akymlary arkaly maliýeleşdirýär.
+### 1. NG-FIN-001 Ã½Ã¶relgesi
+â€œNexus Gajaâ€, ulanyjylaryÅˆ Ã¼nsÃ¼ni Ã½a-da ÅŸahsy maglumatlaryny marketing arkaly dÃ¤l-de, ulanyjy gyzyklanmalaryndan aÃ½ry-aÃ½ry girdeji akymlary arkaly maliÃ½eleÅŸdirÃ½Ã¤r.
 
-### 2. Klassiki mahabat ýok
-Hususan-da, aşakdakylara rugsat berilmez:
+### 2. Klassiki mahabat Ã½ok
+Hususan-da, aÅŸakdakylara rugsat berilmez:
 - Banner mahabaty
-- Açylýan mahabat
-- Mahabat wideolaryny awtomatiki ýerine ýetirdi
-- adaty iýmitdäki hemaýatkärlikli ýazgylar
-- şahsylaşdyrylan mahabat profilleri
+- AÃ§ylÃ½an mahabat
+- Mahabat wideolaryny awtomatiki Ã½erine Ã½etirdi
+- adaty iÃ½mitdÃ¤ki hemaÃ½atkÃ¤rlikli Ã½azgylar
+- ÅŸahsylaÅŸdyrylan mahabat profilleri
 - Ulanyjy profilini satmak
-- Şahsy maglumatlary satmak
-- Şahsy gepleşiklerden alnan mahabat.
+- Åžahsy maglumatlary satmak
+- Åžahsy gepleÅŸiklerden alnan mahabat.
 
-Bu aragatnaşyk giňişligini galdyrýar: ** Mahabat giňişliginiň ýerine aragatnaşyk meýdançasy. **
+Bu aragatnaÅŸyk giÅˆiÅŸligini galdyrÃ½ar: ** Mahabat giÅˆiÅŸliginiÅˆ Ã½erine aragatnaÅŸyk meÃ½danÃ§asy. **
 
-### 3. Mahabatsyz maliýeleşdirmek
-Munuň ýerine, maliýeleşdirmegimiz birnäçe sütünden ybarat bolup biler. Ilki bilen alty sütün teklip edýäris:
+### 3. Mahabatsyz maliÃ½eleÅŸdirmek
+MunuÅˆ Ã½erine, maliÃ½eleÅŸdirmegimiz birnÃ¤Ã§e sÃ¼tÃ¼nden ybarat bolup biler. Ilki bilen alty sÃ¼tÃ¼n teklip edÃ½Ã¤ris:
 `` tekst
                  NEXUS GAJA
-                     │
-       ┌─────────────┼─────────────┐
-       ▼ ▼ ▼
+                     â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â–¼ â–¼ â–¼
    PREMIUM GURAMASY BERILDI
-       │ │ │
-       ├─────────────┼─────────────┤
-       ▼ ▼ ▼
-   HYZMATDAŞLYK HYZMATLARYNY ÖSÜŞ
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+       â–¼ â–¼ â–¼
+   HYZMATDAÅžLYK HYZMATLARYNY Ã–SÃœÅž
 ``
 
-#### 1-nji sütün - Mugt esasy agzalyk
-** Nexus Gaja Mugt: ** Halkara düşünişmäge esasy gatnaşmak, biriniň pulunyň bardygyna bagly bolmaly däldir. Aşakdakylar mugt mümkin: şahsy profil, halkara aragatnaşyk, goşantlar, teswirler, esasy terjime, jemgyýetler, söhbetdeşlikler, esasy media funksiýalary.
+#### 1-nji sÃ¼tÃ¼n - Mugt esasy agzalyk
+** Nexus Gaja Mugt: ** Halkara dÃ¼ÅŸÃ¼niÅŸmÃ¤ge esasy gatnaÅŸmak, biriniÅˆ pulunyÅˆ bardygyna bagly bolmaly dÃ¤ldir. AÅŸakdakylar mugt mÃ¼mkin: ÅŸahsy profil, halkara aragatnaÅŸyk, goÅŸantlar, teswirler, esasy terjime, jemgyÃ½etler, sÃ¶hbetdeÅŸlikler, esasy media funksiÃ½alary.
 
-#### 2-nji sütün - Premium teklipleri
-Meýletin tölegli teklipler (** Nexus Gaja Plus **). Mümkin bolan peýdalar: has uly saklaýyş çäkleri, has ýokary media hili, has uzyn wideo ýaýlymlary, giňeldilen terjime funksiýalary, has uly jemgyýetler, goşmaça guramaçylyk funksiýalary, AI kwotalary.
-** Freemium - ýöne “Dark Freemium” däl: ** Mugt wersiýany manyly ulanyp bolýar; Premium ony giňeldýär.
+#### 2-nji sÃ¼tÃ¼n - Premium teklipleri
+MeÃ½letin tÃ¶legli teklipler (** Nexus Gaja Plus **). MÃ¼mkin bolan peÃ½dalar: has uly saklaÃ½yÅŸ Ã§Ã¤kleri, has Ã½okary media hili, has uzyn wideo Ã½aÃ½lymlary, giÅˆeldilen terjime funksiÃ½alary, has uly jemgyÃ½etler, goÅŸmaÃ§a guramaÃ§ylyk funksiÃ½alary, AI kwotalary.
+** Freemium - Ã½Ã¶ne â€œDark Freemiumâ€ dÃ¤l: ** Mugt wersiÃ½any manyly ulanyp bolÃ½ar; Premium ony giÅˆeldÃ½Ã¤r.
 
-#### 3-nji sütün - Guramalar
-** Nexus Gaja Guramasy: ** Mekdepler, uniwersitetler, klublar, jemgyýetçilik guramalary, kompaniýalar, häkimlikler we ş.m. merkezi gurama hasaby, agzalary dolandyrmak we administrator funksiýalary bilen ýörite hasaplar. (Mysal: Mekdep okuwçylara mugt ýa-da institusional nyrh arkaly giriş alýar).
+#### 3-nji sÃ¼tÃ¼n - Guramalar
+** Nexus Gaja Guramasy: ** Mekdepler, uniwersitetler, klublar, jemgyÃ½etÃ§ilik guramalary, kompaniÃ½alar, hÃ¤kimlikler we ÅŸ.m. merkezi gurama hasaby, agzalary dolandyrmak we administrator funksiÃ½alary bilen Ã½Ã¶rite hasaplar. (Mysal: Mekdep okuwÃ§ylara mugt Ã½a-da institusional nyrh arkaly giriÅŸ alÃ½ar).
 
-#### 4-nji sütün - Haýyr-sahawat
-** Nexus Gaja maliýeleşdiriş gaznasy: ** Donorlar meýletin pul berip bilerler (umumy ýa-da berlen sadakalar). 
-** Maliýe howzy we tombola: ** Mugt ýa-da arzanladyş ulanmak haýyr-sahawat howuzyndan maliýeleşdirilýär. Gaznanyň bölünişigi hasaba alnyşyny üpjün edýär.
+#### 4-nji sÃ¼tÃ¼n - HaÃ½yr-sahawat
+** Nexus Gaja maliÃ½eleÅŸdiriÅŸ gaznasy: ** Donorlar meÃ½letin pul berip bilerler (umumy Ã½a-da berlen sadakalar). 
+** MaliÃ½e howzy we tombola: ** Mugt Ã½a-da arzanladyÅŸ ulanmak haÃ½yr-sahawat howuzyndan maliÃ½eleÅŸdirilÃ½Ã¤r. GaznanyÅˆ bÃ¶lÃ¼niÅŸigi hasaba alnyÅŸyny Ã¼pjÃ¼n edÃ½Ã¤r.
 `` tekst
-Haýyr-sahawat → MAKSATNAMA FOND → KANUNÇYLYK ENGINE
+HaÃ½yr-sahawat â†’ MAKSATNAMA FOND â†’ KANUNÃ‡YLYK ENGINE
 ``
 
-#### 5-nji sütün - Institusional goldaw
-Hemaýatkärler: Gaznalar, medeni maliýeleşdiriş maksatnamalary, döwlet tarapyndan maliýeleşdirmek maksatnamalary.
-** NG-FIN-002 (Garaşsyzlyk): ** Maliýeleşdirme Nexus Gaja redaksiýa ýa-da tehniki gözegçiligi satyn alyp bilmez.
+#### 5-nji sÃ¼tÃ¼n - Institusional goldaw
+HemaÃ½atkÃ¤rler: Gaznalar, medeni maliÃ½eleÅŸdiriÅŸ maksatnamalary, dÃ¶wlet tarapyndan maliÃ½eleÅŸdirmek maksatnamalary.
+** NG-FIN-002 (GaraÅŸsyzlyk): ** MaliÃ½eleÅŸdirme Nexus Gaja redaksiÃ½a Ã½a-da tehniki gÃ¶zegÃ§iligi satyn alyp bilmez.
 
-#### 6-njy sütün - Söwda hyzmatlary
-Nexus Gaja, adaty ulanyjy iýmitini mahabat bilen ýüklemän, ** Terjime-as-a-Service (API) **, hünär terjimesi, guramaçylyk aragatnaşyk ýa-da halkara konferensiýa otaglary ýaly B2B hyzmatlaryny hödürläp biler.
+#### 6-njy sÃ¼tÃ¼n - SÃ¶wda hyzmatlary
+Nexus Gaja, adaty ulanyjy iÃ½mitini mahabat bilen Ã½Ã¼klemÃ¤n, ** Terjime-as-a-Service (API) **, hÃ¼nÃ¤r terjimesi, guramaÃ§ylyk aragatnaÅŸyk Ã½a-da halkara konferensiÃ½a otaglary Ã½aly B2B hyzmatlaryny hÃ¶dÃ¼rlÃ¤p biler.
 
-### 4. Maglumat marketingi we "gözegçilik ykdysadyýeti" ýok.
-** NG-FIN-003: ** Ulanyjynyň şahsy maglumatlary Nexus Gaja-nyň önümi däl. (Profil, taryh, şahsyýet maglumatlary satylmaýar). 
-“Nexus Gaja” ulanyjylaryna mümkin boldugyça gözegçilik edilip, mümkin boldugyça takyk psihologiki taýdan klassifikasiýa edilmeginden peýdalanmagy maksat edinmeýär.
+### 4. Maglumat marketingi we "gÃ¶zegÃ§ilik ykdysadyÃ½eti" Ã½ok.
+** NG-FIN-003: ** UlanyjynyÅˆ ÅŸahsy maglumatlary Nexus Gaja-nyÅˆ Ã¶nÃ¼mi dÃ¤l. (Profil, taryh, ÅŸahsyÃ½et maglumatlary satylmaÃ½ar). 
+â€œNexus Gajaâ€ ulanyjylaryna mÃ¼mkin boldugyÃ§a gÃ¶zegÃ§ilik edilip, mÃ¼mkin boldugyÃ§a takyk psihologiki taÃ½dan klassifikasiÃ½a edilmeginden peÃ½dalanmagy maksat edinmeÃ½Ã¤r.
 
-### 5. Maliýe aç-açanlygy
-Nexus Gaja Maliýe Aç-açanlygy: Girdejiler kategoriýalara, haýyr-sahawat mukdaryna, amal çykdajylaryna we ş.m. görä çap edilip bilner. 
-** Maliýeleşdiriş depderçesi: ** Belli bir maksat üçin bölünip berlen sadakalar düşnükli hasabat görnüşinde ýazylýar (Haýyr-sahawat → Gaznanyň şahsyýetnamasy → Maksat → Elýeterli balans → Bölüm). Aç-açanlyk bolmazdan, subsidiýa ýok.
+### 5. MaliÃ½e aÃ§-aÃ§anlygy
+Nexus Gaja MaliÃ½e AÃ§-aÃ§anlygy: Girdejiler kategoriÃ½alara, haÃ½yr-sahawat mukdaryna, amal Ã§ykdajylaryna we ÅŸ.m. gÃ¶rÃ¤ Ã§ap edilip bilner. 
+** MaliÃ½eleÅŸdiriÅŸ depderÃ§esi: ** Belli bir maksat Ã¼Ã§in bÃ¶lÃ¼nip berlen sadakalar dÃ¼ÅŸnÃ¼kli hasabat gÃ¶rnÃ¼ÅŸinde Ã½azylÃ½ar (HaÃ½yr-sahawat â†’ GaznanyÅˆ ÅŸahsyÃ½etnamasy â†’ Maksat â†’ ElÃ½eterli balans â†’ BÃ¶lÃ¼m). AÃ§-aÃ§anlyk bolmazdan, subsidiÃ½a Ã½ok.
 
-### 6. Bahalar we raýdaşlygy maliýeleşdirmek modeli
-Bahalar esaslanýar: çykdajylaryň ugrukdyrylyşy, adalatlylyk we raýdaşlyk.
-** Raýdaşlyk baýragy: ** Premium ulanyjy meýletin saýlap biler: "Başga bir ulanyjynyň girişiniň bir bölegini maliýeleşdirýärin." Mejbury raýdaşlyk ýa-da premium synp jemgyýeti (erkin ulanyjylar üçin az hormat ýa-da has erbet moderasiýa) aýrylýar.
+### 6. Bahalar we raÃ½daÅŸlygy maliÃ½eleÅŸdirmek modeli
+Bahalar esaslanÃ½ar: Ã§ykdajylaryÅˆ ugrukdyrylyÅŸy, adalatlylyk we raÃ½daÅŸlyk.
+** RaÃ½daÅŸlyk baÃ½ragy: ** Premium ulanyjy meÃ½letin saÃ½lap biler: "BaÅŸga bir ulanyjynyÅˆ giriÅŸiniÅˆ bir bÃ¶legini maliÃ½eleÅŸdirÃ½Ã¤rin." Mejbury raÃ½daÅŸlyk Ã½a-da premium synp jemgyÃ½eti (erkin ulanyjylar Ã¼Ã§in az hormat Ã½a-da has erbet moderasiÃ½a) aÃ½rylÃ½ar.
 
 ### 7. Ykdysady KPI
-Biz tükeniksiz onlaýn wagtyna bagly däldiris (manipulýasiýa gatnaşygy ykdysadyýeti ýok). KPI-lerimiz:
-- ** Global aragatnaşyk indeksi (GCI): ** Dürli dil ýa-da medeni sebitlerden bolan adamlaryň arasynda näçe üstünlikli aragatnaşyk gatnaşyklary ýüze çykýar?
-- ** Platformanyň Durnuklylyk gatnaşygy (PSR): ** gaýtalanýan girdeji / gaýtalanýan amal çykdajylary (maksat: PSR ≥ 1).
+Biz tÃ¼keniksiz onlaÃ½n wagtyna bagly dÃ¤ldiris (manipulÃ½asiÃ½a gatnaÅŸygy ykdysadyÃ½eti Ã½ok). KPI-lerimiz:
+- ** Global aragatnaÅŸyk indeksi (GCI): ** DÃ¼rli dil Ã½a-da medeni sebitlerden bolan adamlaryÅˆ arasynda nÃ¤Ã§e Ã¼stÃ¼nlikli aragatnaÅŸyk gatnaÅŸyklary Ã½Ã¼ze Ã§ykÃ½ar?
+- ** PlatformanyÅˆ Durnuklylyk gatnaÅŸygy (PSR): ** gaÃ½talanÃ½an girdeji / gaÃ½talanÃ½an amal Ã§ykdajylary (maksat: PSR â‰¥ 1).
 
-### 8. Aç-açan islemeýän zadymyz
-Nexus Gaja tarapyndan maliýeleşdirilmeýär:
-Personal Şahsy maglumatlary satmak
-Class şahsylaşdyrylan klassiki mahabat
-Advertising Mahabat maksatlary üçin ulanyjynyň özüni alyp barşyna gözegçilik etmek
-Private Şahsy aragatnaşyk maglumatlary satmak
-AI gizlin AI maglumat ulanylyşy
-❌ manipulýasiýa premium gulplary
-Mon Monetizasiýa üçin emeli ýetiş çäklendirmesi
-Political tölegli syýasy täsir
-Privileeňillikli ortaça kararlary satyn almak.
+### 8. AÃ§-aÃ§an islemeÃ½Ã¤n zadymyz
+Nexus Gaja tarapyndan maliÃ½eleÅŸdirilmeÃ½Ã¤r:
+Personal Åžahsy maglumatlary satmak
+Class ÅŸahsylaÅŸdyrylan klassiki mahabat
+Advertising Mahabat maksatlary Ã¼Ã§in ulanyjynyÅˆ Ã¶zÃ¼ni alyp barÅŸyna gÃ¶zegÃ§ilik etmek
+Private Åžahsy aragatnaÅŸyk maglumatlary satmak
+AI gizlin AI maglumat ulanylyÅŸy
+âŒ manipulÃ½asiÃ½a premium gulplary
+Mon MonetizasiÃ½a Ã¼Ã§in emeli Ã½etiÅŸ Ã§Ã¤klendirmesi
+Political tÃ¶legli syÃ½asy tÃ¤sir
+PrivileeÅˆillikli ortaÃ§a kararlary satyn almak.
 
 ### 9. Deslapky arhitektura
 `` tekst
                          NEXUS GAJA
-                              │
-             ┌────────────────┼────────────────┐
-             │ │ │
-             ▼ ▼ ▼
-          Ulanyjylar GURAMALAR Kärhanasy
-             │ │ │
-             └────────────────┼────────────────┘
-                              │
+                              â”‚
+             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+             â”‚ â”‚ â”‚
+             â–¼ â–¼ â–¼
+          Ulanyjylar GURAMALAR KÃ¤rhanasy
+             â”‚ â”‚ â”‚
+             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+                              â”‚
                        PLATFORM HYZMATLARY
-                              │
-          ┌─────────────────── ┼───────────────────┐
-          ▼ ▼ ▼
+                              â”‚
+          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+          â–¼ â–¼ â–¼
        PREMIUM DONATIONS API
-                              │
-                    ┌─────────┴─────────┐
-                    ▼ ▼
-               UMUMY FOND ÇESKLENDIRILEN FONDLAR
-                                        │
-                                        ▼
-                                  Jemgyýet maksat
+                              â”‚
+                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+                    â–¼ â–¼
+               UMUMY FOND Ã‡ESKLENDIRILEN FONDLAR
+                                        â”‚
+                                        â–¼
+                                  JemgyÃ½et maksat
 ``
 
-### Gysgaça mazmun: Maliýeleşdirmegiň ýörelgeleri (NG-FIN)
-- ** NG-FIN-001: ** Nexus Gaja adaty mahabat tarapyndan maliýeleşdirilmeýär.
-- ** NG-FIN-002: ** Maliýe goldawy ortaça ýa-da dolandyryşa täsir etmeýär.
-- ** NG-FIN-003: ** Şahsy ulanyjy maglumatlary haryt däl.
-- ** NG-FIN-004: ** Esasy halkara aragatnaşyk funksiýasy tölegsiz elýeterli bolmaly.
-- ** NG-FIN-005: ** Premium teklipleri hyzmatlaryň gerimini giňeldýär, ýöne erkin ulanyjylaryň mertebesini we esasy aragatnaşyk mümkinçiliklerini peseltmeli däldir.
-- ** NG-FIN-006: ** Bellenen serişdeler belli bir maksat bilen dolandyrylýar.
-- ** NG-FIN-007: ** Haýyr-sahawat we maliýe serişdeleri aç-açan we düşnükli dolandyrylýar.
-- ** NG-FIN-008: ** Söwda hyzmatlary platformanyň garaşsyzlygyna täsir etmeli däldir.
-- ** NG-FIN-009: ** Nexus Gaja-nyň ykdysady ösüşi, ulanyjylaryň iň köp pul gazanmagyna däl-de, uzak möhletli durnuklylyga gönükdirilmelidir.
-- ** NG-FIN-010: ** Ykdysady gurluş sosial maksady - halkara düşünişmegi, halkara aragatnaşygy we halklaryň arasyndaky dostlugy hemişelik üpjün etmeli.
+### GysgaÃ§a mazmun: MaliÃ½eleÅŸdirmegiÅˆ Ã½Ã¶relgeleri (NG-FIN)
+- ** NG-FIN-001: ** Nexus Gaja adaty mahabat tarapyndan maliÃ½eleÅŸdirilmeÃ½Ã¤r.
+- ** NG-FIN-002: ** MaliÃ½e goldawy ortaÃ§a Ã½a-da dolandyryÅŸa tÃ¤sir etmeÃ½Ã¤r.
+- ** NG-FIN-003: ** Åžahsy ulanyjy maglumatlary haryt dÃ¤l.
+- ** NG-FIN-004: ** Esasy halkara aragatnaÅŸyk funksiÃ½asy tÃ¶legsiz elÃ½eterli bolmaly.
+- ** NG-FIN-005: ** Premium teklipleri hyzmatlaryÅˆ gerimini giÅˆeldÃ½Ã¤r, Ã½Ã¶ne erkin ulanyjylaryÅˆ mertebesini we esasy aragatnaÅŸyk mÃ¼mkinÃ§iliklerini peseltmeli dÃ¤ldir.
+- ** NG-FIN-006: ** Bellenen seriÅŸdeler belli bir maksat bilen dolandyrylÃ½ar.
+- ** NG-FIN-007: ** HaÃ½yr-sahawat we maliÃ½e seriÅŸdeleri aÃ§-aÃ§an we dÃ¼ÅŸnÃ¼kli dolandyrylÃ½ar.
+- ** NG-FIN-008: ** SÃ¶wda hyzmatlary platformanyÅˆ garaÅŸsyzlygyna tÃ¤sir etmeli dÃ¤ldir.
+- ** NG-FIN-009: ** Nexus Gaja-nyÅˆ ykdysady Ã¶sÃ¼ÅŸi, ulanyjylaryÅˆ iÅˆ kÃ¶p pul gazanmagyna dÃ¤l-de, uzak mÃ¶hletli durnuklylyga gÃ¶nÃ¼kdirilmelidir.
+- ** NG-FIN-010: ** Ykdysady gurluÅŸ sosial maksady - halkara dÃ¼ÅŸÃ¼niÅŸmegi, halkara aragatnaÅŸygy we halklaryÅˆ arasyndaky dostlugy hemiÅŸelik Ã¼pjÃ¼n etmeli.
 
-## API, interfeýs we aragatnaşyk arhitekturasy (WP 1.11.3)
+## API, interfeÃ½s we aragatnaÅŸyk arhitekturasy (WP 1.11.3)
 
-Ulgamyň durnuklylygyny, howpsuzlygyny we göwrümliligini üpjün etmek üçin Nexus Gaja berk API esasly we hadysalara esaslanan arhitektura eýerýär.
+UlgamyÅˆ durnuklylygyny, howpsuzlygyny we gÃ¶wrÃ¼mliligini Ã¼pjÃ¼n etmek Ã¼Ã§in Nexus Gaja berk API esasly we hadysalara esaslanan arhitektura eÃ½erÃ½Ã¤r.
 
-### Esasy ýörelgeler
-- ** Maglumat bazasyna gönüden-göni giriş ýok: ** Komponentler diňe kesgitlenen interfeýsler (API ýa-da wakalar) arkaly habarlaşýarlar, hiç haçan beýleki hyzmatlardan gönüden-göni maglumat bazasy talaplary arkaly habarlaşmaýarlar.
-- ** API şlýuzy: ** externalhli daşarky müşderi islegleri, tanamak, marşrutlaşdyrmak we nyrh çäklendirmelerini dolandyrýan API şlýuzasyndan geçýär.
-- ** Üpjün edijiniň abstraksiýasy: ** Daşarky hyzmatlar (AI modelleri, töleg üpjün edijileri, terjime motorlary) abstraksiýa gatlaklary arkaly birleşdirilýär. Bu gaty simli garaşlylygyň öňüni alýar we çeýe üpjün edijiniň kommutasiýasyna mümkinçilik berýär.
+### Esasy Ã½Ã¶relgeler
+- ** Maglumat bazasyna gÃ¶nÃ¼den-gÃ¶ni giriÅŸ Ã½ok: ** Komponentler diÅˆe kesgitlenen interfeÃ½sler (API Ã½a-da wakalar) arkaly habarlaÅŸÃ½arlar, hiÃ§ haÃ§an beÃ½leki hyzmatlardan gÃ¶nÃ¼den-gÃ¶ni maglumat bazasy talaplary arkaly habarlaÅŸmaÃ½arlar.
+- ** API ÅŸlÃ½uzy: ** externalhli daÅŸarky mÃ¼ÅŸderi islegleri, tanamak, marÅŸrutlaÅŸdyrmak we nyrh Ã§Ã¤klendirmelerini dolandyrÃ½an API ÅŸlÃ½uzasyndan geÃ§Ã½Ã¤r.
+- ** ÃœpjÃ¼n edijiniÅˆ abstraksiÃ½asy: ** DaÅŸarky hyzmatlar (AI modelleri, tÃ¶leg Ã¼pjÃ¼n edijileri, terjime motorlary) abstraksiÃ½a gatlaklary arkaly birleÅŸdirilÃ½Ã¤r. Bu gaty simli garaÅŸlylygyÅˆ Ã¶ÅˆÃ¼ni alÃ½ar we Ã§eÃ½e Ã¼pjÃ¼n edijiniÅˆ kommutasiÃ½asyna mÃ¼mkinÃ§ilik berÃ½Ã¤r.
 
-### Aragatnaşyk usullary
-- ** Sinhron API-ler (REST / HTTPS): ** Giriş, profil sazlamalary ýa-da göni terjimeler ýaly derrew haýyşlar üçin ulanylýar.
-- ** Asynkron hadysalar (Waka awtobusy): ** Nexus Gaja-nyň bölünen prosesler üçin merkezi nerw ulgamy (meselem: "Message.Created" moderasiýa, terjime we habarnamany asynkron görnüşde döredýär).
-- ** Hakyky wagt (WebSocket): ** Göni söhbetdeşlik we ýazmak ýagdaýy üçin bagyşlanan kanallar.
+### AragatnaÅŸyk usullary
+- ** Sinhron API-ler (REST / HTTPS): ** GiriÅŸ, profil sazlamalary Ã½a-da gÃ¶ni terjimeler Ã½aly derrew haÃ½yÅŸlar Ã¼Ã§in ulanylÃ½ar.
+- ** Asynkron hadysalar (Waka awtobusy): ** Nexus Gaja-nyÅˆ bÃ¶lÃ¼nen prosesler Ã¼Ã§in merkezi nerw ulgamy (meselem: "Message.Created" moderasiÃ½a, terjime we habarnamany asynkron gÃ¶rnÃ¼ÅŸde dÃ¶redÃ½Ã¤r).
+- ** Hakyky wagt (WebSocket): ** GÃ¶ni sÃ¶hbetdeÅŸlik we Ã½azmak Ã½agdaÃ½y Ã¼Ã§in bagyÅŸlanan kanallar.
 
 ### Howpsuzlyk we ygtybarlylyk
-- ** Nol ynam modeli: ** Içerki tor trafigi awtomatiki usulda ynamly däl; duýgur hyzmat-hyzmat aragatnaşygy tassyklanylmagyny talap edýär.
+- ** Nol ynam modeli: ** IÃ§erki tor trafigi awtomatiki usulda ynamly dÃ¤l; duÃ½gur hyzmat-hyzmat aragatnaÅŸygy tassyklanylmagyny talap edÃ½Ã¤r.
 _
 
 ## MVP domen modeli (WP 1.12)
 
 ! [Nexus Gaja Modul Monolit] (aktiwler / img / nexus_architecture.jpg)
 
-Nexus Gaja, domen araçäkleri bilen modul monolit hökmünde döredilen berk domen bilen dolandyrylýan MVP arhitekturasyny (ADR-025) ulanýar. Bu gurluş, soňraky belli domenlere autsorsing çeýeligini saklamak bilen irki mikroservis çylşyrymlylygynyň öňüni alýar.
+Nexus Gaja, domen araÃ§Ã¤kleri bilen modul monolit hÃ¶kmÃ¼nde dÃ¶redilen berk domen bilen dolandyrylÃ½an MVP arhitekturasyny (ADR-025) ulanÃ½ar. Bu gurluÅŸ, soÅˆraky belli domenlere autsorsing Ã§eÃ½eligini saklamak bilen irki mikroservis Ã§ylÅŸyrymlylygynyÅˆ Ã¶ÅˆÃ¼ni alÃ½ar.
 
 ### Tehniki esasy guramalar
-Arhitektura maglumatlaryň bitewiligini üpjün etmek we “ulanyjy ady = adam” ýaly ýalňyşlyklardan gaça durmak üçin düşünjeleri berk bölýär:
-- ** Şahsyýet we hasaplar: ** "Şahsy" ≠ "Ulanyjy hasaby" ≠ "Şahsyýeti barlamak". Barlanan adam bir hasap arkaly gatnaşýar, ýöne guramalar aýratyn galýarlar.
-- ** Aragatnaşyk: ** "Habar" ≠ "Terjime". Asyl habar üýtgewsizdir; Terjimeler baglanyşyk guramalarydyr.
-- ** Moderasiýa: ** "Hasabat" ≠ "Orta karar". Habar diňe bir görkezme; moderator derňew geçirýär.
-- ** Maliýe: ** "Haýyr-sahawat" ≠ "Gaznanyň galyndysy". Tölegler üýtgewsiz gaznanyň hasabyna (kassa kitaby) iberilýär.
+Arhitektura maglumatlaryÅˆ bitewiligini Ã¼pjÃ¼n etmek we â€œulanyjy ady = adamâ€ Ã½aly Ã½alÅˆyÅŸlyklardan gaÃ§a durmak Ã¼Ã§in dÃ¼ÅŸÃ¼njeleri berk bÃ¶lÃ½Ã¤r:
+- ** ÅžahsyÃ½et we hasaplar: ** "Åžahsy" â‰  "Ulanyjy hasaby" â‰  "ÅžahsyÃ½eti barlamak". Barlanan adam bir hasap arkaly gatnaÅŸÃ½ar, Ã½Ã¶ne guramalar aÃ½ratyn galÃ½arlar.
+- ** AragatnaÅŸyk: ** "Habar" â‰  "Terjime". Asyl habar Ã¼Ã½tgewsizdir; Terjimeler baglanyÅŸyk guramalarydyr.
+- ** ModerasiÃ½a: ** "Hasabat" â‰  "Orta karar". Habar diÅˆe bir gÃ¶rkezme; moderator derÅˆew geÃ§irÃ½Ã¤r.
+- ** MaliÃ½e: ** "HaÃ½yr-sahawat" â‰  "GaznanyÅˆ galyndysy". TÃ¶legler Ã¼Ã½tgewsiz gaznanyÅˆ hasabyna (kassa kitaby) iberilÃ½Ã¤r.
 
 ### Birikdirilen mowzuk domenleri
-Ulgam logiki domenlere (çäklendirilen kontekstlere) bölünýär: Şahsyýet, Hasap, Gurama, Aragatnaşyk, Jemgyýet, Dil, Moderasiýa, Habarnama, Maliýe we Dolandyryş. Hakyky aktýorlardan (ulanyjylar, mekdepler, jemgyýetçilik guramalary) başlap, sanly gatnaşyklaryna çenli ähli zynjyry görkezýärler.
+Ulgam logiki domenlere (Ã§Ã¤klendirilen kontekstlere) bÃ¶lÃ¼nÃ½Ã¤r: ÅžahsyÃ½et, Hasap, Gurama, AragatnaÅŸyk, JemgyÃ½et, Dil, ModerasiÃ½a, Habarnama, MaliÃ½e we DolandyryÅŸ. Hakyky aktÃ½orlardan (ulanyjylar, mekdepler, jemgyÃ½etÃ§ilik guramalary) baÅŸlap, sanly gatnaÅŸyklaryna Ã§enli Ã¤hli zynjyry gÃ¶rkezÃ½Ã¤rler.
 
-## Taslamanyň ýagdaýy
-Taslama işjeň arhitektura we meýilleşdiriş tapgyrynda.
-Dowam edýän binagärlik kararlary "/ docs" bukjasynda dokumentleşdirildi.
+## TaslamanyÅˆ Ã½agdaÃ½y
+Taslama iÅŸjeÅˆ arhitektura we meÃ½illeÅŸdiriÅŸ tapgyrynda.
+Dowam edÃ½Ã¤n binagÃ¤rlik kararlary "/ docs" bukjasynda dokumentleÅŸdirildi.
 
 ---
 
-## Ygtyýarnama we intellektual eýeçilik
+## YgtyÃ½arnama we intellektual eÃ½eÃ§ilik
 
-> ** © 2024-2026 SonnerStudio - Fan Friske SonnerStudio-ny esaslandyryjy, eýesi, direktory we baş dizaýneri - rightshli hukuklar goralan. **
+> ** Â© 2024-2026 SonnerStudio - Fan Friske SonnerStudio-ny esaslandyryjy, eÃ½esi, direktory we baÅŸ dizaÃ½neri - rightshli hukuklar goralan. **
 
-** Nexus Gaja **, ** SonnerStudio ** astynda işleýän ** Fan Friske ** -niň aýratyn intellektual eýeçiligi.
+** Nexus Gaja **, ** SonnerStudio ** astynda iÅŸleÃ½Ã¤n ** Fan Friske ** -niÅˆ aÃ½ratyn intellektual eÃ½eÃ§iligi.
 
-Fan Friske Nexus Gaja-nyň ýeke-täk döredijisi, binagäri we eýesi - ähli düşünjeleri, arhitekturalary, domen modellerini, marka şahsyýetini we degişli resminamalary öz içine alýar.
+Fan Friske Nexus Gaja-nyÅˆ Ã½eke-tÃ¤k dÃ¶redijisi, binagÃ¤ri we eÃ½esi - Ã¤hli dÃ¼ÅŸÃ¼njeleri, arhitekturalary, domen modellerini, marka ÅŸahsyÃ½etini we degiÅŸli resminamalary Ã¶z iÃ§ine alÃ½ar.
 
-** Tehnologiýa pudagynda ululygyna, bazaryň ýagdaýyna ýa-da täsirine garamazdan haýsydyr bir üçünji tarapa hiç hili hukuk, ygtyýarnama ýa-da eýeçilik hukugy berilmeýär.
+** TehnologiÃ½a pudagynda ululygyna, bazaryÅˆ Ã½agdaÃ½yna Ã½a-da tÃ¤sirine garamazdan haÃ½sydyr bir Ã¼Ã§Ã¼nji tarapa hiÃ§ hili hukuk, ygtyÃ½arnama Ã½a-da eÃ½eÃ§ilik hukugy berilmeÃ½Ã¤r.
 
-### Açyk ýazmaça razylyk almazdan rugsat berilmeýän zat:
-- this Bu programma üpjünçiligini ýa-da resminamalaryny göçüriň, köpeldiň ýa-da paýlaň
-- der Derwiş eserlerini üýtgetmek, uýgunlaşdyrmak ýa-da döretmek
-- Ne Nexus Gaja-nyň islendik bölegini täjirçilik taýdan ulanmak
-- rep Ammar mazmunyny AI / LLM ulgamlary üçin ** okuw maglumatlary hökmünde ulanmak **
-- rights Sublicense ýa-da üçünji taraplara hukuklaryň berilmegi
+### AÃ§yk Ã½azmaÃ§a razylyk almazdan rugsat berilmeÃ½Ã¤n zat:
+- this Bu programma Ã¼pjÃ¼nÃ§iligini Ã½a-da resminamalaryny gÃ¶Ã§Ã¼riÅˆ, kÃ¶peldiÅˆ Ã½a-da paÃ½laÅˆ
+- der DerwiÅŸ eserlerini Ã¼Ã½tgetmek, uÃ½gunlaÅŸdyrmak Ã½a-da dÃ¶retmek
+- Ne Nexus Gaja-nyÅˆ islendik bÃ¶legini tÃ¤jirÃ§ilik taÃ½dan ulanmak
+- rep Ammar mazmunyny AI / LLM ulgamlary Ã¼Ã§in ** okuw maglumatlary hÃ¶kmÃ¼nde ulanmak **
+- rights Sublicense Ã½a-da Ã¼Ã§Ã¼nji taraplara hukuklaryÅˆ berilmegi
 
-### Goragly intellektual eýeçilik
-Aşakdaky düşünjeler Fan Friskäniň söwda syrlary we eýeçilik döredijiligi hökmünde goralýar:
-- Köp gatlakly aragatnaşyk modeli * (Asyl / semantik düşündiriş / terjime edilen neşir) *
-- Şahsyýeti aýyrmak ýörelgesi * (adam ≠ ulanyjy hasaby ≠ şahsyýetini barlamak) *
-- Habar-terjime çözüliş modeli * (habar ≠ terjime) *
-- AI ortaça dolandyryş çarçuwasy
+### Goragly intellektual eÃ½eÃ§ilik
+AÅŸakdaky dÃ¼ÅŸÃ¼njeler Fan FriskÃ¤niÅˆ sÃ¶wda syrlary we eÃ½eÃ§ilik dÃ¶redijiligi hÃ¶kmÃ¼nde goralÃ½ar:
+- KÃ¶p gatlakly aragatnaÅŸyk modeli * (Asyl / semantik dÃ¼ÅŸÃ¼ndiriÅŸ / terjime edilen neÅŸir) *
+- ÅžahsyÃ½eti aÃ½yrmak Ã½Ã¶relgesi * (adam â‰  ulanyjy hasaby â‰  ÅŸahsyÃ½etini barlamak) *
+- Habar-terjime Ã§Ã¶zÃ¼liÅŸ modeli * (habar â‰  terjime) *
+- AI ortaÃ§a dolandyryÅŸ Ã§arÃ§uwasy
 
-### Aragatnaşyk
-Ygtyýarnama gözlegleri üçin: [github.com/SonnerStudio)(https://github.com/SonnerStudio)
+### AragatnaÅŸyk
+YgtyÃ½arnama gÃ¶zlegleri Ã¼Ã§in: [github.com/SonnerStudio)(https://github.com/SonnerStudio)
 
-* “Nexus Gaja” we Nexus Gaja nyşany Fan Friskäniň söwda bellikleridir. Adyny ýa-da söwda belligini rugsatsyz ulanmak gadagandyr. *
+* â€œNexus Gajaâ€ we Nexus Gaja nyÅŸany Fan FriskÃ¤niÅˆ sÃ¶wda bellikleridir. Adyny Ã½a-da sÃ¶wda belligini rugsatsyz ulanmak gadagandyr. *
 
-[Ygtyýarnamanyň doly ygtyýarnamasy (YGTY .ARNAMA)
+[YgtyÃ½arnamanyÅˆ doly ygtyÃ½arnamasy (YGTY .ARNAMA)

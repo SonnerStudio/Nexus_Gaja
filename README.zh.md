@@ -3,6 +3,8 @@
 ![Nexus Gaja Logo](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
 
 <details>
 <summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>

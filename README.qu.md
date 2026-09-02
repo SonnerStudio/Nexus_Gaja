@@ -1,4 +1,4 @@
-# Nexo Gaja
+﻿# Nexo Gaja
 
 > *Huk mamallaqtapura thak kaypaq, mamallaqtapura hamut'anapaq*
 
@@ -7,134 +7,140 @@
 
 ![Nexus Gaja Hero](kapuykuna/img/nexus_hero.jpg)
 
-<details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+<details>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
+
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
-<details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+<details>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
+
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details> nisqa.
 
 **Nexus Gaja** nisqaqa huk yuyaysapa, contexto-consciente willanakuy llikam, pachantinpi willakuykunata tikranapaq ruwasqa.
 
-## Propósito y Visión
+## PropÃ³sito y VisiÃ³n
 
 ![Nexus Gaja Vision](kapuykuna/img/nexus_vision.jpg)
 
-Tukuy pachaman tukusqa pachapiqa, simiqa sapa kuti aswan hatun hark'akuqmi. Nexus Gajapa hatun munayninqa mana llamk'ayniyuq, yaykuy atikuq chaymanta contexto-chiqap willayta atichiymi - huk común simita rimaptinkupas manapas. 
+Tukuy pachaman tukusqa pachapiqa, simiqa sapa kuti aswan hatun hark'akuqmi. Nexus Gajapa hatun munayninqa mana llamk'ayniyuq, yaykuy atikuq chaymanta contexto-chiqap willayta atichiymi - huk comÃºn simita rimaptinkupas manapas. 
 
 Manam k'ulluchakuspa simikunata tikrayllachu, aswanqa **significado transferencia** nisqamanta. Nexus Gaja runakunata aswan ukhu nivelpi tinkuchin, matices culturales, regionales y contextuales nisqakunata hamutaspa, chiqap, chiqap rimanakuykunata atichispa.
 
-## Posibilidades y características
+## Posibilidades y caracterÃ­sticas
 - **Achka willakuykunata willanakuy**: Llamkanaqa manam qillqallatachu ruwan, aswanqa siq'ikunatapas, uyarinapaq, videotapas. Kayqa hunt'asqa yakuman chinkaykuq rimanakuykunata (e.g. video waqyaykuna utaq kunka willakuykunata) chiqa pachapi simikunap linderonkuna chimpapi saqillan.
-- **Sensibilidad del contexto**: Ironía, idioma, jargón hinaspa regional dialectokuna tariy, chaykunatam achka kutipi ñawpaqmantaraq tikraqkuna mana allinta entiendenku.
+- **Sensibilidad del contexto**: IronÃ­a, idioma, jargÃ³n hinaspa regional dialectokuna tariy, chaykunatam achka kutipi Ã±awpaqmantaraq tikraqkuna mana allinta entiendenku.
 - **Plataformakunapura llika**: Sapaq rimanakuykunapaq, foro q'ipikunapaq (rimaykunayuq qillqakuna) chaymanta pachantinpi ayllu tinkiyninkunapaq sapsi hina llamk'an.
 
 --- .
 
-## Arquitectura técnica (concepto central) nisqamanta.
+## Arquitectura tÃ©cnica (concepto central) nisqamanta.
 
 ![Nexus Gaja tikray yuyay](assets/img/nexus_translation.jpg)
 
-Nexus Gajapa técnico núcleonqa kikinmanta ruwasqa willakuypa ruwayninmi, chaymi kimsa qatakunapi sinchita rakisqa kachkan:
+Nexus Gajapa tÃ©cnico nÃºcleonqa kikinmanta ruwasqa willakuypa ruwayninmi, chaymi kimsa qatakunapi sinchita rakisqa kachkan:
 
 1. **Qallariy**: Kachaqpa kamasqan willanakuy objeto (willakuy) sapa kuti mana tikraqlla qhipan.
-2. **Interpretación Semántica**: Sistema nisqa mana simikunallatachu t’aqwin, aswanpas cheqaq significadota.
-3. **Target simi representación**: AI huk temporal utaq cached representación original kaqmanta ruwan sapalla chaskiqpaq munasqanku siminkumanhina. T’ikraykunaqa manan hayk’aqpas ñawpaq willakuytaqa qelqankuchu.
+2. **InterpretaciÃ³n SemÃ¡ntica**: Sistema nisqa mana simikunallatachu tâ€™aqwin, aswanpas cheqaq significadota.
+3. **Target simi representaciÃ³n**: AI huk temporal utaq cached representaciÃ³n original kaqmanta ruwan sapalla chaskiqpaq munasqanku siminkumanhina. Tâ€™ikraykunaqa manan haykâ€™aqpas Ã±awpaq willakuytaqa qelqankuchu.
 
 ### Contexto nisqamanta dependencia
-Tikraykunaqa manam hayk'appas Nexus Gaja nisqapi willakuykunata sapanchasqachu qhawanku. Motorqa tukuy jerarquía nisqatam qawarin:
-`Willakuy` → `Ñawpaq Willakuykuna` → `Q'iymanta rimay` → `Ayllu llaqta` → `Simi / suyu` → `Ruwaqpa munasqan`
+Tikraykunaqa manam hayk'appas Nexus Gaja nisqapi willakuykunata sapanchasqachu qhawanku. Motorqa tukuy jerarquÃ­a nisqatam qawarin:
+`Willakuy` â†’ `Ã‘awpaq Willakuykuna` â†’ `Q'iymanta rimay` â†’ `Ayllu llaqta` â†’ `Simi / suyu` â†’ `Ruwaqpa munasqan`
 
-### Allin ruway mañasqa tikraywan
-Tikrayqa **waqyasqa kaptin** (mañasqalla) recursokuna waqaychaypi ruwakun. Huk llamk'achiq willayta mañaptinqa, ñawpaqmanta rimayninman tikrasqa. Huk simipaq tikraykunaqa wiñaypaq waqaychasqam (caching) qhipaman tapuykunata anchata utqaylla ruwanapaq.
+### Allin ruway maÃ±asqa tikraywan
+Tikrayqa **waqyasqa kaptin** (maÃ±asqalla) recursokuna waqaychaypi ruwakun. Huk llamk'achiq willayta maÃ±aptinqa, Ã±awpaqmanta rimayninman tikrasqa. Huk simipaq tikraykunaqa wiÃ±aypaq waqaychasqam (caching) qhipaman tapuykunata anchata utqaylla ruwanapaq.
 
-## AI-wan kallpachasqa moderación (WP 1.8.4) .
+## AI-wan kallpachasqa moderaciÃ³n (WP 1.8.4) .
 
-![Nexus Gaja AI Moderación](kapuykuna/img/nexus_moderación.jpg)
+![Nexus Gaja AI ModeraciÃ³n](kapuykuna/img/nexus_moderaciÃ³n.jpg)
 
-AI yanapasqa moderación kaqwan, huk hatun llamk'ayta ruwayku ruru yuyaymanta arquitectura técnica kaqman chaymanta kunan UE kamachiykunata qhawayku (obligaciones de transparencia kaqmanta UE AI Ley kaqmanta Art. 50 kaqmanhina; Ley de Servicios Digitales kaqmanta justificaciones comprensibles kaqwan chaymanta akllanakuna objeción kaqpaq).
+AI yanapasqa moderaciÃ³n kaqwan, huk hatun llamk'ayta ruwayku ruru yuyaymanta arquitectura tÃ©cnica kaqman chaymanta kunan UE kamachiykunata qhawayku (obligaciones de transparencia kaqmanta UE AI Ley kaqmanta Art. 50 kaqmanhina; Ley de Servicios Digitales kaqmanta justificaciones comprensibles kaqwan chaymanta akllanakuna objeciÃ³n kaqpaq).
 
 ### 1. Sapaq kamachiy
-Arquitecturapaq aswan chaniyuq rimayqa kaymi: **Moderación AI nisqaqa huk qhaway sistemam manataqmi huk autónomo kamachiy sistemachu.**
+Arquitecturapaq aswan chaniyuq rimayqa kaymi: **ModeraciÃ³n AI nisqaqa huk qhaway sistemam manataqmi huk autÃ³nomo kamachiy sistemachu.**
 Runakunata pisilla yanapanapaqmi, manam mayqin yuyaykuna Nexus Gaja kaqpi kananpaq saqisqa kaqta riqsinapaqchu.
-Chhaynapin kinsa kaqkunata t’aqanchis:
-- **Detectar:** “Kaypiqa kanmanmi kamachikuypa contranpi.”
-- **Tasa:** “Ejemplopaq, kamachikuypa mana kasukuyninpa probabilidadninqa 94%m.”
-- **Decidiy:** “¿Ima ruwaytaq chiqaptapuni ruwakunqa?”
+Chhaynapin kinsa kaqkunata tâ€™aqanchis:
+- **Detectar:** â€œKaypiqa kanmanmi kamachikuypa contranpi.â€
+- **Tasa:** â€œEjemplopaq, kamachikuypa mana kasukuyninpa probabilidadninqa 94%m.â€
+- **Decidiy:** â€œÂ¿Ima ruwaytaq chiqaptapuni ruwakunqa?â€
 Kimsa kaq pataqa runawan controlasqa kanan tiyan hatun casos nisqapi.
 
-### 2. AI moderación nisqa kikin subsistema kanqa
+### 2. AI moderaciÃ³n nisqa kikin subsistema kanqa
 Huklla AI nisqap rantinpi, huk sinchi huch'uy llikam sayarichisqa kachkan:
 ```qillqa
-                 NEXUS GAJA AI MODERACIÓN nisqa
-                          │
-       ┌─────────────────── ┼──────────────────┐
-       │ │ │
-  Simi AI Waqaychay AI Engaña AI
-       │ │ │
-       ├─────────────────── ┴──────────────────┤
-       │ │ │
- Traducción Comportamiento Identidad
- Análisis Análisis Señales
-       │ │ │
-       └────────────────────────────────────┘
-                      ▼
+                 NEXUS GAJA AI MODERACIÃ“N nisqa
+                          â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â”‚ â”‚ â”‚
+  Simi AI Waqaychay AI EngaÃ±a AI
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+       â”‚ â”‚ â”‚
+ TraducciÃ³n Comportamiento Identidad
+ AnÃ¡lisis AnÃ¡lisis SeÃ±ales
+       â”‚ â”‚ â”‚
+       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+                      â–¼
                Riesgokuna chaninchanapaq
-                      │
-                      ▼
+                      â”‚
+                      â–¼
                Runa Repaso
 ```
 
-### 3. Aswan importante AI módulos nisqakuna
-Nexus Gajapaq isqun áreas de análisis especializados nisqakunam kan:
-- **M1 – Simi hamutay**: Simi, rimay, argot, ironía rikuchiqkunata, tikray sasachakuykunata riqsin.
-- **M2 – Toxicidad / Abuso Detección**: Insultos, ataques personales, acoso nisqakunata riqsin.
-- **M3 – Amenaza Detección**: Ima amenazas, chantajeas, violencia amenazas ima kanman chayta riqsin.
-- **M4 – Chiqninakuy / Deshumanización Detección**: Runakunaman ataques dirigidos nisqakunata riqsin, afiliaciones específicas nisqapi.
-- **M5 – Spam / Manipulation Detection**: Spam, bot comportamiento, coordinado manipulación nisqakunata tarin.
-- **M6 – Pantasqa tariy**: Sospechoso llullakuy munaykunata, phishing, ingeniería social nisqakunata tarin.
-- **M7 – Identidad Integridad**: Yupay hapiymanta, achka yupaykunamanta, harkay bypass kaqmanta señalkunata qhawan.
-- **M8 – Medios de comunicación nisqakunaq allin kaynin**: Siqikunata, uyarinapaq, videota, qillqakunata t’aqwin.
-- **M9 – Motor de Contexto**: Aswan chaniyuq módulo. Sapakama tarisqankuta huñun.
+### 3. Aswan importante AI mÃ³dulos nisqakuna
+Nexus Gajapaq isqun Ã¡reas de anÃ¡lisis especializados nisqakunam kan:
+- **M1 â€“ Simi hamutay**: Simi, rimay, argot, ironÃ­a rikuchiqkunata, tikray sasachakuykunata riqsin.
+- **M2 â€“ Toxicidad / Abuso DetecciÃ³n**: Insultos, ataques personales, acoso nisqakunata riqsin.
+- **M3 â€“ Amenaza DetecciÃ³n**: Ima amenazas, chantajeas, violencia amenazas ima kanman chayta riqsin.
+- **M4 â€“ Chiqninakuy / DeshumanizaciÃ³n DetecciÃ³n**: Runakunaman ataques dirigidos nisqakunata riqsin, afiliaciones especÃ­ficas nisqapi.
+- **M5 â€“ Spam / Manipulation Detection**: Spam, bot comportamiento, coordinado manipulaciÃ³n nisqakunata tarin.
+- **M6 â€“ Pantasqa tariy**: Sospechoso llullakuy munaykunata, phishing, ingenierÃ­a social nisqakunata tarin.
+- **M7 â€“ Identidad Integridad**: Yupay hapiymanta, achka yupaykunamanta, harkay bypass kaqmanta seÃ±alkunata qhawan.
+- **M8 â€“ Medios de comunicaciÃ³n nisqakunaq allin kaynin**: Siqikunata, uyarinapaq, videota, qillqakunata tâ€™aqwin.
+- **M9 â€“ Motor de Contexto**: Aswan chaniyuq mÃ³dulo. Sapakama tarisqankuta huÃ±un.
 
 ### 4. Imaraykutaq Motor de Contexto ancha chaniyuq
-Ch’uya simikuna maskhayqa manan suficientechu kanman. “Asikuspa wañuchiyman” nisqapiqa violencia semántica nisqa kachkan, ichaqa huk rikch’anachiymi. “Paqarinmi 8 p.m. wasinpa ñawpaqenpi disparasaq” chayqa hukniraymi. AI entiendenan tiyan ima niyta munan chay willakuy kay específico contextopi.
+Châ€™uya simikuna maskhayqa manan suficientechu kanman. â€œAsikuspa waÃ±uchiymanâ€ nisqapiqa violencia semÃ¡ntica nisqa kachkan, ichaqa huk rikchâ€™anachiymi. â€œPaqarinmi 8 p.m. wasinpa Ã±awpaqenpi disparasaqâ€ chayqa hukniraymi. AI entiendenan tiyan ima niyta munan chay willakuy kay especÃ­fico contextopi.
 
-### 5. Achka simipi moderación
-Moderacionqa manan simikunata tupachiyllachu. Nivel de significado nisqamanta t’aqwirinan (e.g. alemán idiomakuna vs. japonés idiomakuna vs. expresiones regionales).
+### 5. Achka simipi moderaciÃ³n
+Moderacionqa manan simikunata tupachiyllachu. Nivel de significado nisqamanta tâ€™aqwirinan (e.g. alemÃ¡n idiomakuna vs. japonÃ©s idiomakuna vs. expresiones regionales).
 
 ### 6. Qallariy simi + tikray
-Originalta, t’ikrakusqanmantawan sapaqmanta t’aqwirikun. Chayraqmi “Evaluación de Moderación Combinada” nisqa ruwakun. Chay hinapin Nexus Gaja nisqa yachayta atinman sichus kikin t’ikrayqa aswanta yaparqan icha cambiarqanchu icha manachu chayta.
+Originalta, tâ€™ikrakusqanmantawan sapaqmanta tâ€™aqwirikun. Chayraqmi â€œEvaluaciÃ³n de ModeraciÃ³n Combinadaâ€ nisqa ruwakun. Chay hinapin Nexus Gaja nisqa yachayta atinman sichus kikin tâ€™ikrayqa aswanta yaparqan icha cambiarqanchu icha manachu chayta.
 
-### 7. Confianza Puntuación
-Sapa AI chaninchayqa huk confianza valorta chaskikun (e.g. Probabilidad de amenaza: 0,96). Ichaqa: **Puntuación de Confianza ≠ Chiqap.** Puntuación 96% nisqalla niyta munan modelo ancha confianzayuq kasqanmanta clasificacionninpi, manam necesariamentechu usuario huchayuq kasqanmanta.
+### 7. Confianza PuntuaciÃ³n
+Sapa AI chaninchayqa huk confianza valorta chaskikun (e.g. Probabilidad de amenaza: 0,96). Ichaqa: **PuntuaciÃ³n de Confianza â‰  Chiqap.** PuntuaciÃ³n 96% nisqalla niyta munan modelo ancha confianzayuq kasqanmanta clasificacionninpi, manam necesariamentechu usuario huchayuq kasqanmanta.
 
-### 8. Kikin mana seguro kayqa señalmanmi tukupun
-Sichus AI mana segurochu (e.g. Amenaza: 0,62, Sátira: 0,54), mana sinchi ruwaytalla ruwayta atinmanchu. Aswanpas, mana seguro kayqa chiqapmi arquitectura nisqapi ruwasqa kachkan: **Runapa qawariyninmi mañasqa**.
+### 8. Kikin mana seguro kayqa seÃ±almanmi tukupun
+Sichus AI mana segurochu (e.g. Amenaza: 0,62, SÃ¡tira: 0,54), mana sinchi ruwaytalla ruwayta atinmanchu. Aswanpas, mana seguro kayqa chiqapmi arquitectura nisqapi ruwasqa kachkan: **Runapa qawariyninmi maÃ±asqa**.
 
 ### 9. Tawa tanteanapaq ruwaykuna
-- 🟢 **VERDE**: Aswantaqa hunt'aq. → mana ima ruwaypas.
-- 🟡 **Q’ILLU**: Posible violación. → qhawariy / necesario kaqtinqa reparay.
-- 🟠 **NARANJA**: Probable violación. → Moderación nisqamanta qhaway.
-- 🔴 **PUKA**: Hatun posible violación. → chaylla harkakuy + runa prueba.
+- ðŸŸ¢ **VERDE**: Aswantaqa hunt'aq. â†’ mana ima ruwaypas.
+- ðŸŸ¡ **Qâ€™ILLU**: Posible violaciÃ³n. â†’ qhawariy / necesario kaqtinqa reparay.
+- ðŸŸ  **NARANJA**: Probable violaciÃ³n. â†’ ModeraciÃ³n nisqamanta qhaway.
+- ðŸ”´ **PUKA**: Hatun posible violaciÃ³n. â†’ chaylla harkakuy + runa prueba.
 
-### 10. Mana “AI wanachiy” .
-**AI mana qhipa sancionkunata churanchu.** Chayqa medidas técnicas emergencia kaqmanta (e.g. willayta hark'ay) llamk'achiyta atin sichus sinchi seguridadmanta llakikuy kaqtin, ichaqa qhipa tanteayqa chiqaqchasqallapuni kachkan.
+### 10. Mana â€œAI wanachiyâ€ .
+**AI mana qhipa sancionkunata churanchu.** Chayqa medidas tÃ©cnicas emergencia kaqmanta (e.g. willayta hark'ay) llamk'achiyta atin sichus sinchi seguridadmanta llakikuy kaqtin, ichaqa qhipa tanteayqa chiqaqchasqallapuni kachkan.
 
 ### 11. Amachaykunaqa kikillanmantam kanman
-Sichus huk amenaza específica kan (Amenaza tarisqa → Alta confianza → Restricción temporal → Runa qhaway → Decisión), amenazasqa usuariota harkayku mana AI juez ruwaspa.
+Sichus huk amenaza especÃ­fica kan (Amenaza tarisqa â†’ Alta confianza â†’ RestricciÃ³n temporal â†’ Runa qhaway â†’ DecisiÃ³n), amenazasqa usuariota harkayku mana AI juez ruwaspa.
 
 ### 12. AIqa atinanmi decidisqanmanta chaninchayta
-DSA nisqapiqa sut’i, sut’i razonkunatan mañakun. Chay AI razonkuna huk estructurasqa hina: Kamachiy (NG-CONDUCT-004), Detectado (Potencial amenaza concreta), Confianza (0,94), Contexto relevante (Ñawpaq 4 willakuykuna), Ruway yuyaychasqa (Runa qhaway).
+DSA nisqapiqa sutâ€™i, sutâ€™i razonkunatan maÃ±akun. Chay AI razonkuna huk estructurasqa hina: Kamachiy (NG-CONDUCT-004), Detectado (Potencial amenaza concreta), Confianza (0,94), Contexto relevante (Ã‘awpaq 4 willakuykuna), Ruway yuyaychasqa (Runa qhaway).
 
 ### 13. AI mana pakallapichu contenidota tikrayta atikun
-**Moderación AI mana hayk'aqpas ñawpaq contenidota mana reparasqa tikrananchu tiyan.** Kikinmanta allichaykuna, tikraykuna utaq resumenkuna ñawpaq contenidota waqaychanku.
+**ModeraciÃ³n AI mana hayk'aqpas Ã±awpaq contenidota mana reparasqa tikrananchu tiyan.** Kikinmanta allichaykuna, tikraykuna utaq resumenkuna Ã±awpaq contenidota waqaychanku.
 
 ### 14. AI nisqawan ruwasqa contenido
 Sapaqchanchikmi: runapa kamasqan, AI yanapasqa, AIpa ruwasqan hinaspa AIwan manipulasqa. Kayqa contenido metadatos nisqap hukninmi tukun.
@@ -143,207 +149,207 @@ Sapaqchanchikmi: runapa kamasqan, AI yanapasqa, AIpa ruwasqan hinaspa AIwan mani
 UE AI kamachiypa sut'i kaynin kamachiykunamanhina (2026 watapi agosto killamanta), AI-manta ruwasqa contenido riqsisqa ruwasqa kanan tiyan. Huk AI Provenance Layer kaqmanta yuyaykuyku mayqinchus metadatos (AI origin, modelo, tiempo sello, runa qhaway) waqaychan.
 
 ### 16. Ukhu ukupi tariy
-Chay arquitecturaqa sintética nisqa imaymanakunata, kallpachasqa kunkakunata, ukhunchasqakunata ima riqsinanpaqmi. Ichaqa reqsikuyqa manan kikillanmantachu prueba.
+Chay arquitecturaqa sintÃ©tica nisqa imaymanakunata, kallpachasqa kunkakunata, ukhunchasqakunata ima riqsinanpaqmi. Ichaqa reqsikuyqa manan kikillanmantachu prueba.
 
-### 17. Mana kikinmanta “chiqap makina” (moderación ≠ chiqap qhaway) .
-Huk sistema qhawan: “¿Contenido ima kamachikuykunatapas p’akinchu?”, nispa. (Moderación de Contenido), hukninmi qun: "Ima willakuy hinaspa pukyukuna kan?" (Willakuy Yanapakuy). Yuyaykunataqa manan “mana allin” nispallachu borranku.
+### 17. Mana kikinmanta â€œchiqap makinaâ€ (moderaciÃ³n â‰  chiqap qhaway) .
+Huk sistema qhawan: â€œÂ¿Contenido ima kamachikuykunatapas pâ€™akinchu?â€, nispa. (ModeraciÃ³n de Contenido), hukninmi qun: "Ima willakuy hinaspa pukyukuna kan?" (Willakuy Yanapakuy). Yuyaykunataqa manan â€œmana allinâ€ nispallachu borranku.
 
 ### 18. Cultural pantasqa interpretacionmanta harkakuy
 AI **Modelos de Contexto Cultural** nisqakunata kamachin, huk suyupa willakuy norma nisqa pachantinpi kamachiy hina mana chaskisqa kananpaq.
 
-### 19. Ironía, sátira y humor
-AI contexto, emojis, rimanakuy flujos chaymanta allin riqsisqa ironía estructurakuna llamk'achin, ichaqa mana seguridadta saqinan tiyan mayk'aqchus significados mana sut'ichu kanku.
+### 19. IronÃ­a, sÃ¡tira y humor
+AI contexto, emojis, rimanakuy flujos chaymanta allin riqsisqa ironÃ­a estructurakuna llamk'achin, ichaqa mana seguridadta saqinan tiyan mayk'aqchus significados mana sut'ichu kanku.
 
 ### 20. Mana muchuchiy huklla AI nisqapi hapipakuspa
-Mana huk sinchi moderación intervencionqa huklla automatizada clasificación ruwayllapichu kanman (Texto + Contexto + Comportamiento + Lengua + Medios de comunicación + Motor de Reglas = Evaluación de Riesgos).
+Mana huk sinchi moderaciÃ³n intervencionqa huklla automatizada clasificaciÃ³n ruwayllapichu kanman (Texto + Contexto + Comportamiento + Lengua + Medios de comunicaciÃ³n + Motor de Reglas = EvaluaciÃ³n de Riesgos).
 
-### 21. Usuariopa Comportamientonmanta Señales & Mana Sistema de Crédito Social nisqayuq
-Chayqa técnico abuso señalkunamanta (e.g. spam achka churaymanta), mana huk general social calificación sistema kaqmantachu. Nexus Gaja mana sistema de crédito socialta llamk'achinchu - moderación nisqa seguridadpaq chaymanta mana runap chaninninta chaninchanapaqchu.
+### 21. Usuariopa Comportamientonmanta SeÃ±ales & Mana Sistema de CrÃ©dito Social nisqayuq
+Chayqa tÃ©cnico abuso seÃ±alkunamanta (e.g. spam achka churaymanta), mana huk general social calificaciÃ³n sistema kaqmantachu. Nexus Gaja mana sistema de crÃ©dito socialta llamk'achinchu - moderaciÃ³n nisqa seguridadpaq chaymanta mana runap chaninninta chaninchanapaqchu.
 
-### 22. Moderación AI auditable kanan tiyan
+### 22. ModeraciÃ³n AI auditable kanan tiyan
 Llapan tupaq makiwan ruwasqa tanteaykuna qillqasqa kanku (ID suceso kaqmanta, ID kamachiy, hapipakuy, runa qhaway, wakkuna) qatiy atiy kananpaq.
 
-### 23. Yanqa Positivokuna, Yanqa Negativokuna & Calidad Métricas
-Pantasqa layakuna qhawasqa kanku. Huk tabla de mando precisión, yuyariy chaymanta astawanqa **Tasa de Reversión de Apelación** (hayk'a apelaciones allin ruwasqa) tupun. 
+### 23. Yanqa Positivokuna, Yanqa Negativokuna & Calidad MÃ©tricas
+Pantasqa layakuna qhawasqa kanku. Huk tabla de mando precisiÃ³n, yuyariy chaymanta astawanqa **Tasa de ReversiÃ³n de ApelaciÃ³n** (hayk'a apelaciones allin ruwasqa) tupun. 
 
 ### 24. Simi chanin kay & tikraymanta chiqnikuy
-Moderación calidadqa llapa yanapasqa simikunapi tupachisqa kanan tiyan (Multilingual Moderation Benchmark). Sichus moderación ruwasqakuna originalwan t'ikraywan hukniray kanku (t'ikray ch'aqway), kayta sapan qhawana tiyan.
+ModeraciÃ³n calidadqa llapa yanapasqa simikunapi tupachisqa kanan tiyan (Multilingual Moderation Benchmark). Sichus moderaciÃ³n ruwasqakuna originalwan t'ikraywan hukniray kanku (t'ikray ch'aqway), kayta sapan qhawana tiyan.
 
-### 25. Arquitectura Propuesta & Política Motor
+### 25. Arquitectura Propuesta & PolÃ­tica Motor
 Kamachiykuna (kamachiy motor) mana sinchi-codificasqachu kanku AI modelokunaman. AI qhawaykunata qun, kamachiy motorqa kunan kamachiykunamanhina tanteayta ruwan. Kayqa **modelo tikrayta mana kamachiykunata tikraspa** saqillan.
 
 ### 26. Runakunaqa qhipa kamachiqmi qhipakunku
-- **NG-AI-MOD-001**: AI yanapan tariyta chaymanta clasificación, ichaqa mana runa qhawayta tikranchu sinchi tanteayta ruwachkaspa.
-- **NG-AI-MOD-002**: Automatizado moderación decisionkuna qatipanapaq, grabanapaq chaymanta chiqaqchasqa kananku tiyan.
+- **NG-AI-MOD-001**: AI yanapan tariyta chaymanta clasificaciÃ³n, ichaqa mana runa qhawayta tikranchu sinchi tanteayta ruwachkaspa.
+- **NG-AI-MOD-002**: Automatizado moderaciÃ³n decisionkuna qatipanapaq, grabanapaq chaymanta chiqaqchasqa kananku tiyan.
 
-**Resumen**: Tawa patayuq sistemata ruwachkayku: AI tariy, contexto chaymanta riesgokuna t'aqwiy, política motor chaymanta runa kamachiy. Kayqa sinchi automatizacionta atichin mana peligroso “AI juez hina” arquitecturata ruwaspa.
+**Resumen**: Tawa patayuq sistemata ruwachkayku: AI tariy, contexto chaymanta riesgokuna t'aqwiy, polÃ­tica motor chaymanta runa kamachiy. Kayqa sinchi automatizacionta atichin mana peligroso â€œAI juez hinaâ€ arquitecturata ruwaspa.
 
 ## Qullqichakuypa kamachikuyninkuna hinaspa qullqi yaykuypa ruwaynin (WP 1.10.1) .
 
 ![Nexus Gaja Finance Model](assets/img/nexus_finance.jpg)
 
-Für Nexus Gaja gilt ein sehr wichtiges ökonomisches Grundprinzip: **Keine klassische Werbung innerhalb der Plattform.**
-Damit unterscheidet sich Nexus Gaja bereits konzeptionell von vielen heutigen sozialen Netzwerken. Das bedeutet aber nicht: Nexus Gaja darf keinen kommerziellen Charakter besitzen. Im Gegenteil: Die Plattform muss wirtschaftlich tragfähig sein, damit ihr gesellschaftlicher Zweck dauerhaft bestehen kann. Die wirtschaftliche Tätigkeit ist also Mittel zum Zweck, nicht der eigentliche Zweck der Plattform.
+FÃ¼r Nexus Gaja gilt ein sehr wichtiges Ã¶konomisches Grundprinzip: **Keine klassische Werbung innerhalb der Plattform.**
+Damit unterscheidet sich Nexus Gaja bereits konzeptionell von vielen heutigen sozialen Netzwerken. Das bedeutet aber nicht: Nexus Gaja darf keinen kommerziellen Charakter besitzen. Im Gegenteil: Die Plattform muss wirtschaftlich tragfÃ¤hig sein, damit ihr gesellschaftlicher Zweck dauerhaft bestehen kann. Die wirtschaftliche TÃ¤tigkeit ist also Mittel zum Zweck, nicht der eigentliche Zweck der Plattform.
 
 ### 1. Grundsatz NG-FIN-001
 Nexus Gaja finanziert seinen Betrieb durch transparente, vom Nutzerinteresse getrennte Einnahmequellen und nicht durch die Vermarktung der Aufmerksamkeit oder personenbezogener Daten seiner Nutzer.
 
 ### 2. Keine klassische Werbung
-Nicht erlaubt wären insbesondere:
+Nicht erlaubt wÃ¤ren insbesondere:
 - Bannerwerbung
 - Pop-up-Werbung
 - automatisch eingespielte Werbevideos
-- gesponserte Beiträge im normalen Feed
+- gesponserte BeitrÃ¤ge im normalen Feed
 - personalisierte Werbeprofile
 - Verkauf von Nutzerprofilen
 - Verkauf personenbezogener Daten
-- Werbung, die sich aus privaten Gesprächen ableitet.
+- Werbung, die sich aus privaten GesprÃ¤chen ableitet.
 
-Damit bleibt der Kommunikationsraum: **Kommunikationsraum statt Werbefläche.**
+Damit bleibt der Kommunikationsraum: **Kommunikationsraum statt WerbeflÃ¤che.**
 
 ### 3. Finanzierung ohne Werbung
-Unsere Finanzierung kann stattdessen aus mehreren Säulen bestehen. Wir schlagen zunächst sechs Säulen vor:
+Unsere Finanzierung kann stattdessen aus mehreren SÃ¤ulen bestehen. Wir schlagen zunÃ¤chst sechs SÃ¤ulen vor:
 ```text
                  NEXUS GAJA
-                     │
-       ┌─────────────┼─────────────┐
-       ▼             ▼             ▼
+                     â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â–¼             â–¼             â–¼
    PREMIUM       ORGANISATION    SPENDEN
-       │             │             │
-       ├─────────────┼─────────────┤
-       ▼             ▼             ▼
-   FÖRDERUNG      PARTNERSCHAFT   DIENSTE
+       â”‚             â”‚             â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+       â–¼             â–¼             â–¼
+   FÃ–RDERUNG      PARTNERSCHAFT   DIENSTE
 ```
 
-#### Säule 1 – Freie Grundmitgliedschaft
-**Nexus Gaja Free:** Die grundlegende Teilnahme an der Völkerverständigung sollte nicht davon abhängen, ob jemand Geld besitzt. Kostenlos ermöglicht werden: persönliches Profil, internationale Kommunikation, Beiträge, Kommentare, grundlegende Übersetzung, Communities, Chats, grundlegende Medienfunktionen.
+#### SÃ¤ule 1 â€“ Freie Grundmitgliedschaft
+**Nexus Gaja Free:** Die grundlegende Teilnahme an der VÃ¶lkerverstÃ¤ndigung sollte nicht davon abhÃ¤ngen, ob jemand Geld besitzt. Kostenlos ermÃ¶glicht werden: persÃ¶nliches Profil, internationale Kommunikation, BeitrÃ¤ge, Kommentare, grundlegende Ãœbersetzung, Communities, Chats, grundlegende Medienfunktionen.
 
-#### Säule 2 – Premium-Angebote
-Freiwillige kostenpflichtige Angebote (**Nexus Gaja Plus**). Denkbare Vorteile: größere Speicherlimits, höhere Medienqualität, längere Videoübertragungen, erweiterte Übersetzungsfunktionen, größere Communities, zusätzliche Organisationsfunktionen, höhere KI-Kontingente.
-**Freemium – aber nicht „Dark Freemium“:** Die kostenlose Version ist sinnvoll nutzbar; Premium erweitert sie.
+#### SÃ¤ule 2 â€“ Premium-Angebote
+Freiwillige kostenpflichtige Angebote (**Nexus Gaja Plus**). Denkbare Vorteile: grÃ¶ÃŸere Speicherlimits, hÃ¶here MedienqualitÃ¤t, lÃ¤ngere VideoÃ¼bertragungen, erweiterte Ãœbersetzungsfunktionen, grÃ¶ÃŸere Communities, zusÃ¤tzliche Organisationsfunktionen, hÃ¶here KI-Kontingente.
+**Freemium â€“ aber nicht â€žDark Freemiumâ€œ:** Die kostenlose Version ist sinnvoll nutzbar; Premium erweitert sie.
 
-#### Säule 3 – Organisationen
-**Nexus Gaja Organization:** Spezielle Konten für Schulen, Universitäten, Vereine, NGOs, Unternehmen, Kommunen usw., mit zentralem Organisationskonto, Mitgliederverwaltung und Admin-Funktionen. (Beispiel: Eine Schule erhält Schülerzugänge kostenlos oder über einen institutionellen Tarif).
+#### SÃ¤ule 3 â€“ Organisationen
+**Nexus Gaja Organization:** Spezielle Konten fÃ¼r Schulen, UniversitÃ¤ten, Vereine, NGOs, Unternehmen, Kommunen usw., mit zentralem Organisationskonto, Mitgliederverwaltung und Admin-Funktionen. (Beispiel: Eine Schule erhÃ¤lt SchÃ¼lerzugÃ¤nge kostenlos oder Ã¼ber einen institutionellen Tarif).
 
-#### Säule 4 – Spenden
-**Nexus Gaja Förderfonds:** Spender können freiwillig Geld zur Verfügung stellen (allgemeine oder zweckgebundene Spenden). 
-**Förderpool und Tombola:** Kostenlose bzw. vergünstigte Nutzung wird aus einem Spendenpool finanziert. Ein Fund Allocation Ledger stellt die Zweckbindung sicher.
+#### SÃ¤ule 4 â€“ Spenden
+**Nexus Gaja FÃ¶rderfonds:** Spender kÃ¶nnen freiwillig Geld zur VerfÃ¼gung stellen (allgemeine oder zweckgebundene Spenden). 
+**FÃ¶rderpool und Tombola:** Kostenlose bzw. vergÃ¼nstigte Nutzung wird aus einem Spendenpool finanziert. Ein Fund Allocation Ledger stellt die Zweckbindung sicher.
 ```text
-DONATIONS → PURPOSE FUND → ELIGIBILITY ENGINE → Free access / Discount / Quota
+DONATIONS â†’ PURPOSE FUND â†’ ELIGIBILITY ENGINE â†’ Free access / Discount / Quota
 ```
 
-#### Säule 5 – Institutionelle Förderung
-Förderer: Stiftungen, Kulturförderprogramme, staatliche Förderprogramme.
-**NG-FIN-002 (Unabhängigkeit):** Finanzielle Förderung darf keine redaktionelle oder technische Kontrolle über Nexus Gaja kaufen.
+#### SÃ¤ule 5 â€“ Institutionelle FÃ¶rderung
+FÃ¶rderer: Stiftungen, KulturfÃ¶rderprogramme, staatliche FÃ¶rderprogramme.
+**NG-FIN-002 (UnabhÃ¤ngigkeit):** Finanzielle FÃ¶rderung darf keine redaktionelle oder technische Kontrolle Ã¼ber Nexus Gaja kaufen.
 
-#### Säule 6 – Kommerzielle Dienstleistungen
-Nexus Gaja kann B2B-Dienstleistungen anbieten, wie z.B. **Translation-as-a-Service (API)**, professionelle Übersetzung, Organisationskommunikation oder internationale Konferenzräume, ohne den normalen Nutzerfeed mit Werbung zu belasten.
+#### SÃ¤ule 6 â€“ Kommerzielle Dienstleistungen
+Nexus Gaja kann B2B-Dienstleistungen anbieten, wie z.B. **Translation-as-a-Service (API)**, professionelle Ãœbersetzung, Organisationskommunikation oder internationale KonferenzrÃ¤ume, ohne den normalen Nutzerfeed mit Werbung zu belasten.
 
 
 
-### 4. Keine Datenvermarktung und keine „Surveillance Economy“
-**NG-FIN-003:** Personenbezogene Nutzerdaten sind kein Handelsgut von Nexus Gaja. (Kein Verkauf von Profilen, Historien, Identitätsdaten). 
-Nexus Gaja soll nicht davon profitieren, dass seine Nutzer möglichst viel überwacht und psychologisch möglichst präzise klassifiziert werden.
+### 4. Keine Datenvermarktung und keine â€žSurveillance Economyâ€œ
+**NG-FIN-003:** Personenbezogene Nutzerdaten sind kein Handelsgut von Nexus Gaja. (Kein Verkauf von Profilen, Historien, IdentitÃ¤tsdaten). 
+Nexus Gaja soll nicht davon profitieren, dass seine Nutzer mÃ¶glichst viel Ã¼berwacht und psychologisch mÃ¶glichst prÃ¤zise klassifiziert werden.
 
 ### 5. Finanzielle Transparenz
-Nexus Gaja Financial Transparency: Veröffentlichbar sind Einnahmen nach Kategorien, Spendenvolumen, Betriebskosten etc. 
-**Fördermittel-Ledger:** Zweckgebundene Spenden werden buchhalterisch nachvollziehbar erfasst (Donation → Fund ID → Purpose → Available Balance → Allocation). Es gibt keine Quersubventionierung ohne Transparenz.
+Nexus Gaja Financial Transparency: VerÃ¶ffentlichbar sind Einnahmen nach Kategorien, Spendenvolumen, Betriebskosten etc. 
+**FÃ¶rdermittel-Ledger:** Zweckgebundene Spenden werden buchhalterisch nachvollziehbar erfasst (Donation â†’ Fund ID â†’ Purpose â†’ Available Balance â†’ Allocation). Es gibt keine Quersubventionierung ohne Transparenz.
 
 ### 6. Preisgestaltung und Solidarisches Finanzierungsmodell
-Die Preise orientieren sich an: Kostenorientierung, Fairness und Solidarität.
-**Solidarisches Premium:** Ein Premium-Nutzer kann freiwillig wählen: „Ich finanziere einen Teil des Zugangs eines anderen Nutzers.“ Zwangssolidarität oder eine Premium-Klassengesellschaft (weniger Respekt oder schlechtere Moderation für Free-Nutzer) ist ausgeschlossen.
+Die Preise orientieren sich an: Kostenorientierung, Fairness und SolidaritÃ¤t.
+**Solidarisches Premium:** Ein Premium-Nutzer kann freiwillig wÃ¤hlen: â€žIch finanziere einen Teil des Zugangs eines anderen Nutzers.â€œ ZwangssolidaritÃ¤t oder eine Premium-Klassengesellschaft (weniger Respekt oder schlechtere Moderation fÃ¼r Free-Nutzer) ist ausgeschlossen.
 
 ### 7. Wirtschaftliche KPI
-Wir sind nicht abhängig von endloser Online-Zeit (keine manipulative Engagement-Ökonomie). Unsere KPIs:
+Wir sind nicht abhÃ¤ngig von endloser Online-Zeit (keine manipulative Engagement-Ã–konomie). Unsere KPIs:
 - **Global Communication Index (GCI):** Wie viele erfolgreiche Kommunikationsbeziehungen entstehen zwischen Menschen unterschiedlicher Sprach- oder Kulturregionen?
-- **Platform Sustainability Ratio (PSR):** wiederkehrende Einnahmen / wiederkehrende Betriebskosten (Ziel: PSR ≥ 1).
+- **Platform Sustainability Ratio (PSR):** wiederkehrende Einnahmen / wiederkehrende Betriebskosten (Ziel: PSR â‰¥ 1).
 
-### 8. Was wir ausdrücklich nicht wollen
+### 8. Was wir ausdrÃ¼cklich nicht wollen
 Nexus Gaja finanziert sich nicht durch:
-❌ Verkauf personenbezogener Daten
-❌ personalisierte klassische Werbung
-❌ Überwachung des Nutzerverhaltens zum Werbezweck
-❌ Verkauf privater Kommunikationsdaten
-❌ versteckte KI-Datennutzung
-❌ manipulative Premium-Sperren
-❌ künstliche Reichweitenbeschränkung zur Monetarisierung
-❌ bezahlte politische Einflussnahme
-❌ Kauf privilegierter Moderationsentscheidungen.
+âŒ Verkauf personenbezogener Daten
+âŒ personalisierte klassische Werbung
+âŒ Ãœberwachung des Nutzerverhaltens zum Werbezweck
+âŒ Verkauf privater Kommunikationsdaten
+âŒ versteckte KI-Datennutzung
+âŒ manipulative Premium-Sperren
+âŒ kÃ¼nstliche ReichweitenbeschrÃ¤nkung zur Monetarisierung
+âŒ bezahlte politische Einflussnahme
+âŒ Kauf privilegierter Moderationsentscheidungen.
 
-### 9. Vorläufige Architektur
+### 9. VorlÃ¤ufige Architektur
 ```text
                          NEXUS GAJA
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
+                              â”‚
+             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+             â”‚                â”‚                â”‚
+             â–¼                â–¼                â–¼
           USERS          ORGANIZATIONS      ENTERPRISE
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
+             â”‚                â”‚                â”‚
+             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+                              â”‚
                        PLATFORM SERVICES
-                              │
-          ┌───────────────────┼───────────────────┐
-          ▼                   ▼                   ▼
+                              â”‚
+          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+          â–¼                   â–¼                   â–¼
        PREMIUM             DONATIONS            API
-                              │
-                    ┌─────────┴─────────┐
-                    ▼                   ▼
+                              â”‚
+                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+                    â–¼                   â–¼
                GENERAL FUND       RESTRICTED FUNDS
-                                        │
-                                        ▼
+                                        â”‚
+                                        â–¼
                                   SOCIAL PURPOSE
 ```
 
 
 
-### Zusammenfassung: Finanzierungsgrundsätze (NG-FIN)
+### Zusammenfassung: FinanzierungsgrundsÃ¤tze (NG-FIN)
 - **NG-FIN-001:** Nexus Gaja wird nicht durch klassische Werbung finanziert.
-- **NG-FIN-002:** Finanzielle Unterstützung begründet keinen Einfluss auf Moderation oder Governance.
+- **NG-FIN-002:** Finanzielle UnterstÃ¼tzung begrÃ¼ndet keinen Einfluss auf Moderation oder Governance.
 - **NG-FIN-003:** Personenbezogene Nutzerdaten sind kein Handelsgut.
-- **NG-FIN-004:** Die grundlegende internationale Kommunikationsfunktion soll grundsätzlich auch ohne Zahlung zugänglich bleiben.
-- **NG-FIN-005:** Premium-Angebote erweitern den Leistungsumfang, dürfen aber die Würde und grundlegenden Kommunikationsmöglichkeiten kostenloser Nutzer nicht herabsetzen.
+- **NG-FIN-004:** Die grundlegende internationale Kommunikationsfunktion soll grundsÃ¤tzlich auch ohne Zahlung zugÃ¤nglich bleiben.
+- **NG-FIN-005:** Premium-Angebote erweitern den Leistungsumfang, dÃ¼rfen aber die WÃ¼rde und grundlegenden KommunikationsmÃ¶glichkeiten kostenloser Nutzer nicht herabsetzen.
 - **NG-FIN-006:** Zweckgebundene Mittel werden zweckgebunden verwaltet.
-- **NG-FIN-007:** Spenden und Fördermittel werden transparent und nachvollziehbar verwaltet.
-- **NG-FIN-008:** Kommerzielle Dienstleistungen dürfen die Unabhängigkeit der Plattform nicht beeinträchtigen.
+- **NG-FIN-007:** Spenden und FÃ¶rdermittel werden transparent und nachvollziehbar verwaltet.
+- **NG-FIN-008:** Kommerzielle Dienstleistungen dÃ¼rfen die UnabhÃ¤ngigkeit der Plattform nicht beeintrÃ¤chtigen.
 - **NG-FIN-009:** Die wirtschaftliche Entwicklung von Nexus Gaja soll auf langfristige Nachhaltigkeit und nicht auf maximale Nutzer-Monetarisierung ausgerichtet sein.
-- **NG-FIN-010:** Die wirtschaftliche Struktur soll den gesellschaftlichen Zweck – Völkerverständigung, internationale Kommunikation und Völkerfreundschaft – dauerhaft ermöglichen.
+- **NG-FIN-010:** Die wirtschaftliche Struktur soll den gesellschaftlichen Zweck â€“ VÃ¶lkerverstÃ¤ndigung, internationale Kommunikation und VÃ¶lkerfreundschaft â€“ dauerhaft ermÃ¶glichen.
 
 ## API-, Schnittstellen- und Kommunikationsarchitektur (WP 1.11.3)
 
-Um Systemstabilität, Sicherheit und Skalierbarkeit zu gewährleisten, verfolgt Nexus Gaja eine strikt API-basierte und Event-gesteuerte Architektur.
+Um SystemstabilitÃ¤t, Sicherheit und Skalierbarkeit zu gewÃ¤hrleisten, verfolgt Nexus Gaja eine strikt API-basierte und Event-gesteuerte Architektur.
 
 ### Grundprinzipien
-- **Kein direkter Datenbankzugriff:** Komponenten kommunizieren ausschließlich über definierte Schnittstellen (APIs oder Events), niemals durch direkte Datenbankabfragen anderer Services.
-- **API Gateway:** Alle externen Client-Anfragen laufen über ein API Gateway, das Authentifizierung, Routing und Rate-Limiting übernimmt.
-- **Provider-Abstraktion:** Externe Dienste (KI-Modelle, Zahlungsanbieter, Übersetzungs-Engines) werden über Abstraktionsschichten integriert. Dies verhindert fest verdrahtete Abhängigkeiten und ermöglicht einen flexiblen Provider-Wechsel.
+- **Kein direkter Datenbankzugriff:** Komponenten kommunizieren ausschlieÃŸlich Ã¼ber definierte Schnittstellen (APIs oder Events), niemals durch direkte Datenbankabfragen anderer Services.
+- **API Gateway:** Alle externen Client-Anfragen laufen Ã¼ber ein API Gateway, das Authentifizierung, Routing und Rate-Limiting Ã¼bernimmt.
+- **Provider-Abstraktion:** Externe Dienste (KI-Modelle, Zahlungsanbieter, Ãœbersetzungs-Engines) werden Ã¼ber Abstraktionsschichten integriert. Dies verhindert fest verdrahtete AbhÃ¤ngigkeiten und ermÃ¶glicht einen flexiblen Provider-Wechsel.
 
 ### Kommunikationsmuster
-- **Synchrone APIs (REST/HTTPS):** Werden für unmittelbare Anfragen wie Login, Profileinstellungen oder direkte Übersetzungen genutzt.
-- **Asynchrone Events (Event Bus):** Das zentrale Nervensystem von Nexus Gaja für entkoppelte Prozesse (z. B. löst `Message.Created` asynchron Moderation, Übersetzung und Benachrichtigung aus).
-- **Echtzeit (WebSocket):** Dedizierte Kanäle für Live-Chat und Schreibstatus.
+- **Synchrone APIs (REST/HTTPS):** Werden fÃ¼r unmittelbare Anfragen wie Login, Profileinstellungen oder direkte Ãœbersetzungen genutzt.
+- **Asynchrone Events (Event Bus):** Das zentrale Nervensystem von Nexus Gaja fÃ¼r entkoppelte Prozesse (z. B. lÃ¶st `Message.Created` asynchron Moderation, Ãœbersetzung und Benachrichtigung aus).
+- **Echtzeit (WebSocket):** Dedizierte KanÃ¤le fÃ¼r Live-Chat und Schreibstatus.
 
-### Sicherheit und Zuverlässigkeit
-- **Zero-Trust-Modell:** Interner Netzwerkverkehr ist nicht automatisch vertrauenswürdig; sensible Service-to-Service-Kommunikation erfordert Authentifizierung.
-- **Idempotenz & Outbox-Pattern:** Kritische Vorgänge (wie Spenden oder Nachrichten) sind idempotent gestaltet, um Mehrfachverarbeitungen zu verhindern, und nutzen das Outbox-Pattern, damit Events auch bei Datenbanktransaktionen nicht verloren gehen.
+### Sicherheit und ZuverlÃ¤ssigkeit
+- **Zero-Trust-Modell:** Interner Netzwerkverkehr ist nicht automatisch vertrauenswÃ¼rdig; sensible Service-to-Service-Kommunikation erfordert Authentifizierung.
+- **Idempotenz & Outbox-Pattern:** Kritische VorgÃ¤nge (wie Spenden oder Nachrichten) sind idempotent gestaltet, um Mehrfachverarbeitungen zu verhindern, und nutzen das Outbox-Pattern, damit Events auch bei Datenbanktransaktionen nicht verloren gehen.
 
-## MVP-Domänenmodell (WP 1.12)
+## MVP-DomÃ¤nenmodell (WP 1.12)
 
 ![Nexus Gaja Modular Monolith](assets/img/nexus_architecture.jpg)
 
-Nexus Gaja nutzt eine strikt domänengetriebene MVP-Architektur (ADR-025), die als modularer Monolith mit klaren Domänengrenzen konzipiert ist. Diese Struktur verhindert frühzeitige Microservice-Komplexität und erhält gleichzeitig die Flexibilität, bestimmte Domänen später auszulagern.
+Nexus Gaja nutzt eine strikt domÃ¤nengetriebene MVP-Architektur (ADR-025), die als modularer Monolith mit klaren DomÃ¤nengrenzen konzipiert ist. Diese Struktur verhindert frÃ¼hzeitige Microservice-KomplexitÃ¤t und erhÃ¤lt gleichzeitig die FlexibilitÃ¤t, bestimmte DomÃ¤nen spÃ¤ter auszulagern.
 
 
 
-### Fachliche Kernentitäten
-Die Architektur trennt Konzepte strikt, um Datenintegrität zu sichern und Fehler wie „Benutzername = Mensch“ zu vermeiden:
-- **Identität & Konten:** `Person` ≠ `User Account` ≠ `Identity Verification`. Eine verifizierte Person nimmt über ein Konto teil, aber die Entitäten bleiben getrennt.
-- **Kommunikation:** `Message` ≠ `Translation`. Die Originalnachricht ist unveränderlich; Übersetzungen sind verknüpfte Entitäten.
-- **Moderation:** `Report` ≠ `Moderation Decision`. Eine Meldung ist nur ein Hinweis; ein Moderationsfall führt die Untersuchung durch.
-- **Finanzen:** `Donation` ≠ `Fund Balance`. Zahlungen werden unveränderlich über einen Ledger (Kassenbuch) in einen Fonds gebucht.
+### Fachliche KernentitÃ¤ten
+Die Architektur trennt Konzepte strikt, um DatenintegritÃ¤t zu sichern und Fehler wie â€žBenutzername = Menschâ€œ zu vermeiden:
+- **IdentitÃ¤t & Konten:** `Person` â‰  `User Account` â‰  `Identity Verification`. Eine verifizierte Person nimmt Ã¼ber ein Konto teil, aber die EntitÃ¤ten bleiben getrennt.
+- **Kommunikation:** `Message` â‰  `Translation`. Die Originalnachricht ist unverÃ¤nderlich; Ãœbersetzungen sind verknÃ¼pfte EntitÃ¤ten.
+- **Moderation:** `Report` â‰  `Moderation Decision`. Eine Meldung ist nur ein Hinweis; ein Moderationsfall fÃ¼hrt die Untersuchung durch.
+- **Finanzen:** `Donation` â‰  `Fund Balance`. Zahlungen werden unverÃ¤nderlich Ã¼ber einen Ledger (Kassenbuch) in einen Fonds gebucht.
 
-### Verbundene Fachdomänen
-Das System ist in logische Domänen (Bounded Contexts) gegliedert: Identity, Account, Organization, Communication, Community, Language, Moderation, Notification, Finance und Governance. Sie bilden die gesamte Kette von realen Akteuren (Nutzer, Schulen, NGOs) bis hin zu deren digitalen Interaktionen ab.
+### Verbundene FachdomÃ¤nen
+Das System ist in logische DomÃ¤nen (Bounded Contexts) gegliedert: Identity, Account, Organization, Communication, Community, Language, Moderation, Notification, Finance und Governance. Sie bilden die gesamte Kette von realen Akteuren (Nutzer, Schulen, NGOs) bis hin zu deren digitalen Interaktionen ab.
 
 ## Projektstatus
 Das Projekt befindet sich in der aktiven Architektur- und Planungsphase.
@@ -353,33 +359,33 @@ Laufende Architekturentscheidungen sind im Ordner `/docs` dokumentiert.
 
 ## Lizenz & Geistiges Eigentum
 
-> **© 2024–2026 SonnerStudio - Jan Friske Gründer, Inhaber, Direktor und Chefdesigner von SonnerStudio — Alle Rechte vorbehalten.**
+> **Â© 2024â€“2026 SonnerStudio - Jan Friske GrÃ¼nder, Inhaber, Direktor und Chefdesigner von SonnerStudio â€” Alle Rechte vorbehalten.**
 
-**Nexus Gaja** ist das ausschließliche geistige Eigentum von **Jan Friske**, tätig unter **SonnerStudio**.
+**Nexus Gaja** ist das ausschlieÃŸliche geistige Eigentum von **Jan Friske**, tÃ¤tig unter **SonnerStudio**.
 
-Jan Friske ist der alleinige Schöpfer, Architekt und Inhaber von Nexus Gaja — einschließlich aller Konzepte, Architekturen, Domänenmodelle, Markenidentität und zugehörigen Dokumentationen.
+Jan Friske ist der alleinige SchÃ¶pfer, Architekt und Inhaber von Nexus Gaja â€” einschlieÃŸlich aller Konzepte, Architekturen, DomÃ¤nenmodelle, MarkenidentitÃ¤t und zugehÃ¶rigen Dokumentationen.
 
-**Keinerlei Rechte, Lizenzen oder Eigentumsinteressen werden Dritten gewährt**, unabhängig von deren Größe, Marktstellung oder Einfluss in der Technologiebranche.
+**Keinerlei Rechte, Lizenzen oder Eigentumsinteressen werden Dritten gewÃ¤hrt**, unabhÃ¤ngig von deren GrÃ¶ÃŸe, Marktstellung oder Einfluss in der Technologiebranche.
 
-### Was NICHT ohne ausdrückliche schriftliche Zustimmung gestattet ist:
-- ❌ Kopieren, Vervielfältigen oder Verbreiten dieser Software oder ihrer Dokumentation
-- ❌ Modifizieren, Anpassen oder Erstellen abgeleiteter Werke
-- ❌ Kommerzielle Nutzung jeglicher Teile von Nexus Gaja
-- ❌ Verwendung des Repository-Inhalts als **Trainingsdaten für KI/LLM-Systeme**
-- ❌ Unterlizenzierung oder Übertragung von Rechten an Dritte
+### Was NICHT ohne ausdrÃ¼ckliche schriftliche Zustimmung gestattet ist:
+- âŒ Kopieren, VervielfÃ¤ltigen oder Verbreiten dieser Software oder ihrer Dokumentation
+- âŒ Modifizieren, Anpassen oder Erstellen abgeleiteter Werke
+- âŒ Kommerzielle Nutzung jeglicher Teile von Nexus Gaja
+- âŒ Verwendung des Repository-Inhalts als **Trainingsdaten fÃ¼r KI/LLM-Systeme**
+- âŒ Unterlizenzierung oder Ãœbertragung von Rechten an Dritte
 
-### Geschütztes geistiges Eigentum
-Folgende Originalkonzepte sind als Geschäftsgeheimnisse und proprietäre Schöpfungen von Jan Friske geschützt:
-- Das mehrschichtige Kommunikationsmodell *(Original / Semantische Interpretation / Übersetzte Ausgabe)*
-- Das Identitätstrennungsprinzip *(Person ≠ Benutzerkonto ≠ Identitätsverifikation)*
-- Das Nachricht-Übersetzungs-Entkopplungsmodell *(Nachricht ≠ Übersetzung)*
+### GeschÃ¼tztes geistiges Eigentum
+Folgende Originalkonzepte sind als GeschÃ¤ftsgeheimnisse und proprietÃ¤re SchÃ¶pfungen von Jan Friske geschÃ¼tzt:
+- Das mehrschichtige Kommunikationsmodell *(Original / Semantische Interpretation / Ãœbersetzte Ausgabe)*
+- Das IdentitÃ¤tstrennungsprinzip *(Person â‰  Benutzerkonto â‰  IdentitÃ¤tsverifikation)*
+- Das Nachricht-Ãœbersetzungs-Entkopplungsmodell *(Nachricht â‰  Ãœbersetzung)*
 - Das KI-Moderations-Governance-Framework
 
 ### Kontakt
-Für Lizenzanfragen: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+FÃ¼r Lizenzanfragen: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-*„Nexus Gaja" und das Nexus-Gaja-Logo sind Marken von Jan Friske. Die unbefugte Verwendung des Namens oder der Marke ist untersagt.*
+*â€žNexus Gaja" und das Nexus-Gaja-Logo sind Marken von Jan Friske. Die unbefugte Verwendung des Namens oder der Marke ist untersagt.*
 
-➡️ Vollständige Lizenzbedingungen in [LICENSE](LICENSE)
+âž¡ï¸ VollstÃ¤ndige Lizenzbedingungen in [LICENSE](LICENSE)
 
 

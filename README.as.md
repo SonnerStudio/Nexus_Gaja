@@ -1,22 +1,24 @@
-# Nexus Gaja
+﻿# Nexus Gaja
 
-> *Für Völkerfrieden und Völkerverständigung*
+> *FÃ¼r VÃ¶lkerfrieden und VÃ¶lkerverstÃ¤ndigung*
 
 
 ![Nexus Gaja Logo](assets/logo.jpg)
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
 
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 <details>
-<summary>🌍 Available in 201 Languages & Regions (Click to expand)</summary>
+<summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
 
-[English](README.md) | [Deutsch](README.de.md) | [Türkçe](README.tr.md) | [Español](README.es.md) | [中文](README.zh.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Nederlands](README.nl.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [বাংলা](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [ไทย](README.th.md) | [فارسی](README.fa.md) | [Українська](README.uk.md) | [Čeština](README.cs.md) | [Ελληνικά](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [Română](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [Slovenčina](README.sk.md) | [Hrvatski](README.hr.md) | [Български](README.bg.md) | [Српски](README.sr.md) | [Lietuvių](README.lt.md) | [Latviešu](README.lv.md) | [Eesti](README.et.md) | [Slovenščina](README.sl.md) | [עברית](README.he.md) | [Kiswahili](README.sw.md) | [አማርኛ](README.am.md) | [اردو](README.ur.md) | [मराठी](README.mr.md) | [తెలుగు](README.te.md) | [தமிழ்](README.ta.md) | [ગુજરાતી](README.gu.md) | [ಕನ್ನಡ](README.kn.md) | [മലയാളം](README.ml.md) | [ਪੰਜਾਬੀ](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [Oʻzbekcha](README.uz.md) | [Қазақша](README.kk.md) | [Azərbaycanca](README.az.md) | [ქართული](README.ka.md) | [Հայերեն](README.hy.md) | [ភាសាខ្មែរ](README.km.md) | [සිංහල](README.si.md) | [नेपाली](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [Македонски](README.mk.md) | [Íslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Беларуская](README.be.md) | [Монгол](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [Yorùbá](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [Kurdî](README.ku.md) | [پښتو](README.ps.md) | [سنڌي](README.sd.md) | [ଓଡ଼ିଆ](README.or.md) | [অসমীয়া](README.as.md) | [Bosanski](README.bs.md) | [ລາວ](README.lo.md) | [မြန်မာ](README.my.md) | [Тоҷикӣ](README.tg.md) | [Türkmençe](README.tk.md) | [繁體中文](README.zh-tw.md) | [Català](README.ca.md) | [Bisaya](README.ceb.md) | [Кыргызча](README.ky.md) | [ئۇيغۇرچە](README.ug.md) | [Afaan Oromoo](README.om.md) | [Lingála](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [ትግርኛ](README.ti.md) | [Bamanankan](README.bm.md) | [भोजपुरी](README.bho.md) | [मैथिली](README.mai.md) | [डोगरी](README.doi.md) | [संस्कृतम्](README.sa.md) | [कोंकणी](README.gom.md) | [মৈতৈলোন্](README.mni.md) | [Runa Simi](README.qu.md) | [Avañe'ẽ](README.gn.md) | [Aymar aru](README.ay.md) | [Kreyòl Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [ייִדיש](README.yi.md) | [Gaeilge](README.ga.md) | [کوردی (Sorani)](README.ckb.md) | [Gagana fa'a Sāmoa](README.sm.md) | [Татарча](README.tt.md) | [Corsu](README.co.md) | [ދިވެހި](README.dv.md) | [Eʋegbe](README.ee.md) | [Frysk](README.fy.md) | [ʻŌlelo Hawaiʻi](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [Lëtzebuergesch](README.lb.md) | [Māori](README.mi.md) | [Mizo](README.lus.md) | [Gàidhlig](README.gd.md) | [Xitsonga](README.ts.md) | [ᚱᚢᚾᛖᛋ (Futhark)](README.runes.md) | [Español (Argentina)](README.es-AR.md) | [Español (Bolivia)](README.es-BO.md) | [Español (Chile)](README.es-CL.md) | [Español (Colombia)](README.es-CO.md) | [Español (Costa Rica)](README.es-CR.md) | [Español (Cuba)](README.es-CU.md) | [Español (República Dominicana)](README.es-DO.md) | [Español (Ecuador)](README.es-EC.md) | [Español (El Salvador)](README.es-SV.md) | [Español (Guatemala)](README.es-GT.md) | [Español (Honduras)](README.es-HN.md) | [Español (México)](README.es-MX.md) | [Español (Nicaragua)](README.es-NI.md) | [Español (Panamá)](README.es-PA.md) | [Español (Paraguay)](README.es-PY.md) | [Español (Perú)](README.es-PE.md) | [Español (Puerto Rico)](README.es-PR.md) | [Español (Uruguay)](README.es-UY.md) | [Español (Venezuela)](README.es-VE.md) | [Español (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [Français (Canada)](README.fr-CA.md) | [Français (Belgique)](README.fr-BE.md) | [Français (Suisse)](README.fr-CH.md) | [Français (Sénégal)](README.fr-SN.md) | [Français (Côte d'Ivoire)](README.fr-CI.md) | [Français (Cameroun)](README.fr-CM.md) | [Français (Mali)](README.fr-ML.md) | [Français (RDC)](README.fr-CD.md) | [Français (Madagascar)](README.fr-MG.md) | [Français (Haïti)](README.fr-HT.md) | [Português (Brasil)](README.pt-BR.md) | [Português (Angola)](README.pt-AO.md) | [Português (Moçambique)](README.pt-MZ.md) | [Português (Cabo Verde)](README.pt-CV.md) | [Deutsch (Österreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (België)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [العربية (مصر)](README.ar-EG.md) | [العربية (السعودية)](README.ar-SA.md) | [العربية (الإمارات)](README.ar-AE.md) | [العربية (المغرب)](README.ar-MA.md) | [العربية (الجزائر)](README.ar-DZ.md) | [العربية (العراق)](README.ar-IQ.md) | [العربية (سوريا)](README.ar-SY.md) | [العربية (لبنان)](README.ar-LB.md) | [العربية (الأردن)](README.ar-JO.md) | [العربية (اليمن)](README.ar-YE.md) | [中文 (新加坡)](README.zh-SG.md) | [繁體中文 (香港)](README.zh-HK.md) | [繁體中文 (澳門)](README.zh-MO.md)
+[English](README.md) | [Deutsch](README.de.md) | [TÃ¼rkÃ§e](README.tr.md) | [EspaÃ±ol](README.es.md) | [ä¸­æ–‡](README.zh.md) | [FranÃ§ais](README.fr.md) | [Italiano](README.it.md) | [PortuguÃªs](README.pt.md) | [Nederlands](README.nl.md) | [Ð ÑƒÑÑÐºÐ¸Ð¹](README.ru.md) | [æ—¥æœ¬èªž](README.ja.md) | [í•œêµ­ì–´](README.ko.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©](README.ar.md) | [à¤¹à¤¿à¤¨à¥à¤¦à¥€](README.hi.md) | [à¦¬à¦¾à¦‚à¦²à¦¾](README.bn.md) | [Polski](README.pl.md) | [Bahasa Indonesia](README.id.md) | [Tiáº¿ng Viá»‡t](README.vi.md) | [à¹„à¸—à¸¢](README.th.md) | [ÙØ§Ø±Ø³ÛŒ](README.fa.md) | [Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°](README.uk.md) | [ÄŒeÅ¡tina](README.cs.md) | [Î•Î»Î»Î·Î½Î¹ÎºÎ¬](README.el.md) | [Magyar](README.hu.md) | [Svenska](README.sv.md) | [RomÃ¢nÄƒ](README.ro.md) | [Dansk](README.da.md) | [Suomi](README.fi.md) | [Norsk](README.no.md) | [SlovenÄina](README.sk.md) | [Hrvatski](README.hr.md) | [Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸](README.bg.md) | [Ð¡Ñ€Ð¿ÑÐºÐ¸](README.sr.md) | [LietuviÅ³](README.lt.md) | [LatvieÅ¡u](README.lv.md) | [Eesti](README.et.md) | [SlovenÅ¡Äina](README.sl.md) | [×¢×‘×¨×™×ª](README.he.md) | [Kiswahili](README.sw.md) | [áŠ áˆ›áˆ­áŠ›](README.am.md) | [Ø§Ø±Ø¯Ùˆ](README.ur.md) | [à¤®à¤°à¤¾à¤ à¥€](README.mr.md) | [à°¤à±†à°²à±à°—à±](README.te.md) | [à®¤à®®à®¿à®´à¯](README.ta.md) | [àª—à«àªœàª°àª¾àª¤à«€](README.gu.md) | [à²•à²¨à³à²¨à²¡](README.kn.md) | [à´®à´²à´¯à´¾à´³à´‚](README.ml.md) | [à¨ªà©°à¨œà¨¾à¨¬à©€](README.pa.md) | [Basa Jawa](README.jv.md) | [Bahasa Melayu](README.ms.md) | [Tagalog](README.tl.md) | [OÊ»zbekcha](README.uz.md) | [ÒšÐ°Ð·Ð°Ò›ÑˆÐ°](README.kk.md) | [AzÉ™rbaycanca](README.az.md) | [áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜](README.ka.md) | [Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶](README.hy.md) | [áž—áž¶ážŸáž¶ážáŸ’áž˜áŸ‚ážš](README.km.md) | [à·ƒà·’à¶‚à·„à¶½](README.si.md) | [à¤¨à¥‡à¤ªà¤¾à¤²à¥€](README.ne.md) | [isiZulu](README.zu.md) | [Afrikaans](README.af.md) | [Shqip](README.sq.md) | [ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](README.mk.md) | [Ãslenska](README.is.md) | [Cymraeg](README.cy.md) | [Euskara](README.eu.md) | [Galego](README.gl.md) | [Malti](README.mt.md) | [Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ](README.be.md) | [ÐœÐ¾Ð½Ð³Ð¾Ð»](README.mn.md) | [Soomaali](README.so.md) | [Hausa](README.ha.md) | [YorÃ¹bÃ¡](README.yo.md) | [Igbo](README.ig.md) | [isiXhosa](README.xh.md) | [Basa Sunda](README.su.md) | [Malagasy](README.mg.md) | [Ikinyarwanda](README.rw.md) | [Chichewa](README.ny.md) | [chiShona](README.sn.md) | [KurdÃ®](README.ku.md) | [Ù¾ÚšØªÙˆ](README.ps.md) | [Ø³Ù†ÚŒÙŠ](README.sd.md) | [à¬“à¬¡à¬¼à¬¿à¬†](README.or.md) | [à¦…à¦¸à¦®à§€à¦¯à¦¼à¦¾](README.as.md) | [Bosanski](README.bs.md) | [àº¥àº²àº§](README.lo.md) | [á€™á€¼á€”á€ºá€™á€¬](README.my.md) | [Ð¢Ð¾Ò·Ð¸ÐºÓ£](README.tg.md) | [TÃ¼rkmenÃ§e](README.tk.md) | [ç¹é«”ä¸­æ–‡](README.zh-tw.md) | [CatalÃ ](README.ca.md) | [Bisaya](README.ceb.md) | [ÐšÑ‹Ñ€Ð³Ñ‹Ð·Ñ‡Ð°](README.ky.md) | [Ø¦Û‡ÙŠØºÛ‡Ø±Ú†Û•](README.ug.md) | [Afaan Oromoo](README.om.md) | [LingÃ¡la](README.ln.md) | [Luganda](README.lg.md) | [Twi](README.ak.md) | [Sesotho](README.st.md) | [Sesotho sa Leboa](README.nso.md) | [á‰µáŒáˆ­áŠ›](README.ti.md) | [Bamanankan](README.bm.md) | [à¤­à¥‹à¤œà¤ªà¥à¤°à¥€](README.bho.md) | [à¤®à¥ˆà¤¥à¤¿à¤²à¥€](README.mai.md) | [à¤¡à¥‹à¤—à¤°à¥€](README.doi.md) | [à¤¸à¤‚à¤¸à¥à¤•à¥ƒà¤¤à¤®à¥](README.sa.md) | [à¤•à¥‹à¤‚à¤•à¤£à¥€](README.gom.md) | [à¦®à§ˆà¦¤à§ˆà¦²à§‹à¦¨à§](README.mni.md) | [Runa Simi](README.qu.md) | [AvaÃ±e'áº½](README.gn.md) | [Aymar aru](README.ay.md) | [KreyÃ²l Ayisyen](README.ht.md) | [Esperanto](README.eo.md) | [Latina](README.la.md) | [×™×™Ö´×“×™×©](README.yi.md) | [Gaeilge](README.ga.md) | [Ú©ÙˆØ±Ø¯ÛŒ (Sorani)](README.ckb.md) | [Gagana fa'a SÄmoa](README.sm.md) | [Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°](README.tt.md) | [Corsu](README.co.md) | [Þ‹Þ¨ÞˆÞ¬Þ€Þ¨](README.dv.md) | [EÊ‹egbe](README.ee.md) | [Frysk](README.fy.md) | [Ê»ÅŒlelo HawaiÊ»i](README.haw.md) | [Hmoob](README.hmn.md) | [Ilokano](README.ilo.md) | [Krio](README.kri.md) | [LÃ«tzebuergesch](README.lb.md) | [MÄori](README.mi.md) | [Mizo](README.lus.md) | [GÃ idhlig](README.gd.md) | [Xitsonga](README.ts.md) | [áš±áš¢áš¾á›–á›‹ (Futhark)](README.runes.md) | [EspaÃ±ol (Argentina)](README.es-AR.md) | [EspaÃ±ol (Bolivia)](README.es-BO.md) | [EspaÃ±ol (Chile)](README.es-CL.md) | [EspaÃ±ol (Colombia)](README.es-CO.md) | [EspaÃ±ol (Costa Rica)](README.es-CR.md) | [EspaÃ±ol (Cuba)](README.es-CU.md) | [EspaÃ±ol (RepÃºblica Dominicana)](README.es-DO.md) | [EspaÃ±ol (Ecuador)](README.es-EC.md) | [EspaÃ±ol (El Salvador)](README.es-SV.md) | [EspaÃ±ol (Guatemala)](README.es-GT.md) | [EspaÃ±ol (Honduras)](README.es-HN.md) | [EspaÃ±ol (MÃ©xico)](README.es-MX.md) | [EspaÃ±ol (Nicaragua)](README.es-NI.md) | [EspaÃ±ol (PanamÃ¡)](README.es-PA.md) | [EspaÃ±ol (Paraguay)](README.es-PY.md) | [EspaÃ±ol (PerÃº)](README.es-PE.md) | [EspaÃ±ol (Puerto Rico)](README.es-PR.md) | [EspaÃ±ol (Uruguay)](README.es-UY.md) | [EspaÃ±ol (Venezuela)](README.es-VE.md) | [EspaÃ±ol (Guinea Ecuatorial)](README.es-GQ.md) | [English (Australia)](README.en-AU.md) | [English (Canada)](README.en-CA.md) | [English (India)](README.en-IN.md) | [English (Ireland)](README.en-IE.md) | [English (Jamaica)](README.en-JM.md) | [English (New Zealand)](README.en-NZ.md) | [English (South Africa)](README.en-ZA.md) | [English (UK)](README.en-GB.md) | [English (USA)](README.en-US.md) | [English (Belize)](README.en-BZ.md) | [English (Nigeria)](README.en-NG.md) | [English (Kenya)](README.en-KE.md) | [English (Singapore)](README.en-SG.md) | [English (Philippines)](README.en-PH.md) | [FranÃ§ais (Canada)](README.fr-CA.md) | [FranÃ§ais (Belgique)](README.fr-BE.md) | [FranÃ§ais (Suisse)](README.fr-CH.md) | [FranÃ§ais (SÃ©nÃ©gal)](README.fr-SN.md) | [FranÃ§ais (CÃ´te d'Ivoire)](README.fr-CI.md) | [FranÃ§ais (Cameroun)](README.fr-CM.md) | [FranÃ§ais (Mali)](README.fr-ML.md) | [FranÃ§ais (RDC)](README.fr-CD.md) | [FranÃ§ais (Madagascar)](README.fr-MG.md) | [FranÃ§ais (HaÃ¯ti)](README.fr-HT.md) | [PortuguÃªs (Brasil)](README.pt-BR.md) | [PortuguÃªs (Angola)](README.pt-AO.md) | [PortuguÃªs (MoÃ§ambique)](README.pt-MZ.md) | [PortuguÃªs (Cabo Verde)](README.pt-CV.md) | [Deutsch (Ã–sterreich)](README.de-AT.md) | [Deutsch (Schweiz)](README.de-CH.md) | [Deutsch (Liechtenstein)](README.de-LI.md) | [Deutsch (Luxemburg)](README.de-LU.md) | [Nederlands (BelgiÃ«)](README.nl-BE.md) | [Nederlands (Suriname)](README.nl-SR.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù…ØµØ±)](README.ar-EG.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©)](README.ar-SA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª)](README.ar-AE.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ù…ØºØ±Ø¨)](README.ar-MA.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±)](README.ar-DZ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø¹Ø±Ø§Ù‚)](README.ar-IQ.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø³ÙˆØ±ÙŠØ§)](README.ar-SY.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ù„Ø¨Ù†Ø§Ù†)](README.ar-LB.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„Ø£Ø±Ø¯Ù†)](README.ar-JO.md) | [Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Ø§Ù„ÙŠÙ…Ù†)](README.ar-YE.md) | [ä¸­æ–‡ (æ–°åŠ å¡)](README.zh-SG.md) | [ç¹é«”ä¸­æ–‡ (é¦™æ¸¯)](README.zh-HK.md) | [ç¹é«”ä¸­æ–‡ (æ¾³é–€)](README.zh-MO.md)
 
 </details>
 
@@ -26,14 +28,14 @@
 
 ![Nexus Gaja Vision](assets/img/nexus_vision.jpg)
 
-In einer globalisierten Welt ist Sprache oft die größte Barriere. Das Hauptziel von Nexus Gaja ist es, eine nahtlose, barrierefreie und kontextgenaue Kommunikation zwischen Menschen zu ermöglichen – unabhängig davon, ob sie eine gemeinsame Sprache sprechen oder nicht. 
+In einer globalisierten Welt ist Sprache oft die grÃ¶ÃŸte Barriere. Das Hauptziel von Nexus Gaja ist es, eine nahtlose, barrierefreie und kontextgenaue Kommunikation zwischen Menschen zu ermÃ¶glichen â€“ unabhÃ¤ngig davon, ob sie eine gemeinsame Sprache sprechen oder nicht. 
 
-Es geht nicht nur um das sture Übersetzen von Wörtern, sondern um das **Übertragen von Bedeutung**. Nexus Gaja verbindet Menschen auf einer tieferen Ebene, indem es kulturelle, regionale und kontextuelle Feinheiten versteht und so echte, authentische Unterhaltungen ermöglicht.
+Es geht nicht nur um das sture Ãœbersetzen von WÃ¶rtern, sondern um das **Ãœbertragen von Bedeutung**. Nexus Gaja verbindet Menschen auf einer tieferen Ebene, indem es kulturelle, regionale und kontextuelle Feinheiten versteht und so echte, authentische Unterhaltungen ermÃ¶glicht.
 
-## Möglichkeiten und Features
-- **Multimediale Kommunikation**: Das System verarbeitet nicht nur Text, sondern auch Bild, Audio und Video. Dies erlaubt vollständig immersive Unterhaltungen (z. B. Videotelefonie oder Sprachnachrichten) in Echtzeit über Sprachgrenzen hinweg.
-- **Kontextsensibilität**: Erkennung von Ironie, Redewendungen, Fachjargon und regionalen Dialekten, die von herkömmlichen Übersetzern oftmals missverstanden werden.
-- **Plattformübergreifendes Netzwerk**: Dient als Basis für private Chats, Foren-Threads (Beiträge mit Kommentaren) und globale Community-Interaktionen.
+## MÃ¶glichkeiten und Features
+- **Multimediale Kommunikation**: Das System verarbeitet nicht nur Text, sondern auch Bild, Audio und Video. Dies erlaubt vollstÃ¤ndig immersive Unterhaltungen (z. B. Videotelefonie oder Sprachnachrichten) in Echtzeit Ã¼ber Sprachgrenzen hinweg.
+- **KontextsensibilitÃ¤t**: Erkennung von Ironie, Redewendungen, Fachjargon und regionalen Dialekten, die von herkÃ¶mmlichen Ãœbersetzern oftmals missverstanden werden.
+- **PlattformÃ¼bergreifendes Netzwerk**: Dient als Basis fÃ¼r private Chats, Foren-Threads (BeitrÃ¤ge mit Kommentaren) und globale Community-Interaktionen.
 
 ---
 
@@ -43,31 +45,31 @@ Es geht nicht nur um das sture Übersetzen von Wörtern, sondern um das **Übert
 
 Der technische Kern von Nexus Gaja ist ein selbstentwickeltes Kommunikationsmodell, das strikt in drei Schichten unterteilt ist:
 
-1. **Original**: Das vom Absender erstellte Kommunikations-Objekt (Nachricht) bleibt stets unveränderlich.
-2. **Semantische Interpretation**: Das System analysiert nicht nur die Worte, sondern die tatsächliche Bedeutung.
-3. **Zielsprachliche Darstellung**: Die KI erzeugt lediglich eine temporäre oder gecachte Darstellung des Originals für den jeweiligen Empfänger basierend auf dessen bevorzugter Sprache. Übersetzungen überschreiben niemals die ursprüngliche Nachricht.
+1. **Original**: Das vom Absender erstellte Kommunikations-Objekt (Nachricht) bleibt stets unverÃ¤nderlich.
+2. **Semantische Interpretation**: Das System analysiert nicht nur die Worte, sondern die tatsÃ¤chliche Bedeutung.
+3. **Zielsprachliche Darstellung**: Die KI erzeugt lediglich eine temporÃ¤re oder gecachte Darstellung des Originals fÃ¼r den jeweiligen EmpfÃ¤nger basierend auf dessen bevorzugter Sprache. Ãœbersetzungen Ã¼berschreiben niemals die ursprÃ¼ngliche Nachricht.
 
-### Kontextabhängigkeit
-Übersetzungen betrachten Nachrichten in Nexus Gaja nie isoliert. Die Engine berücksichtigt die gesamte Hierarchie:
-`Message` → `Previous Messages` → `Thread Context` → `Community Context` → `Language / Region` → `User Preferences`
+### KontextabhÃ¤ngigkeit
+Ãœbersetzungen betrachten Nachrichten in Nexus Gaja nie isoliert. Die Engine berÃ¼cksichtigt die gesamte Hierarchie:
+`Message` â†’ `Previous Messages` â†’ `Thread Context` â†’ `Community Context` â†’ `Language / Region` â†’ `User Preferences`
 
-### Effizienz durch On-Demand Übersetzung
-Die Übersetzung erfolgt ressourcenschonend erst **beim Aufruf** (On-Demand). Wenn ein Nutzer Inhalte anfordert, werden diese in seine voreingestellte Sprache übersetzt. Einmal geleistete Übersetzungen für eine spezifische Sprache werden dauerhaft gespeichert (Caching), um spätere Abfragen drastisch zu beschleunigen.
+### Effizienz durch On-Demand Ãœbersetzung
+Die Ãœbersetzung erfolgt ressourcenschonend erst **beim Aufruf** (On-Demand). Wenn ein Nutzer Inhalte anfordert, werden diese in seine voreingestellte Sprache Ã¼bersetzt. Einmal geleistete Ãœbersetzungen fÃ¼r eine spezifische Sprache werden dauerhaft gespeichert (Caching), um spÃ¤tere Abfragen drastisch zu beschleunigen.
 
-## KI-gestützte Moderation (WP 1.8.4)
+## KI-gestÃ¼tzte Moderation (WP 1.8.4)
 
 ![Nexus Gaja AI Moderation](assets/img/nexus_moderation.jpg)
 
-Mit der KI-gestützten Moderation gehen wir einen großen Schritt von der Produktidee zur technischen Architektur und berücksichtigen dabei aktuelle EU-Verordnungen (Transparenzpflichten des EU AI Act nach Art. 50; Digital Services Act mit nachvollziehbaren Begründungen und Einspruchsmöglichkeiten).
+Mit der KI-gestÃ¼tzten Moderation gehen wir einen groÃŸen Schritt von der Produktidee zur technischen Architektur und berÃ¼cksichtigen dabei aktuelle EU-Verordnungen (Transparenzpflichten des EU AI Act nach Art. 50; Digital Services Act mit nachvollziehbaren BegrÃ¼ndungen und EinspruchsmÃ¶glichkeiten).
 
 ### 1. Grundprinzip
-Der wichtigste Satz für die Architektur lautet: **Die Moderations-KI ist ein Prüfsystem und kein autonomes Herrschaftssystem.**
-Sie soll Menschen bei der Moderation unterstützen, nicht selbst darüber bestimmen, welche Meinungen auf Nexus Gaja existieren dürfen.
+Der wichtigste Satz fÃ¼r die Architektur lautet: **Die Moderations-KI ist ein PrÃ¼fsystem und kein autonomes Herrschaftssystem.**
+Sie soll Menschen bei der Moderation unterstÃ¼tzen, nicht selbst darÃ¼ber bestimmen, welche Meinungen auf Nexus Gaja existieren dÃ¼rfen.
 Damit unterscheiden wir drei Dinge:
-- **Erkennen:** „Hier könnte ein Regelverstoß vorliegen.“
-- **Bewerten:** „Die Wahrscheinlichkeit eines Regelverstoßes beträgt beispielsweise 94 %.“
-- **Entscheiden:** „Welche Maßnahme wird tatsächlich ergriffen?“
-Die dritte Ebene muss bei schwerwiegenden Fällen menschlich kontrolliert werden.
+- **Erkennen:** â€žHier kÃ¶nnte ein RegelverstoÃŸ vorliegen.â€œ
+- **Bewerten:** â€žDie Wahrscheinlichkeit eines RegelverstoÃŸes betrÃ¤gt beispielsweise 94 %.â€œ
+- **Entscheiden:** â€žWelche MaÃŸnahme wird tatsÃ¤chlich ergriffen?â€œ
+Die dritte Ebene muss bei schwerwiegenden FÃ¤llen menschlich kontrolliert werden.
 
 
 
@@ -75,309 +77,309 @@ Die dritte Ebene muss bei schwerwiegenden Fällen menschlich kontrolliert werden
 Statt einer einzelnen KI wird ein robustes Subsystem etabliert:
 ```text
                  NEXUS GAJA AI MODERATION
-                          │
-       ┌──────────────────┼──────────────────┐
-       │                  │                  │
+                          â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â”‚                  â”‚                  â”‚
   Language AI        Safety AI          Fraud AI
-       │                  │                  │
-       ├──────────────┬───┴──────────────┬───┤
-       │              │                  │
+       â”‚                  â”‚                  â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”¤
+       â”‚              â”‚                  â”‚
  Translation      Behaviour          Identity
  Analysis         Analysis            Signals
-       │              │                  │
-       └──────────────┼──────────────────┘
-                      ▼
+       â”‚              â”‚                  â”‚
+       â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+                      â–¼
                Risk Assessment
-                      │
-                      ▼
+                      â”‚
+                      â–¼
                Human Review
 ```
 
 ### 3. Die wichtigsten KI-Module
-Für Nexus Gaja gibt es neun spezialisierte Analysebereiche:
-- **M1 – Language Understanding**: Erkennt Sprache, Dialekt, Slang, Ironieindikatoren, Übersetzungsprobleme.
-- **M2 – Toxicity / Abuse Detection**: Erkennt Beschimpfungen, persönliche Angriffe, Belästigung.
-- **M3 – Threat Detection**: Erkennt mögliche Drohungen, Erpressungen, Gewaltankündigungen.
-- **M4 – Hate / Dehumanization Detection**: Erkennt gezielte Angriffe auf Menschen aufgrund bestimmter Zugehörigkeiten.
-- **M5 – Spam / Manipulation Detection**: Erkennt Spam, Botverhalten, koordinierte Manipulation.
-- **M6 – Fraud Detection**: Erkennt verdächtige Betrugsversuche, Phishing, Social Engineering.
-- **M7 – Identity Integrity**: Prüft Signale bezüglich Kontoübernahme, Mehrfachkonten, Umgehung von Sperren.
-- **M8 – Media Safety**: Analysiert Bilder, Audio, Video, Dokumente.
-- **M9 – Context Engine**: Das wichtigste Modul. Es führt die einzelnen Erkenntnisse zusammen.
+FÃ¼r Nexus Gaja gibt es neun spezialisierte Analysebereiche:
+- **M1 â€“ Language Understanding**: Erkennt Sprache, Dialekt, Slang, Ironieindikatoren, Ãœbersetzungsprobleme.
+- **M2 â€“ Toxicity / Abuse Detection**: Erkennt Beschimpfungen, persÃ¶nliche Angriffe, BelÃ¤stigung.
+- **M3 â€“ Threat Detection**: Erkennt mÃ¶gliche Drohungen, Erpressungen, GewaltankÃ¼ndigungen.
+- **M4 â€“ Hate / Dehumanization Detection**: Erkennt gezielte Angriffe auf Menschen aufgrund bestimmter ZugehÃ¶rigkeiten.
+- **M5 â€“ Spam / Manipulation Detection**: Erkennt Spam, Botverhalten, koordinierte Manipulation.
+- **M6 â€“ Fraud Detection**: Erkennt verdÃ¤chtige Betrugsversuche, Phishing, Social Engineering.
+- **M7 â€“ Identity Integrity**: PrÃ¼ft Signale bezÃ¼glich KontoÃ¼bernahme, Mehrfachkonten, Umgehung von Sperren.
+- **M8 â€“ Media Safety**: Analysiert Bilder, Audio, Video, Dokumente.
+- **M9 â€“ Context Engine**: Das wichtigste Modul. Es fÃ¼hrt die einzelnen Erkenntnisse zusammen.
 
 ### 4. Warum die Context Engine so wichtig ist
-Eine reine Schlüsselwortsuche wäre unzureichend. „Ich könnte ihn umbringen vor Lachen“ enthält semantisch Gewalt, ist aber eine Redewendung. „Morgen um 20 Uhr werde ich ihn vor seinem Haus erschießen“ ist eine vollkommen andere Situation. Die KI muss verstehen, was die Aussage in diesem konkreten Kontext bedeutet.
+Eine reine SchlÃ¼sselwortsuche wÃ¤re unzureichend. â€žIch kÃ¶nnte ihn umbringen vor Lachenâ€œ enthÃ¤lt semantisch Gewalt, ist aber eine Redewendung. â€žMorgen um 20 Uhr werde ich ihn vor seinem Haus erschieÃŸenâ€œ ist eine vollkommen andere Situation. Die KI muss verstehen, was die Aussage in diesem konkreten Kontext bedeutet.
 
 ### 5. Mehrsprachige Moderation
-Die Moderation darf nicht einfach Wörter vergleichen. Sie muss die Bedeutungsebene analysieren (z. B. deutsche Redewendungen vs. japanische Redewendungen vs. regionale Ausdrücke).
+Die Moderation darf nicht einfach WÃ¶rter vergleichen. Sie muss die Bedeutungsebene analysieren (z. B. deutsche Redewendungen vs. japanische Redewendungen vs. regionale AusdrÃ¼cke).
 
-### 6. Originalsprache + Übersetzung
-Original und Übersetzung werden separat analysiert. Erst danach erfolgt das "Combined Moderation Assessment". So kann Nexus Gaja feststellen, ob möglicherweise die Übersetzung selbst den Sachverhalt verschärft oder verändert hat.
+### 6. Originalsprache + Ãœbersetzung
+Original und Ãœbersetzung werden separat analysiert. Erst danach erfolgt das "Combined Moderation Assessment". So kann Nexus Gaja feststellen, ob mÃ¶glicherweise die Ãœbersetzung selbst den Sachverhalt verschÃ¤rft oder verÃ¤ndert hat.
 
 ### 7. Confidence Score
-Jede KI-Bewertung erhält einen Konfidenzwert (z. B. Threat probability: 0.96). Aber: **Confidence Score ≠ Wahrheit.** Ein Score von 96 % bedeutet nur, dass das Modell sich in seiner Klassifikation sehr sicher ist, nicht zwingend, dass der Nutzer schuldig ist.
+Jede KI-Bewertung erhÃ¤lt einen Konfidenzwert (z. B. Threat probability: 0.96). Aber: **Confidence Score â‰  Wahrheit.** Ein Score von 96 % bedeutet nur, dass das Modell sich in seiner Klassifikation sehr sicher ist, nicht zwingend, dass der Nutzer schuldig ist.
 
 ### 8. Unsicherheit wird selbst zum Signal
 Wenn die KI unsicher ist (z. B. Threat: 0.62, Satire: 0.54), darf sie nicht einfach hart durchgreifen. Stattdessen wird Unsicherheit direkt in die Architektur eingebaut: **Human Review Required**.
 
 ### 9. Vier Entscheidungsbereiche
-- 🟢 **GREEN**: Sehr wahrscheinlich regelkonform. → keine Aktion.
-- 🟡 **YELLOW**: Möglicher Verstoß. → beobachten / gegebenenfalls Hinweis.
-- 🟠 **ORANGE**: Wahrscheinlicher Verstoß. → Moderationsprüfung.
-- 🔴 **RED**: Schwerwiegender möglicher Verstoß. → sofortige Schutzmaßnahme + menschliche Prüfung.
+- ðŸŸ¢ **GREEN**: Sehr wahrscheinlich regelkonform. â†’ keine Aktion.
+- ðŸŸ¡ **YELLOW**: MÃ¶glicher VerstoÃŸ. â†’ beobachten / gegebenenfalls Hinweis.
+- ðŸŸ  **ORANGE**: Wahrscheinlicher VerstoÃŸ. â†’ ModerationsprÃ¼fung.
+- ðŸ”´ **RED**: Schwerwiegender mÃ¶glicher VerstoÃŸ. â†’ sofortige SchutzmaÃŸnahme + menschliche PrÃ¼fung.
 
-### 10. Keine „KI-Strafe“
-**Die KI verhängt keine endgültigen Sanktionen.** Sie kann bei schwerwiegenden Sicherheitsbedenken technische Sofortmaßnahmen auslösen (z. B. Nachricht zurückhalten), aber die endgültige Entscheidung bleibt überprüfbar.
+### 10. Keine â€žKI-Strafeâ€œ
+**Die KI verhÃ¤ngt keine endgÃ¼ltigen Sanktionen.** Sie kann bei schwerwiegenden Sicherheitsbedenken technische SofortmaÃŸnahmen auslÃ¶sen (z. B. Nachricht zurÃ¼ckhalten), aber die endgÃ¼ltige Entscheidung bleibt Ã¼berprÃ¼fbar.
 
-### 11. Schutzmaßnahmen können automatisch erfolgen
-Bei einer konkreten Drohung (Threat detected → High confidence → Temporary restriction → Human review → Decision) schützen wir den bedrohten Nutzer, ohne die KI zum Richter zu machen.
+### 11. SchutzmaÃŸnahmen kÃ¶nnen automatisch erfolgen
+Bei einer konkreten Drohung (Threat detected â†’ High confidence â†’ Temporary restriction â†’ Human review â†’ Decision) schÃ¼tzen wir den bedrohten Nutzer, ohne die KI zum Richter zu machen.
 
 
 
-### 12. Die KI muss ihre Entscheidung begründen können
-Der DSA verlangt klare und spezifische Gründe. Die KI begründet strukturiert: Rule (NG-CONDUCT-004), Detected (Potential concrete threat), Confidence (0.94), Relevant context (Previous 4 messages), Recommended action (Human review).
+### 12. Die KI muss ihre Entscheidung begrÃ¼nden kÃ¶nnen
+Der DSA verlangt klare und spezifische GrÃ¼nde. Die KI begrÃ¼ndet strukturiert: Rule (NG-CONDUCT-004), Detected (Potential concrete threat), Confidence (0.94), Relevant context (Previous 4 messages), Recommended action (Human review).
 
-### 13. KI darf nicht heimlich Inhalte verändern
-**Moderations-KI darf den Originalinhalt niemals unbemerkt verändern.** Bei automatischer Korrektur, Übersetzung oder Zusammenfassung bleibt das Original erhalten.
+### 13. KI darf nicht heimlich Inhalte verÃ¤ndern
+**Moderations-KI darf den Originalinhalt niemals unbemerkt verÃ¤ndern.** Bei automatischer Korrektur, Ãœbersetzung oder Zusammenfassung bleibt das Original erhalten.
 
 ### 14. KI-generierte Inhalte
 Wir unterscheiden: Human-created, AI-assisted, AI-generated und AI-manipulated. Das wird Bestandteil der Content-Metadaten.
 
 ### 15. Kennzeichnung von KI-Inhalten & AI Provenance Layer
-Nach den Transparenzregeln des EU-KI-Gesetzes (seit August 2026) müssen KI-generierte Inhalte erkennbar gemacht werden. Wir sehen eine AI Provenance Layer vor, die Metadaten speichert (AI-Origin, Model, Timestamp, Human Review).
+Nach den Transparenzregeln des EU-KI-Gesetzes (seit August 2026) mÃ¼ssen KI-generierte Inhalte erkennbar gemacht werden. Wir sehen eine AI Provenance Layer vor, die Metadaten speichert (AI-Origin, Model, Timestamp, Human Review).
 
 ### 16. Deepfake-Erkennung
 Die Architektur soll synthetische Bilder, stimulierte Stimmen und Deepfakes erkennen. Erkennung ist aber nicht automatisch Beweis.
 
-### 17. Keine automatische „Wahrheitsmaschine“ (Moderation ≠ Fact Checking)
-Ein System prüft: "Verstößt der Inhalt gegen Regeln?" (Content Moderation), ein anderes liefert: "Welche Informationen und Quellen gibt es?" (Information Assistance). Meinungen werden nicht einfach als "falsch" gelöscht.
+### 17. Keine automatische â€žWahrheitsmaschineâ€œ (Moderation â‰  Fact Checking)
+Ein System prÃ¼ft: "VerstÃ¶ÃŸt der Inhalt gegen Regeln?" (Content Moderation), ein anderes liefert: "Welche Informationen und Quellen gibt es?" (Information Assistance). Meinungen werden nicht einfach als "falsch" gelÃ¶scht.
 
 ### 18. Schutz vor kultureller Fehlinterpretation
-Die KI benötigt **Cultural Context Models**, um zu verhindern, dass die Kommunikationsnorm eines Landes als globaler Standard angenommen wird.
+Die KI benÃ¶tigt **Cultural Context Models**, um zu verhindern, dass die Kommunikationsnorm eines Landes als globaler Standard angenommen wird.
 
 ### 19. Ironie, Satire und Humor
-Die KI nutzt Kontext, Emojis, Gesprächsverläufe und bekannte Ironiestrukturen, muss aber Unsicherheit zulassen, wenn Bedeutungen nicht eindeutig sind.
+Die KI nutzt Kontext, Emojis, GesprÃ¤chsverlÃ¤ufe und bekannte Ironiestrukturen, muss aber Unsicherheit zulassen, wenn Bedeutungen nicht eindeutig sind.
 
 ### 20. Keine Bestrafung aufgrund eines einzelnen KI-Scores
-Kein schwerer Moderationseingriff darf ausschließlich auf einem einzelnen automatisierten Klassifikationsergebnis beruhen (Text + Context + Behaviour + Language + Media + Rule Engine = Risk Assessment).
+Kein schwerer Moderationseingriff darf ausschlieÃŸlich auf einem einzelnen automatisierten Klassifikationsergebnis beruhen (Text + Context + Behaviour + Language + Media + Rule Engine = Risk Assessment).
 
 ### 21. User Behaviour Signals & Kein Social Credit System
-Es geht um technische Missbrauchssignale (z. B. Spam-Massenposting), nicht um ein allgemeines soziales Bewertungssystem. Nexus Gaja führt kein Social Credit System – Moderation dient der Sicherheit und nicht der Bewertung des Wertes eines Menschen.
+Es geht um technische Missbrauchssignale (z. B. Spam-Massenposting), nicht um ein allgemeines soziales Bewertungssystem. Nexus Gaja fÃ¼hrt kein Social Credit System â€“ Moderation dient der Sicherheit und nicht der Bewertung des Wertes eines Menschen.
 
 ### 22. Moderations-KI muss auditierbar sein
-Sämtliche relevanten automatisierten Entscheidungen werden protokolliert (Event-ID, Rule-ID, Confidence, Human-Review, etc.), um Nachvollziehbarkeit zu gewährleisten.
+SÃ¤mtliche relevanten automatisierten Entscheidungen werden protokolliert (Event-ID, Rule-ID, Confidence, Human-Review, etc.), um Nachvollziehbarkeit zu gewÃ¤hrleisten.
 
-### 23. False Positives, False Negatives & Qualitätskennzahlen
-Fehlerarten werden überwacht. Ein Dashboard misst Precision, Recall und insbesondere die **Appeal Reversal Rate** (Anzahl erfolgreicher Einsprüche). 
+### 23. False Positives, False Negatives & QualitÃ¤tskennzahlen
+Fehlerarten werden Ã¼berwacht. Ein Dashboard misst Precision, Recall und insbesondere die **Appeal Reversal Rate** (Anzahl erfolgreicher EinsprÃ¼che). 
 
 ### 24. Sprachgerechtigkeit & Translation Bias
-Die Moderationsqualität muss über alle unterstützten Sprachen hinweg vergleichbar sein (Multilingual Moderation Benchmark). Unterscheiden sich Moderationsergebnisse zwischen Original und Übersetzung (Translation Conflict), muss dies gesondert geprüft werden.
+Die ModerationsqualitÃ¤t muss Ã¼ber alle unterstÃ¼tzten Sprachen hinweg vergleichbar sein (Multilingual Moderation Benchmark). Unterscheiden sich Moderationsergebnisse zwischen Original und Ãœbersetzung (Translation Conflict), muss dies gesondert geprÃ¼ft werden.
 
 ### 25. Architekturvorschlag & Policy Engine
-Die Regeln (Policy Engine) sind nicht fest in den KI-Modellen codiert. Die KI liefert Erkenntnisse, die Policy Engine entscheidet anhand aktueller Regeln. Dies ermöglicht **Modellwechsel ohne Regeländerung**.
+Die Regeln (Policy Engine) sind nicht fest in den KI-Modellen codiert. Die KI liefert Erkenntnisse, die Policy Engine entscheidet anhand aktueller Regeln. Dies ermÃ¶glicht **Modellwechsel ohne RegelÃ¤nderung**.
 
 ### 26. Der Mensch bleibt letzte Instanz
-- **NG-AI-MOD-001**: Die KI unterstützt die Erkennung und Klassifikation, ersetzt bei schwerwiegenden Entscheidungen aber nicht die menschliche Prüfung.
-- **NG-AI-MOD-002**: Automatisierte Moderationsentscheidungen müssen nachvollziehbar, protokollierbar und überprüfbar sein.
+- **NG-AI-MOD-001**: Die KI unterstÃ¼tzt die Erkennung und Klassifikation, ersetzt bei schwerwiegenden Entscheidungen aber nicht die menschliche PrÃ¼fung.
+- **NG-AI-MOD-002**: Automatisierte Moderationsentscheidungen mÃ¼ssen nachvollziehbar, protokollierbar und Ã¼berprÃ¼fbar sein.
 
-**Zusammenfassung**: Wir bauen ein vierstufiges System: KI-Erkennung, Kontext- und Risikoanalyse, Policy Engine und Human Governance. Dies ermöglicht starke Automatisierung, ohne eine gefährliche „KI als Richter“-Architektur zu schaffen.
+**Zusammenfassung**: Wir bauen ein vierstufiges System: KI-Erkennung, Kontext- und Risikoanalyse, Policy Engine und Human Governance. Dies ermÃ¶glicht starke Automatisierung, ohne eine gefÃ¤hrliche â€žKI als Richterâ€œ-Architektur zu schaffen.
 
-## Finanzierungsprinzipien und Erlösmodell (WP 1.10.1)
+## Finanzierungsprinzipien und ErlÃ¶smodell (WP 1.10.1)
 
 
 
-![নেক্সছ গাজা ফাইনেন্স মডেল](assets/img/nexus_finance.jpg)
+![à¦¨à§‡à¦•à§à¦¸à¦› à¦—à¦¾à¦œà¦¾ à¦«à¦¾à¦‡à¦¨à§‡à¦¨à§à¦¸ à¦®à¦¡à§‡à¦²](assets/img/nexus_finance.jpg)
 
-নেক্সছ গাজাৰ ক্ষেত্ৰত এটা অতি গুৰুত্বপূৰ্ণ মৌলিক অৰ্থনৈতিক নীতি প্ৰযোজ্য: **প্লেটফৰ্মৰ ভিতৰত কোনো ক্লাছিক বিজ্ঞাপন নাই।**
-ইয়াৰ ফলত নেক্সছ গাজা আজিৰ বহু ছ’চিয়েল নেটৱৰ্কৰ পৰা ধাৰণাগতভাৱে পৃথক। কিন্তু তাৰ অৰ্থ এইটো নহয় যে নেক্সছ গাজাৰ কোনো ব্যৱসায়িক চৰিত্ৰ নাথাকিব লাগিব। ইয়াৰ বিপৰীতে: মঞ্চখন অৰ্থনৈতিকভাৱে কাৰ্য্যক্ষম হ’ব লাগিব যাতে ইয়াৰ সামাজিক উদ্দেশ্য দীৰ্ঘম্যাদীভাৱে অস্তিত্ব ৰক্ষা কৰি থাকিব পাৰে। অৰ্থনৈতিক কাৰ্যকলাপ সেয়েহে এটা উদ্দেশ্যৰ মাধ্যম, মঞ্চৰ প্ৰকৃত উদ্দেশ্য নহয়।
+à¦¨à§‡à¦•à§à¦¸à¦› à¦—à¦¾à¦œà¦¾à§° à¦•à§à¦·à§‡à¦¤à§à§°à¦¤ à¦à¦Ÿà¦¾ à¦…à¦¤à¦¿ à¦—à§à§°à§à¦¤à§à¦¬à¦ªà§‚à§°à§à¦£ à¦®à§Œà¦²à¦¿à¦• à¦…à§°à§à¦¥à¦¨à§ˆà¦¤à¦¿à¦• à¦¨à§€à¦¤à¦¿ à¦ªà§à§°à¦¯à§‹à¦œà§à¦¯: **à¦ªà§à¦²à§‡à¦Ÿà¦«à§°à§à¦®à§° à¦­à¦¿à¦¤à§°à¦¤ à¦•à§‹à¦¨à§‹ à¦•à§à¦²à¦¾à¦›à¦¿à¦• à¦¬à¦¿à¦œà§à¦žà¦¾à¦ªà¦¨ à¦¨à¦¾à¦‡à¥¤**
+à¦‡à¦¯à¦¼à¦¾à§° à¦«à¦²à¦¤ à¦¨à§‡à¦•à§à¦¸à¦› à¦—à¦¾à¦œà¦¾ à¦†à¦œà¦¿à§° à¦¬à¦¹à§ à¦›â€™à¦šà¦¿à¦¯à¦¼à§‡à¦² à¦¨à§‡à¦Ÿà§±à§°à§à¦•à§° à¦ªà§°à¦¾ à¦§à¦¾à§°à¦£à¦¾à¦—à¦¤à¦­à¦¾à§±à§‡ à¦ªà§ƒà¦¥à¦•à¥¤ à¦•à¦¿à¦¨à§à¦¤à§ à¦¤à¦¾à§° à¦…à§°à§à¦¥ à¦à¦‡à¦Ÿà§‹ à¦¨à¦¹à¦¯à¦¼ à¦¯à§‡ à¦¨à§‡à¦•à§à¦¸à¦› à¦—à¦¾à¦œà¦¾à§° à¦•à§‹à¦¨à§‹ à¦¬à§à¦¯à§±à¦¸à¦¾à¦¯à¦¼à¦¿à¦• à¦šà§°à¦¿à¦¤à§à§° à¦¨à¦¾à¦¥à¦¾à¦•à¦¿à¦¬ à¦²à¦¾à¦—à¦¿à¦¬à¥¤ à¦‡à¦¯à¦¼à¦¾à§° à¦¬à¦¿à¦ªà§°à§€à¦¤à§‡: à¦®à¦žà§à¦šà¦–à¦¨ à¦…à§°à§à¦¥à¦¨à§ˆà¦¤à¦¿à¦•à¦­à¦¾à§±à§‡ à¦•à¦¾à§°à§à¦¯à§à¦¯à¦•à§à¦·à¦® à¦¹â€™à¦¬ à¦²à¦¾à¦—à¦¿à¦¬ à¦¯à¦¾à¦¤à§‡ à¦‡à¦¯à¦¼à¦¾à§° à¦¸à¦¾à¦®à¦¾à¦œà¦¿à¦• à¦‰à¦¦à§à¦¦à§‡à¦¶à§à¦¯ à¦¦à§€à§°à§à¦˜à¦®à§à¦¯à¦¾à¦¦à§€à¦­à¦¾à§±à§‡ à¦…à¦¸à§à¦¤à¦¿à¦¤à§à¦¬ à§°à¦•à§à¦·à¦¾ à¦•à§°à¦¿ à¦¥à¦¾à¦•à¦¿à¦¬ à¦ªà¦¾à§°à§‡à¥¤ à¦…à§°à§à¦¥à¦¨à§ˆà¦¤à¦¿à¦• à¦•à¦¾à§°à§à¦¯à¦•à¦²à¦¾à¦ª à¦¸à§‡à¦¯à¦¼à§‡à¦¹à§‡ à¦à¦Ÿà¦¾ à¦‰à¦¦à§à¦¦à§‡à¦¶à§à¦¯à§° à¦®à¦¾à¦§à§à¦¯à¦®, à¦®à¦žà§à¦šà§° à¦ªà§à§°à¦•à§ƒà¦¤ à¦‰à¦¦à§à¦¦à§‡à¦¶à§à¦¯ à¦¨à¦¹à¦¯à¦¼à¥¤
 
-### ১.নীতি এন জি-ফিন-০০১
-নেক্সছ গাজাই নিজৰ কাৰ্য্যকলাপৰ বিত্তীয় সাহায্য ব্যৱহাৰকাৰীৰ স্বাৰ্থৰ পৰা পৃথক স্বচ্ছ ৰাজহৰ প্ৰবাহৰ জৰিয়তে কৰে আৰু ইয়াৰ ব্যৱহাৰকাৰীৰ মনোযোগ বা ব্যক্তিগত তথ্যৰ বিপণনৰ জৰিয়তে নহয়।
+### à§§.à¦¨à§€à¦¤à¦¿ à¦à¦¨ à¦œà¦¿-à¦«à¦¿à¦¨-à§¦à§¦à§§
+à¦¨à§‡à¦•à§à¦¸à¦› à¦—à¦¾à¦œà¦¾à¦‡ à¦¨à¦¿à¦œà§° à¦•à¦¾à§°à§à¦¯à§à¦¯à¦•à¦²à¦¾à¦ªà§° à¦¬à¦¿à¦¤à§à¦¤à§€à¦¯à¦¼ à¦¸à¦¾à¦¹à¦¾à¦¯à§à¦¯ à¦¬à§à¦¯à§±à¦¹à¦¾à§°à¦•à¦¾à§°à§€à§° à¦¸à§à¦¬à¦¾à§°à§à¦¥à§° à¦ªà§°à¦¾ à¦ªà§ƒà¦¥à¦• à¦¸à§à¦¬à¦šà§à¦› à§°à¦¾à¦œà¦¹à§° à¦ªà§à§°à¦¬à¦¾à¦¹à§° à¦œà§°à¦¿à¦¯à¦¼à¦¤à§‡ à¦•à§°à§‡ à¦†à§°à§ à¦‡à¦¯à¦¼à¦¾à§° à¦¬à§à¦¯à§±à¦¹à¦¾à§°à¦•à¦¾à§°à§€à§° à¦®à¦¨à§‹à¦¯à§‹à¦— à¦¬à¦¾ à¦¬à§à¦¯à¦•à§à¦¤à¦¿à¦—à¦¤ à¦¤à¦¥à§à¦¯à§° à¦¬à¦¿à¦ªà¦£à¦¨à§° à¦œà§°à¦¿à¦¯à¦¼à¦¤à§‡ à¦¨à¦¹à¦¯à¦¼à¥¤
 
-### ২/ কোনো ক্লাছিক বিজ্ঞাপন নাই
-বিশেষকৈ তলত দিয়া কামবোৰৰ অনুমতি দিয়া নহ’ব:
-- বেনাৰ বিজ্ঞাপন
-- পপ আপ বিজ্ঞাপন
-- স্বয়ংক্ৰিয়ভাৱে খেলা বিজ্ঞাপন ভিডিঅ'
-- স্বাভাৱিক ফিডত পৃষ্ঠপোষকতা কৰা পোষ্ট
-- ব্যক্তিগতকৃত বিজ্ঞাপন প্রফাইল
-- ব্যৱহাৰকাৰী প্ৰফাইল বিক্ৰী কৰা
-- ব্যক্তিগত তথ্য বিক্ৰী
-- ব্যক্তিগত কথা-বতৰাৰ পৰা আহৰণ কৰা বিজ্ঞাপন।
+### à§¨/ à¦•à§‹à¦¨à§‹ à¦•à§à¦²à¦¾à¦›à¦¿à¦• à¦¬à¦¿à¦œà§à¦žà¦¾à¦ªà¦¨ à¦¨à¦¾à¦‡
+à¦¬à¦¿à¦¶à§‡à¦·à¦•à§ˆ à¦¤à¦²à¦¤ à¦¦à¦¿à¦¯à¦¼à¦¾ à¦•à¦¾à¦®à¦¬à§‹à§°à§° à¦…à¦¨à§à¦®à¦¤à¦¿ à¦¦à¦¿à¦¯à¦¼à¦¾ à¦¨à¦¹â€™à¦¬:
+- à¦¬à§‡à¦¨à¦¾à§° à¦¬à¦¿à¦œà§à¦žà¦¾à¦ªà¦¨
+- à¦ªà¦ª à¦†à¦ª à¦¬à¦¿à¦œà§à¦žà¦¾à¦ªà¦¨
+- à¦¸à§à¦¬à¦¯à¦¼à¦‚à¦•à§à§°à¦¿à¦¯à¦¼à¦­à¦¾à§±à§‡ à¦–à§‡à¦²à¦¾ à¦¬à¦¿à¦œà§à¦žà¦¾à¦ªà¦¨ à¦­à¦¿à¦¡à¦¿à¦…'
+- à¦¸à§à¦¬à¦¾à¦­à¦¾à§±à¦¿à¦• à¦«à¦¿à¦¡à¦¤ à¦ªà§ƒà¦·à§à¦ à¦ªà§‹à¦·à¦•à¦¤à¦¾ à¦•à§°à¦¾ à¦ªà§‹à¦·à§à¦Ÿ
+- à¦¬à§à¦¯à¦•à§à¦¤à¦¿à¦—à¦¤à¦•à§ƒà¦¤ à¦¬à¦¿à¦œà§à¦žà¦¾à¦ªà¦¨ à¦ªà§à¦°à¦«à¦¾à¦‡à¦²
+- à¦¬à§à¦¯à§±à¦¹à¦¾à§°à¦•à¦¾à§°à§€ à¦ªà§à§°à¦«à¦¾à¦‡à¦² à¦¬à¦¿à¦•à§à§°à§€ à¦•à§°à¦¾
+- à¦¬à§à¦¯à¦•à§à¦¤à¦¿à¦—à¦¤ à¦¤à¦¥à§à¦¯ à¦¬à¦¿à¦•à§à§°à§€
+- à¦¬à§à¦¯à¦•à§à¦¤à¦¿à¦—à¦¤ à¦•à¦¥à¦¾-à¦¬à¦¤à§°à¦¾à§° à¦ªà§°à¦¾ à¦†à¦¹à§°à¦£ à¦•à§°à¦¾ à¦¬à¦¿à¦œà§à¦žà¦¾à¦ªà¦¨à¥¤
 
-ইয়াৰ ফলত যোগাযোগ স্থান ৰৈ যায়: **বিজ্ঞাপনৰ স্থানৰ পৰিৱৰ্তে যোগাযোগ স্থান।**
+à¦‡à¦¯à¦¼à¦¾à§° à¦«à¦²à¦¤ à¦¯à§‹à¦—à¦¾à¦¯à§‹à¦— à¦¸à§à¦¥à¦¾à¦¨ à§°à§ˆ à¦¯à¦¾à¦¯à¦¼: **à¦¬à¦¿à¦œà§à¦žà¦¾à¦ªà¦¨à§° à¦¸à§à¦¥à¦¾à¦¨à§° à¦ªà§°à¦¿à§±à§°à§à¦¤à§‡ à¦¯à§‹à¦—à¦¾à¦¯à§‹à¦— à¦¸à§à¦¥à¦¾à¦¨à¥¤**
 
-### ৩/ বিজ্ঞাপন অবিহনে বিত্তীয় সাহায্য প্ৰদান কৰা
-বৰঞ্চ আমাৰ বিত্তীয় সাহায্য কেইবাটাও স্তম্ভৰে গঠিত হ’ব পাৰে। আমি প্ৰথমে ছটা স্তম্ভৰ প্ৰস্তাৱ দিছো:
-```পাঠ্য
-                 নেক্সছ গাজা
-                     │
-       ┌───────────────────────────┐
-       ▼ ▼ ▼
-   প্ৰিমিয়াম সংগঠনৰ দান
-       │ │ │
-       ├───────────────────────────┤
-       ▼ ▼ ▼
-   অংশীদাৰিত্ব সেৱাৰ প্ৰসাৰ
+### à§©/ à¦¬à¦¿à¦œà§à¦žà¦¾à¦ªà¦¨ à¦…à¦¬à¦¿à¦¹à¦¨à§‡ à¦¬à¦¿à¦¤à§à¦¤à§€à¦¯à¦¼ à¦¸à¦¾à¦¹à¦¾à¦¯à§à¦¯ à¦ªà§à§°à¦¦à¦¾à¦¨ à¦•à§°à¦¾
+à¦¬à§°à¦žà§à¦š à¦†à¦®à¦¾à§° à¦¬à¦¿à¦¤à§à¦¤à§€à¦¯à¦¼ à¦¸à¦¾à¦¹à¦¾à¦¯à§à¦¯ à¦•à§‡à¦‡à¦¬à¦¾à¦Ÿà¦¾à¦“ à¦¸à§à¦¤à¦®à§à¦­à§°à§‡ à¦—à¦ à¦¿à¦¤ à¦¹â€™à¦¬ à¦ªà¦¾à§°à§‡à¥¤ à¦†à¦®à¦¿ à¦ªà§à§°à¦¥à¦®à§‡ à¦›à¦Ÿà¦¾ à¦¸à§à¦¤à¦®à§à¦­à§° à¦ªà§à§°à¦¸à§à¦¤à¦¾à§± à¦¦à¦¿à¦›à§‹:
+```à¦ªà¦¾à¦ à§à¦¯
+                 à¦¨à§‡à¦•à§à¦¸à¦› à¦—à¦¾à¦œà¦¾
+                     â”‚
+       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+       â–¼ â–¼ â–¼
+   à¦ªà§à§°à¦¿à¦®à¦¿à¦¯à¦¼à¦¾à¦® à¦¸à¦‚à¦—à¦ à¦¨à§° à¦¦à¦¾à¦¨
+       â”‚ â”‚ â”‚
+       â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+       â–¼ â–¼ â–¼
+   à¦…à¦‚à¦¶à§€à¦¦à¦¾à§°à¦¿à¦¤à§à¦¬ à¦¸à§‡à§±à¦¾à§° à¦ªà§à§°à¦¸à¦¾à§°
 ```
 
-#### স্তম্ভ ১ – বিনামূলীয়া মৌলিক সদস্যপদ
-**Nexus Gaja Free:** আন্তৰ্জাতিক বুজাবুজিত মৌলিক অংশগ্ৰহণ কাৰোবাৰ টকা আছে নে নাই তাৰ ওপৰত নিৰ্ভৰ কৰিব নালাগে। তলত দিয়া কামবোৰ বিনামূলীয়াকৈ সম্ভৱ: ব্যক্তিগত প্ৰফাইল, আন্তঃৰাষ্ট্ৰীয় যোগাযোগ, অৱদান, মন্তব্য, মৌলিক অনুবাদ, সম্প্ৰদায়, আড্ডা, মৌলিক সংবাদ মাধ্যমৰ কাৰ্য্য।
+#### à¦¸à§à¦¤à¦®à§à¦­ à§§ â€“ à¦¬à¦¿à¦¨à¦¾à¦®à§‚à¦²à§€à¦¯à¦¼à¦¾ à¦®à§Œà¦²à¦¿à¦• à¦¸à¦¦à¦¸à§à¦¯à¦ªà¦¦
+**Nexus Gaja Free:** à¦†à¦¨à§à¦¤à§°à§à¦œà¦¾à¦¤à¦¿à¦• à¦¬à§à¦œà¦¾à¦¬à§à¦œà¦¿à¦¤ à¦®à§Œà¦²à¦¿à¦• à¦…à¦‚à¦¶à¦—à§à§°à¦¹à¦£ à¦•à¦¾à§°à§‹à¦¬à¦¾à§° à¦Ÿà¦•à¦¾ à¦†à¦›à§‡ à¦¨à§‡ à¦¨à¦¾à¦‡ à¦¤à¦¾à§° à¦“à¦ªà§°à¦¤ à¦¨à¦¿à§°à§à¦­à§° à¦•à§°à¦¿à¦¬ à¦¨à¦¾à¦²à¦¾à¦—à§‡à¥¤ à¦¤à¦²à¦¤ à¦¦à¦¿à¦¯à¦¼à¦¾ à¦•à¦¾à¦®à¦¬à§‹à§° à¦¬à¦¿à¦¨à¦¾à¦®à§‚à¦²à§€à¦¯à¦¼à¦¾à¦•à§ˆ à¦¸à¦®à§à¦­à§±: à¦¬à§à¦¯à¦•à§à¦¤à¦¿à¦—à¦¤ à¦ªà§à§°à¦«à¦¾à¦‡à¦², à¦†à¦¨à§à¦¤à¦ƒà§°à¦¾à¦·à§à¦Ÿà§à§°à§€à¦¯à¦¼ à¦¯à§‹à¦—à¦¾à¦¯à§‹à¦—, à¦…à§±à¦¦à¦¾à¦¨, à¦®à¦¨à§à¦¤à¦¬à§à¦¯, à¦®à§Œà¦²à¦¿à¦• à¦…à¦¨à§à¦¬à¦¾à¦¦, à¦¸à¦®à§à¦ªà§à§°à¦¦à¦¾à¦¯à¦¼, à¦†à¦¡à§à¦¡à¦¾, à¦®à§Œà¦²à¦¿à¦• à¦¸à¦‚à¦¬à¦¾à¦¦ à¦®à¦¾à¦§à§à¦¯à¦®à§° à¦•à¦¾à§°à§à¦¯à§à¦¯à¥¤
 
-#### স্তম্ভ ২ – প্ৰিমিয়াম অফাৰ
-স্বেচ্ছামূলক পেইড অফাৰ (**নেক্সছ গাজা প্লাছ**)। সম্ভাৱ্য সুবিধাসমূহ: বৃহৎ সংৰক্ষণ সীমা, উচ্চ মাধ্যমৰ মান, দীঘলীয়া ভিডিঅ' সংক্ৰমণ, সম্প্ৰসাৰিত অনুবাদ কাৰ্য্য, বৃহৎ সম্প্ৰদায়, অতিৰিক্ত সাংগঠনিক কাৰ্য্য, উচ্চ AI কোটা।
-**Fremium – কিন্তু “ডাৰ্ক Freemium” নহয়:** বিনামূলীয়া সংস্কৰণ বুদ্ধিমানৰূপে ব্যৱহাৰ কৰিব পাৰি; প্ৰিমিয়ামে ইয়াক সম্প্ৰসাৰিত কৰে।
+#### à¦¸à§à¦¤à¦®à§à¦­ à§¨ â€“ à¦ªà§à§°à¦¿à¦®à¦¿à¦¯à¦¼à¦¾à¦® à¦…à¦«à¦¾à§°
+à¦¸à§à¦¬à§‡à¦šà§à¦›à¦¾à¦®à§‚à¦²à¦• à¦ªà§‡à¦‡à¦¡ à¦…à¦«à¦¾à§° (**à¦¨à§‡à¦•à§à¦¸à¦› à¦—à¦¾à¦œà¦¾ à¦ªà§à¦²à¦¾à¦›**)à¥¤ à¦¸à¦®à§à¦­à¦¾à§±à§à¦¯ à¦¸à§à¦¬à¦¿à¦§à¦¾à¦¸à¦®à§‚à¦¹: à¦¬à§ƒà¦¹à§Ž à¦¸à¦‚à§°à¦•à§à¦·à¦£ à¦¸à§€à¦®à¦¾, à¦‰à¦šà§à¦š à¦®à¦¾à¦§à§à¦¯à¦®à§° à¦®à¦¾à¦¨, à¦¦à§€à¦˜à¦²à§€à¦¯à¦¼à¦¾ à¦­à¦¿à¦¡à¦¿à¦…' à¦¸à¦‚à¦•à§à§°à¦®à¦£, à¦¸à¦®à§à¦ªà§à§°à¦¸à¦¾à§°à¦¿à¦¤ à¦…à¦¨à§à¦¬à¦¾à¦¦ à¦•à¦¾à§°à§à¦¯à§à¦¯, à¦¬à§ƒà¦¹à§Ž à¦¸à¦®à§à¦ªà§à§°à¦¦à¦¾à¦¯à¦¼, à¦…à¦¤à¦¿à§°à¦¿à¦•à§à¦¤ à¦¸à¦¾à¦‚à¦—à¦ à¦¨à¦¿à¦• à¦•à¦¾à§°à§à¦¯à§à¦¯, à¦‰à¦šà§à¦š AI à¦•à§‹à¦Ÿà¦¾à¥¤
+**Fremium â€“ à¦•à¦¿à¦¨à§à¦¤à§ â€œà¦¡à¦¾à§°à§à¦• Freemiumâ€ à¦¨à¦¹à¦¯à¦¼:** à¦¬à¦¿à¦¨à¦¾à¦®à§‚à¦²à§€à¦¯à¦¼à¦¾ à¦¸à¦‚à¦¸à§à¦•à§°à¦£ à¦¬à§à¦¦à§à¦§à¦¿à¦®à¦¾à¦¨à§°à§‚à¦ªà§‡ à¦¬à§à¦¯à§±à¦¹à¦¾à§° à¦•à§°à¦¿à¦¬ à¦ªà¦¾à§°à¦¿; à¦ªà§à§°à¦¿à¦®à¦¿à¦¯à¦¼à¦¾à¦®à§‡ à¦‡à¦¯à¦¼à¦¾à¦• à¦¸à¦®à§à¦ªà§à§°à¦¸à¦¾à§°à¦¿à¦¤ à¦•à§°à§‡à¥¤
 
-#### স্তম্ভ ৩ – সংগঠন
-**Nexus Gaja Organization:** বিদ্যালয়, বিশ্ববিদ্যালয়, ক্লাব, বেচৰকাৰী সংস্থা, কোম্পানী, পৌৰসভা আদিৰ বাবে বিশেষ একাউণ্ট, কেন্দ্ৰীয় সাংগঠনিক একাউণ্ট, সদস্য ব্যৱস্থাপনা আৰু প্ৰশাসক কাৰ্য্যৰ সৈতে। (উদাহৰণ: এখন বিদ্যালয়ে ছাত্ৰ-ছাত্ৰীৰ প্ৰৱেশ বিনামূলীয়াকৈ বা প্ৰতিষ্ঠানিক শুল্কৰ জৰিয়তে লাভ কৰে)।
+#### à¦¸à§à¦¤à¦®à§à¦­ à§© â€“ à¦¸à¦‚à¦—à¦ à¦¨
+**Nexus Gaja Organization:** à¦¬à¦¿à¦¦à§à¦¯à¦¾à¦²à¦¯à¦¼, à¦¬à¦¿à¦¶à§à¦¬à¦¬à¦¿à¦¦à§à¦¯à¦¾à¦²à¦¯à¦¼, à¦•à§à¦²à¦¾à¦¬, à¦¬à§‡à¦šà§°à¦•à¦¾à§°à§€ à¦¸à¦‚à¦¸à§à¦¥à¦¾, à¦•à§‹à¦®à§à¦ªà¦¾à¦¨à§€, à¦ªà§Œà§°à¦¸à¦­à¦¾ à¦†à¦¦à¦¿à§° à¦¬à¦¾à¦¬à§‡ à¦¬à¦¿à¦¶à§‡à¦· à¦à¦•à¦¾à¦‰à¦£à§à¦Ÿ, à¦•à§‡à¦¨à§à¦¦à§à§°à§€à¦¯à¦¼ à¦¸à¦¾à¦‚à¦—à¦ à¦¨à¦¿à¦• à¦à¦•à¦¾à¦‰à¦£à§à¦Ÿ, à¦¸à¦¦à¦¸à§à¦¯ à¦¬à§à¦¯à§±à¦¸à§à¦¥à¦¾à¦ªà¦¨à¦¾ à¦†à§°à§ à¦ªà§à§°à¦¶à¦¾à¦¸à¦• à¦•à¦¾à§°à§à¦¯à§à¦¯à§° à¦¸à§ˆà¦¤à§‡à¥¤ (à¦‰à¦¦à¦¾à¦¹à§°à¦£: à¦à¦–à¦¨ à¦¬à¦¿à¦¦à§à¦¯à¦¾à¦²à¦¯à¦¼à§‡ à¦›à¦¾à¦¤à§à§°-à¦›à¦¾à¦¤à§à§°à§€à§° à¦ªà§à§°à§±à§‡à¦¶ à¦¬à¦¿à¦¨à¦¾à¦®à§‚à¦²à§€à¦¯à¦¼à¦¾à¦•à§ˆ à¦¬à¦¾ à¦ªà§à§°à¦¤à¦¿à¦·à§à¦ à¦¾à¦¨à¦¿à¦• à¦¶à§à¦²à§à¦•à§° à¦œà§°à¦¿à¦¯à¦¼à¦¤à§‡ à¦²à¦¾à¦­ à¦•à§°à§‡)à¥¤
 
-#### চতুৰ্থ স্তম্ভ – অনুদান
-**Nexus Gaja funding fund:** দাতাসকলে স্বেচ্ছাই ধন আগবঢ়াব পাৰে (সাধাৰণ বা নিৰ্দিষ্ট অনুদান)। 
-**ফাণ্ডিং পুল আৰু tombola:** বিনামূলীয়া বা ৰেহাইমূলক ব্যৱহাৰ এটা অনুদান পুলৰ পৰা বিত্তীয় সাহায্য কৰা হয়. এটা পুঁজি আবণ্টন লেজাৰে আৰ্মাৰ্কিং নিশ্চিত কৰে।
-```পাঠ্য
-অনুদান → উদ্দেশ্য পুঁজি → যোগ্যতা ইঞ্জিন → বিনামূলীয়া প্ৰৱেশ / ৰেহাই / কোটা
+#### à¦šà¦¤à§à§°à§à¦¥ à¦¸à§à¦¤à¦®à§à¦­ â€“ à¦…à¦¨à§à¦¦à¦¾à¦¨
+**Nexus Gaja funding fund:** à¦¦à¦¾à¦¤à¦¾à¦¸à¦•à¦²à§‡ à¦¸à§à¦¬à§‡à¦šà§à¦›à¦¾à¦‡ à¦§à¦¨ à¦†à¦—à¦¬à¦¢à¦¼à¦¾à¦¬ à¦ªà¦¾à§°à§‡ (à¦¸à¦¾à¦§à¦¾à§°à¦£ à¦¬à¦¾ à¦¨à¦¿à§°à§à¦¦à¦¿à¦·à§à¦Ÿ à¦…à¦¨à§à¦¦à¦¾à¦¨)à¥¤ 
+**à¦«à¦¾à¦£à§à¦¡à¦¿à¦‚ à¦ªà§à¦² à¦†à§°à§ tombola:** à¦¬à¦¿à¦¨à¦¾à¦®à§‚à¦²à§€à¦¯à¦¼à¦¾ à¦¬à¦¾ à§°à§‡à¦¹à¦¾à¦‡à¦®à§‚à¦²à¦• à¦¬à§à¦¯à§±à¦¹à¦¾à§° à¦à¦Ÿà¦¾ à¦…à¦¨à§à¦¦à¦¾à¦¨ à¦ªà§à¦²à§° à¦ªà§°à¦¾ à¦¬à¦¿à¦¤à§à¦¤à§€à¦¯à¦¼ à¦¸à¦¾à¦¹à¦¾à¦¯à§à¦¯ à¦•à§°à¦¾ à¦¹à¦¯à¦¼. à¦à¦Ÿà¦¾ à¦ªà§à¦à¦œà¦¿ à¦†à¦¬à¦£à§à¦Ÿà¦¨ à¦²à§‡à¦œà¦¾à§°à§‡ à¦†à§°à§à¦®à¦¾à§°à§à¦•à¦¿à¦‚ à¦¨à¦¿à¦¶à§à¦šà¦¿à¦¤ à¦•à§°à§‡à¥¤
+```à¦ªà¦¾à¦ à§à¦¯
+à¦…à¦¨à§à¦¦à¦¾à¦¨ â†’ à¦‰à¦¦à§à¦¦à§‡à¦¶à§à¦¯ à¦ªà§à¦à¦œà¦¿ â†’ à¦¯à§‹à¦—à§à¦¯à¦¤à¦¾ à¦‡à¦žà§à¦œà¦¿à¦¨ â†’ à¦¬à¦¿à¦¨à¦¾à¦®à§‚à¦²à§€à¦¯à¦¼à¦¾ à¦ªà§à§°à§±à§‡à¦¶ / à§°à§‡à¦¹à¦¾à¦‡ / à¦•à§‹à¦Ÿà¦¾
 ```
 
-#### ৫ম স্তম্ভ – প্ৰতিষ্ঠানিক সহায়
-পৃষ্ঠপোষক: ফাউণ্ডেশ্যন, সাংস্কৃতিক পুঁজিৰ কাৰ্যসূচী, ৰাজ্যিক পুঁজিৰ কাৰ্যসূচী।
-**NG-FIN-002 (স্বাধীনতা):** পুঁজিৰ দ্বাৰা নেক্সছ গাজাৰ ওপৰত সম্পাদকীয় বা কাৰিকৰী নিয়ন্ত্ৰণ ক্ৰয় কৰিব নোৱাৰিব।
+#### à§«à¦® à¦¸à§à¦¤à¦®à§à¦­ â€“ à¦ªà§à§°à¦¤à¦¿à¦·à§à¦ à¦¾à¦¨à¦¿à¦• à¦¸à¦¹à¦¾à¦¯à¦¼
+à¦ªà§ƒà¦·à§à¦ à¦ªà§‹à¦·à¦•: à¦«à¦¾à¦‰à¦£à§à¦¡à§‡à¦¶à§à¦¯à¦¨, à¦¸à¦¾à¦‚à¦¸à§à¦•à§ƒà¦¤à¦¿à¦• à¦ªà§à¦à¦œà¦¿à§° à¦•à¦¾à§°à§à¦¯à¦¸à§‚à¦šà§€, à§°à¦¾à¦œà§à¦¯à¦¿à¦• à¦ªà§à¦à¦œà¦¿à§° à¦•à¦¾à§°à§à¦¯à¦¸à§‚à¦šà§€à¥¤
+**NG-FIN-002 (à¦¸à§à¦¬à¦¾à¦§à§€à¦¨à¦¤à¦¾):** à¦ªà§à¦à¦œà¦¿à§° à¦¦à§à¦¬à¦¾à§°à¦¾ à¦¨à§‡à¦•à§à¦¸à¦› à¦—à¦¾à¦œà¦¾à§° à¦“à¦ªà§°à¦¤ à¦¸à¦®à§à¦ªà¦¾à¦¦à¦•à§€à¦¯à¦¼ à¦¬à¦¾ à¦•à¦¾à§°à¦¿à¦•à§°à§€ à¦¨à¦¿à¦¯à¦¼à¦¨à§à¦¤à§à§°à¦£ à¦•à§à§°à¦¯à¦¼ à¦•à§°à¦¿à¦¬ à¦¨à§‹à§±à¦¾à§°à¦¿à¦¬à¥¤
 
-#### ৬ নং স্তম্ভ – বাণিজ্যিক সেৱা
-নেক্সছ গাজাই সাধাৰণ ব্যৱহাৰকাৰী ফিডক বিজ্ঞাপনৰ বোজা নিদিয়াকৈ **অনুবাদ-সেৱা হিচাপে (এপিআই)**, পেছাদাৰী অনুবাদ, সাংগঠনিক যোগাযোগ বা আন্তঃৰাষ্ট্ৰীয় সন্মিলন কক্ষৰ দৰে বিটুবি সেৱা আগবঢ়াব পাৰে।
+#### à§¬ à¦¨à¦‚ à¦¸à§à¦¤à¦®à§à¦­ â€“ à¦¬à¦¾à¦£à¦¿à¦œà§à¦¯à¦¿à¦• à¦¸à§‡à§±à¦¾
+à¦¨à§‡à¦•à§à¦¸à¦› à¦—à¦¾à¦œà¦¾à¦‡ à¦¸à¦¾à¦§à¦¾à§°à¦£ à¦¬à§à¦¯à§±à¦¹à¦¾à§°à¦•à¦¾à§°à§€ à¦«à¦¿à¦¡à¦• à¦¬à¦¿à¦œà§à¦žà¦¾à¦ªà¦¨à§° à¦¬à§‹à¦œà¦¾ à¦¨à¦¿à¦¦à¦¿à¦¯à¦¼à¦¾à¦•à§ˆ **à¦…à¦¨à§à¦¬à¦¾à¦¦-à¦¸à§‡à§±à¦¾ à¦¹à¦¿à¦šà¦¾à¦ªà§‡ (à¦à¦ªà¦¿à¦†à¦‡)**, à¦ªà§‡à¦›à¦¾à¦¦à¦¾à§°à§€ à¦…à¦¨à§à¦¬à¦¾à¦¦, à¦¸à¦¾à¦‚à¦—à¦ à¦¨à¦¿à¦• à¦¯à§‹à¦—à¦¾à¦¯à§‹à¦— à¦¬à¦¾ à¦†à¦¨à§à¦¤à¦ƒà§°à¦¾à¦·à§à¦Ÿà§à§°à§€à¦¯à¦¼ à¦¸à¦¨à§à¦®à¦¿à¦²à¦¨ à¦•à¦•à§à¦·à§° à¦¦à§°à§‡ à¦¬à¦¿à¦Ÿà§à¦¬à¦¿ à¦¸à§‡à§±à¦¾ à¦†à¦—à¦¬à¦¢à¦¼à¦¾à¦¬ à¦ªà¦¾à§°à§‡à¥¤
 
-### ৪/ ডাটা মাৰ্কেটিং আৰু “চোৱাচিতা অৰ্থনীতি” নাই ৷
-**NG-FIN-003:** ব্যৱহাৰকাৰীৰ ব্যক্তিগত তথ্য Nexus Gaja ৰ কোনো পণ্য নহয়। (প্ৰফাইল, ইতিহাস, পৰিচয় তথ্যৰ বিক্ৰী নহয়)। 
-নেক্সছ গাজাৰ ব্যৱহাৰকাৰীসকলক যিমান পাৰি নিৰীক্ষণ কৰা আৰু মানসিকভাৱে যিমান পাৰি নিখুঁতভাৱে শ্ৰেণীভুক্ত কৰাৰ ফলত লাভৱান হোৱাৰ উদ্দেশ্য নহয়।
+### à§ª/ à¦¡à¦¾à¦Ÿà¦¾ à¦®à¦¾à§°à§à¦•à§‡à¦Ÿà¦¿à¦‚ à¦†à§°à§ â€œà¦šà§‹à§±à¦¾à¦šà¦¿à¦¤à¦¾ à¦…à§°à§à¦¥à¦¨à§€à¦¤à¦¿â€ à¦¨à¦¾à¦‡ à§·
+**NG-FIN-003:** à¦¬à§à¦¯à§±à¦¹à¦¾à§°à¦•à¦¾à§°à§€à§° à¦¬à§à¦¯à¦•à§à¦¤à¦¿à¦—à¦¤ à¦¤à¦¥à§à¦¯ Nexus Gaja à§° à¦•à§‹à¦¨à§‹ à¦ªà¦£à§à¦¯ à¦¨à¦¹à¦¯à¦¼à¥¤ (à¦ªà§à§°à¦«à¦¾à¦‡à¦², à¦‡à¦¤à¦¿à¦¹à¦¾à¦¸, à¦ªà§°à¦¿à¦šà¦¯à¦¼ à¦¤à¦¥à§à¦¯à§° à¦¬à¦¿à¦•à§à§°à§€ à¦¨à¦¹à¦¯à¦¼)à¥¤ 
+à¦¨à§‡à¦•à§à¦¸à¦› à¦—à¦¾à¦œà¦¾à§° à¦¬à§à¦¯à§±à¦¹à¦¾à§°à¦•à¦¾à§°à§€à¦¸à¦•à¦²à¦• à¦¯à¦¿à¦®à¦¾à¦¨ à¦ªà¦¾à§°à¦¿ à¦¨à¦¿à§°à§€à¦•à§à¦·à¦£ à¦•à§°à¦¾ à¦†à§°à§ à¦®à¦¾à¦¨à¦¸à¦¿à¦•à¦­à¦¾à§±à§‡ à¦¯à¦¿à¦®à¦¾à¦¨ à¦ªà¦¾à§°à¦¿ à¦¨à¦¿à¦–à§à¦à¦¤à¦­à¦¾à§±à§‡ à¦¶à§à§°à§‡à¦£à§€à¦­à§à¦•à§à¦¤ à¦•à§°à¦¾à§° à¦«à¦²à¦¤ à¦²à¦¾à¦­à§±à¦¾à¦¨ à¦¹à§‹à§±à¦¾à§° à¦‰à¦¦à§à¦¦à§‡à¦¶à§à¦¯ à¦¨à¦¹à¦¯à¦¼à¥¤
 
-### ৫.বিত্তীয় স্বচ্ছতা
-নেক্সছ গাজা বিত্তীয় স্বচ্ছতাঃ শ্ৰেণী, দানৰ পৰিমাণ, পৰিচালনা ব্যয় ইত্যাদি অনুসৰি আয় প্ৰকাশ কৰিব পাৰি। 
-**ফাণ্ডিং লেজাৰ:** এটা নিৰ্দিষ্ট উদ্দেশ্যৰ বাবে নিৰ্ধাৰিত অনুদানসমূহ বুজিব পৰা একাউণ্টিং পদ্ধতিৰে ৰেকৰ্ড কৰা হয় (দান → ফাণ্ড আইডি → উদ্দেশ্য → উপলব্ধ বেলেঞ্চ → আবণ্টন)। স্বচ্ছতা অবিহনে কোনো ক্ৰছ চাবচিডাইজেচন নহয়।
+### à§«.à¦¬à¦¿à¦¤à§à¦¤à§€à¦¯à¦¼ à¦¸à§à¦¬à¦šà§à¦›à¦¤à¦¾
+à¦¨à§‡à¦•à§à¦¸à¦› à¦—à¦¾à¦œà¦¾ à¦¬à¦¿à¦¤à§à¦¤à§€à¦¯à¦¼ à¦¸à§à¦¬à¦šà§à¦›à¦¤à¦¾à¦ƒ à¦¶à§à§°à§‡à¦£à§€, à¦¦à¦¾à¦¨à§° à¦ªà§°à¦¿à¦®à¦¾à¦£, à¦ªà§°à¦¿à¦šà¦¾à¦²à¦¨à¦¾ à¦¬à§à¦¯à¦¯à¦¼ à¦‡à¦¤à§à¦¯à¦¾à¦¦à¦¿ à¦…à¦¨à§à¦¸à§°à¦¿ à¦†à¦¯à¦¼ à¦ªà§à§°à¦•à¦¾à¦¶ à¦•à§°à¦¿à¦¬ à¦ªà¦¾à§°à¦¿à¥¤ 
+**à¦«à¦¾à¦£à§à¦¡à¦¿à¦‚ à¦²à§‡à¦œà¦¾à§°:** à¦à¦Ÿà¦¾ à¦¨à¦¿à§°à§à¦¦à¦¿à¦·à§à¦Ÿ à¦‰à¦¦à§à¦¦à§‡à¦¶à§à¦¯à§° à¦¬à¦¾à¦¬à§‡ à¦¨à¦¿à§°à§à¦§à¦¾à§°à¦¿à¦¤ à¦…à¦¨à§à¦¦à¦¾à¦¨à¦¸à¦®à§‚à¦¹ à¦¬à§à¦œà¦¿à¦¬ à¦ªà§°à¦¾ à¦à¦•à¦¾à¦‰à¦£à§à¦Ÿà¦¿à¦‚ à¦ªà¦¦à§à¦§à¦¤à¦¿à§°à§‡ à§°à§‡à¦•à§°à§à¦¡ à¦•à§°à¦¾ à¦¹à¦¯à¦¼ (à¦¦à¦¾à¦¨ â†’ à¦«à¦¾à¦£à§à¦¡ à¦†à¦‡à¦¡à¦¿ â†’ à¦‰à¦¦à§à¦¦à§‡à¦¶à§à¦¯ â†’ à¦‰à¦ªà¦²à¦¬à§à¦§ à¦¬à§‡à¦²à§‡à¦žà§à¦š â†’ à¦†à¦¬à¦£à§à¦Ÿà¦¨)à¥¤ à¦¸à§à¦¬à¦šà§à¦›à¦¤à¦¾ à¦…à¦¬à¦¿à¦¹à¦¨à§‡ à¦•à§‹à¦¨à§‹ à¦•à§à§°à¦› à¦šà¦¾à¦¬à¦šà¦¿à¦¡à¦¾à¦‡à¦œà§‡à¦šà¦¨ à¦¨à¦¹à¦¯à¦¼à¥¤
 
-### ৬.মূল্য নিৰ্ধাৰণ আৰু সংহতি বিত্তীয় আৰ্হি
-মূল্যসমূহৰ ভিত্তি হৈছে: খৰচমুখীতা, ন্যায়পৰায়ণতা আৰু সংহতি।
-**সংহতি প্ৰিমিয়াম:** এজন প্ৰিমিয়াম ব্যৱহাৰকাৰীয়ে স্বেচ্ছাই বাছি ল’ব পাৰে: “মই আন এজন ব্যৱহাৰকাৰীৰ প্ৰৱেশৰ এটা অংশ বিত্তীয় সাহায্য দিওঁ।” বলপূৰ্বক সংহতি বা প্ৰিমিয়াম শ্ৰেণীৰ সমাজ (মুক্ত ব্যৱহাৰকাৰীৰ প্ৰতি কম সন্মান বা বেয়া মডাৰেচন) বাদ দিয়া হৈছে।
+### à§¬.à¦®à§‚à¦²à§à¦¯ à¦¨à¦¿à§°à§à¦§à¦¾à§°à¦£ à¦†à§°à§ à¦¸à¦‚à¦¹à¦¤à¦¿ à¦¬à¦¿à¦¤à§à¦¤à§€à¦¯à¦¼ à¦†à§°à§à¦¹à¦¿
+à¦®à§‚à¦²à§à¦¯à¦¸à¦®à§‚à¦¹à§° à¦­à¦¿à¦¤à§à¦¤à¦¿ à¦¹à§ˆà¦›à§‡: à¦–à§°à¦šà¦®à§à¦–à§€à¦¤à¦¾, à¦¨à§à¦¯à¦¾à¦¯à¦¼à¦ªà§°à¦¾à¦¯à¦¼à¦£à¦¤à¦¾ à¦†à§°à§ à¦¸à¦‚à¦¹à¦¤à¦¿à¥¤
+**à¦¸à¦‚à¦¹à¦¤à¦¿ à¦ªà§à§°à¦¿à¦®à¦¿à¦¯à¦¼à¦¾à¦®:** à¦à¦œà¦¨ à¦ªà§à§°à¦¿à¦®à¦¿à¦¯à¦¼à¦¾à¦® à¦¬à§à¦¯à§±à¦¹à¦¾à§°à¦•à¦¾à§°à§€à¦¯à¦¼à§‡ à¦¸à§à¦¬à§‡à¦šà§à¦›à¦¾à¦‡ à¦¬à¦¾à¦›à¦¿ à¦²â€™à¦¬ à¦ªà¦¾à§°à§‡: â€œà¦®à¦‡ à¦†à¦¨ à¦à¦œà¦¨ à¦¬à§à¦¯à§±à¦¹à¦¾à§°à¦•à¦¾à§°à§€à§° à¦ªà§à§°à§±à§‡à¦¶à§° à¦à¦Ÿà¦¾ à¦…à¦‚à¦¶ à¦¬à¦¿à¦¤à§à¦¤à§€à¦¯à¦¼ à¦¸à¦¾à¦¹à¦¾à¦¯à§à¦¯ à¦¦à¦¿à¦“à¦à¥¤â€ à¦¬à¦²à¦ªà§‚à§°à§à¦¬à¦• à¦¸à¦‚à¦¹à¦¤à¦¿ à¦¬à¦¾ à¦ªà§à§°à¦¿à¦®à¦¿à¦¯à¦¼à¦¾à¦® à¦¶à§à§°à§‡à¦£à§€à§° à¦¸à¦®à¦¾à¦œ (à¦®à§à¦•à§à¦¤ à¦¬à§à¦¯à§±à¦¹à¦¾à§°à¦•à¦¾à§°à§€à§° à¦ªà§à§°à¦¤à¦¿ à¦•à¦® à¦¸à¦¨à§à¦®à¦¾à¦¨ à¦¬à¦¾ à¦¬à§‡à¦¯à¦¼à¦¾ à¦®à¦¡à¦¾à§°à§‡à¦šà¦¨) à¦¬à¦¾à¦¦ à¦¦à¦¿à¦¯à¦¼à¦¾ à¦¹à§ˆà¦›à§‡à¥¤
 
-### ৭.অৰ্থনৈতিক কেপিআই
-আমি অন্তহীন অনলাইন সময়ৰ ওপৰত নিৰ্ভৰশীল নহয় (কোনো হেতালি খেলা এংগেজমেণ্ট ইকনমি নাই)। আমাৰ কেপিআইসমূহ:
-- **গ্ল'বেল কমিউনিকেচন ইনডেক্স (GCI):** বিভিন্ন ভাষিক বা সাংস্কৃতিক অঞ্চলৰ লোকৰ মাজত কিমান সফল যোগাযোগ সম্পৰ্কৰ সৃষ্টি হয়?
-- **প্লেটফৰ্ম বহনক্ষমতা অনুপাত (PSR):** পুনৰাবৃত্তিমূলক ৰাজহ / পুনৰাবৃত্তিমূলক অপাৰেটিং খৰচ (লক্ষ্য: PSR ≥ 1)।
+### à§­.à¦…à§°à§à¦¥à¦¨à§ˆà¦¤à¦¿à¦• à¦•à§‡à¦ªà¦¿à¦†à¦‡
+à¦†à¦®à¦¿ à¦…à¦¨à§à¦¤à¦¹à§€à¦¨ à¦…à¦¨à¦²à¦¾à¦‡à¦¨ à¦¸à¦®à¦¯à¦¼à§° à¦“à¦ªà§°à¦¤ à¦¨à¦¿à§°à§à¦­à§°à¦¶à§€à¦² à¦¨à¦¹à¦¯à¦¼ (à¦•à§‹à¦¨à§‹ à¦¹à§‡à¦¤à¦¾à¦²à¦¿ à¦–à§‡à¦²à¦¾ à¦à¦‚à¦—à§‡à¦œà¦®à§‡à¦£à§à¦Ÿ à¦‡à¦•à¦¨à¦®à¦¿ à¦¨à¦¾à¦‡)à¥¤ à¦†à¦®à¦¾à§° à¦•à§‡à¦ªà¦¿à¦†à¦‡à¦¸à¦®à§‚à¦¹:
+- **à¦—à§à¦²'à¦¬à§‡à¦² à¦•à¦®à¦¿à¦‰à¦¨à¦¿à¦•à§‡à¦šà¦¨ à¦‡à¦¨à¦¡à§‡à¦•à§à¦¸ (GCI):** à¦¬à¦¿à¦­à¦¿à¦¨à§à¦¨ à¦­à¦¾à¦·à¦¿à¦• à¦¬à¦¾ à¦¸à¦¾à¦‚à¦¸à§à¦•à§ƒà¦¤à¦¿à¦• à¦…à¦žà§à¦šà¦²à§° à¦²à§‹à¦•à§° à¦®à¦¾à¦œà¦¤ à¦•à¦¿à¦®à¦¾à¦¨ à¦¸à¦«à¦² à¦¯à§‹à¦—à¦¾à¦¯à§‹à¦— à¦¸à¦®à§à¦ªà§°à§à¦•à§° à¦¸à§ƒà¦·à§à¦Ÿà¦¿ à¦¹à¦¯à¦¼?
+- **à¦ªà§à¦²à§‡à¦Ÿà¦«à§°à§à¦® à¦¬à¦¹à¦¨à¦•à§à¦·à¦®à¦¤à¦¾ à¦…à¦¨à§à¦ªà¦¾à¦¤ (PSR):** à¦ªà§à¦¨à§°à¦¾à¦¬à§ƒà¦¤à§à¦¤à¦¿à¦®à§‚à¦²à¦• à§°à¦¾à¦œà¦¹ / à¦ªà§à¦¨à§°à¦¾à¦¬à§ƒà¦¤à§à¦¤à¦¿à¦®à§‚à¦²à¦• à¦…à¦ªà¦¾à§°à§‡à¦Ÿà¦¿à¦‚ à¦–à§°à¦š (à¦²à¦•à§à¦·à§à¦¯: PSR â‰¥ 1)à¥¤
 
-### ৮/ আমি যিটো স্পষ্টভাৱে নিবিচাৰো
-Nexus Gaja ৰ দ্বাৰা বিত্তীয় সাহায্য প্ৰদান কৰা হোৱা নাই:
-❌ ব্যক্তিগত তথ্য বিক্ৰী
-❌ ব্যক্তিগতকৃত ক্লাছিক বিজ্ঞাপন
-❌ বিজ্ঞাপনৰ উদ্দেশ্যে ব্যৱহাৰকাৰীৰ আচৰণ নিৰীক্ষণ কৰা
-❌ ব্যক্তিগত যোগাযোগৰ তথ্য বিক্ৰী কৰা
-❌ লুকাই থকা AI ডাটা ব্যৱহাৰ
-❌ হেতালি খেলা প্ৰিমিয়াম লক
-❌ মুদ্ৰাকৰণৰ বাবে কৃত্ৰিম প্ৰসাৰ সীমাবদ্ধতা
-❌ পেইড ৰাজনৈতিক প্ৰভাৱ
-❌ বিশেষ সুবিধাপ্ৰাপ্ত মডাৰেচন সিদ্ধান্ত ক্ৰয় কৰা।
+### à§®/ à¦†à¦®à¦¿ à¦¯à¦¿à¦Ÿà§‹ à¦¸à§à¦ªà¦·à§à¦Ÿà¦­à¦¾à§±à§‡ à¦¨à¦¿à¦¬à¦¿à¦šà¦¾à§°à§‹
+Nexus Gaja à§° à¦¦à§à¦¬à¦¾à§°à¦¾ à¦¬à¦¿à¦¤à§à¦¤à§€à¦¯à¦¼ à¦¸à¦¾à¦¹à¦¾à¦¯à§à¦¯ à¦ªà§à§°à¦¦à¦¾à¦¨ à¦•à§°à¦¾ à¦¹à§‹à§±à¦¾ à¦¨à¦¾à¦‡:
+âŒ à¦¬à§à¦¯à¦•à§à¦¤à¦¿à¦—à¦¤ à¦¤à¦¥à§à¦¯ à¦¬à¦¿à¦•à§à§°à§€
+âŒ à¦¬à§à¦¯à¦•à§à¦¤à¦¿à¦—à¦¤à¦•à§ƒà¦¤ à¦•à§à¦²à¦¾à¦›à¦¿à¦• à¦¬à¦¿à¦œà§à¦žà¦¾à¦ªà¦¨
+âŒ à¦¬à¦¿à¦œà§à¦žà¦¾à¦ªà¦¨à§° à¦‰à¦¦à§à¦¦à§‡à¦¶à§à¦¯à§‡ à¦¬à§à¦¯à§±à¦¹à¦¾à§°à¦•à¦¾à§°à§€à§° à¦†à¦šà§°à¦£ à¦¨à¦¿à§°à§€à¦•à§à¦·à¦£ à¦•à§°à¦¾
+âŒ à¦¬à§à¦¯à¦•à§à¦¤à¦¿à¦—à¦¤ à¦¯à§‹à¦—à¦¾à¦¯à§‹à¦—à§° à¦¤à¦¥à§à¦¯ à¦¬à¦¿à¦•à§à§°à§€ à¦•à§°à¦¾
+âŒ à¦²à§à¦•à¦¾à¦‡ à¦¥à¦•à¦¾ AI à¦¡à¦¾à¦Ÿà¦¾ à¦¬à§à¦¯à§±à¦¹à¦¾à§°
+âŒ à¦¹à§‡à¦¤à¦¾à¦²à¦¿ à¦–à§‡à¦²à¦¾ à¦ªà§à§°à¦¿à¦®à¦¿à¦¯à¦¼à¦¾à¦® à¦²à¦•
+âŒ à¦®à§à¦¦à§à§°à¦¾à¦•à§°à¦£à§° à¦¬à¦¾à¦¬à§‡ à¦•à§ƒà¦¤à§à§°à¦¿à¦® à¦ªà§à§°à¦¸à¦¾à§° à¦¸à§€à¦®à¦¾à¦¬à¦¦à§à¦§à¦¤à¦¾
+âŒ à¦ªà§‡à¦‡à¦¡ à§°à¦¾à¦œà¦¨à§ˆà¦¤à¦¿à¦• à¦ªà§à§°à¦­à¦¾à§±
+âŒ à¦¬à¦¿à¦¶à§‡à¦· à¦¸à§à¦¬à¦¿à¦§à¦¾à¦ªà§à§°à¦¾à¦ªà§à¦¤ à¦®à¦¡à¦¾à§°à§‡à¦šà¦¨ à¦¸à¦¿à¦¦à§à¦§à¦¾à¦¨à§à¦¤ à¦•à§à§°à¦¯à¦¼ à¦•à§°à¦¾à¥¤
 
-### ৯.প্ৰাথমিক স্থাপত্য
-```পাঠ্য
-                         নেক্সছ গাজা
-                              │
-             ┌─────────────────────────────────────
-             │ │ │
-             ▼ ▼ ▼
-          ব্যৱহাৰকাৰী সংস্থাসমূহ উদ্যোগ
-             │ │ │
-             └────────────────┼────────────────
-                              │
-                       প্লেটফৰ্ম সেৱা
-                              │
-          ┌─────────────────── ┼───────────────────┐
-          ▼ ▼ ▼
-       প্ৰিমিয়াম ডনেচনছ এপিআই
-                              │
-                    ┌───────────────────┐
-                    ▼ ▼
-               সাধাৰণ পুঁজি নিষিদ্ধ পুঁজি
-                                        │
-                                        ▼
-                                  সামাজিক উদ্দেশ্য
+### à§¯.à¦ªà§à§°à¦¾à¦¥à¦®à¦¿à¦• à¦¸à§à¦¥à¦¾à¦ªà¦¤à§à¦¯
+```à¦ªà¦¾à¦ à§à¦¯
+                         à¦¨à§‡à¦•à§à¦¸à¦› à¦—à¦¾à¦œà¦¾
+                              â”‚
+             â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+             â”‚ â”‚ â”‚
+             â–¼ â–¼ â–¼
+          à¦¬à§à¦¯à§±à¦¹à¦¾à§°à¦•à¦¾à§°à§€ à¦¸à¦‚à¦¸à§à¦¥à¦¾à¦¸à¦®à§‚à¦¹ à¦‰à¦¦à§à¦¯à§‹à¦—
+             â”‚ â”‚ â”‚
+             â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+                              â”‚
+                       à¦ªà§à¦²à§‡à¦Ÿà¦«à§°à§à¦® à¦¸à§‡à§±à¦¾
+                              â”‚
+          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+          â–¼ â–¼ â–¼
+       à¦ªà§à§°à¦¿à¦®à¦¿à¦¯à¦¼à¦¾à¦® à¦¡à¦¨à§‡à¦šà¦¨à¦› à¦à¦ªà¦¿à¦†à¦‡
+                              â”‚
+                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+                    â–¼ â–¼
+               à¦¸à¦¾à¦§à¦¾à§°à¦£ à¦ªà§à¦à¦œà¦¿ à¦¨à¦¿à¦·à¦¿à¦¦à§à¦§ à¦ªà§à¦à¦œà¦¿
+                                        â”‚
+                                        â–¼
+                                  à¦¸à¦¾à¦®à¦¾à¦œà¦¿à¦• à¦‰à¦¦à§à¦¦à§‡à¦¶à§à¦¯
 ```
 
-### সাৰাংশ: বিত্তীয় নীতি (এন জি-এফ আই এন)
-- **NG-FIN-001:** Nexus Gaja পৰম্পৰাগত বিজ্ঞাপনৰ দ্বাৰা বিত্তীয় সাহায্য প্ৰদান কৰা নহয়।
-- **NG-FIN-002:** আৰ্থিক সহায়ে মধ্যমতা বা শাসনৰ ওপৰত প্ৰভাৱ গঠন নকৰে।
-- **NG-FIN-003:** ব্যক্তিগত ব্যৱহাৰকাৰী তথ্য কোনো পণ্য নহয়।
-- **NG-FIN-004:** মৌলিক আন্তৰ্জাতিক যোগাযোগ কাৰ্য্য পেমেন্ট অবিহনে অভিগম্য হৈ থাকিব লাগে।
-- **NG-FIN-005:** প্ৰিমিয়াম অফাৰ সেৱাৰ পৰিসৰ বিস্তাৰ কৰে, কিন্তু বিনামূলীয়া ব্যৱহাৰকাৰীৰ মৰ্যাদা আৰু মৌলিক যোগাযোগ বিকল্পসমূহ অৱনমিত কৰিব নালাগে।
-- **NG-FIN-006:** নিৰ্ধাৰিত ধন এটা নিৰ্দিষ্ট উদ্দেশ্যৰ বাবে পৰিচালিত হয়।
-- **NG-FIN-007:** অনুদান আৰু পুঁজি স্বচ্ছ আৰু ব্যাপকভাৱে পৰিচালিত হয়।
-- **NG-FIN-008:** বাণিজ্যিক সেৱাসমূহে প্লেটফৰ্মৰ স্বাধীনতাক প্ৰভাৱিত কৰিব নালাগে।
-- **NG-FIN-009:** নেক্সছ গাজাৰ অৰ্থনৈতিক উন্নয়ন দীৰ্ঘম্যাদী বহনক্ষমতাৰ লক্ষ্য হ'ব লাগে আৰু সৰ্বোচ্চ ব্যৱহাৰকাৰী মুদ্ৰাকৰণৰ লক্ষ্যৰে নহয়।
-- **NG-FIN-010:** অৰ্থনৈতিক গাঁথনিয়ে সামাজিক উদ্দেশ্য - আন্তঃৰাষ্ট্ৰীয় বুজাবুজি, আন্তঃৰাষ্ট্ৰীয় যোগাযোগ আৰু জনগোষ্ঠীৰ মাজত বন্ধুত্বক স্থায়ীভাৱে সক্ষম কৰিব লাগে।
+### à¦¸à¦¾à§°à¦¾à¦‚à¦¶: à¦¬à¦¿à¦¤à§à¦¤à§€à¦¯à¦¼ à¦¨à§€à¦¤à¦¿ (à¦à¦¨ à¦œà¦¿-à¦à¦« à¦†à¦‡ à¦à¦¨)
+- **NG-FIN-001:** Nexus Gaja à¦ªà§°à¦®à§à¦ªà§°à¦¾à¦—à¦¤ à¦¬à¦¿à¦œà§à¦žà¦¾à¦ªà¦¨à§° à¦¦à§à¦¬à¦¾à§°à¦¾ à¦¬à¦¿à¦¤à§à¦¤à§€à¦¯à¦¼ à¦¸à¦¾à¦¹à¦¾à¦¯à§à¦¯ à¦ªà§à§°à¦¦à¦¾à¦¨ à¦•à§°à¦¾ à¦¨à¦¹à¦¯à¦¼à¥¤
+- **NG-FIN-002:** à¦†à§°à§à¦¥à¦¿à¦• à¦¸à¦¹à¦¾à¦¯à¦¼à§‡ à¦®à¦§à§à¦¯à¦®à¦¤à¦¾ à¦¬à¦¾ à¦¶à¦¾à¦¸à¦¨à§° à¦“à¦ªà§°à¦¤ à¦ªà§à§°à¦­à¦¾à§± à¦—à¦ à¦¨ à¦¨à¦•à§°à§‡à¥¤
+- **NG-FIN-003:** à¦¬à§à¦¯à¦•à§à¦¤à¦¿à¦—à¦¤ à¦¬à§à¦¯à§±à¦¹à¦¾à§°à¦•à¦¾à§°à§€ à¦¤à¦¥à§à¦¯ à¦•à§‹à¦¨à§‹ à¦ªà¦£à§à¦¯ à¦¨à¦¹à¦¯à¦¼à¥¤
+- **NG-FIN-004:** à¦®à§Œà¦²à¦¿à¦• à¦†à¦¨à§à¦¤à§°à§à¦œà¦¾à¦¤à¦¿à¦• à¦¯à§‹à¦—à¦¾à¦¯à§‹à¦— à¦•à¦¾à§°à§à¦¯à§à¦¯ à¦ªà§‡à¦®à§‡à¦¨à§à¦Ÿ à¦…à¦¬à¦¿à¦¹à¦¨à§‡ à¦…à¦­à¦¿à¦—à¦®à§à¦¯ à¦¹à§ˆ à¦¥à¦¾à¦•à¦¿à¦¬ à¦²à¦¾à¦—à§‡à¥¤
+- **NG-FIN-005:** à¦ªà§à§°à¦¿à¦®à¦¿à¦¯à¦¼à¦¾à¦® à¦…à¦«à¦¾à§° à¦¸à§‡à§±à¦¾à§° à¦ªà§°à¦¿à¦¸à§° à¦¬à¦¿à¦¸à§à¦¤à¦¾à§° à¦•à§°à§‡, à¦•à¦¿à¦¨à§à¦¤à§ à¦¬à¦¿à¦¨à¦¾à¦®à§‚à¦²à§€à¦¯à¦¼à¦¾ à¦¬à§à¦¯à§±à¦¹à¦¾à§°à¦•à¦¾à§°à§€à§° à¦®à§°à§à¦¯à¦¾à¦¦à¦¾ à¦†à§°à§ à¦®à§Œà¦²à¦¿à¦• à¦¯à§‹à¦—à¦¾à¦¯à§‹à¦— à¦¬à¦¿à¦•à¦²à§à¦ªà¦¸à¦®à§‚à¦¹ à¦…à§±à¦¨à¦®à¦¿à¦¤ à¦•à§°à¦¿à¦¬ à¦¨à¦¾à¦²à¦¾à¦—à§‡à¥¤
+- **NG-FIN-006:** à¦¨à¦¿à§°à§à¦§à¦¾à§°à¦¿à¦¤ à¦§à¦¨ à¦à¦Ÿà¦¾ à¦¨à¦¿à§°à§à¦¦à¦¿à¦·à§à¦Ÿ à¦‰à¦¦à§à¦¦à§‡à¦¶à§à¦¯à§° à¦¬à¦¾à¦¬à§‡ à¦ªà§°à¦¿à¦šà¦¾à¦²à¦¿à¦¤ à¦¹à¦¯à¦¼à¥¤
+- **NG-FIN-007:** à¦…à¦¨à§à¦¦à¦¾à¦¨ à¦†à§°à§ à¦ªà§à¦à¦œà¦¿ à¦¸à§à¦¬à¦šà§à¦› à¦†à§°à§ à¦¬à§à¦¯à¦¾à¦ªà¦•à¦­à¦¾à§±à§‡ à¦ªà§°à¦¿à¦šà¦¾à¦²à¦¿à¦¤ à¦¹à¦¯à¦¼à¥¤
+- **NG-FIN-008:** à¦¬à¦¾à¦£à¦¿à¦œà§à¦¯à¦¿à¦• à¦¸à§‡à§±à¦¾à¦¸à¦®à§‚à¦¹à§‡ à¦ªà§à¦²à§‡à¦Ÿà¦«à§°à§à¦®à§° à¦¸à§à¦¬à¦¾à¦§à§€à¦¨à¦¤à¦¾à¦• à¦ªà§à§°à¦­à¦¾à§±à¦¿à¦¤ à¦•à§°à¦¿à¦¬ à¦¨à¦¾à¦²à¦¾à¦—à§‡à¥¤
+- **NG-FIN-009:** à¦¨à§‡à¦•à§à¦¸à¦› à¦—à¦¾à¦œà¦¾à§° à¦…à§°à§à¦¥à¦¨à§ˆà¦¤à¦¿à¦• à¦‰à¦¨à§à¦¨à¦¯à¦¼à¦¨ à¦¦à§€à§°à§à¦˜à¦®à§à¦¯à¦¾à¦¦à§€ à¦¬à¦¹à¦¨à¦•à§à¦·à¦®à¦¤à¦¾à§° à¦²à¦•à§à¦·à§à¦¯ à¦¹'à¦¬ à¦²à¦¾à¦—à§‡ à¦†à§°à§ à¦¸à§°à§à¦¬à§‹à¦šà§à¦š à¦¬à§à¦¯à§±à¦¹à¦¾à§°à¦•à¦¾à§°à§€ à¦®à§à¦¦à§à§°à¦¾à¦•à§°à¦£à§° à¦²à¦•à§à¦·à§à¦¯à§°à§‡ à¦¨à¦¹à¦¯à¦¼à¥¤
+- **NG-FIN-010:** à¦…à§°à§à¦¥à¦¨à§ˆà¦¤à¦¿à¦• à¦—à¦¾à¦à¦¥à¦¨à¦¿à¦¯à¦¼à§‡ à¦¸à¦¾à¦®à¦¾à¦œà¦¿à¦• à¦‰à¦¦à§à¦¦à§‡à¦¶à§à¦¯ - à¦†à¦¨à§à¦¤à¦ƒà§°à¦¾à¦·à§à¦Ÿà§à§°à§€à¦¯à¦¼ à¦¬à§à¦œà¦¾à¦¬à§à¦œà¦¿, à¦†à¦¨à§à¦¤à¦ƒà§°à¦¾à¦·à§à¦Ÿà§à§°à§€à¦¯à¦¼ à¦¯à§‹à¦—à¦¾à¦¯à§‹à¦— à¦†à§°à§ à¦œà¦¨à¦—à§‹à¦·à§à¦ à§€à§° à¦®à¦¾à¦œà¦¤ à¦¬à¦¨à§à¦§à§à¦¤à§à¦¬à¦• à¦¸à§à¦¥à¦¾à¦¯à¦¼à§€à¦­à¦¾à§±à§‡ à¦¸à¦•à§à¦·à¦® à¦•à§°à¦¿à¦¬ à¦²à¦¾à¦—à§‡à¥¤
 
-## API, আন্তঃপৃষ্ঠ আৰু যোগাযোগ স্থাপত্য (WP 1.11.3)
+## API, à¦†à¦¨à§à¦¤à¦ƒà¦ªà§ƒà¦·à§à¦  à¦†à§°à§ à¦¯à§‹à¦—à¦¾à¦¯à§‹à¦— à¦¸à§à¦¥à¦¾à¦ªà¦¤à§à¦¯ (WP 1.11.3)
 
-চিস্টেম স্থিৰতা, সুৰক্ষা আৰু স্কেলেবিলিটি সুনিশ্চিত কৰিবলে, Nexus Gaja এ এটা কঠোৰভাৱে API-ভিত্তিয় আৰু ইভেন্ট-চালিত স্থাপত্য অনুসৰণ কৰে।
+à¦šà¦¿à¦¸à§à¦Ÿà§‡à¦® à¦¸à§à¦¥à¦¿à§°à¦¤à¦¾, à¦¸à§à§°à¦•à§à¦·à¦¾ à¦†à§°à§ à¦¸à§à¦•à§‡à¦²à§‡à¦¬à¦¿à¦²à¦¿à¦Ÿà¦¿ à¦¸à§à¦¨à¦¿à¦¶à§à¦šà¦¿à¦¤ à¦•à§°à¦¿à¦¬à¦²à§‡, Nexus Gaja à¦ à¦à¦Ÿà¦¾ à¦•à¦ à§‹à§°à¦­à¦¾à§±à§‡ API-à¦­à¦¿à¦¤à§à¦¤à¦¿à¦¯à¦¼ à¦†à§°à§ à¦‡à¦­à§‡à¦¨à§à¦Ÿ-à¦šà¦¾à¦²à¦¿à¦¤ à¦¸à§à¦¥à¦¾à¦ªà¦¤à§à¦¯ à¦…à¦¨à§à¦¸à§°à¦£ à¦•à§°à§‡à¥¤
 
-### মৌলিক নীতি
-- **কোনো প্ৰত্যক্ষ ডাটাবেইচ অভিগম নাই:** উপাদানসমূহে সংজ্ঞায়িত আন্তঃপৃষ্ঠসমূহৰ যোগেদি একচেটিয়াভাৱে যোগাযোগ কৰে (APIs বা ইভেন্টসমূহ), অন্য সেৱাসমূহৰ পৰা প্ৰত্যক্ষ ডাটাবেইচ প্ৰশ্নৰ যোগেদি কেতিয়াও নহয়।
-- **API গেটৱে:** সকলো বাহ্যিক ক্লায়েন্ট অনুৰোধ এটা API গেটৱেৰ মাজেৰে যায় যি প্ৰমাণীকৰণ, ৰাউটিং আৰু হাৰ সীমিতকৰণ নিয়ন্ত্ৰণ কৰে।
-- **প্ৰদানকাৰী বিমূৰ্তকৰণ:** বাহ্যিক সেৱাসমূহ (AI মডেল, পেমেন্ট প্ৰদানকাৰী, অনুবাদ ইঞ্জিন) বিমূৰ্তকৰণ স্তৰৰ যোগেদি সংহত কৰা হয়। ই হাৰ্ড-তাঁৰযুক্ত নিৰ্ভৰশীলতাসমূহ প্ৰতিৰোধ কৰে আৰু নমনীয় প্ৰদানকাৰী চুইচিঙৰ অনুমতি দিয়ে।
+### à¦®à§Œà¦²à¦¿à¦• à¦¨à§€à¦¤à¦¿
+- **à¦•à§‹à¦¨à§‹ à¦ªà§à§°à¦¤à§à¦¯à¦•à§à¦· à¦¡à¦¾à¦Ÿà¦¾à¦¬à§‡à¦‡à¦š à¦…à¦­à¦¿à¦—à¦® à¦¨à¦¾à¦‡:** à¦‰à¦ªà¦¾à¦¦à¦¾à¦¨à¦¸à¦®à§‚à¦¹à§‡ à¦¸à¦‚à¦œà§à¦žà¦¾à¦¯à¦¼à¦¿à¦¤ à¦†à¦¨à§à¦¤à¦ƒà¦ªà§ƒà¦·à§à¦ à¦¸à¦®à§‚à¦¹à§° à¦¯à§‹à¦—à§‡à¦¦à¦¿ à¦à¦•à¦šà§‡à¦Ÿà¦¿à¦¯à¦¼à¦¾à¦­à¦¾à§±à§‡ à¦¯à§‹à¦—à¦¾à¦¯à§‹à¦— à¦•à§°à§‡ (APIs à¦¬à¦¾ à¦‡à¦­à§‡à¦¨à§à¦Ÿà¦¸à¦®à§‚à¦¹), à¦…à¦¨à§à¦¯ à¦¸à§‡à§±à¦¾à¦¸à¦®à§‚à¦¹à§° à¦ªà§°à¦¾ à¦ªà§à§°à¦¤à§à¦¯à¦•à§à¦· à¦¡à¦¾à¦Ÿà¦¾à¦¬à§‡à¦‡à¦š à¦ªà§à§°à¦¶à§à¦¨à§° à¦¯à§‹à¦—à§‡à¦¦à¦¿ à¦•à§‡à¦¤à¦¿à¦¯à¦¼à¦¾à¦“ à¦¨à¦¹à¦¯à¦¼à¥¤
+- **API à¦—à§‡à¦Ÿà§±à§‡:** à¦¸à¦•à¦²à§‹ à¦¬à¦¾à¦¹à§à¦¯à¦¿à¦• à¦•à§à¦²à¦¾à¦¯à¦¼à§‡à¦¨à§à¦Ÿ à¦…à¦¨à§à§°à§‹à¦§ à¦à¦Ÿà¦¾ API à¦—à§‡à¦Ÿà§±à§‡à§° à¦®à¦¾à¦œà§‡à§°à§‡ à¦¯à¦¾à¦¯à¦¼ à¦¯à¦¿ à¦ªà§à§°à¦®à¦¾à¦£à§€à¦•à§°à¦£, à§°à¦¾à¦‰à¦Ÿà¦¿à¦‚ à¦†à§°à§ à¦¹à¦¾à§° à¦¸à§€à¦®à¦¿à¦¤à¦•à§°à¦£ à¦¨à¦¿à¦¯à¦¼à¦¨à§à¦¤à§à§°à¦£ à¦•à§°à§‡à¥¤
+- **à¦ªà§à§°à¦¦à¦¾à¦¨à¦•à¦¾à§°à§€ à¦¬à¦¿à¦®à§‚à§°à§à¦¤à¦•à§°à¦£:** à¦¬à¦¾à¦¹à§à¦¯à¦¿à¦• à¦¸à§‡à§±à¦¾à¦¸à¦®à§‚à¦¹ (AI à¦®à¦¡à§‡à¦², à¦ªà§‡à¦®à§‡à¦¨à§à¦Ÿ à¦ªà§à§°à¦¦à¦¾à¦¨à¦•à¦¾à§°à§€, à¦…à¦¨à§à¦¬à¦¾à¦¦ à¦‡à¦žà§à¦œà¦¿à¦¨) à¦¬à¦¿à¦®à§‚à§°à§à¦¤à¦•à§°à¦£ à¦¸à§à¦¤à§°à§° à¦¯à§‹à¦—à§‡à¦¦à¦¿ à¦¸à¦‚à¦¹à¦¤ à¦•à§°à¦¾ à¦¹à¦¯à¦¼à¥¤ à¦‡ à¦¹à¦¾à§°à§à¦¡-à¦¤à¦¾à¦à§°à¦¯à§à¦•à§à¦¤ à¦¨à¦¿à§°à§à¦­à§°à¦¶à§€à¦²à¦¤à¦¾à¦¸à¦®à§‚à¦¹ à¦ªà§à§°à¦¤à¦¿à§°à§‹à¦§ à¦•à§°à§‡ à¦†à§°à§ à¦¨à¦®à¦¨à§€à¦¯à¦¼ à¦ªà§à§°à¦¦à¦¾à¦¨à¦•à¦¾à§°à§€ à¦šà§à¦‡à¦šà¦¿à¦™à§° à¦…à¦¨à§à¦®à¦¤à¦¿ à¦¦à¦¿à¦¯à¦¼à§‡à¥¤
 
-### যোগাযোগৰ ধৰণ
-- **Synchronous APIs (REST/HTTPS):** তাৎক্ষণিক অনুৰোধ যেনে লগইন, প্ৰফাইল ছেটিংছ বা প্ৰত্যক্ষ অনুবাদৰ বাবে ব্যৱহৃত।
-- **এচিংক্ৰ'নাছ ইভেন্ট (ইভেন্ট বাছ):** ডিকাপল্ড প্ৰক্ৰিয়াৰ বাবে নেক্সছ গাজাৰ কেন্দ্ৰীয় স্নায়ুতন্ত্ৰ (যেনে `Message.Created` এ মডাৰেচন, অনুবাদ আৰু অধিসূচনা এচিনক্ৰ'নাছলি ট্ৰিগাৰ কৰে)।
-- **বাস্তব সময় (WebSocket):** লাইভ চ্যাট এবং টাইপিং অবস্থা জন্য নিবেদিত চ্যানেল.
+### à¦¯à§‹à¦—à¦¾à¦¯à§‹à¦—à§° à¦§à§°à¦£
+- **Synchronous APIs (REST/HTTPS):** à¦¤à¦¾à§Žà¦•à§à¦·à¦£à¦¿à¦• à¦…à¦¨à§à§°à§‹à¦§ à¦¯à§‡à¦¨à§‡ à¦²à¦—à¦‡à¦¨, à¦ªà§à§°à¦«à¦¾à¦‡à¦² à¦›à§‡à¦Ÿà¦¿à¦‚à¦› à¦¬à¦¾ à¦ªà§à§°à¦¤à§à¦¯à¦•à§à¦· à¦…à¦¨à§à¦¬à¦¾à¦¦à§° à¦¬à¦¾à¦¬à§‡ à¦¬à§à¦¯à§±à¦¹à§ƒà¦¤à¥¤
+- **à¦à¦šà¦¿à¦‚à¦•à§à§°'à¦¨à¦¾à¦› à¦‡à¦­à§‡à¦¨à§à¦Ÿ (à¦‡à¦­à§‡à¦¨à§à¦Ÿ à¦¬à¦¾à¦›):** à¦¡à¦¿à¦•à¦¾à¦ªà¦²à§à¦¡ à¦ªà§à§°à¦•à§à§°à¦¿à¦¯à¦¼à¦¾à§° à¦¬à¦¾à¦¬à§‡ à¦¨à§‡à¦•à§à¦¸à¦› à¦—à¦¾à¦œà¦¾à§° à¦•à§‡à¦¨à§à¦¦à§à§°à§€à¦¯à¦¼ à¦¸à§à¦¨à¦¾à¦¯à¦¼à§à¦¤à¦¨à§à¦¤à§à§° (à¦¯à§‡à¦¨à§‡ `Message.Created` à¦ à¦®à¦¡à¦¾à§°à§‡à¦šà¦¨, à¦…à¦¨à§à¦¬à¦¾à¦¦ à¦†à§°à§ à¦…à¦§à¦¿à¦¸à§‚à¦šà¦¨à¦¾ à¦à¦šà¦¿à¦¨à¦•à§à§°'à¦¨à¦¾à¦›à¦²à¦¿ à¦Ÿà§à§°à¦¿à¦—à¦¾à§° à¦•à§°à§‡)à¥¤
+- **à¦¬à¦¾à¦¸à§à¦¤à¦¬ à¦¸à¦®à¦¯à¦¼ (WebSocket):** à¦²à¦¾à¦‡à¦­ à¦šà§à¦¯à¦¾à¦Ÿ à¦à¦¬à¦‚ à¦Ÿà¦¾à¦‡à¦ªà¦¿à¦‚ à¦…à¦¬à¦¸à§à¦¥à¦¾ à¦œà¦¨à§à¦¯ à¦¨à¦¿à¦¬à§‡à¦¦à¦¿à¦¤ à¦šà§à¦¯à¦¾à¦¨à§‡à¦².
 
-### নিৰাপত্তা আৰু নিৰ্ভৰযোগ্যতা
-- **শূন্য বিশ্বাস মডেল:** অভ্যন্তৰীণ নেটৱাৰ্ক ট্ৰেফিক স্বয়ংক্ৰিয়ভাৱে বিশ্বাসযোগ্য নহয়; সংবেদনশীল সেৱা-সেৱালৈ যোগাযোগৰ বাবে প্ৰমাণীকৰণৰ প্ৰয়োজন।
-- **Idempotence & Outbox Pattern:** জটিল অপাৰেচনসমূহ (যেনে অনুদান বা বাৰ্তা) একাধিক প্ৰক্ৰিয়াকৰণ প্ৰতিৰোধ কৰিবলৈ idempotent হ'বলৈ ডিজাইন কৰা হৈছে আৰু আউটবক্স আৰ্হি ব্যৱহাৰ কৰি নিশ্চিত কৰিবলৈ যে ইভেন্টসমূহ আনকি ডাটাবেছ লেনদেনতও হেৰাই নাযায়।
+### à¦¨à¦¿à§°à¦¾à¦ªà¦¤à§à¦¤à¦¾ à¦†à§°à§ à¦¨à¦¿à§°à§à¦­à§°à¦¯à§‹à¦—à§à¦¯à¦¤à¦¾
+- **à¦¶à§‚à¦¨à§à¦¯ à¦¬à¦¿à¦¶à§à¦¬à¦¾à¦¸ à¦®à¦¡à§‡à¦²:** à¦…à¦­à§à¦¯à¦¨à§à¦¤à§°à§€à¦£ à¦¨à§‡à¦Ÿà§±à¦¾à§°à§à¦• à¦Ÿà§à§°à§‡à¦«à¦¿à¦• à¦¸à§à¦¬à¦¯à¦¼à¦‚à¦•à§à§°à¦¿à¦¯à¦¼à¦­à¦¾à§±à§‡ à¦¬à¦¿à¦¶à§à¦¬à¦¾à¦¸à¦¯à§‹à¦—à§à¦¯ à¦¨à¦¹à¦¯à¦¼; à¦¸à¦‚à¦¬à§‡à¦¦à¦¨à¦¶à§€à¦² à¦¸à§‡à§±à¦¾-à¦¸à§‡à§±à¦¾à¦²à§ˆ à¦¯à§‹à¦—à¦¾à¦¯à§‹à¦—à§° à¦¬à¦¾à¦¬à§‡ à¦ªà§à§°à¦®à¦¾à¦£à§€à¦•à§°à¦£à§° à¦ªà§à§°à¦¯à¦¼à§‹à¦œà¦¨à¥¤
+- **Idempotence & Outbox Pattern:** à¦œà¦Ÿà¦¿à¦² à¦…à¦ªà¦¾à§°à§‡à¦šà¦¨à¦¸à¦®à§‚à¦¹ (à¦¯à§‡à¦¨à§‡ à¦…à¦¨à§à¦¦à¦¾à¦¨ à¦¬à¦¾ à¦¬à¦¾à§°à§à¦¤à¦¾) à¦à¦•à¦¾à¦§à¦¿à¦• à¦ªà§à§°à¦•à§à§°à¦¿à¦¯à¦¼à¦¾à¦•à§°à¦£ à¦ªà§à§°à¦¤à¦¿à§°à§‹à¦§ à¦•à§°à¦¿à¦¬à¦²à§ˆ idempotent à¦¹'à¦¬à¦²à§ˆ à¦¡à¦¿à¦œà¦¾à¦‡à¦¨ à¦•à§°à¦¾ à¦¹à§ˆà¦›à§‡ à¦†à§°à§ à¦†à¦‰à¦Ÿà¦¬à¦•à§à¦¸ à¦†à§°à§à¦¹à¦¿ à¦¬à§à¦¯à§±à¦¹à¦¾à§° à¦•à§°à¦¿ à¦¨à¦¿à¦¶à§à¦šà¦¿à¦¤ à¦•à§°à¦¿à¦¬à¦²à§ˆ à¦¯à§‡ à¦‡à¦­à§‡à¦¨à§à¦Ÿà¦¸à¦®à§‚à¦¹ à¦†à¦¨à¦•à¦¿ à¦¡à¦¾à¦Ÿà¦¾à¦¬à§‡à¦› à¦²à§‡à¦¨à¦¦à§‡à¦¨à¦¤à¦“ à¦¹à§‡à§°à¦¾à¦‡ à¦¨à¦¾à¦¯à¦¾à¦¯à¦¼à¥¤
 
-## MVP ডমেইন মডেল (WP 1.12)
+## MVP à¦¡à¦®à§‡à¦‡à¦¨ à¦®à¦¡à§‡à¦² (WP 1.12)
 
-![নেক্সছ গাজা মডুলাৰ মনোলিথ](সম্পত্তি/img/nexus_architecture.jpg)
+![à¦¨à§‡à¦•à§à¦¸à¦› à¦—à¦¾à¦œà¦¾ à¦®à¦¡à§à¦²à¦¾à§° à¦®à¦¨à§‹à¦²à¦¿à¦¥](à¦¸à¦®à§à¦ªà¦¤à§à¦¤à¦¿/img/nexus_architecture.jpg)
 
-Nexus Gaja এ এটা কঠোৰভাৱে ডমেইন-চালিত MVP আৰ্কিটেকচাৰ (ADR-025) ব্যৱহাৰ কৰে, যি স্পষ্ট ডমেইন সীমাৰ সৈতে এটা মডিউলাৰ মনোলিথ হিচাপে ডিজাইন কৰা হৈছে। এই গঠনে প্ৰাৰম্ভিক মাইক্ৰ'চাৰ্ভিচ জটিলতাক বাধা দিয়ে আৰু পিছত নিৰ্দিষ্ট ডমেইনসমূহ আউটচ'ৰ্চ কৰিবলে নমনীয়তা বজাই ৰাখে।
+Nexus Gaja à¦ à¦à¦Ÿà¦¾ à¦•à¦ à§‹à§°à¦­à¦¾à§±à§‡ à¦¡à¦®à§‡à¦‡à¦¨-à¦šà¦¾à¦²à¦¿à¦¤ MVP à¦†à§°à§à¦•à¦¿à¦Ÿà§‡à¦•à¦šà¦¾à§° (ADR-025) à¦¬à§à¦¯à§±à¦¹à¦¾à§° à¦•à§°à§‡, à¦¯à¦¿ à¦¸à§à¦ªà¦·à§à¦Ÿ à¦¡à¦®à§‡à¦‡à¦¨ à¦¸à§€à¦®à¦¾à§° à¦¸à§ˆà¦¤à§‡ à¦à¦Ÿà¦¾ à¦®à¦¡à¦¿à¦‰à¦²à¦¾à§° à¦®à¦¨à§‹à¦²à¦¿à¦¥ à¦¹à¦¿à¦šà¦¾à¦ªà§‡ à¦¡à¦¿à¦œà¦¾à¦‡à¦¨ à¦•à§°à¦¾ à¦¹à§ˆà¦›à§‡à¥¤ à¦à¦‡ à¦—à¦ à¦¨à§‡ à¦ªà§à§°à¦¾à§°à¦®à§à¦­à¦¿à¦• à¦®à¦¾à¦‡à¦•à§à§°'à¦šà¦¾à§°à§à¦­à¦¿à¦š à¦œà¦Ÿà¦¿à¦²à¦¤à¦¾à¦• à¦¬à¦¾à¦§à¦¾ à¦¦à¦¿à¦¯à¦¼à§‡ à¦†à§°à§ à¦ªà¦¿à¦›à¦¤ à¦¨à¦¿à§°à§à¦¦à¦¿à¦·à§à¦Ÿ à¦¡à¦®à§‡à¦‡à¦¨à¦¸à¦®à§‚à¦¹ à¦†à¦‰à¦Ÿà¦š'à§°à§à¦š à¦•à§°à¦¿à¦¬à¦²à§‡ à¦¨à¦®à¦¨à§€à¦¯à¦¼à¦¤à¦¾ à¦¬à¦œà¦¾à¦‡ à§°à¦¾à¦–à§‡à¥¤
 
-### কাৰিকৰী মূল সত্তা
-তথ্যৰ অখণ্ডতা নিশ্চিত কৰিবলৈ আৰু “ব্যৱহাৰকাৰীৰ নাম = মানুহ”ৰ দৰে ভুল এৰাই চলিবলৈ স্থাপত্যই ধাৰণাসমূহক কঠোৰভাৱে পৃথক কৰে:
-- **পৰিচয় আৰু একাউণ্ট:** `ব্যক্তি` ≠ `ব্যৱহাৰকাৰী একাউণ্ট` ≠ `পৰিচয় পৰীক্ষণ`. এজন পৰীক্ষিত ব্যক্তিয়ে এটা একাউণ্টৰ জৰিয়তে অংশগ্ৰহণ কৰে, কিন্তু সত্তাসমূহ পৃথকে থাকে।
-- **যোগাযোগ:** `বাৰ্তা` ≠ `অনুবাদ`। মূল বাৰ্তাটো অপৰিৱৰ্তনীয়; অনুবাদসমূহ সংযুক্ত সত্তা।
-- **মডাৰেচন:** `ৰিপৰ্ট` ≠ `মডাৰেচন সিদ্ধান্ত`। এটা বাৰ্তা মাথোঁ এটা ইংগিত; এজন মডাৰেটৰে তদন্ত চলায়।
-- **বিত্ত:** `দান` ≠ `পুঁজিৰ ভাৰসাম্য`। পেমেন্টসমূহ লেজাৰ (কেচ বুক)ৰ জৰিয়তে এটা ফাণ্ডত অপৰিৱৰ্তিতভাৱে পোষ্ট কৰা হয়।
+### à¦•à¦¾à§°à¦¿à¦•à§°à§€ à¦®à§‚à¦² à¦¸à¦¤à§à¦¤à¦¾
+à¦¤à¦¥à§à¦¯à§° à¦…à¦–à¦£à§à¦¡à¦¤à¦¾ à¦¨à¦¿à¦¶à§à¦šà¦¿à¦¤ à¦•à§°à¦¿à¦¬à¦²à§ˆ à¦†à§°à§ â€œà¦¬à§à¦¯à§±à¦¹à¦¾à§°à¦•à¦¾à§°à§€à§° à¦¨à¦¾à¦® = à¦®à¦¾à¦¨à§à¦¹â€à§° à¦¦à§°à§‡ à¦­à§à¦² à¦à§°à¦¾à¦‡ à¦šà¦²à¦¿à¦¬à¦²à§ˆ à¦¸à§à¦¥à¦¾à¦ªà¦¤à§à¦¯à¦‡ à¦§à¦¾à§°à¦£à¦¾à¦¸à¦®à§‚à¦¹à¦• à¦•à¦ à§‹à§°à¦­à¦¾à§±à§‡ à¦ªà§ƒà¦¥à¦• à¦•à§°à§‡:
+- **à¦ªà§°à¦¿à¦šà¦¯à¦¼ à¦†à§°à§ à¦à¦•à¦¾à¦‰à¦£à§à¦Ÿ:** `à¦¬à§à¦¯à¦•à§à¦¤à¦¿` â‰  `à¦¬à§à¦¯à§±à¦¹à¦¾à§°à¦•à¦¾à§°à§€ à¦à¦•à¦¾à¦‰à¦£à§à¦Ÿ` â‰  `à¦ªà§°à¦¿à¦šà¦¯à¦¼ à¦ªà§°à§€à¦•à§à¦·à¦£`. à¦à¦œà¦¨ à¦ªà§°à§€à¦•à§à¦·à¦¿à¦¤ à¦¬à§à¦¯à¦•à§à¦¤à¦¿à¦¯à¦¼à§‡ à¦à¦Ÿà¦¾ à¦à¦•à¦¾à¦‰à¦£à§à¦Ÿà§° à¦œà§°à¦¿à¦¯à¦¼à¦¤à§‡ à¦…à¦‚à¦¶à¦—à§à§°à¦¹à¦£ à¦•à§°à§‡, à¦•à¦¿à¦¨à§à¦¤à§ à¦¸à¦¤à§à¦¤à¦¾à¦¸à¦®à§‚à¦¹ à¦ªà§ƒà¦¥à¦•à§‡ à¦¥à¦¾à¦•à§‡à¥¤
+- **à¦¯à§‹à¦—à¦¾à¦¯à§‹à¦—:** `à¦¬à¦¾à§°à§à¦¤à¦¾` â‰  `à¦…à¦¨à§à¦¬à¦¾à¦¦`à¥¤ à¦®à§‚à¦² à¦¬à¦¾à§°à§à¦¤à¦¾à¦Ÿà§‹ à¦…à¦ªà§°à¦¿à§±à§°à§à¦¤à¦¨à§€à¦¯à¦¼; à¦…à¦¨à§à¦¬à¦¾à¦¦à¦¸à¦®à§‚à¦¹ à¦¸à¦‚à¦¯à§à¦•à§à¦¤ à¦¸à¦¤à§à¦¤à¦¾à¥¤
+- **à¦®à¦¡à¦¾à§°à§‡à¦šà¦¨:** `à§°à¦¿à¦ªà§°à§à¦Ÿ` â‰  `à¦®à¦¡à¦¾à§°à§‡à¦šà¦¨ à¦¸à¦¿à¦¦à§à¦§à¦¾à¦¨à§à¦¤`à¥¤ à¦à¦Ÿà¦¾ à¦¬à¦¾à§°à§à¦¤à¦¾ à¦®à¦¾à¦¥à§‹à¦ à¦à¦Ÿà¦¾ à¦‡à¦‚à¦—à¦¿à¦¤; à¦à¦œà¦¨ à¦®à¦¡à¦¾à§°à§‡à¦Ÿà§°à§‡ à¦¤à¦¦à¦¨à§à¦¤ à¦šà¦²à¦¾à¦¯à¦¼à¥¤
+- **à¦¬à¦¿à¦¤à§à¦¤:** `à¦¦à¦¾à¦¨` â‰  `à¦ªà§à¦à¦œà¦¿à§° à¦­à¦¾à§°à¦¸à¦¾à¦®à§à¦¯`à¥¤ à¦ªà§‡à¦®à§‡à¦¨à§à¦Ÿà¦¸à¦®à§‚à¦¹ à¦²à§‡à¦œà¦¾à§° (à¦•à§‡à¦š à¦¬à§à¦•)à§° à¦œà§°à¦¿à¦¯à¦¼à¦¤à§‡ à¦à¦Ÿà¦¾ à¦«à¦¾à¦£à§à¦¡à¦¤ à¦…à¦ªà§°à¦¿à§±à§°à§à¦¤à¦¿à¦¤à¦­à¦¾à§±à§‡ à¦ªà§‹à¦·à§à¦Ÿ à¦•à§°à¦¾ à¦¹à¦¯à¦¼à¥¤
 
-### সংযুক্ত বিষয় ডমেইনসমূহ
-ব্যৱস্থাটোক যুক্তিসংগত ডমেইনত (সীমিত প্ৰসংগ) বিভক্ত কৰা হৈছে: পৰিচয়, একাউণ্ট, সংগঠন, যোগাযোগ, সম্প্ৰদায়, ভাষা, মডাৰেচন, অধিসূচনা, বিত্ত আৰু শাসন। তেওঁলোকে প্ৰকৃত অভিনেতাৰ (ব্যৱহাৰকাৰী, বিদ্যালয়, এন জি অ’)ৰ পৰা আৰম্ভ কৰি তেওঁলোকৰ ডিজিটেল পাৰস্পৰিক ক্ৰিয়া-কলাপলৈকে সমগ্ৰ শৃংখলটোক প্ৰতিনিধিত্ব কৰে।
+### à¦¸à¦‚à¦¯à§à¦•à§à¦¤ à¦¬à¦¿à¦·à¦¯à¦¼ à¦¡à¦®à§‡à¦‡à¦¨à¦¸à¦®à§‚à¦¹
+à¦¬à§à¦¯à§±à¦¸à§à¦¥à¦¾à¦Ÿà§‹à¦• à¦¯à§à¦•à§à¦¤à¦¿à¦¸à¦‚à¦—à¦¤ à¦¡à¦®à§‡à¦‡à¦¨à¦¤ (à¦¸à§€à¦®à¦¿à¦¤ à¦ªà§à§°à¦¸à¦‚à¦—) à¦¬à¦¿à¦­à¦•à§à¦¤ à¦•à§°à¦¾ à¦¹à§ˆà¦›à§‡: à¦ªà§°à¦¿à¦šà¦¯à¦¼, à¦à¦•à¦¾à¦‰à¦£à§à¦Ÿ, à¦¸à¦‚à¦—à¦ à¦¨, à¦¯à§‹à¦—à¦¾à¦¯à§‹à¦—, à¦¸à¦®à§à¦ªà§à§°à¦¦à¦¾à¦¯à¦¼, à¦­à¦¾à¦·à¦¾, à¦®à¦¡à¦¾à§°à§‡à¦šà¦¨, à¦…à¦§à¦¿à¦¸à§‚à¦šà¦¨à¦¾, à¦¬à¦¿à¦¤à§à¦¤ à¦†à§°à§ à¦¶à¦¾à¦¸à¦¨à¥¤ à¦¤à§‡à¦“à¦à¦²à§‹à¦•à§‡ à¦ªà§à§°à¦•à§ƒà¦¤ à¦…à¦­à¦¿à¦¨à§‡à¦¤à¦¾à§° (à¦¬à§à¦¯à§±à¦¹à¦¾à§°à¦•à¦¾à§°à§€, à¦¬à¦¿à¦¦à§à¦¯à¦¾à¦²à¦¯à¦¼, à¦à¦¨ à¦œà¦¿ à¦…â€™)à§° à¦ªà§°à¦¾ à¦†à§°à¦®à§à¦­ à¦•à§°à¦¿ à¦¤à§‡à¦“à¦à¦²à§‹à¦•à§° à¦¡à¦¿à¦œà¦¿à¦Ÿà§‡à¦² à¦ªà¦¾à§°à¦¸à§à¦ªà§°à¦¿à¦• à¦•à§à§°à¦¿à¦¯à¦¼à¦¾-à¦•à¦²à¦¾à¦ªà¦²à§ˆà¦•à§‡ à¦¸à¦®à¦—à§à§° à¦¶à§ƒà¦‚à¦–à¦²à¦Ÿà§‹à¦• à¦ªà§à§°à¦¤à¦¿à¦¨à¦¿à¦§à¦¿à¦¤à§à¦¬ à¦•à§°à§‡à¥¤
 
-## প্ৰকল্পৰ অৱস্থা
-প্ৰকল্পটো সক্ৰিয় স্থাপত্য আৰু পৰিকল্পনা পৰ্যায়ত আছে।
-চলি থকা স্থাপত্যৰ সিদ্ধান্তসমূহ `/docs` ফোল্ডাৰত নথিভুক্ত কৰা হয়।
+## à¦ªà§à§°à¦•à¦²à§à¦ªà§° à¦…à§±à¦¸à§à¦¥à¦¾
+à¦ªà§à§°à¦•à¦²à§à¦ªà¦Ÿà§‹ à¦¸à¦•à§à§°à¦¿à¦¯à¦¼ à¦¸à§à¦¥à¦¾à¦ªà¦¤à§à¦¯ à¦†à§°à§ à¦ªà§°à¦¿à¦•à¦²à§à¦ªà¦¨à¦¾ à¦ªà§°à§à¦¯à¦¾à¦¯à¦¼à¦¤ à¦†à¦›à§‡à¥¤
+à¦šà¦²à¦¿ à¦¥à¦•à¦¾ à¦¸à§à¦¥à¦¾à¦ªà¦¤à§à¦¯à§° à¦¸à¦¿à¦¦à§à¦§à¦¾à¦¨à§à¦¤à¦¸à¦®à§‚à¦¹ `/docs` à¦«à§‹à¦²à§à¦¡à¦¾à§°à¦¤ à¦¨à¦¥à¦¿à¦­à§à¦•à§à¦¤ à¦•à§°à¦¾ à¦¹à¦¯à¦¼à¥¤
 
 ---
 
-## অনুজ্ঞাপত্ৰ আৰু বৌদ্ধিক সম্পত্তি
+## à¦…à¦¨à§à¦œà§à¦žà¦¾à¦ªà¦¤à§à§° à¦†à§°à§ à¦¬à§Œà¦¦à§à¦§à¦¿à¦• à¦¸à¦®à§à¦ªà¦¤à§à¦¤à¦¿
 
-> **© 2024-2026 SonnerStudio - Jan Friske SonnerStudio এর প্রতিষ্ঠাপক, মালিক, সঞ্চালক এবং মুখ্য ডিজাইনার — সব অধিকাৰ সংরক্ষিত.**
+> **Â© 2024-2026 SonnerStudio - Jan Friske SonnerStudio à¦à¦° à¦ªà§à¦°à¦¤à¦¿à¦·à§à¦ à¦¾à¦ªà¦•, à¦®à¦¾à¦²à¦¿à¦•, à¦¸à¦žà§à¦šà¦¾à¦²à¦• à¦à¦¬à¦‚ à¦®à§à¦–à§à¦¯ à¦¡à¦¿à¦œà¦¾à¦‡à¦¨à¦¾à¦° â€” à¦¸à¦¬ à¦…à¦§à¦¿à¦•à¦¾à§° à¦¸à¦‚à¦°à¦•à§à¦·à¦¿à¦¤.**
 
-**Nexus Gaja** **Jan Friske** ৰ একচেটিয়া বৌদ্ধিক সম্পত্তি, **SonnerStudio** ৰ অধীনত পৰিচালিত।
+**Nexus Gaja** **Jan Friske** à§° à¦à¦•à¦šà§‡à¦Ÿà¦¿à¦¯à¦¼à¦¾ à¦¬à§Œà¦¦à§à¦§à¦¿à¦• à¦¸à¦®à§à¦ªà¦¤à§à¦¤à¦¿, **SonnerStudio** à§° à¦…à¦§à§€à¦¨à¦¤ à¦ªà§°à¦¿à¦šà¦¾à¦²à¦¿à¦¤à¥¤
 
-জান ফ্ৰিস্কে নেক্সছ গাজাৰ একমাত্ৰ সৃষ্টিকৰ্তা, স্থপতিবিদ আৰু মালিক — সকলো ধাৰণা, স্থাপত্য, ডমেইন মডেল, ব্ৰেণ্ড পৰিচয় আৰু আনুষংগিক নথিপত্ৰকে ধৰি।
+à¦œà¦¾à¦¨ à¦«à§à§°à¦¿à¦¸à§à¦•à§‡ à¦¨à§‡à¦•à§à¦¸à¦› à¦—à¦¾à¦œà¦¾à§° à¦à¦•à¦®à¦¾à¦¤à§à§° à¦¸à§ƒà¦·à§à¦Ÿà¦¿à¦•à§°à§à¦¤à¦¾, à¦¸à§à¦¥à¦ªà¦¤à¦¿à¦¬à¦¿à¦¦ à¦†à§°à§ à¦®à¦¾à¦²à¦¿à¦• â€” à¦¸à¦•à¦²à§‹ à¦§à¦¾à§°à¦£à¦¾, à¦¸à§à¦¥à¦¾à¦ªà¦¤à§à¦¯, à¦¡à¦®à§‡à¦‡à¦¨ à¦®à¦¡à§‡à¦², à¦¬à§à§°à§‡à¦£à§à¦¡ à¦ªà§°à¦¿à¦šà¦¯à¦¼ à¦†à§°à§ à¦†à¦¨à§à¦·à¦‚à¦—à¦¿à¦• à¦¨à¦¥à¦¿à¦ªà¦¤à§à§°à¦•à§‡ à¦§à§°à¦¿à¥¤
 
-**কোনো তৃতীয় পক্ষক কোনো অধিকাৰ, অনুজ্ঞাপত্ৰ বা মালিকানাধীন স্বাৰ্থ প্ৰদান কৰা নহয়** ইয়াৰ আকাৰ, বজাৰৰ অৱস্থান বা প্ৰযুক্তি উদ্যোগত প্ৰভাৱ যিয়েই নহওক কিয়।
+**à¦•à§‹à¦¨à§‹ à¦¤à§ƒà¦¤à§€à¦¯à¦¼ à¦ªà¦•à§à¦·à¦• à¦•à§‹à¦¨à§‹ à¦…à¦§à¦¿à¦•à¦¾à§°, à¦…à¦¨à§à¦œà§à¦žà¦¾à¦ªà¦¤à§à§° à¦¬à¦¾ à¦®à¦¾à¦²à¦¿à¦•à¦¾à¦¨à¦¾à¦§à§€à¦¨ à¦¸à§à¦¬à¦¾à§°à§à¦¥ à¦ªà§à§°à¦¦à¦¾à¦¨ à¦•à§°à¦¾ à¦¨à¦¹à¦¯à¦¼** à¦‡à¦¯à¦¼à¦¾à§° à¦†à¦•à¦¾à§°, à¦¬à¦œà¦¾à§°à§° à¦…à§±à¦¸à§à¦¥à¦¾à¦¨ à¦¬à¦¾ à¦ªà§à§°à¦¯à§à¦•à§à¦¤à¦¿ à¦‰à¦¦à§à¦¯à§‹à¦—à¦¤ à¦ªà§à§°à¦­à¦¾à§± à¦¯à¦¿à¦¯à¦¼à§‡à¦‡ à¦¨à¦¹à¦“à¦• à¦•à¦¿à¦¯à¦¼à¥¤
 
-### স্পষ্ট লিখিত সন্মতি অবিহনে কি অনুমোদিত নহয়:
-- ❌ এই চফ্টৱেৰ বা ইয়াৰ নথিপত্ৰ কপি, পুনৰুত্পাদন বা বিতৰণ কৰক
-- ❌ ডেৰাইভেটিভ ৰচনা পৰিৱৰ্তন, অভিযোজন বা সৃষ্টি কৰা
-- ❌ Nexus Gaja ৰ যিকোনো অংশৰ বাণিজ্যিক ব্যৱহাৰ
-- ❌ ভঁৰালৰ বিষয়বস্তুৰ ব্যৱহাৰ **AI/LLM ব্যৱস্থাপ্ৰণালীৰ বাবে প্ৰশিক্ষণ তথ্য** হিচাপে
-- ❌ তৃতীয় পক্ষলৈ উপলাইচেন্স বা অধিকাৰ হস্তান্তৰ
+### à¦¸à§à¦ªà¦·à§à¦Ÿ à¦²à¦¿à¦–à¦¿à¦¤ à¦¸à¦¨à§à¦®à¦¤à¦¿ à¦…à¦¬à¦¿à¦¹à¦¨à§‡ à¦•à¦¿ à¦…à¦¨à§à¦®à§‹à¦¦à¦¿à¦¤ à¦¨à¦¹à¦¯à¦¼:
+- âŒ à¦à¦‡ à¦šà¦«à§à¦Ÿà§±à§‡à§° à¦¬à¦¾ à¦‡à¦¯à¦¼à¦¾à§° à¦¨à¦¥à¦¿à¦ªà¦¤à§à§° à¦•à¦ªà¦¿, à¦ªà§à¦¨à§°à§à¦¤à§à¦ªà¦¾à¦¦à¦¨ à¦¬à¦¾ à¦¬à¦¿à¦¤à§°à¦£ à¦•à§°à¦•
+- âŒ à¦¡à§‡à§°à¦¾à¦‡à¦­à§‡à¦Ÿà¦¿à¦­ à§°à¦šà¦¨à¦¾ à¦ªà§°à¦¿à§±à§°à§à¦¤à¦¨, à¦…à¦­à¦¿à¦¯à§‹à¦œà¦¨ à¦¬à¦¾ à¦¸à§ƒà¦·à§à¦Ÿà¦¿ à¦•à§°à¦¾
+- âŒ Nexus Gaja à§° à¦¯à¦¿à¦•à§‹à¦¨à§‹ à¦…à¦‚à¦¶à§° à¦¬à¦¾à¦£à¦¿à¦œà§à¦¯à¦¿à¦• à¦¬à§à¦¯à§±à¦¹à¦¾à§°
+- âŒ à¦­à¦à§°à¦¾à¦²à§° à¦¬à¦¿à¦·à¦¯à¦¼à¦¬à¦¸à§à¦¤à§à§° à¦¬à§à¦¯à§±à¦¹à¦¾à§° **AI/LLM à¦¬à§à¦¯à§±à¦¸à§à¦¥à¦¾à¦ªà§à§°à¦£à¦¾à¦²à§€à§° à¦¬à¦¾à¦¬à§‡ à¦ªà§à§°à¦¶à¦¿à¦•à§à¦·à¦£ à¦¤à¦¥à§à¦¯** à¦¹à¦¿à¦šà¦¾à¦ªà§‡
+- âŒ à¦¤à§ƒà¦¤à§€à¦¯à¦¼ à¦ªà¦•à§à¦·à¦²à§ˆ à¦‰à¦ªà¦²à¦¾à¦‡à¦šà§‡à¦¨à§à¦¸ à¦¬à¦¾ à¦…à¦§à¦¿à¦•à¦¾à§° à¦¹à¦¸à§à¦¤à¦¾à¦¨à§à¦¤à§°
 
-### সুৰক্ষিত বৌদ্ধিক সম্পত্তি
-তলত দিয়া মূল ধাৰণাসমূহ জান ফ্ৰিস্কেৰ বাণিজ্যিক গোপনীয়তা আৰু মালিকানাধীন সৃষ্টি হিচাপে সুৰক্ষিত:
-- বহুস্তৰীয় যোগাযোগ মডেল *(মূল / অৰ্থগত ব্যাখ্যা / অনুবাদিত সংস্কৰণ)*
-- পৰিচয় পৃথকীকৰণ নীতি *(ব্যক্তি ≠ ব্যৱহাৰকাৰী একাউণ্ট ≠ পৰিচয় পৰীক্ষণ)*
-- বার্তা-অনুবাদ বিয়োগ মডেল *(বার্তা ≠ অনুবাদ)*
-- এআই মডাৰেচন গভৰ্নেন্স ফ্ৰেমৱৰ্ক
+### à¦¸à§à§°à¦•à§à¦·à¦¿à¦¤ à¦¬à§Œà¦¦à§à¦§à¦¿à¦• à¦¸à¦®à§à¦ªà¦¤à§à¦¤à¦¿
+à¦¤à¦²à¦¤ à¦¦à¦¿à¦¯à¦¼à¦¾ à¦®à§‚à¦² à¦§à¦¾à§°à¦£à¦¾à¦¸à¦®à§‚à¦¹ à¦œà¦¾à¦¨ à¦«à§à§°à¦¿à¦¸à§à¦•à§‡à§° à¦¬à¦¾à¦£à¦¿à¦œà§à¦¯à¦¿à¦• à¦—à§‹à¦ªà¦¨à§€à¦¯à¦¼à¦¤à¦¾ à¦†à§°à§ à¦®à¦¾à¦²à¦¿à¦•à¦¾à¦¨à¦¾à¦§à§€à¦¨ à¦¸à§ƒà¦·à§à¦Ÿà¦¿ à¦¹à¦¿à¦šà¦¾à¦ªà§‡ à¦¸à§à§°à¦•à§à¦·à¦¿à¦¤:
+- à¦¬à¦¹à§à¦¸à§à¦¤à§°à§€à¦¯à¦¼ à¦¯à§‹à¦—à¦¾à¦¯à§‹à¦— à¦®à¦¡à§‡à¦² *(à¦®à§‚à¦² / à¦…à§°à§à¦¥à¦—à¦¤ à¦¬à§à¦¯à¦¾à¦–à§à¦¯à¦¾ / à¦…à¦¨à§à¦¬à¦¾à¦¦à¦¿à¦¤ à¦¸à¦‚à¦¸à§à¦•à§°à¦£)*
+- à¦ªà§°à¦¿à¦šà¦¯à¦¼ à¦ªà§ƒà¦¥à¦•à§€à¦•à§°à¦£ à¦¨à§€à¦¤à¦¿ *(à¦¬à§à¦¯à¦•à§à¦¤à¦¿ â‰  à¦¬à§à¦¯à§±à¦¹à¦¾à§°à¦•à¦¾à§°à§€ à¦à¦•à¦¾à¦‰à¦£à§à¦Ÿ â‰  à¦ªà§°à¦¿à¦šà¦¯à¦¼ à¦ªà§°à§€à¦•à§à¦·à¦£)*
+- à¦¬à¦¾à¦°à§à¦¤à¦¾-à¦…à¦¨à§à¦¬à¦¾à¦¦ à¦¬à¦¿à¦¯à¦¼à§‹à¦— à¦®à¦¡à§‡à¦² *(à¦¬à¦¾à¦°à§à¦¤à¦¾ â‰  à¦…à¦¨à§à¦¬à¦¾à¦¦)*
+- à¦à¦†à¦‡ à¦®à¦¡à¦¾à§°à§‡à¦šà¦¨ à¦—à¦­à§°à§à¦¨à§‡à¦¨à§à¦¸ à¦«à§à§°à§‡à¦®à§±à§°à§à¦•
 
-### যোগাযোগ কৰক
-অনুজ্ঞাপত্ৰৰ অনুসন্ধানৰ বাবে: [github.com/SonnerStudio](https://github.com/SonnerStudio)
+### à¦¯à§‹à¦—à¦¾à¦¯à§‹à¦— à¦•à§°à¦•
+à¦…à¦¨à§à¦œà§à¦žà¦¾à¦ªà¦¤à§à§°à§° à¦…à¦¨à§à¦¸à¦¨à§à¦§à¦¾à¦¨à§° à¦¬à¦¾à¦¬à§‡: [github.com/SonnerStudio](https://github.com/SonnerStudio)
 
-*“নেক্সছ গাজা” আৰু নেক্সছ গাজা ল’গ’ জান ফ্ৰিস্কেৰ ট্ৰেডমাৰ্ক। নাম বা ট্ৰেডমাৰ্কৰ অকৰ্তৃত্বশীল ব্যৱহাৰ নিষিদ্ধ।*
+*â€œà¦¨à§‡à¦•à§à¦¸à¦› à¦—à¦¾à¦œà¦¾â€ à¦†à§°à§ à¦¨à§‡à¦•à§à¦¸à¦› à¦—à¦¾à¦œà¦¾ à¦²â€™à¦—â€™ à¦œà¦¾à¦¨ à¦«à§à§°à¦¿à¦¸à§à¦•à§‡à§° à¦Ÿà§à§°à§‡à¦¡à¦®à¦¾à§°à§à¦•à¥¤ à¦¨à¦¾à¦® à¦¬à¦¾ à¦Ÿà§à§°à§‡à¦¡à¦®à¦¾à§°à§à¦•à§° à¦…à¦•à§°à§à¦¤à§ƒà¦¤à§à¦¬à¦¶à§€à¦² à¦¬à§à¦¯à§±à¦¹à¦¾à§° à¦¨à¦¿à¦·à¦¿à¦¦à§à¦§à¥¤*
 
-➡️ [লাইচেন্স](লাইচেন্স)ত সম্পূৰ্ণ অনুজ্ঞাপত্ৰৰ চৰ্ত
+âž¡ï¸ [à¦²à¦¾à¦‡à¦šà§‡à¦¨à§à¦¸](à¦²à¦¾à¦‡à¦šà§‡à¦¨à§à¦¸)à¦¤ à¦¸à¦®à§à¦ªà§‚à§°à§à¦£ à¦…à¦¨à§à¦œà§à¦žà¦¾à¦ªà¦¤à§à§°à§° à¦šà§°à§à¦¤

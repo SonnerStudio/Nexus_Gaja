@@ -1,4 +1,8 @@
-# ꯅꯦꯛꯁꯁ ꯒꯥꯖꯥ꯫
+﻿# ꯅꯦꯛꯁꯁ ꯒꯥꯖꯥ꯫
+<br>
+<video src="assets/video/Nexus_Gaja_TikTok_EN.mp4" controls width="100%"></video>
+
+
 
 > *ꯏꯟꯇꯔꯅꯦꯁ꯭ꯅꯦꯜ ꯄꯤꯁ ꯑꯃꯁꯨꯡ ꯏꯟꯇꯔꯅꯦꯁ꯭ꯅꯦꯜ ꯑꯟꯗꯔꯁ꯭ꯇꯦꯟꯗꯤꯡꯒꯤꯗꯃꯛ*
 
