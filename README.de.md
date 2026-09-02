@@ -7,7 +7,7 @@
 
 ![Nexus Gaja Hero](assets/img/nexus_hero.jpg)
 <br>
-[![Nexus Gaja Demo](assets/video/Nexus_Gaja_TikTok_thumb.jpg)](https://github.com/SonnerStudio/Nexus_Gaja/raw/main/assets/video/Nexus_Gaja_TikTok.mp4)
+[![Nexus Gaja Demo](assets/video/Nexus_Gaja_TikTok_thumb.jpg)](https://github.com/SonnerStudio/Nexus_Gaja/blob/main/assets/video/Nexus_Gaja_TikTok.mp4)
 
 <details>
 <summary>ðŸŒ Available in 201 Languages & Regions (Click to expand)</summary>
